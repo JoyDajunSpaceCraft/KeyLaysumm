@@ -68,7 +68,13 @@ def generate_bge_file(args):
     assert len(train_list) == len(train_queries)
 
     with open(dump_file, "w") as writein:
-        for train,queries  in zip(train_list, train_queries):
+        if args.fold == "train":
+            data_list = train_list
+            data_query = train_queries
+        else: 
+            data_list = val_list
+            data_query = val_queries
+        for train, queries  in zip(data_list, data_query):
             item = {}
             with open(os.path.join(train_dir, train), "r") as f:
                 train_split = json.load(f)
