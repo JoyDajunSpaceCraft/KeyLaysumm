@@ -66,7 +66,7 @@ class Retriever:
             key_inputs = {k:v.to(self.device) for k, v in key_outputs.items()}
             # scores = model(**inputs, return_dict=True).logits.view(-1, ).float()
             with torch.no_grad():
-                similarity = self.query_model(**inputs, return_dict=True).logits.view(-1, ).float()
+                similarity = self.query_model(query_inputs,key_inputs)
             scores = similarity.flatten().tolist()
             ranking = sorted([(idx, score) for idx, score in enumerate(scores)], key=lambda x: x[1], reverse=True)
             documents = sorted([(doc, score) for doc, score in zip(documents, scores)], key=lambda x: x[1], reverse=True)
