@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "3284977_3",
+            "document": "P element . All P elements have a canonical structure containing 31 bp terminal inverted repeats and 11 bp internal inverted repeats located at THAP domain of the transposase. The shorter and longest P elements are nonautonomous elements. The longest \"P\" elements encode transposase needed for transposition. In hybrid dysgenesis, one strain of \"Drosophila\" mates with another strait of \"Drosophila\" producing hybrid offspring cause chromosomal damage known to be dysgenic. Hybrid dysgenesis requires a contribution from both parents. For example, in the \"P-M system,\" P strain contributing paternal \"and\" M strain contributing maternal. The reverse cross, with M father and P mother, produces normal offspring, as it crosses P x P or M x M manner. P male chromosome can cause dysgenesis when cross with an M female.",
+            "score": 21.110261917114258
+        },
+        {
+            "docid": "3284977_10",
+            "document": "P element . Hybrid dysgenesis manifests when crossing P strain males with M strain females and not when crossing P strain females (females with autonomous P elements) with M strain males. The eggs of P strain females contain high amounts of a repressor protein that prevents transcription of the transposase gene. The eggs of M strain mothers, which do not contain the repressor protein, allow for transposition of P elements from the sperm of fathers. In P strain females, the repressors are found in the cytoplasm. Hence, when P strain males fertilize M strain females (whose cytoplasm contain no repressor), the male contributes its genome with the P element but not the male cytoplasm leading to P strain progeny.",
+            "score": 25.574366807937622
+        },
+        {
+            "docid": "21054623_33",
+            "document": "Mosquito-borne disease . In many insect species, such as \"Drosophila melanogaster\", researchers found that a natural infection with the bacteria strain \"Wolbachia\" \"pipientis\" increases the fitness of the host by increasing resistance to RNA viral infections. Robert L. Glaser and Mark A. Meola investigated \"Wolbachia\"-induced resistance to West Nile virus (WNV) in \"Drosophila melanogaster\" (fruit flies). Two groups of fruit flies were naturally infected with \"Wolbachia.\" Glaser and Meola then cured one group of fruit flies of \"Wolbachia using\" tetracycline. Both the infected group and the cured groups were then infected with WNV. \u00a0Flies infected with \"Wolbachia\" were found to have a changed phenotype that caused resistance to WNV. The phenotype was found to be caused by a \u201cdominant, maternally transmitted, cytoplasmic factor\u201d. The WNV-resistance phenotype was then reversed by curing the fruit flies of \"Wolbachia.\" Since \"Wolbachia\" is also maternally transmitted, it was found that the WNV-resistant phenotype is directly related to the \"Wolbachia\" infection. West Nile virus is transmitted to humans and animals through the Southern house mosquito, \"Culex quinquefasciatus.\" Glaser and Meola knew vector compatibility could be reduced through \"Wolbachia\" infection due to studies done with other species of mosquitoes, mainly, \"Aedes aegypti\". Their goal was to transfer WNV resistance to \"Cx. quinquefasciatus\" by inoculating the embryos of the mosquito with the same strain of \"Wolbachia\" that naturally occurred in the fruit flies. Upon infection, \"Cx. quinquefasciatus\" showed an increased resistance to WNV that was transferable to offspring. The ability to genetically modify mosquitoes in the lab and then have the infected mosquitoes transmit it to their offspring showed that it was possible to transmit the bacteria to wild populations to decrease human infections.",
+            "score": 24.935843229293823
+        },
+        {
+            "docid": "3284977_9",
+            "document": "P element . The hybrid dysgenesis phenotype is affected by the transposition of P elements within the germ-line cells of offspring of \"P strain\" males with \"M strain\" females. Transposition only occurs in germ-line cells, because a splicing event needed to make transposase mRNA does not occur in somatic cells.",
+            "score": 10.777700901031494
+        },
+        {
+            "docid": "50044342_10",
+            "document": "DNA transposon . Bacterial transposons are especially good at facilitating horizontal gene transfer between microbes. The first example of the Mariner transposon was discovered in \"Trichomonas vaginalis\". Transposition facilitates the transfer and accumulation of antibiotic resistance genes. In bacteria, transposable elements can easily jump between the chromosomal genome and plasmids. In a study by Devaud et al. in 1982, a multi-drug resistant strain of \"Acinetobacter\" isolated and examined. Evidence pointed to the transfer of a plasmid in to the bacterium, where the resistance genes were transposed in to the chromosomal genome.",
+            "score": 48.68717122077942
+        },
+        {
+            "docid": "3284977_8",
+            "document": "P element . Hybrid dysgenesis refers to the high rate of mutation in germ line cells of \"Drosophila\" strains resulting from a cross of males with autonomous P elements (P Strain/P cytotype) and females that lack P elements (M Strain/M cytotype). The hybrid dysgenesis syndrome is marked by temperature-dependent sterility, elevated mutation rates, and increased chromosome rearrangement and recombination.",
+            "score": 22.816176414489746
+        },
+        {
+            "docid": "30651_40",
+            "document": "Transposable element . The study conducted in 2008, \"High Rate of Recent Transposable Element\u2013Induced Adaptation in Drosophila melanogaster\", used \"D. melanogaster\" that had recently migrated from Africa to other parts of the world, as a basis for studying adaptations caused by transposable elements. Although most of the TEs were located on introns, the experiment showed the significant difference on gene expressions between the population in Africa and other parts of the world. The four TEs that caused the selective sweep were more prevalent in \"D. melanogaster\" from temperate climates, leading the researchers to conclude that the selective pressures of the climate prompted genetic adaptation. From this experiment, it has been confirmed that adaptive TEs are prevalent in nature, by enabling organisms to adapt gene expression as a result of new selective pressures.",
+            "score": 58.35726547241211
+        },
+        {
+            "docid": "4099290_20",
+            "document": "Transgene . Multiple studies have been conducted concerning transgenesis in \"Drosophila melanogaster\", the fruit fly. This organism has been a helpful genetic model for over 100 years, due to its well-understood developmental pattern. The transfer of transgenes into the \"Drosophila\" genome has been performed using various techniques, including P element, Cre-loxP, and \u03a6C31 insertion. The most practiced method used thus far to insert transgenes into the \"Drosophila\" genome utilizes P elements. The transposable P elements, also known as transposons, are segments of bacterial DNA that are translocated into the genome, without the presence of a complementary sequence in the host\u2019s genome. P elements are administered in pairs of two, which flank the DNA insertion region of interest. Additionally, P elements often consist of two plasmid components, one known as the P element transposase and the other, the P transposon backbone. The transposase plasmid portion drives the transposition of the P transposon backbone, containing the transgene of interest and often a marker, between the two terminal sites of the transposon. Success of this insertion results in the nonreversible addition of the transgene of interest into the genome. While this method has been proven effective, the insertion sites of the P elements are often uncontrollable, resulting in an unfavorable, random insertion of the transgene into the \"Drosophila\" genome.",
+            "score": 58.782798171043396
+        },
+        {
+            "docid": "25162957_6",
+            "document": "Transposons as a genetic tool . There have been many studies conducted transposon based STM, most notably with the P elements in \"Drosophila\". P elements are transposons originally described in \"Drosophila melanogaster\" genome capable of being artificially synthesized or spread to other \"Drosophila\" species through horizontal transfer. In experimental trials, artificially created P elements and transposase genes are inserted into the genomes of \"Drosophila\" embryos. Subsequently, embryos that exhibit mutations have their genomes sequenced and compared, thus revealing the loci that have been affected by insertion and the roles of the loci.,",
+            "score": 57.215861320495605
+        },
+        {
+            "docid": "205624_45",
+            "document": "Horizontal gene transfer . The acquisition of new genes has the potential to disorganize the other genetic elements and hinder the function of the bacterial cell, thus affecting the competitiveness of bacteria. Consequently, bacterial adaptation lies in a conflict between the advantages of acquiring beneficial genes, and the need to maintain the organization of the rest of its genome. Horizontally transferred genes are typically concentrated in only ~1% of the chromosome (in regions called hotspots). This concentration increases with genome size and with the rate of transfer. Hotspots diversify by rapid gene turnover; their chromosomal distribution depends on local contexts (neighboring core genes), and content in mobile genetic elements. Hotspots concentrate most changes in gene repertoires, reduce the trade-off between genome diversification and organization, and should be treasure troves of strain-specific adaptive genes. Most mobile genetic elements and antibiotic resistance genes are in hotspots, but many hotspots lack recognizable mobile genetic elements and exhibit frequent homologous recombination at flanking core genes. Overrepresentation of hotspots with fewer mobile genetic elements in naturally transformable bacteria suggests that homologous recombination and horizontal gene transfer are tightly linked in genome evolution.",
+            "score": 51.00760579109192
+        },
+        {
+            "docid": "205624_20",
+            "document": "Horizontal gene transfer . Horizontal gene transfer is common among bacteria, even among very distantly related ones. This process is thought to be a significant cause of increased drug resistance when one bacterial cell acquires resistance, and the resistance genes are transferred to other species. Transposition and horizontal gene transfer, along with strong natural selective forces have led to multi-drug resistant strains of \"S. aureus\" and many other pathogenic bacteria. Horizontal gene transfer also plays a role in the spread of virulence factors, such as exotoxins and exoenzymes, amongst bacteria. A prime example concerning the spread of exotoxins is the adaptive evolution of Shiga toxins in \"E. coli\" through horizontal gene transfer via transduction with \"Shigella\" species of bacteria. Strategies to combat certain bacterial infections by targeting these specific virulence factors and mobile genetic elements have been proposed. For example, horizontally transferred genetic elements play important roles in the virulence of \"E. coli\", \"Salmonella\", \"Streptococcus\" and \"Clostridium perfringens\".",
+            "score": 41.16725444793701
+        },
+        {
+            "docid": "205624_15",
+            "document": "Horizontal gene transfer . HTT can occur with any type of transposable elements, but DNA transposons and LTR retroelements are more likely to be capable of HTT because both have a stable, double-stranded DNA intermediate that is thought to be sturdier than the single-stranded RNA intermediate of non-LTR retroelements, which can be highly degradable. Non-autonomous elements may be less likely to transfer horizontally compared to autonomous elements because they do not encode the proteins required for their own mobilization. The structure of these non-autonomous elements generally consists of an intronless gene encoding a transposase protein, and may or may not have a promoter sequence. Those that do not have promoter sequences encoded within the mobile region rely on adjacent host promoters for expression. Horizontal transfer is thought to play an important role in the TE life cycle.",
+            "score": 37.61696481704712
+        },
+        {
+            "docid": "6476284_3",
+            "document": "Insertional mutagenesis . This is a technique used to study the function of genes. A transposon such as the P element of \"Drosophila melanogaster\" is allowed to integrate at random locations in the genome of the organism being studied. Mutants generated by this method are then screened for any unusual phenotypes. If such a phenotype is found then it can be assumed that the insertion has caused the gene relating to the usual phenotype to be inactivated. Because the sequence of the transposon is known, the gene can be identified, either by sequencing the whole genome and searching for the sequence, or using the polymerase chain reaction to amplify specifically that gene.",
+            "score": 41.14615297317505
+        },
+        {
+            "docid": "1728034_2",
+            "document": "Complementation (genetics) . In genetics, complementation occurs when two strains of an organism with different homozygous recessive mutations that produce the same mutant phenotype (for example, a change in wing structure in flies) produce offspring with the wild-type phenotype when mated or crossed. Complementation will occur only if the mutations are in different genes. In this case, each strain's genome supplies the wild-type allele to \"complement\" the mutated allele of the other strain's genome. Since the mutations are recessive, the offspring will display the wild-type phenotype. A complementation test (sometimes called a \"cis-trans\" test) can be used to test whether the mutations in two strains are in different genes. Complementation will not occur if the mutations are in the same gene. The convenience and essence of this test is that the mutations that produce a phenotype can be assigned to different genes without the exact knowledge of what the gene product is doing on a molecular level. The complementation test was developed by American geneticist Edward B. Lewis.",
+            "score": 27.409541368484497
+        },
+        {
+            "docid": "39042642_16",
+            "document": "Cycle (gene) . A \"cyc\" mutant strain is available from Bloomington Drosophila Stock Center at Indiana University. The \"cyc\" mutant strain is the result of a p-transposable element insertion. No information about the phenotype is publicly available.",
+            "score": 38.63297247886658
+        },
+        {
+            "docid": "19372852_7",
+            "document": "MecA (gene) . The mecA gene is contained on a mobile gene element, called the staphylococcal cassette chromosome mec, from which the gene can undergo horizontal gene transfer and insert itself into the host species, which can be any species in the genus \"Staphylococcus\". This DNA cassette is a 52 kilobase piece of DNA, that contains the mecA gene, and two recombinase genes, \"ccrA\" and \"ccrB,\" which the plasmid uses to insert itself into the genome of the host. These recombinases are essential for the proper insertion of the mecA complex into the host genome. Multiple variants of these genes have been isolated from resistant strains of \"S. aureus\", but all of the variants have similar function and the same insertion site, near the host DNA origin of replication. The mecA gene also forms a complex with two regulatory units, mecI and mecR1. These two genes have the capability to repress mecA, deletions or knock-outs in these genes show an increase in resistance of \"S. aureus\" to methicillin. The \"S. aureus\" strains isolated from humans either lack these regulatory elements, or contain mutations in these genes that cause a loss of function of the protein products that inhibit mecA. This in turn, causes mecA to be constitutive transcription of the mecA. This cassette chromosome shows the ability to move across species. Two other \"Staphylococci\" species, \"S.epidermidis\" and \"S.haemolyticus,\" show conservation in this insertion site, but it is not limited to the mecA gene, but also other non-essential genes that can be carried by the cassette chromosome.",
+            "score": 44.413053035736084
+        },
+        {
+            "docid": "3692001_2",
+            "document": "Insertion sequence . Insertion element \" (also known as an IS, an insertion sequence element, or an IS element) \" is a short DNA sequence that acts as a simple transposable element. Insertion sequences have two major characteristics: they are small relative to other transposable elements (generally around 700 to 2500 bp in length) and only code for proteins implicated in the transposition activity (they are thus different from other transposons, which also carry accessory genes such as antibiotic resistance genes). These proteins are usually the transposase which catalyses the enzymatic reaction allowing the IS to move, and also one regulatory protein which either stimulates or inhibits the transposition activity. The coding region in an insertion sequence is usually flanked by inverted repeats. For example, the well-known IS\"911\" (1250 bp) is flanked by two 36bp inverted repeat extremities and the coding region has two genes partially overlapping \"orfA\" and \"orfAB\", coding the transposase (OrfAB) and a regulatory protein (OrfA). A particular insertion sequence may be named according to the form IS\"n\", where \"n\" is a number (e.g. IS\"1\", IS\"2\", IS\"3\", IS\"10\", IS\"50\", IS\"911\", IS\"26\" etc.); this is not the only naming scheme used, however. Although insertion sequences are usually discussed in the context of prokaryotic genomes, certain eukaryotic DNA sequences belonging to the family of Tc1/\"mariner\" transposable elements may be considered to be, insertion sequences. In addition to occurring autonomously, insertion sequences may also occur as parts of composite transposons; in a composite transposon, two insertion sequences flank one or more accessory genes, such as an antibiotic resistance gene (e.g. Tn10, Tn\"5\"). Nevertheless, there exist another sort of transposons, called unit transposons, that do not carry insertion sequences at their extremities (e.g. Tn\"7\").",
+            "score": 48.60324692726135
+        },
+        {
+            "docid": "42671200_4",
+            "document": "Epigenetic regulation of transposable elements in the plant kingdom . Also known as retrotransposons, these employ a strategy of self-copying via RNA transcriptase and subsequently inserting themselves into a new site within the host genome. The presence or absence of transcriptase (the enzyme which allows for self-copying) within the coding of the transposon defines class I elements as autonomous or non-autonomous. Class I transposons can take the form of: Curiously, retrotransposons have been discovered to be the predominant form of transpositional element in plants with large genomes, such as maize and wheat, potentially indicating rapid success of this class of transposon in the creation of hybrids, such as wheat, peppermint and, in the distant past, maize. Plant hybridization often creates polyploids, with double, triple, quadruple or more the number of chromosomes present in the parent generation. Polyploid hybrids seem to be particularly susceptible to genetic intrusion by retrotransposons, as supported by a study in sunflower hybridization, which showed that the hybridized flowers possessed genomes that were about 50% larger than that of their parents, with the majority of this increase linked to the amplification of a single retrotransposon class",
+            "score": 43.13382339477539
+        },
+        {
+            "docid": "50044342_2",
+            "document": "DNA transposon . DNA transposons (also called Class II elements) are a group of transposable elements (TEs) that can move in the DNA of an organism via a single- or double-stranded DNA intermediate. DNA transposons have been found in both prokaryotic and eukaryotic organisms. They can make up a significant portion of an organisms genome, particularly in eukaryotes. In prokaryotes, TE's can facilitate the horizontal transfer of antibiotic resistance or other genes associated with virulence.",
+            "score": 54.489760637283325
+        },
+        {
+            "docid": "2374688_8",
+            "document": "Evolutionary capacitance . The hypothesis that chaperones can act as evolutionary capacitors is closely associated with the heat shock protein Hsp90. When Hsp90 is downregulated in the fruit fly \"Drosophila melanogaster\", a broad range of different phenotypes are seen, where the identity of the phenotype depends on the genetic background. This was thought to prove that the new phenotypes depended on pre-existing cryptic genetic variation that had merely been revealed. More recent evidence suggests that these data might be explained by new mutations caused by the reactivation of formally dormant transposable elements. However, this finding regarding transposable elements may be dependent on the strong nature of the Hsp90 knockdown used in that experiment.",
+            "score": 45.05686068534851
+        },
+        {
+            "docid": "3284977_2",
+            "document": "P element . P elements are transposable elements that were discovered in \"Drosophila\" as the causative agents of genetic traits called hybrid dysgenesis. The transposon is responsible for P trait of P element and it is found only in wild flies.",
+            "score": 41.802796840667725
+        },
+        {
+            "docid": "37879288_6",
+            "document": "Transposon silencing . P elements are a family of transposons that recently proliferated within the genome of \"Drosophila melanogaster\". The P elements have an extremely high transposition rate and induce sterility and abnormal gonad development in \"D. melanogaster\" (Johnson, 2). The flies thus developed a maternally inherited technique for combating the invasive DNA and silencing the transposons, now known as P cytotype. P cytotype detects DNA sequences in areas of telomeric heterochromatin and silences those sequences when they are found elsewhere in the genome. This is referred to as the telomeric-silencing effect (TSE) (2). Just two P elements in the telomere are enough to suppress over 80 other copies of the P element in the genome. The cytoplasmic factor used for TSE builds up over generations and suppression of the transposons is not fully effective unless the fly\u2019s female-line ancestors have had the P element for six generations (2).",
+            "score": 46.25907278060913
+        },
+        {
+            "docid": "42671200_8",
+            "document": "Epigenetic regulation of transposable elements in the plant kingdom . Though the effects of transposition can sometimes manifest phenotypically, and indeed, this effect led to their discovery, transposons can be difficult for the cellular machinery to detect. Many TEs contain stretches of genuine coding DNA, copied from the host, and there is no distinct structure, code, or identifying characteristic of any kind that would allow a cell to recognize the full range of transposable elements with accuracy. Even besides coding for functional proteins or RNAs, some transposons, like class II elements, contain code copied from the nearby strand, allowing them to blend in. Given that the preceding is true, it must be that transposons are recognized more by their effect than their structure. Thus, cell machinery, as detailed in the next section, exists that is capable of detecting transcripts that are atypical of host genomes, such as: and, more specifically:",
+            "score": 55.11199426651001
+        },
+        {
+            "docid": "205624_13",
+            "document": "Horizontal gene transfer . A transposable element (TE) (also called a transposon or jumping gene) is a mobile segment of DNA that can sometimes pick up a resistance gene and insert it into a plasmid or chromosome, thereby inducing horizontal gene transfer of antibiotic resistance.",
+            "score": 39.461169719696045
+        },
+        {
+            "docid": "23173149_39",
+            "document": "Staphylococcus . The widespread incidence of antibiotic resistance across various strains of \"S. aureus\", or across different species of \"Staphylococcus\" has been attributed to horizontal gene transfer of genes encoding antibiotic/metal resistance and virulence. A recent study demonstrated the extent of horizontal gene transfer among \"Staphylococcus\" to be much greater than previously expected, and encompasses genes with functions beyond antibiotic resistance and virulence, and beyond genes residing within the mobile genetic elements.",
+            "score": 25.214897632598877
+        },
+        {
+            "docid": "173204_43",
+            "document": "Drosophila melanogaster . It is now relatively simple to generate transgenic flies in Drosophila, relying on a variety of techniques. One approach of inserting foreign genes into the \"Drosophila\" genome involves P elements. The transposable P elements, also known as transposons, are segments of bacterial DNA that are transferred into the fly genome. Transgenic flies have already contributed to many scientific advances, e.g., modeling such human diseases as Parkinson's, neoplasia, obesity, and diabetes.",
+            "score": 65.74000644683838
+        },
+        {
+            "docid": "205624_14",
+            "document": "Horizontal gene transfer . Horizontal transposon transfer (HTT) refers to the passage of pieces of DNA that are characterized by their ability to move from one locus to another between genomes by means other than parent-to-offspring inheritance. Horizontal gene transfer has long been thought to be crucial to prokaryotic evolution, but there is a growing amount of data showing that HTT is a common and widespread phenomenon in eukaryote evolution as well. On the transposable element side, spreading between genomes via horizontal transfer may be viewed as a strategy to escape purging due to purifying selection, mutational decay and/or host defense mechanisms.",
+            "score": 57.43712019920349
+        },
+        {
+            "docid": "30931454_8",
+            "document": "Conserved non-coding sequence . There are different theories explaining the conservation of transposable elements. One holds that, like pseudogenes, they provide a source of new genetic material, allowing for faster adaptation to changes in the environment. A simpler alternative is that, because eukaryotic genomes may have no means to prevent the proliferation of transposable elements, they are free to accumulate as long as they are not inserted into or near a gene in such a way that they would disrupt essential functions. A recent study showed that transposons contribute at least 16% of the eutherian-specific CNSs, marking them as a \"major creative force\" in the evolution of gene regulation in mammals. There are three major classes of transposable elements, distinguished by the mechanisms by which they proliferate.",
+            "score": 56.671064376831055
+        },
+        {
+            "docid": "33905720_2",
+            "document": "SCCmec . SCC\"mec, or staphylococcal cassette chromosome \"mec, is a mobile genetic element of \"Staphylococcus\" bacterial species. This genetic sequence includes the \"mecA\" gene coding for resistance to the antibiotic methicillin and is the only known way for \"Staphylococcus\" strains to spread the gene in the wild by horizontal gene transfer.",
+            "score": 35.008079051971436
+        },
+        {
+            "docid": "10487520_9",
+            "document": "Ehrlichia . The evolutionary changes in the outer membrane proteins have led to the emergence of new strains which can infect a larger variety of hosts. Heartwater, caused by \"Ehrlichia\" ruminantium, is a prevalent tick-borne disease of livestock in Africa and the Caribbean but also threatens the American mainland. Three strains have arisen from this species due to evolutionary change in their genomes. When sequencing their genomes, there were many active genomic modifications such as high substitution rates, truncated genes, and the presence of pseudogenes and tandem repeats. When analyzing substitution rates between the three strains in 888 orthologous coding DNA sequences, it was observed that there were only 3 coding DNA sequences that were biased towards non-synonymous substitutions that affect phenotype. In contrast, 181 coding DNA sequences were biased towards synonymous substitutions which do not affect phenotype. This indicates that there was a selection pressure to maintain protein function, and this selection acted against the non-synonymous mutations.",
+            "score": 25.505779266357422
+        },
+        {
+            "docid": "1805_23",
+            "document": "Antibiotic . Several molecular mechanisms of antibacterial resistance exist. Intrinsic antibacterial resistance may be part of the genetic makeup of bacterial strains. For example, an antibiotic target may be absent from the bacterial genome. Acquired resistance results from a mutation in the bacterial chromosome or the acquisition of extra-chromosomal DNA. Antibacterial-producing bacteria have evolved resistance mechanisms that have been shown to be similar to, and may have been transferred to, antibacterial-resistant strains. The spread of antibacterial resistance often occurs through vertical transmission of mutations during growth and by genetic recombination of DNA by horizontal genetic exchange. For instance, antibacterial resistance genes can be exchanged between different bacterial strains or species via plasmids that carry these resistance genes. Plasmids that carry several different resistance genes can confer resistance to multiple antibacterials. Cross-resistance to several antibacterials may also occur when a resistance mechanism encoded by a single gene conveys resistance to more than one antibacterial compound.",
+            "score": 36.33991050720215
+        },
+        {
+            "docid": "46968364_42",
+            "document": "Inferring horizontal gene transfer . A group of orthologous or homologous genes can be analysed in terms of the presence or absence of group members in the reference genomes; such patterns are called phylogenetic profiles. To find HGT events, phylogenetic profiles are scanned for an unusual distribution of genes. Absence of a homolog in some members of a group of closely related species is an indication that the examined gene might have arrived via an HGT event. For example, the three facultatively symbiotic \"Frankia sp.\" strains are of strikingly different sizes: 5.43 Mbp, 7.50 Mbp and 9.04 Mbp, depending on their range of hosts. Marked portions of strain-specific genes were found to have no significant hit in the reference database, and were possibly acquired by HGT transfers from other bacteria. Similarly, the three phenotypically diverse \"Escherichia coli\" strains (uropathogenic, enterohemorrhagic and benign) share about 40% of the total combined gene pool, with the other 60% being strain-specific genes and consequently HGT candidates. Further evidence for these genes resulting from HGT was their strikingly different codon usage patterns from the core genes and a lack of gene order conservation (order conservation is typical of vertically evolved genes). The presence/absence of homologs (or their effective count) can thus be used by programs to reconstruct the most likely evolutionary scenario along the species tree. Just as with reconciliation methods, this can be achieved through parsimonious or probabilistic estimation of the number of gain and loss events. Models can be complexified by adding processes, like the truncation of genes, but also by modelling the heterogeneity of rates of gain and loss across lineages and/or gene families.",
+            "score": 35.23550796508789
+        }
+    ],
+    "r": [
+        {
+            "docid": "176052_14",
+            "document": "Molecular evolution . Selection can operate at the gene level at the expense of organismal fitness, resulting in a selective advantage for selfish genetic elements in spite of a host cost. Examples of such selfish elements include transposable elements, meiotic drivers, killer X chromosomes, selfish mitochondria, and self-propagating introns. (See Intragenomic conflict.)",
+            "score": 66.04166412353516
+        },
+        {
+            "docid": "173204_43",
+            "document": "Drosophila melanogaster . It is now relatively simple to generate transgenic flies in Drosophila, relying on a variety of techniques. One approach of inserting foreign genes into the \"Drosophila\" genome involves P elements. The transposable P elements, also known as transposons, are segments of bacterial DNA that are transferred into the fly genome. Transgenic flies have already contributed to many scientific advances, e.g., modeling such human diseases as Parkinson's, neoplasia, obesity, and diabetes.",
+            "score": 65.74000549316406
+        },
+        {
+            "docid": "42671200_2",
+            "document": "Epigenetic regulation of transposable elements in the plant kingdom . Transposable elements (transposons, TEs, 'jumping genes') are short strands of repetitive DNA that can self-replicate and translocate within the eukaryotic genome, and are generally perceived as parasitic in nature. Their transcription can lead to the production of dsRNAs (double-stranded RNAs), which resemble retroviruses transcripts. While most host cellular RNA has a singular, unpaired sense strand, dsRNA possesses sense and anti-sense transcripts paired together, and this difference in structure allows an host organism to detect dsRNA production, and thereby the presence of transposons. Plants lack distinct divisions between somatic cells and reproductive cells, and also have, generally, larger genomes than animals, making them an intriguing case-study kingdom to be used in attempting to better understand the epigenetics function of transposable elements.",
+            "score": 65.32083129882812
+        },
+        {
+            "docid": "30651_26",
+            "document": "Transposable element . TEs are found in almost all life forms, and the scientific community is still exploring their evolution and their effect on genome evolution. It is unclear whether TEs originated in the last universal common ancestor, arose independently multiple times, or arose once and then spread to other kingdoms by horizontal gene transfer. While some TEs confer benefits on their hosts, most are regarded as selfish DNA parasites. In this way, they are similar to viruses. Various viruses and TEs also share features in their genome structures and biochemical abilities, leading to speculation that they share a common ancestor.",
+            "score": 65.000732421875
+        },
+        {
+            "docid": "23838716_2",
+            "document": "Helitron (biology) . Helitrons are one of the three groups of eukaryotic class 2 transposable elements (TEs) so far described. They are the eukaryotic rolling-circle transposable elements which are hypothesized to transpose by a rolling circle replication mechanism via a single-stranded DNA intermediate. They were first discovered in plants (\"Arabidopsis thaliana\" and \"Oryza sativa\") and in the nematode \"Caenorhabditis elegans\", and now they have been identified in a diverse range of species, from protists to mammals. Helitrons make up a substantial fraction of many genomes where non-autonomous elements frequently outnumber the putative autonomous partner. Helitrons seem to have a major role in the evolution of host genomes. They frequently capture diverse host genes, some of which can evolve into novel host genes or become essential for Helitron transposition.",
+            "score": 64.9605941772461
+        },
+        {
+            "docid": "3603126_2",
+            "document": "Genetic Information Research Institute . The Genetic Information Research Institute (GIRI) is a non-profit institution that was founded in 1994 by Jerzy Jurka. The mission of the institute \"is to understand biological processes which alter the genetic makeup of different organisms, as a basis for potential gene therapy and genome engineering techniques.\" The institute specializes in applying computer tools to analysis of DNA and protein sequence information. GIRI develops and maintains Repbase Update, a database of prototypic sequences representing repetitive DNA from different eukaryotic species, and Repbase Reports, an electronic journal established in 2001 . Repetitive DNA is primarily derived from transposable elements (TEs), which include DNA transposons belonging to around 20 superfamilies and retrotransposons that can also be sub-classified into subfamilies . The majority of known superfamilies of DNA transposons were discovered or co-discovered at GIRI, including Helitron (biology), \"Academ, Dada, Ginger, Kolobok, Novosib, Sola, Transib, Zator, PIF/Harbinger\" and \"Polinton/Maverick\". An ancient element from the \"Transib\" superfamily was identified as the evolutionary precursor of the Recombination activating gene. GIRI has hosted three international conferences devoted to the genomic impact of eukaryotic transposable elements .",
+            "score": 62.3807487487793
+        },
+        {
+            "docid": "25162957_2",
+            "document": "Transposons as a genetic tool . Transposons are semi-parasitic DNA sequences which can replicate and spread through the host's genome. They can be harnessed as a genetic tool for analysis of gene and protein function. The use of transposons is well-developed in \"Drosophila\" (in which P elements are most commonly used) and in Thale cress (\"Arabidopsis thaliana\") and bacteria such as \"Escherichia coli\" (\"E. coli\"\u00a0).",
+            "score": 62.03125
+        },
+        {
+            "docid": "176052_18",
+            "document": "Molecular evolution . Transposable elements are self-replicating, selfish genetic elements which are capable of proliferating within host genomes. Many transposable elements are related to viruses, and share several proteins in common.",
+            "score": 61.77116012573242
+        },
+        {
+            "docid": "5317859_6",
+            "document": "Susan R. Wessler . Her research focuses on identifying plant transposable elements and determining how they contribute to gene and genome evolution. Her work has deciphered how transposable elements generate genetic diversity and attain high copy numbers without killing their host. Her laboratory demonstrated that elements could function as introns and that retrotransposons are the major cause of spontaneous insertion mutations in maize. In the genomics era her laboratory pioneered the computational analysis of transposable elements, culminating in the discovery of miniature inverted repeat transposable elements (MITEs), the element most frequently associated with plant genes. As a Howard Hughes Medical Institute (HHMI) Professor, Wessler adapted her research program for the classroom by developing the Dynamic Genome Program where incoming freshmen experience the excitement of scientific discovery.",
+            "score": 61.59311294555664
+        },
+        {
+            "docid": "41502227_11",
+            "document": "Ac/Ds transposable controlling elements . As Ac copy number increases, the expression of genes flanking the Ds promoter insertion are negatively regulated, which is called the negative dosage effect.Ds flanking gene expression is inhibited in the presence of the autonomous Ac element.As the Ac element copy number increases, transposition events that require Ac occur at a later time during endosperm development. Ac causes no or few chromosome breaks.\u00a0 In the absence of Ac, Ds caused mutations are stable. By identifying alleles that suppress the Ac element they could be used for functional genomics studies. The properties of transposable elements can also be altered in a clonally heritable fashion. Ds elements can be used as building blocks for complicated structures like the double Ds or the 30kb transposon-like insertion which is terminated by Ds elements.Ds elements can generate long direct inverted duplicates of a chromosome segment, indicating that Ds elements are able to mobilize DNA sequences unrelated to themselves, this can provide a mechanism for rearrangement of genetic information. Since small duplication of host DNA created by the insertion of the elements are left over in a slightly altered form after excision of the transposable element, they may indicate that plant transposable elements play a role in the evolution of genes.",
+            "score": 60.66173553466797
+        },
+        {
+            "docid": "367077_2",
+            "document": "Alu element . An Alu element is a short stretch of DNA originally characterized by the action of the \"Arthrobacter luteus (Alu)\" restriction endonuclease. \"Alu\" elements are the most abundant transposable elements, containing over one million copies dispersed throughout the human genome. \"Alu\" elements are also known as selfish or parasitic genes, because their sole function is self reproduction. They are derived from the small cytoplasmic 7SL RNA, a component of the signal recognition particle. \"Alu\" elements are highly conserved within primate genomes and originated in the genome of an ancestor of Supraprimates.",
+            "score": 60.661216735839844
+        },
+        {
+            "docid": "617379_5",
+            "document": "Retrotransposon . The retrotransposons' replicative mode of transposition by means of an RNA intermediate rapidly increases the copy numbers of elements and thereby can increase genome size. Like DNA transposable elements (class II transposons), retrotransposons can induce mutations by inserting near or within genes. Furthermore, retrotransposon-induced mutations are relatively stable, because the sequence at the insertion site is retained as they transpose via the replication mechanism. Retrotransposons copy themselves to RNA and then back to DNA that may integrate back to the genome. The second step of forming DNA may be carried out by a reverse transcriptase, which the retrotransposon encodes. Transposition and survival of retrotransposons within the host genome are possibly regulated both by retrotransposon- and host-encoded factors, to avoid deleterious effects on host and retrotransposon as well. The understanding of how retrotransposons and their hosts' genomes have co-evolved mechanisms to regulate transposition, insertion specificities, and mutational outcomes in order to optimize each other's survival is still in its infancy.",
+            "score": 60.0687255859375
+        },
+        {
+            "docid": "50430120_8",
+            "document": "Short interspersed nuclear elements (SINEs) . The activity of SINEs however has genetic vestiges which do not seem to play a significant role, positive or negative, and manifest themselves in the genome as pseudogenes. SINEs however should not be mistaken as RNA pseudogenes. In general, pseudogenes are generated when processed mRNAs of protein-coding genes are reverse-transcribed and incorporated back into the genome (RNA pseudogenes are reverse transcribed RNA genes). Pseudogenes are generally functionless as they descend from processed RNAs independent of their evolutionary-context which includes introns and different regulatory elements which enable transcription and processing. These pseudogenes, though non-functional may in some cases still possess promoters, CpG islands, and other features which enable transcription; they thus can still be transcribed and may possess a role in the regulation of gene expression (like SINEs and other non-coding elements). Pseudogenes thus differ from SINEs in that they are derived from transcribed- functional RNA whereas SINEs are DNA elements which retrotranspose by co-opting RNA genes transcriptional machinery. However, there are studies which suggest that retro-transposable elements such as short-interspersed nuclear elements are not only capable of copying themselves in alternate regions in the genome but are also able to do so for random genes too. Thus SINEs can be playing a vital role in the generation of pseudogenes, which themselves are known to be involved in regulatory networks. This is perhaps another means by which SINEs have been able to influence and contribute to gene-regulation.",
+            "score": 59.346832275390625
+        },
+        {
+            "docid": "4110763_20",
+            "document": "Extrachromosomal DNA . Sometimes called EEs, extrachromosomal elements, have been associated with genomic instability in eukaryotes. Small polydispersed DNAs (spcDNAs) are commonly found in conjunction with genome instability. SpcDNAs are derived from repetitive sequences such as satellite DNA, retrovirus-like DNA elements, and transposable elements in the genome. They are thought to be the products of gene rearrangements. Double minute chromosomes (DMs) are also extrachromosomal elements that are associated with genome instability. DMs are commonly seen in cancer cells. DMs are thought to be produced through breakages in chromosomes or overreplication of DNA in an organism. Studies show that in cases of cancer and other genomic instability, higher levels of EEs can be observed.",
+            "score": 58.89533615112305
+        },
+        {
+            "docid": "4099290_20",
+            "document": "Transgene . Multiple studies have been conducted concerning transgenesis in \"Drosophila melanogaster\", the fruit fly. This organism has been a helpful genetic model for over 100 years, due to its well-understood developmental pattern. The transfer of transgenes into the \"Drosophila\" genome has been performed using various techniques, including P element, Cre-loxP, and \u03a6C31 insertion. The most practiced method used thus far to insert transgenes into the \"Drosophila\" genome utilizes P elements. The transposable P elements, also known as transposons, are segments of bacterial DNA that are translocated into the genome, without the presence of a complementary sequence in the host\u2019s genome. P elements are administered in pairs of two, which flank the DNA insertion region of interest. Additionally, P elements often consist of two plasmid components, one known as the P element transposase and the other, the P transposon backbone. The transposase plasmid portion drives the transposition of the P transposon backbone, containing the transgene of interest and often a marker, between the two terminal sites of the transposon. Success of this insertion results in the nonreversible addition of the transgene of interest into the genome. While this method has been proven effective, the insertion sites of the P elements are often uncontrollable, resulting in an unfavorable, random insertion of the transgene into the \"Drosophila\" genome.",
+            "score": 58.782798767089844
+        },
+        {
+            "docid": "30651_40",
+            "document": "Transposable element . The study conducted in 2008, \"High Rate of Recent Transposable Element\u2013Induced Adaptation in Drosophila melanogaster\", used \"D. melanogaster\" that had recently migrated from Africa to other parts of the world, as a basis for studying adaptations caused by transposable elements. Although most of the TEs were located on introns, the experiment showed the significant difference on gene expressions between the population in Africa and other parts of the world. The four TEs that caused the selective sweep were more prevalent in \"D. melanogaster\" from temperate climates, leading the researchers to conclude that the selective pressures of the climate prompted genetic adaptation. From this experiment, it has been confirmed that adaptive TEs are prevalent in nature, by enabling organisms to adapt gene expression as a result of new selective pressures.",
+            "score": 58.35726547241211
+        },
+        {
+            "docid": "11237888_16",
+            "document": "Genome survey sequence . At first, T-DNA was applied for insertional mutagenesis. However, using transposable element can bring more advantages. Transposable elements were first discovered by Barbara McClintock in maize plants. She identified the first transposable genetic element, which she called the Dissociation (Ds) locus. The size of transposable element is between 750 and 40000bp. Transposable element can be mainly classified as two classes: One class is very simple, called insertion sequence (IS), the other class is complicated, called transposon. Transposon has one or several characterized genes, which can be easily identified. IS has the gene of transposase.",
+            "score": 58.21364974975586
+        },
+        {
+            "docid": "23366462_92",
+            "document": "Insect . Insects play important roles in biological research. For example, because of its small size, short generation time and high fecundity, the common fruit fly \"Drosophila melanogaster\" is a model organism for studies in the genetics of higher eukaryotes. \"D. melanogaster\" has been an essential part of studies into principles like genetic linkage, interactions between genes, chromosomal genetics, development, behavior and evolution. Because genetic systems are well conserved among eukaryotes, understanding basic cellular processes like DNA replication or transcription in fruit flies can help to understand those processes in other eukaryotes, including humans. The genome of \"D. melanogaster\" was sequenced in 2000, reflecting the organism's important role in biological research. It was found that 70% of the fly genome is similar to the human genome, supporting the evolution theory.",
+            "score": 58.19940948486328
+        },
+        {
+            "docid": "30651_2",
+            "document": "Transposable element . A transposable element (TE or transposon) is a DNA sequence that can change its position within a genome, sometimes creating or reversing mutations and altering the cell's genetic identity and genome size. Transposition often results in duplication of the same genetic material. Barbara McClintock's discovery of these jumping genes earned her a Nobel Prize in 1983.",
+            "score": 58.1838493347168
+        },
+        {
+            "docid": "9018536_2",
+            "document": "Repeatome . The Repeatome can be defined as the complement of repeated sequences in a genome. The eukaryotic repeatomes typically comprise variable amounts of multiple components including transposable elements (TEs) and endogenous viruses, simple sequence repeats, segmental duplications, ribosomal DNA and other ribozymes, multi-copy gene families, pseudogenes, as well as highly conserved and repeated protein domains. Because of their relative high duplication rate as compared to other genomic components, TEs are typically predominant contributors to eukaryotic repeatomes and the product of their decay is thought to be a major source of genomic dark matter.",
+            "score": 58.070220947265625
+        },
+        {
+            "docid": "30651_3",
+            "document": "Transposable element . Transposable elements make up a large fraction of the genome and are responsible for much of the mass of DNA in a eukaryotic cell. It has been shown that TEs are important in genome function and evolution. In \"Oxytricha\", which has a unique genetic system, these elements play a critical role in development. Transposons are also very useful to researchers as a means to alter DNA inside a living organism.",
+            "score": 57.755104064941406
+        },
+        {
+            "docid": "205624_14",
+            "document": "Horizontal gene transfer . Horizontal transposon transfer (HTT) refers to the passage of pieces of DNA that are characterized by their ability to move from one locus to another between genomes by means other than parent-to-offspring inheritance. Horizontal gene transfer has long been thought to be crucial to prokaryotic evolution, but there is a growing amount of data showing that HTT is a common and widespread phenomenon in eukaryote evolution as well. On the transposable element side, spreading between genomes via horizontal transfer may be viewed as a strategy to escape purging due to purifying selection, mutational decay and/or host defense mechanisms.",
+            "score": 57.43711853027344
+        },
+        {
+            "docid": "42888_43",
+            "document": "Human genome . Transposable genetic elements, DNA sequences that can replicate and insert copies of themselves at other locations within a host genome, are an abundant component in the human genome. The most abundant transposon lineage, \"Alu\", has about 50,000 active copies, and can be inserted into intragenic and intergenic regions. One other lineage, LINE-1, has about 100 active copies per genome (the number varies between people). Together with non-functional relics of old transposons, they account for over half of total human DNA. Sometimes called \"jumping genes\", transposons have played a major role in sculpting the human genome. Some of these sequences represent endogenous retroviruses, DNA copies of viral sequences that have become permanently integrated into the genome and are now passed on to succeeding generations.",
+            "score": 57.368412017822266
+        },
+        {
+            "docid": "25162957_6",
+            "document": "Transposons as a genetic tool . There have been many studies conducted transposon based STM, most notably with the P elements in \"Drosophila\". P elements are transposons originally described in \"Drosophila melanogaster\" genome capable of being artificially synthesized or spread to other \"Drosophila\" species through horizontal transfer. In experimental trials, artificially created P elements and transposase genes are inserted into the genomes of \"Drosophila\" embryos. Subsequently, embryos that exhibit mutations have their genomes sequenced and compared, thus revealing the loci that have been affected by insertion and the roles of the loci.,",
+            "score": 57.21586227416992
+        },
+        {
+            "docid": "526719_14",
+            "document": "Gene family . Gene members of a multigene family or multigene families within superfamilies exist on different chromosomes due to relocation of those genes after duplication of the ancestral gene. Transposable elements play a role in the movement of genes. Transposable elements are recognized by inverted repeats at their 5' and 3' ends. When two transposable elements are close enough in the same region on a chromosome, they can form a composite transposon. The protein transposase recognizes the outermost inverted repeats, cutting the DNA segment. Any genes between the two transposable elements are relocated as the composite transposon jumps to a new area of the genome.",
+            "score": 57.07704162597656
+        },
+        {
+            "docid": "30967636_11",
+            "document": "Genome evolution . Transposable elements are regions of DNA that can be inserted into the genetic code through one of two mechanisms. These mechanisms work similarly to \"cut-and-paste\" and \"copy-and-paste\" functionalities in word processing programs. The \"cut-and-paste\" mechanism works by excising DNA from one place in the genome and inserting itself into another location in the code. The \"copy-and-paste\" mechanism works by making a genetic copy or copies of a specific region of DNA and inserting these copies elsewhere in the code. The most common transposable element in the human genome is the Alu sequence, which is present in the genome over one million times.",
+            "score": 56.78541946411133
+        },
+        {
+            "docid": "30931454_8",
+            "document": "Conserved non-coding sequence . There are different theories explaining the conservation of transposable elements. One holds that, like pseudogenes, they provide a source of new genetic material, allowing for faster adaptation to changes in the environment. A simpler alternative is that, because eukaryotic genomes may have no means to prevent the proliferation of transposable elements, they are free to accumulate as long as they are not inserted into or near a gene in such a way that they would disrupt essential functions. A recent study showed that transposons contribute at least 16% of the eutherian-specific CNSs, marking them as a \"major creative force\" in the evolution of gene regulation in mammals. There are three major classes of transposable elements, distinguished by the mechanisms by which they proliferate.",
+            "score": 56.67106246948242
+        },
+        {
+            "docid": "42671200_5",
+            "document": "Epigenetic regulation of transposable elements in the plant kingdom . Also known as Transposable element#Class II (DNA transposons) DNA transposons], these employ a strategy by which the transposon is excised from its position via transposase, and re-integrated elsewhere in the genome. These can be identified by the following: Those DNA transposons lacking the coding necessary to synthesize transposase function non-autonomously, likely piggy-backing off of the machinery generated by neighboring transposons of the same class. An example of this would be MITEs, miniature inverted repeat transposable elements, which, while having both TIRs and TSDs, cannot produce transposase. These are particularly prevalent in plants, and are thought to be derived from deletions in the more autonomous DNA transposons. Similarly, these types of transposons can become non-autonomous by capturing or replicating pieces of host DNA.",
+            "score": 56.22091293334961
+        },
+        {
+            "docid": "25175288_30",
+            "document": "Genetically modified fish . A wide range of concerns about the consequences of genetically modified fish escaping have been expressed. For polyploids, these include the degree of sterility, interference with spawning, competing with resources without contributing to subsequent generations. For transgenics, the concerns include characteristics of the genotype, the function of the gene, the type of the gene, potential for causing pleiotropic effects, potential for interacting with the remainder of the genome, stability of the construct, ability of the DNA construct to transpose within or between genomes.",
+            "score": 56.13726806640625
+        },
+        {
+            "docid": "24039902_3",
+            "document": "Ectopic recombination . The role of transposable elements in ectopic recombination is an area of active inquiry. Transposable elements\u2014repetitious sequences of DNA that can insert themselves into any part of the genome\u2014can encourage ectopic recombination at repeated homologous sequences of nucleotides. However, according to one proposed model, ectopic recombination might serve as an inhibitor of high transposable element copy numbers. The frequency of ectopic recombination of transposable elements has been linked to both higher copy numbers of transposable elements and the longer lengths of those elements. Since ectopic recombination is generally deleterious, anything that increases its odds of occurring is selected against, including the aforementioned higher copy numbers and longer lengths. This model, however, can only be applied to single families of transposable elements in the genome, as the probability of ectopic recombination occurring in one TE family is independent of it occurring in another. It follows that transposable elements that are shorter, transpose themselves less often, and have mutation rates high enough to disrupt the homology between transposable element sequences sufficiently to prevent ectopic recombination from occurring are selected for.",
+            "score": 55.854652404785156
+        },
+        {
+            "docid": "19806269_10",
+            "document": "Cyanobiont . Following infection and establishment of an endosymbiotic relationship, the new cyanobionts will no longer be free living and autonomous, but rather begin to dedicate their physiological activities in tandem with their hosts'. Over time and evolution, the cyanobiont will begin to lose portions of their genome in a process known as genome erosion. As the relationship between the cyanobacteria and host evolves, the cyanobiont genome will develop signs of degradation, particularly in the form of pseudogenes. A genome undergoing reduction will typically have a large proportion of pseudogenes and transposable elements dispersed throughout the genome. Furthermore, cyanobacteria involved in symbiosis will begin to accumulate these mutations in specific genes, particularly those involved in DNA repair, glycolysis, and nutrient uptake. These gene sets are critical for organisms that live independently, however as cyanobionts living in symbiosis with their hosts, there may not be any evolutionary need to continue maintaining the integrity of these genes. As the major function of a cyanobiont is to provide their host with fixed nitrogen, genes involved in nitrogen fixation or cell differentiation are observed to remain relatively untouched. This may suggest that cyanobacteria involved in symbiotic relationships can selectively stream line their genetic information in order to best perform their functions as cyanobiont-host relationships continue to evolve over time.",
+            "score": 55.51527786254883
+        },
+        {
+            "docid": "37360538_21",
+            "document": "Insects in culture . Insects play an important role in biological research. Because of its small size, short generation time and high fecundity, the common fruit fly \"Drosophila melanogaster\" was selected as a model organism for studies of the genetics of higher eukaryotes. \"D. melanogaster\" has been an essential part of studies into principles like genetic linkage, interactions between genes, chromosomal genetics, evolutionary developmental biology, animal behaviour and evolution. Because genetic systems are well conserved among eukaryotes, understanding basic cellular processes like DNA replication or transcription in fruit flies helps scientists to understand those processes in other eukaryotes, including humans. The genome of \"D. melanogaster\" was sequenced in 2000, reflecting the fruit fly's important role in biological research. 70% of the fly genome is similar to the human genome, supporting the Darwinian theory of evolution from a single origin of life.",
+            "score": 55.45930480957031
+        }
+    ]
+}

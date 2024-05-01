@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "5645086_16",
+            "document": "Evolution of the eye . The functional unit of the eye is the photoreceptor cell, which contains the opsin proteins and responds to light by initiating a nerve impulse. The light sensitive opsins are borne on a hairy layer, to maximise the surface area. The nature of these \"hairs\" differs, with two basic forms underlying photoreceptor structure: microvilli and cilia. In the eyes of protostomes, they are microvilli: extensions or protrusions of the cellular membrane. But in the eyes of deuterostomes, they are derived from cilia, which are separate structures. However, outside the eyes an organism may use the other type of photoreceptor cells, for instance the clamworm Platynereis dumerilii uses microvilliar cells in the eyes but has additionally deep brain ciliary photoreceptor cells. The actual derivation may be more complicated, as some microvilli contain traces of cilia \u2014 but other observations appear to support a fundamental difference between protostomes and deuterostomes. These considerations centre on the response of the cells to light \u2013 some use sodium to cause the electric signal that will form a nerve impulse, and others use potassium; further, protostomes on the whole construct a signal by allowing \"more\" sodium to pass through their cell walls, whereas deuterostomes allow less through.",
+            "score": 236.53944337368011
+        },
+        {
+            "docid": "34725780_8",
+            "document": "Platynereis dumerilii . The ciliary photoreceptor cells are located in the deep brain of the larva. They are not shaded by pigment and thus perceive non-directional light. The ciliary photoreceptor cells resemble molecularly and morphologically the rods and cones of the human eye. Additional, they express an opsin that is more similar to the visual ciliary opsins of vertebrate rods and cones than to the visual rhabdomeric opsins of invertebrates. Therefore, it is thought that the urbilaterian, the last common ancestor of mollusks, arthropods, and vertebrates already had ciliary photoreceptor cells.",
+            "score": 313.8284914493561
+        },
+        {
+            "docid": "1389391_4",
+            "document": "Opponent process . Besides the cones, which detect light entering the eye, the biological basis of the opponent theory involves two other types of cells: bipolar cells, and ganglion cells. Information from the cones is passed to the bipolar cells in the retina, which may be the cells in the opponent process that transform the information from cones. The information is then passed to ganglion cells, of which there are two major classes: magnocellular, or large-cell layers, and parvocellular, or small-cell layers. Parvocellular cells, or P cells, handle the majority of information about color, and fall into two groups: one that processes information about differences between firing of L and M cones, and one that processes differences between S cones and a combined signal from both L and M cones. The first subtype of cells are responsible for processing red\u2013green differences, and the second process blue\u2013yellow differences. P cells also transmit information about intensity of light (how much of it there is) due to their receptive fields.",
+            "score": 71.25596988201141
+        },
+        {
+            "docid": "21392957_7",
+            "document": "Phototaxis . \"Platynereis dumerilii\" nectochate larvae can switch between positive and negative phototaxis. Phototaxis there is mediated by two pairs of more complex pigment cup eyes. These eyes contain more photoreceptor cells that are shaded by pigment cells forming a cup. The photoreceptor cells do not synapse directly onto ciliated cells or muscle cells but onto inter-neurons of a processing center. This way the information of all four eye cups can be compared and a low resolution image of four pixels can be created telling the larvae where the light is coming from. This way the larva does not need to scan its environment by rotating. This is an adaption for living on the bottom of the sea the life style of the nectochaete larva while scanning rotation is more suited for living in the open water column, the life style of the trochophore larva. Phototaxis in the \"Platynereis dumerilii\" nectochate larva has a broad spectral range which is at least covered by three opsins that are expressed by the cup eyes: Two rhabdomeric opsins and a Go-opsin.",
+            "score": 260.24279379844666
+        },
+        {
+            "docid": "10096234_2",
+            "document": "Eyespot apparatus . The eyespot apparatus (or \"stigma\") is a photoreceptive organelle found in the flagellate or (motile) cells of green algae and other unicellular photosynthetic organisms such as euglenids. It allows the cells to sense light direction and intensity and respond to it by swimming either towards the light (positive phototaxis) or away from the light (negative phototaxis). A related response (\"photoshock\" or photophobic response) occurs when cells are briefly exposed to high light intensity, causing the cell to stop, briefly swim backwards, then change swimming direction. Eyespot-mediated light perception helps the cells in finding an environment with optimal light conditions for photosynthesis. Eyespots are the simplest and most common \"eyes\" found in nature, composed of photoreceptors and areas of bright orange-red pigment granules. Signals relayed from the eyespot photoreceptors result in alteration of the beating pattern of the flagella, generating a phototactic response.",
+            "score": 173.06763005256653
+        },
+        {
+            "docid": "157898_60",
+            "document": "Eye . There are two types of opsin involved in vision; c-opsins, which are associated with ciliary-type photoreceptor cells, and r-opsins, associated with rhabdomeric photoreceptor cells. The eyes of vertebrates usually contain cilliary cells with c-opsins, and (bilaterian) invertebrates have rhabdomeric cells in the eye with r-opsins. However, some \"ganglion\" cells of vertebrates express r-opsins, suggesting that their ancestors used this pigment in vision, and that remnants survive in the eyes. Likewise, c-opsins have been found to be expressed in the \"brain\" of some invertebrates. They may have been expressed in ciliary cells of larval eyes, which were subsequently resorbed into the brain on metamorphosis to the adult form. C-opsins are also found in some derived bilaterian-invertebrate eyes, such as the pallial eyes of the bivalve molluscs; however, the lateral eyes (which were presumably the ancestral type for this group, if eyes evolved once there) always use r-opsins. Cnidaria, which are an outgroup to the taxa mentioned above, express c-opsins \u2013 but r-opsins are yet to be found in this group. Incidentally, the melanin produced in the cnidaria is produced in the same fashion as that in vertebrates, suggesting the common descent of this pigment.",
+            "score": 232.35496938228607
+        },
+        {
+            "docid": "21280496_33",
+            "document": "Visual perception . Transduction involves chemical messages sent from the photoreceptors to the bipolar cells to the ganglion cells. Several photoreceptors may send their information to one ganglion cell. There are two types of ganglion cells: red/green and yellow/blue. These neuron cells constantly fire\u2014even when not stimulated. The brain interprets different colors (and with a lot of information, an image) when the rate of firing of these neurons alters. Red light stimulates the red cone, which in turn stimulates the red/green ganglion cell. Likewise, green light stimulates the green cone, which stimulates the red/green ganglion cell and blue light stimulates the blue cone which stimulates the yellow/blue ganglion cell. The rate of firing of the ganglion cells is increased when it is signaled by one cone and decreased (inhibited) when it is signaled by the other cone. The first color in the name of the ganglion cell is the color that excites it and the second is the color that inhibits it. i.e.: A red cone would excite the red/green ganglion cell and the green cone would inhibit the red/green ganglion cell. This is an opponent process. If the rate of firing of a red/green ganglion cell is increased, the brain would know that the light was red, if the rate was decreased, the brain would know that the color of the light was green.",
+            "score": 142.85307347774506
+        },
+        {
+            "docid": "5645086_18",
+            "document": "Evolution of the eye . The basic light-processing unit of eyes is the photoreceptor cell, a specialized cell containing two types of molecules in a membrane: the opsin, a light-sensitive protein, surrounding the chromophore, a pigment that distinguishes colors. Groups of such cells are termed \"eyespots\", and have evolved independently somewhere between 40 and 65 times. These eyespots permit animals to gain only a very basic sense of the direction and intensity of light, but not enough to discriminate an object from its surroundings.",
+            "score": 162.22566139698029
+        },
+        {
+            "docid": "21392957_6",
+            "document": "Phototaxis . \"Platynereis dumerilii\" trochophore and metatrochophore larvae are positively phototactic. Phototaxis there is mediated by simple eyespots that consists of a pigment cell and a photoreceptor cell. The photoreceptor cell synapses directly onto ciliated cells, which are used for swimming. The eyespots do not give spatial resolution, therefore the larvae are rotating to scan their environment for the direction where the light is coming from.",
+            "score": 228.86126327514648
+        },
+        {
+            "docid": "514355_2",
+            "document": "Rod cell . Rod cells are photoreceptor cells in the retina of the eye that can function in less intense light than the other type of visual photoreceptor, cone cells. Rods are usually found concentrated at the outer edges of the retina and are used in peripheral vision. On average, there are approximately 90 million rod cells in the human retina. Rod cells are more sensitive than cone cells and are almost entirely responsible for night vision. However, rods have little role in color vision, which is the main reason why colors are much less apparent in dim light, and not at all at night.",
+            "score": 147.48703050613403
+        },
+        {
+            "docid": "554130_6",
+            "document": "Adaptation (eye) . The human eye contains two types of photoreceptors, rods and cones, which can be easily distinguished by their structure. Cone photoreceptors are conical in shape and contain cone opsins as their visual pigments. There exist three types of cone photoreceptors, each being maximally sensitive to a specific wavelength of light depending on the structure of their opsin photopigment. The various cone cells are maximally sensitive to either short wavelengths (blue light), medium wavelengths (green light), or long wavelengths (red light). Rod photoreceptors only contain one type of photopigment, rhodopsin, which has a peak sensitivity at a wavelength of approximately 530 nanometers which corresponds to blue-green light.",
+            "score": 194.6448929309845
+        },
+        {
+            "docid": "48334_34",
+            "document": "Retina . In the retinal ganglion cells there are two types of response, depending on the receptive field of the cell. The receptive fields of retinal ganglion cells comprise a central, approximately circular area, where light has one effect on the firing of the cell, and an annular surround, where light has the opposite effect. In ON cells, an increment in light intensity in the centre of the receptive field causes the firing rate to increase. In OFF cells, it makes it decrease. In a linear model, this response profile is well described by a difference of Gaussians and is the basis for edge detection algorithms. Beyond this simple difference, ganglion cells are also differentiated by chromatic sensitivity and the type of spatial summation. Cells showing linear spatial summation are termed X cells (also called parvocellular, P, or midget ganglion cells), and those showing non-linear summation are Y cells (also called magnocellular, M, or parasol retinal ganglion cells), although the correspondence between X and Y cells (in the cat retina) and P and M cells (in the primate retina) is not as simple as it once seemed.",
+            "score": 62.20901536941528
+        },
+        {
+            "docid": "34725780_9",
+            "document": "Platynereis dumerilii . A rhabdomeric photoreceptor cell forms with a pigment cell a simple eye. A pair of these eyes mediate phototaxis in the early \"Platynereis dumerilii\" trochophore larva. In the later nectochaete larva, phototaxis is mediated by the more complex adult eyes. The adult eyes express at least three opsins: Two rhabdomeric opsins and a Go-opsin. The three opsins there mediate phototaxis all the same way via depolarization, even so a scallop Go-opsin is known to hyperpolarize.",
+            "score": 235.74552059173584
+        },
+        {
+            "docid": "305136_16",
+            "document": "Visual system . The retina consists of a large number of photoreceptor cells which contain particular protein molecules called opsins. In humans, two types of opsins are involved in conscious vision: rod opsins and cone opsins. (A third type, melanopsin in some of the retinal ganglion cells (RGC), part of the body clock mechanism, is probably not involved in conscious vision, as these RGC do not project to the lateral geniculate nucleus but to the pretectal olivary nucleus.) An opsin absorbs a photon (a particle of light) and transmits a signal to the cell through a signal transduction pathway, resulting in hyper-polarization of the photoreceptor.",
+            "score": 128.50714564323425
+        },
+        {
+            "docid": "646563_12",
+            "document": "Briard . This breed is also commonly screened for congenital stationary night blindness (SNB) with a DNA test. SNB is inherited through recessive genes. Progressive retinal atrophy PRA, is a disease that causes nerve cells at the back of the eye to degenerate. The condition usually begins in older pets and can lead to blindness. Progressive retinal degeneration or atrophy (PRD/PRA) represents a group of inherited eye diseases characterized by abnormal development or premature degeneration of the retina. There are two types of photoreceptors in the retina and these are the light-sensitive rods and cones. They are responsible for detecting light and converting it into an electrical signal that travels to the brain. When the photoreceptor cells deteriorate, vision is lost because the animal has no way to generate an image from the light reaching the retina. Puppies are usually blind before one year of age. For the first time ever, animals (Briards) that were born blind gained the ability to see after undergoing gene therapy, according to research from the University of Florida, Cornell University and the University of Pennsylvania. UF researchers had established that the apparently harmless adeno-associated virus can carry healthy copies of a gene into the cells of the retina, which is composed of layers of light-sensitive nerve cells. The healthy gene's mission: to produce a protein critical to translating light waves into nerve impulses that can be interpreted as images by the brain. The study was successful and the puppies could see in the eye that was treated. Officials from the Foundation Fighting Blindness, which supported the study with grant funds, said the success in reversing blindness in dogs is an important advance.",
+            "score": 144.07664489746094
+        },
+        {
+            "docid": "401150_5",
+            "document": "Photoreceptor cell . Cones require significantly brighter light (i.e., a larger numbers of photons) in order to produce a signal. In humans, there are three different types of cone cell, distinguished by their pattern of response to different wavelengths of light. Color experience is calculated from these three distinct signals, perhaps via an opponent process. The three types of cone cell respond (roughly) to light of short, medium, and long wavelengths. Note that, due to the principle of univariance, the firing of the cell depends upon only the number of photons absorbed. The different responses of the three types of cone cells are determined by the likelihoods that their respective photoreceptor proteins will absorb photons of different wavelengths. So, for example, an L cone cell contains a photoreceptor protein that more readily absorbs long wavelengths of light (i.e., more \"red\"). Light of a shorter wavelength can also produce the same response, but it must be much brighter to do so.",
+            "score": 143.51969385147095
+        },
+        {
+            "docid": "1887433_5",
+            "document": "Visual phototransduction . The photoreceptor cells involved in vision are the rods and cones. These cells contain a chromophore (11-cis retinal, the aldehyde of Vitamin A1 and light-absorbing portion) bound to cell membrane protein, opsin. Rods deal with low light level and do not mediate color vision. Cones, on the other hand, can code the color of an image through comparison of the outputs of the three different types of cones. Each cone type responds best to certain wavelengths, or colors, of light because each type has a slightly different opsin. The three types of cones are L-cones, M-cones and S-cones that respond optimally to long wavelengths (reddish color), medium wavelengths (greenish color), and short wavelengths (bluish color) respectively. Humans have a trichromatic visual system consisting of three unique systems, rods, mid and long-wavelength sensitive (red and green) cones and short wavelength sensitive (blue) cones.",
+            "score": 111.92614161968231
+        },
+        {
+            "docid": "2565082_2",
+            "document": "Intrinsically photosensitive retinal ganglion cells . Intrinsically photosensitive retinal ganglion cells (ipRGCs), also called photosensitive retinal ganglion cells (pRGC), or melanopsin-containing retinal ganglion cells (mRGCs), are a type of neuron in the retina of the mammalian eye. The presence of ipRGCs were first noted in 1923 when rodless, coneless mice still responded to a light stimulus through pupil constriction, suggesting that rods and cones are not the only light sensitive neurons in the retina. It wasn't until the 1980s that advancements in research on these cells began. Recent research has shown that these retinal ganglion cells, unlike other retinal ganglion cells, are intrinsically photosensitive due to the presence of melanopsin, a light sensitive protein. Therefore they constitute a third class of photoreceptors, in addition to rod and cone cells.",
+            "score": 118.71057546138763
+        },
+        {
+            "docid": "5921_18",
+            "document": "Color . The ability of the human eye to distinguish colors is based upon the varying sensitivity of different cells in the retina to light of different wavelengths. Humans are trichromatic\u2014the retina contains three types of color receptor cells, or cones. One type, relatively distinct from the other two, is most responsive to light that is perceived as blue or blue-violet, with wavelengths around 450 nm; cones of this type are sometimes called \"short-wavelength cones\", \"S cones\", or \"blue cones\". The other two types are closely related genetically and chemically: \"middle-wavelength cones\", \"M cones\", or \"green cones\" are most sensitive to light perceived as green, with wavelengths around 540\u00a0nm, while the \"long-wavelength cones\", \"L cones\", or \"red cones\", are most sensitive to light is perceived as greenish yellow, with wavelengths around 570 \u00a0nm.",
+            "score": 83.23936486244202
+        },
+        {
+            "docid": "173204_44",
+            "document": "Drosophila melanogaster . The compound eye of the fruit fly contains 760 unit eyes or ommatidia, and are one of the most advanced among insects. Each ommatidium contains eight photoreceptor cells (R1-8), support cells, pigment cells, and a cornea. Wild-type flies have reddish pigment cells, which serve to absorb excess blue light so the fly is not blinded by ambient light.",
+            "score": 159.94976902008057
+        },
+        {
+            "docid": "48334_3",
+            "document": "Retina . The retina consists of several layers of neurons interconnected by synapses. The neural retina refers to the three layers of neural cells (photo receptor cells, bipolar cells, and ganglion cells) within the retina, which in its entirety comprises ten distinct layers, including an outer layer of pigmented epithelial cells. The only neural cells that are directly sensitive to light are the photoreceptor cells, which are of two types: rods and cones. Rods function mainly in dim light and provide black-and-white vision while cones are responsible for the perception of colour. A third type of photoreceptor, the photosensitive ganglion cells, is important for entrainment and reflexive responses to the brightness of light.",
+            "score": 144.88347363471985
+        },
+        {
+            "docid": "276115_13",
+            "document": "Jumping spider . The anterior median eyes (AME) have very good vision. This pair of eyes is built like a telescopic tube with a corneal lens in the front and a second lens in the back that focus images onto a four-layered retina, a narrow boomerang-shaped strip oriented vertically. Physiological experiments have shown they may have up to four different kinds of receptor cells, with different absorption spectra, giving them the possibility of tetrachromatic color vision, with sensitivity extending into the ultraviolet range. As the eyes are too close together to allow depth perception, and the animals do not make use of motion parallax, they have evolved a method called image defocus instead. Of the four photoreceptor layers in the retina, the first two closest to the surface contain ultraviolet-sensitive pigments while the two deepest contain green-sensitive pigments. The incoming green light is only focused on the deepest layer, while the other one receives defocused or fuzzy images. By measuring the amount of defocus from the fuzzy layer, it is possible to calculate the distance to the objects in front of them. In addition to receptor cells, also red filters have been detected, located in front of the cells that normally register green light. It seems that all salticids, regardless of whether they have two, three, or four kinds of color receptors, are highly sensitive to UV light. Some species (for example, \"Cosmophasis umbratica\") are highly dimorphic in the UV spectrum, suggesting a role in sexual signaling (Lim & Li, 2005). Color discrimination has been demonstrated in behavioral experiments.",
+            "score": 178.31437742710114
+        },
+        {
+            "docid": "401150_10",
+            "document": "Photoreceptor cell . The membranous photoreceptor protein \"opsin\" contains a pigment molecule called \"retinal\". In rod cells, these together are called rhodopsin. In cone cells, there are different types of opsins that combine with retinal to form pigments called photopsins. Three different classes of photopsins in the cones react to different ranges of light frequency, a differentiation that allows the visual system to calculate color. The function of the photoreceptor cell is to convert the light energy of the photon into a form of energy communicable to the nervous system and readily usable to the organism: This conversion is called signal transduction.",
+            "score": 159.63581585884094
+        },
+        {
+            "docid": "20219664_5",
+            "document": "Bombus hortorum . The compound eyes of \"Bombus hortorum\" are two dark, oval structures situated on the dorsal-ventral axis of their head. They lack interfacetal hairs and feature a relatively thick cornea and large retinal cells. Three spectrally sensitive cells were identified: UV with peak sensitivity to light of 353\u00a0nm wavelength, blue and green sensitive receptors with peak sensitivities to wavelengths of 430\u00a0nm and 548\u00a0nm, respectively. The ratios of these three cell types were 1:1:6. Polarization sensitivity occurred mostly in the UV cell types. Intracellular recordings to brief flashes of lights of different durations, intensities and spectral properties were carried out and acceptance angles (ca. 4 degrees) and flicker fusion sensitivities (approx 130\u00a0Hz) were determined. The median ocellus was found to possess a much wider acceptance angle and a higher UV : green receptor cell ratio than the compound eye.",
+            "score": 64.75230312347412
+        },
+        {
+            "docid": "21280496_32",
+            "document": "Visual perception . Transduction is the process through which energy from environmental stimuli is converted to neural activity for the brain to understand and process. The back of the eye contains three different cell layers: photoreceptor layer, bipolar cell layer and ganglion cell layer. The photoreceptor layer is at the very back and contains rod photoreceptors and cone photoreceptors. Cones are responsible for color perception. There are three different cones: red, green and blue. Rods, are responsible for the perception of objects in low light. Photoreceptors contain within them a special chemical called a photopigment, which are embedded in the membrane of the lamellae; a single human rod contains approximately 10 million of them. The photopigment molecules consist of two parts: an opsin (a protein) and retinal (a lipid). There are 3 specific photopigments (each with their own color) that respond to specific wavelengths of light. When the appropriate wavelength of light hits the photoreceptor, its photopigment splits into two, which sends a message to the bipolar cell layer, which in turn sends a message to the ganglion cells, which then send the information through the optic nerve to the brain. If the appropriate photopigment is not in the proper photoreceptor (for example, a green photopigment inside a red cone), a condition called color vision deficiency will occur.",
+            "score": 194.38025081157684
+        },
+        {
+            "docid": "22483_86",
+            "document": "Optics . There are two types of photoreceptor cells, rods and cones, which are sensitive to different aspects of light. Rod cells are sensitive to the intensity of light over a wide frequency range, thus are responsible for black-and-white vision. Rod cells are not present on the fovea, the area of the retina responsible for central vision, and are not as responsive as cone cells to spatial and temporal changes in light. There are, however, twenty times more rod cells than cone cells in the retina because the rod cells are present across a wider area. Because of their wider distribution, rods are responsible for peripheral vision.",
+            "score": 109.85193347930908
+        },
+        {
+            "docid": "18416476_19",
+            "document": "Bird vision . There are two sorts of light receptors in a bird\u2019s eye, rods and cones. Rods, which contain the visual pigment rhodopsin are better for night vision because they are sensitive to small quantities of light. Cones detect specific colours (or wavelengths) of light, so they are more important to colour-orientated animals such as birds. Most birds are tetrachromatic, possessing four types of cone cells each with a distinctive maximal absorption peak. In some birds, the maximal absorption peak of the cone cell responsible for the shortest wavelength extends to the ultraviolet (UV) range, making them UV-sensitive. In addition to that, the cones at bird's retina are arranged in a characteristic form of spatial distribution, known as hyperuniform distribution, which maximizes its light and color absorption. This form of spatial distributions are only observed as a result of some optimization process, which in this case can be described in terms of bird's evolutionary history.",
+            "score": 107.49695110321045
+        },
+        {
+            "docid": "21578485_4",
+            "document": "Color space . In 1802, Thomas Young postulated the existence of three types of photoreceptors (now known as cone cells) in the eye, each of which was sensitive to a particular range of visible light. Hermann von Helmholtz developed the Young\u2013Helmholtz theory further in 1850: that the three types of cone photoreceptors could be classified as short-preferring (blue), middle-preferring (green), and long-preferring (red), according to their response to the wavelengths of light striking the retina. The relative strengths of the signals detected by the three types of cones are interpreted by the brain as a visible color. But it's not clear that they thought of colours as being points in color space.",
+            "score": 155.5769555568695
+        },
+        {
+            "docid": "162843_5",
+            "document": "Color television . The human eye's detection system, which is in the retina consists primarily of two types of light detectors: rod cells that capture light, dark, and shapes/figures, and the cone cells that detect color. A typical retina contains 120 million rods and 4.5 million to 6 million cones, which are divided among three groups that are sensitive to red, green, and blue light. This means that the eye has far more resolution in brightness, or \"luminance\", than in color. However, post-processing of the optic nerve and other portions of the human visual system combine the information from the rods and cones to re-create what appears to be a high-resolution color image.",
+            "score": 90.10510587692261
+        },
+        {
+            "docid": "569650_9",
+            "document": "Stimulus modality . To perceive a light stimulus, the eye must first refract the light so that it directly hits the retina. Refraction in the eye is completed through the combined efforts of the cornea, lens and iris. The transduction of light into neural activity occurs via the photoreceptor cells in the retina. When there is no light, Vitamin A in the body attaches itself to another molecule and becomes a protein. The entire structure consisting of the two molecules becomes a photopigment. When a particle of light hits the photoreceptors of the eye, the two molecules come apart from each other and a chain of chemical reactions occurs. The chemical reaction begins with the photoreceptor sending a message to a neuron called the bipolar cell through the use of an action potential, or nerve impulse. Finally, a message is sent to the ganglion cell and then finally the brain.",
+            "score": 167.5768392086029
+        },
+        {
+            "docid": "379234_8",
+            "document": "Sensory nervous system . Photoreceptors are capable of phototransduction, a process which converts light (electromagnetic radiation) into, among other types of energy, a membrane potential. The three primary types of photoreceptors are: Cones are photoreceptors which respond significantly to color. In humans the three different types of cones correspond with a primary response to short wavelength (blue), medium wavelength (green), and long wavelength (yellow/red). Rods are photoreceptors which are very sensitive to the intensity of light, allowing for vision in dim lighting. The concentrations and ratio of rods to cones is strongly correlated with whether an animal is diurnal or nocturnal. In humans rods outnumber cones by approximately 20:1, while in nocturnal animals, such as the tawny owl, the ratio is closer to 1000:1. Ganglion Cells reside in the adrenal medulla and retina where they are involved in the sympathetic response. Of the ~1.3 million ganglion cells present in the retina, 1-2% are believed to be photosensitive ganglia. These photosensitive ganglia play a role in conscious vision for some animals, and are believed to do the same in humans.",
+            "score": 159.69410181045532
+        },
+        {
+            "docid": "482050_16",
+            "document": "Tetrachromacy . Humans cannot see ultraviolet light directly because the lens of the eye blocks most light in the wavelength range of 300\u2013400\u00a0nm; shorter wavelengths are blocked by the cornea. The photoreceptor cells of the retina are sensitive to near ultraviolet light, and people lacking a lens (a condition known as aphakia) see near ultraviolet light (down to 300\u00a0nm) as whitish blue, or for some wavelengths, whitish violet, probably because all three types of cones are roughly equally sensitive to ultraviolet light; however, blue cone cells are slightly more sensitive.",
+            "score": 155.8510513305664
+        }
+    ],
+    "r": [
+        {
+            "docid": "34725780_8",
+            "document": "Platynereis dumerilii . The ciliary photoreceptor cells are located in the deep brain of the larva. They are not shaded by pigment and thus perceive non-directional light. The ciliary photoreceptor cells resemble molecularly and morphologically the rods and cones of the human eye. Additional, they express an opsin that is more similar to the visual ciliary opsins of vertebrate rods and cones than to the visual rhabdomeric opsins of invertebrates. Therefore, it is thought that the urbilaterian, the last common ancestor of mollusks, arthropods, and vertebrates already had ciliary photoreceptor cells.",
+            "score": 313.8284912109375
+        },
+        {
+            "docid": "34725780_7",
+            "document": "Platynereis dumerilii . \"Platynereis dumerilii\" larvae possess two kinds of photoreceptor cells: Rhabdomeric and ciliary photoreceptor cells.",
+            "score": 280.7593078613281
+        },
+        {
+            "docid": "21392957_7",
+            "document": "Phototaxis . \"Platynereis dumerilii\" nectochate larvae can switch between positive and negative phototaxis. Phototaxis there is mediated by two pairs of more complex pigment cup eyes. These eyes contain more photoreceptor cells that are shaded by pigment cells forming a cup. The photoreceptor cells do not synapse directly onto ciliated cells or muscle cells but onto inter-neurons of a processing center. This way the information of all four eye cups can be compared and a low resolution image of four pixels can be created telling the larvae where the light is coming from. This way the larva does not need to scan its environment by rotating. This is an adaption for living on the bottom of the sea the life style of the nectochaete larva while scanning rotation is more suited for living in the open water column, the life style of the trochophore larva. Phototaxis in the \"Platynereis dumerilii\" nectochate larva has a broad spectral range which is at least covered by three opsins that are expressed by the cup eyes: Two rhabdomeric opsins and a Go-opsin.",
+            "score": 260.2427978515625
+        },
+        {
+            "docid": "1452717_28",
+            "document": "Opsin . Go-opsins are absent from higher vertebrates and ecdysozoans. They are found in the ciliary photoreceptor cells of the scallop eye and the basal chordate amphioxus. In Platynereis dumerilii however, a Go-opsin is expressed in the rhabdomeric photoreceptor cells of the eyes.",
+            "score": 236.72984313964844
+        },
+        {
+            "docid": "5645086_16",
+            "document": "Evolution of the eye . The functional unit of the eye is the photoreceptor cell, which contains the opsin proteins and responds to light by initiating a nerve impulse. The light sensitive opsins are borne on a hairy layer, to maximise the surface area. The nature of these \"hairs\" differs, with two basic forms underlying photoreceptor structure: microvilli and cilia. In the eyes of protostomes, they are microvilli: extensions or protrusions of the cellular membrane. But in the eyes of deuterostomes, they are derived from cilia, which are separate structures. However, outside the eyes an organism may use the other type of photoreceptor cells, for instance the clamworm Platynereis dumerilii uses microvilliar cells in the eyes but has additionally deep brain ciliary photoreceptor cells. The actual derivation may be more complicated, as some microvilli contain traces of cilia \u2014 but other observations appear to support a fundamental difference between protostomes and deuterostomes. These considerations centre on the response of the cells to light \u2013 some use sodium to cause the electric signal that will form a nerve impulse, and others use potassium; further, protostomes on the whole construct a signal by allowing \"more\" sodium to pass through their cell walls, whereas deuterostomes allow less through.",
+            "score": 236.53944396972656
+        },
+        {
+            "docid": "34725780_9",
+            "document": "Platynereis dumerilii . A rhabdomeric photoreceptor cell forms with a pigment cell a simple eye. A pair of these eyes mediate phototaxis in the early \"Platynereis dumerilii\" trochophore larva. In the later nectochaete larva, phototaxis is mediated by the more complex adult eyes. The adult eyes express at least three opsins: Two rhabdomeric opsins and a Go-opsin. The three opsins there mediate phototaxis all the same way via depolarization, even so a scallop Go-opsin is known to hyperpolarize.",
+            "score": 235.7455291748047
+        },
+        {
+            "docid": "157898_60",
+            "document": "Eye . There are two types of opsin involved in vision; c-opsins, which are associated with ciliary-type photoreceptor cells, and r-opsins, associated with rhabdomeric photoreceptor cells. The eyes of vertebrates usually contain cilliary cells with c-opsins, and (bilaterian) invertebrates have rhabdomeric cells in the eye with r-opsins. However, some \"ganglion\" cells of vertebrates express r-opsins, suggesting that their ancestors used this pigment in vision, and that remnants survive in the eyes. Likewise, c-opsins have been found to be expressed in the \"brain\" of some invertebrates. They may have been expressed in ciliary cells of larval eyes, which were subsequently resorbed into the brain on metamorphosis to the adult form. C-opsins are also found in some derived bilaterian-invertebrate eyes, such as the pallial eyes of the bivalve molluscs; however, the lateral eyes (which were presumably the ancestral type for this group, if eyes evolved once there) always use r-opsins. Cnidaria, which are an outgroup to the taxa mentioned above, express c-opsins \u2013 but r-opsins are yet to be found in this group. Incidentally, the melanin produced in the cnidaria is produced in the same fashion as that in vertebrates, suggesting the common descent of this pigment.",
+            "score": 232.35496520996094
+        },
+        {
+            "docid": "21392957_6",
+            "document": "Phototaxis . \"Platynereis dumerilii\" trochophore and metatrochophore larvae are positively phototactic. Phototaxis there is mediated by simple eyespots that consists of a pigment cell and a photoreceptor cell. The photoreceptor cell synapses directly onto ciliated cells, which are used for swimming. The eyespots do not give spatial resolution, therefore the larvae are rotating to scan their environment for the direction where the light is coming from.",
+            "score": 228.86126708984375
+        },
+        {
+            "docid": "25473322_4",
+            "document": "Ultraviolet communication in butterflies . Butterflies receive ultraviolet signals by utilizing a special photoreceptor pigment in the butterfly eye. The butterfly eye is similar to the average insect eye in that it is composed of numerous ommatidia. Each butterfly ommatidium contains nine photoreceptors with generally each photoreceptor utilizing a single visual pigment. A UV sensitive visual pigment is responsible for a butterfly\u2019s ability to detect UV light and responds maximally to ultraviolet light at approximately 350\u00a0nm. Therefore, a visual pigment that responds to ultraviolet light is the mechanism behind ultraviolet light perception.",
+            "score": 211.50082397460938
+        },
+        {
+            "docid": "305136_54",
+            "document": "Visual system . Many fan worms, such as \"Megalomma interrupta\" which live in tubes on the sea floor of the Great Barrier Reef, have evolved compound eyes on their tentacles, which they use to detect encroaching movement. If movement is detected the fan worms will rapidly withdraw their tentacles. Bok, et al, have discovered opsins and g-proteins in the fan worm's eyes, which were previously only seen in simple ciliary photoreceptors in the brains of some invertebrates, as opposed to the rhabdomeric receptors in the eyes of most invertebrates.",
+            "score": 195.18557739257812
+        },
+        {
+            "docid": "554130_6",
+            "document": "Adaptation (eye) . The human eye contains two types of photoreceptors, rods and cones, which can be easily distinguished by their structure. Cone photoreceptors are conical in shape and contain cone opsins as their visual pigments. There exist three types of cone photoreceptors, each being maximally sensitive to a specific wavelength of light depending on the structure of their opsin photopigment. The various cone cells are maximally sensitive to either short wavelengths (blue light), medium wavelengths (green light), or long wavelengths (red light). Rod photoreceptors only contain one type of photopigment, rhodopsin, which has a peak sensitivity at a wavelength of approximately 530 nanometers which corresponds to blue-green light.",
+            "score": 194.6448974609375
+        },
+        {
+            "docid": "21280496_32",
+            "document": "Visual perception . Transduction is the process through which energy from environmental stimuli is converted to neural activity for the brain to understand and process. The back of the eye contains three different cell layers: photoreceptor layer, bipolar cell layer and ganglion cell layer. The photoreceptor layer is at the very back and contains rod photoreceptors and cone photoreceptors. Cones are responsible for color perception. There are three different cones: red, green and blue. Rods, are responsible for the perception of objects in low light. Photoreceptors contain within them a special chemical called a photopigment, which are embedded in the membrane of the lamellae; a single human rod contains approximately 10 million of them. The photopigment molecules consist of two parts: an opsin (a protein) and retinal (a lipid). There are 3 specific photopigments (each with their own color) that respond to specific wavelengths of light. When the appropriate wavelength of light hits the photoreceptor, its photopigment splits into two, which sends a message to the bipolar cell layer, which in turn sends a message to the ganglion cells, which then send the information through the optic nerve to the brain. If the appropriate photopigment is not in the proper photoreceptor (for example, a green photopigment inside a red cone), a condition called color vision deficiency will occur.",
+            "score": 194.3802490234375
+        },
+        {
+            "docid": "276115_13",
+            "document": "Jumping spider . The anterior median eyes (AME) have very good vision. This pair of eyes is built like a telescopic tube with a corneal lens in the front and a second lens in the back that focus images onto a four-layered retina, a narrow boomerang-shaped strip oriented vertically. Physiological experiments have shown they may have up to four different kinds of receptor cells, with different absorption spectra, giving them the possibility of tetrachromatic color vision, with sensitivity extending into the ultraviolet range. As the eyes are too close together to allow depth perception, and the animals do not make use of motion parallax, they have evolved a method called image defocus instead. Of the four photoreceptor layers in the retina, the first two closest to the surface contain ultraviolet-sensitive pigments while the two deepest contain green-sensitive pigments. The incoming green light is only focused on the deepest layer, while the other one receives defocused or fuzzy images. By measuring the amount of defocus from the fuzzy layer, it is possible to calculate the distance to the objects in front of them. In addition to receptor cells, also red filters have been detected, located in front of the cells that normally register green light. It seems that all salticids, regardless of whether they have two, three, or four kinds of color receptors, are highly sensitive to UV light. Some species (for example, \"Cosmophasis umbratica\") are highly dimorphic in the UV spectrum, suggesting a role in sexual signaling (Lim & Li, 2005). Color discrimination has been demonstrated in behavioral experiments.",
+            "score": 178.3143768310547
+        },
+        {
+            "docid": "1070221_5",
+            "document": "Human eye . Light energy enters the eye through the cornea, through the pupil and then through the lens. The lens shape is changed for near focus (accommodation) and is controlled by the ciliary muscle. Photons of light falling on the light-sensitive cells of the retina (photoreceptor cones and rods) are converted into electrical signals that are transmitted to the brain by the optic nerve and interpreted as sight and vision.",
+            "score": 173.07510375976562
+        },
+        {
+            "docid": "10096234_2",
+            "document": "Eyespot apparatus . The eyespot apparatus (or \"stigma\") is a photoreceptive organelle found in the flagellate or (motile) cells of green algae and other unicellular photosynthetic organisms such as euglenids. It allows the cells to sense light direction and intensity and respond to it by swimming either towards the light (positive phototaxis) or away from the light (negative phototaxis). A related response (\"photoshock\" or photophobic response) occurs when cells are briefly exposed to high light intensity, causing the cell to stop, briefly swim backwards, then change swimming direction. Eyespot-mediated light perception helps the cells in finding an environment with optimal light conditions for photosynthesis. Eyespots are the simplest and most common \"eyes\" found in nature, composed of photoreceptors and areas of bright orange-red pigment granules. Signals relayed from the eyespot photoreceptors result in alteration of the beating pattern of the flagella, generating a phototactic response.",
+            "score": 173.067626953125
+        },
+        {
+            "docid": "637102_23",
+            "document": "Plant physiology . Plants use four kinds of photoreceptors: phytochrome, cryptochrome, a UV-B photoreceptor, and protochlorophyllide \"a\". The first two of these, phytochrome and cryptochrome, are photoreceptor proteins, complex molecular structures formed by joining a protein with a light-sensitive pigment. Cryptochrome is also known as the UV-A photoreceptor, because it absorbs ultraviolet light in the long wave \"A\" region. The UV-B receptor is one or more compounds not yet identified with certainty, though some evidence suggests carotene or riboflavin as candidates. Protochlorophyllide \"a\", as its name suggests, is a chemical precursor of chlorophyll.",
+            "score": 172.7281036376953
+        },
+        {
+            "docid": "1748421_13",
+            "document": "Simple eye in invertebrates . Recent studies have shown the ocelli of some insects (most notably the dragonfly, but also some wasps) are capable of form vision, as the ocellar lens forms an image within, or close to, the photoreceptor layer. In dragonflies it has been demonstrated that the receptive fields of both the photoreceptors and the second-order neurons can be quite restricted. Further research has demonstrated these eyes not only resolve spatial details of the world, but also perceive motion. Second-order neurons in the dragonfly median ocellus respond more strongly to upwards-moving bars and gratings than to downwards-moving bars and gratings, but this effect is only present when ultraviolet light is used in the stimulus; when ultraviolet light is absent, no directional response is observed. Dragonfly ocelli are especially highly developed and specialised visual organs, which may support the exceptional acrobatic abilities of these animals.",
+            "score": 168.2462158203125
+        },
+        {
+            "docid": "569650_9",
+            "document": "Stimulus modality . To perceive a light stimulus, the eye must first refract the light so that it directly hits the retina. Refraction in the eye is completed through the combined efforts of the cornea, lens and iris. The transduction of light into neural activity occurs via the photoreceptor cells in the retina. When there is no light, Vitamin A in the body attaches itself to another molecule and becomes a protein. The entire structure consisting of the two molecules becomes a photopigment. When a particle of light hits the photoreceptors of the eye, the two molecules come apart from each other and a chain of chemical reactions occurs. The chemical reaction begins with the photoreceptor sending a message to a neuron called the bipolar cell through the use of an action potential, or nerve impulse. Finally, a message is sent to the ganglion cell and then finally the brain.",
+            "score": 167.57684326171875
+        },
+        {
+            "docid": "173204_45",
+            "document": "Drosophila melanogaster . Each photoreceptor cell consists of two main sections, the cell body and the rhabdomere. The cell body contains the nucleus, while the 100-\u03bcm-long rhabdomere is made up of toothbrush-like stacks of membrane called microvilli. Each microvillus is 1\u20132 \u03bcm in length and about 60 nm in diameter. The membrane of the rhabdomere is packed with about 100 million rhodopsin molecules, the visual protein that absorbs light. The rest of the visual proteins are also tightly packed into the microvillar space, leaving little room for cytoplasm.",
+            "score": 166.21437072753906
+        },
+        {
+            "docid": "4455796_7",
+            "document": "Lateral inhibition . Visual Lateral Inhibition is the process in which photoreceptor cells aid the brain in perceiving contrast within an image. Electromagnetic light enters the eye by passing through the cornea, pupil, and the lens (optics). It then bypasses the ganglion cells, amacrine cells, bipolar cells, and horizontal cells in order to reach the photoreceptors rod cells which absorb light. The rods become stimulated by the energy from the light and release an excitatory neural signal to the horizontal cells.",
+            "score": 164.73265075683594
+        },
+        {
+            "docid": "5167374_3",
+            "document": "Stiles\u2013Crawford effect . The Stiles\u2013Crawford effect of the first kind is the phenomenon where light entering the eye near the edge of the pupil produces a lower photoreceptor response compared to light of equal intensity entering near the center of the pupil. The photoreceptor response is significantly lower than expected by the reduction in the photoreceptor acceptance angle of light entering near the edge of the pupil. Measurements indicate that the peak photoreceptor sensitivity does not occur for light entering the eye directly through the center of the pupil, but at an offset of approximately 0.2\u20130.5\u00a0mm towards the nasal side.",
+            "score": 164.35765075683594
+        },
+        {
+            "docid": "1093068_7",
+            "document": "Horseshoe crab . The entire body of the horseshoe crab is protected by a hard carapace. It has two compound lateral eyes, each composed of about 1,000 ommatidia, plus a pair of median eyes that are able to detect both visible light and ultraviolet light, a single endoparietal eye, and a pair of rudimentary lateral eyes on the top. The latter become functional just before the embryo hatches. Also, a pair of ventral eyes is located near the mouth, as well as a cluster of photoreceptors on the telson. The horseshoe crab has five additional eyes on top of its shell. Despite having relatively poor eyesight, the animals have the largest rods and cones of any known animal, about 100 times the size of humans', and their eyes are a million times more sensitive to light at night than during the day. The mouth is located in the center of the legs, whose bases are referred to as gnathobases and have the same function as jaws and help grind up food. The horseshoe crab has five pairs of legs for walking, swimming, and moving food into the mouth, each with a claw at the tip, except for the last pair.",
+            "score": 163.8284912109375
+        },
+        {
+            "docid": "5645086_18",
+            "document": "Evolution of the eye . The basic light-processing unit of eyes is the photoreceptor cell, a specialized cell containing two types of molecules in a membrane: the opsin, a light-sensitive protein, surrounding the chromophore, a pigment that distinguishes colors. Groups of such cells are termed \"eyespots\", and have evolved independently somewhere between 40 and 65 times. These eyespots permit animals to gain only a very basic sense of the direction and intensity of light, but not enough to discriminate an object from its surroundings.",
+            "score": 162.2256622314453
+        },
+        {
+            "docid": "1452717_19",
+            "document": "Opsin . Panopsins are found in many tissues (skin, brain, testes, heart, liver, kidney, skeletal muscle, lung, pancreas and retina). They were originally found in the human and mouse brain and thus called encephalopsin. They are also expressed in the ciliary photoreceptor cells of annelids (\"Platynereis dumerilii\"), and in the brains of some insects. The panopsins of teleost fish are called: Teleost multiple tissue (TMT) opsins. The panopsins of mosquito and pufferfish absorb maximally at 500\u00a0nm and 460\u00a0nm, respectively. Both activate in vitro Gi and Go proteins.",
+            "score": 161.57928466796875
+        },
+        {
+            "docid": "23416874_9",
+            "document": "Sense . Sight or vision (adjectival form: visual/optical) is the capability of the eye(s) to focus and detect images of visible light on photoreceptors in the retina of each eye that generates electrical nerve impulses for varying colors, hues, and brightness. There are two types of photoreceptors: rods and cones. Rods are very sensitive to light, but do not distinguish colors. Cones distinguish colors, but are less sensitive to dim light. There is some disagreement as to whether this constitutes one, two or three senses. Neuroanatomists generally regard it as two senses, given that different receptors are responsible for the perception of color and brightness. Some argue that stereopsis, the perception of depth using both eyes, also constitutes a sense, but it is generally regarded as a cognitive (that is, post-sensory) function of the visual cortex of the brain where patterns and objects in images are recognized and interpreted based on previously learned information. This is called visual memory.",
+            "score": 161.27392578125
+        },
+        {
+            "docid": "8914850_3",
+            "document": "Notonecta glauca . There has been a great deal of research on the eye of \"N. glauca\". These insects use their eyes for both day and night vision, which is used for prey capture and flight when searching for new habitats. \"Notonecta glauca\", like other insects, have a compound eye.  Specifically, their eye is an acone-type with corneal structure, which helps them create a sharp image when both in the water and in the air. The acone is the site of the pupil. Immonen \"et al.\" (2014), found that backswimmers are able to see in both day and night light conditions because of: They also found that the green-sensitive peripheral photoreceptors function in a similar way as nocturnal Phasmatodea (or stick insects).  To protect their eye from direct sunlight during the day, the pigment cell's diaphragm are condensed, and during the night they open fully to allow as much light in as possible. \"Notonecta glauca\" have two photoreceptor subsystems:  The first subsystem is sensitive to green light, one of the colours in the visible spectrum. This sensitivity helps the backswimmer see in dimmer light or at night. The second subsystem allows the backswimmer to see in bright light and when in flight. \"Notonecta glauca\" pupil (acone) take a different amount of time to adjust to light. It takes the \"N. glauca\" approximately 40 minutes for the pupil to adjust to daylight and approximately 50 minutes to adjust to the light at night.",
+            "score": 160.32943725585938
+        },
+        {
+            "docid": "173204_44",
+            "document": "Drosophila melanogaster . The compound eye of the fruit fly contains 760 unit eyes or ommatidia, and are one of the most advanced among insects. Each ommatidium contains eight photoreceptor cells (R1-8), support cells, pigment cells, and a cornea. Wild-type flies have reddish pigment cells, which serve to absorb excess blue light so the fly is not blinded by ambient light.",
+            "score": 159.94976806640625
+        },
+        {
+            "docid": "379234_8",
+            "document": "Sensory nervous system . Photoreceptors are capable of phototransduction, a process which converts light (electromagnetic radiation) into, among other types of energy, a membrane potential. The three primary types of photoreceptors are: Cones are photoreceptors which respond significantly to color. In humans the three different types of cones correspond with a primary response to short wavelength (blue), medium wavelength (green), and long wavelength (yellow/red). Rods are photoreceptors which are very sensitive to the intensity of light, allowing for vision in dim lighting. The concentrations and ratio of rods to cones is strongly correlated with whether an animal is diurnal or nocturnal. In humans rods outnumber cones by approximately 20:1, while in nocturnal animals, such as the tawny owl, the ratio is closer to 1000:1. Ganglion Cells reside in the adrenal medulla and retina where they are involved in the sympathetic response. Of the ~1.3 million ganglion cells present in the retina, 1-2% are believed to be photosensitive ganglia. These photosensitive ganglia play a role in conscious vision for some animals, and are believed to do the same in humans.",
+            "score": 159.69410705566406
+        },
+        {
+            "docid": "401150_10",
+            "document": "Photoreceptor cell . The membranous photoreceptor protein \"opsin\" contains a pigment molecule called \"retinal\". In rod cells, these together are called rhodopsin. In cone cells, there are different types of opsins that combine with retinal to form pigments called photopsins. Three different classes of photopsins in the cones react to different ranges of light frequency, a differentiation that allows the visual system to calculate color. The function of the photoreceptor cell is to convert the light energy of the photon into a form of energy communicable to the nervous system and readily usable to the organism: This conversion is called signal transduction.",
+            "score": 159.6358184814453
+        },
+        {
+            "docid": "1972565_21",
+            "document": "Cryptochrome . While CRY has been well established as a TIM homolog in mammals, the role of CRY as a photoreceptor in mammals has been controversial. Early papers indicated that CRY has both light-independent and -dependent functions. A study in 2000 indicated that mice without rhodopsin but with cryptochrome still respond to light; however, in mice without either rhodopsin or cryptochrome, \"c-Fos\" transcription, a mediator of light sensitivity, significantly drops. In recent years, data have supported melanopsin as the main circadian photoreceptor, in particular melanopsin cells that mediate entrainment and communication between the eye and the suprachiasmatic nucleus (SCN). One of the main difficulties in confirming or denying CRY as a mammalian photoreceptor is that when the gene is knocked out the animal goes arrhythmic, so it is hard to measure its capacity as purely a photoreceptor. However, some recent studies indicate that human CRY may mediate light response in peripheral tissues.",
+            "score": 158.73312377929688
+        },
+        {
+            "docid": "401150_35",
+            "document": "Photoreceptor cell . A non-rod non-cone photoreceptor in the eyes of mice, which was shown to mediate circadian rhythms, was discovered in 1991 by Foster \"et al.\" These neuronal cells, called intrinsically photosensitive retinal ganglion cells (ipRGC), are a small subset (\u22481\u20133%) of the retinal ganglion cells located in the inner retina, that is, in front of the rods and cones located in the outer retina. These light sensitive neurons contain a photopigment, melanopsin, which has an absorption peak of the light at a different wavelength (\u2248480\u00a0nm) than rods and cones. Beside circadian / behavioral functions, ipRGCs have a role in initiating the pupillary light reflex.",
+            "score": 157.881103515625
+        },
+        {
+            "docid": "401150_27",
+            "document": "Photoreceptor cell . A given photoreceptor responds to both the wavelength and intensity of a light source. For example, red light at a certain intensity can produce the same exact response in a photoreceptor as green light of a different intensity. Therefore, the response of a single photoreceptor is ambiguous when it comes to color.",
+            "score": 157.66326904296875
+        }
+    ]
+}

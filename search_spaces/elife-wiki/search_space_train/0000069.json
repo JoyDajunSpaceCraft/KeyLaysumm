@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "39314186_14",
+            "document": "Lymph node stromal cell . Fibroblastic reticular cells (FRCs) are located in the T cell zone of the cortex. FRCs produce collagen alpha-1(III) rich reticular fibers that form a dense network within the lymphoid tissue. These are connected by collagen XIV, small leucine-rich proteoglycans and lysyl oxidase. The network of fibers supports and guides the movement of dendritic cells (DCs), T lymphocytes and B lymphocytes. It also creates a porous \"molecular sieve\" in the lymph node.",
+            "score": 206.33414578437805
+        },
+        {
+            "docid": "82342_18",
+            "document": "Lymph node . The primary function of lymph nodes is the filtering of lymph to identify and fight infection. In order to do this, lymph nodes contain lymphocytes, a type of white blood cell, which includes B cells and T cells. These circulate through the bloodstream and enter and reside in lymph nodes. B cells produce antibodies. Each antibody has a single predetermined target, an antigen, that it can bind to. These circulate throughout the bloodstream and if they find this target, the antibodies bind to it and stimulate an immune response. Each B cell produces different antibodies, and this process is driven in lymph nodes. B cells enter the bloodstream as \"naive\" cells produced in bone marrow. After entering a lymph node, they then enter a lymphoid follicle, where they multiply and divide, each producing a different antibody. If a cell is stimulated, it will go on to produce more antibodies (a plasma cell) or act as a memory cell to help the body fight future infection. If a cell is not stimulated, it will undergo apoptosis and die.",
+            "score": 198.46288919448853
+        },
+        {
+            "docid": "82342_10",
+            "document": "Lymph node . The lymph node contains lymphoid tissue, i.e., a meshwork or fibers called \"reticulum\" with white blood cells enmeshed in it. The regions where there are few cells within the meshwork are known as \"lymph sinus\". It is lined by reticular cells, fibroblasts and fixed macrophages.",
+            "score": 176.4266173839569
+        },
+        {
+            "docid": "39314186_18",
+            "document": "Lymph node stromal cell . Follicular dendritic cells (FDCs) are found in the center of B lymphocyte follicles. They form a dense network of cellular filaments. They also express the Fc receptors, CD16, CD23 and CD32; the complement receptors CD21 and CD35 and complement components. The network of cellular filaments and receptors help the FDCs capture antigens as immune complexes and present them to other immune cells.  FDCs assist the development of the germinal center via an interaction with B lymphocytes and helper T-lymphocytes. B lymphocytes proliferate and differentiate into plasma cells and memory cells. FDCs produce chemokine CXCL13 which promotes migration of B lymphocytes to the primary B cell follicle. B lymphocytes need a factor B cell activating factor (BAFF) for their survival, also produced by FDCs.",
+            "score": 169.8147097826004
+        },
+        {
+            "docid": "1664060_14",
+            "document": "Adaptive immune system . Dendritic cells engulf exogenous pathogens, such as bacteria, parasites or toxins in the tissues and then migrate, via chemotactic signals, to the T cell-enriched lymph nodes. During migration, dendritic cells undergo a process of maturation in which they lose most of their ability to engulf other pathogens, and develop an ability to communicate with T-cells. The dendritic cell uses enzymes to chop the pathogen into smaller pieces, called antigens. In the lymph node, the dendritic cell displays these non-self antigens on its surface by coupling them to a receptor called the major histocompatibility complex, or MHC (also known in humans as human leukocyte antigen (HLA)). This MHC: antigen complex is recognized by T-cells passing through the lymph node. Exogenous antigens are usually displayed on MHC class II molecules, which activate CD4+T helper cells.",
+            "score": 209.05667781829834
+        },
+        {
+            "docid": "39314186_2",
+            "document": "Lymph node stromal cell . Lymph node stromal cells are essential to the structure and function of the lymph node. There are a number of different types of lymph node stromal cells which have a number of functions including: creating a tissue scaffold within lymph nodes for the support of hematopoietic cells; the release of small molecules that are chemical messengers that facilitate interactions between hematopoietic cells; the facilitation of the migration of hematopoietic cells; the presentation of antigens to immune cells at the initiation of the adaptive immune system; and the homeostasis of lymphocyte numbers. Stromal cells originate from multipotent mesenchymal stem cells.",
+            "score": 165.27045142650604
+        },
+        {
+            "docid": "39314186_10",
+            "document": "Lymph node stromal cell . In an inflammatory state, lymphatic endothelial cells increase their surface adhesion molecules, and dendritic cells express a surface CCR7 receptor. This type of receptor interacts with the chemokine CCL21, produced by fibroblastic reticular cells. Due to this interaction, dendritic cells move to the T cell zone or to the B cell follicle along the fibroblast reticular cell network. Dendritic cells exhibit C-type lectin receptors (CLEC-2), which bind to gp38 on the surface of lymphatic endothelial cells.",
+            "score": 217.854638338089
+        },
+        {
+            "docid": "82342_6",
+            "document": "Lymph node . Thin reticular fibers of reticular connective tissue, and elastin form a supporting meshwork called a \"reticulin\" inside the node. B cells are mainly found in the outer (superficial cortex) where they are clustered together as follicular B cells in lymphoid follicles and the T cells are mainly in the \"paracortex\". The lymph node is divided into compartments called lymph nodules (or lobules) each consisting of a cortical region of combined follicle B cells, a paracortical region of T cells, and a basal part of the nodule in the medulla.",
+            "score": 202.48673701286316
+        },
+        {
+            "docid": "148367_12",
+            "document": "Dendritic cell . Dendritic cells are derived from hematopoietic bone marrow progenitor cells. These progenitor cells initially transform into immature dendritic cells. These cells are characterized by high endocytic activity and low T-cell activation potential. Immature dendritic cells constantly sample the surrounding environment for pathogens such as viruses and bacteria. This is done through pattern recognition receptors (PRRs) such as the toll-like receptors (TLRs). TLRs recognize specific chemical signatures found on subsets of pathogens. Immature dendritic cells may also phagocytose small quantities of membrane from live own cells, in a process called nibbling. Once they have come into contact with a presentable antigen, they become activated into mature dendritic cells and begin to migrate to the lymph node. Immature dendritic cells phagocytose pathogens and degrade their proteins into small pieces and upon maturation present those fragments at their cell surface using MHC molecules. Simultaneously, they upregulate cell-surface receptors that act as co-receptors in T-cell activation such as CD80 (B7.1), CD86 (B7.2), and CD40 greatly enhancing their ability to activate T-cells. They also upregulate CCR7, a chemotactic receptor that induces the dendritic cell to travel through the blood stream to the spleen or through the lymphatic system to a lymph node. Here they act as antigen-presenting cells: they activate helper T-cells and killer T-cells as well as B-cells by presenting them with antigens derived from the pathogen, alongside non-antigen specific costimulatory signals. Dendritic cells can also induce T-cell tolerance (unresponsiveness). Certain C-type lectin receptors (CLRs) on the surface of dendritic cells, some functioning as PRRs, help instruct dendritic cells as to when it is appropriate to induce immune tolerance rather than lymphocyte activation.",
+            "score": 210.69014835357666
+        },
+        {
+            "docid": "82342_7",
+            "document": "Lymph node . The number and composition of follicles can change especially when challenged by an antigen, when they develop a germinal center. Elsewhere in the node, there are only occasional leucocytes. As part of the reticular network there are follicular dendritic cells in the B cell follicle and fibroblastic reticular cells in the T cell cortex. The reticular network not only provides the structural support, but also the surface for adhesion of the dendritic cells, macrophages and lymphocytes. It allows exchange of material with blood through the high endothelial venules and provides the growth and regulatory factors necessary for activation and maturation of immune cells.",
+            "score": 196.70488691329956
+        },
+        {
+            "docid": "3215002_12",
+            "document": "IL1A . A wide variety of other cells only upon stimulation can be induced to transcribe the IL-1\u03b1 genes and produce the precursor form of IL-1\u03b1, Among them are fibroblasts, macrophages, granulocytes, eosinophils, mast cells and basophils, endothelial cells, platelets, monocytes and myeloid cell lines, blood T-lymphocytes and B-lymphocytes, astrocytes, kidney mesangial cells, Langerhans cells, dermal dendritic cells, natural killer cells, large granular lymphocytes, microglia, blood neutrophils, lymph node cells, maternal placental cells and several other cell types.",
+            "score": 163.34695315361023
+        },
+        {
+            "docid": "39314186_15",
+            "document": "Lymph node stromal cell . The lymph carries chemokines (molecular chemical messengers) and antigens to the lymph node. At the lymph node, the lymph passes quickly through the reticular network to the T cell zone and the high endothelial venules. FRCs express chemokines such as CCL21 and CCL19 which assist the movement of T cells and dentritic cells with CCR7 receptors.",
+            "score": 199.37016654014587
+        },
+        {
+            "docid": "13041_5",
+            "document": "Growth factor . \"Growth factor\" is sometimes used interchangeably among scientists with the term \"cytokine.\" Historically, cytokines were associated with hematopoietic (blood and lymph forming) cells and immune system cells (e.g., lymphocytes and tissue cells from spleen, thymus, and lymph nodes). For the circulatory system and bone marrow in which cells can occur in a liquid suspension and not bound up in solid tissue, it makes sense for them to communicate by soluble, circulating protein molecules. However, as different lines of research converged, it became clear that some of the same signaling proteins which the hematopoietic and immune systems use were also being used by all sorts of other cells and tissues, during development and in the mature organism.",
+            "score": 147.51288533210754
+        },
+        {
+            "docid": "2030977_3",
+            "document": "Lymph node biopsy . The lymphatic system is made up of several lymph nodes connected by lymph vessels. The nodes produce white blood cells (lymphocytes) that fight infections. When an infection is present, the lymph nodes swell, produce more white blood cells, and attempt to trap the organisms that are causing the infection. The lymph nodes also try to trap cancer cells.",
+            "score": 147.4641935825348
+        },
+        {
+            "docid": "529578_10",
+            "document": "Transplant rejection . Dendritic cells (DCs), which are the primary antigen-presenting cells (APCs), of the donor tissue migrate to the recipient's peripheral lymphoid tissue (lymphoid follicles and lymph nodes), and present the donor's \"self\" peptides to the recipient's lymphocytes (immune cells residing in lymphoid tissues). Lymphocytes include two classes that enact adaptive immunity, also called specific immunity. Lymphocytes of specific immunity T cells\u2014including the subclasses helper T cells and killer T cells\u2014and B cells.",
+            "score": 172.0246982574463
+        },
+        {
+            "docid": "39314186_21",
+            "document": "Lymph node stromal cell . High endothelial cells (HECs) are specialized vascular endothelial cells. In the thymus, they line the high endothelial venules where lymphocytes originate. In the lymph node, they express adhesion molecules on their surface, peripheral node addressin (PNAd) and chemokine CCL21. These molecules are essential for the entry of lymphocytes from the blood into the lymph nodes and can regulate the number of lymphocytes entering the lymph node from the blood stream by holding up to five lymphocytes in a pocket.",
+            "score": 136.624671459198
+        },
+        {
+            "docid": "42326468_3",
+            "document": "Gut-specific homing . T cells are produced in the thymus, and upon leaving they migrate to and around the lymphoid organs of the body, including lymph nodes. In the paracortex of the lymphoid nodes they are exposed to professional antigen-presenting cells (APCs), such as dendritic cells (DCs). Specific interactions between the na\u00efve T cells and their cognate antigens result in T cell activation. The activated T cells, immunoblasts, undergo clonal expansion before acquiring effector functions. The activated T cells then emigrate from the lymph nodes, via the efferent lymphatic vessel, and migrate around the body in the blood.",
+            "score": 188.86392092704773
+        },
+        {
+            "docid": "39314186_8",
+            "document": "Lymph node stromal cell . The primary role of lymph node stromal cells is structural. They form a scaffold for hematopoietic cells and assist their movement along it. The molecular signaling systems (chemokines) that distribute lymphocytes to appropriate localities within the lymph node (T and B cell segregation) are also created by lymph node stromal cells. Lymphocytes have receptors for such chemokines. For example, Naive T cells express the CCR7 receptor for the chemokine CCL21. and B cells exhibit CXCR5 receptors for chemokine CXCL13.",
+            "score": 205.4823181629181
+        },
+        {
+            "docid": "39314186_4",
+            "document": "Lymph node stromal cell . The interior of the lymph node has two regions: the cortex and the medulla. In the cortex, lymphoid tissue is organized into nodules. In the nodules, T lymphocytes (cells which help to fight viruses) are located in the \"T cell zone\". B lymphocytes (cells which help to fight certain bacteria) are located in the \"B cell follicle\". The primary B cell follicle matures in germinal centers. In the medulla are hematopoietic cells (which contribute to the formation of the blood) and stromal cells.",
+            "score": 184.02047514915466
+        },
+        {
+            "docid": "170417_14",
+            "document": "T cell . Gamma delta T cells (\u03b3\u03b4 T cells) represent a small subset of T cells that possess a distinct T cell receptor (TCR) on their surfaces. A majority of T cells have a TCR composed of two glycoprotein chains called \u03b1- and \u03b2- TCR chains. However, in \u03b3\u03b4 T cells, the TCR is made up of one \u03b3-chain and one \u03b4-chain. This group of T cells is much less common in humans and mice (about 2% of total T cells); and are found mostly in the gut mucosa, within a population of lymphocytes known as intraepithelial lymphocytes. In rabbits, sheep, and chickens, the number of \u03b3\u03b4 T cells can be as high as 60% of total T cells. The antigenic molecules that activate \u03b3\u03b4 T cells are still widely unknown. However, \u03b3\u03b4 T cells are not MHC-restricted and seem to be able to recognize whole proteins rather than requiring peptides to be presented by MHC molecules on APCs. Some murine \u03b3\u03b4 T cells recognize MHC class IB molecules, though. Human V\u03b39/V\u03b42 T cells, which constitute the major \u03b3\u03b4 T cell population in peripheral blood, are unique in that they specifically and rapidly respond to a set of nonpeptidic phosphorylated isoprenoid precursors, collectively named phosphoantigens, which are produced by virtually all living cells. The most common phosphoantigens from animal and human cells (including cancer cells) are isopentenyl pyrophosphate (IPP) and its isomer dimethylallyl pyrophosphate (DMPP). Many microbes produce the highly active compound hydroxy-DMAPP (HMB-PP) and corresponding mononucleotide conjugates, in addition to IPP and DMAPP. Plant cells produce both types of phosphoantigens. Drugs activating human V\u03b39/V\u03b42 T cells comprise synthetic phosphoantigens and aminobisphosphonates, which upregulate endogenous IPP/DMAPP.",
+            "score": 174.8669490814209
+        },
+        {
+            "docid": "39314186_6",
+            "document": "Lymph node stromal cell . The lymph nodes, the spleen and Peyer's patches, are known as secondary lymphoid organs. Lymph nodes are found between lymphatic ducts and blood vessels. Afferent lymphatic vessels bring lymph fluid from the peripheral tissues to the lymph nodes. The lymph tissue in the lymph nodes consists of immune cells (95%), for example lymphocytes, and stromal cells (1% to 5%) The genesis of lymph nodes begins within the blood and the lymphatic system. Interactions between stromal and hematopoietic cells are important for the development of lymph nodes. Crosstalk LEC, lymphoid tissue inducer cells and mesenchymal stromal organizer cells initiate the formation of lymph nodes.",
+            "score": 157.1551742553711
+        },
+        {
+            "docid": "45570_38",
+            "document": "DNA vaccination . Studies using chimeric mice have shown that antigen is presented by bone-marrow derived cells, which include dendritic cells, macrophages and specialised B-cells called professional antigen presenting cells (APC). After gene gun inoculation to the skin, transfected Langerhans cells migrate to the draining lymph node to present antigens. After IM and ID injections, dendritic cells present antigen in the draining lymph node and transfected macrophages have been found in the peripheral blood.",
+            "score": 144.09292793273926
+        },
+        {
+            "docid": "39314186_19",
+            "document": "Lymph node stromal cell . Marginal reticular cells (MRCs) form a layer of cells beneath the subcapsular sinuses. Via the reticular network, the MRCs bring antigens from the sub-capsular sinuses to the B cell follicles. MRCs express the molecule \"TRANCE\" (also known as \"RANKL\"), a type of tumor necrosis factor. They are one of organizer cells involved in the formation of the structure of lymph node during organogenesis. They express CXCL13 at the edges of B cell follicles.",
+            "score": 156.99697279930115
+        },
+        {
+            "docid": "13120422_3",
+            "document": "Tumor antigen . Normal proteins in the body are not antigenic because of self-tolerance, a process in which self-reacting cytotoxic T lymphocytes (CTLs) and autoantibody-producing B lymphocytes are called \"centrally\" in primary lymphatic tissue (BM) and \"peripherally\" in secondary lymphatic tissue (mostly thymus for T-cells and spleen/lymph nodes for B cells). Thus any protein that is not exposed to the immune system triggers an immune response. This may include normal proteins that are well sequestered from the immune system, proteins that are normally produced in extremely small quantities, proteins that are normally produced only in certain stages of development, or proteins whose structure is modified due to mutation.",
+            "score": 174.03604316711426
+        },
+        {
+            "docid": "14128544_4",
+            "document": "C-C chemokine receptor type 7 . The protein encoded by this gene is a member of the G protein-coupled receptor family. This receptor was identified as a gene induced by the Epstein-Barr virus (EBV), and is thought to be a mediator of EBV effects on B lymphocytes. This receptor is expressed in various lymphoid tissues and activates B and T lymphocytes. CCR7 has been shown to stimulate dendritic cell maturation. CCR7 is also involved in homing of T cells to various secondary lymphoid organs such as lymph nodes and the spleen as well as trafficking of T cells within the spleen.",
+            "score": 163.81431102752686
+        },
+        {
+            "docid": "82342_19",
+            "document": "Lymph node . Antigens are molecules found on bacterial cell walls, chemical substances secreted from bacteria, or sometimes even molecules present in body tissue itself. These are taken up by cells throughout the body called antigen-presenting cells, such as dendritic cells. These antigen presenting cells enter the lymph system and then lymph nodes. They present the antigen to T cells and, if there is a T cell with the appropriate T cell receptor, it will be activated.",
+            "score": 199.7912905216217
+        },
+        {
+            "docid": "7138421_12",
+            "document": "Wandering cell . B cells are wandering cells that are antibody factories. They are capable of producing molecules that can recognize and bond to specific types of molecules present in infectious organisms or substances that the body identifies as foreign. Every individual B cell makes only one particular type of antibody, specific to only one type of foreign substance. For example, where one cell produces antibody against one of the many viral causes of a cold, another cell's antibodies will ignore the presence of the same virus completely. Normally, the body contains many different B cells, specialized for a specific invader, but only has low levels of each type circulating. When an invader manages to break past other defenses, like the skin or digestive tract into the body, then the circulating B cells that target that particular foreigner multiply up and produce more antibody. Special forms of B cell called plasma cells produce antibodies; little versions of the specialized B cells, called memory B cells, remain stored in lymph glands prepared for the next invasion by the foreigner. Although the products of B cells, the antibodies, stick onto their target invader, they most often do not kill the invader. This job falls to other types of lymphocytes called T cells. There are three different forms of T cells, which are the Helper T cells, the Killer T cells, and the Suppressor T cells.",
+            "score": 175.25022721290588
+        },
+        {
+            "docid": "1814564_15",
+            "document": "Antigen-presenting cell . After dendritic cells have phagocytosed pathogens, they usually migrate to the vast network of lymph vessels and are carried by lymph flow to the draining lymph nodes. Each lymph node is a collection point where APCs can interact with T cells. During the migration, DCs undergo a process of maturation: they lose most of their ability to further engulf pathogens and they mature by changing surface expression of MHC and co-stimulatory molecules, as well as increased production of cytokines. The internalized antigen is digested into smaller peptides containing epitopes, which are then presented to T cells by the MHC.",
+            "score": 165.86208128929138
+        },
+        {
+            "docid": "52872553_4",
+            "document": "Severe combined immunodeficient mice . Mice with SCIDs have lymphocyte progenitors, but these cells are unable to survive to maturity. This results in a lack of B and T cells in the thymus and in the secondary lymphoid organs, such as the spleen and lymph nodes. Some SCID mice are able to produce monocytes, granulocytes, and red blood cells from the hematopoietic stem cells (HSC) present in their bone marrow. Due to their immunodeficiency, mice with SCIDs often die young if not kept under extremely sterile conditions.",
+            "score": 165.03832912445068
+        },
+        {
+            "docid": "14760983_4",
+            "document": "C-fos-induced growth factor . Lymph node metastasis is very often associated with several types of human malignancies. Cancer cells\u2019 journey to lymph node takes place largely through lymphatic tunnel located in and around of primary tumor. VEGF-D\u2019s interactions with VEGFR-3 predominantly expressed in lymphatic vessels plays a key role in restructuring lymphatic channel and, hence, able to alter its functions related to fluid and cell transport along the conduits. VEGF-D has been established to be over-expressed in both tumor tissues and patients\u2019 serum samples in several types of human cancer. In addition, VEGF-D expression has been implicated with increased incidence of regional lymph node metastasis. In experimental mice study, genetically modified tumor cell that was forced to produce VEGF-D protein have been established to boost up regional lymph nodes metastases.",
+            "score": 144.13812375068665
+        },
+        {
+            "docid": "35739540_4",
+            "document": "ALECSAT . In order to have efficient eradication of cancer cells, the immune system cells should be able to both populate in the secondary lymphoid organs for a long-lasting effect and target a shared variety of tumor cells as opposed to one, specific cancer cell. In the ALECSAT method, several different cells are activated to accomplish this. Cytotoxic T lymphocytes (CTL) are activated to target the cells that present proteins characteristic of tumor cells Some tumor cells, however, do not present an antigen due to lack of a major histocompatibility complex (MHC) and therefore cannot be recognized by the CTLs. The cells that do not present an antigen are targeted by activated NK cells, leaving little opportunity for any cancer cells to escape. CTLs and NK cells are both effector cells so helper T-cells (T) are also prepared in order to create memory cells for long term resistance toward tumor cells. T helper 1 (TH1) cells, when injected with overexpressed tumor antigens, have been shown to enhance migration of antigen-presenting cells (APCs) into the draining lymph node in mice, further enhancing immune response through activation of CTLs.",
+            "score": 179.3088973760605
+        },
+        {
+            "docid": "39314186_13",
+            "document": "Lymph node stromal cell . Lymph node stromal cells can be grouped into six sub-populations which are known by their expression of surface markers. The sub-populations include: fibroblastic reticular cells (FRCs); folicular dendritic cells (FDCs); lymphatic endothelial cells (LECs); blood endothelial cells (BECs); alpha-7 integrin pericytes (AIPs); and double negative cells (DNCs). The surface markers include: glycoprotein CD31 and glycoprotein podoplanin GP38. The different sub-populations are also known by their production of small molecules; where they are located; and their function. Most also express common markers such as desmin, laminin, various subunits of integrins, vascular cell adhesion molecule 1 (VCAM-1) and mucosal vascular addressin cell adhesion molecule 1 (MAdCAM-1).",
+            "score": 162.83322703838348
+        }
+    ],
+    "r": [
+        {
+            "docid": "39314186_10",
+            "document": "Lymph node stromal cell . In an inflammatory state, lymphatic endothelial cells increase their surface adhesion molecules, and dendritic cells express a surface CCR7 receptor. This type of receptor interacts with the chemokine CCL21, produced by fibroblastic reticular cells. Due to this interaction, dendritic cells move to the T cell zone or to the B cell follicle along the fibroblast reticular cell network. Dendritic cells exhibit C-type lectin receptors (CLEC-2), which bind to gp38 on the surface of lymphatic endothelial cells.",
+            "score": 217.85464477539062
+        },
+        {
+            "docid": "148367_12",
+            "document": "Dendritic cell . Dendritic cells are derived from hematopoietic bone marrow progenitor cells. These progenitor cells initially transform into immature dendritic cells. These cells are characterized by high endocytic activity and low T-cell activation potential. Immature dendritic cells constantly sample the surrounding environment for pathogens such as viruses and bacteria. This is done through pattern recognition receptors (PRRs) such as the toll-like receptors (TLRs). TLRs recognize specific chemical signatures found on subsets of pathogens. Immature dendritic cells may also phagocytose small quantities of membrane from live own cells, in a process called nibbling. Once they have come into contact with a presentable antigen, they become activated into mature dendritic cells and begin to migrate to the lymph node. Immature dendritic cells phagocytose pathogens and degrade their proteins into small pieces and upon maturation present those fragments at their cell surface using MHC molecules. Simultaneously, they upregulate cell-surface receptors that act as co-receptors in T-cell activation such as CD80 (B7.1), CD86 (B7.2), and CD40 greatly enhancing their ability to activate T-cells. They also upregulate CCR7, a chemotactic receptor that induces the dendritic cell to travel through the blood stream to the spleen or through the lymphatic system to a lymph node. Here they act as antigen-presenting cells: they activate helper T-cells and killer T-cells as well as B-cells by presenting them with antigens derived from the pathogen, alongside non-antigen specific costimulatory signals. Dendritic cells can also induce T-cell tolerance (unresponsiveness). Certain C-type lectin receptors (CLRs) on the surface of dendritic cells, some functioning as PRRs, help instruct dendritic cells as to when it is appropriate to induce immune tolerance rather than lymphocyte activation.",
+            "score": 210.6901397705078
+        },
+        {
+            "docid": "1664060_14",
+            "document": "Adaptive immune system . Dendritic cells engulf exogenous pathogens, such as bacteria, parasites or toxins in the tissues and then migrate, via chemotactic signals, to the T cell-enriched lymph nodes. During migration, dendritic cells undergo a process of maturation in which they lose most of their ability to engulf other pathogens, and develop an ability to communicate with T-cells. The dendritic cell uses enzymes to chop the pathogen into smaller pieces, called antigens. In the lymph node, the dendritic cell displays these non-self antigens on its surface by coupling them to a receptor called the major histocompatibility complex, or MHC (also known in humans as human leukocyte antigen (HLA)). This MHC: antigen complex is recognized by T-cells passing through the lymph node. Exogenous antigens are usually displayed on MHC class II molecules, which activate CD4+T helper cells.",
+            "score": 209.05667114257812
+        },
+        {
+            "docid": "41479084_12",
+            "document": "Altered Schaedler flora . Intestinal homeostasis is maintained by host-microbe interactions and host immunity. This is critical for digestion of food and protection against pathogens. Bouskra, \"et al.\" studied the regulation of intestinal flora and the immune system. They found IgA producing B cells in the Peyer\u2019s patches, intestinal lymphoid tissues and follicles, and mesenteric lymph nodes. They used ASF to test the maturation of lymphoid follicles into large B cell clusters by the toll-like receptor signaling. In another study, the innate detection system generates adaptive immune system to maintain intestinal homeostasis. Geuking, \"et al.\" examined the role of regulatory T cells in limiting microbe-triggered intestinal inflammation and the T cell compartment. Using ASF, they found intestinal colonization resulted in activation and generation of colonic Treg cells. In germfree mice, Th17 and Th1 response dominate.",
+            "score": 208.19406127929688
+        },
+        {
+            "docid": "39314186_14",
+            "document": "Lymph node stromal cell . Fibroblastic reticular cells (FRCs) are located in the T cell zone of the cortex. FRCs produce collagen alpha-1(III) rich reticular fibers that form a dense network within the lymphoid tissue. These are connected by collagen XIV, small leucine-rich proteoglycans and lysyl oxidase. The network of fibers supports and guides the movement of dendritic cells (DCs), T lymphocytes and B lymphocytes. It also creates a porous \"molecular sieve\" in the lymph node.",
+            "score": 206.3341522216797
+        },
+        {
+            "docid": "39314186_8",
+            "document": "Lymph node stromal cell . The primary role of lymph node stromal cells is structural. They form a scaffold for hematopoietic cells and assist their movement along it. The molecular signaling systems (chemokines) that distribute lymphocytes to appropriate localities within the lymph node (T and B cell segregation) are also created by lymph node stromal cells. Lymphocytes have receptors for such chemokines. For example, Naive T cells express the CCR7 receptor for the chemokine CCL21. and B cells exhibit CXCR5 receptors for chemokine CXCL13.",
+            "score": 205.48231506347656
+        },
+        {
+            "docid": "45639348_12",
+            "document": "Lysophosphatidic acid phosphatase type 6 . Lysophosphatidic acid phosphatase activity is used to detect and to quantify irregular levels of LPAs on a cell's surface. LPAs are receptor-active mediators that promote cell motility, cell growth and cell survival. There is clear evidence that cancerous ovarian cells have an increased level of LPA concentrations on their cell surfaces. These LPAs leak from the cell surface into the blood stream. The high levels of LPAs in the blood are used as tumor markers. In these cell clusters, lysophosphatidic acid phosphatase activity is higher than it is in regular cells. This can be attributed to the significantly increased levels of LPA that are secreted and synthesized by the ovarian cancer cells. This helps explain the cancerous cell's radical behavior and uncontrollable proliferation caused by the imbalance of enzyme and substrate concentrations, therefore leading to the inability to turn off the LPA cascade signalling effectively. One possible way to address and treat ovarian cancer cell proliferation would be to increase the concentration of lysophosphatidic acid phosphatase on the cell's surface, thus decreasing the amount of LPAs available to signal the cell to proceed with its radical behavior.",
+            "score": 204.59133911132812
+        },
+        {
+            "docid": "82342_6",
+            "document": "Lymph node . Thin reticular fibers of reticular connective tissue, and elastin form a supporting meshwork called a \"reticulin\" inside the node. B cells are mainly found in the outer (superficial cortex) where they are clustered together as follicular B cells in lymphoid follicles and the T cells are mainly in the \"paracortex\". The lymph node is divided into compartments called lymph nodules (or lobules) each consisting of a cortical region of combined follicle B cells, a paracortical region of T cells, and a basal part of the nodule in the medulla.",
+            "score": 202.4867401123047
+        },
+        {
+            "docid": "13780711_11",
+            "document": "Peripheral tolerance . Aside from dendritic cells, additional cell populations were identified that are able to induce antigen-specific T cell tolerance. These are mainly the members of lymph node stromal cells (LNSCs). LNSCs are generally divided into several sub-populations based on the expression of gp38 (PDPN) and CD31 surface markers. Among those, only fibroblastic reticular cells and lymph node stromal cells were shown to play a role in the peripheral tolerance. Both of those populations are able to induce CD8 T cell tolerance by presentation of the endogenous antigens on MHCI molecules and even the CD4 T cell tolerance by the presentation of the peptide-MHCII complexes, which they acquired from the DCs.",
+            "score": 199.92385864257812
+        },
+        {
+            "docid": "82342_19",
+            "document": "Lymph node . Antigens are molecules found on bacterial cell walls, chemical substances secreted from bacteria, or sometimes even molecules present in body tissue itself. These are taken up by cells throughout the body called antigen-presenting cells, such as dendritic cells. These antigen presenting cells enter the lymph system and then lymph nodes. They present the antigen to T cells and, if there is a T cell with the appropriate T cell receptor, it will be activated.",
+            "score": 199.79129028320312
+        },
+        {
+            "docid": "39314186_15",
+            "document": "Lymph node stromal cell . The lymph carries chemokines (molecular chemical messengers) and antigens to the lymph node. At the lymph node, the lymph passes quickly through the reticular network to the T cell zone and the high endothelial venules. FRCs express chemokines such as CCL21 and CCL19 which assist the movement of T cells and dentritic cells with CCR7 receptors.",
+            "score": 199.3701629638672
+        },
+        {
+            "docid": "82342_18",
+            "document": "Lymph node . The primary function of lymph nodes is the filtering of lymph to identify and fight infection. In order to do this, lymph nodes contain lymphocytes, a type of white blood cell, which includes B cells and T cells. These circulate through the bloodstream and enter and reside in lymph nodes. B cells produce antibodies. Each antibody has a single predetermined target, an antigen, that it can bind to. These circulate throughout the bloodstream and if they find this target, the antibodies bind to it and stimulate an immune response. Each B cell produces different antibodies, and this process is driven in lymph nodes. B cells enter the bloodstream as \"naive\" cells produced in bone marrow. After entering a lymph node, they then enter a lymphoid follicle, where they multiply and divide, each producing a different antibody. If a cell is stimulated, it will go on to produce more antibodies (a plasma cell) or act as a memory cell to help the body fight future infection. If a cell is not stimulated, it will undergo apoptosis and die.",
+            "score": 198.462890625
+        },
+        {
+            "docid": "82342_7",
+            "document": "Lymph node . The number and composition of follicles can change especially when challenged by an antigen, when they develop a germinal center. Elsewhere in the node, there are only occasional leucocytes. As part of the reticular network there are follicular dendritic cells in the B cell follicle and fibroblastic reticular cells in the T cell cortex. The reticular network not only provides the structural support, but also the surface for adhesion of the dendritic cells, macrophages and lymphocytes. It allows exchange of material with blood through the high endothelial venules and provides the growth and regulatory factors necessary for activation and maturation of immune cells.",
+            "score": 196.70489501953125
+        },
+        {
+            "docid": "5024592_12",
+            "document": "Immune tolerance . Peripheral tolerance develops after T and B cells mature and enter the peripheral tissues and lymph nodes. It is established by a number of partly overlapping mechanisms that mostly involve control at the level of T cells, especially CD4+ helper T cells, which orchestrate immune responses and give B cells the confirmatory signals they need in order to produce antibodies. Inappropriate reactivity toward normal self-antigen that was not eliminated in the thymus can occur, since the T cells that leave the thymus are relatively but not completely safe. Some will have receptors (TCRs) that can respond to self-antigens that:",
+            "score": 192.5294647216797
+        },
+        {
+            "docid": "169270_19",
+            "document": "Macrophage . The antigen presentation on the surface of infected macrophages (in the context of MHC class II) in a lymph node stimulates TH1 (type 1 helper T cells) to proliferate (mainly due to IL-12 secretion from the macrophage). When a B-cell in the lymph node recognizes the same unprocessed surface antigen on the bacterium with its surface bound antibody, the antigen is endocytosed and processed. The processed antigen is then presented in MHCII on the surface of the B-cell. T cells that express the T cell receptor which recognizes the antigen-MHCII complex (with co-stimulatory factors- CD40 and CD40L) cause the B-cell to produce antibodies that help opsonisation of the antigen so that the bacteria can be better cleared by phagocytes.",
+            "score": 191.15899658203125
+        },
+        {
+            "docid": "14157278_3",
+            "document": "PD-L1 . Programmed death-ligand 1 (PD-L1) is a 40kDa type 1 transmembrane protein that has been speculated to play a major role in suppressing the immune system during particular events such as pregnancy, tissue allografts, autoimmune disease and other disease states such as hepatitis. Normally the immune system reacts to foreign antigens that are associated with exogenous or endogenous danger signals, which triggers a proliferation of antigen-specific CD8+ T cells and/or CD4+ helper cells. The binding of PD-L1 to PD-1 or B7.1 transmits an inhibitory signal that reduces the proliferation of antigen-specific T-cells in lymph nodes, while simultaneously reducing apoptosis in regulatory T cells (anti-inflammatory, suppressive T cells) - further mediated by a lower regulation of the gene Bcl-2.",
+            "score": 190.08673095703125
+        },
+        {
+            "docid": "7026804_5",
+            "document": "High endothelial venules . In order for an adaptive immune response to occur T cells need to be activated. T cells become activated by recognising foreign antigens bound to antigen presenting cells (APC), in particular, dendritic cells. In order for na\u00efve T cells to bind to their specific antigen, they need to experience physical contact with those cells. Since antigen levels are usually low, contact in blood circulation would be unlikely. Therefore, T cells need a region where they can go to sample foreign antigens that have entered the body. When an APC, such as a dendritic cell, binds a foreign antigen it becomes activated and moves into the lymph nodes (sites for antigen sampling by T cells) via afferent lymphatic vessels. Na\u00efve T cells in the circulation regularly move through the lymph nodes via HEV in order to scan the APC for foreign antigens. When they encounter such an antigen, the cell becomes activated, resulting in the immune system mounting a response against the causative agent of the infection.",
+            "score": 190.0709228515625
+        },
+        {
+            "docid": "55059510_5",
+            "document": "Immunological memory . Memory T cells can be both CD4+ and CD8+. These memory T cells do not require further antigen stimulation to proliferate; therefore, they do not need a signal via MHC. Memory T cells can be divided into two functionally distinct groups based on the expression of the CCR7 chemokine receptor. This chemokine indicates the direction of migration into secondary lymphatic organs. Those memory T cells that do not express CCR7 (these are CCR7-) have receptors to migrate to the site of inflammation in the tissue and represent an immediate effector cell population. These cells were named memory effector T cells (T). After repeated stimulation they produce large amounts of IFN-\u03b3, IL-4 and IL-5. In contrast, CCR7 + memory T cells lack proinflammatory and cytotoxic function but have receptors for lymph node migration. These cells were named central memory T cells (T). They effectively stimulate dendritic cells an after repeated stimulation they are able to differentiate in CCR7- effector memory T cells. Both populations of these memory cells originate from naive T cells and remain in the body for several years after initial immunization.",
+            "score": 189.3817138671875
+        },
+        {
+            "docid": "14958_29",
+            "document": "Immune system . Gamma delta T cells (\u03b3\u03b4 T cells) possess an alternative T-cell receptor (TCR) as opposed to CD4+ and CD8+ (\u03b1\u03b2) T cells and share the characteristics of helper T cells, cytotoxic T cells and NK cells. The conditions that produce responses from \u03b3\u03b4 T cells are not fully understood. Like other 'unconventional' T cell subsets bearing invariant TCRs, such as CD1d-restricted Natural Killer T cells, \u03b3\u03b4 T cells straddle the border between innate and adaptive immunity. On one hand, \u03b3\u03b4 T cells are a component of adaptive immunity as they rearrange TCR genes to produce receptor diversity and can also develop a memory phenotype. On the other hand, the various subsets are also part of the innate immune system, as restricted TCR or NK receptors may be used as pattern recognition receptors. For example, large numbers of human V\u03b39/V\u03b42 T cells respond within hours to common molecules produced by microbes, and highly restricted V\u03b41+ T cells in epithelia respond to stressed epithelial cells. A B cell identifies pathogens when antibodies on its surface bind to a specific foreign antigen. This antigen/antibody complex is taken up by the B cell and processed by proteolysis into peptides. The B cell then displays these antigenic peptides on its surface MHC class II molecules. This combination of MHC and antigen attracts a matching helper T cell, which releases lymphokines and activates the B cell. As the activated B cell then begins to divide, its offspring (plasma cells) secrete millions of copies of the antibody that recognizes this antigen. These antibodies circulate in blood plasma and lymph, bind to pathogens expressing the antigen and mark them for destruction by complement activation or for uptake and destruction by phagocytes. Antibodies can also neutralize challenges directly, by binding to bacterial toxins or by interfering with the receptors that viruses and bacteria use to infect cells.",
+            "score": 189.01466369628906
+        },
+        {
+            "docid": "42326468_3",
+            "document": "Gut-specific homing . T cells are produced in the thymus, and upon leaving they migrate to and around the lymphoid organs of the body, including lymph nodes. In the paracortex of the lymphoid nodes they are exposed to professional antigen-presenting cells (APCs), such as dendritic cells (DCs). Specific interactions between the na\u00efve T cells and their cognate antigens result in T cell activation. The activated T cells, immunoblasts, undergo clonal expansion before acquiring effector functions. The activated T cells then emigrate from the lymph nodes, via the efferent lymphatic vessel, and migrate around the body in the blood.",
+            "score": 188.86392211914062
+        },
+        {
+            "docid": "13734824_17",
+            "document": "Immune privilege . Generally, in normal (uninjured) tissue, antigens are taken up by antigen presenting cells (dendritic cells), and subsequently transported to the lymph nodes. Alternatively, soluble antigens can drain into the lymph nodes. In contrast, in the CNS, dendritic cells are not thought to be present in normal parenchymal tissue or perivascular space although they are present in the meninges and choroids plexus. Thus, the CNS is thought to be limited in its capacity to deliver antigens to local lymph nodes and cause T-cell activation.  Although there is no conventional lymphatic system in the CNS, the drainage of antigens from CNS tissue into the cervical lymph nodes has been demonstrated. The response elicited in the lymph nodes to CNS antigens is skewed towards B-cells. Dendritic cells from cerebrospinal fluid have been found to migrate to B-cell follicles of cervical lymph nodes. The skewing of the response to antigen from the CNS towards a humoral response means that a more dangerous inflammatory T-cell response can be avoided. The induction of systemic tolerance to an antigen introduced into the CNS has been previously shown. This was seen in the absence of the T-cell mediated inflammatory \"delayed type hypersensitivity reaction\" (DTH) when the antigen was reintroduced in another part of the body. This response is analogous to ACAID in the eye.",
+            "score": 187.284912109375
+        },
+        {
+            "docid": "19612999_2",
+            "document": "Follicular B helper T cells . Follicular B helper T cells (also known as just follicular helper T cells or T), are antigen-experienced CD4 T cells found in the periphery within B cell follicles of secondary lymphoid organs such as lymph nodes, spleens and Peyer's patches, and are identified by their constitutive expression of the B cell follicle homing receptor CXCR5. Upon cellular interaction and cross-signaling with their cognate follicular (Fo B) B cells, T cells trigger the formation and maintenance of germinal centers through the expression of CD40 ligand (CD40L) and the secretion of IL-21 and IL-4. T cells also migrate into these seeded germinal centers, predominantly composed of rapidly dividing and mutating B cells. Within germinal centers, T cells play a critical role in mediating the selection and survival of B cells that go on to differentiate either into special plasma cells capable of producing high affinity antibodies against foreign antigen, or memory B cells capable of quick immune re-activation in the future if ever the same antigen is re-encountered. T cells are also thought to facilitate negative selection of potentially autoimmune-causing mutated B cells in the germinal center. However, the biomechanisms by which T cells mediate germinal center tolerance are yet to be fully understood.",
+            "score": 187.06362915039062
+        },
+        {
+            "docid": "211949_32",
+            "document": "T helper cell . Historically, memory T cells were thought to belong to either the effector or central memory subtypes, each with their own distinguishing set of cell surface markers. Central memory T cells reside in the lymph nodes while effector memory T cells lack the C-C chemokine receptor type 7 (CCR7) and L-selectin (CD62L) receptors, which prevents them from trafficking to the lymph nodes.",
+            "score": 186.83462524414062
+        },
+        {
+            "docid": "9132492_13",
+            "document": "Ipilimumab . Cancer cells produce antigens, which the immune system can use to identify them. These antigens are recognized by dendritic cells that present the antigens to cytotoxic T lymphocytes (CTLs) in the lymph nodes. The CTLs recognize the cancer cells by those antigens and destroy them. However, along with the antigens, the dendritic cells present an inhibitory signal. That signal binds to a receptor, cytotoxic T lymphocyte-associated antigen 4 (CTLA-4), on the CTL and turns off the cytotoxic reaction. This allows the cancer cells to survive.",
+            "score": 186.36532592773438
+        },
+        {
+            "docid": "47036739_2",
+            "document": "T cell receptor revision . T cell receptor revision (alternative term: antigen receptor editing) is a process in the peripheral immune system which is used by mature T cells to alter their original antigenic specificity based on rearranged T cell receptors (TCR). This process can lead either to continuous appearance of potentially self-reactive T cells in the body, not controlled by the central tolerance mechanism in the thymus or better eliminate such self-reactive T cells on the other hand and thus contributing to peripheral tolerance - the extent of each has not been completely understood yet. This process occurs during follicular helper T cell formation in lymph node germinal centers.",
+            "score": 186.1451416015625
+        },
+        {
+            "docid": "14958_28",
+            "document": "Immune system . Helper T cells express T cell receptors (TCR) that recognize antigen bound to Class II MHC molecules. The MHC:antigen complex is also recognized by the helper cell's CD4 co-receptor, which recruits molecules inside the T cell (e.g., Lck) that are responsible for the T cell's activation. Helper T cells have a weaker association with the MHC:antigen complex than observed for killer T cells, meaning many receptors (around 200\u2013300) on the helper T cell must be bound by an MHC:antigen in order to activate the helper cell, while killer T cells can be activated by engagement of a single MHC:antigen molecule. Helper T cell activation also requires longer duration of engagement with an antigen-presenting cell. The activation of a resting helper T cell causes it to release cytokines that influence the activity of many cell types. Cytokine signals produced by helper T cells enhance the microbicidal function of macrophages and the activity of killer T cells. In addition, helper T cell activation causes an upregulation of molecules expressed on the T cell's surface, such as CD40 ligand (also called CD154), which provide extra stimulatory signals typically required to activate antibody-producing B cells.",
+            "score": 186.06594848632812
+        },
+        {
+            "docid": "32523145_2",
+            "document": "CD8+ cell . CD8+ T cells (commonly known as cytotoxic T cells) are cells of the immune system that contribute to the body's adaptive immune response. These immune cells are characterized by a CD8 protein on their cell surface that allow them to recognize, bind and kill cells infected by intracellular bacteria, intracellular viruses and cancer cells. They are developed in the bone marrow and thymus, and are regulated by transcription factors and signalling components. CD8+ T cells have also been found to play various roles in different diseases.",
+            "score": 185.3349609375
+        },
+        {
+            "docid": "39314186_4",
+            "document": "Lymph node stromal cell . The interior of the lymph node has two regions: the cortex and the medulla. In the cortex, lymphoid tissue is organized into nodules. In the nodules, T lymphocytes (cells which help to fight viruses) are located in the \"T cell zone\". B lymphocytes (cells which help to fight certain bacteria) are located in the \"B cell follicle\". The primary B cell follicle matures in germinal centers. In the medulla are hematopoietic cells (which contribute to the formation of the blood) and stromal cells.",
+            "score": 184.02047729492188
+        },
+        {
+            "docid": "7026804_7",
+            "document": "High endothelial venules . HEV cuboidal endothelial cells express the adhesion molecules GlyCAM-1 (in mucosal HEV this is MAdCAM-1), ICAM-1 and CD34. They also secrete the chemokine CCL21. Na\u00efve T cells express CCR7 receptor and adhesion molecules L-selectin and LFA-1. As na\u00efve T cells move through the circulation, they 'roll' over the endothelial cells in the vessel walls. The rolling mechanism helps the L-selectin molecules on the surface of naive T cells to weakly interact with GlyCAM-1 and CD34 molecules on HEV cells. The chemokine CCL21 then binds to its receptor CCR7 expressed on the T cell. This binding induces a conformational change in the LFA-1 molecule causing it to bind tightly to ICAM-1. This tight binding stops further movement of the T cell which can then move between HEV cells into the lymph node by a process termed 'diapedesis' (or extravasation).",
+            "score": 183.67153930664062
+        },
+        {
+            "docid": "14876019_5",
+            "document": "PPAP2B . This protein is a membrane glycoprotein localized at the cell plasma membrane. It has been shown to actively hydrolyze extracellular lysophosphatidic acid (LPA) and short-chain phosphatidic acid. [5] As an LPA inhibitor, PPAP2B is known to suppress LPA receptor mediated cellular signaling, which is associated with activation of vascular and blood cells and epithelial cell migration and proliferation. In response to dynamic atherorelevant-flows, PPAP2B can promote anti-inflammatory phenotype via inhibition of LPA signaling and maintain vascular integrity of endothelial monolayer. This flow-sensitive PPAP2B expression is inhibited by microRNA-92a and activated by transcription factor KLF2. In addition to LPA receptor-mediated signaling, PPAP2B is also associated with Wnt signaling, functioning in embryonic development for proper formation of important tissues including bone, heart and muscle. The phenotype of axis duplication in mice globally lacking PPAP2B resembles that observed in animals with altered Wnt signaling. Furthermore, Wnt signaling mediated TCF/LEF-transcription via \u03b2-catenin is upregulated in PPAP2B null embryonic stem cells, implicating LPP3 as a negative regulator of the Wnt pathway.",
+            "score": 183.38125610351562
+        },
+        {
+            "docid": "14774825_7",
+            "document": "TRG (gene) . The function of the \u03b3 chain as well as the \u03b3\u03b4 dimer is still largely unknown, although they have been implicated in cytokine secretion and cytotoxic activity as a part of the protective immune system. The V\u03b42+ T cells recognize small nonpeptide antigens, but unlike \u03b1\u03b2 T cells, these antigens do not need to be processed by antigen-presenting cells or presented by classical major histocompatibility complex (MHC) molecules. This expansion in response to infections is specific to and more efficient in \u03b3\u03b4 T cells than \u03b1\u03b2 cells. There is a hypothesis that \u03b3\u03b4 T cells process these pathogenic antigens, transport them to draining lymph nodes, and then present the antigens to activate \u03b1\u03b2 T cells and other immune effectors. These V\u03b42+ T cells have been reported to connect the innate and adaptive immune systems. Their innate effector functions include cell lysis and secretion of chemokines and cytokines, while their adaptive immunity functions include B cell help, DC maturation, and provision of memory T cells. Once activated these V\u03b42+ T cells mimic professional APCs by potentially processing and presenting antigens. Specifically, these cells, only after activation, upregulate several antigen-presentation, adhesion, and co-stimulation molecules that mimic dendritic cells, a particular type of APC. These V\u03b42+ T cells are exclusive to higher primates, indicating that they are responsible for protection against species-specific microbes.",
+            "score": 183.2972412109375
+        },
+        {
+            "docid": "14958_26",
+            "document": "Immune system . Killer T cells are a sub-group of T cells that kill cells that are infected with viruses (and other pathogens), or are otherwise damaged or dysfunctional. As with B cells, each type of T cell recognizes a different antigen. Killer T cells are activated when their T-cell receptor (TCR) binds to this specific antigen in a complex with the MHC Class I receptor of another cell. Recognition of this MHC:antigen complex is aided by a co-receptor on the T cell, called CD8. The T cell then travels throughout the body in search of cells where the MHC I receptors bear this antigen. When an activated T cell contacts such cells, it releases cytotoxins, such as perforin, which form pores in the target cell's plasma membrane, allowing ions, water and toxins to enter. The entry of another toxin called granulysin (a protease) induces the target cell to undergo apoptosis. T cell killing of host cells is particularly important in preventing the replication of viruses. T cell activation is tightly controlled and generally requires a very strong MHC/antigen activation signal, or additional activation signals provided by \"helper\" T cells (see below).",
+            "score": 182.8913116455078
+        }
+    ]
+}

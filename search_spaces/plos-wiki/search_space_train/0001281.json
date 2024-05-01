@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "543131_21",
+            "document": "Complement system . The complement system has the potential to be extremely damaging to host tissues, meaning its activation must be tightly regulated. The complement system is regulated by complement control proteins, which are present at a higher concentration in the blood plasma than the complement proteins themselves. Some complement control proteins are present on the membranes of self-cells preventing them from being targeted by complement. One example is CD59, also known as protectin, which inhibits C9 polymerisation during the formation of the membrane attack complex. The classical pathway is inhibited by C1-inhibitor, which binds to C1 to prevent its activation.",
+            "score": 80.75170540809631
+        },
+        {
+            "docid": "543131_12",
+            "document": "Complement system . The C3bBb complex is stabilized by binding oligomers of factor P (Properdin). The stabilized C3 convertase, C3bBbP, then acts enzymatically to cleave much more C3, some of which becomes covalently attached to the same surface as C3b. This newly bound C3b recruits more B, D and P activity and greatly amplifies the complement activation. When complement is activated on a cell surface, the activation is limited by endogenous complement regulatory proteins, which include CD35, CD46, CD55 and CD59, depending on the cell. Pathogens, in general, don't have complement regulatory proteins (there are many exceptions, which reflect adaptation of microbial pathogens to vertebrate immune defenses). Thus, the alternative complement pathway is able to distinguish self from non-self on the basis of the surface expression of complement regulatory proteins. Host cells don't accumulate cell surface C3b (and the proteolytic fragment of C3b called iC3b) because this is prevented by the complement regulatory proteins, while foreign cells, pathogens and abnormal surfaces may be heavily decorated with C3b and iC3b. Accordingly, the alternative complement pathway is one element of innate immunity.",
+            "score": 76.32942605018616
+        },
+        {
+            "docid": "244113_82",
+            "document": "Lyme disease . While \"B. burgdorferi\" is most associated with ticks hosted by white-tailed deer and white-footed mice, \"Borrelia afzelii\" is most frequently detected in rodent-feeding vector ticks, and \"Borrelia garinii\" and \"Borrelia valaisiana\" appear to be associated with birds. Both rodents and birds are competent reservoir hosts for \"B. burgdorferi sensu stricto\". The resistance of a genospecies of Lyme disease spirochetes to the bacteriolytic activities of the alternative complement pathway of various host species may determine its reservoir host association.",
+            "score": 126.99775981903076
+        },
+        {
+            "docid": "543131_8",
+            "document": "Complement system . Most of the proteins and glycoproteins that constitute the complement system are synthesized by hepatocytes. But significant amounts are also produced by tissue macrophages, blood monocytes, and epithelial cells of the genitourinary system and gastrointestinal tract. The three pathways of activation all generate homologous variants of the protease C3-convertase. The classical complement pathway typically requires antigen-antibody complexes for activation (specific immune response), whereas the alternative pathway can be activated by spontaneous C3 hydrolysis, foreign material, pathogens, or damaged cells. The mannose-binding lectin pathway can be activated by C3 hydrolysis or antigens without the presence of antibodies (non-specific immune response). In all three pathways, C3-convertase cleaves and activates component C3, creating C3a and C3b, and causes a cascade of further cleavage and activation events. C3b binds to the surface of pathogens, leading to greater internalization by phagocytic cells by opsonization.",
+            "score": 79.63291144371033
+        },
+        {
+            "docid": "1499988_2",
+            "document": "C1-inhibitor . C1-inhibitor (C1-inh, C1 esterase inhibitor) is a protease inhibitor belonging to the serpin superfamily. Its main function is the inhibition of the complement system to prevent spontaneous activation. C1-inhibitor is an acute-phase protein that circulates in blood at levels of around 0.25 g/L. The levels rise ~2-fold during inflammation. C1-inhibitor irreversibly binds to and inactivates C1r and C1s proteases in the C1 complex of classical pathway of complement. MASP-1 and MASP-2 proteases in MBL complexes of the lectin pathway are also inactivated. This way, C1-inhibitor prevents the proteolytic cleavage of later complement components C4 and C2 by C1 and MBL. Although named after its complement inhibitory activity, C1-inhibitor also inhibits proteases of the fibrinolytic, clotting, and kinin pathways. Note that C1-inhibitor is the most important physiological inhibitor of plasma kallikrein, fXIa, and fXIIa.",
+            "score": 103.4308488368988
+        },
+        {
+            "docid": "10406621_8",
+            "document": "C3b . The key to the success of the complement system in clearing antigens is regulating the effects of C3b to pathogens alone and not healthy, host cells. This is done through several different mechanisms. One mechanism, mentioned above, is the stabilization of the C3bBb convertase by properdin preferentially on microbial surfaces, not on host surfaces, a step necessary for formation of a functional C3 convertase. Furthermore, if C3b does bind to a host-cell surface, regulators of complement activity (RCAs), a group of genetically-, structurally-, and functionally-related proteins, inactivate the complement component. Given the C3 is constantly being turned over in the alternative pathway and its ability to rapidly amplify a signal, these proteins are important in regulating the temporal and spatial effects of C3b to infected tissues. An example RCA is membrane cofactor protein (MCP; CD46), which is ubiquitously expressed and plays a critical role in protecting host cells from damage by the C3b.. Furthermore, host cells express p33 (globular C1q receptor) on the surface, which binds C1q, and prevents it from initiating complement activation.",
+            "score": 65.98418033123016
+        },
+        {
+            "docid": "92394_9",
+            "document": "Streptococcus pyogenes . \"S. pyogenes\" has several virulence factors that enable it to attach to host tissues, evade the immune response, and spread by penetrating host tissue layers. A carbohydrate-based bacterial capsule composed of hyaluronic acid surrounds the bacterium, protecting it from phagocytosis by neutrophils. In addition, the capsule and several factors embedded in the cell wall, including M protein, lipoteichoic acid, and protein F (SfbI) facilitate attachment to various host cells. M protein also inhibits opsonization by the alternative complement pathway by binding to host complement regulators. The M protein found on some serotypes is also able to prevent opsonization by binding to fibrinogen. However, the M protein is also the weakest point in this pathogen's defense, as antibodies produced by the immune system against M protein target the bacteria for engulfment by phagocytes. M proteins are unique to each strain, and identification can be used clinically to confirm the strain causing an infection.",
+            "score": 68.77988874912262
+        },
+        {
+            "docid": "14958_15",
+            "document": "Immune system . In humans, this response is activated by complement binding to antibodies that have attached to these microbes or the binding of complement proteins to carbohydrates on the surfaces of microbes. This recognition signal triggers a rapid killing response. The speed of the response is a result of signal amplification that occurs after sequential proteolytic activation of complement molecules, which are also proteases. After complement proteins initially bind to the microbe, they activate their protease activity, which in turn activates other complement proteases, and so on. This produces a catalytic cascade that amplifies the initial signal by controlled positive feedback. The cascade results in the production of peptides that attract immune cells, increase vascular permeability, and opsonize (coat) the surface of a pathogen, marking it for destruction. This deposition of complement can also kill cells directly by disrupting their plasma membrane.",
+            "score": 71.63624095916748
+        },
+        {
+            "docid": "5989490_4",
+            "document": "MASP1 (protein) . MASP-1 is a serine protease that functions as a component of the lectin pathway of complement activation. The complement pathway plays an essential role in the innate and adaptive immune response. MASP-1 is synthesized as a zymogen and is activated when it complexes with the pathogen recognition molecules of lectin pathway, the mannose-binding lectin and the ficolins. This protein is not directly involved in complement activation but may play a role as an amplifier of complement activation by cleaving complement C2 or by activating another complement serine protease, MASP-2. MASP-1 is also able to cleave fibrinogen and factor XIII and may be involved in coagulation. A splice variant of this gene which lacks the serine protease domain functions as an inhibitor of the complement pathway.",
+            "score": 78.27396297454834
+        },
+        {
+            "docid": "1661124_19",
+            "document": "Cancer immunotherapy . The complement system includes blood proteins that can cause cell death after an antibody binds to the cell surface (the classical complement pathway, among the ways of complement activation). Generally the system deals with foreign pathogens, but can be activated with therapeutic antibodies in cancer. The system can be triggered if the antibody is chimeric, humanized or human; as long as it contains the IgG1 Fc region. Complement can lead to cell death by activation of the membrane attack complex, known as complement-dependent cytotoxicity; enhancement of antibody-dependent cell-mediated cytotoxicity; and CR3-dependent cellular cytotoxicity. Complement-dependent cytotoxicity occurs when antibodies bind to the cancer cell surface, the C1 complex binds to these antibodies and subsequently protein pores are formed in the cancer cell membrane.",
+            "score": 68.67764210700989
+        },
+        {
+            "docid": "10085290_2",
+            "document": "Lyme disease microbiology . Lyme disease, or borreliosis, is caused by spirochetal bacteria from the genus \"Borrelia\", which has 52 known species. Three main species (\"Borrelia garinii\", \"Borrelia afzelii\", and \"Borrelia burgdorferi s.s.\") are the main causative agents of the disease in humans, while a number of others have been implicated as possibly pathogenic. \"Borrelia\" species in the species complex known to cause Lyme disease are collectively called \"Borrelia burgdorferi\" \"sensu lato\" (\"s.l.\") not to be confused with the single species in that complex \"Borrelia burgdorferi sensu stricto\" which is responsible for all cases of Lyme disease in North America.",
+            "score": 111.34229612350464
+        },
+        {
+            "docid": "1903231_23",
+            "document": "Pattern recognition receptor . A number of PRRs do not remain associated with the cell that produces them. Complement receptors, collectins, ficolins, pentraxins such as serum amyloid and C-reactive protein, lipid transferases, peptidoglycan recognition proteins (PGRs) and the LRR, XA21D are all secreted proteins. One very important collectin is mannan-binding lectin (MBL), a major PRR of the innate immune system that binds to a wide range of bacteria, viruses, fungi and protozoa. MBL predominantly recognizes certain sugar groups on the surface of microorganisms but also binds phospholipids, nucleic acids and non-glycosylated proteins. Once bound to the ligands MBL and Ficolin oligomers recruit MASP1 and MASP2 and initiate the lectin pathway of complement activation which is somewhat similar to the classical complement pathway.",
+            "score": 79.85933744907379
+        },
+        {
+            "docid": "543131_9",
+            "document": "Complement system . In the alternative pathway, C3b binds to Factor B. Factor D releases Factor Ba from Factor B bound to C3b. The complex of C3b(2)Bb is a protease which cleaves C5 into C5b and C5a. C5 convertase is also formed by the Classical Pathway when C3b binds C4b and C2a. C5a is an important chemotactic protein, helping recruit inflammatory cells. C3a is the precursor of an important cytokine (adipokine) named ASP (although this is not universally accepted ) and is usually rapidly cleaved by carboxypeptidase B. Both C3a and C5a have anaphylatoxin activity, directly triggering degranulation of mast cells as well as increasing vascular permeability and smooth muscle contraction. C5b initiates the membrane attack pathway, which results in the membrane attack complex (MAC), consisting of C5b, C6, C7, C8, and polymeric C9. MAC is the cytolytic endproduct of the complement cascade; it forms a transmembrane channel, which causes osmotic lysis of the target cell. Kupffer cells and other macrophage cell types help clear complement-coated pathogens. As part of the innate immune system, elements of the complement cascade can be found in species earlier than vertebrates; most recently in the protostome horseshoe crab species, putting the origins of the system back further than was previously thought.",
+            "score": 82.10907232761383
+        },
+        {
+            "docid": "10085290_24",
+            "document": "Lyme disease microbiology . Whereas \"B. burgdorferi\" is most associated with deer ticks and the white footed mouse, \"B. afzelli\" is most frequently detected in rodent-feeding vector ticks, and \"B. garinii\" and \"B. valaisiana\" appear to be associated with birds. Both rodents and birds are competent reservoir hosts for \"B. burgdorferi\" \"sensu stricto\". The resistance of a genospecies of Lyme disease spirochetes to the bacteriolytic activities of the alternative immune complement system of various host species may determine its reservoir host association.",
+            "score": 101.6326813697815
+        },
+        {
+            "docid": "244113_28",
+            "document": "Lyme disease . If untreated, the bacteria may persist in the body for months or even years, despite the production of \"B. burgdorferi\" antibodies by the immune system. The spirochetes may avoid the immune response by decreasing expression of surface proteins that are targeted by antibodies, antigenic variation of the VlsE surface protein, inactivating key immune components such as complement, and hiding in the extracellular matrix, which may interfere with the function of immune factors.",
+            "score": 74.55527329444885
+        },
+        {
+            "docid": "10085290_33",
+            "document": "Lyme disease microbiology . OspC is a strong antigen; detection of its presence by the host organism stimulates an immune response. While each individual bacterial cell contains just one copy of the \"ospC\" gene, the gene sequence of \"ospC\" among different strains within each of the three major Lyme disease species is highly variable. OspC plays an essential role during the early stage of mammalian infection. In infected ticks feeding on a mammalian host, OspC may also be necessary to allow \"B. burgdorferi\" to invade and attach to the salivary gland after leaving the gut, although not all studies agree on such a role for the protein. OspC attaches to the tick salivary protein Salp15, which protects the spirochete from complement and impairs the function of dendritic cells.",
+            "score": 86.70173609256744
+        },
+        {
+            "docid": "1140215_13",
+            "document": "Classical complement pathway . Deficiency in the C1q protein of the classical complement pathway can lead to development of systemic lupus erythematosus. Among the many functions of C1q, C1q triggers clearance of immune complexes and apoptotic cells by activating the classical pathway and binding directly onto phagocytes. Consequently, systemic lupus erythematosus from insufficient amounts of C1q is characterized by the accumulation of autoantibodies and apoptotic cells. Studies are being done to look into antibodies against C1q as a diagnostic marker for systemic lupus erythematosus.",
+            "score": 56.84153985977173
+        },
+        {
+            "docid": "10085290_41",
+            "document": "Lyme disease microbiology . Complement inhibition, induction of anti-inflammatory cytokines such as IL-10, and the formation of immune complexes have all been documented in \"B.\u00a0burgdorferi\" infection. Furthermore, the existence of immune complexes may be involved in seronegative acute-phase disease (i.e. false-negative antibody tests of blood and cerebrospinal fluid). One study shows some acute-phase seronegative Lyme patients have antibodies bound up in these complexes.",
+            "score": 81.88887524604797
+        },
+        {
+            "docid": "1140215_6",
+            "document": "Classical complement pathway . The classical complement pathway can be initiated by the binding of antigen-antibody complexes to the C1q protein. The globular regions of C1q recognize and bind to the Fc region of antibody isotypes IgG or IgM. These globular regions of C1q can also bind to bacterial and viral surface proteins, apoptotic cells, and acute phase proteins. In the absence of these activation factors, C1q is part of the inactive C1 complex which consists of six molecules of C1q, two molecules of C1r, and two molecules of C1s .",
+            "score": 80.69650840759277
+        },
+        {
+            "docid": "4400113_2",
+            "document": "Lectin pathway . The lectin pathway is a type of cascade reaction in the complement system, similar in structure to the classical complement pathway, in that, after activation, it proceeds through the action of C4 and C2 to produce activated complement proteins further down the cascade. In contrast to the classical complement pathway, the lectin pathway does not recognize an antibody bound to its target. The lectin pathway starts with mannose-binding lectin (MBL) or ficolin binding to certain sugars.",
+            "score": 68.90288472175598
+        },
+        {
+            "docid": "2142816_16",
+            "document": "Borrelia burgdorferi . After the pathogen is transmitted, it will acclimate to the mammalian conditions. \"Borrelia burgdorferi\" will change its glycoproteins and proteases on its plasma membrane to facilitate its dissemination throughout the blood. While infecting, \"B. burgdorferi\" will express proteins that will interact with endothelial cells, platelets, chondrocytes, and the extracellular matrix. This interaction inhibits proper function of the infected areas, leading to the pathological manifestations of Lyme disease. In response, the host will initiate an inflammatory response to attempt to remove the infection.",
+            "score": 97.50020503997803
+        },
+        {
+            "docid": "14958_68",
+            "document": "Immune system . An evasion strategy used by several pathogens to avoid the innate immune system is to hide within the cells of their host (also called intracellular pathogenesis). Here, a pathogen spends most of its life-cycle inside host cells, where it is shielded from direct contact with immune cells, antibodies and complement. Some examples of intracellular pathogens include viruses, the food poisoning bacterium \"Salmonella\" and the eukaryotic parasites that cause malaria (\"Plasmodium falciparum\") and leishmaniasis (\"Leishmania spp.\"). Other bacteria, such as \"Mycobacterium tuberculosis\", live inside a protective capsule that prevents lysis by complement. Many pathogens secrete compounds that diminish or misdirect the host's immune response. Some bacteria form biofilms to protect themselves from the cells and proteins of the immune system. Such biofilms are present in many successful infections, e.g., the chronic \"Pseudomonas aeruginosa\" and \"Burkholderia cenocepacia\" infections characteristic of cystic fibrosis. Other bacteria generate surface proteins that bind to antibodies, rendering them ineffective; examples include \"Streptococcus\" (protein G), \"Staphylococcus aureus\" (protein A), and \"Peptostreptococcus magnus\" (protein L).",
+            "score": 61.18324434757233
+        },
+        {
+            "docid": "10036477_2",
+            "document": "Factor H . Factor H is a member of the regulators of complement activation family and is a complement control protein. It is a large (155 kilodaltons), soluble glycoprotein that circulates in human plasma (at typical concentrations of 200\u2013300 micrograms per milliliter). Its principal function is to regulate the Alternative Pathway of the complement system, ensuring that the complement system is directed towards pathogens or other dangerous material and does not damage host tissue. Factor H regulates complement activation on self cells and surfaces by possessing both cofactor activity for the Factor I mediated C3b cleavage, and decay accelerating activity against the alternative pathway C3-convertase, C3bBb. Factor H exerts its protective action on self cells and self surfaces but not on the surfaces of bacteria or viruses. This is thought to be the result of Factor H having the ability to adopt either different conformations with lower or higher activity. The lower activity conformation is the predominant form in solution and is sufficient to control fluid phase amplification. The more active conformation is thought to be induced when Factor H binds to glycosaminoglycans (GAGs) and or sialic acids that are generally present on host cells but not, normally, on pathogen surfaces ensuring that self surfaces are protected whilst complement proceeds unabated on foreign surfaces.",
+            "score": 68.52826428413391
+        },
+        {
+            "docid": "27557247_3",
+            "document": "John D. Lambris . Dr. Lambris' laboratory was among the first to study the critical sites of complement component C3 responsible for its diverse functions and also to define its complex binding dynamics to various C3 natural ligands, viral proteins, complement receptors, and regulators. His laboratory contributed in the development of complement-based anti-inflammatory therapeutics through the discovery of the first small-size complement inhibitor, termed Compstatin, which has exhibited consistent efficacy for use in a series of in vivo trials and shows great promise for the use in the clinic. His subsequent efforts to develop more potent compstatin analogues have laid the development of a novel platform for peptide-based drug design, integrating both rational and in silico approaches. In as series of elegant in vivo studies the Lambris lab. established an unprecedented association of complement components with non-inflammatory pathways by demonstrating the involvement of complement in the developmental processes, including liver and limb regeneration, hematopoietic development and stem cell engraftment. Dr. Lambris has also contributed in the field of evolutionary immunology by identifying multiple complement genes in fish and the mechanism by which they expand immune recognition and develop a versatile innate immune system to compensate for their weak adaptive immune repertoire.",
+            "score": 62.225239992141724
+        },
+        {
+            "docid": "1903231_13",
+            "document": "Pattern recognition receptor . The mannose receptor (MR) is a PRR primarily present on the surface of macrophages and dendritic cells. It belongs into the calcium-dependent multiple CRD group. The MR belongs to the multilectin receptor protein group and, like the TLRs, provides a link between innate and adaptive immunity. It recognizes and binds to repeated mannose units on the surfaces of infectious agents and its activation triggers endocytosis and phagocytosis of the microbe via the complement system. Specifically, mannose binding triggers recruitment of MBL-associated serine proteases (MASPs). The serine proteases activate themselves in a cascade, amplifying the immune response: MBL interacts with C4, binding the C4b subunit and releasing C4a into the bloodstream; similarly, binding of C2 causes release of C2b. Together, MBL, C4b and C2a are known as the C3 convertase. C3 is cleaved into its a and b subunits, and C3b binds the convertase. These together are called the C5 convertase. Similarly again, C5b is bound and C5a is released. C5b recruits C6, C7, C8 and multiple C9s. C5, C6, C7, C8 and C9 form the membrane attack complex (MAC).",
+            "score": 53.584187507629395
+        },
+        {
+            "docid": "1966840_12",
+            "document": "Neisseria meningitidis . Factor H binding protein (fHbp) that is exhibited in \"N. meningitidis\" and some commensal species is the main inhibitor of the alternative complement pathway. fHbp protects meningococci from complement-mediated death in human serum experiments, but has also been shown to protect meningococci from antimicrobial peptides \"in vitro\". Factor H binding protein is key to the pathogenesis of \"N. meningitidis\", and is, therefore, important as a potential vaccine candidate. Porins are also an important factor for complement inhibition for both pathogenic and commensal species. Porins are important for nutrient acquisition. Porins are also recognized by TLR2, they bind complement factors (C3b, C4b, factor H, and C4bp (complement factor 4b-binding protein)). Cooperation with pili for CR3-mediated internalization is another function of porins. Ability to translocate into host cells and modulate reactive oxygen species production and apoptosis is made possible by porins, as well. Strains of the same species can express different porins.",
+            "score": 80.04948389530182
+        },
+        {
+            "docid": "513180_10",
+            "document": "Paroxysmal nocturnal hemoglobinuria . Several of the proteins that anchor to GPI on the cell membrane are used to protect the cell from destruction by the complement system, and, without these anchors, the cells are more easily targeted by the complement proteins. Although red blood cells, white blood cells, and platelets are targeted by complement, red blood cells are particularly vulnerable to lysis. The complement system is part of the innate immune system and has a variety of functions, from destroying invading microorganisms by opsonization to direct destabilization by the membrane attack complex. The main proteins that protect blood cells from destruction are decay-accelerating factor (DAF/CD55), which disrupts formation of C3-convertase, and protectin (CD59/MIRL/MAC-IP), which binds the membrane attack complex and prevents C9 from binding to the cell.",
+            "score": 50.49029994010925
+        },
+        {
+            "docid": "338526_11",
+            "document": "Humoral immunity . The complement system is a biochemical cascade of the innate immune system that helps clear pathogens from an organism. It is derived from many small blood plasma proteins that work together to disrupt the target cell's plasma membrane leading to cytolysis of the cell. The complement system consists of more than 35 soluble and cell-bound proteins, 12 of which are directly involved in the complement pathways. The complement system is involved in the activities of both innate immunity and acquired immunity.",
+            "score": 67.01019167900085
+        },
+        {
+            "docid": "1140215_9",
+            "document": "Classical complement pathway . Because of its role in the innate immune system classical complement has been implicated in a number of pathogen related disorders. Complement is responsible for immune inflammatory response in adipose tissues which has been implicated in the development of obesity. Obesity in turn results in an abnormally high level of complement activation via production of the c1 component of the classical pathway, which can lead to tissue inflammation and eventually insulin resistance, however the exact mechanisms that causes this is yet unknown.",
+            "score": 62.431283950805664
+        },
+        {
+            "docid": "7086253_11",
+            "document": "Eculizumab . Eculizumab specifically binds to the terminal complement component 5, or C5, which acts at a late stage in the complement cascade. When activated, C5 is involved in activating host cells, thereby attracting pro-inflammatory immune cells, while also destroying cells by triggering pore formation. By inhibiting the complement cascade at this point, the normal, disease-preventing functions of proximal complement system are largely preserved, while the properties of C5 that promote inflammation and cell destruction are impeded.",
+            "score": 50.54787063598633
+        },
+        {
+            "docid": "15533459_5",
+            "document": "Cancer immunoprevention . Two main protective mechanisms elicited by cancer immunoprevention in various mouse models were cytokines released by T cells, in particular gamma-interferon, and cytotoxic antibodies against the target antigen. This is at variance with cancer immunotherapy administered to cure existing tumors, which is mainly based on cytotoxic T lymphocytes (CTL). The lack of a relevant CTL response in long-term immunoprevention is thought to be an advantage, because chronic CTL activation is severely toxic for the host. In contrast circulating antibodies provide long-term protection without toxic side effects. A similar situation happens in viral immunity, acute infections are resolved by CTL, whereas long term immunity from reinfection is provided by antibodies. Both gamma-interferon and antibodies prevent tumor growth in multiple ways. Gamma-interferon activates T, natural killer and B cells, inhibits angiogenesis and tumor invasiveness, stimulates major histocompatibility complex expression in tumor cells and inhibits cell proliferation. Antibodies binding to antigens on the surface of cells trigger lytic mechanisms mediated by the complement system (complement-mediated cytotoxicity) or by leukocytes carrying Fc receptors (antibody-dependent cell-mediated cytotoxicity, ADCC). Moreover, antibody binding interferes with the cellular functions of the target antigen, causing its internalization or hampering molecular interactions, eventually blocking downstream signaling. If the target antigen controls cell growth (e.g. if it is the product of an oncogene), then a block of signaling can disrupt the carcinogenic process. Surface antigens causally involved in carcinogenesis are called oncoantigens.",
+            "score": 61.653796553611755
+        },
+        {
+            "docid": "543131_14",
+            "document": "Complement system . The lectin pathway is homologous to the classical pathway, but with the opsonin, mannose-binding lectin (MBL), and ficolins, instead of C1q. This pathway is activated by binding of MBL to mannose residues on the pathogen surface, which activates the MBL-associated serine proteases, MASP-1, and MASP-2 (very similar to C1r and C1s, respectively), which can then split C4 into C4a and C4b and C2 into C2a and C2b. C4b and C2b then bind together to form the classical C3-convertase, as in the classical pathway. Ficolins are homologous to MBL and function via MASP in a similar way. Several single-nucleotide polymorphisms have been described in M-ficolin in humans, with effect on ligand-binding ability and serum levels. Historically, the larger fragment of C2 was named C2a, but it is now referred to as C2b. In invertebrates without an adaptive immune system, ficolins are expanded and their binding specificities diversified to compensate for the lack of pathogen-specific recognition molecules.",
+            "score": 86.27321887016296
+        }
+    ],
+    "r": [
+        {
+            "docid": "244113_82",
+            "document": "Lyme disease . While \"B. burgdorferi\" is most associated with ticks hosted by white-tailed deer and white-footed mice, \"Borrelia afzelii\" is most frequently detected in rodent-feeding vector ticks, and \"Borrelia garinii\" and \"Borrelia valaisiana\" appear to be associated with birds. Both rodents and birds are competent reservoir hosts for \"B. burgdorferi sensu stricto\". The resistance of a genospecies of Lyme disease spirochetes to the bacteriolytic activities of the alternative complement pathway of various host species may determine its reservoir host association.",
+            "score": 126.99776458740234
+        },
+        {
+            "docid": "10085290_2",
+            "document": "Lyme disease microbiology . Lyme disease, or borreliosis, is caused by spirochetal bacteria from the genus \"Borrelia\", which has 52 known species. Three main species (\"Borrelia garinii\", \"Borrelia afzelii\", and \"Borrelia burgdorferi s.s.\") are the main causative agents of the disease in humans, while a number of others have been implicated as possibly pathogenic. \"Borrelia\" species in the species complex known to cause Lyme disease are collectively called \"Borrelia burgdorferi\" \"sensu lato\" (\"s.l.\") not to be confused with the single species in that complex \"Borrelia burgdorferi sensu stricto\" which is responsible for all cases of Lyme disease in North America.",
+            "score": 111.34229278564453
+        },
+        {
+            "docid": "1499988_2",
+            "document": "C1-inhibitor . C1-inhibitor (C1-inh, C1 esterase inhibitor) is a protease inhibitor belonging to the serpin superfamily. Its main function is the inhibition of the complement system to prevent spontaneous activation. C1-inhibitor is an acute-phase protein that circulates in blood at levels of around 0.25 g/L. The levels rise ~2-fold during inflammation. C1-inhibitor irreversibly binds to and inactivates C1r and C1s proteases in the C1 complex of classical pathway of complement. MASP-1 and MASP-2 proteases in MBL complexes of the lectin pathway are also inactivated. This way, C1-inhibitor prevents the proteolytic cleavage of later complement components C4 and C2 by C1 and MBL. Although named after its complement inhibitory activity, C1-inhibitor also inhibits proteases of the fibrinolytic, clotting, and kinin pathways. Note that C1-inhibitor is the most important physiological inhibitor of plasma kallikrein, fXIa, and fXIIa.",
+            "score": 103.43084716796875
+        },
+        {
+            "docid": "10085290_24",
+            "document": "Lyme disease microbiology . Whereas \"B. burgdorferi\" is most associated with deer ticks and the white footed mouse, \"B. afzelli\" is most frequently detected in rodent-feeding vector ticks, and \"B. garinii\" and \"B. valaisiana\" appear to be associated with birds. Both rodents and birds are competent reservoir hosts for \"B. burgdorferi\" \"sensu stricto\". The resistance of a genospecies of Lyme disease spirochetes to the bacteriolytic activities of the alternative immune complement system of various host species may determine its reservoir host association.",
+            "score": 101.63268280029297
+        },
+        {
+            "docid": "14610619_4",
+            "document": "Virulence-related outer membrane protein family . Borrelia burgdorferi outer surface proteins play role in persistence within ticks (OspA, OspB, OspD), mammalian host transmission (OspC, BBA64), host cell adhesion (OspF, BBK32, DbpA, DbpB), and in evasion of the host immune system (VlsE). OspC trigger innate immune system via signaling through TLR1, TLR2 and TLR6 receptors.",
+            "score": 101.50236511230469
+        },
+        {
+            "docid": "2142816_16",
+            "document": "Borrelia burgdorferi . After the pathogen is transmitted, it will acclimate to the mammalian conditions. \"Borrelia burgdorferi\" will change its glycoproteins and proteases on its plasma membrane to facilitate its dissemination throughout the blood. While infecting, \"B. burgdorferi\" will express proteins that will interact with endothelial cells, platelets, chondrocytes, and the extracellular matrix. This interaction inhibits proper function of the infected areas, leading to the pathological manifestations of Lyme disease. In response, the host will initiate an inflammatory response to attempt to remove the infection.",
+            "score": 97.50020599365234
+        },
+        {
+            "docid": "244113_14",
+            "document": "Lyme disease . \"B. burgdorferi sensu lato\" is made up of 21 closely related species, but only three clearly cause Lyme disease: \"B. burgdorferi sensu stricto\" (predominant in North America, but also present in Europe), \"B. afzelii\", and \"B. garinii\" (both predominant in Eurasia). Some studies have also proposed \"B. bissettii\" and \"B. valaisiana\" may sometimes infect humans, but these species do not seem to be important causes of disease.",
+            "score": 92.12018585205078
+        },
+        {
+            "docid": "10085290_34",
+            "document": "Lyme disease microbiology . OspE and OspF were initially identified in \"B. burgdorferi\" strain N40. The \"ospE\" and \"ospF\" genes are structurally arranged in tandem as one transcriptional unit under the control of a common promoter. Individual strains of \"B. burgdorferi\" carry multiple related copies of the \"ospEF\" locus, which are now collectively referred to as \"Erp\" (Osp'E'/F-like 'r'elated 'p'rotein) genes. In \"B. burgdoreri\" strains B31 and 297, most of the \"Erp\" loci occupy the same position on the multiple copies of the cp32 plasmid present in these strains. Each locus consists of one or two \"Erp\" genes. When two genes are present, they are transcribed as one operon, although in some cases, an internal promoter in the first gene may also transcribe the second gene. The presence of multiple Erp proteins was proposed to be important in allowing \"B. burgdorferi\" to evade killing by the alternative complement pathway of a broad range of potential animal hosts, as individual Erp proteins exhibited different binding patterns to the complement regulator factor H from different animals. However, the presence of factor H was recently demonstrated to not be necessary to enable \"B. burgdorferi\" to infect mice, suggesting the Erp proteins have an additional function.",
+            "score": 89.0248031616211
+        },
+        {
+            "docid": "53887284_8",
+            "document": "Borrelia mayonii . Infection by \"B. mayonii\" is also transferred from the bite of \"Ixodes scapularis\", a tick. \"Borellia mayonii\" causes Lyme disease like \"Borrelia burgdorferi\" with the symptoms of fever, headache, rash, neck pain, and arthritis. However, \"B. mayonii\" also has additional symptoms differentiating it from \"B. burgdorferi\", such as nausea, vomiting, macular rash, and neurological symptoms. To identify infection of \"B. mayonii\", we can use blood smears, slides with blood samples on them for use with a microscope. Mayonii spirochetes in blood smears indicate a positive infection for Lyme disease caused by \"B. mayonii\". Another alternative is using Lyme disease PCR tests which is currently only available at the Mayo Clinic. To treat this infection, the current drug of choice is doxycycline, an antibiotic, over a 2 to 4 week course.",
+            "score": 87.67066192626953
+        },
+        {
+            "docid": "4920788_4",
+            "document": "Borrelia . Of the 52 known species of \"Borrelia\", 12 are known to cause Lyme disease or borreliosis and are transmitted by ticks. The major \"Borrelia\" species causing Lyme disease are \"Borrelia burgdorferi\", \"Borrelia afzelii\", and \"Borrelia garinii\".",
+            "score": 87.16905212402344
+        },
+        {
+            "docid": "10085290_33",
+            "document": "Lyme disease microbiology . OspC is a strong antigen; detection of its presence by the host organism stimulates an immune response. While each individual bacterial cell contains just one copy of the \"ospC\" gene, the gene sequence of \"ospC\" among different strains within each of the three major Lyme disease species is highly variable. OspC plays an essential role during the early stage of mammalian infection. In infected ticks feeding on a mammalian host, OspC may also be necessary to allow \"B. burgdorferi\" to invade and attach to the salivary gland after leaving the gut, although not all studies agree on such a role for the protein. OspC attaches to the tick salivary protein Salp15, which protects the spirochete from complement and impairs the function of dendritic cells.",
+            "score": 86.70173645019531
+        },
+        {
+            "docid": "543131_14",
+            "document": "Complement system . The lectin pathway is homologous to the classical pathway, but with the opsonin, mannose-binding lectin (MBL), and ficolins, instead of C1q. This pathway is activated by binding of MBL to mannose residues on the pathogen surface, which activates the MBL-associated serine proteases, MASP-1, and MASP-2 (very similar to C1r and C1s, respectively), which can then split C4 into C4a and C4b and C2 into C2a and C2b. C4b and C2b then bind together to form the classical C3-convertase, as in the classical pathway. Ficolins are homologous to MBL and function via MASP in a similar way. Several single-nucleotide polymorphisms have been described in M-ficolin in humans, with effect on ligand-binding ability and serum levels. Historically, the larger fragment of C2 was named C2a, but it is now referred to as C2b. In invertebrates without an adaptive immune system, ficolins are expanded and their binding specificities diversified to compensate for the lack of pathogen-specific recognition molecules.",
+            "score": 86.2732162475586
+        },
+        {
+            "docid": "10085290_40",
+            "document": "Lyme disease microbiology . Like the \"Borrelia\" that causes relapsing fever, \"B.\u00a0burgdorferi\" has the ability to vary its surface proteins in response to immune attack. This ability is related to the genomic complexity of \"B.\u00a0burgdorferi\", and is another way \"B.\u00a0burgdorferi\" evades the immune system to establish a chronic infection.",
+            "score": 84.53019714355469
+        },
+        {
+            "docid": "4400113_5",
+            "document": "Lectin pathway . MBL forms oligomers of subunits, which are trimers (6- to 18-heades correspond to a dimer and a hexamer, respectively). Multimers of MBL form a complex with MASP1 (Mannose-binding lectin-Associated Serine Protease), MASP2 and MASP3, that are protease zymogens. The MASPs are very similar to C1r and C1s molecules of the classical complement pathway, respectively, and are thought to have a common evolutionary ancestor. When the carbohydrate-recognising heads of MBL bind to specifically arranged mannose residues on the surface of a pathogen, MASP-1 and MASP-2 are activated to cleave complement components C4 and C2 into C4a, C4b, C2a, and C2b. In addition, two smaller MBL-associated proteins (MAps) are found in complex with MBL. MBL-associated protein of 19 kDa (MAp19) and MBL-associated protein of 44 kDa (Map44). MASP-1, MASP-3 and MAp44 are alternative splice products of the MASP1 gene, while MASP-2 and MAp19 are alternative splice products of the MASP-2 gene. MAp44 has been suggested to act as a competitive inhibitor of lectin pathway activation, by displacing MASP-2 from MBL, hence preventing cleavage of C4 and C2",
+            "score": 84.25643920898438
+        },
+        {
+            "docid": "40054434_2",
+            "document": "Borrelia lusitaniae . Borrelia lusitaniae is a bacterium of the spirochete class of the genus\" Borrelia\", which has a diderm (double-membrane) envelope. It is a part of the \"Borrelia burgdorferi\" \"sensu lato\" genospecies and is a Gram-negative bacterium. \"B. lusitaniae\" is tick-borne; he type strain is PotiB2. It can be pathogenic, being involved in cases of Lyme borreliosis. A species of tick, \"Ixodes ricinus\", is the host of \"B. lusitaniae\". It is thought to have originated from Portugal and has since spread to parts of Europe and North Africa. Lizards of the family Lacertidae are now believed to be important reservoir hosts of this bacterium.",
+            "score": 83.82371520996094
+        },
+        {
+            "docid": "543131_10",
+            "document": "Complement system . The classical pathway is triggered by activation of the C1-complex. The C1-complex is composed of 1 molecule of C1q, 2 molecules of C1r and 2 molecules of C1s, or \"C1qrs\". This occurs when C1q binds to IgM or IgG complexed with antigens. A single pentameric IgM can initiate the pathway, while several, ideally six, IgGs are needed. This also occurs when C1q binds directly to the surface of the pathogen. Such binding leads to conformational changes in the C1q molecule, which leads to the activation of two C1r molecules. C1r is a serine protease. They then cleave C1s (another serine protease). The C1rs component now splits C4 and then C2, producing C4a, C4b, C2a, and C2b(catalyze C4). C4b and C2a bind to form the classical pathway C3-convertase (C4b2a complex), which promotes cleavage of C3 into C3a and C3b. C3b later joins with C4b2a to make C5 convertase (C4b2a3b complex).",
+            "score": 83.50961303710938
+        },
+        {
+            "docid": "960896_14",
+            "document": "Angioedema . Various mechanisms that interfere with bradykinin production or degradation can lead to angioedema. ACE inhibitors block ACE, the enzyme that among other actions, degrades bradykinin. In hereditary angioedema, bradykinin formation is caused by continuous activation of the complement system due to a deficiency in one of its prime inhibitors, C1-esterase (aka: C1-inhibitor or C1INH), and continuous production of kallikrein, another process inhibited by C1INH. This serine protease inhibitor (serpin) normally inhibits the association of C1r and C1s with C1q to prevent the formation of the C1-complex, which - in turn - activates other proteins of the complement system. Additionally, it inhibits various proteins of the coagulation cascade, although effects of its deficiency on the development of hemorrhage and thrombosis appear to be limited.",
+            "score": 82.88917541503906
+        },
+        {
+            "docid": "543131_9",
+            "document": "Complement system . In the alternative pathway, C3b binds to Factor B. Factor D releases Factor Ba from Factor B bound to C3b. The complex of C3b(2)Bb is a protease which cleaves C5 into C5b and C5a. C5 convertase is also formed by the Classical Pathway when C3b binds C4b and C2a. C5a is an important chemotactic protein, helping recruit inflammatory cells. C3a is the precursor of an important cytokine (adipokine) named ASP (although this is not universally accepted ) and is usually rapidly cleaved by carboxypeptidase B. Both C3a and C5a have anaphylatoxin activity, directly triggering degranulation of mast cells as well as increasing vascular permeability and smooth muscle contraction. C5b initiates the membrane attack pathway, which results in the membrane attack complex (MAC), consisting of C5b, C6, C7, C8, and polymeric C9. MAC is the cytolytic endproduct of the complement cascade; it forms a transmembrane channel, which causes osmotic lysis of the target cell. Kupffer cells and other macrophage cell types help clear complement-coated pathogens. As part of the innate immune system, elements of the complement cascade can be found in species earlier than vertebrates; most recently in the protostome horseshoe crab species, putting the origins of the system back further than was previously thought.",
+            "score": 82.10907745361328
+        },
+        {
+            "docid": "10085290_41",
+            "document": "Lyme disease microbiology . Complement inhibition, induction of anti-inflammatory cytokines such as IL-10, and the formation of immune complexes have all been documented in \"B.\u00a0burgdorferi\" infection. Furthermore, the existence of immune complexes may be involved in seronegative acute-phase disease (i.e. false-negative antibody tests of blood and cerebrospinal fluid). One study shows some acute-phase seronegative Lyme patients have antibodies bound up in these complexes.",
+            "score": 81.88887786865234
+        },
+        {
+            "docid": "11245344_7",
+            "document": "Ixodes ricinus . A number of tick-borne diseases can be transmitted by \"I.\u00a0ricinus\" to a variety of mammal hosts. Dogs can be infected with Lyme disease (borreliosis), caused by the spirochaete bacteria \"Borrelia burgdorferi\", \"B.\u00a0afzeli\", and \"B.\u00a0garnii\". Cattle can become infected with redwater fever (from the protozoans \"Babesia divergens\", \"B.\u00a0bovis\", and \"B.\u00a0ovis\"), Lyme disease (from \"B. burgdorferi\"), sheep tick pyemia (\"Staphylococcus aureus\"), cattle tick-borne fever (\"Anaplasma phagocytophila\"), Q fever (\"Coxiella burnetii\"), Boutonneuse fever (\"Rickettsia conorii\"), and the bacterium \"Anaplasma marginale\". Horses may be infected with Lyme disease, \"Anaplasma phagocytophila\", and the viral infection louping ill. Humans can become infected with Lyme disease, louping ill, Q fever, and tick-borne encephalitis.",
+            "score": 81.28121948242188
+        },
+        {
+            "docid": "5989389_2",
+            "document": "Complement component 1r . Complement C1r subcomponent (, \"activated complement C1r\", \"C overbar 1r esterase\", C1r) is a protein involved in the complement system of the innate immune system. In humans, C1r is encoded by the \"C1R\" gene.",
+            "score": 81.14092254638672
+        },
+        {
+            "docid": "33170887_2",
+            "document": "Borrelia miyamotoi . Borrelia miyamotoi is a spirochete bacterium in the genus \"Borrelia\". A zoonotic bacterium, \"B. miyamotoi\" can be transferred to humans through the hard (\"Ixodes\") ticks, the same tick species that spread \"B. burgdorferi\", the causative agent of Lyme disease, and \"Babesia microti\", the causative agent of babesiosis. Although infection can cause some similar symptoms including fever, headache, fatigue, and muscle aches, acute Lyme disease often presents with rash, while infection with \"B. miyamotoi\" does not; it remains unclear whether \"B. miyamotoi\" causes a relapsing fever syndrome.",
+            "score": 80.85319519042969
+        },
+        {
+            "docid": "543131_21",
+            "document": "Complement system . The complement system has the potential to be extremely damaging to host tissues, meaning its activation must be tightly regulated. The complement system is regulated by complement control proteins, which are present at a higher concentration in the blood plasma than the complement proteins themselves. Some complement control proteins are present on the membranes of self-cells preventing them from being targeted by complement. One example is CD59, also known as protectin, which inhibits C9 polymerisation during the formation of the membrane attack complex. The classical pathway is inhibited by C1-inhibitor, which binds to C1 to prevent its activation.",
+            "score": 80.75170135498047
+        },
+        {
+            "docid": "1140215_6",
+            "document": "Classical complement pathway . The classical complement pathway can be initiated by the binding of antigen-antibody complexes to the C1q protein. The globular regions of C1q recognize and bind to the Fc region of antibody isotypes IgG or IgM. These globular regions of C1q can also bind to bacterial and viral surface proteins, apoptotic cells, and acute phase proteins. In the absence of these activation factors, C1q is part of the inactive C1 complex which consists of six molecules of C1q, two molecules of C1r, and two molecules of C1s .",
+            "score": 80.6965103149414
+        },
+        {
+            "docid": "9693587_12",
+            "document": "Complement component 4 . In the \"classical pathway,\" the complement component\u2014hereafter abbreviated by the \"C\" preceding the protein number\u2014 termed \"C1s,\" a serine protease, is activated by upstream steps of the pathway, resulting in its cleavage of the native, parent ~200 kilodalton (kDa) C4 protein\u2014composed of three chains. The C4 is cleaved by the protease into two parts, a peptide C4a (small at ~9 kDa, and anaphylotoxic), and the higher molecular weight protein C4b, at about 190 kDa. The cleavage of the C4 results in C4b bearing a thioester functional group [-S-C(O)-]: work in the 1980s on C3, and then on C4, indicated the presence, within the parent C3 and C4 structures, of a unique protein modification, a 15-atom (15-membered) thionolactone ring serving to connect the thiol side chain of the amino acid cysteine (Cys) in a -Cys-Gly-Glu-Glx- sequence with a side chain acyl group of what began as a glutamine side chain (Glx, here) that resided three amino acid residues downstream (where the remaining atoms of the 15 were backbone and side chain atoms); upon cleavage, this unique thionolactone ring structure becomes exposed at the surface of the new C4b protein. Because of proximity to the microbial surface, some portion of the released C4b proteins, with this reactive thionolactone, react with nucelophilic amino acid side chains and other groups on the foreign microbe's cell surface, resulting in covalent attachment of the slightly modified C4b protein to the cell surface, via the original Glx residue of C4.",
+            "score": 80.1800308227539
+        },
+        {
+            "docid": "2142816_8",
+            "document": "Borrelia burgdorferi . Lyme disease is a zoonotic, vector-borne disease transmitted by the \"Ixodes\" tick (also the vector for \"Babesia\" and \"Anaplasma\"). The infected nymphal tick transmits \"B. burgdorferi\" via its saliva to the human during its blood meal.",
+            "score": 80.16344451904297
+        },
+        {
+            "docid": "1966840_12",
+            "document": "Neisseria meningitidis . Factor H binding protein (fHbp) that is exhibited in \"N. meningitidis\" and some commensal species is the main inhibitor of the alternative complement pathway. fHbp protects meningococci from complement-mediated death in human serum experiments, but has also been shown to protect meningococci from antimicrobial peptides \"in vitro\". Factor H binding protein is key to the pathogenesis of \"N. meningitidis\", and is, therefore, important as a potential vaccine candidate. Porins are also an important factor for complement inhibition for both pathogenic and commensal species. Porins are important for nutrient acquisition. Porins are also recognized by TLR2, they bind complement factors (C3b, C4b, factor H, and C4bp (complement factor 4b-binding protein)). Cooperation with pili for CR3-mediated internalization is another function of porins. Ability to translocate into host cells and modulate reactive oxygen species production and apoptosis is made possible by porins, as well. Strains of the same species can express different porins.",
+            "score": 80.04948425292969
+        },
+        {
+            "docid": "14581982_3",
+            "document": "EGF-like domain . Despite the similarities of EGF-like domains, distinct domain subtypes have been identified. The two main proposed types of EGF-like domains are the human EGF-like (hEGF) domain and the complement C1r-like (cEGF) domain, which was first identified in the human complement protease C1r. C1r is a highly specific serine protease initiating the classical pathway of complement activation during immune response. Both the hEGF- and cEGF-like domains contain three disulfides and derive from a common ancestor that carried four disulfides of which one was lost during evolution. Furthermore, cEGF-like domains can be divided in two subtypes (1 and 2) whereas all hEGF-like domains belong to one subtype.",
+            "score": 79.86219024658203
+        },
+        {
+            "docid": "1903231_23",
+            "document": "Pattern recognition receptor . A number of PRRs do not remain associated with the cell that produces them. Complement receptors, collectins, ficolins, pentraxins such as serum amyloid and C-reactive protein, lipid transferases, peptidoglycan recognition proteins (PGRs) and the LRR, XA21D are all secreted proteins. One very important collectin is mannan-binding lectin (MBL), a major PRR of the innate immune system that binds to a wide range of bacteria, viruses, fungi and protozoa. MBL predominantly recognizes certain sugar groups on the surface of microorganisms but also binds phospholipids, nucleic acids and non-glycosylated proteins. Once bound to the ligands MBL and Ficolin oligomers recruit MASP1 and MASP2 and initiate the lectin pathway of complement activation which is somewhat similar to the classical complement pathway.",
+            "score": 79.85933685302734
+        },
+        {
+            "docid": "17339422_8",
+            "document": "C3a (complement) . The classical pathway of complement activation is initiated when the C1 complex, made up of C1r and C1s serine proteases, recognizes the Fc region of IgM or IgG antibodies bound to a pathogen. C1q mediates the classical pathway by activating the C1 complex, which cleaves C4 and C2 into smaller fragments (C4a, C4b, C2a, and C2b). C4a and C2b form C4bC2b, also known as C3 convertase.",
+            "score": 79.85476684570312
+        },
+        {
+            "docid": "2142816_19",
+            "document": "Borrelia burgdorferi . The genomic variations of \"B. burgdorferi\" contribute to varying degrees of infection and dissemination. Each genomic group has varying antigens on its membrane receptor, which are specific to the infection of the host. One such membrane receptor is the surface protein OspC. The OspC surface protein is shown to be a strong indicator of the identification of genomic classification and the degree of dissemination. Varying number of OspC loci are indications and determinants for the variations of \"B.\" \"burgdorferi\". The surface protein is also on the forefront of current vaccine research for Lyme disease via \"Borrelia\".",
+            "score": 79.81897735595703
+        },
+        {
+            "docid": "543131_8",
+            "document": "Complement system . Most of the proteins and glycoproteins that constitute the complement system are synthesized by hepatocytes. But significant amounts are also produced by tissue macrophages, blood monocytes, and epithelial cells of the genitourinary system and gastrointestinal tract. The three pathways of activation all generate homologous variants of the protease C3-convertase. The classical complement pathway typically requires antigen-antibody complexes for activation (specific immune response), whereas the alternative pathway can be activated by spontaneous C3 hydrolysis, foreign material, pathogens, or damaged cells. The mannose-binding lectin pathway can be activated by C3 hydrolysis or antigens without the presence of antibodies (non-specific immune response). In all three pathways, C3-convertase cleaves and activates component C3, creating C3a and C3b, and causes a cascade of further cleavage and activation events. C3b binds to the surface of pathogens, leading to greater internalization by phagocytic cells by opsonization.",
+            "score": 79.6329116821289
+        }
+    ]
+}

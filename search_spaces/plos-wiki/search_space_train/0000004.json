@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "8767449_10",
+            "document": "Public health genomics . An example of this is found in a study published in Nature, which showed that mice with a latent infection of a Herpesvirus were less susceptible to bacterial infections. Mice were infected with murine gammherpesvirus 68 (a member of the gammaherpesvirinae subfamily) and then challenged with \"Listeria monocytogenes\". The mice that had a latent infection of the virus had an increased resistance to the bacteria, but those with a non-latent strain of virus had no change in susceptibility to the bacteria. The study went on to test mice with murine cytomegalovirus, a member of the betaherpesvirinae subfamily, which provided similar results. However, infection with human herpes simplex virus type-1, a member of the alphaherpesvirinae subfamily, did not provide increased resistance to bacterial infection. They also used \"Yersinia pestis\" (the causative agent of the Black Death) to challenge mice with a latent infection of gammaherpesvirus 68, and they found the mice did have an increased resistance to the bacteria. The suspected reason for this is that peritoneal macrophages in the mouse are activated after latent infection of the herpesvirus, and since macrophages play an important role in immunity, this provides the mouse with a stronger, active immune system at the time of bacterial exposure. It was found that the latent herpesvirus caused an increase in interferon-gamma (IFN-\u03b3) and tumor necrosis factor-alpha (TNF-\u03b1), both of which lead to activation of macrophages and resistance to bacterial infection.",
+            "score": 74.77634763717651
+        },
+        {
+            "docid": "33305931_3",
+            "document": "Macrophage migration inhibitory factor domain . Macrophage migration inhibitory factor (MIF) is a key regulatory cytokine within innate and adaptive immune responses, capable of promoting and modulating the magnitude of the response. MIF is released from T-cells and macrophages, and acts within the neuroendocrine system. MIF is capable of tautomerase activity, although its biological function has not been fully characterised. It is induced by glucocorticoid and is capable of overriding the anti-inflammatory actions of glucocorticoid. MIF regulates cytokine secretion and the expression of receptors involved in the immune response. It can be taken up into target cells in order to interact with intracellular signalling molecules, inhibiting p53 function, and/or activating components of the mitogen-activated protein kinase and Jun-activation domain-binding protein-1 (Jab-1). MIF has been linked to various inflammatory diseases, such as rheumatoid arthritis and atherosclerosis.",
+            "score": 96.94957947731018
+        },
+        {
+            "docid": "12105320_3",
+            "document": "Macrophage migration inhibitory factor . Bacterial antigens stimulate white blood cells to release MIF into the blood stream. The circulating MIF binds to CD74 on other immune cells to trigger an acute immune response. Hence, MIF is classified as an inflammatory cytokine. Furthermore, glucocorticoids also stimulate white blood cells to release MIF and hence MIF partially counteracts the inhibitory effects that glucocorticoids have on the immune system. Finally trauma activates the anterior pituitary gland to release MIF.",
+            "score": 106.09482383728027
+        },
+        {
+            "docid": "240850_21",
+            "document": "Gene silencing . Unlike viruses, bacteria are not as susceptible to silencing by siRNA. This is largely due to how bacteria replicate. Bacteria replicate outside of the host cell and do not contain the necessary machinery for RNAi to function. However, bacterial infections can still be suppressed by siRNA by targeting the host genes that are involved in the immune response caused by the infection or by targeting the host genes involved in mediating the entry of bacteria into cells. For instance, siRNA was used to reduce the amount of pro-inflammatory cytokines expressed in the cells of mice treated with lipopolysaccharide (LPS). The reduced expression of the inflammatory cytokine, tumor necrosis factor \u03b1 (TNF\u03b1), in turn, caused a reduction in the septic shock felt by the LPS-treated mice. In addition, siRNA was used to prevent the bacteria, \"Psueomonas aeruginosa\", from invading murine lung epithelial cells by knocking down the caveolin-2 (CAV2) gene. Thus, though bacteria cannot be directly targeted by siRNA mechanisms, they can still be affected by siRNA when the components involved in the bacterial infection are targeted.",
+            "score": 79.3996856212616
+        },
+        {
+            "docid": "1539801_40",
+            "document": "Brugia malayi . According to the Filarial Genome Project being done by The Special Programme for Research and Training in Tropical Diseases, the \"Brugia malayi\" MIF gene is expressed in all life-cycle stages of the parasite, and results suggest that \"B. malayi\" MIF may interact with the human immune system during the course of infection by altering the function of macrophages in the infected individual. Studies are currently testing the hypothesis that MIF may be involved in reducing the host's immune response to the microfilariae. Understanding how this particular parasite has adapted to humans may help organ transplant researchers by figuring out how to prevent the immune system from attacking the transplanted tissue.",
+            "score": 101.93149185180664
+        },
+        {
+            "docid": "1017170_23",
+            "document": "Lipoxin . Lipoxins have protective effects in animal models of infection-based inflammation: a) LXA and a LXA analog decreased systemic inflammation and improved survival in rat models of Gram-negative bacterial sepsis; b) 15-epi-LXA suppressed the lung injury (i.e., shock lung or Acute respiratory distress syndrome) caused by intraperitoneal injection of \"Escherichia coli\" in mice; c) transgenic mice made deficient in lipoxin synthesis by deletion of their \"Alox5\" gene were more susceptible to the inflammatory and lethal effects of \"Toxoplasma gondii\" and were rescued from these defects by LXA4; d) LXA restored macrophage function caused by respiratory syncytial virus in transgenic mice made deficient of lipoxin synthesis by \"Alox5\" gene deletion; e) LXA ameliorated infectious periodontitis in rabbit and porcine models. f) 15-epi-LXA decreased parasite blood levels, decrease cardiac inflammation, and increase survival in a mouse model of Trypanosoma cruzi-induced Chagas disease; f)' 15-epi-LXA prolonged survival in a mouse model of \"Plasmodium berghei\"-induced cerebral malaria; and g) LXA shortens the duration of the allergic response to the parasitic infestation, Angiostrongylus costaricensis.",
+            "score": 52.06881356239319
+        },
+        {
+            "docid": "12105320_2",
+            "document": "Macrophage migration inhibitory factor . Macrophage migration inhibitory factor (MIF or MMIF), also known as glycosylation-inhibiting factor (GIF), L-dopachrome isomerase, or phenylpyruvate tautomerase is a protein that in humans is encoded by the \"MIF\" gene. MIF is an important regulator of innate immunity.",
+            "score": 91.8840000629425
+        },
+        {
+            "docid": "55439935_36",
+            "document": "Role of microglia in disease . The retina is helpful to control neuroinflammation is to inhibit microglial activation. Studies on microglia have shown that they are activated by diverse stimuli but they are dependent on activation of mitogen-activated protein kinase (MAPK). Previous approaches to down-regulate activated microglia focused on immunosuppressants. Recently, minocycline (a tetracycline derivative) has shown down-regulation of microglial MAPK. Another promising treatment is CPI-1189, which induces cell death in a TNF \u03b1-inhibiting compound that also down-regulates MAPK. Recent study shows that nicergoline (Sermion) suppresses the production of proinflammatory cytokines and superoxide anion by activated microglia. Microglial activation can be inhibited by MIF (microglia/macrophage inhibitory factor, tuftsin fragment 1\u20133, Thr-Lys-Pro). MIF-treated mice showed reduced brain injury and improved neurologic function in a mouse model of collagenase-induced intracerebral hemorrhage.",
+            "score": 90.30277013778687
+        },
+        {
+            "docid": "14761398_8",
+            "document": "ANGPTL4 . High-throughput RNA sequencing of lung tissue samples from the 1918 and 2009 influenza pandemic revealed that ANGPTL4 was one of the most significantly upregulated gene. Murine influenza infection of the lungs stimulated the expression of ANGPTL4 via a STAT3-mediated mechanism. ANGPTL4 enhanced pulmonary tissue leakiness and exacerbated inflammation-induced lung damage. Influenza-infected ANGPTL4-knockout mice displayed diminished lung damage and recovered faster from the infection compared to wild-type mice. The treatment of infected mice with neutralizing anti-ANGPTL4 antibodies significantly accelerated pulmonary recovery and improved lung tissue integrity.",
+            "score": 64.64881467819214
+        },
+        {
+            "docid": "14439487_9",
+            "document": "GPR132 . LPCs that contain the unsaturated fatty acids hexadecanoic acid or octadecanoic acid bound to their \"sn-1\" act to permeablize, while LPC with the monounsaturated fatty acid, oleic acid at \"sn-1\" act to perturb target cell surface membranes. While not involving G2A receptor binding, some actions of LPCs are G2A-dependent. For example, LPCs increase the bactericidal activity of rodent neutrophils, enhance hydrogen peroxide production in rodent neutrophils triggered by the ingestion of bacteria, stimulate the chemotaxis of human monocytes, and protect mice from the lethal effects of experimentally induced bacterial sepsis endotoxin. G2A may similarly be responsible for the activities of other phospholipids which, like LPC have not been shown to bind to G2A but still require G2A for certain of their activities viz., lysophosphatidylserine and lysophosphatidylethanolamine; these two lyso-phospholipids stimulate calcium signaling pathways in human neutrophils by a G2A dependent mechanism. Furthermore, activated neutrophils greatly increase their surface membrane content of lysophosphatidylserine. In a mouse model, mouse neutrophils with increased levels of lysophosphatidylserine on their surface membrane due to cell activation or artificial addition showed an increase in there engulfment by mouse macrophages in vitro that was dependent on the expression of G2A in the macrophages and an increased rate of clearance in mice by a mechanism that was dependent on the expression of G2A by the mice. Lysophosphotidylserine-laden neutrophils stimulated the G2A-dependent production the anti-inflammatory mediator, prostaglandin E2, by macrophages in the in vitro studies and inhibited the production of pro-inflammatory mediators, interleukin-6 and keratinocyte chemoattractant, in in vivo studies. Taken together, these studies suggest that G2A, activated by certain phospholipids contributes not only to the development but also the resolution of certain inflammation and innate immune responses in mice and may also do so in humans.",
+            "score": 51.650508403778076
+        },
+        {
+            "docid": "44369339_21",
+            "document": "Chlorovirus . Studies infecting mice with ACTV-1 have been performed following the discovery chlorovirus can infect humans. The studies conducted on infected mice show changes in the Cdk5 pathway, which aids with learning and memory formation, as well as alterations in gene expression in the dopamine pathway. Further, infected mice were found to be less social, interacting less with newly introduced companion mice than the control group. Infected mice also spent longer in a light-exposed portion of a test chamber, where the control mice tended to prefer the dark side and avoided the light. This indicates a decrease in anxiety with ACTV-1 infection. The test mice were also less able to recognize an object that had been moved from its previous location, showing a decrease in spatial reference memory. As in humans, there is a decrease in vision spatial task ability. Within the hippocampus (area of brain responsible for memory and learning), changes in gene expression occur, and infection presents a change in the pathways of immune cell functioning and antigen processing. It has been suggested that this possibly indicates an immune system response to the ACTV-1 virus causing inflammation which may be the cause for the cognitive impairments. The symptoms presented may also suggest hippocampus and medial prefrontal cortex interference from ACTV-1 infection.",
+            "score": 59.47682476043701
+        },
+        {
+            "docid": "158400_2",
+            "document": "Sepsis . Sepsis is a life-threatening condition that arises when the body's response to infection causes injury to its own tissues and organs. Common signs and symptoms include fever, increased heart rate, increased breathing rate, and confusion. There also may be symptoms related to a specific infection, such as a cough with pneumonia, or painful urination with a kidney infection. In the very young, old, and people with a weakened immune system, there may be no symptoms of a specific infection and the body temperature may be low or normal, rather than high. Severe sepsis is sepsis causing poor organ function or insufficient blood flow. Insufficient blood flow may be evident by low blood pressure, high blood lactate, or low urine output. Septic shock is low blood pressure due to sepsis that does not improve after reasonable amounts of intravenous fluids are given. Sepsis is caused by an immune response triggered by an infection. Most commonly, the infection is bacterial, but it may also be from fungi, viruses, or parasites. Common locations for the primary infection include lungs, brain, urinary tract, skin, and abdominal organs. Risk factors include young or old age, a weakened immune system from conditions such as cancer or diabetes, major trauma, or burns. An older method of diagnosis was based on meeting at least two systemic inflammatory response syndrome (SIRS) criteria due to a presumed infection. In 2016, SIRS was replaced with qSOFA which is two of the following three: increased breathing rate, change in level of consciousness, and low blood pressure. Blood cultures are recommended preferably before antibiotics are started, however, infection of the blood is not required for the diagnosis. Medical imaging should be used to look for the possible location of infection. Other potential causes of similar signs and symptoms include anaphylaxis, adrenal insufficiency, low blood volume, heart failure, and pulmonary embolism, among others. Sepsis is usually treated with intravenous fluids and antibiotics. Typically, antibiotics are given as soon as possible. Often, ongoing care is performed in an intensive care unit. If fluid replacement is not enough to maintain blood pressure, medications that raise blood pressure may be used. Mechanical ventilation and dialysis may be needed to support the function of the lungs and kidneys, respectively. To guide treatment, a central venous catheter and an arterial catheter may be placed for access to the bloodstream. Other measurements such as cardiac output and superior vena cava oxygen saturation may be used. People with sepsis need preventive measures for deep vein thrombosis, stress ulcers and pressure ulcers, unless other conditions prevent such interventions. Some might benefit from tight control of blood sugar levels with insulin. The use of corticosteroids is controversial. Activated drotrecogin alfa, originally marketed for severe sepsis, has not been found to be helpful, and was withdrawn from sale in 2011. Disease severity partly determines the outcome. The risk of death from sepsis is as high as 30%, from severe sepsis as high as 50%, and from septic shock as high as 80%. The number of cases worldwide is unknown as there is little data from the developing world. Estimates suggest sepsis affects millions of people a year. In the developed world approximately 0.2 to 3 people per 1000 are affected by sepsis yearly, resulting in about a million cases per year in the United States. Rates of disease have been increasing. Sepsis is more common among males than females. The medical condition has been described since the time of Hippocrates. The terms \"septicemia\" and \"blood poisoning\" refer to the microorganisms or their toxins in the blood and are no longer commonly used.",
+            "score": 53.599974274635315
+        },
+        {
+            "docid": "57413297_3",
+            "document": "Murepavadin . Murepavadin exhibits a specific and potent bactericidal activity \"in vitro\" against \"P. aeruginosa\" including carbapenemase-producing and colistin-resistant isolates and was shown to be largely inactive against other Gram-negative bacteria, and Gram-positive bacteria. When tested in a large minimum inhibitory concentration (MIC) surveillance study, against 1219 contemporary clinical isolates from the USA, Europe, and China of which 28% were MDR strains, murepavadin exhibited a potent antimicrobial activity having a minimum inhibitory concentration for 90% of strains of 0.12\u00a0mg/L. There were no significant differences between geographic locations, and there was little difference in activity between MDR/and non-MDR isolates and no cross-resistance was observed with any other antimicrobial tested which supports its novel mechanism of action. Murepavadin showed outstanding \"in vivo\" efficacy in mouse septicemia (ED50 of 0.25 - 0.55\u00a0mg/kg) and lung and thigh infection models. It displays linear pharmacokinetics, is dose proportional with a good penetration into the epithelial lung fluid which underscores its potent \"in vivo\" activity in lung infection models including extensively drug-resistant (XDR) isolates. In phase I clinical trial in healthy volunteers, single doses were well tolerated at plasma concentrations expected to meet or exceed efficacious levels, with no serious adverse events reported. The favorable \"in vitro\" and \"in vivo\" properties of murepavadin combined with an appropriate safety pharmacology and toxicology profile led to the clinical development of murepavadin for the treatment of serious infections caused by \"P. aeruginosa\". Murepavadin successfully completed phase-II clinical tests in hospital patients with life-threatening \"Pseudomonas\" lung infections and is in phase III development for the treatment of bacterial HAP/ bacterial VAP due to \"P. aeruginosa\" infection.",
+            "score": 67.17711663246155
+        },
+        {
+            "docid": "12105320_10",
+            "document": "Macrophage migration inhibitory factor . Multiple protozoan parasites produce homologs MIF that have similar inflammatory functions to human MIF, and play a role in their pathogenesis, invasion and immune evasion.",
+            "score": 80.33771467208862
+        },
+        {
+            "docid": "856149_5",
+            "document": "Multiple organ dysfunction syndrome . Some have developed a mouse model sepsis via cecal ligation and puncture (CLP). Male Balb/c mice subjected to CLP were given an IL-10-carrying vector or an empty control vector. Lung, Liver and kidney tissue destruction were measured by assessing malondialdehyde and myeloperoxidase activity; these last two are endogenous oxidizing compounds produced during tissue inflammation. The authors assessed the level of neutrophil infiltration in lung and liver tissue. IL-10 protein expression was measured using immunohistochemistry. The expression of Tumor necrosis factor-alpha (TNF-\u03b1) mRNA was measured at 3, 8 and 24 hours after CLP using reverse transcription polymerase chain reaction. Their results show significantly reduced organ damage by IL-10 gene transfer, as quantified by reduced myeloperoxidase activity in the lung, liver and kidney. The malonialdehyde level was not affected by the transfer into the liver. The livers of the mice infected with the adenoviral vector showed reduced neutrophil activity. The lung and kidney samples in mice carrying the gene showed lower expression of TNF-\u03b1 mRNA. The investigators concluded that increased IL-10 expression significantly reduced sepsis-induced multiple organ injury.",
+            "score": 45.77286517620087
+        },
+        {
+            "docid": "1455589_31",
+            "document": "Emergency management . Flood-associated skin infections: Flood waters are often contaminated with bacteria and waste as well as chemicals on occasion. Prolonged, direct contact with these waters leads to an increased risk for skin infection, especially with open wounds in the skin or history of a previous skin condition, such as atopic dermatitis or psoriasis. These infections are exacerbated with a compromised immune system or an aging population. The most common bacterial skin infections are usually with Staphylococcus and Streptococcus. One of the most uncommon, but well-known bacterial infections is from Vibrio vulnificus, which causes a rare, but often fatal infection called necrotizing fasciitis.  Other salt-water Mycobacterium infections include the slow growing M. marinum and fast growing M. fortuitum, M. chelonae, and M. abscessus. Fresh-water bacterial infections include aeromonas hydrophila, Burkholderia pseudomallei causing melioidosis, leptospira interrogans causing leptospirosis, and chromobacterium violaceum. Fungal infections may lead to chromoblastomycosis, blastomycosis, mucormycosis, and dermatophytosis. Numerous other arthropod, protozoal, and parasitic infections have been described. A worker can reduce the risk of flood-associated skin infections by avoiding the water if an open wound is present, or at minimum, cover the open wound with a waterproof bandage. Should contact with flood water occur, the open wound should be washed thoroughly with soap and clean water.",
+            "score": 94.28724122047424
+        },
+        {
+            "docid": "14358436_5",
+            "document": "Interleukin 35 . Studies in mice show the absence of either IL-35 chain from regulatory T reduces the cells' ability to suppress inflammation. This has been observed during cell culture experiments and using an experimental model for inflammatory bowel disease. A group of scientists established a CIA (collagen-induced arthritis) mouse model to show suppressive effects of IL-35. Intraperitoneal injection of IL-35 in the tested subjects lowered expression of several factors linked to this disease (such as VEGF and its receptors, TNF-\u03b1). The effect of IL-35 in this case seems to be the inhibition of STAT1 signalling pathway. Another experiment performed on a mouse model of EAE has shown, that mice lacking IL-35-producing B cells are unable to recover from the T-cell mediated demyelination but are resistant to infection by pathogenic intracellular microbe \"Salmonella typhimurium\".",
+            "score": 63.77279186248779
+        },
+        {
+            "docid": "14877788_17",
+            "document": "LECT2 . In mouse models of bacterial sepsis caused by of E. coli, P. aeruginosa, and ligation followed by puncture of the cecum, the administration of human LECT2 improved survival. LECTT2 acted by directly stimulating the CD209 receptor on mouse macrophages thereby mobilizing their protective functions. Knockout of the \"Lect2\" gene in mice increase the mortality caused by staphylococcal enterotoxin A; human LECT2 reduced this morality increase. Blood levels of LECT2 in patients suffering bacterial sepsis correlated inversely with the severity of systemic inflammation suggesting that LECT2 blood levels may be a reliable diagnostic indicator of human inflammatory diseases.",
+            "score": 49.09495449066162
+        },
+        {
+            "docid": "2078908_16",
+            "document": "Ross River fever . The study of RRF has been recently facilitated by the development of a mouse model. Mice infected with RRV develop hind-limb arthritis/arthralgia which is similar to human disease. The disease in mice is characterized by an inflammatory infiltrate including macrophages which are immunopathogenic and exacerbate disease. Furthermore, mice deficient in the C3 protein do not suffer from severe disease following infection. This indicates that an aberrant innate immune response is responsible for severe disease following RRV infection.",
+            "score": 57.38398742675781
+        },
+        {
+            "docid": "12105320_6",
+            "document": "Macrophage migration inhibitory factor . This gene encodes a lymphokine involved in cell-mediated immunity, immunoregulation, and inflammation. MIF plays a role in the regulation of macrophage function in host defense through the suppression of anti-inflammatory effects of glucocorticoids. This lymphokine and the JAB1 protein form a complex in the cytosol near the peripheral plasma membrane, which may indicate a role in integrin signaling pathways.",
+            "score": 80.63002586364746
+        },
+        {
+            "docid": "6070061_9",
+            "document": "Sendai virus . In a natural setting, the respiratory infection of Sendai virus in mice is acute. From the extrapolation of the infection of laboratory mice, the presence of the virus may first be detected in the lungs 48 to 72 hours following exposure. As the virus replicates in the respiratory tract of an infected mouse, the concentration of the virus grows most quickly during the third day of infection. After that, the growth of the virus is slower but consistent. Typically, the peak concentration of the virus is on the sixth or seventh day, and rapid decline follows that by the ninth day. A fairly vigorous immune response mounted against the virus is the cause of this decline. The longest period of detected presence of the virus in a mouse lung is fourteen days after infection.",
+            "score": 57.90224766731262
+        },
+        {
+            "docid": "14157278_11",
+            "document": "PD-L1 . It appears that upregulation of PD-L1 may allow cancers to evade the host immune system. An analysis of 196 tumor specimens from patients with renal cell carcinoma found that high tumor expression of PD-L1 was associated with increased tumor aggressiveness and a 4.5-fold increased risk of death.  Many PD-L1 inhibitors are in development as immuno-oncology therapies and are showing good results in clinical trials. Clinically available examples include Durvalumab, atezolizumab and avelumab. In normal tissue, feedback between transcription factors like STAT3 and NF-\u03baB restricts the immune response to protect host tissue and limit inflammation. In cancer, loss of feedback restriction between transcription factors can lead to increased local PD-L1 expression, which could limit the effectiveness of systemic treatment with agents targeting PD-L1. In a mouse model of intracellular infection, \"L. monocytogenes\" induced PD-L1 protein expression in T cells, NK cells, and macrophages. PD-L1 blockade (using blocking antibodies) resulted in increased mortality for infected mice. Blockade reduced TNF\u03b1 and nitric oxide production by macrophages, reduced granzyme B production by NK cells, and decreased proliferation of \"L. monocytogenes\" antigen-specific CD8 T cells (but not CD4 T cells). This evidence suggests that PD-L1 acts as a positive costimulatory molecule in intracellular infection.",
+            "score": 66.62614750862122
+        },
+        {
+            "docid": "49522917_5",
+            "document": "Intelectin . Several lines of evidence suggest that intelectins recognize microbes and may function as an innate immune defense protein. Tunicate intelectin is an opsonin for phagocytosis by hemocyte. Amphioxus intelectin has been shown to agglutinate bacteria. In zebrafish and rainbow trout, intelectin expression is stimulated upon microbial exposure. Mammals such as sheep and mice also upregulate intelectin expression upon parasitic infection. Increase in intelectin expression upon microbial exposure support the hypothesis that intelectins play a role in the immune system.",
+            "score": 49.39471483230591
+        },
+        {
+            "docid": "238729_17",
+            "document": "Eosinophil . Within the fat (adipose) tissue of CCR2 deficient mice, there is an increased number of eosinophils, greater alternative macrophage activation, and a propensity towards type 2 cytokine expression. Furthermore, this effect was exaggerated when the mice became obese from a high fat diet. Mouse models of eosinophilia from mice infected with T canis showed an increase in IL-5 mRNA in mice spleen. Mouse models of asthma from OVA show a higher TH2 response. When mice are administered IL-12 to induce the TH1 response, the TH2 response becomes suppressed, showing that mice that do not have TH2 cytokines are significantly less likely to express asthma symptoms.",
+            "score": 56.33330512046814
+        },
+        {
+            "docid": "2685011_12",
+            "document": "Gas gangrene . Massive infection, gross injury, and depletion of the host's immune capability result in system-wide sepsis. This is partly due to the burden on the immune system, its corresponding release of inflammatory cytokines, and the distribution of bacterial toxins. Massive infection is likely to result in death from a combination of system-wide septic shock and the unintentionally damaging effects of the immune response. In animals, disability and distress caused by all of these factors markedly increase the chance of predation.",
+            "score": 43.86305570602417
+        },
+        {
+            "docid": "10995185_23",
+            "document": "Arachidonate 5-lipoxygenase . \"Alox5\" Gene knockout mice are more susceptible to the development and pathological complications of experimental infection with \"Klebsiella pneumoniae\", \"Borrelia burgdorferi\", and Paracoccidioides brasiliensis. In a model of cecum perforation-induced sepsis, \"ALOX5\" gene knockout mice exhibited a decrease in the number of neutrophils and an increase in the number of bacteria that accumulated in their peritoneum. On the other hand, ALOX5 gene knockout mice demonstrate an enhanced resistance and lessened pathology to Brucella abortus infection and, at least in its acute phase, Trypanosoma cruzi infection. Furthermore, \"Alox5\"-null mice exhibit a worsened inflammatory component, failure to resolve inflammation-related responses, and decreased survival in experimental models of respiratory syncytial virus disease, Lyme disease, Toxoplasma gondii disease, and corneal injury. These studies indicate that Alox5 can serve a protective function presumably by generating metabolites such as chemotactic factors that mobilize the innate immunity system. However, the suppression of inflammation appears also to be a function of Alox5, presumably by contributing to the production of anti-inflammatory specialized pro-resolving mediators (SPMs), at least in certain rodent inflammation-based model systems. These genetic studies allow that ALOX5 along with the chemotactic factors and SPMs that they contribute to making may play similar opposing pro-inflammatory and anti-inflammatory functions in humans.",
+            "score": 57.33169341087341
+        },
+        {
+            "docid": "3276137_11",
+            "document": "Interleukin 13 . IL-13 expression has demonstrated to be increased in bronchoalveolar lavage (BAL) fluid and cells in patients with atopic mild asthma after allergen challenge. Genome-wide association studies have identified multiple polymorphisms of IL-13 and genes encoding the IL-13 receptors as associated with asthma susceptibility, bronchial hyperresponsiveness, and increased IgE levels. The overexpression of IL-13 induces many features of allergic lung disease, including airway hyperresponsiveness, goblet cell metaplasia, mucus hypersecretion and airway remodelling which all contribute to airway obstruction. murine studies demonstrated that IL-13 was both necessary and sufficient to generate asthma-like Th2 responses in the mouse lung. IL-13 is mainly overexpressed in sputum, bronchial submucosa, peripheral blood and mast cells in the airway smooth muscle bundle. IL-4 contributes to these physiologic changes, but is less important than IL-13. IL-13 also induces secretion of chemokines that are required for recruitment of allergic effector cells to the lung. Studies of STAT6 transgenic mice suggest the possibility that IL-13 signaling occurring only through the airway epithelium is required for most of these effects. While no studies have yet directly implicated IL-13 in the control of human diseases, many polymorphisms in the IL-13 gene have been shown to confer an enhanced risk of atopic respiratory diseases such as asthma. In a study conducted with knockout mice model for asthma, air resistance, mucus production and profibrogenic mediator induction were solely found to be dependent on the presence of IL-13R1 and not IL-13R\u03b12. Studies on transgenic mouse in vivo demonstrate that lung over-expression of IL-13 induces subepithelial airway fibrosis. IL-13 is the dominant effector in toxin, infection, allergic, and post-transplant bronchiolitis obliterans models of fibrosis.",
+            "score": 46.072906374931335
+        },
+        {
+            "docid": "41479084_13",
+            "document": "Altered Schaedler flora . Bacteria microenvironment is very important in the pathogenesis of clinical and experimental chronic intestinal inflammation. Whary, \"et al.\" examined Helicobacter rodentium infection and the resulting ulcerative typhlocolitis, sepsis, and morbidity. Using ASF mice, they showed a decrease in disease progression due to colonization resistance in the lower bowel from the impacts of normal anaerobic flora. In another summary, Fox examined the relationship between microbiome of the gut and the onset of inflammatory bowel disease (IBD) with the infection of \"H. bilis. H. bilis\" is noted to elicit heterologous immune response to lower gut flora, in both activating pro-inflammatory cytokine and dendritic cell activity and probiotic anti-inflammatory activity due to the presentation of commensal antigens. ASF Lactobacilli and Bacteroides help moderate bowel inflammation in a balanced manner in pathogen infection studies. Beyond the study of bacterial pathogen, microflora community, intestinal immune system interactions and diseases, ASF has been used in experiments examining the transmission of retrovirus. In the paper by Kane, \"et al.\", they found the mouse mammary tumor virus is transmitted most efficiently through bacteria colonized mucosal surfaces. The retrovirus evolved to rely on the interaction with microbiota and toll-like receptor to evade immune pathways. ASF is not a comprehensive representation of the over 400 diverse bacteria species that normally occupy the mice GI tract. Even in SPF mice, there are many Helicobacter and Filamentous species not included in ASF1. Not to mention the many bacteria that could not be cultured under laboratory settings due to inadequate environment and symbiosis needs. The gut bacteria make up a complex microbial community that supports each other, and the development of the host GI tract and the immune system.",
+            "score": 54.98232901096344
+        },
+        {
+            "docid": "25788721_4",
+            "document": "Alcoholic lung disease . Alcohol abuse can cause a susceptibility to infection after major trauma to the lungs / respiratory system. It creates an increased risk of aspiration of gastric acid, microbes from the upper part of the throat, decreased mucous-facilitated clearance of bacterial pathogens from the upper airway and impaired pulmonary host defenses. This increased colonization by pathogenic organisms, combined with the acute intoxicating effects of alcohol and the subsequent depression of the normally protective gag and cough reflexes, leads to more frequent and severe pneumonia from gram-negative organisms. Defects in the function of the upper airway's clearance mechanisms in alcoholic patients have been detected.",
+            "score": 65.39297747612
+        },
+        {
+            "docid": "36523096_3",
+            "document": "Murine polyomavirus . MPyV is primarily spread among mice via the intranasal route and is shed in urine. Genetic susceptibility to MPyV infection among mice varies significantly, and not all MPyV strains are oncogenic. In general, only newborns and immunosuppressed mice (usually transgenic) develop tumors upon infection; although originally observed as a cause of parotid gland tumors, the virus may induce solid tumors in a wide variety of tissue types of both epithelial and mesenchymal origin. Although viruses in circulation among feral mice can be tumorigenic, under natural conditions the virus does not cause tumors; maternal antibodies have been shown to be critical in protecting neonates. It has been described as rare in modern laboratory mouse research colonies.",
+            "score": 46.06875205039978
+        },
+        {
+            "docid": "158400_6",
+            "document": "Sepsis . Infections leading to sepsis usually are bacterial, but may be fungal or viral. Gram-positive bacteria was the predominant cause of sepsis before the introduction of antibiotics in the 1950s. After the introduction of antibiotics, gram-negative bacteria became the predominant cause of sepsis from the 1960s to the 1980s. After the 1980s, gram-positive bacteria, most commonly staphylococci, are thought to cause more than 50% of cases of sepsis. Other commonly implicated bacteria include \"Streptococcus pyogenes\", \"Escherichia coli\", \"Pseudomonas aeruginosa\", and \"Klebsiella\" species. Fungal sepsis accounts for approximately 5% of severe sepsis and septic shock cases; the most common cause of fungal sepsis is infection by \"Candida\" species of yeast, a nosocomial infection frequently acquired in hospitals.",
+            "score": 40.76943254470825
+        },
+        {
+            "docid": "3340565_4",
+            "document": "Heligmosomoides polygyrus . In natural infections, \"H. polygyrus\" is found almost ubiquitously within populations of wild wood mice (\"Apodemus sylvaticus\"). In one study of wood mouse populations in Oxfordshire, England, 70% of all mice sampled carried an infection with \"H. polygyrus\", with an average infection burden of about 12 worms per mouse. Natural infection intensity displays high variability in wood mice, ranging from 0 \u2013 244 adult worms per mouse. Both male and female mice show equal parasitic burdens. Parasite occurrence appears to positively correlate with weight and age of the mouse, showing an increase in prevalence in older, heavier mice. Infection was also seasonally regulated in the wood mouse population, with highest prevalence of infection/worm burden intensity occurring in early spring and reaching their lowest values in late summer/early autumn. This is inversely correlated with typical breeding behaviors of the wood mouse, where the population peaks in late summer or early autumn, and is at its lowest in the early spring. The bulk of research on \"H. polygyrus\" has been conducted on the laboratory mouse, \"Mus musculus,\" as it is used as a model of human helminth infection to which there is a spectrum of natural resistance to parasite infection.",
+            "score": 48.13258469104767
+        }
+    ],
+    "r": [
+        {
+            "docid": "471444_33",
+            "document": "Melioidosis . \"B. pseudomallei\" is normally found in soil and surface water; a history of contact with soil or surface water is, therefore, almost invariable in patients with melioidosis; that said, the majority of patients who do have contact with infected soil suffer no ill effects. Even within an area, the distribution of \"B.\u00a0pseudomallei\" within the soil can be extremely patchy, and competition with other \"Burkholderia\" species has been suggested as a possible reason. Contaminated ground water was implicated in one outbreak in northern Australia. Also implicated are severe weather events such as flooding tsunamis and typhoons.",
+            "score": 136.80857849121094
+        },
+        {
+            "docid": "471444_2",
+            "document": "Melioidosis . Melioidosis is an infectious disease caused by a Gram-negative bacterium, \"Burkholderia pseudomallei\", found in soil and water. It is of public health importance in endemic areas, particularly in northeast Thailand, Vietnam, and northern Australia. It exists in acute and chronic forms. Signs and symptoms may include pain in chest, bones, or joints; cough; skin infections, lung nodules, and pneumonia.",
+            "score": 134.60809326171875
+        },
+        {
+            "docid": "3523925_2",
+            "document": "Burkholderia pseudomallei . Burkholderia pseudomallei (also known as Pseudomonas pseudomallei) is a Gram-negative, bipolar, aerobic, motile rod-shaped bacterium. It is a soil-dwelling bacterium endemic in tropical and subtropical regions worldwide, particularly in Thailand and northern Australia. It infects humans and animals and causes the disease melioidosis. It is also capable of infecting plants.",
+            "score": 132.3663787841797
+        },
+        {
+            "docid": "471444_35",
+            "document": "Melioidosis . The single most important risk factor for developing melioidosis is diabetes mellitus, followed by hazardous alcohol use, chronic kidney disease, and chronic lung disease. Other risk factors include thalassaemia, occupation (rice paddy farmers), and cystic fibrosis. The mode of infection is believed to be through either a break in the skin, or the inhalation of aerosolized \"B. pseudomallei\" cells. Person-to-person spread has been described, but is extremely unusual. HIV infection does not predispose to melioidosis.",
+            "score": 128.40899658203125
+        },
+        {
+            "docid": "3523925_12",
+            "document": "Burkholderia pseudomallei . \"B. pseudomallei\" infection in humans is called melioidosis; its mortality is 20 to 50% even with treatment.",
+            "score": 128.36924743652344
+        },
+        {
+            "docid": "471444_3",
+            "document": "Melioidosis . \"B. pseudomallei\" was previously classed as part of the genus \"Pseudomonas\"; until 1992, it was known as \"Pseudomonas pseudomallei\". It is phylogenetically related closely to \"Burkholderia mallei\" which causes glanders, an infection primarily of horses, donkeys, and mules. The name melioidosis is derived from the Greek \"melis\" (\u03bc\u03b7\u03bb\u03b9\u03c2) meaning \"a distemper of asses\" with the suffixes -oid meaning \"similar to\" and -osis meaning \"a condition\", that is, a condition similar to glanders.",
+            "score": 127.1610336303711
+        },
+        {
+            "docid": "471444_13",
+            "document": "Melioidosis . A complete screen (blood culture, sputum culture, urine culture, throat swab, and culture of any aspirated pus) should be performed on all patients with suspected melioidosis (culture on blood agar as well as Ashdown's medium). A definitive diagnosis is made by growing \"B. pseudomallei\" from any site. A throat swab is not sensitive, but is 100% specific if positive, and compares favourably with sputum culture. The sensitivity of urine culture is increased if a centrifuged specimen is cultured, and any bacterial growth should be reported (not just growth above 10 organisms/ml which is the usual cutoff). Very occasionally, bone marrow culture may be positive in patients who have negative blood cultures for \"B.\u00a0pseudomallei\", but these are not usually recommended. A common error made by clinicians unfamiliar with melioidosis is to send a specimen from only the affected site (which is the usual procedure for most other infections) instead of sending a full screen.",
+            "score": 124.04997253417969
+        },
+        {
+            "docid": "471444_19",
+            "document": "Melioidosis . Person-to-person transmission is exceedingly unusual; and patients with melioidosis should not be considered contagious. Lab workers should handle \"B. pseudomallei\" under BSL-3 isolation conditions, as laboratory-acquired melioidosis has been described.",
+            "score": 123.94170379638672
+        },
+        {
+            "docid": "471444_29",
+            "document": "Melioidosis . Interest in melioidosis has been expressed because it has the potential to be developed as a biological weapon. It is classed by the US Centers for Disease Control (CDC) as a category B agent. \"B. pseudomallei\", like \"B. mallei\" which causes glanders, was studied by the US as a potential biological warfare agent, but never weaponized. The Soviet Union was reported to have also experimented with \"B. pseudomallei\" as a biological warfare agent.",
+            "score": 115.39838409423828
+        },
+        {
+            "docid": "471444_10",
+            "document": "Melioidosis . Chronic melioidosis is usually defined by a duration of symptoms greater than two months and occurs in about 10% of patients. The clinical presentation of chronic melioidosis is protean and includes such presentations as chronic skin infections, chronic lung nodule, and pneumonia. In particular, chronic melioidosis closely mimics tuberculosis, and has sometimes been called \"Vietnamese tuberculosis\".",
+            "score": 115.2148666381836
+        },
+        {
+            "docid": "471444_30",
+            "document": "Melioidosis . Melioidosis is endemic in parts of southeast Asia (including Thailand, Laos, Singapore, Brunei, Malaysia, Burma and Vietnam), China, Taiwan and northern Australia. Flooding can increase its extent, including flooding in central Australia. Multiple cases have also been described in Hong Kong and Brunei India, and sporadic cases in Central and South America, the Middle East, the Pacific and several African countries. Although only one case of melioidosis has ever been reported in Bangladesh, at least five cases have been imported to the UK from that country. Recent news reports indicate \"B.\u00a0pseudomallei\" has been isolated from soil in Bangladesh, but this remains to be verified scientifically. This suggests that melioidosis is endemic to Bangladesh and that a problem of underdiagnosis or under-reporting exists there. most likely due to a lack of adequate laboratory facilities in affected rural areas. A high isolation frequency (percentage of positive soil samples) was found in east Saravan in rural Lao PDR distant from the Mekong River, thought by the investigators to be the highest geometric mean concentration in the world (about 464 (25-10,850 CFU/g soil).",
+            "score": 113.29666137695312
+        },
+        {
+            "docid": "39311563_11",
+            "document": "Caspase 11 . Caspase-11 appears to provide immune defense against bacteria that enter or access the host cell cytosol. Caspase-11 has been shown to be activated by \"Burkholderia pseudomallei\", Gram-negative bacteria found in the soil of southeast Asia that cause severe melioidosis. Caspase-11 has been shown \"in vitro\" to be activated by \"Shigella flexneri\" infection, while a guinea pig model of \"Shigella\" infection has been shown to activate the human homolog of caspase-11, caspase-4. For bacteria that do not typically access the host cytosol, caspase-11 is activated with delayed kinetics if Gram-negative bacteria aberrantly escape the vacuole and enter into the cytoplasm.",
+            "score": 112.14701080322266
+        },
+        {
+            "docid": "471444_6",
+            "document": "Melioidosis . Patients with melioidosis usually present with fever. Pain or other symptoms may be suggestive of a clinical focus, which is found in around 75% of patients. Such symptoms include cough or pleuritic chest pain suggestive of pneumonia, bone or joint pain suggestive of osteomyelitis or septic arthritis, or cellulitis. Intra-abdominal infection (including liver and/or splenic abscesses, or prostatic abscesses) do not usually present with focal pain, and imaging of these organs using ultrasound or computed tomography should be performed routinely. In one series of 214 patients, 27.6% had abscesses in the liver or spleen (95% confidence interval, 22.0% to 33.9%). \"B. pseudomallei\" abscesses may have a characteristic \"honeycomb\" or \"swiss cheese\" architecture (hypoechoic, multiseptate, multiloculate) on CT.",
+            "score": 110.26553344726562
+        },
+        {
+            "docid": "471444_31",
+            "document": "Melioidosis . A statistical model indicated that the incidence will be 165,000 cases per year in 2016 (95% confidence interval, 68,000 to 412,000), with 138,000 of those occurring in East and South Asia and the Pacific. In about half of those cases, people will die. Northeast Thailand has the highest incidence of melioidosis recorded in the world (an average incidence of 12.7 cases per 100,000 people per year). In Northeast Thailand, 80% of children are positive for antibodies against \"B. pseudomallei\" by the age of 4; the figures are lower in other parts of the world.",
+            "score": 106.8819580078125
+        },
+        {
+            "docid": "471444_4",
+            "document": "Melioidosis . In the subgroup of patients where an inoculating event was noted, the mean incubation period of acute melioidosis was 9 days (range 1\u201321 days). Patients with latent melioidosis may be symptom-free for decades; the longest period between presumed exposure and clinical presentation is 62 years. The potential for prolonged incubation was recognized in US servicemen involved in the Vietnam War, and was referred to as the \"Vietnam time-bomb\". A wide spectrum of severity exists; in chronic presentations, symptoms may last months, but fulminant infection, particularly associated with near-drowning, may present with severe symptoms over hours.",
+            "score": 106.77164459228516
+        },
+        {
+            "docid": "1283668_2",
+            "document": "Burkholderia . Burkholderia is a genus of Proteobacteria whose pathogenic members include the Burkholderia cepacia complex which attacks humans and \"Burkholderia mallei\", responsible for glanders, a disease that occurs mostly in horses and related animals; \"Burkholderia pseudomallei\", causative agent of melioidosis; and \"Burkholderia cepacia\", an important pathogen of pulmonary infections in people with cystic fibrosis (CF).",
+            "score": 106.53472900390625
+        },
+        {
+            "docid": "12105320_3",
+            "document": "Macrophage migration inhibitory factor . Bacterial antigens stimulate white blood cells to release MIF into the blood stream. The circulating MIF binds to CD74 on other immune cells to trigger an acute immune response. Hence, MIF is classified as an inflammatory cytokine. Furthermore, glucocorticoids also stimulate white blood cells to release MIF and hence MIF partially counteracts the inhibitory effects that glucocorticoids have on the immune system. Finally trauma activates the anterior pituitary gland to release MIF.",
+            "score": 106.09483337402344
+        },
+        {
+            "docid": "12591438_2",
+            "document": "Ashdown's medium . Ashdown's medium is a selective culture medium for the isolation and characterisation of \"Burkholderia pseudomallei\" (the bacterium that causes melioidosis).",
+            "score": 104.02252197265625
+        },
+        {
+            "docid": "471444_15",
+            "document": "Melioidosis . Many commercial kits for identifying bacteria may misidentify \"B. pseudomallei\" (\"see\" \"Burkholderia pseudomallei\" for a more detailed discussion of this topic).",
+            "score": 103.54303741455078
+        },
+        {
+            "docid": "55930550_6",
+            "document": "Sharon Peacock . On returning to the UK, Peacock became Professor of Clinical Microbiology at the University of Cambridge, heading the Peacock Lab. She also took up honorary consultant positions with the Cambridge University Hospitals NHS Trust and Health Protection Agency. She maintained a research programme in Thailand working on the molecular epidemiology of \"Leptospira\", infection mechanisms of \"Burkholderia pseudomallei\" and Melioidosis. Peacock has published around 150 papers on these topics.",
+            "score": 103.46928405761719
+        },
+        {
+            "docid": "480641_7",
+            "document": "Glanders . Due to the high mortality rate in humans and the small number of organisms required to establish infection, \"B. mallei\" is regarded as a potential biological warfare or bioterrorism agent, as is the closely related organism, \"B. pseudomallei\", the causative agent of melioidosis. During World War I, glanders was believed to have been spread deliberately by German agents to infect large numbers of Russian horses and mules on the Eastern Front. Other agents attempted to introduce the disease in the United States and Argentina. This had an effect on troop and supply convoys, as well as on artillery movement, which were dependent on horses and mules. Human cases in Russia increased with the infections during and after WWI. The Japanese deliberately infected horses, civilians, and prisoners of war with \"B. mallei\" at the Unit 731 Pingfang (China) Institute and Unit 100 facilities during World War II.",
+            "score": 103.35077667236328
+        },
+        {
+            "docid": "471444_14",
+            "document": "Melioidosis . Ashdown's medium, a selective medium containing gentamicin, may be required for cultures taken from nonsterile sites. \"Burkholderia cepacia\" medium may be a useful alternative selective medium in nonendemic areas, where Ashdown's is not available. A new medium derived from Ashdown, known as Francis medium, may help differentiate \"B. pseudomallei\" from \"B. cepacia\" and may help in the early diagnosis of melioidosis, but has not yet been extensively clinically validated.",
+            "score": 102.6696548461914
+        },
+        {
+            "docid": "1994705_4",
+            "document": "Ceftazidime . Ceftazidime is the first-line treatment for the tropical infection, melioidosis, an important cause of sepsis in Asia and Australia. Labeled indications include the treatment of patients with:",
+            "score": 102.52349090576172
+        },
+        {
+            "docid": "1539801_40",
+            "document": "Brugia malayi . According to the Filarial Genome Project being done by The Special Programme for Research and Training in Tropical Diseases, the \"Brugia malayi\" MIF gene is expressed in all life-cycle stages of the parasite, and results suggest that \"B. malayi\" MIF may interact with the human immune system during the course of infection by altering the function of macrophages in the infected individual. Studies are currently testing the hypothesis that MIF may be involved in reducing the host's immune response to the microfilariae. Understanding how this particular parasite has adapted to humans may help organ transplant researchers by figuring out how to prevent the immune system from attacking the transplanted tissue.",
+            "score": 101.93148803710938
+        },
+        {
+            "docid": "12903590_5",
+            "document": "HLA-DR16 . DRB1*1602: Juvenile rheumatoid arthritis, rheumatic heart disease, Takayasu arteritis, systemic sclerosis (SSc) & anti-DNA topoisomerase I (anti-topo I) antibody, melioidosis (Burkholderia pseudomallei infection)",
+            "score": 101.8077621459961
+        },
+        {
+            "docid": "471444_27",
+            "document": "Melioidosis . Without access to appropriate antibiotics (principally ceftazidime or meropenem), the septicemic form of melioidosis exceeds 90% in mortality rate. With appropriate antibiotics, the mortality rate is about 10% for uncomplicated cases but up to 80% for cases with bacteraemia or severe sepsis. It seems certain that access to intensive care facilities is also important, and probably at least partially explains why total mortality is 20% in Northern Australia but 40% in Northeast Thailand. Response to appropriate antibiotic treatment is slow, with the average duration of fever following treatment being 5 to 9 days.",
+            "score": 101.32011413574219
+        },
+        {
+            "docid": "471444_9",
+            "document": "Melioidosis . In up to 25% of patients, no focus of infection is found and the diagnosis is usually made on blood cultures or throat swab. Melioidosis is said to be able to affect any organ in the body except the heart valves (endocarditis). Although meningitis has been described secondary to ruptured brain abscesses, primary meningitis has not been described. Less common manifestations include intravascular infection, lymph node abscesses (1.2\u20132.2%), pyopericardium and myocarditis, mediastinal infection, and thyroid and scrotal abscesses and ocular infection.",
+            "score": 100.83572387695312
+        },
+        {
+            "docid": "471444_8",
+            "document": "Melioidosis . Patients with melioidosis usually have risk factors for disease, such as diabetes, thalassemia, hazardous alcohol use, or renal disease, and frequently give a history of occupational or recreational exposure to mud or pooled surface water. However, otherwise healthy patients, including children, may also get melioidosis.",
+            "score": 99.88507080078125
+        },
+        {
+            "docid": "3523925_19",
+            "document": "Burkholderia pseudomallei . No vaccine is currently available, but a number of vaccine candidates have been suggested. Aspartate-\u03b2-semialdehyde dehydrogenase (\"asd\") gene deletion mutants are auxotrophic for diaminopimelate (DAP) in rich media and auxotrophic for DAP, lysine, methionine, and threonine in minimal media. The \u0394\"asd\" bacterium (bacterium with the \"asd\" gene removed) protects against inhalational melioidosis in mice.",
+            "score": 98.76789093017578
+        },
+        {
+            "docid": "33305931_3",
+            "document": "Macrophage migration inhibitory factor domain . Macrophage migration inhibitory factor (MIF) is a key regulatory cytokine within innate and adaptive immune responses, capable of promoting and modulating the magnitude of the response. MIF is released from T-cells and macrophages, and acts within the neuroendocrine system. MIF is capable of tautomerase activity, although its biological function has not been fully characterised. It is induced by glucocorticoid and is capable of overriding the anti-inflammatory actions of glucocorticoid. MIF regulates cytokine secretion and the expression of receptors involved in the immune response. It can be taken up into target cells in order to interact with intracellular signalling molecules, inhibiting p53 function, and/or activating components of the mitogen-activated protein kinase and Jun-activation domain-binding protein-1 (Jab-1). MIF has been linked to various inflammatory diseases, such as rheumatoid arthritis and atherosclerosis.",
+            "score": 96.94957733154297
+        },
+        {
+            "docid": "471444_18",
+            "document": "Melioidosis . The differential diagnosis is extensive; melioidosis may mimic many other infections, including tuberculosis.",
+            "score": 95.3293685913086
+        },
+        {
+            "docid": "1721387_2",
+            "document": "Alfred Whitmore . Major Alfred Whitmore (1876\u20131946) was an English pathologist who, together with C.S. Krishnaswami, identified \"Burkholderia pseudomallei\", the causative agent of melioidosis (also known as \"Whitmore's disease\") in opium addicts in Rangoon in 1911. He differentiated it from \"Burkholderia mallei\", the causative agent of glanders, by clinical and microbiological features.",
+            "score": 95.10205078125
+        }
+    ]
+}

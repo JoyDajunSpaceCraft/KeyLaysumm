@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "2198661_2",
+            "document": "Trypanosoma brucei . Trypanosoma brucei is a species of parasitic kinetoplastid belonging to the genus \"Trypanosoma\". The parasite is the cause of a vector-borne disease of vertebrate animals, including humans, carried by genera of tsetse fly in sub-Saharan Africa. In humans \"T. brucei\" causes African trypanosomiasis, or sleeping sickness. In animals it causes animal trypanosomiasis, also called nagana in cattle and horses. \"T. brucei\" has traditionally been grouped into three subspecies: \"T. b. brucei\", \"T. b. gambiense\" and \"T. b. rhodesiense\". The first is a parasite of non-human vertebrates, while the latter two are the known parasites of humans. Only rarely can the \"T. b. brucei\" infect a human.",
+            "score": 197.9778825044632
+        },
+        {
+            "docid": "2198661_22",
+            "document": "Trypanosoma brucei . All \"T. b. gambiense\" are resistant to killing by a serum component \u2014 trypanosome lytic factor (TLF) of which there are two types: TLF-1 and TLF-2. Group 1 \"T. b. gambiense\" parasites avoid uptake of the TLF particles while those of group 2 are able to either neutralize or compensate for the effects of TLF.",
+            "score": 296.7836842536926
+        },
+        {
+            "docid": "2198661_42",
+            "document": "Trypanosoma brucei . \"Trypanosoma brucei rhodesiense\" relies on a different mechanism of resistance: the serum resistance associated protein (SRA). The SRA gene is a truncated version of the major and variable surface antigen of the parasite, the variant surface glycoprotein. It has a low sequence homology with the VSGc (<25%). SRA is an expression site associated gene in \"T. b. rhodesiense\" and is located upstream of the VSGs in the active telomeric expression site. The protein is largely localized to small cytoplasmic vesicles between the flagellar pocket and the nucleus. In \"T. b. rhodesiense\" the TLF is directed to SRA containing endosomes while some dispute remain on its presence in the lysosome. SRA binds to ApoL1 using a coiled\u2013coiled interaction at the ApoL1 SRA interacting domain while within the trypanosome lysosome. This interaction prevents the release of the ApoL1 protein and the subsequent lysis of the lysosome and death of the parasite.",
+            "score": 198.45133686065674
+        },
+        {
+            "docid": "20105022_7",
+            "document": "Paleoparasitology . Assumptions of true parasitism in paleontological settings which are based on analogy to known present-day parasitic relationships may not be valid, due to host-specificity. For example, \"Trypanosoma brucei gambiense\" and \"Trypanosoma brucei rhodesiense\" are both devastating human parasites, but the related subspecies \"Trypanosoma brucei brucei\" will infect a number of animal hosts, but cannot even survive in the human blood stream, much less reproduce and infect a human host. So a related (or unidentifiable) species of \"Trypanosoma\" found in a paleontological or archaeological context may not be a true human parasite, even though it appears identical (or very similar) to the modern parasitic forms.",
+            "score": 116.31277322769165
+        },
+        {
+            "docid": "5951626_6",
+            "document": "Antigenic variation . Trypanosoma brucei, the organism that causes sleeping sickness, replicates extracellularly in the bloodstream of infected mammals. In later stages, the parasite crosses the blood brain barrier, resulting in a devastating and usually fatal outcome. As a result of replicating in the bloodstream, \"T. brucei\" parasites are subjected to numerous host defense mechanisms including soluble components of the immune system ( i.e. complement), as well as cellular components of the innate and adaptive immune systems. In order to protect itself from host defenses, the parasite decorates itself with a dense, homogeneous coat (~10^7 molecules) of glycoprotein known as the variant surface glycoprotein (VSG).  In the early stages of invasion, the dense protein coat is sufficient to protect the parasite from immune detection. However, the host eventually identifies the VSG as a foreign antigen and mounts an attack against the microbe. The \"T. brucei\" parasite has evolved an elegant mechanism to display a completely new coat of VSG antigen, rendering it once again invisible to the host\u2019s immune system. The parasite\u2019s genome has over 1,000 genes that code for different variants of the VSG protein. VSG genes can be found on the subtelomeric portion of large chromosomes, or on intermediate chromosomes. VSG genes also exist in arrays and many exist as pseudogenes.  There is a hierarchy by which the VSG genes are activated. Telomeric VSGs are activated first, followed by array VSGs, and finally pseudogene VSGs. Switching of VSG proteins occurs at a rate substantially higher than the background mutation rate of other genes in the parasite (suggesting that it is a regulated process). The process is partially dependent on homologous recombination of DNA, which is mediated in part by the interaction of the \"T. brucei\" BRCA2 gene with RAD51 (however, this is not the only responsible mechanism, as BRCA2 variants still display some VSG switching). In addition to homologous recombination, transcriptional regulation also plays an important role in antigen switching. This is in contrast to other pathogens, where antigenic variation is typically mediated by DNA rearrangements or transcriptional regulation. The process by which VSG switching occurs has not been fully elucidated, but it is known that activation of VSGs requires recombination of the VSG genes into a VSG expression site (ES). The ES consists of a single \"vsg\" gene flanked by an upstream array of 70 base pair repeats and expression site associated genes (ESAGs). \"T. brucei\" expresses one VSG at any given time, and the active VSG can either be selected by activation of a previously silent ES, or by recombination of a VSG sequence into the active ES (see the figure \"Mechanisms of VSG Switching in \"T. brucei\"\"). Although the biological triggers that result in VSG switching are not fully known, mathematical modeling suggests that the ordered appearance of different VSG variants is controlled by at least two key parasite-derived factors: differential activation rates of parasite VSG and density-dependent parasite differentiation.",
+            "score": 90.69670307636261
+        },
+        {
+            "docid": "5951626_7",
+            "document": "Antigenic variation . Plasmodium falciparum, the major etiologic agent of human malaria, has a very complex life cycle that occurs in both humans and mosquitoes. While in the human host, the parasite spends most of its life cycle within hepatic cells and erythrocytes (in contrast to \"T. brucei\" which remains extracellular). As a result of its mainly intracellular niche, parasitized host cells which display parasite proteins must be modified to prevent destruction by the host immune defenses. In the case of \"Plasmodium\", this is accomplished via the dual purpose \"Plasmodium falciparum\" erythrocyte membrane protein 1 (PfEMP1). PfEMP1 is encoded by the diverse family of genes known as the \"var\" family of genes (approximately 60 genes in all). The diversity of the gene family is further increased via a number of different mechanisms including exchange of genetic information at telomeric loci, as well as meiotic recombination. The PfEMP1 protein serves to sequester infected erythrocytes from splenic destruction via adhesion to the endothelium. Moreover, the parasite is able to evade host defense mechanisms by changing which \"var\" allele is used to code the PfEMP1 protein. Like \"T. brucei\", each parasite expresses multiple copies of one identical protein. However, unlike \"T. brucei\", the mechanism by which \"var\" switching occurs in \"P. falciparum\" is thought to be purely transcriptional. \"Var\" switching has been shown to take place soon after invasion of an erythrocyte by a \"P. falciparum\" parasite. Fluorescent in situ hybridization analysis has shown that activation of \"var\" alleles is linked to altered positioning of the genetic material to distinct \u201ctranscriptionally permissive\u201d areas.",
+            "score": 95.6692807674408
+        },
+        {
+            "docid": "2794604_6",
+            "document": "Subtelomere . Subtelomeric transcripts are pseudogenes (transcribed genes producing RNA sequences not translated into protein) and gene families. In humans, they code for olfactory receptors, immunoglobulin heavy chains, and zinc-finger proteins. In other species, several parasites such as Plasmodium and Trypanosoma brucei have developed sophisticated evasion mechanisms to adapt to the hostile environment posed by the host, such as exposing variable surface antigens to escape the immune system. Genes coding for surface antigens in these organisms are located at subtelomeric regions, and it has been speculated that this preferred location facilitates gene switching and expression, and the generation of new variants. For example, the genes belonging to the \"var\" family in Plasmodium falciparum (agent of malaria) code for the PfEMP1 (\"Plasmodium falciparum\" erythrocyte membrane protein 1), a major virulence factor of erythrocytic stages, \"var\" genes are mostly localized in subtelomeric regions. Antigenic variation is orchestrated by epigenetic factors including monoallelic var transcription at separate spatial domains at the nuclear periphery (nuclear pore), differential histone marks on otherwise identical var genes, and var silencing mediated by telomeric heterochromatin. Other factors such as non-coding RNA produced in subtelomeric regions adjacent or within \"var\" genes may contribute as well to antigenic variation. In \"Trypanosoma brucei\" (agent of sleeping sickness), variable surface glycoprotein (VSG) antigenic variation is a relevant mechanism used by the parasite to evade the host immune system. VSG expression is exclusively subtelomeric and occurs either by in situ activation of a silent VSG gene or by DNA rearrangement that inserts an internal silent copy of a VSG gene into an active telomeric expression site. To contrast with \"Plasmodium falciparum\", in \"Trypanosoma brucei\", antigenic variation is orchestrated by epigenetic and genetic factors. In Pneumocystis jirovecii major surface glycoprotein (MSG) gene family cause antigenic variation. MSG genes are like boxes at chromosome ends and only the MSG gene at the unique locus UCS (upstream conserved sequence) is transcribed. Different MSG genes can occupy the expression site (UCS), suggesting that recombination can take a gene from a pool of silent donors and install it at the expression site, possibly via crossovers, activating transcription of a new MSG gene, and changing the surface antigen of \"Pneumocystis jirovecii\". Switching at the expression site is probably facilitated by the subtelomeric locations of expressed and silent MSG genes. A second subtelomeric gene family, MSR, is not strictly regulated at the transcriptional level, but may contribute to phenotypic diversity. Antigenic variation in \"P. jirovecii\" is dominated by genetic regulation.",
+            "score": 69.5926628112793
+        },
+        {
+            "docid": "2198661_29",
+            "document": "Trypanosoma brucei . \"Trypanosoma brucei brucei\" (as well as related species \"T. equiperdum\" and \"T. evansi\") is not human infective because it is susceptible to innate immune system 'trypanolytic' factors present in the serum of some primates, including humans. These trypanolytic factors have been identified as two serum complexes designated trypanolytic factors (TLF-1 and -2) both of which contain haptoglobin related protein (HPR) and apolipoprotein LI (ApoL1). TLF-1 is a member of the high density lipoprotein family of particles while TLF-2 is a related high molecular weight serum protein binding complex. The protein components of TLF-1 are haptoglobin related protein (HPR), apolipoprotein L-1 (apoL-1) and apolipoprotein A-1 (apoA-1). These three proteins are colocalized within spherical particles containing phospholipids and cholesterol. The protein components of TLF-2 include IgM and apolipoprotein A-I.",
+            "score": 202.9454915523529
+        },
+        {
+            "docid": "2198661_31",
+            "document": "Trypanosoma brucei . Human infective subspecies \"T. b. gambiense\" and \"T. b. rhodesiense\" have evolved mechanisms of resisting the trypanolytic factors, described below.",
+            "score": 162.17840790748596
+        },
+        {
+            "docid": "141029_7",
+            "document": "African trypanosomiasis . There are two subspecies of the parasite that are responsible for starting the disease in humans. \"Trypanosoma brucei gambiense\" causes the diseases in west and central Africa, whereas \"Trypanosoma brucei rhodesiense\" has a limited geographical range and is responsible for causing the disease in east and southern Africa. In addition, a third subspecies of the parasite known as \"Trypanosoma brucei brucei\" is responsible for affecting animals but not humans.",
+            "score": 103.21974086761475
+        },
+        {
+            "docid": "141029_6",
+            "document": "African trypanosomiasis . \"Trypanosoma brucei gambiense\" accounts for the majority of African trypanosomiasis cases, with humans as the main reservoir needed for the transmission, while \"Trypanosoma brucei rhodesiense\" is mainly zoonotic, with the occasional human infection. African Trypanosomiasis is dependent on the interaction of the parasite (trypanosome) with the tsetse flies (vector), as well as the host (human for \"Trypanosoma brucei gambiense\", and animals for \"Trypanosoma brucei rhodesiense\"). The risk of contracting African Trypanosomiasis is dependent on coming in contact with an infected tsetse fly.",
+            "score": 123.20250082015991
+        },
+        {
+            "docid": "141029_2",
+            "document": "African trypanosomiasis . African trypanosomiasis, also known as sleeping sickness, is an insect-borne parasitic disease of humans and other animals. It is caused by protozoa of the species \"Trypanosoma brucei\". There are two types that infect humans, \"Trypanosoma brucei gambiense\" (TbG) and \"Trypanosoma brucei rhodesiense\" (TbR). TbG causes over 98% of reported cases. Both are usually transmitted by the bite of an infected tsetse fly and are most common in rural areas. Initially, in the first stage of the disease, there are fevers, headaches, itchiness and joint pains. This begins one to three weeks after the bite. Weeks to months later the second stage begins with confusion, poor coordination, numbness and trouble sleeping. Diagnosis is via finding the parasite in a blood smear or in the fluid of a lymph node. A lumbar puncture is often needed to tell the difference between first and second stage disease. Prevention of severe disease involves screening the population at risk with blood tests for TbG. Treatment is easier when the disease is detected early and before neurological symptoms occur. Treatment of the first stage is with the medications pentamidine or suramin. Treatment of the second stage involves eflornithine or a combination of nifurtimox and eflornithine for TbG. While melarsoprol works for both stages, it is typically only used for TbR, due to serious side effects. Without treatment it typically results in death. The disease occurs regularly in some regions of sub-Saharan Africa with the population at risk being about 70 million in 36 countries. An estimated 11,000 people are currently infected with 2,800 new infections in 2015. In 2015 it caused around 3,500 deaths, down from 34,000 in 1990. More than 80% of these cases are in the Democratic Republic of the Congo. Three major outbreaks have occurred in recent history: one from 1896 to 1906 primarily in Uganda and the Congo Basin and two in 1920 and 1970 in several African countries. It is classified as a neglected tropical disease. Other animals, such as cows, may carry the disease and become infected in which case it is known as animal trypanosomiasis.",
+            "score": 95.42355155944824
+        },
+        {
+            "docid": "39830246_12",
+            "document": "Evolving digital ecological networks . In host-parasite interactions, the parasite organisms benefits at the expense of the host organisms. Parasites in Avida are implemented just like other self-replicating digital organisms, but they live inside hosts and execute parasitic threads using CPU cycles stolen from their hosts. Because parasites impose a cost (lost CPU cycles) on hosts, there is selection for resistance, and when resistance starts to spread in a population, there is selective pressure for parasites to infect those new resistant hosts. Infection occurs when both the parasite and host perform at least one overlapping task. Thus a host is resistant to a particular parasite if they do not share any tasks. This mechanism of infection mimics the inverse-gene-for-gene model, in which infection only occurs if a host susceptibility gene (the presence of a logic task) is matched by a parasite virulence gene (a parasite performing the same task). Additional infection mechanisms, such as the matching allele and gene-for-gene models, can also be implemented.",
+            "score": 52.962682366371155
+        },
+        {
+            "docid": "24973826_13",
+            "document": "Human genetic resistance to malaria . Sickle hemoglobin induces the expression of heme oxygenase-1 in hematopoietic cells. Carbon monoxide, a byproduct of heme catabolism by heme oxygenase-1(HO-1), prevents an accumulation of circulating free heme after \"Plasmodium\" infection, suppressing the pathogenesis of experimental cerebral malaria. Other mechanisms, such as enhanced tolerance to disease mediated by HO-1 and reduced parasitic growth due to translocation of host micro-RNA into the parasite, have been described.",
+            "score": 62.67509603500366
+        },
+        {
+            "docid": "2198661_21",
+            "document": "Trypanosoma brucei . There are two subpopulations of \"T. b. gambiense\" that possesses two distinct groups that differ in genotype and phenotype. Group 2 is more akin to \"T. b. brucei\" than group 1 \"T. b. gambiense\".",
+            "score": 176.95201539993286
+        },
+        {
+            "docid": "2198661_23",
+            "document": "Trypanosoma brucei . In contrast \"T. b. rhodesiense\" is dependent upon the expression of a serum resistance associated (SRA) gene. This gene is not found in \"T. b. gambiense\".",
+            "score": 158.69923067092896
+        },
+        {
+            "docid": "11070797_5",
+            "document": "Alternative oxidase . Unusually, the bloodstream form of the protozoan parasite \"Trypanosoma brucei\", which is the cause of sleeping sickness, depends entirely on the alternative oxidase pathway for cellular respiration through its electron transport chain. This major metabolic difference between the parasite and its human host has made the \"T. brucei\" alternative oxidase an attractive target for drug design. Of the known inhibitors of alternative oxidases, the antibiotic ascofuranone inhibits the \"T. brucei\" enzyme and cures infection in mice.",
+            "score": 75.97261118888855
+        },
+        {
+            "docid": "2198661_40",
+            "document": "Trypanosoma brucei . \"Trypanosoma brucei gambiense\" causes 97% of human cases of sleeping sickness. Resistance to ApoL1 is principally mediated by the hydrophobic \u00df-sheet of the \"T. b. gambiense\" specific glycoprotein. Other factors involved in resistance appear to be a change in the cysteine protease activity and TbHpHbR inactivation due to a leucine to serine substitution (L210S) at codon 210. This is due to a thymidine to cytosine mutation at the second codon position.",
+            "score": 179.57604312896729
+        },
+        {
+            "docid": "1043902_12",
+            "document": "Fasciolosis . Mechanisms of resistance have been studied by several authors in different animal species. These studies may help to better understand the immune response to \"F. hepatica\" in host and are necessary in development of vaccine against the parasite. It has been established that cattle acquire resistance to challenge infection with \"F. hepatica\" and \"F. gigantica\" when they have been sensitized with primary patent or drug-abbreviated infection. Resistance to fasciolosis was also documented in rats. On the other hand, sheep and goats are not resistant to re-infection with \"F. hepatica\". However, there is evidence that two sheep breeds, in particular Indonesian thin tail sheep and Red maasai sheep, are resistant to \"F. gigantica\". No reports concerning the resistance in humans are available.",
+            "score": 73.55818772315979
+        },
+        {
+            "docid": "1570321_12",
+            "document": "Chloroquine . Since the first documentation of \"P. falciparum\" chloroquine resistance in the 1950s, resistant strains have appeared throughout East and West Africa, Southeast Asia, and South America. The effectiveness of chloroquine against \"P. falciparum\" has declined as resistant strains of the parasite evolved. They effectively neutralize the drug via a mechanism that drains chloroquine away from the digestive vacuole. Chloroquine-resistant cells efflux chloroquine at 40 times the rate of chloroquine-sensitive cells; the related mutations trace back to transmembrane proteins of the digestive vacuole, including sets of critical mutations in the \"P. falciparum\" chloroquine resistance transporter (\"PfCRT\") gene. The mutated protein, but not the wild-type transporter, transports chloroquine when expressed in \"Xenopus\" oocytes and is thought to mediate chloroquine leak from its site of action in the digestive vacuole. Resistant parasites also frequently have mutated products of the ABC transporter \"P. falciparum\" multidrug resistance (\"PfMDR1\") gene, although these mutations are thought to be of secondary importance compared to \"Pfcrt\". Verapamil, a Ca channel blocker, has been found to restore both the chloroquine concentration ability and sensitivity to this drug. Recently, an altered chloroquine-transporter protein CG2 of the parasite has been related to chloroquine resistance, but other mechanisms of resistance also appear to be involved. Research on the mechanism of chloroquine and how the parasite has acquired chloroquine resistance is still ongoing, as other mechanisms of resistance are likely.",
+            "score": 64.9596962928772
+        },
+        {
+            "docid": "3486849_29",
+            "document": "New Zealand mud snail . As the snails can reproduce both sexually and asexually, the snail has been used as a model organism for studying the costs and benefits of sexual reproduction. Asexual reproduction allows all members of a population to produce offspring and avoids the costs involved in finding mates. However, asexual offspring are clonal, so lack variation. This makes them susceptible to parasites, as the entire clonal population has the same resistance mechanisms. Once a strain of parasite has overcome these mechanisms, it is able to infect any member of the population. Sexual reproduction mixes up resistance genes through crossing over and the random assortment of gametes in meiosis, meaning the members of a sexual population will all have subtly different combinations of resistance genes. This variation in resistance genes means no one parasite strain is able to sweep through the whole population. New Zealand mudsnails are commonly infected with trematode parasites, which are particularly abundant in shallow water, but scarce in deeper water. As predicted, sexual reproduction dominates in shallow water, due to its advantages in parasite resistance. Asexual reproduction is dominant in the deeper water of lakes, as the scarcity of parasites means that the advantages of resistance are outweighed by the costs of sexual reproduction.",
+            "score": 65.41377234458923
+        },
+        {
+            "docid": "2198661_27",
+            "document": "Trypanosoma brucei . The surface of the trypanosome is covered by a dense coat of ~5 x 10 molecules of variant surface glycoprotein (VSG). This coat enables an infecting \"T. brucei\" population to persistently evade the host's immune system, allowing chronic infection. VSG is highly immunogenic, and an immune response raised against a specific VSG coat rapidly kills trypanosomes expressing this variant. Antibody-mediated trypanosome killing can also be observed in vitro by a complement-mediated lysis assay. However, with each cell division there is a possibility that one or both of the progeny will switch expression to change the VSG that is being expressed. The frequency of VSG switching has been measured to be approximately 0.1% per division. As \"T. brucei\" populations can peak at a size of 10 within a host this rapid rate of switching ensures that the parasite population is typically highly diverse. Because host immunity against a specific VSG does not develop immediately, some parasites will have switched to an antigenically-distinct VSG variant, and can go on to multiply and continue the infection. The clinical effect of this cycle is successive 'waves' of parasitemia (trypanosomes in the blood).",
+            "score": 84.09704053401947
+        },
+        {
+            "docid": "3400261_14",
+            "document": "Obligate parasite . In some cases the behaviour we observe in an organism is not due to the expression of their genes, but rather to the genes of parasites infecting them. This behaviour is an extended phenotype.",
+            "score": 47.30882692337036
+        },
+        {
+            "docid": "52640771_3",
+            "document": "Sociality and disease transmission . Studies have generated very mixed results regarding pathogen risk and prevalence in animal communities. One of the earliest measurements we have regarding a correlation between pathogen prevalence and animal social groups is with prairie dog wards. Hoogland, 1979, found in his study that as the size of the ward increased, the abundance of parasites in the burrow also increased. Several studies that followed in years since have also supported this finding that an increase in community size and density produces an increase of risk and prevalence of pathogenic infection. Vector-borne parasites as well as parasites transmitted by direct social contact appeared to correlate positively in number with the density of a population. In a recent meta-analysis of the data, Patterson and Ruckstahl (2013) confirmed that \"parasite intensity and prevalence both increased positively with group size\u2026\" with the caveat of mobile parasites, which displayed a negative correlation between group size and infection intensity. M\u00f8ller et al. (1993) speculate, however, that animals have evolved behaviors to mitigate the pathogenic risk of living in social groups. This includes grooming, rotating roost sites, mate selection, and aggressive behavior that is thought to reveal the presence of a depressed immune system in an individual.",
+            "score": 58.16103172302246
+        },
+        {
+            "docid": "10844157_6",
+            "document": "Parasite Rex . The final chapters focus on an overall effect parasites have had on the evolution of life and the theory that it is due to parasitic infection that sexual reproduction evolved to become dominant, in contrast to previous asexual reproduction methods, due to the increased genetic variety and thus potential parasitic resistance that this would confer. This research was showcased by W. D. Hamilton and his theories on the evolution of sex, along with the Red Queen hypothesis and the idea of an evolutionary arms race between parasites and their hosts. Zimmer then discusses a final time the wide variety of parasites that evolved to have humans as their primary hosts and our attempts through scientific advancement to eradicate them. The closing chapter considers the positive benefits of parasites and how humans have used them to improve agriculture and medical technology, but also how ill-considered usage of parasites could also destroy various habitats by having them act as invasive species. In the end, Zimmer ponders whether humanity counts as a parasite on the planet and what the effects of this relationship could be.",
+            "score": 64.48981285095215
+        },
+        {
+            "docid": "7971785_32",
+            "document": "Mate choice . MHC diversity may also be correlated to MHC gene expression. As long as a heritable component exists in expression patterns, natural selection is able to act upon the trait. Therefore, gene expression for MHC genes might contribute to the natural selection processes of certain species and be in fact evolutionarily relevant. For example, in another study of three-spined sticklebacks, exposure to parasite species increased MHC class IIB expression by over 25%, proving that parasitic infection increases gene expression.",
+            "score": 49.35978055000305
+        },
+        {
+            "docid": "287207_14",
+            "document": "Plasmodium . More recent studies of \"Plasmodium\" species using molecular methods have implied that the group's evolution has not perfectly followed taxonomy. Many \"Plasmodium\" species that are morphologically similar or infect the same hosts turn out to be only distantly related. In the 1990s, several studies sought to evaluate evolutionary relationships of \"Plasmodium\" species by comparing ribosomal RNA and a surface protein gene from various species, finding the human parasite \"P. falciparum\" to be more closely related to avian parasites than to other parasites of primates. However, later studies sampling more \"Plasmodium\" species found the parasites of mammals to form a clade along with the genus \"Hepatocystis\", while the parasites of birds or lizards appear to form a separate clade with evolutionary relationships not following the subgenera:",
+            "score": 58.07892656326294
+        },
+        {
+            "docid": "24973826_2",
+            "document": "Human genetic resistance to malaria . Human genetic resistance to malaria refers to inherited changes in the DNA of humans which increase resistance to malaria and result in increased survival of individuals with those genetic changes. The existence of these genotypes is likely due to evolutionary pressure exerted by parasites of the genus \"Plasmodium\" which cause malaria. Since malaria infects red blood cells, these genetic changes are most commonly alterations to molecules essential for red blood cell function (and therefore parasite survival), such as hemoglobin or other cellular proteins or enzymes of red blood cells. These alterations generally protect red blood cells from invasion by \"Plasmodium\" parasites or replication of parasites within the red blood cell.",
+            "score": 71.45999789237976
+        },
+        {
+            "docid": "48741207_4",
+            "document": "Trichuris ovis . Like all whipworms, \"T. ovis\" primarily inhabit the host\u2019s cecum. However, sheep and goats are rather resistant to the parasite infection and often do not experience many symptoms. If the host is heavily infected, a large portion of the blood vessels located in the cecal wall will be consumed. This eventually results in the thickening of the wall, thus preventing that region of the large intestine from absorbing fluids causing the host to have diarrhea. This can be extremely detrimental for the host during a drought. Although sheep and goats are relatively resistant to them, \"T. ovis\" is one of the most common nematode parasites, and many of the aforementioned hosts are infected by this species of whipworm. As a result, farmers began treating infected livestock with anthelmintics, an internal pesticide, in hopes of eradicating these infections. Unfortunately, there have been cases reported where the parasites are resistant to these treatments, thus prompting researchers to develop potential vaccines to combat such resistant whipworms.",
+            "score": 74.9525978565216
+        },
+        {
+            "docid": "2198661_4",
+            "document": "Trypanosoma brucei . Whilst not historically regarded as \"T. brucei\" subspecies due to their different means of transmission, clinical presentation, and loss of kinetoplast DNA, genetic analyses reveal that \"T. equiperdum\" and \"T. evansi\" are evolved from parasites very similar to \"T. b. brucei\", and are thought to be members of the \"brucei\" clade.",
+            "score": 90.59509682655334
+        },
+        {
+            "docid": "12591953_5",
+            "document": "Crithidia fasciculata . \"C. fasciculata\" is an example of a non-human infective trypanosomatid and is related to several human parasites, including \"Trypanosoma brucei\" (which causes African trypanosomiasis) and \"Leishmania\" spp. (which cause Leishmaniasis). \"C. fasciculata\" parasitizes several species of insects and has been widely used to test new therapeutic strategies against parasitic infections. \"C. fasciculata\" is often used as a model organism in research into trypanosomatid biology that may then be applied to understanding the biology of the human infective species.",
+            "score": 65.46335363388062
+        },
+        {
+            "docid": "141029_8",
+            "document": "African trypanosomiasis . Humans are the main reservoir for \"T. b. gambiense\" but this species can also be found in pigs and other animals. Wild game animals and cattle are the main reservoir of \"T. b. rhodesiense\". These parasites primarily infect individuals in sub-Saharan Africa because that is where the vector (tsetse fly) is located. The two human forms of the disease also vary greatly in intensity. \"T. b. gambiense\" causes a chronic condition that can remain in a passive phase for months or years before symptoms emerge and the infection can last about 3 years before death occurs.",
+            "score": 165.8589005470276
+        }
+    ],
+    "r": [
+        {
+            "docid": "2198661_22",
+            "document": "Trypanosoma brucei . All \"T. b. gambiense\" are resistant to killing by a serum component \u2014 trypanosome lytic factor (TLF) of which there are two types: TLF-1 and TLF-2. Group 1 \"T. b. gambiense\" parasites avoid uptake of the TLF particles while those of group 2 are able to either neutralize or compensate for the effects of TLF.",
+            "score": 296.78369140625
+        },
+        {
+            "docid": "2198661_29",
+            "document": "Trypanosoma brucei . \"Trypanosoma brucei brucei\" (as well as related species \"T. equiperdum\" and \"T. evansi\") is not human infective because it is susceptible to innate immune system 'trypanolytic' factors present in the serum of some primates, including humans. These trypanolytic factors have been identified as two serum complexes designated trypanolytic factors (TLF-1 and -2) both of which contain haptoglobin related protein (HPR) and apolipoprotein LI (ApoL1). TLF-1 is a member of the high density lipoprotein family of particles while TLF-2 is a related high molecular weight serum protein binding complex. The protein components of TLF-1 are haptoglobin related protein (HPR), apolipoprotein L-1 (apoL-1) and apolipoprotein A-1 (apoA-1). These three proteins are colocalized within spherical particles containing phospholipids and cholesterol. The protein components of TLF-2 include IgM and apolipoprotein A-I.",
+            "score": 202.94549560546875
+        },
+        {
+            "docid": "2198661_42",
+            "document": "Trypanosoma brucei . \"Trypanosoma brucei rhodesiense\" relies on a different mechanism of resistance: the serum resistance associated protein (SRA). The SRA gene is a truncated version of the major and variable surface antigen of the parasite, the variant surface glycoprotein. It has a low sequence homology with the VSGc (<25%). SRA is an expression site associated gene in \"T. b. rhodesiense\" and is located upstream of the VSGs in the active telomeric expression site. The protein is largely localized to small cytoplasmic vesicles between the flagellar pocket and the nucleus. In \"T. b. rhodesiense\" the TLF is directed to SRA containing endosomes while some dispute remain on its presence in the lysosome. SRA binds to ApoL1 using a coiled\u2013coiled interaction at the ApoL1 SRA interacting domain while within the trypanosome lysosome. This interaction prevents the release of the ApoL1 protein and the subsequent lysis of the lysosome and death of the parasite.",
+            "score": 198.4513397216797
+        },
+        {
+            "docid": "2198661_2",
+            "document": "Trypanosoma brucei . Trypanosoma brucei is a species of parasitic kinetoplastid belonging to the genus \"Trypanosoma\". The parasite is the cause of a vector-borne disease of vertebrate animals, including humans, carried by genera of tsetse fly in sub-Saharan Africa. In humans \"T. brucei\" causes African trypanosomiasis, or sleeping sickness. In animals it causes animal trypanosomiasis, also called nagana in cattle and horses. \"T. brucei\" has traditionally been grouped into three subspecies: \"T. b. brucei\", \"T. b. gambiense\" and \"T. b. rhodesiense\". The first is a parasite of non-human vertebrates, while the latter two are the known parasites of humans. Only rarely can the \"T. b. brucei\" infect a human.",
+            "score": 197.97789001464844
+        },
+        {
+            "docid": "2198661_40",
+            "document": "Trypanosoma brucei . \"Trypanosoma brucei gambiense\" causes 97% of human cases of sleeping sickness. Resistance to ApoL1 is principally mediated by the hydrophobic \u00df-sheet of the \"T. b. gambiense\" specific glycoprotein. Other factors involved in resistance appear to be a change in the cysteine protease activity and TbHpHbR inactivation due to a leucine to serine substitution (L210S) at codon 210. This is due to a thymidine to cytosine mutation at the second codon position.",
+            "score": 179.5760498046875
+        },
+        {
+            "docid": "2198661_21",
+            "document": "Trypanosoma brucei . There are two subpopulations of \"T. b. gambiense\" that possesses two distinct groups that differ in genotype and phenotype. Group 2 is more akin to \"T. b. brucei\" than group 1 \"T. b. gambiense\".",
+            "score": 176.95201110839844
+        },
+        {
+            "docid": "141029_8",
+            "document": "African trypanosomiasis . Humans are the main reservoir for \"T. b. gambiense\" but this species can also be found in pigs and other animals. Wild game animals and cattle are the main reservoir of \"T. b. rhodesiense\". These parasites primarily infect individuals in sub-Saharan Africa because that is where the vector (tsetse fly) is located. The two human forms of the disease also vary greatly in intensity. \"T. b. gambiense\" causes a chronic condition that can remain in a passive phase for months or years before symptoms emerge and the infection can last about 3 years before death occurs.",
+            "score": 165.85890197753906
+        },
+        {
+            "docid": "2198661_31",
+            "document": "Trypanosoma brucei . Human infective subspecies \"T. b. gambiense\" and \"T. b. rhodesiense\" have evolved mechanisms of resisting the trypanolytic factors, described below.",
+            "score": 162.17840576171875
+        },
+        {
+            "docid": "2198661_23",
+            "document": "Trypanosoma brucei . In contrast \"T. b. rhodesiense\" is dependent upon the expression of a serum resistance associated (SRA) gene. This gene is not found in \"T. b. gambiense\".",
+            "score": 158.69923400878906
+        },
+        {
+            "docid": "51429149_5",
+            "document": "John William Watson Stephens . Stephens and H. B. Fantham did pioneering work on sleeping sickness and were the first to distinguish \"Trypanosoma brucei rhodesiense\" from \"Trypanosoma brucei gambiense\" (although they called \"T. brucei gambiense\" and \"T. brucei rhodesiense\" by the names \"T. gambiense\" and \"T. rhodesiense\", respectively \u2014 contrary to contemporary taxonomy).",
+            "score": 138.54287719726562
+        },
+        {
+            "docid": "2198661_39",
+            "document": "Trypanosoma brucei . The first step in the killing mechanism is the binding of TLF to high affinity receptors\u2014the haptoglobin-hemoglobin receptors\u2014that are located in the flagellar pocket of the parasite. The bound TLF is endocytosed via coated vesicles and then trafficked to the parasite lysosomes. ApoL1 is the main lethal factor in the TLFs and kills trypanosomes after insertion into endosomal / lysosomal membranes. After ingestion by the parasite, the TLF-1 particle is trafficked to the lysosome wherein Apo1 is activated by a pH mediated conformational change. After fusion with the lysosome the pH drops from ~7 to ~5. This induces a conformational change in the ApoL1 membrane addressing domain which in turn causes a salt bridge linked hinge to open. This releases ApoL1 from the HDL particle to insert in the lysosomal membrane. The ApoL1 protein then creates anionic pores in the membrane which leads to depolarization of the membrane, a continuous influx of chloride and subsequent osmotic swelling of the lysosome. This influx in its turn leads to rupture of the lysosome and the subsequent death of the parasite.",
+            "score": 138.16146850585938
+        },
+        {
+            "docid": "141029_9",
+            "document": "African trypanosomiasis . \"T. b. rhodesiense\" is the acute form of the disease, and death can occur within months since the symptoms emerge within weeks and it is more virulent and faster developing than \"T. b. gambiense\". Furthermore, trypanosomes are surrounded by a coat that is composed of variant surface glycoproteins (VSG). These proteins act to protect the parasite from any lytic factors that are present in human plasma. The host's immune system recognizes the glycoproteins present on the coat of the parasite leading to the production of different antibodies (IgM and IgG).",
+            "score": 135.8049774169922
+        },
+        {
+            "docid": "2198661_43",
+            "document": "Trypanosoma brucei . Baboons are known to be resistant to \"Trypanosoma brucei rhodesiense\". The baboon version of the ApoL1 gene differs from the human gene in a number of respects including two critical lysines near the C terminus that are necessary and sufficient to prevent baboon ApoL1 binding to SRA. Experimental mutations allowing ApoL1 to be protected from neutralization by SRA have been shown capable of conferring trypanolytic activity on \"T. b. rhodesiense\". These mutations resemble those found in baboons, but also resemble natural mutations conferring protection of humans against \"T. b. rhodesiense\" which are linked to kidney disease .",
+            "score": 134.8494415283203
+        },
+        {
+            "docid": "2198661_16",
+            "document": "Trypanosoma brucei . The insect vectors for \"T. brucei\" are different species of tsetse fly (genus \"Glossina\"). The major vectors of \"T. b. gambiense\", causing West African sleeping sickness, are \"G. palpapalis\", \"G. tachinoides\", and \"G. fuscipes\". While the principal vectors of \"T. b. rhodesiense\", causing East African sleeping sickness, are \"G. morsitans\", \"G. pallidipes\", and \"G. Swynnertoni\". Animal trypanosomiasis is transmitted by a dozen species of \"Glossina\".",
+            "score": 126.38603973388672
+        },
+        {
+            "docid": "13885_9",
+            "document": "High-density lipoprotein . However, HDL carries many lipid and protein species, several of which have very low concentrations but are biologically very active. For example, HDL and its protein and lipid constituents help to inhibit oxidation, inflammation, activation of the endothelium, coagulation, and platelet aggregation. All these properties may contribute to the ability of HDL to protect from atherosclerosis, and it is not yet known which are the most important. In addition, a small subfraction of HDL lends protection against the protozoan parasite \"Trypanosoma brucei brucei\". This HDL subfraction, termed trypanosome lytic factor (TLF), contains specialized proteins that, while very active, are unique to the TLF molecule.",
+            "score": 125.10956573486328
+        },
+        {
+            "docid": "160067_45",
+            "document": "Tsetse fly . The species \"Trypanosoma brucei\", which causes the disease, has often been subdivided into three subspecies that were identified based either on the vertebrate hosts which the strain could infect or on the virulence of the disease in humans. The trypanosomes infectious to animals and not to humans were named \"Trypanosoma brucei brucei\". Strains that infected humans were divided into two subspecies based on their different virulences: \"Trypanosoma brucei gambiense\" was thought to have a slower onset and \"Trypanosoma brucei rhodesiense\" refers to strains with a more rapid, virulent onset. This characterization has always been problematic but was the best that could be done given the knowledge of the time and the tools available for identification. A recent molecular study using restriction fragment length polymorphism analysis suggests that the three subspecies are polyphyletic, so the elucidation of the strains of \"T. brucei\" infective to humans requires a more complex explanation. Procyclins are proteins developed in the surface coating of trypanosomes whilst in their tsetse fly vector.",
+            "score": 123.84049224853516
+        },
+        {
+            "docid": "141029_6",
+            "document": "African trypanosomiasis . \"Trypanosoma brucei gambiense\" accounts for the majority of African trypanosomiasis cases, with humans as the main reservoir needed for the transmission, while \"Trypanosoma brucei rhodesiense\" is mainly zoonotic, with the occasional human infection. African Trypanosomiasis is dependent on the interaction of the parasite (trypanosome) with the tsetse flies (vector), as well as the host (human for \"Trypanosoma brucei gambiense\", and animals for \"Trypanosoma brucei rhodesiense\"). The risk of contracting African Trypanosomiasis is dependent on coming in contact with an infected tsetse fly.",
+            "score": 123.20250701904297
+        },
+        {
+            "docid": "2198661_19",
+            "document": "Trypanosoma brucei . \"T. brucei\" is found where the tsetse fly vectors are prevalent. It is present in tropical and subtropical areas of Africa north of the equator, covering East, Central and West Africa. Hence, the equatorial region of Africa is called the \"sleeping sickness\" belt. However, the specific type of the trypanosome differs according to geography. \"T. b. rhodesiense\" is found primarily in East Africa (Botswana, Ethiopia, Kenya, Malawi, Tanzania, Uganda, Zaire, and Zimbabwe), while \"T. b. gambiense\" is found in Central and West Africa.",
+            "score": 122.05965423583984
+        },
+        {
+            "docid": "2198661_37",
+            "document": "Trypanosoma brucei . The association HPR with haemoglobin allows TLF-1 binding and uptake via the trypanosome haptoglobin-hemoglobin receptor (TbHpHbR). TLF-2 enters trypanosomes independently of TbHpHbR. TLF-1 uptake is enhanced in the low levels of haptoglobin which competes with haptoglobin related protein to bind free haemoglobin in the serum. However the complete absence of haptoglobin is associated with a decreased killing rate by serum.",
+            "score": 118.48898315429688
+        },
+        {
+            "docid": "20105022_7",
+            "document": "Paleoparasitology . Assumptions of true parasitism in paleontological settings which are based on analogy to known present-day parasitic relationships may not be valid, due to host-specificity. For example, \"Trypanosoma brucei gambiense\" and \"Trypanosoma brucei rhodesiense\" are both devastating human parasites, but the related subspecies \"Trypanosoma brucei brucei\" will infect a number of animal hosts, but cannot even survive in the human blood stream, much less reproduce and infect a human host. So a related (or unidentifiable) species of \"Trypanosoma\" found in a paleontological or archaeological context may not be a true human parasite, even though it appears identical (or very similar) to the modern parasitic forms.",
+            "score": 116.31277465820312
+        },
+        {
+            "docid": "1339605_3",
+            "document": "Melarsoprol . People diagnosed with trypanosome-caused disease should be treated with an anti-trypanosomal. Treatment is based on stage, 1 or 2, and parasite,\"T. b. rhodesiense\" or \"T. b. gambiense\". In stage 1 disease, trypanosomes are present only in the peripheral circulation. In stage 2 disease, trypanosomes have crossed the blood brain barrier and are present in the central nervous system.",
+            "score": 115.86602020263672
+        },
+        {
+            "docid": "2198694_2",
+            "document": "Trypanosoma evansi . Trypanosoma evansi is a species of excavate trypanosome in the genus Trypanosoma that causes one form of surra in animals. It has been proposed that \"T. evansi\" is\u2014like \"T. equiperdum\"\u2014a derivative of \"T. brucei\". Due to this loss of part of the mitochondrial (kinetoplast) DNA \"T. evansi\" is not capable of infecting the invertebrate vector and establishing the subsequent life-stages. Due to its mechanical transmission \"T. evansi\" is not restricted to transmission via the tsetse fly but shows a very broad vector specificity including the genera \"Tabanus\", \"Stomoxys\", \"Haematopota\", \"Chrysops\" and \"Lyperosia\". It rarely causes disease in humans, indeed, it has only been recorded in cases where the patient lacks a normal component of human serum, Apolipoprotein L1. \"T. evansi\" is very common in India and Iran and causes acute disease in camels and horses, and chronic disease in cattle and buffaloes. The treatment for \"trypanosoma evansi\" is triquin(0.025ml/10\u00a0kg B.wt.) and surral (0.5\u00a0mg/kg B. wt.)",
+            "score": 110.66581726074219
+        },
+        {
+            "docid": "141029_26",
+            "document": "African trypanosomiasis . If untreated, \"T. b. gambiense\" almost always results in death, with only a few individuals shown in a long-term 15 year follow-up to have survived after refusing treatment. \"T. b. rhodesiense\", being a more acute and severe form of the disease, is consistently fatal if not treated. Disease progression greatly varies depending on disease form. For individuals which are infected by \"T. b. gambiense\", which accounts for 98% of all of the reported cases, a person can be infected for months or even years without signs or symptoms until the advanced disease stage, where it is too late to be treated successfully. For individuals affected by \"T. b. rhodesiense\", which accounts for 2% of all reported cases, symptoms appear within weeks or months of the infection. Disease progression is rapid and invades the central nervous system, causing death within a short amount of time.",
+            "score": 110.4668197631836
+        },
+        {
+            "docid": "14815943_9",
+            "document": "Apolipoprotein L1 . APOL1 has a role in innate immunity by protecting against Trypanosoma brucei infection, which is a parasite transmitted by the tsetse fly. Trypanosomes endocytose the secreted form of APOL1; APOL1 forms pores on the lysosomal membranes of the trypanosomes which causes in influx of chloride, swelling of the lysosome and lysis of the trypanosome.",
+            "score": 103.41476440429688
+        },
+        {
+            "docid": "24973826_37",
+            "document": "Human genetic resistance to malaria . \"Plasmodium vivax\" has a wide distribution in tropical countries, but is absent or rare in a large region in West and Central Africa, as recently confirmed by PCR species typing. This gap in distribution has been attributed to the lack of expression of the Duffy antigen receptor for chemokines (DARC) on the red cells of many sub-Saharan Africans. Duffy negative individuals are homozygous for a DARC allele, carrying a single nucleotide mutation (DARC 46 T \u2192 C), which impairs promoter activity by disrupting a binding site for the hGATA1 erythroid lineage transcription factor. In widely cited \"in vitro\" and \"in vivo\" studies, Miller et al. reported that the Duffy blood group is the receptor for \"P. vivax\" and that the absence of the Duffy blood group on red cells is the resistance factor to \"P. vivax\" in persons of African descent. This has become a well-known example of innate resistance to an infectious agent because of the absence of a receptor for the agent on target cells.",
+            "score": 103.31490325927734
+        },
+        {
+            "docid": "141029_7",
+            "document": "African trypanosomiasis . There are two subspecies of the parasite that are responsible for starting the disease in humans. \"Trypanosoma brucei gambiense\" causes the diseases in west and central Africa, whereas \"Trypanosoma brucei rhodesiense\" has a limited geographical range and is responsible for causing the disease in east and southern Africa. In addition, a third subspecies of the parasite known as \"Trypanosoma brucei brucei\" is responsible for affecting animals but not humans.",
+            "score": 103.21974182128906
+        },
+        {
+            "docid": "1339605_6",
+            "document": "Melarsoprol . Due to high toxicity, melarsoprol is reserved only for the most dangerous cases. Other agents associated with lower toxicity levels are used during stage 1 of the disease. The approval of the nifurtimox-eflornithine combination therapy (NECT) in 2009 for the treatment of \"T. b. gambiense\" limited the use of melarsoprol in the treatment of second-stage \"T. b. rhodesiense\".",
+            "score": 98.7455825805664
+        },
+        {
+            "docid": "21115944_7",
+            "document": "Trypanosomiasis vaccine . There are two known subspecies that infect humans, Trypanosoma brucei gambiense and Trypanosoma brucei rhodesiense.",
+            "score": 98.71394348144531
+        },
+        {
+            "docid": "141029_21",
+            "document": "African trypanosomiasis . The current treatment for first-stage disease is intravenous or intramuscular pentamidine for \"T. b. gambiense\" or intravenous suramin for \"T. b. rhodesiense\".",
+            "score": 98.47477722167969
+        },
+        {
+            "docid": "10794560_2",
+            "document": "CD5 (protein) . CD5 is a cluster of differentiation expressed on the surface of T cells (various species) and in a subset of murine B cells known as B-1a. The expression of this receptor in human B cells has been a controversial topic and up to date there is no consensus regarding the role of this receptor as a marker of human B cells. B-1 cells have limited diversity of their B-cell receptor due to their lack of the enzyme terminal deoxynucleotidyl transferase (TdT) and are potentially self-reactive. CD5 serves to mitigate activating signals from the BCR so that the B-1 cells can only be activated by very strong stimuli (such as bacterial proteins) and not by normal tissue proteins. CD5 was used as a T-cell marker until monoclonal antibodies against CD3 were developed.",
+            "score": 97.53726959228516
+        },
+        {
+            "docid": "2198661_33",
+            "document": "Trypanosoma brucei . The gene encoding ApoL1 is found on the long arm of chromosome 22 (22q12.3). Variants of this gene, termed G1 and G2, provide protection against \"T. b. rhodesiense\". These benefits are not without their downside as a specific ApoL1 glomeropathy has been identified. This glomeropathy may help to explain the greater prevalence of hypertension in African populations.",
+            "score": 97.03937530517578
+        },
+        {
+            "docid": "14815943_10",
+            "document": "Apolipoprotein L1 . Although its intracellular function has not been elucidated, apoL1 circulating in plasma has the ability to kill the trypanosome \"Trypanosoma brucei\" that causes sleeping sickness. Recently, two coding sequence variants in APOL1 have been shown to associate with kidney disease in a recessive fashion while at the same time conferring resistance against \"Trypanosoma brucei rhodesiense\". People who have at least one copy of either the G1 or G2 variant are resistant to infection by trypanosomes, but people who have two copies of either variant are at an increased risk of developing a non-diabetic kidney disease.",
+            "score": 97.02790832519531
+        }
+    ]
+}

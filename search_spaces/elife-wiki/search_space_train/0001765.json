@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "5503004_2",
+            "document": "Insulin-like growth factor 1 receptor . The insulin-like growth factor 1 (IGF-1) receptor is a protein found on the surface of human cells. It is a transmembrane receptor that is activated by a hormone called insulin-like growth factor 1 (IGF-1) and by a related hormone called IGF-2. It belongs to the large class of tyrosine kinase receptors. This receptor mediates the effects of IGF-1, which is a polypeptide protein hormone similar in molecular structure to insulin. IGF-1 plays an important role in growth and continues to have anabolic effects in adults \u2013 meaning that it can induce hypertrophy of skeletal muscle and other target tissues. Mice lacking the IGF-1 receptor die late in development, and show a dramatic reduction in body mass, testifying to the strong growth-promoting effect of this receptor. Mice carrying only one functional copy of IGF-1R are normal, but exhibit a ~15% decrease in body mass.",
+            "score": 301.7622630596161
+        },
+        {
+            "docid": "632786_8",
+            "document": "Insulin-like growth factor 1 . Its primary action is mediated by binding to its specific receptor, the insulin-like growth factor 1 receptor (IGF1R), which is present on many cell types in many tissues. Binding to the IGF1R, a receptor tyrosine kinase, initiates intracellular signaling; IGF-1 is one of the most potent natural activators of the AKT signaling pathway, a stimulator of cell growth and proliferation, and a potent inhibitor of programmed cell death . IGF-1 binds to at least two cell surface receptors: the IGF-1 receptor (IGF1R), and the insulin receptor. The IGF-1 receptor seems to be the \"physiologic\" receptor \u2013 it binds IGF-1 at significantly higher affinity than the IGF-1 that is bound to the insulin receptor. Like the insulin receptor, the IGF-1 receptor is a receptor tyrosine kinase \u2013 meaning it signals by causing the addition of a phosphate molecule on particular tyrosines. IGF-1 activates the insulin receptor at approximately 0.1 times the potency of insulin. Part of this signaling may be via IGF1R/Insulin Receptor heterodimers (the reason for the confusion is that binding studies show that IGF1 binds the insulin receptor 100-fold less well than insulin, yet that does not correlate with the actual potency of IGF1 in vivo at inducing phosphorylation of the insulin receptor, and hypoglycemia).",
+            "score": 341.027428150177
+        },
+        {
+            "docid": "733945_3",
+            "document": "Daf-2 . Insulin/IGF-1-like signaling is well-conserved evolutionarily across animal phyla, from single celled organisms to mammals. DAF-2 is the only member of the insulin receptor family in \"C. elegans\" but it corresponds, in form and function, to multiple pathways in humans. The protein predicted from DAF-2's sequence is 35% identical to the human insulin receptor, which regulates metabolism; 34% identical to the IGF-1 receptor, which regulates growth; and 33% identical to the human insulin receptor\u2013related receptor. In \"C. elegans\", the insulin/IGF-1/FOXO pathway is initiated by changes in IGF-1 levels which cause IGF-1 receptors to start a phosphorylation cascade that deactivates the FOXO transcription factor, DAF-16. When not phosphorylated, DAF-16 is active and present in the nucleus. DAF-16 is responsible for up-regulating transcription of about 100 genes that code for cell protecting products such as heat shock proteins and antioxidants. Genetic analysis reveals that the presence of functioning DAF-16 is required to produce the extended lifespan observed in DAF-2 knock-downs. By silencing DAF-16, activation of DAF-2 receptors can ultimately compromise a cell\u2019s ability to mitigate harmful environmental conditions. In most eukaryotes, insulin activates DAF-2 signaling. However, both human insulin and insulin coded for by orthologous genes in \"C. elegans\" inhibit DAF-2 receptors in \"C. elegans\".",
+            "score": 308.4554172754288
+        },
+        {
+            "docid": "14134569_16",
+            "document": "NEDD4 . \"In vivo\", NEDD4 is involved in the regulation of insulin and insulin-like growth factor (IGF-1) signalling by regulating the amount of insulin receptor (IR) and insulin-like growth factor 1 receptor (IGF-1R) on the cell surface.",
+            "score": 284.71849298477173
+        },
+        {
+            "docid": "2839255_12",
+            "document": "MTOR . mTOR Complex 2 (mTORC2) is composed of MTOR, rapamycin-insensitive companion of MTOR (RICTOR), MLST8, and mammalian stress-activated protein kinase interacting protein 1 (mSIN1). mTORC2 has been shown to function as an important regulator of the actin cytoskeleton through its stimulation of F-actin stress fibers, paxillin, RhoA, Rac1, Cdc42, and protein kinase C \u03b1 (PKC\u03b1). mTORC2 also phosphorylates the serine/threonine protein kinase Akt/PKB on serine residue Ser473, thus affecting metabolism and survival. Phosphorylation of Akt's serine residue Ser473 by mTORC2 stimulates Akt phosphorylation on threonine residue Thr308 by PDK1 and leads to full Akt activation. In addition, mTORC2 exhibits tyrosine protein kinase activity and phosphorylates the insulin-like growth factor 1 receptor (IGF-IR) and insulin receptor (InsR) on the tyrosine residues Tyr1131/1136 and Tyr1146/1151, respectively, leading to full activation of IGF-IR and InsR.",
+            "score": 199.33996152877808
+        },
+        {
+            "docid": "15000_2",
+            "document": "Insulin-like growth factor . The insulin-like growth factors (IGFs) are proteins with high sequence similarity to insulin. IGFs are part of a complex system that cells use to communicate with their physiologic environment. This complex system (often referred to as the IGF \"axis\") consists of two cell-surface receptors (IGF1R and IGF2R), two ligands (Insulin-like growth factor 1 (IGF-1) and Insulin-like growth factor 2 (IGF-2)), a family of six high-affinity IGF-binding proteins (IGFBP-1 to IGFBP-6), as well as associated IGFBP degrading enzymes, referred to collectively as proteases.",
+            "score": 291.45231533050537
+        },
+        {
+            "docid": "14760006_2",
+            "document": "IGFBP7 . Insulin-like growth factor-binding protein 7 is a protein that in humans is encoded by the \"IGFBP7\" gene. The major function of the protein is the regulation of availability of insulin-like growth factors (IGFs) in tissue as well as in modulating IGF binding to its receptors. IGFBP7 binds to IGF with high affinity. It also stimulates cell adhesion. The protein is implicated in some cancers.",
+            "score": 264.22152972221375
+        },
+        {
+            "docid": "632786_11",
+            "document": "Insulin-like growth factor 1 . IGF-1 is closely related to a second protein called \"IGF-2\". IGF-2 also binds the IGF-1 receptor. However, IGF-2 alone binds a receptor called the \"IGF-2 receptor\" (also called the mannose-6 phosphate receptor). The insulin-like growth factor-II receptor (IGF2R) lacks signal transduction capacity, and its main role is to act as a sink for IGF-2 and make less IGF-2 available for binding with IGF-1R. As the name \"insulin-like growth factor 1\" implies, IGF-1 is structurally related to insulin, and is even capable of binding the insulin receptor, albeit at lower affinity than insulin.",
+            "score": 277.0048141479492
+        },
+        {
+            "docid": "5503004_11",
+            "document": "Insulin-like growth factor 1 receptor . IGF-1 binds to at least two cell surface receptors: the IGF1 Receptor (IGFR), and the insulin receptor. The IGF-1 receptor seems to be the \"physiologic\" receptor - it binds IGF-1 at significantly higher affinity than it binds insulin. Like the insulin receptor, the IGF-1 receptor is a receptor tyrosine kinase - meaning it signals by causing the addition of a phosphate molecule on particular tyrosines. IGF-1 activates the insulin receptor at approximately 0.1x the potency of insulin. Part of this signaling may be via IGF1R/insulin receptor heterodimers (the reason for the confusion is that binding studies show that IGF1 binds the insulin receptor 100-fold less well than insulin, yet that does not correlate with the actual potency of IGF1 in vivo at inducing phosphorylation of the insulin receptor, and hypoglycemia).",
+            "score": 305.8793966770172
+        },
+        {
+            "docid": "15000_9",
+            "document": "Insulin-like growth factor . IGF-1 and IGF-2 are regulated by a family of proteins known as the IGF-Binding Proteins. These proteins help to modulate IGF action in complex ways that involve both inhibiting IGF action by preventing binding to the IGF-1 receptor as well as promoting IGF action possibly through aiding in delivery to the receptor and increasing IGF half-life. Currently, there are six characterized IGF Binding Proteins (IGFBP-1 to IGFBP-6). There is currently significant data suggesting that IGFBPs play important roles in addition to their ability to regulate IGFs.  IGF-1 and IGFBP-3 are GH dependent, whereas IGFBP-1 is insulin regulated. IGFBP-1 production from the liver is significantly elevated during insulinopenia while serum levels of bioactive IGF-1 is increased by insulin.",
+            "score": 257.12778639793396
+        },
+        {
+            "docid": "13991053_3",
+            "document": "IRS1 . Insulin receptor substrate 1 plays a key role in transmitting signals from the insulin and insulin-like growth factor-1 (IGF-1) receptors to intracellular pathways PI3K / Akt and Erk MAP kinase pathways. Tyrosine phosphorylation of IRS-1 by insulin receptor (IR) introduces multiple binding sites for proteins bearing SH2 homology domain, such as PI3K, Grb-2/Sos complex and SHP2. PI3K, involved in interaction with IRS-1, produces PIP3, which, in turn, recruits Akt kinase. Further, Akt kinase is activated via phosphorylation of its T308 residue and analogous sites in PKC by PDK1. This phosphorylation is absent in tissues lacking IRS-1. The cascade is followed by glucose uptake. Grb-2/Sos complex, also known as RAS, signaling results in ERK1/2 activation. IRS-1 signal transduction may be inhibited by SHP2 in some tissues.",
+            "score": 229.5056196451187
+        },
+        {
+            "docid": "5503004_6",
+            "document": "Insulin-like growth factor 1 receptor . Tyrosine kinase receptors, including the IGF-1 receptor, mediate their activity by causing the addition of a phosphate groups to particular tyrosines on certain proteins within a cell. This addition of phosphate induces what are called \"cell signaling\" cascades - and the usual result of activation of the IGF-1 receptor is survival and proliferation in mitosis-competent cells, and growth (hypertrophy) in tissues such as skeletal muscle and cardiac muscle.",
+            "score": 294.5408663749695
+        },
+        {
+            "docid": "2246657_8",
+            "document": "Androgen receptor . The primary mechanism of action for androgen receptors is direct regulation of gene transcription. The binding of an androgen to the androgen receptor results in a conformational change in the receptor that, in turn, causes dissociation of heat shock proteins, transport from the cytosol into the cell nucleus, and dimerization. The androgen receptor dimer binds to a specific sequence of DNA known as a hormone response element. Androgen receptors interact with other proteins in the nucleus, resulting in up- or down-regulation of specific gene transcription. Up-regulation or activation of transcription results in increased synthesis of messenger RNA, which, in turn, is translated by ribosomes to produce specific proteins. One of the known target genes of androgen receptor activation is the insulin-like growth factor I receptor (IGF-1R). Thus, changes in levels of specific proteins in cells is one way that androgen receptors control cell behavior.",
+            "score": 259.88501143455505
+        },
+        {
+            "docid": "632786_5",
+            "document": "Insulin-like growth factor 1 . IGF-1 is produced primarily by the liver as an endocrine hormone as well as in target tissues in a paracrine/autocrine fashion. Production is stimulated by growth hormone (GH) and can be retarded by undernutrition, growth hormone insensitivity, lack of growth hormone receptors, or failures of the downstream signaling pathway post GH receptor including SHP2 and STAT5B. Approximately 98% of IGF-1 is always bound to one of 6 binding proteins (IGF-BP). IGFBP-3, the most abundant protein, accounts for 80% of all IGF binding. IGF-1 binds to IGFBP-3 in a 1:1 molar ratio. IGFBP-1 is regulated by insulin.",
+            "score": 271.34908628463745
+        },
+        {
+            "docid": "19840675_4",
+            "document": "Cixutumumab . It is a fully human IgG1 monoclonal antibody directed against the human insulin-like growth factor-1 receptor (IGF-1R) with potential antineoplastic activity. Cixutumumab selectively binds to membrane-bound IGF-1R, thereby preventing the binding of the ligand IGF-1 and subsequent activation of PI3K/AKT signaling pathway. Downregulation of the PI3K/AKT survival pathway may result in the induction of cancer cell apoptosis and may decrease cancer cellular proliferation. IGF-1R, a receptor tyrosine kinase of the insulin receptor superfamily overexpressed by many cancer cell types, stimulates cell proliferation, enables oncogenic transformation, and suppresses apoptosis; IGF-1R signaling has been implicated in tumorigenesis and metastasis.",
+            "score": 301.8375141620636
+        },
+        {
+            "docid": "14082641_13",
+            "document": "IGFBP3 . The main IGFBP-3 ligands in the circulation are IGF-1 and IGF-2, and the acid-labile subunit (ALS). The serum proteins transferrin, fibronectin, and plasminogen are also known to bind IGFBP-3. In the cell and tissue environment many other interactions have been described (see Table). Two unrelated cell-surface proteins have been designated as IGFBP-3 receptors: low density lipoprotein receptor-related protein 1 (LRP1), also known as alpha-2-macroglobulin receptor or type V TGF\u03b2 receptor and the transmembrane protein TMEM219. Both are believed to mediate antiproliferative effects. Functional interactions with the EGF receptor and the type I/type II TGF\u03b2 receptor system have also been reported, and other cell-surface proteins such as proteoglycans also bind IGFBP-3. IGFBP-3 can enter cells by both clathrin-mediated and caveolin-mediated endocytosis. possibly involving the transferrin receptor.",
+            "score": 273.73243618011475
+        },
+        {
+            "docid": "14722711_3",
+            "document": "IGFBP1 . This gene is a member of the Insulin-like growth factor-binding protein (IGFBP) family and encodes a protein with an IGFBP domain and a type-I thyroglobulin domain. The protein binds both insulin-like growth factors (IGFs) I and II and circulates in the plasma. Binding of this protein prolongs the half-life of the IGFs and alters their interaction with cell surface receptors. Alternate transcriptional splice variants, encoding different isoforms, have been characterized.",
+            "score": 266.5266201496124
+        },
+        {
+            "docid": "604224_7",
+            "document": "Insulin receptor . The insulin receptor's endogenous ligands include insulin, IGF-I and IGF-II. The binding of ligand to the \u03b1-chains of the IR ectodomain induces structural changes within the receptor leading to autophosphorylation of various tyrosine residues within the intracellular TK domain of the \u03b2-chain. These changes facilitate the recruitment of specific adapter proteins such as the insulin receptor substrate proteins (IRS) in addition to SH2-B (Src Homology 2 - B ), APS and protein phosphatases, such as PTP1B, eventually promoting downstream processes involving blood glucose homeostasis.",
+            "score": 216.42946672439575
+        },
+        {
+            "docid": "15000_7",
+            "document": "Insulin-like growth factor . The IGFs are known to bind the IGF-1 receptor, the insulin receptor, the IGF-2 receptor, the insulin-related receptor and possibly other receptors. The IGF-1 receptor is the \"physiological\" receptor\u2014IGF-1 binds to it at significantly higher affinity than it binds the insulin receptor. Like the insulin receptor, the IGF-1 receptor is a receptor tyrosine kinase\u2014meaning the receptor signals by causing the addition of a phosphate molecule on particular tyrosines. The IGF-2 receptor only binds IGF-2 and acts as a \"clearance receptor\"\u2014it activates no intracellular signaling pathways, functioning only as an IGF-2 sequestering agent and preventing IGF-2 signaling.",
+            "score": 290.57580971717834
+        },
+        {
+            "docid": "14082641_5",
+            "document": "IGFBP3 . Within tissues, IGFBP-3 can bind IGF-1 and IGF-2 released by many cell types, and block their access to the IGF-1 receptor (IGF1R), which is activated by both IGFs. IGFBP-3 also interacts with cell-surface proteins, affecting cell signaling from outside the cell or after internalization, and also enters the cell nucleus where it binds to nuclear hormone receptors and other ligands. High levels of IGFBP-3 within tumors are associated with increased cancer severity (or worse outcome) for some cancers, but decreased severity or better outcome for others. No cases of IGFBP3 gene deletion in humans have been reported, but mice lacking the gene show near-normal growth.",
+            "score": 327.9761667251587
+        },
+        {
+            "docid": "604224_2",
+            "document": "Insulin receptor . The insulin receptor (IR) is a transmembrane receptor that is activated by insulin, IGF-I, IGF-II and belongs to the large class of tyrosine kinase receptors. Metabolically, the insulin receptor plays a key role in the regulation of glucose homeostasis, a functional process that under degenerate conditions may result in a range of clinical manifestations including diabetes and cancer. Biochemically, the insulin receptor is encoded by a single gene , from which alternate splicing during transcription results in either IR-A or IR-B isoforms. Downstream post-translational events of either isoform result in the formation of a proteolytically cleaved \u03b1 and \u03b2 subunit, which upon combination are ultimately capable of homo or hetero-dimerisation to produce the \u2248320 kDa disulfide-linked transmembrane insulin receptor.",
+            "score": 202.398375749588
+        },
+        {
+            "docid": "38403936_4",
+            "document": "MTORC2 . mTORC2 also regulates cellular proliferation and metabolism, in part through the regulation of IGF-IR, InsR, Akt/PKB and the serum-and glucocorticoid-induced protein kinase SGK. mTORC2 phosphorylates the serine/threonine protein kinase Akt/PKB at a serine residue S473 as well as serine residue S450. Phosphorylation of the serine stimulates Akt phosphorylation at a threonine T308 residue by PDK1 and leads to full Akt activation. Curcumin inhibits both by preventing phosphorylation of the serine. Moreover, mTORC2 activity has been implicated in the regulation of autophagy(macroautophagy and chaperone mediated autophagy). In addition, mTORC2 has tyrosine kinase activity and phosphorylates IGF-IR and insulin receptor at the tyrosine residues Y1131/1136 and Y1146/1151, respectively, leading to full activation of IGF-IR and InsR.",
+            "score": 201.01114892959595
+        },
+        {
+            "docid": "2602891_6",
+            "document": "Insulin-like growth factor 2 . IGF-2 exerts its effects by binding to the IGF-1 receptor and to the short isoform of the insulin receptor (IR-A or exon 11-). IGF2 may also bind to the IGF-2 receptor (also called the cation-independent mannose 6-phosphate receptor), which acts as a signalling antagonist; that is, to prevent IGF2 responses.",
+            "score": 254.4578251838684
+        },
+        {
+            "docid": "4109042_20",
+            "document": "Cell signaling . A more complex signal transduction pathway is shown in Figure 3. This pathway involves changes of protein\u2013protein interactions inside the cell, induced by an external signal. Many growth factors bind to receptors at the cell surface and stimulate cells to progress through the cell cycle and divide. Several of these receptors are kinases that start to phosphorylate themselves and other proteins when binding to a ligand. This phosphorylation can generate a binding site for a different protein and thus induce protein\u2013protein interaction. In Figure 3, the ligand (called epidermal growth factor (EGF)) binds to the receptor (called EGFR). This activates the receptor to phosphorylate itself. The phosphorylated receptor binds to an adaptor protein (GRB2), which couples the signal to further downstream signaling processes. For example, one of the signal transduction pathways that are activated is called the mitogen-activated protein kinase (MAPK) pathway. The signal transduction component labeled as \"MAPK\" in the pathway was originally called \"ERK,\" so the pathway is called the MAPK/ERK pathway. The MAPK protein is an enzyme, a protein kinase that can attach phosphate to target proteins such as the transcription factor MYC and, thus, alter gene transcription and, ultimately, cell cycle progression. Many cellular proteins are activated downstream of the growth factor receptors (such as EGFR) that initiate this signal transduction pathway.",
+            "score": 267.65589666366577
+        },
+        {
+            "docid": "5503004_10",
+            "document": "Insulin-like growth factor 1 receptor . Increased levels of the IGF-IR are expressed in the majority of primary and metastatic prostate cancer patient tumors. Evidence suggests that IGF-IR signaling is required for survival and growth when prostate cancer cells progress to androgen independence. In addition, when immortalized prostate cancer cells mimicking advanced disease are treated with the IGF-1R ligand, IGF-1, the cells become more motile. Members of the IGF receptor family and their ligands also seem to be involved in the carcinogenesis of mammary tumors of dogs. IGF1R is amplified in several cancer types based on analysis of TCGA data, and gene amplification could be one mechanism for overexpression of IGF1R in cancer.",
+            "score": 281.87660789489746
+        },
+        {
+            "docid": "14138443_3",
+            "document": "IGFBP4 . This gene is a member of the insulin-like growth factor binding protein (IGFBP) family and encodes a protein with an IGFBP domain and a thyroglobulin type-I domain. The protein binds both insulin-like growth factors (IGFs) I and II and circulates in the plasma in both glycosylated and non-glycosylated forms. Binding of this protein prolongs the half-life of the IGFs and alters their interaction with cell surface receptors. IGFBP-4 is a unique protein and it consistently inhibits several cancer cells in vivo and in vitro. Its inhibitory action has been shown in vivo in prostate and colon. It is secreted by all colon cancer cells.",
+            "score": 277.15316343307495
+        },
+        {
+            "docid": "14082641_15",
+            "document": "IGFBP3 . IGFBP-3 exerts antiproliferative effects in many cell types by blocking the ability of IGF-1 and IGF-2 to activate the IGF1R (which stimulates cell proliferation). For example, in esophageal epithelial cells, responsiveness to IGF-1 stimulation is suppressed by secreted IGFBP-3 and restored when IGFBP-3 is downregulated by epidermal growth factor. IGFBP-3 can also inhibit cell function by mechanisms that are independent of effects on IGF1R signaling, even in cells that entirely lack IGF1R. IGF (or IGF1R) independent effects are commonly studied using mutant forms of IGFBP-3 with decreased IGF binding affinity. Thus, IGFBP-3-induced apoptosis in differentiating chondrocyte precursor cells is seen equally with a non-IGF binding IGFBP-3 mutant, demonstrating that the mechanism does not involve IGF binding. IGF1R-independent growth inhibition by IGFBP-3 may involve the induction of pro-apoptotic proteins such as Bax and Bad and may be mediated by ceramides (pro-apoptotic lipids), or potentiate ceramide action IGFBP-3 interaction with nuclear hormone receptors may also lead to inhibition of cell proliferation. Contrasting with the typical growth-inhibitory effects of IGFBP-3, stimulation of cell proliferation by IGFBP-3 has also been observed. This can occur either by enhancing IGF-stimulated proliferation or in the absence of IGF-1. In endothelial cells and mammary epithelial cells, the stimulatory effect of IGFBP-3 has been shown to involve activation of the enzyme sphingosine kinase, and generation of the bioactive lipid, sphingosine-1-phosphate, which promotes growth by transactivating the EGFR receptor.",
+            "score": 299.03645384311676
+        },
+        {
+            "docid": "15000_8",
+            "document": "Insulin-like growth factor . Since many distinct tissue types express the IGF-1 receptor, IGF-1's effects are diverse. It acts as a neurotrophic factor, inducing the survival of neurons. It may catalyse skeletal muscle hypertrophy, by inducing protein synthesis, and by blocking muscle atrophy. It is protective for cartilage cells, and is associated with activation of osteocytes, and thus may be an anabolic factor for bone. Since at high concentrations it is capable of activating the insulin receptor, it can also complement for the effects of insulin. Receptors for IGF-1 are found in vascular smooth muscle, while typical receptors for insulin are not found in vascular smooth muscle.",
+            "score": 242.13330078125
+        },
+        {
+            "docid": "55895027_5",
+            "document": "Disposable soma theory of aging . Much research has been done on the antagonistic effects of increased growth on lifespan. Specifically, the hormone insulin-like growth factor 1 (IGF-1), binds to a cell receptor, leading to a phosphorylation cascade. This cascade results in kinases phosphorylating forkhead transcription factor (FOXO), deactivating it. Deactivation of FOXO results in an inability to express genes involved in responding to oxidative stress response, such as antioxidants, chaperones, and heat-shock proteins.  Additionally, uptake of IGF-1 stimulates the mTOR pathway, which activates protein synthesis (and therefore growth) through upregulation of the translation-promoting S6K1, and also inhibits autophagy, a process necessary for recycling of damaged cellular products. Decline of autophagy causes neurodegeneration, protein aggregation and premature aging. Lastly, studies have also indicated that the mTOR pathway also alters immune responses and stimulates cyclin-dependent kinase (CDK) inhibitors such as p16 and p21. This leads to alteration of the stem-cell niche and results in stem cell exhaustion, another theorized mechanism of aging.",
+            "score": 232.38493168354034
+        },
+        {
+            "docid": "5411305_4",
+            "document": "Tropomyosin receptor kinase C . The TrkC receptor is part of the large family of receptor tyrosine kinases. A \"tyrosine kinase\" is an enzyme which is capable of adding a phosphate group to the certain tyrosines on target proteins, or \"substrates\". A receptor tyrosine kinase is a \"tyrosine kinase\" which is located at the cellular membrane, and is activated by binding of a ligand via its extracellular domain. Other example of tyrosine kinase receptors include the insulin receptor, the IGF-1 receptor, the MuSK protein receptor, the Vascular Endothelial Growth Factor (or VEGF) receptor, etc. The \"substrate\" proteins which are phosphorylated by TrkC include PI3 kinase.",
+            "score": 190.74172949790955
+        },
+        {
+            "docid": "13991053_4",
+            "document": "IRS1 . Tyrosine phosphorylation of the insulin receptors or IGF-1 receptors, upon extracellular ligand binding, induces the cytoplasmic binding of IRS-1 to these receptors, through its PTB domains. Multiple tyrosine residues of IRS-1 itself are then phosphorylated by these receptors. This enables IRS-1 to activate several signalling pathways, including the PI3K pathway and the MAP kinase pathway.",
+            "score": 208.53031635284424
+        },
+        {
+            "docid": "14895_30",
+            "document": "Insulin . The effects of insulin are initiated by its binding to a receptor present in the cell membrane. The receptor molecule contains an \u03b1- and \u03b2 subunits. Two molecules are joined to form what is known as a homodimer. Insulin binds to the \u03b1-subunits of the homodimer, which faces the extracellular side of the cells. The \u03b2 subunits have tyrosine kinase enzyme activity which is triggered by the insulin binding. This activity provokes the autophosphorylation of the \u03b2 subunits and subsequently the phosphorylation of proteins inside the cell known as insulin receptor substrates (IRS). The phosphorylation of the IRS activates a signal transduction cascade that leads to the activation of other kinases as well as transcription factors that mediate the intracellular effects of insulin.",
+            "score": 217.07337021827698
+        }
+    ],
+    "r": [
+        {
+            "docid": "632786_8",
+            "document": "Insulin-like growth factor 1 . Its primary action is mediated by binding to its specific receptor, the insulin-like growth factor 1 receptor (IGF1R), which is present on many cell types in many tissues. Binding to the IGF1R, a receptor tyrosine kinase, initiates intracellular signaling; IGF-1 is one of the most potent natural activators of the AKT signaling pathway, a stimulator of cell growth and proliferation, and a potent inhibitor of programmed cell death . IGF-1 binds to at least two cell surface receptors: the IGF-1 receptor (IGF1R), and the insulin receptor. The IGF-1 receptor seems to be the \"physiologic\" receptor \u2013 it binds IGF-1 at significantly higher affinity than the IGF-1 that is bound to the insulin receptor. Like the insulin receptor, the IGF-1 receptor is a receptor tyrosine kinase \u2013 meaning it signals by causing the addition of a phosphate molecule on particular tyrosines. IGF-1 activates the insulin receptor at approximately 0.1 times the potency of insulin. Part of this signaling may be via IGF1R/Insulin Receptor heterodimers (the reason for the confusion is that binding studies show that IGF1 binds the insulin receptor 100-fold less well than insulin, yet that does not correlate with the actual potency of IGF1 in vivo at inducing phosphorylation of the insulin receptor, and hypoglycemia).",
+            "score": 341.0274353027344
+        },
+        {
+            "docid": "14082641_5",
+            "document": "IGFBP3 . Within tissues, IGFBP-3 can bind IGF-1 and IGF-2 released by many cell types, and block their access to the IGF-1 receptor (IGF1R), which is activated by both IGFs. IGFBP-3 also interacts with cell-surface proteins, affecting cell signaling from outside the cell or after internalization, and also enters the cell nucleus where it binds to nuclear hormone receptors and other ligands. High levels of IGFBP-3 within tumors are associated with increased cancer severity (or worse outcome) for some cancers, but decreased severity or better outcome for others. No cases of IGFBP3 gene deletion in humans have been reported, but mice lacking the gene show near-normal growth.",
+            "score": 327.9761657714844
+        },
+        {
+            "docid": "733945_3",
+            "document": "Daf-2 . Insulin/IGF-1-like signaling is well-conserved evolutionarily across animal phyla, from single celled organisms to mammals. DAF-2 is the only member of the insulin receptor family in \"C. elegans\" but it corresponds, in form and function, to multiple pathways in humans. The protein predicted from DAF-2's sequence is 35% identical to the human insulin receptor, which regulates metabolism; 34% identical to the IGF-1 receptor, which regulates growth; and 33% identical to the human insulin receptor\u2013related receptor. In \"C. elegans\", the insulin/IGF-1/FOXO pathway is initiated by changes in IGF-1 levels which cause IGF-1 receptors to start a phosphorylation cascade that deactivates the FOXO transcription factor, DAF-16. When not phosphorylated, DAF-16 is active and present in the nucleus. DAF-16 is responsible for up-regulating transcription of about 100 genes that code for cell protecting products such as heat shock proteins and antioxidants. Genetic analysis reveals that the presence of functioning DAF-16 is required to produce the extended lifespan observed in DAF-2 knock-downs. By silencing DAF-16, activation of DAF-2 receptors can ultimately compromise a cell\u2019s ability to mitigate harmful environmental conditions. In most eukaryotes, insulin activates DAF-2 signaling. However, both human insulin and insulin coded for by orthologous genes in \"C. elegans\" inhibit DAF-2 receptors in \"C. elegans\".",
+            "score": 308.4554443359375
+        },
+        {
+            "docid": "5503004_11",
+            "document": "Insulin-like growth factor 1 receptor . IGF-1 binds to at least two cell surface receptors: the IGF1 Receptor (IGFR), and the insulin receptor. The IGF-1 receptor seems to be the \"physiologic\" receptor - it binds IGF-1 at significantly higher affinity than it binds insulin. Like the insulin receptor, the IGF-1 receptor is a receptor tyrosine kinase - meaning it signals by causing the addition of a phosphate molecule on particular tyrosines. IGF-1 activates the insulin receptor at approximately 0.1x the potency of insulin. Part of this signaling may be via IGF1R/insulin receptor heterodimers (the reason for the confusion is that binding studies show that IGF1 binds the insulin receptor 100-fold less well than insulin, yet that does not correlate with the actual potency of IGF1 in vivo at inducing phosphorylation of the insulin receptor, and hypoglycemia).",
+            "score": 305.87939453125
+        },
+        {
+            "docid": "19840675_4",
+            "document": "Cixutumumab . It is a fully human IgG1 monoclonal antibody directed against the human insulin-like growth factor-1 receptor (IGF-1R) with potential antineoplastic activity. Cixutumumab selectively binds to membrane-bound IGF-1R, thereby preventing the binding of the ligand IGF-1 and subsequent activation of PI3K/AKT signaling pathway. Downregulation of the PI3K/AKT survival pathway may result in the induction of cancer cell apoptosis and may decrease cancer cellular proliferation. IGF-1R, a receptor tyrosine kinase of the insulin receptor superfamily overexpressed by many cancer cell types, stimulates cell proliferation, enables oncogenic transformation, and suppresses apoptosis; IGF-1R signaling has been implicated in tumorigenesis and metastasis.",
+            "score": 301.8375244140625
+        },
+        {
+            "docid": "5503004_2",
+            "document": "Insulin-like growth factor 1 receptor . The insulin-like growth factor 1 (IGF-1) receptor is a protein found on the surface of human cells. It is a transmembrane receptor that is activated by a hormone called insulin-like growth factor 1 (IGF-1) and by a related hormone called IGF-2. It belongs to the large class of tyrosine kinase receptors. This receptor mediates the effects of IGF-1, which is a polypeptide protein hormone similar in molecular structure to insulin. IGF-1 plays an important role in growth and continues to have anabolic effects in adults \u2013 meaning that it can induce hypertrophy of skeletal muscle and other target tissues. Mice lacking the IGF-1 receptor die late in development, and show a dramatic reduction in body mass, testifying to the strong growth-promoting effect of this receptor. Mice carrying only one functional copy of IGF-1R are normal, but exhibit a ~15% decrease in body mass.",
+            "score": 301.76226806640625
+        },
+        {
+            "docid": "14082641_15",
+            "document": "IGFBP3 . IGFBP-3 exerts antiproliferative effects in many cell types by blocking the ability of IGF-1 and IGF-2 to activate the IGF1R (which stimulates cell proliferation). For example, in esophageal epithelial cells, responsiveness to IGF-1 stimulation is suppressed by secreted IGFBP-3 and restored when IGFBP-3 is downregulated by epidermal growth factor. IGFBP-3 can also inhibit cell function by mechanisms that are independent of effects on IGF1R signaling, even in cells that entirely lack IGF1R. IGF (or IGF1R) independent effects are commonly studied using mutant forms of IGFBP-3 with decreased IGF binding affinity. Thus, IGFBP-3-induced apoptosis in differentiating chondrocyte precursor cells is seen equally with a non-IGF binding IGFBP-3 mutant, demonstrating that the mechanism does not involve IGF binding. IGF1R-independent growth inhibition by IGFBP-3 may involve the induction of pro-apoptotic proteins such as Bax and Bad and may be mediated by ceramides (pro-apoptotic lipids), or potentiate ceramide action IGFBP-3 interaction with nuclear hormone receptors may also lead to inhibition of cell proliferation. Contrasting with the typical growth-inhibitory effects of IGFBP-3, stimulation of cell proliferation by IGFBP-3 has also been observed. This can occur either by enhancing IGF-stimulated proliferation or in the absence of IGF-1. In endothelial cells and mammary epithelial cells, the stimulatory effect of IGFBP-3 has been shown to involve activation of the enzyme sphingosine kinase, and generation of the bioactive lipid, sphingosine-1-phosphate, which promotes growth by transactivating the EGFR receptor.",
+            "score": 299.0364685058594
+        },
+        {
+            "docid": "5503004_6",
+            "document": "Insulin-like growth factor 1 receptor . Tyrosine kinase receptors, including the IGF-1 receptor, mediate their activity by causing the addition of a phosphate groups to particular tyrosines on certain proteins within a cell. This addition of phosphate induces what are called \"cell signaling\" cascades - and the usual result of activation of the IGF-1 receptor is survival and proliferation in mitosis-competent cells, and growth (hypertrophy) in tissues such as skeletal muscle and cardiac muscle.",
+            "score": 294.5408630371094
+        },
+        {
+            "docid": "15000_2",
+            "document": "Insulin-like growth factor . The insulin-like growth factors (IGFs) are proteins with high sequence similarity to insulin. IGFs are part of a complex system that cells use to communicate with their physiologic environment. This complex system (often referred to as the IGF \"axis\") consists of two cell-surface receptors (IGF1R and IGF2R), two ligands (Insulin-like growth factor 1 (IGF-1) and Insulin-like growth factor 2 (IGF-2)), a family of six high-affinity IGF-binding proteins (IGFBP-1 to IGFBP-6), as well as associated IGFBP degrading enzymes, referred to collectively as proteases.",
+            "score": 291.45233154296875
+        },
+        {
+            "docid": "15000_7",
+            "document": "Insulin-like growth factor . The IGFs are known to bind the IGF-1 receptor, the insulin receptor, the IGF-2 receptor, the insulin-related receptor and possibly other receptors. The IGF-1 receptor is the \"physiological\" receptor\u2014IGF-1 binds to it at significantly higher affinity than it binds the insulin receptor. Like the insulin receptor, the IGF-1 receptor is a receptor tyrosine kinase\u2014meaning the receptor signals by causing the addition of a phosphate molecule on particular tyrosines. The IGF-2 receptor only binds IGF-2 and acts as a \"clearance receptor\"\u2014it activates no intracellular signaling pathways, functioning only as an IGF-2 sequestering agent and preventing IGF-2 signaling.",
+            "score": 290.5758361816406
+        },
+        {
+            "docid": "14134569_16",
+            "document": "NEDD4 . \"In vivo\", NEDD4 is involved in the regulation of insulin and insulin-like growth factor (IGF-1) signalling by regulating the amount of insulin receptor (IR) and insulin-like growth factor 1 receptor (IGF-1R) on the cell surface.",
+            "score": 284.718505859375
+        },
+        {
+            "docid": "5503004_10",
+            "document": "Insulin-like growth factor 1 receptor . Increased levels of the IGF-IR are expressed in the majority of primary and metastatic prostate cancer patient tumors. Evidence suggests that IGF-IR signaling is required for survival and growth when prostate cancer cells progress to androgen independence. In addition, when immortalized prostate cancer cells mimicking advanced disease are treated with the IGF-1R ligand, IGF-1, the cells become more motile. Members of the IGF receptor family and their ligands also seem to be involved in the carcinogenesis of mammary tumors of dogs. IGF1R is amplified in several cancer types based on analysis of TCGA data, and gene amplification could be one mechanism for overexpression of IGF1R in cancer.",
+            "score": 281.8766174316406
+        },
+        {
+            "docid": "14138443_3",
+            "document": "IGFBP4 . This gene is a member of the insulin-like growth factor binding protein (IGFBP) family and encodes a protein with an IGFBP domain and a thyroglobulin type-I domain. The protein binds both insulin-like growth factors (IGFs) I and II and circulates in the plasma in both glycosylated and non-glycosylated forms. Binding of this protein prolongs the half-life of the IGFs and alters their interaction with cell surface receptors. IGFBP-4 is a unique protein and it consistently inhibits several cancer cells in vivo and in vitro. Its inhibitory action has been shown in vivo in prostate and colon. It is secreted by all colon cancer cells.",
+            "score": 277.1531677246094
+        },
+        {
+            "docid": "632786_11",
+            "document": "Insulin-like growth factor 1 . IGF-1 is closely related to a second protein called \"IGF-2\". IGF-2 also binds the IGF-1 receptor. However, IGF-2 alone binds a receptor called the \"IGF-2 receptor\" (also called the mannose-6 phosphate receptor). The insulin-like growth factor-II receptor (IGF2R) lacks signal transduction capacity, and its main role is to act as a sink for IGF-2 and make less IGF-2 available for binding with IGF-1R. As the name \"insulin-like growth factor 1\" implies, IGF-1 is structurally related to insulin, and is even capable of binding the insulin receptor, albeit at lower affinity than insulin.",
+            "score": 277.00482177734375
+        },
+        {
+            "docid": "14082641_13",
+            "document": "IGFBP3 . The main IGFBP-3 ligands in the circulation are IGF-1 and IGF-2, and the acid-labile subunit (ALS). The serum proteins transferrin, fibronectin, and plasminogen are also known to bind IGFBP-3. In the cell and tissue environment many other interactions have been described (see Table). Two unrelated cell-surface proteins have been designated as IGFBP-3 receptors: low density lipoprotein receptor-related protein 1 (LRP1), also known as alpha-2-macroglobulin receptor or type V TGF\u03b2 receptor and the transmembrane protein TMEM219. Both are believed to mediate antiproliferative effects. Functional interactions with the EGF receptor and the type I/type II TGF\u03b2 receptor system have also been reported, and other cell-surface proteins such as proteoglycans also bind IGFBP-3. IGFBP-3 can enter cells by both clathrin-mediated and caveolin-mediated endocytosis. possibly involving the transferrin receptor.",
+            "score": 273.732421875
+        },
+        {
+            "docid": "632786_5",
+            "document": "Insulin-like growth factor 1 . IGF-1 is produced primarily by the liver as an endocrine hormone as well as in target tissues in a paracrine/autocrine fashion. Production is stimulated by growth hormone (GH) and can be retarded by undernutrition, growth hormone insensitivity, lack of growth hormone receptors, or failures of the downstream signaling pathway post GH receptor including SHP2 and STAT5B. Approximately 98% of IGF-1 is always bound to one of 6 binding proteins (IGF-BP). IGFBP-3, the most abundant protein, accounts for 80% of all IGF binding. IGF-1 binds to IGFBP-3 in a 1:1 molar ratio. IGFBP-1 is regulated by insulin.",
+            "score": 271.3490905761719
+        },
+        {
+            "docid": "4109042_20",
+            "document": "Cell signaling . A more complex signal transduction pathway is shown in Figure 3. This pathway involves changes of protein\u2013protein interactions inside the cell, induced by an external signal. Many growth factors bind to receptors at the cell surface and stimulate cells to progress through the cell cycle and divide. Several of these receptors are kinases that start to phosphorylate themselves and other proteins when binding to a ligand. This phosphorylation can generate a binding site for a different protein and thus induce protein\u2013protein interaction. In Figure 3, the ligand (called epidermal growth factor (EGF)) binds to the receptor (called EGFR). This activates the receptor to phosphorylate itself. The phosphorylated receptor binds to an adaptor protein (GRB2), which couples the signal to further downstream signaling processes. For example, one of the signal transduction pathways that are activated is called the mitogen-activated protein kinase (MAPK) pathway. The signal transduction component labeled as \"MAPK\" in the pathway was originally called \"ERK,\" so the pathway is called the MAPK/ERK pathway. The MAPK protein is an enzyme, a protein kinase that can attach phosphate to target proteins such as the transcription factor MYC and, thus, alter gene transcription and, ultimately, cell cycle progression. Many cellular proteins are activated downstream of the growth factor receptors (such as EGFR) that initiate this signal transduction pathway.",
+            "score": 267.6558837890625
+        },
+        {
+            "docid": "14722711_3",
+            "document": "IGFBP1 . This gene is a member of the Insulin-like growth factor-binding protein (IGFBP) family and encodes a protein with an IGFBP domain and a type-I thyroglobulin domain. The protein binds both insulin-like growth factors (IGFs) I and II and circulates in the plasma. Binding of this protein prolongs the half-life of the IGFs and alters their interaction with cell surface receptors. Alternate transcriptional splice variants, encoding different isoforms, have been characterized.",
+            "score": 266.526611328125
+        },
+        {
+            "docid": "8351793_5",
+            "document": "Insulin-like growth factor-binding protein . The IGFBPs help to lengthen the half-life of circulating IGFs in all tissues, including the prostate. Individual IGFBPs may act to enhance or attenuate IGF signaling depending on their physiological context (i.e. cell type). Even with these similarities, some characteristics are different: chromosomal location, heparin binding domains, RGD recognition site, preference for binding IGF-I or IGF-II, and glycosylation and phosphorylation differences. These structural differences can have a tremendous impact on how the IGFBPs interact with cellular basement membranes.",
+            "score": 265.52581787109375
+        },
+        {
+            "docid": "14760006_2",
+            "document": "IGFBP7 . Insulin-like growth factor-binding protein 7 is a protein that in humans is encoded by the \"IGFBP7\" gene. The major function of the protein is the regulation of availability of insulin-like growth factors (IGFs) in tissue as well as in modulating IGF binding to its receptors. IGFBP7 binds to IGF with high affinity. It also stimulates cell adhesion. The protein is implicated in some cancers.",
+            "score": 264.2215270996094
+        },
+        {
+            "docid": "2246657_8",
+            "document": "Androgen receptor . The primary mechanism of action for androgen receptors is direct regulation of gene transcription. The binding of an androgen to the androgen receptor results in a conformational change in the receptor that, in turn, causes dissociation of heat shock proteins, transport from the cytosol into the cell nucleus, and dimerization. The androgen receptor dimer binds to a specific sequence of DNA known as a hormone response element. Androgen receptors interact with other proteins in the nucleus, resulting in up- or down-regulation of specific gene transcription. Up-regulation or activation of transcription results in increased synthesis of messenger RNA, which, in turn, is translated by ribosomes to produce specific proteins. One of the known target genes of androgen receptor activation is the insulin-like growth factor I receptor (IGF-1R). Thus, changes in levels of specific proteins in cells is one way that androgen receptors control cell behavior.",
+            "score": 259.885009765625
+        },
+        {
+            "docid": "11011552_4",
+            "document": "Cellular communication (biology) . Reception occurs when the target cell (any cell with a receptor protein specific to the signal molecule) detects a signal, usually in the form of a small, water-soluble molecule, via binding to a receptor protein. Reception is the target cell's detection of a signal via binding of a signaling molecule, or ligand. Receptor proteins span the cell\u2019s plasma membrane and provide specific sites for water-soluble signaling molecules to bind to. These trans-membrane receptors are able to transmit information from outside the cell to the inside because they change conformation when a specific ligand binds to it. By looking at three major types of receptors, (G protein coupled receptors, receptor tyrosine kinases, and ion channel receptors) scientists are able to see how trans-membrane receptors contribute to the complexity of cells and the work that these cells do. Cell surface receptors play an essential role in the biological systems of single- and multi-cellular organisms and malfunction or damage to these proteins is associated with cancer, heart disease, and asthma.",
+            "score": 258.58441162109375
+        },
+        {
+            "docid": "22519313_2",
+            "document": "Cell surface receptor . Cell surface receptors (membrane receptors, transmembrane receptors) are receptors that are embedded in the membranes of cells. They act in cell signaling by receiving (binding to) extracellular molecules. They are specialized integral membrane proteins that allow communication between the cell and the extracellular space. The extracellular molecules may be hormones, neurotransmitters, cytokines, growth factors, cell adhesion molecules, or nutrients; they react with the receptor to induce changes in the metabolism and activity of a cell. In the process of signal transduction, ligand binding affects a cascading chemical change through the cell membrane.",
+            "score": 257.2013244628906
+        },
+        {
+            "docid": "15000_9",
+            "document": "Insulin-like growth factor . IGF-1 and IGF-2 are regulated by a family of proteins known as the IGF-Binding Proteins. These proteins help to modulate IGF action in complex ways that involve both inhibiting IGF action by preventing binding to the IGF-1 receptor as well as promoting IGF action possibly through aiding in delivery to the receptor and increasing IGF half-life. Currently, there are six characterized IGF Binding Proteins (IGFBP-1 to IGFBP-6). There is currently significant data suggesting that IGFBPs play important roles in addition to their ability to regulate IGFs.  IGF-1 and IGFBP-3 are GH dependent, whereas IGFBP-1 is insulin regulated. IGFBP-1 production from the liver is significantly elevated during insulinopenia while serum levels of bioactive IGF-1 is increased by insulin.",
+            "score": 257.1278076171875
+        },
+        {
+            "docid": "2602891_6",
+            "document": "Insulin-like growth factor 2 . IGF-2 exerts its effects by binding to the IGF-1 receptor and to the short isoform of the insulin receptor (IR-A or exon 11-). IGF2 may also bind to the IGF-2 receptor (also called the cation-independent mannose 6-phosphate receptor), which acts as a signalling antagonist; that is, to prevent IGF2 responses.",
+            "score": 254.45782470703125
+        },
+        {
+            "docid": "4109042_14",
+            "document": "Cell signaling . Cells receive information from their neighbors through a class of proteins known as receptors. Notch is a cell surface protein that functions as a receptor. Animals have a small set of genes that code for signaling proteins that interact specifically with Notch receptors and stimulate a response in cells that express Notch on their surface. Molecules that activate (or, in some cases, inhibit) receptors can be classified as hormones, neurotransmitters, cytokines, and growth factors, in general called receptor ligands. Ligand receptor interactions such as that of the Notch receptor interaction, are known to be the main interactions responsible for cell signaling mechanisms and communication.",
+            "score": 252.0257110595703
+        },
+        {
+            "docid": "2040318_13",
+            "document": "Myosatellite cell . It is suggested that exercise triggers the release of signaling molecules including inflammatory substances, cytokines and growth factors from surrounding connective tissues and active skeletal muscles. Notably, HGF, a cytokine, is transferred from the extracellular matrix into muscles through the nitric-oxide dependent pathway. It is thought that HGF activates satellite cells, while insulin-like growth factor-I (IGF-1) and fibroblast growth factor (FGF) enhance satellite cell proliferation rate following activation. Studies have demonstrated that intense exercise generally increases IGF-1 production, though individual responses vary significantly. More specifically, IGF-1 exists in two isoforms: mechano growth factor (MGF) and IGF-IEa. While the former induces activation and proliferation, the latter causes differentiation of proliferating satellite cells.",
+            "score": 250.4635009765625
+        },
+        {
+            "docid": "4109042_18",
+            "document": "Cell signaling . In some cases, receptor activation caused by ligand binding to a receptor is directly coupled to the cell's response to the ligand. For example, the neurotransmitter GABA can activate a cell surface receptor that is part of an ion channel. GABA binding to a GABA receptor on a neuron opens a chloride-selective ion channel that is part of the receptor. GABA receptor activation allows negatively charged chloride ions to move into the neuron, which inhibits the ability of the neuron to produce action potentials. However, for many cell surface receptors, ligand-receptor interactions are not directly linked to the cell's response. The activated receptor must first interact with other proteins inside the cell before the ultimate physiological effect of the ligand on the cell's behavior is produced. Often, the behavior of a chain of several interacting cell proteins is altered following receptor activation. The entire set of cell changes induced by receptor activation is called a signal transduction mechanism or pathway.",
+            "score": 249.13575744628906
+        },
+        {
+            "docid": "42255617_4",
+            "document": "Phagoptosis . Phagoptosis is normally caused by: the cell exposing on its surface so-called \"eat-me\" signals, and/or the cell no longer exposing \"don't-eat-me\" signals and/or the cell being opsonised i.e. binding soluble proteins that tag the cell for phagocytosis. For example, phosphatidylserine is an \"eat-me\" signal that, when exposed on the surface of a cell, triggers phagocytes (i.e. cells that eat other cells) to eat that cell. Phosphatidylserine is normally found on the inside of healthy cells, but can become exposed on the surface of dying, activated or stressed cells. Phagocytosis of such cells requires specific receptors on the phagocyte that recognise either phosphatidylserine directly or opsonins bound to the phosphatidylserine or other \"eat-me\" signals, such as calreticulin. \"Don't-eat-me\" signals include CD47, which when expressed on the surface of a cell, inhibit phagocytosis of that cell, by activating SIRP-alpha receptors on the phagocyte. Opsonins are normally soluble proteins, which when bound to the surface of a cell induce phagocytes to phagocytose that cell. Opsonins include Mfge8, Gas6, Protein S, antibodies and complement factors C1q and C3b.",
+            "score": 248.2970733642578
+        },
+        {
+            "docid": "15000_3",
+            "document": "Insulin-like growth factor . The IGF \"axis\" is also commonly referred to as the Growth Hormone/IGF-1 Axis. Insulin-like growth factor 1 (IGF-1, or sometimes with a Roman numeral as IGF-I) is mainly secreted by the liver as a result of stimulation by growth hormone (GH). IGF-1 is important for both the regulation of normal physiology, as well as a number of pathological states, including cancer. The IGF axis has been shown to play roles in the promotion of cell proliferation and the inhibition of cell death (apoptosis). Insulin-like growth factor 2 (IGF-2, or sometimes as IGF-II) is thought to be a primary growth factor required for early development while IGF-1 expression is required for achieving maximal growth. Gene knockout studies in mice have confirmed this, though other animals are likely to regulate the expression of these genes in distinct ways. While IGF-2 may be primarily fetal in action it is also essential for development and function of organs such as the brain, liver, and kidney.",
+            "score": 245.24838256835938
+        },
+        {
+            "docid": "23634_28",
+            "document": "Protein . Many proteins are involved in the process of cell signaling and signal transduction. Some proteins, such as insulin, are extracellular proteins that transmit a signal from the cell in which they were synthesized to other cells in distant tissues. Others are membrane proteins that act as receptors whose main function is to bind a signaling molecule and induce a biochemical response in the cell. Many receptors have a binding site exposed on the cell surface and an effector domain within the cell, which may have enzymatic activity or may undergo a conformational change detected by other proteins within the cell.",
+            "score": 244.53993225097656
+        },
+        {
+            "docid": "14130490_7",
+            "document": "GLB1 . The S-Gal protein is a peripheral membrane protein that functions as part of an elastin receptor complex on the surface of cells. The elastin receptor complex includes S-Gal, neuraminidase and Cathepsin A. When elastin-derived peptides bind to the S-Gal protein then the associated neuraminidase enzyme activity is activated and responding cells can have altered signal transduction involving extracellular signal-regulated kinases and regulated matrix metallopeptidase production. Elastin-derived peptides are chemotactic for some cell types and can alter cell cycle progression. The ability of the GLB1-derived elastin binding protein and the elastin receptor complex to influence cell proliferation appears to be indirect and involve removal of sialic acid from extracellular and cell surface proteins such as growth factor receptors.",
+            "score": 244.1442108154297
+        }
+    ]
+}

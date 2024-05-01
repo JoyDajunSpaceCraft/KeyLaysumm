@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "6425322_12",
+            "document": "DNA clamp . Sliding clamps are loaded onto their associated DNA template strands by specialized proteins known as \"sliding clamp loaders\", which also disassemble the clamps after replication has completed. The binding sites for these initiator proteins overlap with the binding sites for the DNA polymerase, so the clamp cannot simultaneously associate with a clamp loader and with a polymerase. Thus the clamp will not be actively disassembled while the polymerase remains bound. DNA clamps also associate with other factors involved in DNA and genome homeostasis, such as nucleosome assembly factors, Okazaki fragment ligases, and DNA repair proteins. All of these proteins also share a binding site on the DNA clamp that overlaps with the clamp loader site, ensuring that the clamp will not be removed while any enzyme is still working on the DNA. The activity of the clamp loader requires ATP hydrolysis to \"close\" the clamp around the DNA.",
+            "score": 316.8127615451813
+        },
+        {
+            "docid": "235926_15",
+            "document": "DNA polymerase . DNA polymerase's ability to slide along the DNA template allows increased processivity. There is a dramatic increase in processivity at the replication fork. This increase is facilitated by the DNA polymerase's association with proteins known as the sliding DNA clamp. The clamps are multiple protein subunits associated in the shape of a ring. Using the hydrolysis of ATP, a class of proteins known as the sliding clamp loading proteins open up the ring structure of the sliding DNA clamps allowing binding to and release from the DNA strand. Protein-protein interaction with the clamp prevents DNA polymerase from diffusing from the DNA template, thereby ensuring that the enzyme binds the same primer/template junction and continues replication. DNA polymerase changes conformation, increasing affinity to the clamp when associated with it and decreasing affinity when it completes the replication of a stretch of DNA to allow release from the clamp.",
+            "score": 313.93983459472656
+        },
+        {
+            "docid": "9015_29",
+            "document": "DNA replication . Clamp proteins form a sliding clamp around DNA, helping the DNA polymerase maintain contact with its template, thereby assisting with processivity. The inner face of the clamp enables DNA to be threaded through it. Once the polymerase reaches the end of the template or detects double-stranded DNA, the sliding clamp undergoes a conformational change that releases the DNA polymerase. Clamp-loading proteins are used to initially load the clamp, recognizing the junction between template and RNA primers.",
+            "score": 273.3573718070984
+        },
+        {
+            "docid": "9896453_58",
+            "document": "Eukaryotic DNA replication . PCNA loading is accomplished by the replication factor C (RFC) complex. The RFC complex is composed of five ATPases: Rfc1, Rfc2, Rfc3, Rfc4 and Rfc5. RFC recognizes primer-template junctions and loads PCNA at these sites. The PCNA homotrimer is opened by RFC by ATP hydrolysis and is then loaded onto DNA in the proper orientation to facilitate its association with the polymerase. Clamp loaders can also unload PCNA from DNA; a mechanism needed when replication must be terminated.",
+            "score": 193.14168739318848
+        },
+        {
+            "docid": "4263231_27",
+            "document": "Replisome . Clamp loader is a generic term that refers to replication factors called gamma (prokaryotes) or RFC (eukaryotes). The combination of template DNA and primer RNA is referred to as 'A-form DNA' and it is thought that clamp loading replication proteins (helical heteropentamers) want to associate with A-form DNA because of its shape (the structure of the major/minor groove) and chemistry (patterns of hydrogen bond donors and acceptors). Thus, clamp loading proteins associate with the primed region of the strand which causes hydrolysis of ATP and provides energy to open the clamp and attach it to the strand.",
+            "score": 209.62296223640442
+        },
+        {
+            "docid": "6425322_2",
+            "document": "DNA clamp . A DNA clamp, also known as a sliding clamp, is a protein fold that serves as a processivity-promoting factor in DNA replication. As a critical component of the DNA polymerase III holoenzyme, the clamp protein binds DNA polymerase and prevents this enzyme from dissociating from the template DNA strand. The clamp-polymerase protein\u2013protein interactions are stronger and more specific than the direct interactions between the polymerase and the template DNA strand; because one of the rate-limiting steps in the DNA synthesis reaction is the association of the polymerase with the DNA template, the presence of the sliding clamp dramatically increases the number of nucleotides that the polymerase can add to the growing strand per association event. The presence of the DNA clamp can increase the rate of DNA synthesis up to 1,000-fold compared with a nonprocessive polymerase.",
+            "score": 351.8894922733307
+        },
+        {
+            "docid": "506293_5",
+            "document": "Processivity . Interactions with the DNA are also facilitated by DNA clamp proteins, which are multimeric proteins that completely encircle the DNA, with which they associate at replication forks. Their central pore is sufficiently large to admit the DNA strands and some surrounding water molecules, which allows the clamp to slide along the DNA without dissociating from it and without loosening the protein-protein interactions that maintain the toroid shape. When associated with a DNA clamp, DNA polymerase is dramatically more processive; without the clamp most polymerases have a processivity of only about 100 nucleotides. The interactions between the polymerase and the clamp are more persistent than those between the polymerase and the DNA. Thus, when the polymerase dissociates from the DNA, it is still bound to the clamp and can rapidly reassociate with the DNA. An example of such a DNA clamp is PCNA (proliferating cell nuclear antigen) found in \"S. cervesiae\".",
+            "score": 272.50034379959106
+        },
+        {
+            "docid": "19309200_16",
+            "document": "T7 DNA polymerase . The mechanism adopted by T7 polymerase to achieve its processivity differs from many other polymerases in that it does not rely on a DNA clamp or a clamp loader. Instead, the T7 DNA polymerase complex requires only three proteins for processive DNA polymerization: T7 polymerase (gp5), Escherichia coli thioredoxin, and single-stranded DNA-binding protein gp2.5. Although these three proteins are the only ones required for template single-stranded DNA polymerization, in a native biological setting the thioredoxin-gp5 interacts with gp4 helicase, which provides single-stranded DNA template (figure 4). During leading strand synthesis thioredoxin-gp5 and gp4 form a high affinity complex increasing overall polymerase processivity to around 5 kb.",
+            "score": 255.21572077274323
+        },
+        {
+            "docid": "9896453_72",
+            "document": "Eukaryotic DNA replication . The generation of single-stranded DNA tracts is important in initiating the checkpoint pathways downstream of replication damage. Once single-stranded DNA becomes sufficiently long, single-stranded DNA coated with RPA are able to recruit ATR-ATRIP. In order to become fully active, the ATR kinase rely on sensor proteins that sense whether the checkpoint proteins are localized to a valid site of DNA replication stress. The RAD9-HUS1-Rad1 (9-1-1) heterotrimeric clamp and its clamp loader RFC are able to recognize gapped or nicked DNA. The RFC clamp loader loads 9-1-1 onto the damaged DNA. The presence of 9-1-1 on DNA is enough to facilitate the interaction between ATR-ATRIP and a group of proteins termed checkpoint mediators, such as TOPBP1 and Mrc1/claspin. TOPBP1 interacts with and recruits the phosphorylated Rad9 component of 9-1-1 and binds ATR-ATRIP, which phosphorylates Chk1. Mrc1/Claspin is also required for the complete activation of ATR-ATRIP that phosphorylates Chk1, the major downstream checkpoint effector kinase. Claspin is a component of the replisome and contains a domain for docking with Chk1, revealing a specific function of Claspin during DNA replication: the promotion of checkpoint signaling at the replisome.",
+            "score": 196.9492403268814
+        },
+        {
+            "docid": "3875704_3",
+            "document": "Replication factor C . The subunits of this heteropentamer are named Rfc1, Rfc2, Rfc3, Rfc4, and Rfc5 in \"Saccharomyces cerevisiae\". RFC is used in eukaryotic replication as a clamp loader, similar to the \u03b3 Complex in \"Escherichia coli\". Its role as clamp loader involves catalysing the loading of PCNA onto DNA. It binds to the 3' end of the DNA and uses ATP to open the ring of PCNA so that it can encircle the DNA. ATP hydrolysis causes release of RFC, with concomitant clamp loading onto DNA.",
+            "score": 181.87349700927734
+        },
+        {
+            "docid": "235926_22",
+            "document": "DNA polymerase . DNA polymerase III holoenzyme is the primary enzyme involved in DNA replication in \"E. coli\" and belongs to family C polymerases. It consists of three assemblies: the pol III core, the beta sliding clamp processivity factor, and the clamp-loading complex. The core consists of three subunits: \u03b1, the polymerase activity hub, \u025b, exonucleolytic proofreader, and \u03b8, which may act as a stabilizer for \u025b. The holoenzyme contains two cores, one for each strand, the lagging and leading. The beta sliding clamp processivity factor is also present in duplicate, one for each core, to create a clamp that encloses DNA allowing for high processivity. The third assembly is a seven-subunit (\u03c42\u03b3\u03b4\u03b4\u2032\u03c7\u03c8) clamp loader complex. Recent research has classified Family C polymerases as a subcategory of Family X with no eukaryotic equivalents.",
+            "score": 312.7667353153229
+        },
+        {
+            "docid": "6425322_3",
+            "document": "DNA clamp . The DNA clamp fold is an \u03b1+\u03b2 protein that assembles into a multimeric structure that completely encircles the DNA double helix as the polymerase adds nucleotides to the growing strand. The DNA clamp assembles on the DNA at the replication fork and \"slides\" along the DNA with the advancing polymerase, aided by a layer of water molecules in the central pore of the clamp between the DNA and the protein surface. Because of the toroidal shape of the assembled multimer, the clamp cannot dissociate from the template strand without also dissociating into monomers.",
+            "score": 294.7105839252472
+        },
+        {
+            "docid": "29993443_12",
+            "document": "Establishment of sister chromatid cohesion . Another significant tie between DNA replication and cohesion pathways is through Replication Factor C (RFC). This complex, the \"clamp loader,\" is responsible for loading PCNA onto DNA. An alternative form of RFC is required for sister chromatin cohesion. This alternative form is composed of core RFC proteins RFC2, RFC3, RFC4, and RFC5, but replaces the RFC1 protein with cohesion specific proteins Ctf8, Ctf18, and Dcc1. A similar function-specific alternative RFC (replacing RFC1 with Rad24) plays a role in the DNA damage checkpoint. The presence of an alternative RFC in the cohesion pathway can be interpreted as evidence in support of the polymerase switch model for cohesion establishment. Like the non-cohesion RFC, the cohesion RFC loads PCNA onto DNA.",
+            "score": 187.0768437385559
+        },
+        {
+            "docid": "30152982_2",
+            "document": "DNA polymerase delta . DNA polymerase delta is an enzyme complex found in eukaryotes that is involved in DNA replication and repair. The DNA polymerase delta complex consists of 4 subunits: POLD1, POLD2, POLD3, and POLD4. DNA Pol \u03b4 is an enzyme used for both leading and lagging strand synthesis. It exhibits increased processivity when interacting with the proliferating cell nuclear antigen (PCNA). As well, the multisubunit protein replication factor C, through its role as the clamp loader for PCNA (which involves catalysing the loading of PCNA on to DNA) is important for DNA Pol \u03b4 function.",
+            "score": 229.93739485740662
+        },
+        {
+            "docid": "6425322_4",
+            "document": "DNA clamp . The DNA clamp fold is found in bacteria, archaea, eukaryotes and some viruses. In bacteria, the sliding clamp is a homodimer composed of two identical beta subunits of DNA polymerase III and hence is referred to as the beta clamp. In archaea and eukaryotes, it is a trimer composed of three molecules of PCNA. The T4 bacteriophage also uses a sliding clamp, called gp45 that is a trimer similar in structure to PCNA but lacks sequence homology to either PCNA or the bacterial beta clamp.",
+            "score": 204.71071529388428
+        },
+        {
+            "docid": "506315_20",
+            "document": "Okazaki fragments . DNA molecules in eukaryotes differ from the circular molecules of prokaryotes in that they are larger and usually have multiple origins of replication. This means that each eukaryotic chromosome is composed of many replicating units of DNA with multiple origins of replication. In comparison, the prokaryotic \"E. coli\" chromosome has only a single origin of replication. In eukaryotes, these replicating forks, which are numerous all along the DNA, form \"bubbles\" in the DNA during replication. The replication fork forms at a specific point called autonomously replicating sequences (ARS). Eukaryotes have a clamp loader complex and a six-unit clamp called the proliferating cell nuclear antigen. The efficient movement of the replication fork also relies critically on the rapid placement of sliding clamps at newly primed sites on the lagging DNA strand by ATP-dependent clamp loader complexes. This means that the piecewise generation of Okazaki fragments can keep up with the continuous synthesis of DNA on the leading strand. These clamp loader complexes are characteristic of all eukaryotes and separate some of the minor differences in the synthesis of Okazaki fragments in prokaryotes and eukaryotes. The lengths of Okazaki fragments in prokaryotes and eukaryotes are different as well. Prokaryotes have Okazaki fragments that are quite longer than those of eukaryotes. Eukaryotes typically have Okazaki fragments that are 100 to 200 nucleotides long, whereas prokaryotic \"E. coli\" can be 2,000 nucleotides long. The reason for this discrepancy is unknown.",
+            "score": 216.8095647096634
+        },
+        {
+            "docid": "9896453_56",
+            "document": "Eukaryotic DNA replication . To strengthen the interaction between the polymerase and the template DNA, DNA sliding clamps associate with the polymerase to promote the processivity of the replicative polymerase. In eukaryotes, the sliding clamp is a homotrimer ring structure known as the proliferating cell nuclear antigen (PCNA). The PCNA ring has polarity with surfaces that interact with DNA polymerases and tethers them securely to the DNA template. PCNA-dependent stabilization of DNA polymerases has a significant effect on DNA replication because PCNAs are able to enhance the polymerase processivity up to 1,000-fold. PCNA is an essential cofactor and has the distinction of being one of the most common interaction platforms in the replisome to accommodate multiple processes at the replication fork, and so PCNA is also viewed as a regulatory cofactor for DNA polymerases.",
+            "score": 261.95145440101624
+        },
+        {
+            "docid": "4263231_28",
+            "document": "Replisome . Sliding clamp is a generic term that refers to ring-shaped replication factors called beta (prokaryotes) or PCNA (eukaryotes). Clamp proteins attract and tether replicative polymerases, such as DNA polymerase III, in order to extend the amount of time that a replicative polymerase stays associated with the strand. From a chemical perspective, the clamp has a slightly positive charge at its centre that is a near perfect match for the slightly negative charge of the DNA strand.",
+            "score": 221.3868100643158
+        },
+        {
+            "docid": "24645298_2",
+            "document": "DnaN . dnaN is the gene that codes for the DNA clamp (also known as \u03b2 sliding clamp) of DNA polymerase III in prokaryotes. The \u03b2 clamp physically locks Pol III onto a DNA strand during replication to help increase its processivity. The eukaryotic equivalent to the \u03b2 clamp is PCNA.",
+            "score": 201.75124192237854
+        },
+        {
+            "docid": "29955904_5",
+            "document": "G2-M DNA damage checkpoint . Proteins that function in the G2-M checkpoint were originally identified in yeast screens that looked for mutants which show enhanced sensitivity to radiation, termed \"rad\" mutants. Inefficient repair of DNA damaged by ionizing radiation or chemical agents in these mutants revealed proteins essential in this pathway. Early signaling proteins in the checkpoint pathway are members of a family of phosphotidylinositol 3-kinases, rad3 in yeast and ATR in vertebrates, that are believed to localize to sites of DNA damage. Rad3 phosphorylates rad26 which is required to initiate, but not maintain the checkpoint. Rad3 also phosphorylates a number of other proteins whose absence abolishes checkpoint DNA repair, including rad1, rad9, hus1 and rad17. It has been hypothesized that rad9, hus 1 and rad 17 are similar to proteins involved in forming the clamp that increases the processivity of DNA polymerase during DNA replication. In agreement with this idea, rad17 is similar to proteins involved in loading the clamp onto DNA. This supports a model where phosphorylation by rad3 causes recruitment of these proteins  to sites of DNA damage where they mediate the activity of DNA polymerases involved in DNA repair.",
+            "score": 198.92729449272156
+        },
+        {
+            "docid": "4263231_26",
+            "document": "Replisome . To this point, according to research by Kuriyan et al., due to their role in recruiting and binding other factors such as priming enzymes and replicative polymerases, clamp loaders and sliding clamps are at the heart of the replisome machinery. Research has found that clamp loading and sliding clamp factors are absolutely essential to replication, which explains the high degree of structural conservation observed for clamp loading and sliding clamp factors. This architectural and structural conservation is seen in organisms as diverse as bacteria, phages, yeast, and humans. That such a significant degree of structural conservation is observed without sequence homology further underpins the significance of these structural solutions to replication challenges.",
+            "score": 195.25200772285461
+        },
+        {
+            "docid": "9896453_48",
+            "document": "Eukaryotic DNA replication . However, Pol \u03b1 is not able to continue DNA replication and must be replaced with another polymerase to continue DNA synthesis. Polymerase switching requires clamp loaders and it has been proven that normal DNA replication requires the coordinated actions of all three DNA polymerases: Pol \u03b1 for priming synthesis, Pol \u03b5 for leading-strand replication, and the Pol \u03b4, which is constantly loaded, for generating Okazaki fragments during lagging-strand synthesis.",
+            "score": 200.4019799232483
+        },
+        {
+            "docid": "6425322_5",
+            "document": "DNA clamp . The beta clamp is a specific DNA clamp and a subunit of the DNA polymerase III holoenzyme found in bacteria. Two beta subunits are assembled around the DNA by the gamma subunit and ATP hydrolysis; this assembly is called the pre-initiation complex. After assembly around the DNA, the beta subunits' affinity for the gamma subunit is replaced by an affinity for the alpha and epsilon subunits, which together create the complete holoenzyme. DNA polymerase III is the primary enzyme complex involved in prokaryotic DNA replication.",
+            "score": 284.36469745635986
+        },
+        {
+            "docid": "29993443_6",
+            "document": "Establishment of sister chromatid cohesion . The Eco1/Ctf7 gene (yeast) was one of the first genes to be identified as specifically required for the establishment of cohesion. Eco1 must be present in S phase to establish cohesion, but its continued presence is not required to maintain cohesion. Eco1 interacts with many proteins directly involved in DNA replication, including the processivity clamp PCNA, clamp loader subunits, and a DNA helicase. Though Eco1 contains several functional domains, it is the acetyltransferase activity of the protein which is crucial for establishment of cohesion. During S phase, Eco1 acetylates lysine residues in the Smc3 subunit of cohesin. Smc3 remains acetylated until at least anaphase. Once cohesin has been removed from the chromatin, Smc3 is deacetylated by Hos1.",
+            "score": 170.41263675689697
+        },
+        {
+            "docid": "14764880_9",
+            "document": "POLD1 . Binding and association studies have shown that POLD2 is tightly associated with POLD1; POLD3 and POLD2 interact with each other and POLD4 interacts with both POLD1 and POLD2. Pol\u03b4 heterotetramer reconstituted by coexpression of subunits in Sf9 cells had properties were similar to Pol\u03b4 purified from the calf thymus, and the complete holoenzyme was very strongly stimulated by PCNA. Numerous studies have shown that while POLD1 possesses both the polymerase and the 3\u2019-5\u2019 exonuclease proofreading activity, the other subunits increase these activities, DNA binding abilities, and functionally important interactions with PCNA and its clamp loader Replication Factor C (RFC). The DNA Pol\u03b4 holoenzyme is often considered to include PCNA and RFC as well as the four subunits of the polymerase complex (Figure 1).",
+            "score": 220.181973695755
+        },
+        {
+            "docid": "4263231_25",
+            "document": "Replisome . Processivity refers to both speed and continuity of DNA replication, and high processivity is a requirement for timely replication. High processivity is in part ensured by ring-shaped proteins referred to as 'clamps' that help replicative polymerases stay associated with the leading and lagging strands. There are other variables as well: from a chemical perspective, strand binding proteins stimulate polymerisation and provide extra thermodynamic energy for the reaction. From a systems perspective, the structure and chemistry of many replisome factors (such as the AAA+ ATPase features of the individual clamp loading sub-units, along with the helical conformation they adopt), and the associations between clamp loading factors and other accessory factors, also increases processivity.",
+            "score": 184.06452560424805
+        },
+        {
+            "docid": "7903516_27",
+            "document": "Phycodnaviridae . Both EsV-1 and PBCV-1 encode DNA polymerase which belong to the DNA polymerase-\u03b4 family, and they all contain a proof-reading 3'-5' exonuclease domain. Additionally, both PBCV-1 and EsV-1 encode a sliding clamp processivity factor protein (PCNA), which interacts with proteins involved in DNA replication as well as proteins involved in DNA repair and postreplicative processing (e.g. DNA methylases and DNA transposases).",
+            "score": 205.76747274398804
+        },
+        {
+            "docid": "7955_61",
+            "document": "DNA . In DNA replication, DNA-dependent DNA polymerases make copies of DNA polynucleotide chains. To preserve biological information, it is essential that the sequence of bases in each copy are precisely complementary to the sequence of bases in the template strand. Many DNA polymerases have a proofreading activity. Here, the polymerase recognizes the occasional mistakes in the synthesis reaction by the lack of base pairing between the mismatched nucleotides. If a mismatch is detected, a 3\u2032 to 5\u2032 exonuclease activity is activated and the incorrect base removed. In most organisms, DNA polymerases function in a large complex called the replisome that contains multiple accessory subunits, such as the DNA clamp or helicases.",
+            "score": 222.74819421768188
+        },
+        {
+            "docid": "3248511_11",
+            "document": "Copy-number variation . One type of non-homologous based mechanism is the non-homologous end joining or micro-homology end joining mechanism. These mechanisms are also involved in repairing double stranded breaks but require no homology or limited micro-homology. When these strands are repaired, oftentimes there are small deletions or insertions added into the repaired strand. It is possible that retrotransposons are inserted into the genome through this repair system. If retrotransposons are inserted into a non-allelic position on the chromosome, meiotic recombination can drive the insertion to be recombined into the same strand as an already existing copy of the same region. Another mechanism is the break-fusion-bridge cycle which involves sister chromatids that have both lost its telomeric region due to double stranded breaks. It is proposed that these sister chromatids will fuse together to form one dicentric chromosome, and then segregate into two different nuclei. Because pulling the dicentric chromosome apart causes a double stranded break, the end regions can fuse to other double stranded breaks and repeat the cycle. The fusion of two sister chromatids can cause inverted duplication and when these events are repeated throughout the cycle, the inverted region will be repeated leading to an increase in copy number. The last mechanism that can lead to copy number variations is polymerase slippage, which is also known as template switching. During normal DNA replication, the polymerase on the lagging strand is required to unclamp and re-clamp the replication region continuously. When small scale repeats in the DNA sequence exist already, the polymerase can be \u2018confused\u2019 when it re-clamps to continue replication and instead of clamping to the correct base pairs, it may shift a few base pairs and replicate a portion of the repeated region again. Note that although this has been experimentally observed and is a widely accepted mechanism, the molecular interactions that led to this error remains unknown. In addition, because this type of mechanism requires the polymerase to jump around the DNA strand and it is unlikely that the polymerase can re-clamp at another locus some kilobases apart, therefore this is more applicable to short repeats such as bi-nucleotide or tri-nucleotide repeats.",
+            "score": 186.62663352489471
+        },
+        {
+            "docid": "506293_3",
+            "document": "Processivity . For example, processivity is the average number of nucleotides added by a polymerase enzyme, such as DNA polymerase, per association event with the template strand. Because the binding of the polymerase to the template is the rate-limiting step in DNA synthesis, the overall rate of DNA replication during S phase of the cell cycle is dependent on the processivity of the DNA polymerases performing the replication. DNA clamp proteins are integral components of the DNA replication machinery and serve to increase the processivity of their associated polymerases. Some polymerases add over 50,000 nucleotides to a growing DNA strand before dissociating from the template strand, giving a replication rate of up to 1,000 nucleotides per second.",
+            "score": 249.04034543037415
+        },
+        {
+            "docid": "2488614_3",
+            "document": "DNA mismatch repair . Mismatch repair is strand-specific. During DNA synthesis the newly synthesised (daughter) strand will commonly include errors. In order to begin repair, the mismatch repair machinery distinguishes the newly synthesised strand from the template (parental). In gram-negative bacteria, transient hemimethylation distinguishes the strands (the parental is methylated and daughter is not). However, in other prokaryotes and eukaryotes, the exact mechanism is not clear. It is suspected that, in eukaryotes, newly synthesized lagging-strand DNA transiently contains nicks (before being sealed by DNA ligase) and provides a signal that directs mismatch proofreading systems to the appropriate strand. This implies that these nicks must be present in the leading strand, and evidence for this has recently been found. Recent work has shown that nicks are sites for RFC-dependent loading of the replication sliding clamp PCNA, in an orientation-specific manner, such that one face of the donut-shape protein is juxtaposed toward the 3'-OH end at the nick. Oriented PCNA then directs the action of the MutLalpha endonuclease to one strand in the presence of a mismatch and MutSalpha or MutSbeta.",
+            "score": 164.01618039608002
+        },
+        {
+            "docid": "9896453_36",
+            "document": "Eukaryotic DNA replication . Once the initiation complex is formed and the cells pass into the S phase, the complex then becomes a replisome. The eukaryotic replisome complex is responsible for coordinating DNA replication. Replication on the leading and lagging strands is performed by DNA polymerase \u03b5 and DNA polymerase \u03b4. Many replisome factors including Claspin, And1, replication factor C clamp loader and the fork protection complex are responsible for regulating polymerase functions and coordinating DNA synthesis with the unwinding of the template strand by Cdc45-Mcm-GINS complex. As the DNA is unwound the twist number decreases. To compensate for this the writhe number increases, introducing positive supercoils in the DNA. These supercoils would cause DNA replication to halt if they were not removed. Topoisomerases are responsible for removing these supercoils ahead of the replication fork.",
+            "score": 208.42547512054443
+        }
+    ],
+    "r": [
+        {
+            "docid": "6425322_2",
+            "document": "DNA clamp . A DNA clamp, also known as a sliding clamp, is a protein fold that serves as a processivity-promoting factor in DNA replication. As a critical component of the DNA polymerase III holoenzyme, the clamp protein binds DNA polymerase and prevents this enzyme from dissociating from the template DNA strand. The clamp-polymerase protein\u2013protein interactions are stronger and more specific than the direct interactions between the polymerase and the template DNA strand; because one of the rate-limiting steps in the DNA synthesis reaction is the association of the polymerase with the DNA template, the presence of the sliding clamp dramatically increases the number of nucleotides that the polymerase can add to the growing strand per association event. The presence of the DNA clamp can increase the rate of DNA synthesis up to 1,000-fold compared with a nonprocessive polymerase.",
+            "score": 351.8894958496094
+        },
+        {
+            "docid": "6425322_12",
+            "document": "DNA clamp . Sliding clamps are loaded onto their associated DNA template strands by specialized proteins known as \"sliding clamp loaders\", which also disassemble the clamps after replication has completed. The binding sites for these initiator proteins overlap with the binding sites for the DNA polymerase, so the clamp cannot simultaneously associate with a clamp loader and with a polymerase. Thus the clamp will not be actively disassembled while the polymerase remains bound. DNA clamps also associate with other factors involved in DNA and genome homeostasis, such as nucleosome assembly factors, Okazaki fragment ligases, and DNA repair proteins. All of these proteins also share a binding site on the DNA clamp that overlaps with the clamp loader site, ensuring that the clamp will not be removed while any enzyme is still working on the DNA. The activity of the clamp loader requires ATP hydrolysis to \"close\" the clamp around the DNA.",
+            "score": 316.8127746582031
+        },
+        {
+            "docid": "235926_15",
+            "document": "DNA polymerase . DNA polymerase's ability to slide along the DNA template allows increased processivity. There is a dramatic increase in processivity at the replication fork. This increase is facilitated by the DNA polymerase's association with proteins known as the sliding DNA clamp. The clamps are multiple protein subunits associated in the shape of a ring. Using the hydrolysis of ATP, a class of proteins known as the sliding clamp loading proteins open up the ring structure of the sliding DNA clamps allowing binding to and release from the DNA strand. Protein-protein interaction with the clamp prevents DNA polymerase from diffusing from the DNA template, thereby ensuring that the enzyme binds the same primer/template junction and continues replication. DNA polymerase changes conformation, increasing affinity to the clamp when associated with it and decreasing affinity when it completes the replication of a stretch of DNA to allow release from the clamp.",
+            "score": 313.9398498535156
+        },
+        {
+            "docid": "235926_22",
+            "document": "DNA polymerase . DNA polymerase III holoenzyme is the primary enzyme involved in DNA replication in \"E. coli\" and belongs to family C polymerases. It consists of three assemblies: the pol III core, the beta sliding clamp processivity factor, and the clamp-loading complex. The core consists of three subunits: \u03b1, the polymerase activity hub, \u025b, exonucleolytic proofreader, and \u03b8, which may act as a stabilizer for \u025b. The holoenzyme contains two cores, one for each strand, the lagging and leading. The beta sliding clamp processivity factor is also present in duplicate, one for each core, to create a clamp that encloses DNA allowing for high processivity. The third assembly is a seven-subunit (\u03c42\u03b3\u03b4\u03b4\u2032\u03c7\u03c8) clamp loader complex. Recent research has classified Family C polymerases as a subcategory of Family X with no eukaryotic equivalents.",
+            "score": 312.7667541503906
+        },
+        {
+            "docid": "6425322_3",
+            "document": "DNA clamp . The DNA clamp fold is an \u03b1+\u03b2 protein that assembles into a multimeric structure that completely encircles the DNA double helix as the polymerase adds nucleotides to the growing strand. The DNA clamp assembles on the DNA at the replication fork and \"slides\" along the DNA with the advancing polymerase, aided by a layer of water molecules in the central pore of the clamp between the DNA and the protein surface. Because of the toroidal shape of the assembled multimer, the clamp cannot dissociate from the template strand without also dissociating into monomers.",
+            "score": 294.7106018066406
+        },
+        {
+            "docid": "6425322_5",
+            "document": "DNA clamp . The beta clamp is a specific DNA clamp and a subunit of the DNA polymerase III holoenzyme found in bacteria. Two beta subunits are assembled around the DNA by the gamma subunit and ATP hydrolysis; this assembly is called the pre-initiation complex. After assembly around the DNA, the beta subunits' affinity for the gamma subunit is replaced by an affinity for the alpha and epsilon subunits, which together create the complete holoenzyme. DNA polymerase III is the primary enzyme complex involved in prokaryotic DNA replication.",
+            "score": 284.3647155761719
+        },
+        {
+            "docid": "9015_29",
+            "document": "DNA replication . Clamp proteins form a sliding clamp around DNA, helping the DNA polymerase maintain contact with its template, thereby assisting with processivity. The inner face of the clamp enables DNA to be threaded through it. Once the polymerase reaches the end of the template or detects double-stranded DNA, the sliding clamp undergoes a conformational change that releases the DNA polymerase. Clamp-loading proteins are used to initially load the clamp, recognizing the junction between template and RNA primers.",
+            "score": 273.35736083984375
+        },
+        {
+            "docid": "506293_5",
+            "document": "Processivity . Interactions with the DNA are also facilitated by DNA clamp proteins, which are multimeric proteins that completely encircle the DNA, with which they associate at replication forks. Their central pore is sufficiently large to admit the DNA strands and some surrounding water molecules, which allows the clamp to slide along the DNA without dissociating from it and without loosening the protein-protein interactions that maintain the toroid shape. When associated with a DNA clamp, DNA polymerase is dramatically more processive; without the clamp most polymerases have a processivity of only about 100 nucleotides. The interactions between the polymerase and the clamp are more persistent than those between the polymerase and the DNA. Thus, when the polymerase dissociates from the DNA, it is still bound to the clamp and can rapidly reassociate with the DNA. An example of such a DNA clamp is PCNA (proliferating cell nuclear antigen) found in \"S. cervesiae\".",
+            "score": 272.5003356933594
+        },
+        {
+            "docid": "9896453_56",
+            "document": "Eukaryotic DNA replication . To strengthen the interaction between the polymerase and the template DNA, DNA sliding clamps associate with the polymerase to promote the processivity of the replicative polymerase. In eukaryotes, the sliding clamp is a homotrimer ring structure known as the proliferating cell nuclear antigen (PCNA). The PCNA ring has polarity with surfaces that interact with DNA polymerases and tethers them securely to the DNA template. PCNA-dependent stabilization of DNA polymerases has a significant effect on DNA replication because PCNAs are able to enhance the polymerase processivity up to 1,000-fold. PCNA is an essential cofactor and has the distinction of being one of the most common interaction platforms in the replisome to accommodate multiple processes at the replication fork, and so PCNA is also viewed as a regulatory cofactor for DNA polymerases.",
+            "score": 261.9514465332031
+        },
+        {
+            "docid": "19309200_16",
+            "document": "T7 DNA polymerase . The mechanism adopted by T7 polymerase to achieve its processivity differs from many other polymerases in that it does not rely on a DNA clamp or a clamp loader. Instead, the T7 DNA polymerase complex requires only three proteins for processive DNA polymerization: T7 polymerase (gp5), Escherichia coli thioredoxin, and single-stranded DNA-binding protein gp2.5. Although these three proteins are the only ones required for template single-stranded DNA polymerization, in a native biological setting the thioredoxin-gp5 interacts with gp4 helicase, which provides single-stranded DNA template (figure 4). During leading strand synthesis thioredoxin-gp5 and gp4 form a high affinity complex increasing overall polymerase processivity to around 5 kb.",
+            "score": 255.21572875976562
+        },
+        {
+            "docid": "506293_3",
+            "document": "Processivity . For example, processivity is the average number of nucleotides added by a polymerase enzyme, such as DNA polymerase, per association event with the template strand. Because the binding of the polymerase to the template is the rate-limiting step in DNA synthesis, the overall rate of DNA replication during S phase of the cell cycle is dependent on the processivity of the DNA polymerases performing the replication. DNA clamp proteins are integral components of the DNA replication machinery and serve to increase the processivity of their associated polymerases. Some polymerases add over 50,000 nucleotides to a growing DNA strand before dissociating from the template strand, giving a replication rate of up to 1,000 nucleotides per second.",
+            "score": 249.04034423828125
+        },
+        {
+            "docid": "30152982_2",
+            "document": "DNA polymerase delta . DNA polymerase delta is an enzyme complex found in eukaryotes that is involved in DNA replication and repair. The DNA polymerase delta complex consists of 4 subunits: POLD1, POLD2, POLD3, and POLD4. DNA Pol \u03b4 is an enzyme used for both leading and lagging strand synthesis. It exhibits increased processivity when interacting with the proliferating cell nuclear antigen (PCNA). As well, the multisubunit protein replication factor C, through its role as the clamp loader for PCNA (which involves catalysing the loading of PCNA on to DNA) is important for DNA Pol \u03b4 function.",
+            "score": 229.93739318847656
+        },
+        {
+            "docid": "7955_61",
+            "document": "DNA . In DNA replication, DNA-dependent DNA polymerases make copies of DNA polynucleotide chains. To preserve biological information, it is essential that the sequence of bases in each copy are precisely complementary to the sequence of bases in the template strand. Many DNA polymerases have a proofreading activity. Here, the polymerase recognizes the occasional mistakes in the synthesis reaction by the lack of base pairing between the mismatched nucleotides. If a mismatch is detected, a 3\u2032 to 5\u2032 exonuclease activity is activated and the incorrect base removed. In most organisms, DNA polymerases function in a large complex called the replisome that contains multiple accessory subunits, such as the DNA clamp or helicases.",
+            "score": 222.74819946289062
+        },
+        {
+            "docid": "235926_26",
+            "document": "DNA polymerase . Pol \u03b1 (alpha), Pol \u03b4 (delta), and Pol \u03b5 (epsilon) are members of Family B Polymerases and are the main polymerases involved with nuclear DNA replication. Pol \u03b1 complex (pol \u03b1-DNA primase complex) consists of four subunits: the catalytic subunit POLA1, the regulatory subunit POLA2, and the small and the large primase subunits PRIM1 and PRIM2 respectively. Once primase has created the RNA primer, Pol \u03b1 starts replication elongating the primer with ~20 nucleotides. Due to its high processivity, Pol \u03b4 takes over the leading and lagging strand synthesis from Pol \u03b1. Pol \u03b4 is expressed by genes POLD1, creating the catalytic subunit, POLD2, POLD3, and POLD4 creating the other subunits that interact with Proliferating Cell Nuclear Antigen (PCNA), which is a DNA clamp that allows Pol \u03b4 to possess processivity. Pol \u03b5 is encoded by the POLE1, the catalytic subunit, POLE2, and POLE3 gene. It has been reported that the function of Pol \u03b5 is to extend the leading strand during replication, while Pol \u03b4 primarily replicates the lagging strand; however, recent evidence suggested that Pol \u03b4 might have a role in replicating the leading strand of DNA as well. Pol \u03b5's C-terminus region is thought to be essential to cell vitality as well. The C-terminus region is thought to provide a checkpoint before entering anaphase, provide stability to the holoenzyme, and add proteins to the holoenzyme necessary for initiation of replication.",
+            "score": 221.539794921875
+        },
+        {
+            "docid": "4263231_28",
+            "document": "Replisome . Sliding clamp is a generic term that refers to ring-shaped replication factors called beta (prokaryotes) or PCNA (eukaryotes). Clamp proteins attract and tether replicative polymerases, such as DNA polymerase III, in order to extend the amount of time that a replicative polymerase stays associated with the strand. From a chemical perspective, the clamp has a slightly positive charge at its centre that is a near perfect match for the slightly negative charge of the DNA strand.",
+            "score": 221.38681030273438
+        },
+        {
+            "docid": "14764880_9",
+            "document": "POLD1 . Binding and association studies have shown that POLD2 is tightly associated with POLD1; POLD3 and POLD2 interact with each other and POLD4 interacts with both POLD1 and POLD2. Pol\u03b4 heterotetramer reconstituted by coexpression of subunits in Sf9 cells had properties were similar to Pol\u03b4 purified from the calf thymus, and the complete holoenzyme was very strongly stimulated by PCNA. Numerous studies have shown that while POLD1 possesses both the polymerase and the 3\u2019-5\u2019 exonuclease proofreading activity, the other subunits increase these activities, DNA binding abilities, and functionally important interactions with PCNA and its clamp loader Replication Factor C (RFC). The DNA Pol\u03b4 holoenzyme is often considered to include PCNA and RFC as well as the four subunits of the polymerase complex (Figure 1).",
+            "score": 220.18199157714844
+        },
+        {
+            "docid": "505501_2",
+            "document": "DNA polymerase III holoenzyme . DNA polymerase III holoenzyme is the primary enzyme complex involved in prokaryotic DNA replication. It was discovered by Thomas Kornberg (son of Arthur Kornberg) and Malcolm Gefter in 1970. The complex has high processivity (i.e. the number of nucleotides added per binding event) and, specifically referring to the replication of the \"E.coli\" genome, works in conjunction with four other DNA polymerases (Pol I, Pol II, Pol IV, and Pol V). Being the primary holoenzyme involved in replication activity, the DNA Pol III holoenzyme also has proofreading capabilities that correct replication mistakes by means of exonuclease activity working 3'\u21925'. DNA Pol III is a component of the replisome, which is located at the replication fork.",
+            "score": 218.7385711669922
+        },
+        {
+            "docid": "505501_6",
+            "document": "DNA polymerase III holoenzyme . DNA polymerase III will then synthesize a continuous or discontinuous strand of DNA, depending if this is occurring on the leading or lagging strand (Okazaki fragment) of the DNA. DNA polymerase III has a high processivity and therefore, synthesizes DNA very quickly. This high processivity is due in part to the \u03b2-clamps that \"hold\" onto the DNA strands.",
+            "score": 218.64834594726562
+        },
+        {
+            "docid": "506315_20",
+            "document": "Okazaki fragments . DNA molecules in eukaryotes differ from the circular molecules of prokaryotes in that they are larger and usually have multiple origins of replication. This means that each eukaryotic chromosome is composed of many replicating units of DNA with multiple origins of replication. In comparison, the prokaryotic \"E. coli\" chromosome has only a single origin of replication. In eukaryotes, these replicating forks, which are numerous all along the DNA, form \"bubbles\" in the DNA during replication. The replication fork forms at a specific point called autonomously replicating sequences (ARS). Eukaryotes have a clamp loader complex and a six-unit clamp called the proliferating cell nuclear antigen. The efficient movement of the replication fork also relies critically on the rapid placement of sliding clamps at newly primed sites on the lagging DNA strand by ATP-dependent clamp loader complexes. This means that the piecewise generation of Okazaki fragments can keep up with the continuous synthesis of DNA on the leading strand. These clamp loader complexes are characteristic of all eukaryotes and separate some of the minor differences in the synthesis of Okazaki fragments in prokaryotes and eukaryotes. The lengths of Okazaki fragments in prokaryotes and eukaryotes are different as well. Prokaryotes have Okazaki fragments that are quite longer than those of eukaryotes. Eukaryotes typically have Okazaki fragments that are 100 to 200 nucleotides long, whereas prokaryotic \"E. coli\" can be 2,000 nucleotides long. The reason for this discrepancy is unknown.",
+            "score": 216.8095703125
+        },
+        {
+            "docid": "9015_31",
+            "document": "DNA replication . Replication machineries consist of factors involved in DNA replication and appearing on template ssDNAs. Replication machineries include primosotors are replication enzymes; DNA polymerase, DNA helicases, DNA clamps and DNA topoisomerases, and replication proteins; e.g. single-stranded DNA binding proteins (SSB). In the replication machineries these components coordinate. In most of the bacteria, all of the factors involved in DNA replication are located on replication forks and the complexes stay on the forks during DNA replication. These replication machineries are called replisomes or DNA replicase systems. These terms are generic terms for proteins located on replication forks. In eukaryotic and some bacterial cells the replisomes are not formed.",
+            "score": 216.19325256347656
+        },
+        {
+            "docid": "9257_30",
+            "document": "Enzyme . Enzymes that require a cofactor but do not have one bound are called \"apoenzymes\" or \"apoproteins\". An enzyme together with the cofactor(s) required for activity is called a \"holoenzyme\" (or haloenzyme). The term \"holoenzyme\" can also be applied to enzymes that contain multiple protein subunits, such as the DNA polymerases; here the holoenzyme is the complete complex containing all the subunits needed for activity.",
+            "score": 216.02479553222656
+        },
+        {
+            "docid": "3913183_5",
+            "document": "Holoprotein . Enzymes that require a cofactor but do not have one bound are called \"apoenzymes\" or \"apoproteins\". An enzyme together with the cofactor(s) required for activity is called a \"holoenzyme\" (or haloenzyme). The term \"holoenzyme\" can also be applied to enzymes that contain multiple protein subunits, such as the DNA polymerases; here the holoenzyme is the complete complex containing all the subunits needed for activity.",
+            "score": 215.0299072265625
+        },
+        {
+            "docid": "4263231_27",
+            "document": "Replisome . Clamp loader is a generic term that refers to replication factors called gamma (prokaryotes) or RFC (eukaryotes). The combination of template DNA and primer RNA is referred to as 'A-form DNA' and it is thought that clamp loading replication proteins (helical heteropentamers) want to associate with A-form DNA because of its shape (the structure of the major/minor groove) and chemistry (patterns of hydrogen bond donors and acceptors). Thus, clamp loading proteins associate with the primed region of the strand which causes hydrolysis of ATP and provides energy to open the clamp and attach it to the strand.",
+            "score": 209.6229705810547
+        },
+        {
+            "docid": "4375307_10",
+            "document": "T7 phage . Gp5 (encoded by gene \"gp5\") is T7 phage's DNA polymerase. T7 polymerase uses E. coli's endogenous thioredoxin as a sliding clamp during phage DNA replication (though thioredoxin normally has a different function). The sliding clamp functions to hold the polymerase onto the DNA, which increases the rate of synthesis; initiation, the process by which a polymerase binds to DNA, is time-consuming.",
+            "score": 209.60879516601562
+        },
+        {
+            "docid": "9896453_36",
+            "document": "Eukaryotic DNA replication . Once the initiation complex is formed and the cells pass into the S phase, the complex then becomes a replisome. The eukaryotic replisome complex is responsible for coordinating DNA replication. Replication on the leading and lagging strands is performed by DNA polymerase \u03b5 and DNA polymerase \u03b4. Many replisome factors including Claspin, And1, replication factor C clamp loader and the fork protection complex are responsible for regulating polymerase functions and coordinating DNA synthesis with the unwinding of the template strand by Cdc45-Mcm-GINS complex. As the DNA is unwound the twist number decreases. To compensate for this the writhe number increases, introducing positive supercoils in the DNA. These supercoils would cause DNA replication to halt if they were not removed. Topoisomerases are responsible for removing these supercoils ahead of the replication fork.",
+            "score": 208.42547607421875
+        },
+        {
+            "docid": "7903516_27",
+            "document": "Phycodnaviridae . Both EsV-1 and PBCV-1 encode DNA polymerase which belong to the DNA polymerase-\u03b4 family, and they all contain a proof-reading 3'-5' exonuclease domain. Additionally, both PBCV-1 and EsV-1 encode a sliding clamp processivity factor protein (PCNA), which interacts with proteins involved in DNA replication as well as proteins involved in DNA repair and postreplicative processing (e.g. DNA methylases and DNA transposases).",
+            "score": 205.76748657226562
+        },
+        {
+            "docid": "1590640_11",
+            "document": "Nuclear DNA . DNA replication begins at a specific site in the DNA molecule called the origin of replication. The enzyme helicase unwinds and separates a portion of the DNA molecule after which single-strand binding proteins react with and stabilize the separated, single-stranded sections of the DNA molecule. The enzyme complex DNA polymerase engages the separated portion of the molecule and initiates the process of replication. DNA polymerase can only connect new DNA nucleotides to a pre-existing chain of nucleotides. Therefore, replication begins as an enzyme called primase assembles an RNA primer at the origin of replication. The RNA primer consists of a short sequence of RNA nucleotides, complementary to a small, initial section of the DNA strand being prepared for replication. DNA polymerase is then able to add DNA nucleotides to the RNA primer and thus begin the process of constructing a new complementary strand of DNA. Later the RNA primer is enzymatically removed and replaced with the appropriate sequence of DNA nucleotides. Because the two complementary strands of the DNA molecule are oriented in opposite directions and the DNA polymerase can only accommodate replication in one direction, two different mechanisms for copying the strands of DNA are employed. One strand is replicated continuously towards the unwinding, separating portion of the original DNA molecule; while the other strand is replicated discontinuously in the opposite direction with the formation of a series of short DNA segments called Okazaki fragments. Each Okazaki fragment requires a separate RNA primer. As the Okazaki fragments are synthesized, the RNA primers are replaced with DNA nucleotides and the fragments are bonded together in a continuous complementary strand.",
+            "score": 205.52349853515625
+        },
+        {
+            "docid": "6425322_6",
+            "document": "DNA clamp . The gamma complex of DNA polymerase III, composed of \u03b3\u03b4\u03b4'\u03c7\u03c8 subunits, catalyzes ATP to chaperone two beta subunits to bind to DNA. Once bound to DNA, the beta subunits can freely slide along double stranded DNA. The beta subunits in turn bind the \u03b1\u03b5 polymerase complex. The \u03b1 subunit possesses DNA polymerase activity and the \u03b5 subunit is a 3\u2019-5\u2019 exonuclease.",
+            "score": 205.32298278808594
+        },
+        {
+            "docid": "6425322_9",
+            "document": "DNA clamp . The sliding clamp in eukaryotes is assembled from a specific subunit of DNA polymerase delta called the proliferating cell nuclear antigen (PCNA). The N-terminal and C-terminal domains of PCNA are topologically identical. Three PCNA molecules are tightly associated to form a closed ring encircling duplex DNA.",
+            "score": 204.81927490234375
+        },
+        {
+            "docid": "6425322_4",
+            "document": "DNA clamp . The DNA clamp fold is found in bacteria, archaea, eukaryotes and some viruses. In bacteria, the sliding clamp is a homodimer composed of two identical beta subunits of DNA polymerase III and hence is referred to as the beta clamp. In archaea and eukaryotes, it is a trimer composed of three molecules of PCNA. The T4 bacteriophage also uses a sliding clamp, called gp45 that is a trimer similar in structure to PCNA but lacks sequence homology to either PCNA or the bacterial beta clamp.",
+            "score": 204.71072387695312
+        },
+        {
+            "docid": "5580714_7",
+            "document": "Proliferating cell nuclear antigen . TCP protein domain NKp44 Receptor procaspases DNA polymerases Clamp loader Flap endonuclease DNA ligase Topoisomerase Replication licensing factor E3 ubiquitin ligases E2 SUMO-conjugating enzyme Helicases, ATPases Mismatch repair enzymes Base excision repair enzymes Nucleotide excision repair enzyme Poly ADP ribose polymerase Histone chaperone Chromatin remodeling factor Histone acetyltransferase Histone deacetyltransferase DNA methyltransferase Sister-chromatid cohesion factors Protein kinases Cell-cycle regulators Apoptotic factors",
+            "score": 202.54627990722656
+        },
+        {
+            "docid": "24645298_2",
+            "document": "DnaN . dnaN is the gene that codes for the DNA clamp (also known as \u03b2 sliding clamp) of DNA polymerase III in prokaryotes. The \u03b2 clamp physically locks Pol III onto a DNA strand during replication to help increase its processivity. The eukaryotic equivalent to the \u03b2 clamp is PCNA.",
+            "score": 201.75125122070312
+        }
+    ]
+}

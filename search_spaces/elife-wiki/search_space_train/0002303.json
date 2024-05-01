@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "661661_11",
+            "document": "Evolution of sexual reproduction . Sexually reproducing organism only pass on ~50% of its own genetic material to each L2 offspring. This is a consequence of the fact that gametes from sexually reproducing species are haploid. Again however, this is not applicable to all sexual organisms. There are numerous species which are sexual but do not have a genetic-loss problem because they do not produce males or females. Yeast, for example, are isogamous sexual organisms which have two mating types which fuse and recombine their haploid genomes. Both sexes reproduce during the haploid and diploid stages of their life cycle and have a 100% chance of passing their genes into their offspring.",
+            "score": 108.80216836929321
+        },
+        {
+            "docid": "4187880_5",
+            "document": "Interlocus contest evolution . A fundamental conflict between the sexes lies in differences in investment: males generally invest predominantly in fertilization while females invest predominantly in offspring. This conflict manifests itself in many traits associated with sexual reproduction. Genes expressed in only one sex are selectively neutral in the other sex; male- and female-linked genes can therefore be acted upon separated by selection and will evolve semi-autonomously. Thus, one sex of a species may evolve to better itself rather than better the species as a whole, sometimes with negative results for the opposite sex: loci will antagonistically coevolve to enhance male reproductive success at females\u2019 expense on the one hand, and to enhance female resistance to male coercion on the other. This is an example of intralocus sexual conflict, and is unlikely to be resolved fully throughout the genome. However, in some cases this conflict may be resolved by the restriction of the gene\u2019s expression to only the sex that it benefits, resulting in sexual dimorphism.",
+            "score": 73.81816411018372
+        },
+        {
+            "docid": "661661_19",
+            "document": "Evolution of sexual reproduction . Sex could be a method by which novel genotypes are created. Because sex combines genes from two individuals, sexually reproducing populations can more easily combine advantageous genes than can asexual populations. If, in a sexual population, two different advantageous alleles arise at different loci on a chromosome in different members of the population, a chromosome containing the two advantageous alleles can be produced within a few generations by recombination. However, should the same two alleles arise in different members of an asexual population, the only way that one chromosome can develop the other allele is to independently gain the same mutation, which would take much longer. Several studies have addressed counterarguments, and the question of whether this model is sufficiently robust to explain the predominance of sexual versus asexual reproduction.",
+            "score": 128.0929102897644
+        },
+        {
+            "docid": "21304415_4",
+            "document": "Sexual reproduction . The evolution of sexual reproduction is a major puzzle because asexual reproduction should be able to outcompete it as every young organism created can bear its own young. This implies that an asexual population has an intrinsic capacity to grow more rapidly with each generation. This 50% cost is a fitness disadvantage of sexual reproduction. The two-fold cost of sex includes this cost and the fact that any organism can only pass on 50% of its own genes to its offspring. One definite advantage of sexual reproduction is that it prevents the accumulation of genetic mutations.",
+            "score": 123.27704906463623
+        },
+        {
+            "docid": "661661_14",
+            "document": "Evolution of sexual reproduction . For the advantage due to genetic variation, there are three possible reasons this might happen. First, sexual reproduction can combine the effects of two beneficial mutations in the same individual (i.e. sex aids in the spread of advantageous traits). Also, the necessary mutations do not have to have occurred one after another in a single line of descendants. Second, sex acts to bring together currently deleterious mutations to create severely unfit individuals that are then eliminated from the population (i.e. sex aids in the removal of deleterious genes). However, in organisms containing only one set of chromosomes, deleterious mutations would be eliminated immediately, and therefore removal of harmful mutations is an unlikely benefit for sexual reproduction. Lastly, sex creates new gene combinations that may be more fit than previously existing ones, or may simply lead to reduced competition among relatives.",
+            "score": 99.85632586479187
+        },
+        {
+            "docid": "661661_61",
+            "document": "Evolution of sexual reproduction . Another theory is that sexual reproduction originated from selfish parasitic genetic elements that exchange genetic material (that is: copies of their own genome) for their transmission and propagation. In some organisms, sexual reproduction has been shown to enhance the spread of parasitic genetic elements (e.g.: yeast, filamentous fungi).",
+            "score": 158.27686953544617
+        },
+        {
+            "docid": "27828644_18",
+            "document": "Host\u2013parasite coevolution . The New Zealand freshwater snail \"Potamopyrgus antipodarum\" and its different trematode parasites represent a rather special model system. Populations of \"P. antipodarum\" consist of asexual clones and sexual individuals and therefore can be used to study the evolution and advantages of sexual reproduction. There is a high correlation between the presence of parasites and the frequency of sexual individuals within the different populations. This result is consistent with the Red Queen hypothesis that sexual reproduction is favoured during host\u2013parasite coevolution. At the same time, the persistence of sex may also rely on other factors, for example Muller's ratchet and/or the avoidance of the accumulation of deleterious mutations.",
+            "score": 117.10805153846741
+        },
+        {
+            "docid": "5146476_28",
+            "document": "Reproductive isolation . It has been suggested that Haldane's rule simply reflects the fact that the male sex is more sensitive than the female when the sex-determining genes are included in a hybrid genome. But there are also organisms in which the heterozygous sex is the female: birds and butterflies and the law is followed in these organisms. Therefore, it is not a problem related to sexual development, nor with the sex chromosomes. Haldane proposed that the stability of hybrid individual development requires the full gene complement of each parent species, so that the hybrid of the heterozygous sex is unbalanced (i.e. missing at least one chromosome from each of the parental species). For example, the hybrid male obtained by crossing \"D. melanogaster\" females with \" D. simulans\" males, which is non-viable, lacks the X chromosome of \" D. simulans\".",
+            "score": 74.07461082935333
+        },
+        {
+            "docid": "33907902_8",
+            "document": "Intralocus sexual conflict . There have been several hypotheses made that attempt to explain possible resolutions for intralocus sexual conflict. In one proposition, it is suggested that intralocus sexual conflict can be minimized through sex-dependent gene regulation. By doing this, genes that are negatively selected may evolve sexually dimorphic traits that encourage sex- specific optima. Sexual dimorphism is thought to be an effective resolution, since it can be made irreversible under short term selection. As a result, sexual dimorphism could pose as a resolution to intralocus sexual conflict. Another proposed hypothesis suggests that intralocus sexual conflict can be resolved through alternative splicing. In this mechanism, the gender of an organism will ultimately decide the final form of the protein that is created from a shared coding region within a set of genes. Through this posttranscriptional process, RNA that is created by a gene is spliced in various ways that allow it to ultimately join exons in a variety of ways Genomic imprinting also presents as a possible resolution for intralocus sexual conflict. In genomic imprinting, genes are marked through methylation of DNA with information of its parental origin. In order for genomic imprinting to resolve intralocus sexual conflict, parents would have to imprint their genes in sex- specific matter. For example, males could imprint their genes in a way so that sexually antagonistic alleles that benefit males are not expressed in sperm that is only X- bearing However, the resolution of intralocus sexual conflict is not easy to resolve. Intralocus sexual conflict is limited by the shared genotypes that exist between the traits of males and females. As a result, these shared genotypes often result in opposite fitness outcomes for each gender",
+            "score": 84.6542295217514
+        },
+        {
+            "docid": "661661_46",
+            "document": "Evolution of sexual reproduction . There has been much criticism of Kondrashov's theory, since it relies on two key restrictive conditions. The first requires that the rate of deleterious mutation should exceed one per genome per generation in order to provide a substantial advantage for sex. While there is some empirical evidence for it (for example in Drosophila and E. coli), there is also strong evidence against it. Thus, for instance, for the sexual species \"Saccharomyces cerevisiae\" (yeast) and \"Neurospora crassa\" (fungus), the mutation rate per genome per replication are 0.0027 and 0.0030 respectively. For the nematode worm \"Caenorhabditis elegans\", the mutation rate per effective genome per sexual generation is 0.036. Secondly, there should be strong interactions among loci (synergistic epistasis), a mutation-fitness relation for which there is only limited evidence. Conversely, there is also the same amount of evidence that mutations show no epistasis (purely additive model) or antagonistic interactions (each additional mutation has a disproportionally \"small\" effect).",
+            "score": 58.67583608627319
+        },
+        {
+            "docid": "356200_2",
+            "document": "Muller's ratchet . In evolutionary genetics, Muller's ratchet (named after Hermann Joseph Muller, by analogy with a ratchet effect) is a process by which the genomes of an asexual population accumulate deleterious mutations in an irreversible manner. Muller proposed this mechanism as one reason why sexual reproduction may be favored over asexual reproduction. The negative effect of accumulating irreversible deleterious mutations may not be prevalent in organisms which, while they reproduce asexually, also undergo other forms of recombination. This effect has also been observed in those regions of the genomes of sexual organisms which do not undergo recombination.",
+            "score": 130.98699283599854
+        },
+        {
+            "docid": "162264_18",
+            "document": "Penicillium . Although many eukaryotes are able to reproduce sexually, as much as 20% of fungal species had been thought to reproduce exclusively by asexual means. However recent studies have revealed that sex occurs even in some of the supposedly asexual species. For example, sexual capability was recently shown for the fungus \"Penicillium roqueforti\", used as a starter for blue cheese production. This finding was based, in part, on evidence for functional mating type (MAT) genes that are involved in fungal sexual compatibility, and the presence in the sequenced genome of most of the important genes known to be involved in meiosis. \"Penicillium chrysogenum\" is of major medical and historical importance as the original and present-day industrial source of the antibiotic penicillin. The species was considered asexual for more than 100 years despite concerted efforts to induce sexual reproduction. However, in 2013, Bohm et al. finally demonstrated sexual reproduction in \"P. chrysogenum\".",
+            "score": 129.57220315933228
+        },
+        {
+            "docid": "26805_5",
+            "document": "Sex . One of the basic properties of life is reproduction, the capacity to generate new individuals, and sex is an aspect of this process. Life has evolved from simple stages to more complex ones, and so have the reproduction mechanisms. Initially the reproduction was a replicating process that consists in producing new individuals that contain the same genetic information as the original or parent individual. This mode of reproduction is called \"asexual\", and it is still used by many species, particularly unicellular, but it is also very common in multicellular organisms, including many of those with sexual reproduction. In sexual reproduction, the genetic material of the offspring comes from two different individuals. As sexual reproduction developed by way of a long process of evolution, intermediates exist. Bacteria, for instance, reproduce asexually, but undergo a process by which a part of the genetic material of an individual donor is transferred to another recipient.",
+            "score": 121.87106537818909
+        },
+        {
+            "docid": "356200_4",
+            "document": "Muller's ratchet . Asexual reproduction compels genomes to be inherited as indivisible blocks so that once the least mutated genomes in an asexual population begin to carry at least one deleterious mutation, no genomes with fewer such mutations can be expected to be found in future generations (except as a result of back mutation). This results in an eventual accumulation of mutations known as genetic load. In theory, the genetic load carried by asexual populations eventually becomes so great that the population goes extinct. In sexual populations, the process of genetic recombination allows the genomes of the progeny to be different from the genomes of the parents. In particular, progeny genomes with fewer mutations can be generated from more highly mutated parental genomes by putting together in progeny genomes mutation-free portions of parental chromosomes.",
+            "score": 120.11087417602539
+        },
+        {
+            "docid": "12664042_15",
+            "document": "Sex-limited genes . Epigenetics is the inheritance of additional marks to the genome without changes in its sequence. These factors epigenetic factors may also be sex-limited. Genomic imprinting for example, silencing of one parental allele by DNA methylation, for which sex-limited imprinting has been proposed to resolve intralocus conflict. Genomic imprinting has been shown to be indistinguishable from non-imprinted systems at the population level in some cases, having equivalent evolutionary models. However, this does not hold for sex-limited models of sex-limited imprinting which behave differently depending on which sex imprinting occurs and the parental sex of imprinted allele. Specifically, this affects whether alleles are imprinted in consecutive generations with different evolutionary trajectories (under the same selection fitnesses) arising purely due to sex-limited epigenetics. Thus sex-limited epigenetic traits may have played a pivotal role in the evolution of mammals and other species, particularly as a mechanism to ameliorate intralocus conflict between the sexes.",
+            "score": 63.09490525722504
+        },
+        {
+            "docid": "51568780_7",
+            "document": "Sex determination in Silene . Several studies concentrated on \"Silene latifolia\" have shown a correlation between loci on the Y chromosome and the sex that is expressed phenotypically in the flower\".\" Two of these sex-linked genes \u201cpromote maleness\u201d (male fertility and male promotion) and one of them codes for female suppression. Therefore, the Y chromosome carries three dominant genes that determine the sexual expression in a \"Silene\" offspring. If there are deletions and mutations in the Y chromosome during reproduction, then different sex-linked genes are lost. The different combinations of possible sex-related genes that an individual \"Silene\" can have in one Y chromosome are what creates the rich variation of sexual phenotypes throughout this genus. The system for determining sex in \"Silene latifolia\" is close to that found in humans because in both cases the Y chromosome determines what reproductive mechanisms will be expressed in the offspring. They differ because there are multiple sex determining genes on the Y chromosome of \"S. latifolia\", while in humans the presence or absence of the Y chromosome strictly determines whether the offspring is male or female.",
+            "score": 69.26496648788452
+        },
+        {
+            "docid": "661661_65",
+            "document": "Evolution of sexual reproduction . Sex may also be derived from another prokaryotic process. A comprehensive theory called \u201corigin of sex as vaccination\u201d proposes that eukaryan sex-as-syngamy (fusion sex) arose from prokaryan unilateral sex-as-infection, when infected hosts began swapping nuclearised genomes containing coevolved, vertically transmitted symbionts that provided protection against horizontal superinfection by other, more virulent symbionts.",
+            "score": 61.59184432029724
+        },
+        {
+            "docid": "661661_39",
+            "document": "Evolution of sexual reproduction . There are two main hypotheses which explain how sex may act to remove deleterious genes from the genome.",
+            "score": 52.461236000061035
+        },
+        {
+            "docid": "4350664_14",
+            "document": "Mating in fungi . Katz Ezov et al. presented evidence that in natural \"S. cerevisiae\" populations clonal reproduction and a type of \u201cself-fertilization\u201d (in the form of intratetrad mating) predominate. Ruderfer et al. analyzed the ancestry of natural \"S. cerevisiae\" strains and concluded that outcrossing occurs only about once every 50,000 cell divisions. Thus, although \"S. cerevisiae\" is heterothallic, it appears that, in nature, mating is most often between closely related yeast cells. The relative rarity in nature of meiotic events that result from outcrossing suggests that the possible long-term benefits of outcrossing (e.g. generation of genetic diversity) are unlikely to be sufficient for generally maintaining sex from one generation to the next. Instead, a short term benefit, such as meiotic recombinational repair of DNA damages caused by stressful conditions such as starvation, may be the key to the maintenance of sex in \"S. cerevisiae\". Alternatively, recessive deleterious mutations accumulate during the diploid expansion phase, and are purged during selfing: this purging has been termed \"genome renewal\" and provides an advantage of sex that does not depend on outcrossing.",
+            "score": 67.94466495513916
+        },
+        {
+            "docid": "43937_52",
+            "document": "Parasitism . The evolutionary biologist W. D. Hamilton suggested that sexual reproduction could have evolved to help to defeat multiple parasites by enabling genetic recombination, the shuffling of genes to create varied combinations. Hamilton showed by mathematical modelling that sexual reproduction would be evolutionarily stable in different situations, and that the theory's predictions matched the actual ecology of sexual reproduction. However, there may be a trade-off between immunocompetence and breeding male vertebrate hosts' secondary sex characteristics, such as the plumage of peacocks and the manes of lions. This is because the male hormone testosterone encourages the growth of secondary sex characteristics, favouring such males in sexual selection, at the price of reducing their immune defences.",
+            "score": 84.29949831962585
+        },
+        {
+            "docid": "9918043_4",
+            "document": "Red Queen hypothesis . In another idea, the Red Queen hypothesis is used independently by Hartung and Bell to explain the evolution of sex, by John Jaenike to explain the maintenance of sex and W. D. Hamilton to explain the role of sex in response to parasites. In all cases, sexual reproduction confers species variability and a faster generational response to selection by making offspring genetically unique. Sexual species are able to improve their genotype in changing conditions. Consequently, co-evolutionary interactions, between host and parasite, for example, may select for sexual reproduction in hosts in order to reduce the risk of infection. Oscillations in genotype frequencies are observed between parasites and hosts in an antagonistic coevolutionary way without necessitating changes to the phenotype. In multi-host and multi-parasite coevolution, the Red Queen dynamics could affect what host and parasite types will become dominant or rare.",
+            "score": 73.88411831855774
+        },
+        {
+            "docid": "25309450_4",
+            "document": "Lacrymaria olor . \"Lacrymaria olor\" can be easily reproduced in vitro, but cultivated populations are difficult to maintain for long. It can reproduce sexually, with each individual assuming either of two mating types (\"sexes\") at various times of the day. It can also reproduce asexually, possibly after an internal rearrangement of its genome; but there is evidence that this mechanism stops working after a certain number of consecutive asexual generations. It can also regenerate a new head within minutes, if the original is cut off.",
+            "score": 115.63926267623901
+        },
+        {
+            "docid": "661661_13",
+            "document": "Evolution of sexual reproduction . The concept of sex includes two fundamental phenomena: the sexual process (fusion of genetic information of two individuals) and sexual differentiation (separation of this information into two parts). Depending on the presence or absence of these phenomena, the existing ways of reproduction can be divided into asexual, hermaphrodite and dioecious forms. The sexual process and sexual differentiation are different phenomena, and, in essence, are diametrically opposed. The first creates (increases) diversity of genotypes, and the second decreases it by half. Reproductive advantages of the asexual forms are in quantity of the progeny and the advantages of the hermaphrodite forms \u2013 in maximum diversity. Transition from the hermaphrodite to dioecious state leads to a loss of at least half of the diversity. So, the main question is to explain the advantages given by sexual differentiation, i.e. the benefits of two separate sexes compared to hermaphrodites rather than to explain benefits of sexual forms (hermaphrodite + dioecious) over asexual ones. It has already been understood that since sexual reproduction is not associated with any clear reproductive advantages, as compared with asexual, there should be some important advantages in evolution.",
+            "score": 110.204904794693
+        },
+        {
+            "docid": "19226315_2",
+            "document": "Vicar of Bray (scientific hypothesis) . The \"Vicar of Bray\" hypothesis (or Fisher-Muller Model) attempts to explain why sexual reproduction might have advantages over asexual reproduction - sexual populations having the ability to out-compete asexual populations because they evolve more rapidly in response to environmental changes. The offspring of a population of sexually reproducing individuals will show a more varied selection of phenotypes and they will therefore be more likely to produce a strain that can survive a change in the ecology of the environment in which they live. Under the Vicar of Bray hypothesis, sex benefits a population as a whole, but not individuals within it, making it a case of group selection.",
+            "score": 115.03004217147827
+        },
+        {
+            "docid": "9236_29",
+            "document": "Evolution . The two-fold cost of sex was first described by John Maynard Smith. The first cost is that in sexually dimorphic species only one of the two sexes can bear young. (This cost does not apply to hermaphroditic species, like most plants and many invertebrates.) The second cost is that any individual who reproduces sexually can only pass on 50% of its genes to any individual offspring, with even less passed on as each new generation passes. Yet sexual reproduction is the more common means of reproduction among eukaryotes and multicellular organisms. The Red Queen hypothesis has been used to explain the significance of sexual reproduction as a means to enable continual evolution and adaptation in response to coevolution with other species in an ever-changing environment.",
+            "score": 70.4797260761261
+        },
+        {
+            "docid": "21501970_67",
+            "document": "History of evolutionary thought . In 1973, Leigh Van Valen proposed the term \"Red Queen,\" which he took from \"Through the Looking-Glass\" by Lewis Carroll, to describe a scenario where a species involved in one or more evolutionary arms races would have to constantly change just to keep pace with the species with which it was co-evolving. Hamilton, Williams and others suggested that this idea might explain the evolution of sexual reproduction: the increased genetic diversity caused by sexual reproduction would help maintain resistance against rapidly evolving parasites, thus making sexual reproduction common, despite the tremendous cost from the gene-centric point of view of a system where only half of an organism's genome is passed on during reproduction.",
+            "score": 91.04936456680298
+        },
+        {
+            "docid": "12664042_6",
+            "document": "Sex-limited genes . Many studies have been published exploring the genetic basis of sex-limited genes. One paper, published in \"Evolution\", evaluates the hypothesis that sex-limited traits can arise in two ways. The alleles responsible for sexual dimorphism can be limited to expression in only one sex when they first appear, or the alleles could begin by being expressed in both sexes then become modified (repressed or promoted) in one sex by modifier genes or regulatory elements. The concept of this study was to examine female hybrids from species where males displayed different types of ornamental traits (elongated feathers, wattles, color patches). The assumption is that different hypotheses about male-specific expression will yield different results in female hybrids. The methods and materials of the experiment are discussed in detail in the paper, but the important result that emerged was that NO female hybrids expressed any of the ornamental traits found in the parent males. Two interpretations of these results are possible: the dimorphic alleles were initially only expressed in males, or the alleles were initially expressed in both and then were suppressed in females or became limited to males by regulatory regions that are \"completely dominant\" in hybrids. The most likely genomic explanation for initial expression in both species then modification is involvement of \"cis\"-dominance, where the factors that modify the gene are located next to the gene on the chromosome. (This is in contrast to \"trans\"-dominance, where mobile products that can affect distant genes are produced.) These factors can be in the form of promoter regions, which can be either be suppressed or activated by hormones. This experiment also demonstrates that these alleles come under regulatory control very quickly. This is because none of the ornamentation seen in males is seen in the \"very next \"generation. These conclusions make it likely that at least some male-specific (thus, sex-limited) genes cue their expression by hormone levels - the absence of estrogen or the presence of testosterone.",
+            "score": 82.81056749820709
+        },
+        {
+            "docid": "514987_4",
+            "document": "Diplomonad . The common intestinal parasite \"Giardia intestinalis\" (synonyms \"Giardia lamblia\", \"G. duodenalis\") was once considered to be a descendant of a protist lineage that predated the emergence of meiosis and sex. However, \"G. intestinalis\" has now been found to have a core set of genes that function in meiosis and that are widely present among sexual eukaryotes. These results suggested that \"G. intestinalis\" is capable of meiosis and thus sexual reproduction. Furthermore, Cooper et al. found direct evidence in \"G. intestinalis\" for infrequent meiotic recombination, indicative of sexual reproduction between individuals. Lasek-Nesselquist et al. also detected molecular signatures consistent with meiotic sex.",
+            "score": 75.11633729934692
+        },
+        {
+            "docid": "12664042_7",
+            "document": "Sex-limited genes . Because sex-limited genes are present in both sexes but only expressed in one, this allows the unexpressed genes to be hidden from selection. On a short-term scale, this means that during one generation, only the sex that expresses the sex-limited trait(s) of interest will be affected by selection. The remaining half of the gene pool for these traits will be unaffected by selection because they are hidden (unexpressed) in the genes of the other sex. Since a portion of the alleles for these sex-limited traits are hidden from selection, this occurrence has been termed 'storage-effect'. On a long-term scale, this storage effect can have significant effects on selection, especially if selection is fluctuating over a long period of time. It is inarguable that selection will fluctuate over time with varying levels of environmental stability. For example, fluctuations in population density can drive selection on sex-limited traits. In less dense populations, females will have less opportunity to choose between males for reproduction. In this case, attractive males may experience both reduced reproductive success and increased predation pressure. Thus, selection on males for sex-limited traits such as increased size (elephant seals) and weaponry (claws on fiddler crabs, horns on rhinoceros beetles) will change direction with fluctuation in population density.",
+            "score": 46.91116786003113
+        },
+        {
+            "docid": "44447884_21",
+            "document": "Inbreeding avoidance . The delayed sexual maturation of offspring in the presence of parents is another mechanism by which individuals avoid inbreeding. Delayed maturation scenarios can involve the removal of the original, opposite-sex parent, as is the case in female lions that exhibit estrus earlier following the replacement of their fathers with new males. Another form of delayed maturation involves parental presence that inhibits reproductive activity, such as in mature marmosets offspring that are reproductively suppressed in the presence of opposite sex parents and siblings in their social groups.  Reproductive suppression occurs when sexually mature individuals in a group are prevented from reproducing due to behavioral or chemical stimuli from other group members that suppress breeding behavior. Social cues from the surrounding environment often dictate when reproductive activity is suppressed and involves interactions between same-sex adults. If the current conditions for reproduction are unfavorable, such as when presented with only inbreeding as a means to reproduce, individuals may increase their lifetime reproductive success by timing their reproductive attempts to occur during more favorable conditions. This can be achieved by individuals suppressing their reproductive activity in poor reproduction conditions.",
+            "score": 61.58661592006683
+        },
+        {
+            "docid": "12664042_10",
+            "document": "Sex-limited genes . In 2010, Hosken et al. completed an important study exploring the effects of sexually antagonistic selection on sex-limited trait expression. They asked if sex-specific trait selection always resolved intralocus conflict, as it was believed to do. By using a species of flour beetle, \"Gnatocerus cornutus\", exhibiting sex-limited traits in the form of exaggerated mandible size, they were able to test this hypothesis. Exaggerated mandibles are \"only \"developed in males; females never develop exaggerated mandibles. The point of this experiment was to determine how mandibles affect fitness. If these sex-limited genes are truly quelling intralocus sexual conflict, male mandible size should have no effect on female fitness. After selecting for males with exaggerated mandibles (full materials and methods can be found within the paper), it was experimentally determined that males with exaggerated mandibles had a higher fitness - they experienced increased fighting and mating success. It was also found, however, that females found in the populations of males with exaggerated mandibles had lower fitness (as determined by lifetime reproductive success, LRS) relative to the fitness of females in populations with males with smaller mandibles. Since this male sex-limited trait affects female fitness, intralocus sexual conflict has \"not \"been resolved. This highlights the importance of sexual conflict to evolution, because it cannot simply be defused by sex-limited trait expression.",
+            "score": 72.46153402328491
+        },
+        {
+            "docid": "19178886_21",
+            "document": "Protist . Eukaryotes emerged in evolution more than 1.5 billion years ago. The earliest eukaryotes were likely protists. Although sexual reproduction is widespread among extant eukaryotes, it seemed unlikely until recently, that sex could be a primordial and fundamental characteristic of eukaryotes. A principal reason for this view was that sex appeared to be lacking in certain pathogenic protists whose ancestors branched off early from the eukaryotic family tree. However, several of these protists are now known to be capable of, or to recently have had the capability for, meiosis and hence sexual reproduction. For example, the common intestinal parasite \"Giardia lamblia\" was once considered to be a descendant of a protist lineage that predated the emergence of meiosis and sex. However, \"G. lamblia\" was recently found to have a core set of genes that function in meiosis and that are widely present among sexual eukaryotes. These results suggested that \"G. lamblia\" is capable of meiosis and thus sexual reproduction. Furthermore, direct evidence for meiotic recombination, indicative of sex, was also found in \"G. lamblia\".",
+            "score": 60.69916832447052
+        }
+    ],
+    "r": [
+        {
+            "docid": "24039902_3",
+            "document": "Ectopic recombination . The role of transposable elements in ectopic recombination is an area of active inquiry. Transposable elements\u2014repetitious sequences of DNA that can insert themselves into any part of the genome\u2014can encourage ectopic recombination at repeated homologous sequences of nucleotides. However, according to one proposed model, ectopic recombination might serve as an inhibitor of high transposable element copy numbers. The frequency of ectopic recombination of transposable elements has been linked to both higher copy numbers of transposable elements and the longer lengths of those elements. Since ectopic recombination is generally deleterious, anything that increases its odds of occurring is selected against, including the aforementioned higher copy numbers and longer lengths. This model, however, can only be applied to single families of transposable elements in the genome, as the probability of ectopic recombination occurring in one TE family is independent of it occurring in another. It follows that transposable elements that are shorter, transpose themselves less often, and have mutation rates high enough to disrupt the homology between transposable element sequences sufficiently to prevent ectopic recombination from occurring are selected for.",
+            "score": 162.3441162109375
+        },
+        {
+            "docid": "11237888_16",
+            "document": "Genome survey sequence . At first, T-DNA was applied for insertional mutagenesis. However, using transposable element can bring more advantages. Transposable elements were first discovered by Barbara McClintock in maize plants. She identified the first transposable genetic element, which she called the Dissociation (Ds) locus. The size of transposable element is between 750 and 40000bp. Transposable element can be mainly classified as two classes: One class is very simple, called insertion sequence (IS), the other class is complicated, called transposon. Transposon has one or several characterized genes, which can be easily identified. IS has the gene of transposase.",
+            "score": 159.8251190185547
+        },
+        {
+            "docid": "661661_61",
+            "document": "Evolution of sexual reproduction . Another theory is that sexual reproduction originated from selfish parasitic genetic elements that exchange genetic material (that is: copies of their own genome) for their transmission and propagation. In some organisms, sexual reproduction has been shown to enhance the spread of parasitic genetic elements (e.g.: yeast, filamentous fungi).",
+            "score": 158.27687072753906
+        },
+        {
+            "docid": "41502227_11",
+            "document": "Ac/Ds transposable controlling elements . As Ac copy number increases, the expression of genes flanking the Ds promoter insertion are negatively regulated, which is called the negative dosage effect.Ds flanking gene expression is inhibited in the presence of the autonomous Ac element.As the Ac element copy number increases, transposition events that require Ac occur at a later time during endosperm development. Ac causes no or few chromosome breaks.\u00a0 In the absence of Ac, Ds caused mutations are stable. By identifying alleles that suppress the Ac element they could be used for functional genomics studies. The properties of transposable elements can also be altered in a clonally heritable fashion. Ds elements can be used as building blocks for complicated structures like the double Ds or the 30kb transposon-like insertion which is terminated by Ds elements.Ds elements can generate long direct inverted duplicates of a chromosome segment, indicating that Ds elements are able to mobilize DNA sequences unrelated to themselves, this can provide a mechanism for rearrangement of genetic information. Since small duplication of host DNA created by the insertion of the elements are left over in a slightly altered form after excision of the transposable element, they may indicate that plant transposable elements play a role in the evolution of genes.",
+            "score": 152.18505859375
+        },
+        {
+            "docid": "30967636_11",
+            "document": "Genome evolution . Transposable elements are regions of DNA that can be inserted into the genetic code through one of two mechanisms. These mechanisms work similarly to \"cut-and-paste\" and \"copy-and-paste\" functionalities in word processing programs. The \"cut-and-paste\" mechanism works by excising DNA from one place in the genome and inserting itself into another location in the code. The \"copy-and-paste\" mechanism works by making a genetic copy or copies of a specific region of DNA and inserting these copies elsewhere in the code. The most common transposable element in the human genome is the Alu sequence, which is present in the genome over one million times.",
+            "score": 152.03573608398438
+        },
+        {
+            "docid": "42671200_2",
+            "document": "Epigenetic regulation of transposable elements in the plant kingdom . Transposable elements (transposons, TEs, 'jumping genes') are short strands of repetitive DNA that can self-replicate and translocate within the eukaryotic genome, and are generally perceived as parasitic in nature. Their transcription can lead to the production of dsRNAs (double-stranded RNAs), which resemble retroviruses transcripts. While most host cellular RNA has a singular, unpaired sense strand, dsRNA possesses sense and anti-sense transcripts paired together, and this difference in structure allows an host organism to detect dsRNA production, and thereby the presence of transposons. Plants lack distinct divisions between somatic cells and reproductive cells, and also have, generally, larger genomes than animals, making them an intriguing case-study kingdom to be used in attempting to better understand the epigenetics function of transposable elements.",
+            "score": 146.21368408203125
+        },
+        {
+            "docid": "30931454_8",
+            "document": "Conserved non-coding sequence . There are different theories explaining the conservation of transposable elements. One holds that, like pseudogenes, they provide a source of new genetic material, allowing for faster adaptation to changes in the environment. A simpler alternative is that, because eukaryotic genomes may have no means to prevent the proliferation of transposable elements, they are free to accumulate as long as they are not inserted into or near a gene in such a way that they would disrupt essential functions. A recent study showed that transposons contribute at least 16% of the eutherian-specific CNSs, marking them as a \"major creative force\" in the evolution of gene regulation in mammals. There are three major classes of transposable elements, distinguished by the mechanisms by which they proliferate.",
+            "score": 144.39291381835938
+        },
+        {
+            "docid": "5317859_6",
+            "document": "Susan R. Wessler . Her research focuses on identifying plant transposable elements and determining how they contribute to gene and genome evolution. Her work has deciphered how transposable elements generate genetic diversity and attain high copy numbers without killing their host. Her laboratory demonstrated that elements could function as introns and that retrotransposons are the major cause of spontaneous insertion mutations in maize. In the genomics era her laboratory pioneered the computational analysis of transposable elements, culminating in the discovery of miniature inverted repeat transposable elements (MITEs), the element most frequently associated with plant genes. As a Howard Hughes Medical Institute (HHMI) Professor, Wessler adapted her research program for the classroom by developing the Dynamic Genome Program where incoming freshmen experience the excitement of scientific discovery.",
+            "score": 143.19383239746094
+        },
+        {
+            "docid": "3603126_2",
+            "document": "Genetic Information Research Institute . The Genetic Information Research Institute (GIRI) is a non-profit institution that was founded in 1994 by Jerzy Jurka. The mission of the institute \"is to understand biological processes which alter the genetic makeup of different organisms, as a basis for potential gene therapy and genome engineering techniques.\" The institute specializes in applying computer tools to analysis of DNA and protein sequence information. GIRI develops and maintains Repbase Update, a database of prototypic sequences representing repetitive DNA from different eukaryotic species, and Repbase Reports, an electronic journal established in 2001 . Repetitive DNA is primarily derived from transposable elements (TEs), which include DNA transposons belonging to around 20 superfamilies and retrotransposons that can also be sub-classified into subfamilies . The majority of known superfamilies of DNA transposons were discovered or co-discovered at GIRI, including Helitron (biology), \"Academ, Dada, Ginger, Kolobok, Novosib, Sola, Transib, Zator, PIF/Harbinger\" and \"Polinton/Maverick\". An ancient element from the \"Transib\" superfamily was identified as the evolutionary precursor of the Recombination activating gene. GIRI has hosted three international conferences devoted to the genomic impact of eukaryotic transposable elements .",
+            "score": 142.7995147705078
+        },
+        {
+            "docid": "49968817_2",
+            "document": "Retrotransposon silencing . Transposable elements are pieces of genetic material that are capable of splicing themselves into a host genome and then self propagating throughout the genome, much like a virus. Retrotransposons are a subset of transposable elements that use an RNA intermediate and reverse transcribe themselves into the genome. Retrotransposon proliferation may lead to insertional mutagenesis, disrupt the process of DNA repair, or cause errors during chromosomal crossover, and so it is advantageous for an organism to possess the means to suppress or \"silence\" retrotransposon activity.",
+            "score": 141.9562225341797
+        },
+        {
+            "docid": "41502227_7",
+            "document": "Ac/Ds transposable controlling elements . Ac/Ds elements have been observed to insert into gene rich regions of the maize genome, they alter the regulation of gene expression and may create unstable insertion alleles, stable derivatives, or excision alleles due to insertion of a transposable element into a gene. Transposable elements residing at or near a gene prevent gene expression and can also result in a mutation that causes exhibition of the recessive phenotype. Removal of transposable element locus results in restoration of the gene organization and activity. Ac is 4565 base pairs long and codes for a 3.5 kb open reading frame that synthesizes an 807 amino acid long transposase enzyme. Ac elements are autonomous and their movement results in a 4.3 kb insertion. Ds elements are not autonomous because they cannot produce the transposase\u00a0 needed for transposition, and can only transpose when it is provided by the Ac element. Ds elements have shown to cause a 4.1kB and 2.0 kB insertions.The transposable elements were seen in progeny of plants that had undergone stress, and mutations caused by the insertion are like those caused by x-rays, UV light, or chemicals causing events like chromosome breakage and fusion.",
+            "score": 141.3189697265625
+        },
+        {
+            "docid": "26310_3",
+            "document": "Reproduction . In asexual reproduction, an organism can reproduce without the involvement of another organism. Asexual reproduction is not limited to single-celled organisms. The cloning of an organism is a form of asexual reproduction. By asexual reproduction, an organism creates a genetically similar or identical copy of itself. The evolution of sexual reproduction is a major puzzle for biologists. The two-fold cost of sexual reproduction is that only 50% of organisms reproduce and organisms only pass on 50% of their genes.",
+            "score": 140.7993621826172
+        },
+        {
+            "docid": "367077_2",
+            "document": "Alu element . An Alu element is a short stretch of DNA originally characterized by the action of the \"Arthrobacter luteus (Alu)\" restriction endonuclease. \"Alu\" elements are the most abundant transposable elements, containing over one million copies dispersed throughout the human genome. \"Alu\" elements are also known as selfish or parasitic genes, because their sole function is self reproduction. They are derived from the small cytoplasmic 7SL RNA, a component of the signal recognition particle. \"Alu\" elements are highly conserved within primate genomes and originated in the genome of an ancestor of Supraprimates.",
+            "score": 139.9935760498047
+        },
+        {
+            "docid": "30931454_12",
+            "document": "Conserved non-coding sequence . When conserved regulatory transposable elements are active in a genome, they can introduce new promoter regions, disrupt existing regulatory sites, or, if inserted into transcribed regions, alter splicing patterns. A particular transposed element will be positively selected for if the altered expression it produces confers an adaptive advantage. This has resulted in some of the conserved regions found in humans. Nearly 25% of characterized promoters in humans contain transposed elements. This is of particular interest in light of the fact that most transposable elements in humans are no longer active.",
+            "score": 139.34426879882812
+        },
+        {
+            "docid": "3486849_29",
+            "document": "New Zealand mud snail . As the snails can reproduce both sexually and asexually, the snail has been used as a model organism for studying the costs and benefits of sexual reproduction. Asexual reproduction allows all members of a population to produce offspring and avoids the costs involved in finding mates. However, asexual offspring are clonal, so lack variation. This makes them susceptible to parasites, as the entire clonal population has the same resistance mechanisms. Once a strain of parasite has overcome these mechanisms, it is able to infect any member of the population. Sexual reproduction mixes up resistance genes through crossing over and the random assortment of gametes in meiosis, meaning the members of a sexual population will all have subtly different combinations of resistance genes. This variation in resistance genes means no one parasite strain is able to sweep through the whole population. New Zealand mudsnails are commonly infected with trematode parasites, which are particularly abundant in shallow water, but scarce in deeper water. As predicted, sexual reproduction dominates in shallow water, due to its advantages in parasite resistance. Asexual reproduction is dominant in the deeper water of lakes, as the scarcity of parasites means that the advantages of resistance are outweighed by the costs of sexual reproduction.",
+            "score": 139.2740020751953
+        },
+        {
+            "docid": "30651_2",
+            "document": "Transposable element . A transposable element (TE or transposon) is a DNA sequence that can change its position within a genome, sometimes creating or reversing mutations and altering the cell's genetic identity and genome size. Transposition often results in duplication of the same genetic material. Barbara McClintock's discovery of these jumping genes earned her a Nobel Prize in 1983.",
+            "score": 138.27703857421875
+        },
+        {
+            "docid": "26310_5",
+            "document": "Reproduction . Asexual reproduction is a process by which organisms create genetically similar or identical copies of themselves without the contribution of genetic material from another organism. Bacteria divide asexually via binary fission; viruses take control of host cells to produce more viruses; Hydras (invertebrates of the order \"Hydroidea\") and yeasts are able to reproduce by budding. These organisms often do not possess different sexes, and they are capable of \"splitting\" themselves into two or more copies of themselves. Most plants have the ability to reproduce asexually and the ant species Mycocepurus smithii is thought to reproduce entirely by asexual means.",
+            "score": 136.60507202148438
+        },
+        {
+            "docid": "661661_40",
+            "document": "Evolution of sexual reproduction . While DNA is able to recombine to modify alleles, DNA is also susceptible to mutations within the sequence that can affect an organism in a negative manner. Asexual organisms do not have the ability to recombine their genetic information to form new and differing alleles. Once a mutation occurs in the DNA or other genetic carrying sequence, there is no way for the mutation to be removed from the population until another mutation occurs that ultimately deletes the primary mutation. This is rare among organisms. Hermann Joseph Muller introduced the idea that mutations build up in asexual reproducing organisms. Muller described this occurrence by comparing the mutations that accumulate as a ratchet. Each mutation that arises in asexually reproducing organisms turns the ratchet once. The ratchet is unable to be rotated backwards, only forwards. The next mutation that occurs turns the ratchet once more. Additional mutations in a population continually turn the ratchet and the mutations, mostly deleterious, continually accumulate without recombination. These mutations are passed onto the next generation because the offspring are exact genetic clones of their parent. The genetic load of organisms and their populations will increase due to the addition of multiple deleterious mutations and decrease the overall reproductive success and fitness.",
+            "score": 136.50929260253906
+        },
+        {
+            "docid": "30651_3",
+            "document": "Transposable element . Transposable elements make up a large fraction of the genome and are responsible for much of the mass of DNA in a eukaryotic cell. It has been shown that TEs are important in genome function and evolution. In \"Oxytricha\", which has a unique genetic system, these elements play a critical role in development. Transposons are also very useful to researchers as a means to alter DNA inside a living organism.",
+            "score": 135.5765838623047
+        },
+        {
+            "docid": "176052_18",
+            "document": "Molecular evolution . Transposable elements are self-replicating, selfish genetic elements which are capable of proliferating within host genomes. Many transposable elements are related to viruses, and share several proteins in common.",
+            "score": 134.6808319091797
+        },
+        {
+            "docid": "5522755_7",
+            "document": "Exon shuffling . Evolution of eukaryotes is mediated by sexual recombination of parental genomes and since introns are longer than exons most of the crossovers occur in noncoding regions. In these introns there are large numbers of transposable elements and repeated sequences which promote recombination of nonhomologous genes. In addition it has also been shown that mosaic proteins are composed of mobile domains which have spread to different genes during evolution and which are capable of folding themselves.",
+            "score": 134.4224395751953
+        },
+        {
+            "docid": "1423804_3",
+            "document": "Forward genetics . Often hundreds of thousands of mutations are generated. Chemicals like ethylmethanesulfonate (EMS) cause random point mutations. These types of mutagens can be useful because they are easily applied to any organism but they can be very difficult to map. Mutations can also be generated by insertional mutagenesis. For example, transposable elements containing a marker are mobilized into the genome at random. These transposons are often modified to transpose only once, and once inserted into the genome a selectable marker can be used to identify the mutagenized individuals. Since a known fragment of DNA was inserted this can make mapping and cloning the gene much easier. Other methods such as using radiation to cause deletions and chromosomal rearrangements can be used to generate mutants as well.",
+            "score": 134.29527282714844
+        },
+        {
+            "docid": "41502227_4",
+            "document": "Ac/Ds transposable controlling elements . Genomic analysis of maize show that these elements, which share terminal 11 bp imperfect inverted repeat sequences, have much sequence heterogeneity, both in length and content. They also include a class of DNA elements that do not transpose in the presence of the Ac element (Du et al. 2011). The chromosome breaking property has been shown to come from pairs of closely positioned elements.",
+            "score": 133.78973388671875
+        },
+        {
+            "docid": "25162957_4",
+            "document": "Transposons as a genetic tool . Signature-tagging mutagenesis (also known as STM) is a technique focused on using transposable element insertion to determine the phenotype of a locus in an organism's genome. While genetic sequencing techniques can determine the genotype of a genome, they cannot determine the function or phenotypic expression of gene sequences. STM can bypass this issue by mutating a locus, causing it form a new phenotype; by comparing the observed phenotypic expressions of the mutated and unaltered locus, one can deduce the phenotypic expression of the locus.",
+            "score": 133.31959533691406
+        },
+        {
+            "docid": "334768_6",
+            "document": "Entamoeba histolytica . The \"E. histolytica\" genome was sequenced, assembled, and automatically annotated in 2005.  The genome was reassembled and reannotated in 2010. The 20 million basepair genome assembly contains 8,160 predicted genes; known and novel transposable elements have been mapped and characterized, functional assignments have been revised and updated, and additional information has been incorporated, including metabolic pathways, Gene Ontology assignments, curation of transporters, and generation of gene families. The major group of transposable elements in \"E. histolytica\" are non-LTR retrotransposons. These have been divided in three families called EhLINEs and EhSINEs (EhLINE1,2,3 and EhSINE1,2,3). EhLINE1 encode an endonuclease (EN) protein (in addition to reverse transcriptase and nucleotide-binding ORF1), which have similarity with bacterial restriction endonuclease. This similarity with bacterial protein indicates that transposable elements have been acquired from prokaryotes by horizontal gene transfer in this protozoan parasite.",
+            "score": 133.01220703125
+        },
+        {
+            "docid": "32538272_2",
+            "document": "Miniature Inverted-repeat Transposable Elements . Miniature Inverted-repeat Transposable Elements (MITEs) are a group of non-autonomous Class II transposable elements (DNA sequences). Being non-autonomous, MITEs cannot code for their own transposase. They exist within the genomes of animals, plants, fungi and bacteria. MITEs are generally short (50 to 500 bp) elements with terminal inverted repeats (TIRs; 10\u201315 bp) and two flanking target site duplications (TSDs). Like other transposons, MITEs are inserted predominantly in gene-rich regions and this can be a reason that they affect gene expression and play important roles in accelerating eukaryotic evolution. Their high copy number in spite of small sizes has been a topic of interest.",
+            "score": 132.69972229003906
+        },
+        {
+            "docid": "3364364_9",
+            "document": "Monoicous . There can be both selective advantages and selective disadvantages for organisms that are monoicous or dioicous. Monoicous bryophytes can easily reproduce sexually, since both sexes can be found on the same organism. On the other hand, this can lead to inbreeding and reduce genetic variation within populations. Dioicous organisms necessarily exchange genes with other organisms of the species during sexual reproduction, increasing heterozygosity and variability (given a sufficiently large variable mating population). If isolated, however, organisms may only reproduce asexually, which could present a severe selective disadvantage over time. Bryophyte sperm dispersal can therefore be key to species longevity, particularly in dioicous species. While sperm dispersal is typically passive, with sperm dispersing through water, certain species exhibit very active dispersal mechanisms, such as aerial dispersal recently described in the liverwort \"Conocephalum conicum\".",
+            "score": 132.04867553710938
+        },
+        {
+            "docid": "50044342_4",
+            "document": "DNA transposon . DNA transposons can move around in the genome. The system requires a transposase enzyme that catalyzes the movement of the DNA from its current location in the genome and inserts it in a new location. In transposition, the transposase \"cuts\" the DNA segment out and \"pastes\" it in elsewhere. Occasionally, genetic material not originally in the transposable element gets copied and moved as well. The ability of these elements to excise and insert themselves creates a mechanism for lateral gene transfer from one organism to another via a transposon migrating from one cell to another.",
+            "score": 131.60952758789062
+        },
+        {
+            "docid": "3651405_5",
+            "document": "Michael Lynch (geneticist) . A major drawback of sexual recombination is the separation of complexes of alleles that have adapted together. Study of \"Daphnia pulex\", a microcrustacean that has the ability to reproduce sexually and asexually based upon which is advantageous at particular evolutionary time points, allows for direct quantification and comparison of recombination rates in mobile genetic elements in sexual and asexual lineages. This species of Daphnia's asexual lineage is rather young in an evolutionary time perspective and rapidly go extinct. It is hypothesized that this rapid extinction is caused by a loss of heterozygosity caused by asexual reproduction as well as gene conversion exposing them to pre-existing deleterious mutations. A new reference genome assembly of this species has recently been generated and attention to the role of recombination in Daphnia has been of hallmark importance to Lynch's research in recent years.",
+            "score": 131.38905334472656
+        },
+        {
+            "docid": "30651_40",
+            "document": "Transposable element . The study conducted in 2008, \"High Rate of Recent Transposable Element\u2013Induced Adaptation in Drosophila melanogaster\", used \"D. melanogaster\" that had recently migrated from Africa to other parts of the world, as a basis for studying adaptations caused by transposable elements. Although most of the TEs were located on introns, the experiment showed the significant difference on gene expressions between the population in Africa and other parts of the world. The four TEs that caused the selective sweep were more prevalent in \"D. melanogaster\" from temperate climates, leading the researchers to conclude that the selective pressures of the climate prompted genetic adaptation. From this experiment, it has been confirmed that adaptive TEs are prevalent in nature, by enabling organisms to adapt gene expression as a result of new selective pressures.",
+            "score": 131.130615234375
+        },
+        {
+            "docid": "42888_43",
+            "document": "Human genome . Transposable genetic elements, DNA sequences that can replicate and insert copies of themselves at other locations within a host genome, are an abundant component in the human genome. The most abundant transposon lineage, \"Alu\", has about 50,000 active copies, and can be inserted into intragenic and intergenic regions. One other lineage, LINE-1, has about 100 active copies per genome (the number varies between people). Together with non-functional relics of old transposons, they account for over half of total human DNA. Sometimes called \"jumping genes\", transposons have played a major role in sculpting the human genome. Some of these sequences represent endogenous retroviruses, DNA copies of viral sequences that have become permanently integrated into the genome and are now passed on to succeeding generations.",
+            "score": 131.04087829589844
+        },
+        {
+            "docid": "356200_2",
+            "document": "Muller's ratchet . In evolutionary genetics, Muller's ratchet (named after Hermann Joseph Muller, by analogy with a ratchet effect) is a process by which the genomes of an asexual population accumulate deleterious mutations in an irreversible manner. Muller proposed this mechanism as one reason why sexual reproduction may be favored over asexual reproduction. The negative effect of accumulating irreversible deleterious mutations may not be prevalent in organisms which, while they reproduce asexually, also undergo other forms of recombination. This effect has also been observed in those regions of the genomes of sexual organisms which do not undergo recombination.",
+            "score": 130.9869842529297
+        }
+    ]
+}

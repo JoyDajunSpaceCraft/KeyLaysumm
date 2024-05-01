@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "41663399_5",
+            "document": "Bat-borne virus . It is believed that bat roosting habits, reproductive cycle, migration, hibernation, produce a natural susceptibility to viruses. In addition, bats are known to have persistent viral infections at a rate higher than other mammals. This is believed to be due to a shorter antibody half-life. Bats have also been shown to be more susceptible to reinfection with the same viruses, whereas other mammals, especially humans, have a greater propensity for developing varying degrees of immunity.",
+            "score": 221.8538055419922
+        },
+        {
+            "docid": "443416_18",
+            "document": "Phagocyte . Viruses can reproduce only inside cells, and they gain entry by using many of the receptors involved in immunity. Once inside the cell, viruses use the cell's biological machinery to their own advantage, forcing the cell to make hundreds of identical copies of themselves. Although phagocytes and other components of the innate immune system can, to a limited extent, control viruses, once a virus is inside a cell the adaptive immune responses, particularly the lymphocytes, are more important for defense. At the sites of viral infections, lymphocytes often vastly outnumber all the other cells of the immune system; this is common in viral meningitis. Virus-infected cells that have been killed by lymphocytes are cleared from the body by phagocytes.",
+            "score": 179.14906787872314
+        },
+        {
+            "docid": "14579421_30",
+            "document": "Introduction to viruses . Animals, including humans, have many natural defences against viruses. Some are non-specific and protect against many viruses regardless of the type. This innate immunity is not improved by repeated exposure to viruses and does not retain a \"memory\" of the infection. The skin of animals, particularly its surface, which is made from dead cells, prevents many types of viruses from infecting the host. The acidity of the contents of the stomach destroys many viruses that have been swallowed. When a virus overcomes these barriers and enters the host, other innate defences prevent the spread of infection in the body. A special hormone called interferon is produced by the body when viruses are present, and this stops the viruses from reproducing by killing the infected cell and its close neighbours. Inside cells, there are enzymes that destroy the RNA of viruses. This is called RNA interference. Some blood cells engulf and destroy other virus infected cells.",
+            "score": 193.20579552650452
+        },
+        {
+            "docid": "406929_8",
+            "document": "Virulence . They determine whether infection occurs and how severe the resulting viral disease symptoms are. Viruses often require receptor proteins on host cells to which they specifically bind. Typically, these host cell proteins are endocytosed and the bound virus then enters the host cell. Virulent viruses such as HIV, which causes AIDS, have mechanisms for evading host defenses. HIV infects T-Helper Cells, which leads to a reduction of the adaptive immune response of the host and eventually leads to an immunocompromised state. Death results from opportunistic infections secondary to disruption of the immune system caused by AIDS. Some viral virulence factors confer ability to replicate during the defensive inflammation responses of the host such as during virus-induced fever. Many viruses can exist inside a host for long periods during which little damage is done. Extremely virulent strains can eventually evolve by mutation and natural selection within the virus population inside a host. The term \"neurovirulent\" is used for viruses such as rabies and herpes simplex which can invade the nervous system and cause disease there.",
+            "score": 181.53776967525482
+        },
+        {
+            "docid": "543850_3",
+            "document": "Antigenic drift . The immune system recognizes viruses when antigens on the surfaces of virus particles bind to immune receptors that are specific for these antigens. This is similar to a lock recognizing a key. After an infection, the body produces many more of these virus-specific immune receptors, which prevent re-infection by this particular strain of the virus and produce acquired immunity. Similarly, a vaccine against a virus works by teaching the immune system to recognize the antigens exhibited by this virus. However, viral genomes are constantly mutating, producing new forms of these antigens. If one of these new forms of an antigen is sufficiently different from the old antigen, it will no longer bind to the receptors of the body cells, and viruses with these new antigens can infect the body cell as it avoids the immunity to the original strain of the virus. When such a change occurs, people who have had the illness in the past are therefore not immune to the new strain of the virus (as the new strain of the virus has a different antigen which the body cell cannot recognise) and thus the vaccines against the original virus will be less effective against the illness. Two processes drive the antigens to change: antigenic drift and antigenic shift, antigenic drift being the more common. The rate of antigenic drift is dependent on two characteristics: the duration of the epidemic, and the strength of host immunity. A longer epidemic allows for selection pressure to continue over an extended period of time and stronger host immune responses increase selection pressure for development of novel antigens.",
+            "score": 146.59482634067535
+        },
+        {
+            "docid": "14579421_31",
+            "document": "Introduction to viruses . Specific immunity to viruses develops over time and white blood cells called lymphocytes play a central role. Lymphocytes retain a \"memory\" of virus infections and produce many special molecules called antibodies. These antibodies attach to viruses and stop the virus from infecting cells. Antibodies are highly selective and attack only one type of virus. The body makes many different antibodies, especially during the initial infection; however, after the infection subsides, some antibodies remain and continue to be produced, often giving the host lifelong immunity to the virus.",
+            "score": 141.29147791862488
+        },
+        {
+            "docid": "19167679_71",
+            "document": "Virus . Not all virus infections produce a protective immune response in this way. HIV evades the immune system by constantly changing the amino acid sequence of the proteins on the surface of the virion. This is known as \"escape mutation\" as the viral epitopes escape recognition by the host immune response. These persistent viruses evade immune control by sequestration, blockade of antigen presentation, cytokine resistance, evasion of natural killer cell activities, escape from apoptosis, and antigenic shift. Other viruses, called \"neurotropic viruses\", are disseminated by neural spread where the immune system may be unable to reach them.",
+            "score": 153.03462624549866
+        },
+        {
+            "docid": "2378970_11",
+            "document": "HIV disease progression rates . Coinfections or immunizations may enhance viral replication by inducing a response and activation of the immune system. This activation facilitates the three key stages of the viral life cycle: entry to the cell; reverse transcription and proviral transcription. Chemokine receptors are vital for the entry of HIV into cells. The expression of these receptors is inducible by immune activation caused through infection or immunization, thus augmenting the number of cells that are able to be infected by HIV-1. Both reverse transcription of the HIV-1 genome and the rate of transcription of proviral DNA rely upon the activation state of the cell and are less likely to be successful in quiescent cells. In activated cells there is an increase in the cytoplasmic concentrations of mediators required for reverse transcription of the HIV genome. Activated cells also release IFN-alpha which acts on an autocrine and paracrine loop that up-regulates the levels of physiologically active NF-kappa B which activates host cell genes as well as the HIV-1 LTR. The impact of co-infections by micro-organisms such as \"Mycobacterium tuberculosis\" can be important in disease progression, particularly for those who have a high prevalence of chronic and recurrent acute infections and poor access to medical care. Often, survival depends upon the initial AIDS-defining illness. Co-infection with DNA viruses such as HTLV-1, herpes simplex virus-2, varicella zoster virus and cytomegalovirus may enhance proviral DNA transcription and thus viral load as they may encode proteins that are able to trans-activate the expression of the HIV-1 pro-viral DNA. Frequent exposure to helminth infections, which are endemic in Africa, activates individual immune systems, thereby shifting the cytokine balance away from an initial Th1 cell response against viruses and bacteria which would occur in the uninfected person to a less protective T helper 0/2-type response. HIV-1 also promotes a Th1 to Th0 shift and replicates preferentially in Th2 and Th0 cells. This makes the host more susceptible to and less able to cope with infection with HIV-1, viruses and some types of bacteria. Ironically, exposure to dengue virus seems to slow HIV progression rates temporarily.",
+            "score": 147.4944088459015
+        },
+        {
+            "docid": "23538713_57",
+            "document": "Bat . Bats are natural reservoirs for a large number of zoonotic pathogens, including rabies, endemic in many bat populations, histoplasmosis both directly and in guano, Nipah and Hendra viruses, and possibly the ebola virus. Their high mobility, broad distribution, long life spans, substantial sympatry (range overlap) of species, and social behaviour make bats favourable hosts and vectors of disease. Compared to rodents, bats carry more zoonotic viruses per species, and each virus is shared with more species. They seem to be highly resistant to many of the pathogens they carry, suggesting a degree of adaptation to their immune systems. Their interactions with livestock and pets, including predation by vampire bats, accidental encounters, and the scavenging of bat carcasses, compound the risk of zoonotic transmission. Bats are implicated in the emergence of severe acute respiratory syndrome (SARS) in China, since they serve as natural hosts for Coronaviruses, several from a single cave in Yunnan, one of which developed into the SARS virus.",
+            "score": 213.75459384918213
+        },
+        {
+            "docid": "19167679_91",
+            "document": "Virus . Virotherapy involves the use of genetically modified viruses to treat diseases. Viruses have been modified by scientists to reproduce in cancer cells and destroy them but not infect healthy cells. Talimogene laherparepvec (T-VEC), for example, is a modified herpes simplex virus that has had a gene, which is required for viruses to replicate in healthy cells, deleted and replaced with a human gene (GM-CSF) that stimulates immunity. When this virus infects cancer cells, it destroys them and in doing so the presence the GM-CSF gene attracts dendritic cells from the surrounding tissues of the body. The dendritic cells process the dead cancer cells and present components of them to other cells of the immune system. Having completed successful clinical trials, this virus is expected to gain approval for the treatment of a skin cancer called melanoma in late 2015. Viruses that have been reprogrammed to kill cancer cells are called oncolytic viruses.",
+            "score": 164.32375848293304
+        },
+        {
+            "docid": "40817590_19",
+            "document": "Ebola virus disease . Bats were known to roost in the cotton factory in which the first cases of the 1976 and 1979 outbreaks were observed, and they have also been implicated in Marburg virus infections in 1975 and 1980. Of 24\u00a0plant and 19\u00a0vertebrate species experimentally inoculated with EBOV, only bats became infected. The bats displayed no clinical signs of disease, which is considered evidence that these bats are a reservoir species of EBOV. In a 2002\u20132003 survey of 1,030\u00a0animals including 679\u00a0bats from Gabon and the Republic of the Congo, 13\u00a0fruit bats were found to contain EBOV RNA. Antibodies against Zaire and Reston viruses have been found in fruit bats in Bangladesh, suggesting that these bats are also potential hosts of the virus and that the filoviruses are present in Asia.",
+            "score": 209.3848216533661
+        },
+        {
+            "docid": "19167679_69",
+            "document": "Virus . When the adaptive immune system of a vertebrate encounters a virus, it produces specific antibodies that bind to the virus and often render it non-infectious. This is called humoral immunity. Two types of antibodies are important. The first, called IgM, is highly effective at neutralising viruses but is produced by the cells of the immune system only for a few weeks. The second, called IgG, is produced indefinitely. The presence of IgM in the blood of the host is used to test for acute infection, whereas IgG indicates an infection sometime in the past. IgG antibody is measured when tests for immunity are carried out.",
+            "score": 109.82153749465942
+        },
+        {
+            "docid": "15842342_13",
+            "document": "Laboratory diagnosis of viral infections . Electron microscopy is a method that can take a picture of a whole virus and can reveal its shape and structure. It is not typically used as a routine diagnostic test as it requires a highly specialized type of sample preparation, microscope and technical expertise. However, electron microscopy is highly versatile due to its ability to analyze any type of sample and identify any type of virus. Therefore, it remains the gold standard for identifying viruses that do not show up on routine diagnostic tests or for which routine tests present conflicting results.  A person who has recently been infected by a virus will produce antibodies in their bloodstream that specifically recognize that virus. This is called humoral immunity. Two types of antibodies are important. The first called IgM is highly effective at neutralizing viruses but is only produced by the cells of the immune system for a few weeks. The second, called, IgG is produced indefinitely. Therefore, the presence of IgM in the blood of the host is used to test for acute infection, whereas IgG indicates an infection sometime in the past. Both types of antibodies are measured when tests for immunity are carried out.",
+            "score": 118.53211534023285
+        },
+        {
+            "docid": "12537935_12",
+            "document": "Peters' dwarf epauletted fruit bat . Bats are transporters of many viruses that do not affect them due to their unusually high immune system efficiency. M. pusillus have been known to carry antibodies specific to Ebola. Mitochondrial analysis was conducted on multiple fruit bats following the Ebola viruses outbreak in 2014 and one of the bat species testing positive for the virus was M. pusillus. With M. pusillus being highly frugivore, human contact in greatly increased in agricultural regions of Africa, increasing the risk for virus transmission.",
+            "score": 204.7369954586029
+        },
+        {
+            "docid": "38238_31",
+            "document": "Hepatitis . The pathway by which hepatic viruses cause viral hepatitis is best understood in the case of hepatitis B and C. The viruses do not directly cause apoptosis (cell death). Rather, infection of liver cells activates the innate and adaptive arms of the immune system leading to an inflammatory response which causes cellular damage and death. Depending on the strength of the immune response, the types of immune cells involved and the ability of the virus to evade the body's defense, infection can either lead to clearance (acute disease) or persistence (chronic disease) of the virus. The chronic presence of the virus within liver cells results in multiple waves of inflammation, injury and wound healing that overtime lead to scarring or fibrosis and culminate in hepatocellular carcinoma. Individuals with an impaired immune response are at greater risk of developing chronic infection. Natural killer cells are the primary drivers of the initial innate response and create a cytokine environment that results in the recruitment of CD4 T-helper and CD8 cytotoxic T-cells. Type I interferons are the cytokines that drive the antiviral response. In chronic Hepatitis B and C, natural killer cell function is impaired.",
+            "score": 193.81311988830566
+        },
+        {
+            "docid": "443416_21",
+            "document": "Phagocyte . Phagocytes are usually not bound to any particular organ but move through the body interacting with the other phagocytic and non-phagocytic cells of the immune system. They can communicate with other cells by producing chemicals called cytokines, which recruit other phagocytes to the site of infections or stimulate dormant lymphocytes. Phagocytes form part of the innate immune system, which animals, including humans, are born with. Innate immunity is very effective but non-specific in that it does not discriminate between different sorts of invaders. On the other hand, the adaptive immune system of jawed vertebrates\u2014the basis of acquired immunity\u2014is highly specialized and can protect against almost any type of invader. The adaptive immune system is not dependent on phagocytes but lymphocytes, which produce protective proteins called antibodies, which tag invaders for destruction and prevent viruses from infecting cells. Phagocytes, in particular dendritic cells and macrophages, stimulate lymphocytes to produce antibodies by an important process called antigen presentation.",
+            "score": 127.70193779468536
+        },
+        {
+            "docid": "2239705_9",
+            "document": "Gammaretrovirus . Gammaretrovirus is a part of the retroviridae family. Gammaretroviruses are considered zoonotic viruses because they are found in many different mammalian species, such as mice, cats, pigs, primates, cows, and birds. However, bats are the primary reservoir for many gammaretroviruses. Bats can have a prolonged exposure to a variety of pathogens without showing any warning signs, which leads to the debated belief that bats have the ability to develop immunity to viruses that may harm other species. So, it is possible for bats to harbor not only one, but several types of gammaretroviruses. This claim is supported by a sequencing transcriptome profiling technique, and a polymerase chain reaction. Researchers also looked into several different types of bat species to solidify the claim that bats are the main reservoir for gammaretroviruses. The gammaretroviruses can be spread horizontally, animal to animal, or vertically from parent to offspring.",
+            "score": 223.76033973693848
+        },
+        {
+            "docid": "29802394_66",
+            "document": "Social history of viruses . The natural source of Ebola virus is probably bats. Marburg viruses are transmitted to humans by monkeys, and Lassa fever by rats (\"Mastomys natalensis\"). Zoonotic infections can be severe because humans often have no natural resistance to the infection and it is only when viruses become well-adapted to new host that their virulence decreases. Some zoonotic infections are often \"dead ends\", in that after the initial outbreak the rate of subsequent infections subsides because the viruses are not efficient at spreading from person to person.",
+            "score": 198.17775297164917
+        },
+        {
+            "docid": "19167679_70",
+            "document": "Virus . Antibodies can continue to be an effective defence mechanism even after viruses have managed to gain entry to the host cell. A protein that is in cells, called TRIM21, can attach to the antibodies on the surface of the virus particle. This primes the subsequent destruction of the virus by the enzymes of the cell's proteosome system. A second defence of vertebrates against viruses is called cell-mediated immunity and involves immune cells known as T cells. The body's cells constantly display short fragments of their proteins on the cell's surface, and, if a T cell recognises a suspicious viral fragment there, the host cell is destroyed by \"killer T\" cells and the virus-specific T-cells proliferate. Cells such as the macrophage are specialists at this antigen presentation. The production of interferon is an important host defence mechanism. This is a hormone produced by the body when viruses are present. Its role in immunity is complex; it eventually stops the viruses from reproducing by killing the infected cell and its close neighbours.",
+            "score": 147.76076531410217
+        },
+        {
+            "docid": "19167679_7",
+            "document": "Virus . Viral infections in animals provoke an immune response that usually eliminates the infecting virus. Immune responses can also be produced by vaccines, which confer an artificially acquired immunity to the specific viral infection. Some viruses, including those that cause AIDS and viral hepatitis, evade these immune responses and result in chronic infections. Antibiotics have no effect on viruses, but several antiviral drugs have been developed.",
+            "score": 173.0940260887146
+        },
+        {
+            "docid": "43551963_2",
+            "document": "Gabrielle Belz . Gabrielle Belz is an Australian molecular immunologist and viral immunologist. She is a faculty member of the Walter and Eliza Hall Institute of Medical Research, within the Molecular Immunology division. Belz has made important contributions to the understanding of immune system function, especially in relation to the molecular and cellular signalling pathways of immune response to viruses. Her research has focused on understanding the signals that drive the initial development of protective immunity against pathogen infections, such as influenza and herpes viruses. This includes research into how cytotoxic T cells (a type of T lymphocyte that destroys virally infected cells and tumor cells) recognise and remove virally-infected cells from the body following infection. Research into the description of the specific factors and response during infection will contribute towards the long term development of vaccines for infectious disease, and the development of better treatments for autoimmune diseases.",
+            "score": 147.11130023002625
+        },
+        {
+            "docid": "2170901_12",
+            "document": "Cross-presentation . Cross-presentation has been shown to play a role in the immune defense against many viruses (herpesvirus, influenzavirus, CMV, EBV, SIV, papillomavirus, and others), bacteria (listeria, salmonella, \"E. coli\", \"M. tuberculosis\", and others) and tumors (brain, pancreas, melanoma, leukemia, and others). Even though many viruses can inhibit and degrade dendritic cell activity, cross-presenting dendritic cells that are unaffected by the virus are able to intake the infected peripheral cell and still cross present the exogenous antigen to cytotoxic T cells. The action of cross priming can bolster immunity against antigens that target intracellular peripheral tissues that are unable to be mediated by antibodies produced through B cells. Also, cross-priming avoids viral immune evasion strategies, such as suppression of antigen processing. Consequently, immune responses against viruses that are able to do so, such as herpes viruses, are largely dependent on cross-presentation for a successful immune response. Overall, cross presentation aids in facilitating an adaptive immune response against intracellular viruses and tumor cells.",
+            "score": 146.54702699184418
+        },
+        {
+            "docid": "28870620_5",
+            "document": "Antiviral protein . Researchers at Harvard Medical School (HMS) have found an antiviral protein, IFITM3 that could slow and even prevent deadly viruses from infecting and spreading. These proteins account for up to half of the immune system in humans and the other half is composed of interferons. In a few experiments, this certain antiviral protein defended cells from viruses such as influenza (including influenza A virus subtype H1N1), West Nile virus, dengue virus, and HIV-1. The protein family, interferon-inducible transmembrane proteins (IFITM), were discovered about 25 years ago and are activated by an interferon. Not much is known about this protein, but it is found in many creatures and has been around for possibly millions of years. \"The most distinctive property of the first-line IFITM3 defense is its preventive action before the virus can fuse with the cell,\" said virologist Michael Farzan, associate professor of microbiology and molecular genetics at HMS and the New England Primate Research Center. A person's susceptibility to viral infections could be linked to variations in this antiviral protein and also how severe a person reacts to certain viruses like influenza or the more dangerous H1N1 strain.",
+            "score": 226.25982284545898
+        },
+        {
+            "docid": "35175872_4",
+            "document": "Reticular dysgenesis . The immune system consists of specialized cells that work together to fight off bacteria, fungi and viruses. These cells include T lymphocytes (T cells), that primarily mediate the immune system, B lymphocytes (B cells) and Natural Killer cells. Patients with RD have a genetic defect that affects the T cells and at least one other type of immune cell. Since more than one type of immune cell is affected, this disease is classified as a severe combined immunodeficiency disease (SCID). A weakened immune system leaves patients susceptible to different kinds of infection. Commonly, patients who are diagnosed with RD also have bacterial sepsis and/or pneumonia.The annual incidence has been estimated at 1/3,000,000-1/5,000,000 and both females and males are affected.",
+            "score": 111.38657569885254
+        },
+        {
+            "docid": "44739996_6",
+            "document": "Hidde Ploegh . More recently, the Ploegh lab at the Whitehead Institute has been using a technique called \u201csortagging\u201d to look at the pathways through which viruses are able to avoid detection by the immune system. Memory B cells are lymphocytes known to be produced to fight off secondary infection, yet the influenza virus is able to avoid the immune response generated by these cells. This method was used to tag the influenza virus, so that it could be observed, and it was found that the interaction of virus antigens with the B-cell receptor is required for infection.",
+            "score": 139.0856328010559
+        },
+        {
+            "docid": "39868915_5",
+            "document": "Gunther Hartmann . The immune system senses pathogens and damage and subsequently initiates a response that effectively protects the organism from harm. Specific receptor systems evolved to detect distress early on and to initiate the appropriate responses. Different classes of receptors sense various molecular entities. While the immune system employs individually created receptors (recombination of genetic elements) to detect foreign proteins (adaptive immune system, e.g. T cell and B cell receptors and antibodies), the innate arm of the immune system applies germline-encoded receptors to detect microbial or damaged molecules including nucleic acid (DNA and RNA). Innate immune sensing of nucleic acids is essential for immune recognition of viruses and has been the scientific focus of the Hartmann group for more than 17 years. His scientific achievements have been awarded with the Gottfried Wilhelm Leibniz Prize (information and video:). Besides immune recognition of viruses, immune sensing of nucleic acids is involved in bacterial infection, in tumor biology and autoimmune disease.",
+            "score": 130.0455300807953
+        },
+        {
+            "docid": "1723667_16",
+            "document": "Oncolytic virus . Many cases of spontaneous remission of cancer have been recorded, though not fully understood, they are thought likely to be a result of a sudden immune response or infection. Efforts to induce this phenomenon have used cancer vaccines (derived from cancer cells or selected cancer antigens), or direct treatment with immune-stimulating factors on skin cancers. Some oncolytic viruses are very immunogenic and may by infection of the tumour, elicit an anti-tumor immune response, especially viruses delivering cytokines or other immune stimulating factors.",
+            "score": 153.61973786354065
+        },
+        {
+            "docid": "46181852_15",
+            "document": "Negative-sense single-stranded RNA virus . A cell\u2019s innate immune response is the first line of defense for finding viral infections. The innate immune response triggers the production of type I interferons (IFN) and pro-inflammatory cytokines. However, non-segmented negative sense RNA viruses (NNSV) have developed multifunctional proteins that can diffuse this innate response pathway to avoid antiviral functions within the cell. This mainly occurs through the NNSV's proteins interacting with other cellular proteins involved in the type I interferon signaling pathway. Due to the expansive nature of the immune pathway, NNSVs have a variety of areas throughout the signaling cascade that can be targeted for interruption of the production of type I interferons or pro-inflammatory cytokines. Such areas include inhibiting the induction of the IFN pathway or inhibiting the response from the IFN signaling cascade.",
+            "score": 203.61557388305664
+        },
+        {
+            "docid": "211949_38",
+            "document": "T helper cell . The mechanism that killer T cells use during auto-immunity is almost identical to their response against viruses, and some viruses have been accused of causing auto-immune diseases such as Type 1 diabetes mellitus. Cellular auto-immune disease occurs because the host antigen recognition systems fail, and the immune system believes, by mistake, that a host antigen is foreign. As a result, the CD8 T cells treat the host cell presenting that antigen as infected, and go on to destroy all host cells (or in the case of transplant rejection, transplant organ) that express that antigen.",
+            "score": 120.3099091053009
+        },
+        {
+            "docid": "1892376_16",
+            "document": "MHC class I . The fate of the virus-infected cell is almost always induction of apoptosis through cell-mediated immunity, reducing the risk of infecting neighboring cells. As an evolutionary response to this method of immune surveillance, many viruses are able to down-regulate or otherwise prevent the presentation of MHC class I molecules on the cell surface. In contrast to cytotoxic T lymphocytes, natural killer (NK) cells are normally inactivated upon recognizing MHC I molecules on the surface of cells. Therefore, in the absence of MHC I molecules, NK cells are activated and recognize the cell as aberrant, suggesting that it may be infected by viruses attempting to evade immune destruction. Several human cancers also show down-regulation of MHC I, giving transformed cells the same survival advantage of being able to avoid normal immune surveillance designed to destroy any infected or transformed cells.",
+            "score": 144.7501039505005
+        },
+        {
+            "docid": "19167679_67",
+            "document": "Virus . The body's first line of defence against viruses is the innate immune system. This comprises cells and other mechanisms that defend the host from infection in a non-specific manner. This means that the cells of the innate system recognise, and respond to, pathogens in a generic way, but, unlike the adaptive immune system, it does not confer long-lasting or protective immunity to the host.",
+            "score": 116.85269665718079
+        },
+        {
+            "docid": "15120_7",
+            "document": "Interferon . All interferons share several common effects: they are antiviral agents and they modulate functions of the immune system. Administration of Type I IFN has been shown experimentally to inhibit tumor growth in animals, but the beneficial action in human tumors has not been widely documented.  A virus-infected cell releases viral particles that can infect nearby cells. However, the infected cell can prepare neighboring cells against a potential infection by the virus by releasing interferons. In response to interferon, cells produce large amounts of an enzyme known as protein kinase R (PKR). This enzyme phosphorylates a protein known as eIF-2 in response to new viral infections; the phosphorylated eIF-2 forms an inactive complex with another protein, called eIF2B, to reduce protein synthesis within the cell. Another cellular enzyme, RNAse L\u2014also induced by interferon action\u2014destroys RNA within the cells to further reduce protein synthesis of both viral and host genes. Inhibited protein synthesis destroys both the virus and infected host cells. In addition, interferons induce production of hundreds of other proteins\u2014known collectively as interferon-stimulated genes (ISGs)\u2014that have roles in combating viruses and other actions produced by interferon. They also limit viral spread by increasing p53 activity, which kills virus-infected cells by promoting apoptosis. The effect of IFN on p53 is also linked to its protective role against certain cancers.",
+            "score": 182.82684445381165
+        }
+    ],
+    "r": [
+        {
+            "docid": "28870620_5",
+            "document": "Antiviral protein . Researchers at Harvard Medical School (HMS) have found an antiviral protein, IFITM3 that could slow and even prevent deadly viruses from infecting and spreading. These proteins account for up to half of the immune system in humans and the other half is composed of interferons. In a few experiments, this certain antiviral protein defended cells from viruses such as influenza (including influenza A virus subtype H1N1), West Nile virus, dengue virus, and HIV-1. The protein family, interferon-inducible transmembrane proteins (IFITM), were discovered about 25 years ago and are activated by an interferon. Not much is known about this protein, but it is found in many creatures and has been around for possibly millions of years. \"The most distinctive property of the first-line IFITM3 defense is its preventive action before the virus can fuse with the cell,\" said virologist Michael Farzan, associate professor of microbiology and molecular genetics at HMS and the New England Primate Research Center. A person's susceptibility to viral infections could be linked to variations in this antiviral protein and also how severe a person reacts to certain viruses like influenza or the more dangerous H1N1 strain.",
+            "score": 226.2598114013672
+        },
+        {
+            "docid": "2239705_9",
+            "document": "Gammaretrovirus . Gammaretrovirus is a part of the retroviridae family. Gammaretroviruses are considered zoonotic viruses because they are found in many different mammalian species, such as mice, cats, pigs, primates, cows, and birds. However, bats are the primary reservoir for many gammaretroviruses. Bats can have a prolonged exposure to a variety of pathogens without showing any warning signs, which leads to the debated belief that bats have the ability to develop immunity to viruses that may harm other species. So, it is possible for bats to harbor not only one, but several types of gammaretroviruses. This claim is supported by a sequencing transcriptome profiling technique, and a polymerase chain reaction. Researchers also looked into several different types of bat species to solidify the claim that bats are the main reservoir for gammaretroviruses. The gammaretroviruses can be spread horizontally, animal to animal, or vertically from parent to offspring.",
+            "score": 223.76034545898438
+        },
+        {
+            "docid": "41663399_5",
+            "document": "Bat-borne virus . It is believed that bat roosting habits, reproductive cycle, migration, hibernation, produce a natural susceptibility to viruses. In addition, bats are known to have persistent viral infections at a rate higher than other mammals. This is believed to be due to a shorter antibody half-life. Bats have also been shown to be more susceptible to reinfection with the same viruses, whereas other mammals, especially humans, have a greater propensity for developing varying degrees of immunity.",
+            "score": 221.8538055419922
+        },
+        {
+            "docid": "333398_43",
+            "document": "Henipavirus . The emergence of henipaviruses parallels the emergence of other zoonotic viruses in recent decades. SARS coronavirus, Australian bat lyssavirus, Menangle virus and probably Ebola virus and Marburg virus are also harbored by bats and are capable of infecting a variety of other species. The emergence of each of these viruses has been linked to an increase in contact between bats and humans, sometimes involving an intermediate domestic animal host. The increased contact is driven both by human encroachment into the bats\u2019 territory (in the case of Nipah, specifically pigpens in said territory) and by movement of bats towards human populations due to changes in food distribution and loss of habitat.",
+            "score": 214.4757080078125
+        },
+        {
+            "docid": "23538713_57",
+            "document": "Bat . Bats are natural reservoirs for a large number of zoonotic pathogens, including rabies, endemic in many bat populations, histoplasmosis both directly and in guano, Nipah and Hendra viruses, and possibly the ebola virus. Their high mobility, broad distribution, long life spans, substantial sympatry (range overlap) of species, and social behaviour make bats favourable hosts and vectors of disease. Compared to rodents, bats carry more zoonotic viruses per species, and each virus is shared with more species. They seem to be highly resistant to many of the pathogens they carry, suggesting a degree of adaptation to their immune systems. Their interactions with livestock and pets, including predation by vampire bats, accidental encounters, and the scavenging of bat carcasses, compound the risk of zoonotic transmission. Bats are implicated in the emergence of severe acute respiratory syndrome (SARS) in China, since they serve as natural hosts for Coronaviruses, several from a single cave in Yunnan, one of which developed into the SARS virus.",
+            "score": 213.7545928955078
+        },
+        {
+            "docid": "780034_9",
+            "document": "Lyssavirus . Based on the biological properties of the viruses, these species are further subdivided into phylogroups 1 and 2. Phylogroup 1 includes genotypes 1, 4, 5, 6, and 7, while phylogroup 2 includes genotypes 2 and 3. The nucleocapsid region of lyssavirus is \"fairly\" highly conserved from genotype to genotype across both phylogroups; experimental data have shown that the only lyssavirus strains used in vaccinations are those from the first species (i.e. classic rabies) leaving their efficacy for some non-rabies Lyssavirus diseases (e.g. Mokola virus) in question. There are three phylogeographic groups of lyssaviruses: 1 -3. Rabies belongs to group 1, along with Aravan lyssavirus, Australian bat lyssavirus, Bokeloh bat lyssavirus, Duvenhage virus, European bat lyssavirus 1 and 2, Gannoruwa bat lyssavirus, Irkut lyssavirus and Khujand lyssavirus. Members of group 2 include Lagos bat virus, Mokola virus and Shimoni bat virus. Members of group 3 include Ikoma lyssavirus and Lleida bat lyssavirus. Phyogenetic studies suggest that the original hosts of these viruses were bats. The greater antigenic diversity of lyssaviruses from Africa has led to the assumption that Africa was the origin of these viruses. An examination of 153 viruses collected between 1956 and 2015 from various geographic locations has instead suggested a Palearctic origin (85% likelihood) for these viruses. Date estimates (95% likelihood) for the most recent common ancestor were very broad - between 3,995 and 166,820 years before present - which suggests there is further work to be done in this area. Although bats evolved in the Palearctic, their origins antedate that of the lyassaviruses by millions of years, which argues against their co-speciation. The evolution rate in the N gene in the Africa 2 lineage has been estimated to be 3.75\u00d710 substitutions per site per year. This rate is similar to that of other RNA viruses.",
+            "score": 212.45045471191406
+        },
+        {
+            "docid": "41663399_3",
+            "document": "Bat-borne virus . Bat-borne viruses are transmitted via bat bite and transfer via saliva, as well as aerosolization of saliva, feces, and/or urine. Like rabies virus, newly emerging bat-borne viruses can be transmitted to humans directly by bats. These include Ebola virus, SARS, and the Middle East respiratory syndrome coronavirus.",
+            "score": 211.37342834472656
+        },
+        {
+            "docid": "12539015_19",
+            "document": "Indian flying fox . Like other fruit bats, the Indian flying fox may be a natural reservoir for diseases including certain henipaviruses and flaviviruses. These can prove fatal to humans and domestic animals. Indian flying foxes in India and Bangladesh have tested positive for Nipah virus, a type of henipavirus. Due to human encroachment into their habitats, there is a high risk of spillover infection of Nipah virus from Indian flying foxes to humans. While Nipah virus outbreaks are more likely in areas preferred by Indian flying foxes, researchers note that \"the presence of bats in and of itself is not considered a risk factor for Nipah virus infection.\" Rather, the consumption of date palm sap is a significant route of transmission. The practice of date palm sap collection involves placing collecting pots at date palm trees. Indian flying foxes have been observed licking the sap as it flows into the pots, as well as defecating and urinating in proximity to the pots. In this way, humans who drink the palm sap can be exposed to the bats' viruses. The use of bamboo skirts on collecting pots lowers the risk of contamination from bat fluids. While Indian flying foxes have also tested positive for GBV-D, a type of flavivirus, it is unclear whether this virus occurs in humans or if it could be transmitted by Indian flying foxes.",
+            "score": 209.67977905273438
+        },
+        {
+            "docid": "40817590_19",
+            "document": "Ebola virus disease . Bats were known to roost in the cotton factory in which the first cases of the 1976 and 1979 outbreaks were observed, and they have also been implicated in Marburg virus infections in 1975 and 1980. Of 24\u00a0plant and 19\u00a0vertebrate species experimentally inoculated with EBOV, only bats became infected. The bats displayed no clinical signs of disease, which is considered evidence that these bats are a reservoir species of EBOV. In a 2002\u20132003 survey of 1,030\u00a0animals including 679\u00a0bats from Gabon and the Republic of the Congo, 13\u00a0fruit bats were found to contain EBOV RNA. Antibodies against Zaire and Reston viruses have been found in fruit bats in Bangladesh, suggesting that these bats are also potential hosts of the virus and that the filoviruses are present in Asia.",
+            "score": 209.38482666015625
+        },
+        {
+            "docid": "3345164_55",
+            "document": "Pteropus . Flying foxes are the natural reservoirs of several viruses, some of which can be transmitted to humans. Notably, flying foxes can transmit lyssaviruses, which cause rabies. In Australia the rabies virus is not naturally present; Australian bat lyssavirus is the only lyssavirus present. Australian bat lyssavirus was first identified in 1996; it is very rarely transmitted to humans. Transmission occurs from the bite or scratch of an infected animal, but can also occur from getting the infected animal's saliva in a mucous membrane or an open wound. Exposure to flying fox blood, urine, or feces is not a risk of exposure to Australian bat lyssavirus. Since 1994, there have been three records of people getting infected with it\u2014all three were in Queensland and each case was fatal.",
+            "score": 207.93795776367188
+        },
+        {
+            "docid": "12537935_12",
+            "document": "Peters' dwarf epauletted fruit bat . Bats are transporters of many viruses that do not affect them due to their unusually high immune system efficiency. M. pusillus have been known to carry antibodies specific to Ebola. Mitochondrial analysis was conducted on multiple fruit bats following the Ebola viruses outbreak in 2014 and one of the bat species testing positive for the virus was M. pusillus. With M. pusillus being highly frugivore, human contact in greatly increased in agricultural regions of Africa, increasing the risk for virus transmission.",
+            "score": 204.73699951171875
+        },
+        {
+            "docid": "46181852_15",
+            "document": "Negative-sense single-stranded RNA virus . A cell\u2019s innate immune response is the first line of defense for finding viral infections. The innate immune response triggers the production of type I interferons (IFN) and pro-inflammatory cytokines. However, non-segmented negative sense RNA viruses (NNSV) have developed multifunctional proteins that can diffuse this innate response pathway to avoid antiviral functions within the cell. This mainly occurs through the NNSV's proteins interacting with other cellular proteins involved in the type I interferon signaling pathway. Due to the expansive nature of the immune pathway, NNSVs have a variety of areas throughout the signaling cascade that can be targeted for interruption of the production of type I interferons or pro-inflammatory cytokines. Such areas include inhibiting the induction of the IFN pathway or inhibiting the response from the IFN signaling cascade.",
+            "score": 203.61557006835938
+        },
+        {
+            "docid": "2969851_17",
+            "document": "EcoHealth Alliance . A growing body of research indicates that bats are an important factor in both ecosystem health, and disease emergence. A number of hypotheses have been proposed for the high number of zoonoses that have come from bat populations in recent decades. One group of researchers hypothesized \u201cthat flight, a factor common to all bats but to no other mammals, provides an intensive selective force for coexistence with viral parasites through a daily cycle that elevates metabolism and body temperature analogous to the febrile response in other mammals. On an evolutionary scale, this host-virus interaction might have resulted in the large diversity of zoonotic viruses in bats, possibly through bat viruses adapting to be more tolerant of the fever response and less virulent to their natural hosts.\u201d",
+            "score": 202.5490264892578
+        },
+        {
+            "docid": "57133419_2",
+            "document": "SADS coronavirus . SADS-CoV is a corona virus related to Rhinolophus Bat coronavirus HKU2. It is transmitted through the feces of horseshoe bats to pigs. Piglets less than 5 days old die with a probability of 90%. SADS-CoV was identified during the SARS outbreak caused by SARS-CoV in Guangdong 2013 onwards, where it caused the death of more than 24,000 piglets on 4 farms. Current research says that it cannot infect humans. The fear remains that such a virus can mutate and then become dangerous for humans. Researches as well made clear, while bats carry zoonotic viruses, they are very important for a well balanced ecosystem. Some for example eat mosquitos which carry dangerous viruses like malaria, yellow fever, chikungunya, zika and others.",
+            "score": 201.8773193359375
+        },
+        {
+            "docid": "41663399_2",
+            "document": "Bat-borne virus . A bat-borne virus is any virus whose primary reservoir is any species of bat. The viruses species include coronaviruses, hantaviruses, lyssaviruses, lassa virus, Henipavirus, Ebola virus and Marburg virus. Bat-borne viruses are among the most important of the emerging viruses.",
+            "score": 199.7346649169922
+        },
+        {
+            "docid": "29802394_66",
+            "document": "Social history of viruses . The natural source of Ebola virus is probably bats. Marburg viruses are transmitted to humans by monkeys, and Lassa fever by rats (\"Mastomys natalensis\"). Zoonotic infections can be severe because humans often have no natural resistance to the infection and it is only when viruses become well-adapted to new host that their virulence decreases. Some zoonotic infections are often \"dead ends\", in that after the initial outbreak the rate of subsequent infections subsides because the viruses are not efficient at spreading from person to person.",
+            "score": 198.17774963378906
+        },
+        {
+            "docid": "956106_5",
+            "document": "Ebolavirus . Researchers have now found evidence of Ebola infection in three species of fruit bat. The bats show no symptoms of the disease, indicating that they may be the main natural reservoirs of the Ebolavirus. It is possible that there are other reservoirs and vectors. Understanding where the virus incubates between outbreaks and how it is transmitted between species will help protect humans and other primates from the virus.",
+            "score": 197.79856872558594
+        },
+        {
+            "docid": "333398_38",
+            "document": "Henipavirus . Nipah virus has been isolated from Lyle's flying fox (\"Pteropus lylei\") in Cambodia and viral RNA found in urine and saliva from \"P. lylei\" and Horsfield's roundleaf bat (\"Hipposideros larvatus\") in Thailand. Infective virus has also been isolated from environmental samples of bat urine and partially eaten fruit in Malaysia. Antibodies to henipaviruses have also been found in fruit bats in Madagascar (\"Pteropus rufus, Eidolon dupreanum\") and Ghana (\"Eidolon helvum\") indicating a wide geographic distribution of the viruses. No infection of humans or other species have been observed in Cambodia, Thailand or Africa as of May 2018.",
+            "score": 195.6334228515625
+        },
+        {
+            "docid": "37132465_19",
+            "document": "Middle East respiratory syndrome coronavirus . The evidence available to date suggests that the viruses have been present in bats for some time and had spread to camels by the mid 1990s. The viruses appear to have spread from camels to humans in the early 2010s. The original bat host species and the time of initial infection in this species has yet to be determined.",
+            "score": 195.39651489257812
+        },
+        {
+            "docid": "38238_31",
+            "document": "Hepatitis . The pathway by which hepatic viruses cause viral hepatitis is best understood in the case of hepatitis B and C. The viruses do not directly cause apoptosis (cell death). Rather, infection of liver cells activates the innate and adaptive arms of the immune system leading to an inflammatory response which causes cellular damage and death. Depending on the strength of the immune response, the types of immune cells involved and the ability of the virus to evade the body's defense, infection can either lead to clearance (acute disease) or persistence (chronic disease) of the virus. The chronic presence of the virus within liver cells results in multiple waves of inflammation, injury and wound healing that overtime lead to scarring or fibrosis and culminate in hepatocellular carcinoma. Individuals with an impaired immune response are at greater risk of developing chronic infection. Natural killer cells are the primary drivers of the initial innate response and create a cytokine environment that results in the recruitment of CD4 T-helper and CD8 cytotoxic T-cells. Type I interferons are the cytokines that drive the antiviral response. In chronic Hepatitis B and C, natural killer cell function is impaired.",
+            "score": 193.8131103515625
+        },
+        {
+            "docid": "2100222_11",
+            "document": "Big brown bat . Like all bats in the United States, big brown bats can be affected by rabies, which can be a concern for public health as they commonly roost in buildings, and thus have a higher chance of encountering humans. The incubation period for rabies in this species can exceed four weeks, though the mean incubation period is 24 days. Rabid big brown bats will bite each other, which is the primary method of transmission from individual to individual. However, not all individuals will develop rabies after exposure to the virus. Some individuals have been observed with a sufficiently high rabies antibody concentration to confer immunity. Rabies immunity can be passed from mother to pup via passive immunity or from exposure to the bite of a rabid individual. Overall, a low proportion of big brown bats become infected with rabies. Populations of big brown bats in the Eastern United States have a different strain of rabies than the populations in the Western United States. In one study, only 10% of big brown bats were shedding the rabies virus through their saliva before exhibiting clinical symptoms of the disease; symptoms of rabies in big brown bats include acute weight loss, paralysis, ataxia, paresis, and unusual vocalizations.",
+            "score": 193.32296752929688
+        },
+        {
+            "docid": "14579421_30",
+            "document": "Introduction to viruses . Animals, including humans, have many natural defences against viruses. Some are non-specific and protect against many viruses regardless of the type. This innate immunity is not improved by repeated exposure to viruses and does not retain a \"memory\" of the infection. The skin of animals, particularly its surface, which is made from dead cells, prevents many types of viruses from infecting the host. The acidity of the contents of the stomach destroys many viruses that have been swallowed. When a virus overcomes these barriers and enters the host, other innate defences prevent the spread of infection in the body. A special hormone called interferon is produced by the body when viruses are present, and this stops the viruses from reproducing by killing the infected cell and its close neighbours. Inside cells, there are enzymes that destroy the RNA of viruses. This is called RNA interference. Some blood cells engulf and destroy other virus infected cells.",
+            "score": 193.20579528808594
+        },
+        {
+            "docid": "20485252_18",
+            "document": "W. Ian Lipkin . It seemed unlikely that bats were directly infecting humans, as the direct physical interaction between the two is limited at best. A study was completed in more local proximity, examining the diverse bat populations in southeastern Mexico and determining how diverse the viruses they carry could be. However, it became apparent that dromedary camels were the intermediary in the transmission between bats and humans, since camel milk and meat are dietary staples in the Saudi Arabian region. The instances of human-to-human transmission appeared to be isolated to case-patients and anyone in close direct contact with them, as opposed to a broad open-air transmission. By 2017, it was determined that bats are most likely the evolutionary original source for MERS-CoV along with several other coronaviruses, though not all of those types of zoonotic viruses are direct threats to humans like MERS-CoV and \u201c[c]ollectively, these examples demonstrate that the MERS-related coronaviruses are high associated with bats and are geographically widespread.\u201d",
+            "score": 192.6577606201172
+        },
+        {
+            "docid": "37132465_18",
+            "document": "Middle East respiratory syndrome coronavirus . The virus appears to have originated in bats. The virus itself has been isolated from a bat. This virus is closely related to the Tylonycteris bat coronavirus HKU4 and Pipistrellus bat coronavirus HKU5. Serological evidence shows that these viruses have infected camels for at least 20 years. The most recent common ancestor of several human strains has been dated to March 2012 (95% confidence interval December 2011 to June 2012).",
+            "score": 192.58465576171875
+        },
+        {
+            "docid": "43955674_4",
+            "document": "Ebola virus epidemic in Sierra Leone . In 2014 it was discovered that samples of suspected Lassa fever showed evidence of the Zaire strain of Ebola virus in Sierra Leone as early as 2006. Prior to the current Zaire strain outbreak in 2014, Ebola had not really been seen in Sierra Leone, or even in West Africa among humans. It is suspected that fruit bats are natural carriers of disease, native to this region of Africa including Sierra Leone and also a popular food source for both humans and wildlife. The Gola forests in south-east Sierra Leone are a noted source of bushmeat. Bats are known to be carriers of at least 90 different viruses that can make transition to a human host. However, the virus has different symptoms in humans. It takes one to ten viruses to infect a human but there can be millions in a drop of blood from someone very sick from the disease. Transmission is believed to be by contact with the blood and body fluids of those infected with the virus, as well as by handling raw bushmeat such as bats and monkeys, which are important sources of protein in West Africa. Infectious body fluids include blood, sweat, semen, breast milk, saliva, tears, feces, urine, vaginal secretions, vomit, and diarrhea.",
+            "score": 191.9790496826172
+        },
+        {
+            "docid": "58743_13",
+            "document": "Marburg virus disease . The natural maintenance hosts of marburg viruses remain to be identified unequivocally. However, the isolation of both MARV and RAVV from bats and the association of several MVD outbreaks with bat-infested mines or caves strongly suggests that bats are involved in marburg virus transmission to humans. Avoidance of contact with bats and abstaining from visits to caves is highly recommended, but may not be possible for those working in mines or people dependent on bats as a food source.",
+            "score": 190.8842315673828
+        },
+        {
+            "docid": "8316420_18",
+            "document": "Hammer-headed bat . The hammer-headed bat is one of three species of African fruit bat that are thought to serve as reservoirs for the Ebola virus. Although antibodies against Ebola virus and fragments of viral RNA have been isolated from these bats, the virus itself has not been, so other species might be more important in its transmission. As of mid-2017, it is not known whether these bats are incidental hosts or a reservoir of Ebola virus infection for humans and other terrestrial mammals.",
+            "score": 190.406494140625
+        },
+        {
+            "docid": "41663399_6",
+            "document": "Bat-borne virus . Bats harbor more viruses than rodents and are capable of spreading disease over a wider geographic area owing to their ability to fly and their migration and roosting patterns. In addition, certain species of bat, like the brown bat, favor roosts in attic spaces of human dwellings from which they often invade spaces in other parts of the structure. This brings them into contact with humans. Rodents, on the other hand, are more confined to their geographic location and seek seasonal shelter in underground burrows and in human dwellings and buildings in the immediate area.",
+            "score": 190.378662109375
+        },
+        {
+            "docid": "6943464_10",
+            "document": "Black flying fox . Negative public perception of the species has intensified with the discovery of three recently emerged zoonotic viruses that are potentially fatal to humans: Australian bat lyssavirus, Hendra virus, and Menangle virus. However, only Australian bat lyssavirus is known from two isolated cases to be directly transmissible from bats to humans.",
+            "score": 190.1273193359375
+        },
+        {
+            "docid": "3345164_57",
+            "document": "Pteropus . Nipah virus was first identified in 1998 in Malaysia. Since 1998, there have been several Nipah outbreaks in Malaysia, Singapore, India, and Bangladesh, resulting in over 100 casualties. A 2018 outbreak in Kerala, India resulted in 19 humans infected, of which 17 died. The overall fatality rate is 40-75%. Humans can contract Nipah virus from direct contact with flying foxes or their fluids, through exposure to an intermediate host such as domestic pigs, or from contact with an infected person. A 2014 study of the Indian flying fox and Nipah virus found that while Nipah virus outbreaks are more likely in areas preferred by flying foxes, \"the presence of bats in and of itself is not considered a risk factor for Nipah virus infection.\" Rather, the consumption of date palm sap is a significant route of transmission. The practice of date palm sap collection involves placing collecting pots at date palm trees. Indian flying foxes have been observed licking the sap as it flows into the pots, as well as defecating and urinating in proximity to the pots. In this way, humans who drink the palm sap can be exposed to the bats' viruses. The use of bamboo skirts on collecting pots lowers the risk of contamination from bat fluids.",
+            "score": 187.85752868652344
+        },
+        {
+            "docid": "4313919_16",
+            "document": "Grey-headed flying fox . Grey-headed flying foxes are exposed to several threats, including loss of foraging and roosting habitat, competition with the black flying fox, and mass die-offs caused by extreme temperature events. When present in urban environments, grey-headed flying foxes are sometimes perceived as a nuisance. Cultivated orchard fruits are also taken, but apparently only at times when other food items are scarce. Because their roosting and foraging habits bring the species into conflict with humans, they suffer from direct killing of animals in orchards and harassment and destruction of roosts. Negative public perception of the species has intensified with the discovery of three recently emerged zoonotic viruses that are potentially fatal to humans: Hendra virus, Australian bat lyssavirus and Menangle virus. However, only Australian bat lyssavirus is known from two isolated cases to be directly transmissible from bats to humans. No person has ever died from ABLV (Lyssavirus) after having had the ABLV post-exposure vaccine.",
+            "score": 187.12210083007812
+        },
+        {
+            "docid": "86367_9",
+            "document": "Megabat . Fruit bats have been found to act as reservoirs for ebola virus, though the bats themselves sometimes have no signs of infection. Three species of bats have tested positive for ebola, but had no symptoms of the virus. This indicates that the bats may be acting as a reservoir for the virus. Of the infected animals identified during these field collections, immunoglobulin G (IgG) specific for ebola virus was detected in hammer-headed bats, Franquet's epauletted fruit bats, and little collared fruit bats.",
+            "score": 187.08587646484375
+        }
+    ]
+}

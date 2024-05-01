@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "22817589_29",
+            "document": "Pandemic H1N1/09 virus . Pigs are susceptible to influenza viruses that can also infect both humans and birds, so they may act as a \"mixing vessel\" in which reassortment can occur between flu viruses of several species. Reassortment is a process that happens if two different types of influenza virus infect a single cell and it can produce a new strain of influenza. This is because the virus genome is split between eight independent pieces of RNA, which allows pieces of RNA from different viruses to mix and form a novel type of virus as new virus particles are being assembled. This new strain appears to be a result of the reassortment of two swine influenza viruses, one from North America and one from Europe. But the North American pig strain was itself the product of previous reassortments, and has carried an avian PB2 gene for at least ten years and a human PB1 gene since 1993. These genes were passed on to the new virus.",
+            "score": 335.86162626743317
+        },
+        {
+            "docid": "440479_20",
+            "document": "Influenza A virus . The central core of a virion contains the viral genome and other viral proteins that package and protect the genetic material. Unlike the genomes of most organisms (including humans, animals, plants, and bacteria) which are made up of double-stranded DNA, many viral genomes are made up of a different, single-stranded nucleic acid called RNA. Unusually for a virus, though, the influenza type A virus genome is not a single piece of RNA; instead, it consists of segmented pieces of negative-sense RNA, each piece containing either one or two genes which code for a gene product (protein). The term negative-sense RNA just implies that the RNA genome cannot be translated into protein directly; it must first be transcribed to positive-sense RNA before it can be translated into protein products. The segmented nature of the genome allows for the exchange of entire genes between different viral strains.",
+            "score": 206.695081949234
+        },
+        {
+            "docid": "25765_35",
+            "document": "RNA world . This model for the early sexual cycle is hypothetical, but it is very similar to the known sexual behavior of the segmented RNA viruses, which are among the simplest organisms known. Influenza virus, whose genome consists of 8 physically separated single-stranded RNA segments, is an example of this type of virus. In segmented RNA viruses, \u201cmating\u201d can occur when a host cell is infected by at least two virus particles. If these viruses each contain an RNA segment with a lethal damage, multiple infection can lead to reactivation providing that at least one undamaged copy of each virus gene is present in the infected cell. This phenomenon is known as \u201cmultiplicity reactivation\u201d. Multiplicity reactivation has been reported to occur in influenza virus infections after induction of RNA damage by UV-irradiation, and ionizing radiation.",
+            "score": 227.32096469402313
+        },
+        {
+            "docid": "46270727_5",
+            "document": "Wendy Barclay . At the start of her research career, Barclay worked with both rhinoviruses and various types of small RNA viruses. Barclay has worked mainly with the three types of virus: Influenza A virus, Influenzavirus B, and Influenzavirus C. All three belong to the orthomyxoviridae family. Viruses that belong to this family are single stranded (-) RNA viruses that replicate within the nucleus of the host's cells. Influenza types A and B are routinely spread from human to human, and they are responsible for seasonal flu epidemics each year. Influenza type C virus causes mild respiratory infections and are not known to cause epidemics, unlike the other two. Barclay has worked intensively with Influenza A and Influenza B viruses for at least a decade. She has published many articles detailing the importance of understanding how influenza viruses interact with their hosts, understanding their genomic makeup, and understanding how different strains of the two viruses interact with host cells differently.",
+            "score": 211.11356365680695
+        },
+        {
+            "docid": "453608_6",
+            "document": "Reoviridae . Viruses in the family Reoviridae have genomes consisting of segmented, double-stranded RNA (dsRNA). Because of this, replication occurs exclusively in the cytoplasm and the virus encodes several proteins which are needed for replication and conversion of the dsRNA genome into (+)-RNAs. The virus can enter the host cell via a receptor on the cell surface. The receptor is not known but is thought to include sialic acid and junctional adhesion molecules (JAMs). The virus is partially uncoated by proteases in the endolysosome, where the capsid is partially digested to allow further cell entry. The core particle then enters the cytoplasm by a yet unknown process where the genome is transcribed conservatively causing an excess of (+) sense strands, which are used as mRNA templates to synthesize (\u2212) sense strands. Viral particles begin to assemble in the cytoplasm 6\u20137 hours after infection. Translation takes place by leaky scanning, suppression of termination, and ribosomal skipping. The virus exits the host cell by monopartite non-tubule guided viral movement, cell to cell movement, and existing in occlusion bodies after cell death and remaining infectious until finding another host. Multiplicity reactivation (MR) is the process by which 2 or more virus genomes, each containing inactivating genome damage, can interact within an infected cell to form a viable virus genome. McClain and Spendlove demonstrated MR for three types of reovirus after exposure to ultraviolet irradiation. In their experiments, reovirus particles were exposed to doses of UV-light that would be lethal in single infections. However, when two or more inactivated viruses were allowed to infect individual host cells MR occurred and viable progeny were produced. As they stated, multiplicity reactivation by definition involves some type of repair. Michod et al. reviewed numerous examples of MR in different viruses, and suggested that MR is a common form of sexual interaction in viruses that provides the benefit of recombinational repair of genome damages.",
+            "score": 234.1337571144104
+        },
+        {
+            "docid": "5951626_14",
+            "document": "Antigenic variation . The antigenic properties of influenza viruses are determined by both hemagglutinin and neuraminidase. Specific host proteases cleave the single peptide HA into two subunits HA1 and HA2. The virus becomes highly virulent if the amino acids at the cleavage sites are lipophilic. Selection pressure in the environment selects for antigenic changes in the antigen determinants of HA, that includes places undergoing adaptive evolution and in antigenic locations undergoing substitutions, which ultimately results in changes in the antigenicity of the virus. Glycosylation of HA does not correlate with either the antigenicity or the selection pressure. Antigenic variation may be classified into two types, antigenic drift that results from a change in few amino acids and antigenic shift which is the outcome of acquiring new structural proteins. A new vaccine is required every year because influenza virus has the ability to undergo antigenic drift. Antigenic shift occurs periodically when the genes for structural proteins are acquired from other animal hosts resulting in a sudden dramatic change in viral genome. Recombination between segments that encode for hemagglutinin and neuraminidase of avian and human influenza virus segments have resulted in worldwide influenza epidemics called pandemics such as the Asian flu of 1957 when 3 genes from Eurasian avian viruses were acquired and underwent reassortment with 5 gene segments of the circulating human strains. Another example comes from the 1968 Hong Kong flu which acquired 2 genes by reassortment from Eurasian avian viruses with the 6 gene segments from circulating human strains.",
+            "score": 262.7894397974014
+        },
+        {
+            "docid": "440479_25",
+            "document": "Influenza A virus . Upon infection, influenza virus induces a host response involving increased production of reactive oxygen species, and this can damage the virus genome. If, under natural conditions, virus survival is ordinarily vulnerable to the challenge of oxidative damage, then multiplicity reactivation is likely selectively advantageous as a kind of genomic repair process. It has been suggested that multiplicity reactivation involving segmented RNA genomes may be similar to the earliest evolved form of sexual interaction in the RNA world that likely preceded the DNA world. (Also see RNA world hypothesis.)",
+            "score": 166.96078419685364
+        },
+        {
+            "docid": "1019908_24",
+            "document": "Influenza A virus subtype H5N1 . Influenza viruses have a relatively high mutation rate that is characteristic of RNA viruses. The segmentation of its genome facilitates genetic recombination by segment reassortment in hosts infected with two different influenza viruses at the same time. A previously uncontagious strain may then be able to pass between humans, one of several possible paths to a pandemic.",
+            "score": 328.3560755252838
+        },
+        {
+            "docid": "19572217_17",
+            "document": "Influenza . Influenzaviruses A, B and C are very similar in overall structure. The virus particle is 80\u2013120 nanometers in diameter and usually roughly spherical, although filamentous forms can occur. These filamentous forms are more common in influenza C, which can form cordlike structures up to 500\u00a0micrometers long on the surfaces of infected cells. However, despite these varied shapes, the viral particles of all influenza viruses are similar in composition. These are made of a viral envelope containing two main types of glycoproteins, wrapped around a central core. The central core contains the viral RNA genome and other viral proteins that package and protect this RNA. RNA tends to be single stranded but in special cases it is double. Unusually for a virus, its genome is not a single piece of nucleic acid; instead, it contains seven or eight pieces of segmented negative-sense RNA, each piece of RNA containing either one or two genes, which code for a gene product (protein). For example, the influenza A genome contains 11 genes on eight pieces of RNA, encoding for 11 proteins: hemagglutinin (HA), neuraminidase (NA), nucleoprotein (NP), M1, M2, NS1, NS2 (NEP: nuclear export protein), PA, PB1 (polymerase basic 1), PB1-F2 and PB2.",
+            "score": 188.58818781375885
+        },
+        {
+            "docid": "22585743_3",
+            "document": "Recombinant virus . It is also used to refer to naturally occurring recombination between virus genomes in a cell infected by more than one virus strain. This occurs either by homologous crossing over of the nucleic acid strands or by reassortment of genomic segments. Both these and mutation within the virus have been suggested as ways in which influenza and other viruses evolve. An example of a recombinant virus is Western equine encephalitis virus (WEE), which is a recombinant virus between two other closely related yet distinct encephalitis viruses. In addition, reassortment is most important for pandemic influenza viruses.",
+            "score": 324.89839458465576
+        },
+        {
+            "docid": "19167679_29",
+            "document": "Virus . Viral genomes are \"circular\", as in the polyomaviruses, or \"linear\", as in the adenoviruses. The type of nucleic acid is irrelevant to the shape of the genome. Among RNA viruses and certain DNA viruses, the genome is often divided up into separate parts, in which case it is called segmented. For RNA viruses, each segment often codes for only one protein and they are usually found together in one capsid. All segments are not required to be in the same virion for the virus to be infectious, as demonstrated by brome mosaic virus and several other plant viruses.",
+            "score": 162.580500125885
+        },
+        {
+            "docid": "1019908_27",
+            "document": "Influenza A virus subtype H5N1 . Both the H2N2 and H3N2 pandemic strains contained avian influenza virus RNA segments. \"While the pandemic human influenza viruses of 1957 (H2N2) and 1968 (H3N2) clearly arose through reassortment between human and avian viruses, the influenza virus causing the 'Spanish flu' in 1918 appears to be entirely derived from an avian source\".",
+            "score": 225.55274713039398
+        },
+        {
+            "docid": "4697208_20",
+            "document": "H5N1 genetic structure . Influenza A viruses have 10 genes on eight separate RNA molecules, which, for the reasons mentioned above, are named PB2, PB1, PA, HA, NP, NA, M, and NS. HA, NA, and M specify the structure of proteins that are most medically relevant as targets for antiviral drugs and antibodies. (An eleventh recently discovered gene called PB1-F2 sometimes creates a protein but is absent from some influenza virus isolates.) This segmentation of the influenza genome facilitates genetic recombination by segment reassortment in hosts who are infected with two different influenza viruses at the same time. Influenza A virus is the only species in the Influenzavirus A genus of the Orthomyxoviridae family and are negative sense, single-stranded, segmented RNA viruses.",
+            "score": 242.95060896873474
+        },
+        {
+            "docid": "2957254_7",
+            "document": "Influenza A virus subtype H2N2 . Both the H2N2 and H3N2 pandemic strains contained avian influenza virus RNA segments. \"While the pandemic human influenza viruses of 1957 (H2N2) and 1968 (H3N2) clearly arose through reassortment between human and avian viruses, the influenza virus causing the 'Spanish flu' in 1918 appears to be entirely derived from an avian source (Belshe 2005).\"",
+            "score": 223.82476723194122
+        },
+        {
+            "docid": "35713622_13",
+            "document": "N6-Methyladenosine . Additionally, mA has been reported to impact viral infections. Many RNA viruses including SV40, adenovirus, herpes virus, Rous sarcoma virus, and influenza virus have been known to contain the internal mA methylation on virus genomic RNA. Several more recent studies have revealed that mA regulators govern the efficiency of infection and replication of RNA viruses such as human immunodeficiency virus (HIV), hepatitis C virus (HCV), and Zika virus (ZIKV). These results suggest mA and its cognate factors play crucial roles in regulating virus life cycle and host-viral interactions.",
+            "score": 162.59786534309387
+        },
+        {
+            "docid": "38203359_19",
+            "document": "Reverse genetics . A common way to create a vaccine using reverse genetic techniques is to utilize plasmids to synthesize attenuated viruses. This technique is most commonly used in the yearly production of influenza vaccines, where an eight plasmid system can rapidly produce an effective vaccine. The entire genome of the influenza A virus consists of eight RNA segments, so the combination of six attenuated viral cDNA plasmids with two wild-type plasmids allow for an attenuated vaccine strain to be constructed. For the development of influenza vaccines, the fourth and sixth RNA segments, encoding for the hemagglutinin and neuraminidase proteins respectively, are taken from the circulating virus, while the other six segments are derived from a previously attenuated master strain. The HA and NA proteins exhibit high antigen variety, and therefore are taken from the current strain for which the vaccine is being produced to create a well matching vaccine.",
+            "score": 244.54083502292633
+        },
+        {
+            "docid": "19572217_25",
+            "document": "Influenza . Because of the absence of RNA proofreading enzymes, the RNA-dependent RNA polymerase that copies the viral genome makes an error roughly every 10 thousand nucleotides, which is the approximate length of the influenza vRNA. Hence, the majority of newly manufactured influenza viruses are mutants; this causes antigenic drift, which is a slow change in the antigens on the viral surface over time. The separation of the genome into eight separate segments of vRNA allows mixing or reassortment of vRNAs if more than one type of influenza virus infects a single cell. The resulting rapid change in viral genetics produces antigenic shifts, which are sudden changes from one antigen to another. These sudden large changes allow the virus to infect new host species and quickly overcome protective immunity. This is important in the emergence of pandemics, as discussed below in the section on Epidemiology.",
+            "score": 286.55230617523193
+        },
+        {
+            "docid": "28023098_2",
+            "document": "Influenza virus pseudoknot . The Influenza virus pseudoknot is an RNA pseudoknot structure formed in one of the non-structural coding segments (NS) of influenza virus genome. Pseudoknots are commonly found in viral genomes, especially RNA viruses, where they incorporate an RNA splice site and can have a wide range of functions. The orientation of the coaxially stacked stems in the influenza pseudoknot, however, differs from the most common topology in \"classical\" RNA pseudoknots.",
+            "score": 158.43919014930725
+        },
+        {
+            "docid": "532906_26",
+            "document": "Orthomyxoviridae . Since RNA proofreading enzymes are absent, the RNA-dependent RNA transcriptase makes a single nucleotide insertion error roughly every 10 thousand nucleotides, which is the approximate length of the influenza vRNA. Hence, nearly every newly manufactured influenza virus will contain a mutation in its genome. The separation of the genome into eight separate segments of vRNA allows mixing (reassortment) of the genes if more than one variety of influenza virus has infected the same cell (superinfection). The resulting alteration in the genome segments packaged into viral progeny confers new behavior, sometimes the ability to infect new host species or to overcome protective immunity of host populations to its old genome (in which case it is called an antigenic shift).",
+            "score": 246.29536414146423
+        },
+        {
+            "docid": "4697208_27",
+            "document": "H5N1 genetic structure . Both the H2N2 and H3N2 pandemic strains contained avian influenza virus RNA segments. \"While the pandemic human influenza viruses of 1957 (H2N2) and 1968 (H3N2) clearly arose through reassortment between human and avian viruses, the influenza virus causing the 'Spanish flu' in 1918 appears to be entirely derived from an avian source\".",
+            "score": 246.27536702156067
+        },
+        {
+            "docid": "1236146_2",
+            "document": "Reassortment . Reassortment is the mixing of the genetic material of a species into new combinations in different individuals. Several different processes contribute to reassortment, including assortment of chromosomes, and chromosomal crossover. It is particularly used when two similar viruses that are infecting the same cell exchange genetic material. In particular, reassortment occurs among influenza viruses, whose genomes consist of eight distinct segments of RNA. These segments act like mini-chromosomes, and each time a flu virus is assembled, it requires one copy of each segment.",
+            "score": 343.835542678833
+        },
+        {
+            "docid": "43387456_3",
+            "document": "Hazara virus . The Hazara virus is part of the genus \"Orthonairovirus\" of the \"Bunyavirales\" order of viruses, which are an order of enveloped negative-stranded RNA viruses with a genome split into three parts\u2014Small (S), Middle (M) and Large (L). The L RNA segment encodes an RNA-dependent RNA polymerase (L protein), the M RNA segment encodes two surface glycoproteins (Gc and Gn), and the S RNA segment encodes a nucleocapsid protein (N). The three genomic RNA segments are encapsidated by copies of the N protein in the form of ribonucleoprotein (RNP) complexes. The N protein is the most abundant viral protein in \"Bunyaviridae\" virus particles and infected cells and, therefore, the main target in many serological and molecular diagnostics.",
+            "score": 179.81554675102234
+        },
+        {
+            "docid": "624313_22",
+            "document": "Mating system . Both animal viruses and bacterial viruses (bacteriophage) are able to undergo mating. When a cell is mixedly infected by two genetically marked viruses, recombinant virus progeny are often observed indicating that mating interaction had occurred at the DNA level. Another manifestation of mating between viral genomes is multiplicity reactivation (MR). MR is the process by which at least two virus genomes, each containing inactivating genome damage, interact with each other in an infected cell to form viable progeny viruses. The genes required for MR in bacteriophage T4 are largely the same as the genes required for allelic recombination. Examples of MR in animal viruses are described in the articles \"Herpes simplex virus\", \"Influenza A virus\", \"Adenoviridae\", \"Simian virus 40\", \"Vaccinia virus\", and \"Reoviridae\".",
+            "score": 213.92802703380585
+        },
+        {
+            "docid": "19167679_34",
+            "document": "Virus . Viruses undergo genetic change by several mechanisms. These include a process called antigenic drift where individual bases in the DNA or RNA mutate to other bases. Most of these point mutations are \"silent\"\u00a0\u2013 they do not change the protein that the gene encodes\u00a0\u2013 but others can confer evolutionary advantages such as resistance to antiviral drugs. Antigenic shift occurs when there is a major change in the genome of the virus. This can be a result of recombination or reassortment. When this happens with influenza viruses, pandemics might result. RNA viruses often exist as quasispecies or swarms of viruses of the same species but with slightly different genome nucleoside sequences. Such quasispecies are a prime target for natural selection.",
+            "score": 228.4754695892334
+        },
+        {
+            "docid": "44794841_5",
+            "document": "Bourbon virus . Bourbon virus is a type of thogotovirus, which is in the RNA virus family \"Orthomyxoviridae\". The virus particles show different morphologies, including filamentous and roughly spherical forms, and have projections from the surface. The spherical virions have a range of diameters, with broadly 100\u2013130\u00a0nm being common. Virus was present at high levels in the extracellular space, with occasional particles being observed in the process of endocytosis. Like other members of the \"Orthomyxoviridae\", the Bourbon virus genome is single-stranded, negative-sense RNA, which is segmented, or divided into a number of separate pieces. It has at least six segments. Bourbon virus is most similar in RNA sequence to Dhori virus and the closely related Batken virus, both members of the genus \"Thogotovirus\", but has diverged substantially from these viruses. Dhori and Batken viruses have only been reported in the Eastern hemisphere.",
+            "score": 129.7488853931427
+        },
+        {
+            "docid": "440479_24",
+            "document": "Influenza A virus . Influenza virus is able to undergo multiplicity reactivation after inactivation by UV radiation, or by ionizing radiation. If any of the eight RNA strands that make up the genome contains damage that prevents replication or expression of an essential gene, the virus is not viable when it alone infects a cell (a single infection). However, when two or more damaged viruses infect the same cell (multiple infection), viable progeny viruses can be produced provided each of the eight genomic segments is present in at least one undamaged copy. That is, multiplicity reactivation can occur.",
+            "score": 229.60664200782776
+        },
+        {
+            "docid": "46181852_13",
+            "document": "Negative-sense single-stranded RNA virus . Negative-strand RNA viruses (NSV) can be classified into 21 distinct families. The families consisting of nonsegmented genomes include Rhabdo-, Paramyxo-, Filo- and Borna-. Orthomyxo-, Bunya-, Arenaviridae- contain genomes of six to eight, three, or two negative-sense RNA segments, respectively. Many highly prevalent human pathogens such as the respiratory syncytial virus (RSV), parainfluenza viruses, influenza viruses, Ebola virus, Marburg virus are included within the NSV. The life cycle of NSV has a number of steps. The virus first infects the host cell by binding to the host cell receptor through a viral surface glycoprotein. The fusion of the glycoprotein viral membrane with the plasma membrane of the host cell in an acidic environment allows for the release of viral ribonucleoprotein (RNP) complexes into the cytoplasm. Most NSV replicate in the cytoplasm of infected cells. Newly synthesized RNP complexes are assembled with viral structural proteins at the plasma membrane or at membranes of the Golgi apparatus. This is all followed by the release of the newly synthesized viruses.",
+            "score": 198.8024616241455
+        },
+        {
+            "docid": "661661_59",
+            "document": "Evolution of sexual reproduction . Sex might also have been present even earlier, in the hypothesized RNA world that preceded DNA cellular life forms. One proposed origin of sex in the RNA world was based on the type of sexual interaction that is known to occur in extant single-stranded segmented RNA viruses, such as influenza virus, and in extant double-stranded segmented RNA viruses such as reovirus.",
+            "score": 114.67648506164551
+        },
+        {
+            "docid": "22817589_3",
+            "document": "Pandemic H1N1/09 virus . The virus is a novel strain of influenza. Existing vaccines against seasonal flu provided no protection. A study at the U.S. Centers for Disease Control and Prevention (CDC) published in May 2009 found that children had no preexisting immunity to the new strain but that adults, particularly those over 60, had some degree of immunity. Children showed no cross-reactive antibody reaction to the new strain, adults aged 18 to 64 had 6\u20139%, and older adults 33%. Much reporting of early analysis repeated that the strain contained genes from five different flu viruses: North American swine influenza, North American avian influenza, human influenza, and two swine influenza viruses typically found in Asia and Europe. Further analysis showed that several of the proteins of the virus are most similar to strains that caused mild symptoms in humans, leading virologist Wendy Barclay to suggest that the virus was unlikely to cause severe symptoms for most people. Other leading researchers indicated that all segments of the virus were in fact swine in origin, despite it being a multiple reassortment. The first complete genome sequence of the pandemic strain was deposited in public databases on April 27, 2009, by scientists from the U.S. Centers for Disease Control and Prevention in Atlanta. Scientists in Winnipeg later completed the full genetic sequencing of viruses from Mexico and Canada on May 6, 2009.",
+            "score": 282.74969494342804
+        },
+        {
+            "docid": "5274548_7",
+            "document": "Spanish flu research . Influenza viruses have a relatively high mutation rate that is characteristic of RNA viruses. The H5N1 virus has mutated into a variety of types with differing pathogenic profiles; some pathogenic to one species but not others, some pathogenic to multiple species. The ability of various influenza strains to show species-selectivity is largely due to variation in the hemagglutinin genes. Genetic mutations in the hemagglutinin gene that cause single amino acid substitutions can significantly alter the ability of viral hemagglutinin proteins to bind to receptors on the surface of host cells. Such mutations in avian H5N1 viruses can change virus strains from being inefficient at infecting human cells to being as efficient in causing human infections as more common human influenza virus types.",
+            "score": 233.50319957733154
+        },
+        {
+            "docid": "532906_21",
+            "document": "Orthomyxoviridae . The influenza A virus particle or \"virion\" is 80\u2013120\u00a0nm in diameter and usually roughly spherical, although filamentous forms can occur. Unusually for a virus, the influenza A genome is not a single piece of nucleic acid; instead, it contains eight pieces of segmented negative-sense RNA (13.5 kilobases total), which encode 11 proteins (HA, NA, NP, M1, M2, NS1, NEP, PA, PB1, PB1-F2, PB2). The best-characterised of these viral proteins are hemagglutinin and neuraminidase, two large glycoproteins found on the outside of the viral particles. Neuraminidase is an enzyme involved in the release of progeny virus from infected cells, by cleaving sugars that bind the mature viral particles. By contrast, hemagglutinin is a lectin that mediates binding of the virus to target cells and entry of the viral genome into the target cell. The hemagglutinin (H) and neuraminidase (N) proteins are targets for antiviral drugs. These proteins are also recognised by antibodies, i.e. they are antigens. The responses of antibodies to these proteins are used to classify the different serotypes of influenza A viruses, hence the \"H\" and \"N\" in \"H5N1\".",
+            "score": 202.8373602628708
+        },
+        {
+            "docid": "14579421_17",
+            "document": "Introduction to viruses . In some species of RNA virus, the genes are not on a continuous molecule of RNA, but are separated. The influenza virus, for example, has eight separate genes made of RNA. When two different strains of influenza virus infect the same cell, these genes can mix and produce new strains of the virus in a process called reassortment.",
+            "score": 256.38728523254395
+        }
+    ],
+    "r": [
+        {
+            "docid": "24968742_4",
+            "document": "Evolution of influenza . Reassortment, also known as antigenic shift, allows new viruses to evolve under both natural conditions and in artificial cultures. Reassortment occurs in similar fashion as chromosome crossover events, as two different viral strains may come in contact and transfer some of their genetic information. This crossing-over event creates a mixture of the two viral strains, which may replicate as one hybrid virus that expresses traits from both original viruses. The mechanism of the evolutionary force of antigenic shift allows influenza viruses to exchange genes with strains that infect different species. Under this mechanism, a human influenza virus could exchange genes with an avian strain, and that is how pandemic strains arise. There have been three occurrences of pandemics caused by antigenic shift since 1900, and it could just as easily happen again. In fact, the 1957 evolution of the H2N2 virus is thought to be a result of reassortment. In this case, human H1N1 strains and avian influenza A genes were mixed. Infecting tissue cultures can demonstrate how pathogenic qualities can evolve for a particular species even though the reassorted virus may be nonpathogenic for another species. A prime example of evolution under natural conditions is the reassortment of two avian influenza strains that were discovered in dead seals back in 1979.",
+            "score": 356.1877136230469
+        },
+        {
+            "docid": "1236146_2",
+            "document": "Reassortment . Reassortment is the mixing of the genetic material of a species into new combinations in different individuals. Several different processes contribute to reassortment, including assortment of chromosomes, and chromosomal crossover. It is particularly used when two similar viruses that are infecting the same cell exchange genetic material. In particular, reassortment occurs among influenza viruses, whose genomes consist of eight distinct segments of RNA. These segments act like mini-chromosomes, and each time a flu virus is assembled, it requires one copy of each segment.",
+            "score": 343.8355407714844
+        },
+        {
+            "docid": "22817589_29",
+            "document": "Pandemic H1N1/09 virus . Pigs are susceptible to influenza viruses that can also infect both humans and birds, so they may act as a \"mixing vessel\" in which reassortment can occur between flu viruses of several species. Reassortment is a process that happens if two different types of influenza virus infect a single cell and it can produce a new strain of influenza. This is because the virus genome is split between eight independent pieces of RNA, which allows pieces of RNA from different viruses to mix and form a novel type of virus as new virus particles are being assembled. This new strain appears to be a result of the reassortment of two swine influenza viruses, one from North America and one from Europe. But the North American pig strain was itself the product of previous reassortments, and has carried an avian PB2 gene for at least ten years and a human PB1 gene since 1993. These genes were passed on to the new virus.",
+            "score": 335.86163330078125
+        },
+        {
+            "docid": "1019908_24",
+            "document": "Influenza A virus subtype H5N1 . Influenza viruses have a relatively high mutation rate that is characteristic of RNA viruses. The segmentation of its genome facilitates genetic recombination by segment reassortment in hosts infected with two different influenza viruses at the same time. A previously uncontagious strain may then be able to pass between humans, one of several possible paths to a pandemic.",
+            "score": 328.3560791015625
+        },
+        {
+            "docid": "4697208_24",
+            "document": "H5N1 genetic structure . Influenza viruses have a relatively high mutation rate that is characteristic of RNA viruses. The segmentation of the influenza genome facilitates genetic recombination by segment reassortment in hosts who are infected with two different influenza viruses at the same time. H5N1 viruses can reassort genes with other strains that co-infect a host organism, such as a pig, bird, or human, and mutate into a form that can pass easily among humans. This is one of many possible paths to a pandemic.",
+            "score": 328.138916015625
+        },
+        {
+            "docid": "22585743_3",
+            "document": "Recombinant virus . It is also used to refer to naturally occurring recombination between virus genomes in a cell infected by more than one virus strain. This occurs either by homologous crossing over of the nucleic acid strands or by reassortment of genomic segments. Both these and mutation within the virus have been suggested as ways in which influenza and other viruses evolve. An example of a recombinant virus is Western equine encephalitis virus (WEE), which is a recombinant virus between two other closely related yet distinct encephalitis viruses. In addition, reassortment is most important for pandemic influenza viruses.",
+            "score": 324.8984069824219
+        },
+        {
+            "docid": "19572217_58",
+            "document": "Influenza . Roughly three times per century, a pandemic occurs, which infects a large proportion of the world's population and can kill tens of millions of people (see pandemics section). One study estimated that if a strain with similar virulence to the 1918 influenza emerged today, it could kill between 50 and 80 million people. New influenza viruses are constantly evolving by mutation or by reassortment. Mutations can cause small changes in the hemagglutinin and neuraminidase antigens on the surface of the virus. This is called antigenic drift, which slowly creates an increasing variety of strains until one evolves that can infect people who are immune to the pre-existing strains. This new variant then replaces the older strains as it rapidly sweeps through the human population, often causing an epidemic. However, since the strains produced by drift will still be reasonably similar to the older strains, some people will still be immune to them. In contrast, when influenza viruses reassort, they acquire completely new antigens\u2014for example by reassortment between avian strains and human strains; this is called antigenic shift. If a human influenza virus is produced that has entirely new antigens, everybody will be susceptible, and the novel influenza will spread uncontrollably, causing a pandemic. In contrast to this model of pandemics based on antigenic drift and shift, an alternative approach has been proposed where the periodic pandemics are produced by interactions of a fixed set of viral strains with a human population with a constantly changing set of immunities to different viral strains.",
+            "score": 309.65716552734375
+        },
+        {
+            "docid": "440479_39",
+            "document": "Influenza A virus . In the short-term evolution of influenza A virus, a 2006 study found that stochastic, or random, processes are key factors. Influenza A virus HA antigenic evolution appears to be characterized more by punctuated, sporadic jumps as opposed to a constant rate of antigenic change. Using phylogenetic analysis of 413 complete genomes of human influenza A viruses that were collected throughout the state of New York, the authors of Nelson et al. 2006 were able to show that genetic diversity, and not antigenic drift, shaped the short-term evolution of influenza A via random migration and reassortment. The evolution of these viruses is dominated more by the random importation of genetically different viral strains from other geographic locations and less by natural selection. Within a given season, adaptive evolution is infrequent and had an overall weak effect as evidenced from the data gathered from the 413 genomes. Phylogenetic analysis revealed the different strains were derived from newly imported genetic material as opposed to isolates that had been circulating in New York in previous seasons. Therefore, the gene flow in and out of this population, and not natural selection, was more important in the short term.",
+            "score": 298.9300231933594
+        },
+        {
+            "docid": "87175_6",
+            "document": "Herd immunity . Herd immunity itself acts as an evolutionary pressure on certain viruses, influencing viral evolution by encouraging the production of novel strains, in this case referred to as escape mutants, that are able to \"escape\" from herd immunity and spread more easily. At the molecular level, viruses escape from herd immunity through antigenic drift, which is when mutations accumulate in the portion of the viral genome that encodes for the virus's surface antigen, typically a protein of the virus capsid, producing a change in the viral epitope. Alternatively, the reassortment of separate viral genome segments, or antigenic shift, which is more common when there are more strains in circulation, can also produce new serotypes. When either of these occur, memory T cells no longer recognize the virus, so people are not immune to the dominant circulating strain. For both influenza and norovirus, epidemics temporarily induce herd immunity until a new dominant strain emerges, causing successive waves of epidemics. As this evolution poses a challenge to herd immunity, broadly neutralizing antibodies and \"universal\" vaccines that can provide protection beyond a specific serotype are in development.",
+            "score": 295.47296142578125
+        },
+        {
+            "docid": "2366736_5",
+            "document": "Oropouche fever . Genetic reassortment is said to be one of the most important mechanisms in explaining the viral biodiversity in orthobunyaviruses. This occurs when two genetically related viruses infect the same cell at the same time forming a progeny virus and this virus holds various components of genetic L, M and S segments from the two parental viruses. In reassortment, the S and L segments are the ones that are usually exchanged between species further, the S segment, that is coded by the nucleocapsid protein, and the L polymerase function together to create a replication of the viral genome. Due to this, one segment will restrict the molecular evolution of another segment and this is said to be inherited as a pair. On the contrary, the M segment codes for viral glycoproteins and these could be more prone to mutations due to a higher selective pressure in their coding region because these proteins are major host range determinants.",
+            "score": 289.37030029296875
+        },
+        {
+            "docid": "19572217_25",
+            "document": "Influenza . Because of the absence of RNA proofreading enzymes, the RNA-dependent RNA polymerase that copies the viral genome makes an error roughly every 10 thousand nucleotides, which is the approximate length of the influenza vRNA. Hence, the majority of newly manufactured influenza viruses are mutants; this causes antigenic drift, which is a slow change in the antigens on the viral surface over time. The separation of the genome into eight separate segments of vRNA allows mixing or reassortment of vRNAs if more than one type of influenza virus infects a single cell. The resulting rapid change in viral genetics produces antigenic shifts, which are sudden changes from one antigen to another. These sudden large changes allow the virus to infect new host species and quickly overcome protective immunity. This is important in the emergence of pandemics, as discussed below in the section on Epidemiology.",
+            "score": 286.55230712890625
+        },
+        {
+            "docid": "22817589_3",
+            "document": "Pandemic H1N1/09 virus . The virus is a novel strain of influenza. Existing vaccines against seasonal flu provided no protection. A study at the U.S. Centers for Disease Control and Prevention (CDC) published in May 2009 found that children had no preexisting immunity to the new strain but that adults, particularly those over 60, had some degree of immunity. Children showed no cross-reactive antibody reaction to the new strain, adults aged 18 to 64 had 6\u20139%, and older adults 33%. Much reporting of early analysis repeated that the strain contained genes from five different flu viruses: North American swine influenza, North American avian influenza, human influenza, and two swine influenza viruses typically found in Asia and Europe. Further analysis showed that several of the proteins of the virus are most similar to strains that caused mild symptoms in humans, leading virologist Wendy Barclay to suggest that the virus was unlikely to cause severe symptoms for most people. Other leading researchers indicated that all segments of the virus were in fact swine in origin, despite it being a multiple reassortment. The first complete genome sequence of the pandemic strain was deposited in public databases on April 27, 2009, by scientists from the U.S. Centers for Disease Control and Prevention in Atlanta. Scientists in Winnipeg later completed the full genetic sequencing of viruses from Mexico and Canada on May 6, 2009.",
+            "score": 282.74969482421875
+        },
+        {
+            "docid": "1236146_3",
+            "document": "Reassortment . If a single host (a human, a chicken, or other animal) is infected by two different strains of the influenza virus, then it is possible that new assembled viral particles will be created from segments whose origin is mixed, some coming from one strain and some coming from another. The new reassortant strain will share properties of both of its parental lineages.",
+            "score": 281.3022766113281
+        },
+        {
+            "docid": "198520_14",
+            "document": "Paramyxoviridae . Viruses in the \"Paramyxoviridae\" family are also antigenically stable, meaning that the glycoproteins on the viruses are consistent between different strains of the same type. There are two reasons for this phenomenon. The first is that the genome is non-segmented and thus cannot undergo genetic reassortment. In order for this process to occur, segments are needed as reassortment happens when segments from different strains are mixed together to create a new strain. With no segments, nothing can be mixed with one another and so there is no antigenic shift. The second reason relates to the idea of antigenic drift. Since RNA dependent RNA polymerase does not have an error checking function, many mutations are made when the RNA is processed. These mutations build up and eventually new strains are created. Due to this concept, one would expect that paramyxoviruses should not be antigenically stable; however, the opposite is seen to be true. The main hypothesis behind why the viruses are antigenically stable is that each protein and amino acid has an important function. Thus, any mutation would lead to a decrease or total loss of function, which would in turn cause the new virus to be less efficient. These viruses would not be able to survive as long compared to the more virulent strains, and so would die out.",
+            "score": 280.23980712890625
+        },
+        {
+            "docid": "24968742_11",
+            "document": "Evolution of influenza . All of these methods using historical data can help to diminish the effects of new influenza virus strains each flu season. By attempting to predict future mutations in HA and NA genes, scientists can choose vaccination strains that are likely to match future viruses, so antibodies can quickly recognize and mount an immune response against the virus. The one setback in this approach is that it is not useful against strains that evolve through antigenic shift (reassortment). It is impossible to predict when and with which strains these events will occur, and the fact that it could happen with strains from different species makes it all the more difficult. Until a method is found to accurately predict what mutations will arise and when they come about, vaccines will continue to be created purely on guesswork with no guarantee that they will provide total protection from influenza.",
+            "score": 269.79132080078125
+        },
+        {
+            "docid": "416954_10",
+            "document": "Viral evolution . Many viruses (for example, influenza A virus) can \"shuffle\" their genes with other viruses when two similar strains infect the same cell. This phenomenon is called genetic shift, and is often the cause of new and more virulent strains appearing. Other viruses change more slowly as mutations in their genes gradually accumulate over time, a process known as genetic drift.",
+            "score": 269.5847473144531
+        },
+        {
+            "docid": "24968742_10",
+            "document": "Evolution of influenza . Looking at the past phylogenetic relationships of the influenza virus can help lead to information regarding treatment, resistance, vaccine strain selection, and of future possible influenza strains. By looking at how previous strains have evolved and gained new traits, the information can be applied to predict how current strains can evolve and even how novel strains might come about. Another use of phylogeny for predicting future viral dangers would be through using phylogeography. Various lineages may continue their presence and reassort indicating the importance of a complete-genome approach to determine new influenza strains and future epidemics. By studying how past strains have evolved while spreading to different geographic regions can allow scientists to predict how a strain might accumulate new mutations through its geographic distribution and the information could be used to protect different populations.",
+            "score": 268.8550720214844
+        },
+        {
+            "docid": "5951626_14",
+            "document": "Antigenic variation . The antigenic properties of influenza viruses are determined by both hemagglutinin and neuraminidase. Specific host proteases cleave the single peptide HA into two subunits HA1 and HA2. The virus becomes highly virulent if the amino acids at the cleavage sites are lipophilic. Selection pressure in the environment selects for antigenic changes in the antigen determinants of HA, that includes places undergoing adaptive evolution and in antigenic locations undergoing substitutions, which ultimately results in changes in the antigenicity of the virus. Glycosylation of HA does not correlate with either the antigenicity or the selection pressure. Antigenic variation may be classified into two types, antigenic drift that results from a change in few amino acids and antigenic shift which is the outcome of acquiring new structural proteins. A new vaccine is required every year because influenza virus has the ability to undergo antigenic drift. Antigenic shift occurs periodically when the genes for structural proteins are acquired from other animal hosts resulting in a sudden dramatic change in viral genome. Recombination between segments that encode for hemagglutinin and neuraminidase of avian and human influenza virus segments have resulted in worldwide influenza epidemics called pandemics such as the Asian flu of 1957 when 3 genes from Eurasian avian viruses were acquired and underwent reassortment with 5 gene segments of the circulating human strains. Another example comes from the 1968 Hong Kong flu which acquired 2 genes by reassortment from Eurasian avian viruses with the 6 gene segments from circulating human strains.",
+            "score": 262.7894287109375
+        },
+        {
+            "docid": "22817589_14",
+            "document": "Pandemic H1N1/09 virus . Other experts are also concerned that the new virus strain could have mutated over the coming months. Guan Yi, a leading virologist from the University of Hong Kong, for instance, described the new H1N1 influenza virus as \"very unstable\", meaning it could mix and swap genetic material (reassortment) when exposed to other viruses. During an interview he said \"Both H1N1 and H5N1 are unstable so the chances of them exchanging genetic material are higher, whereas a stable (seasonal flu) virus is less likely to take on genetic material.\" The H5N1 virus is mostly limited to birds, but in rare cases when it infects humans it has a mortality rate of between 60% to 70%. Experts worry about the emergence of a hybrid of the more virulent Asian-lineage HPAI (highly pathogenic avian influenza) A/H5N1 strain (media labeled \"bird flu\") with more human-transmissible Influenza A strains such as this novel 2009 swine-origin A/H1N1 strain (media labeled \"swine flu\"), especially since the H5N1 strain is endemic among birds in countries like China, Indonesia, Vietnam and Egypt. (See the suite of H5N1 articles for details.)",
+            "score": 261.7917175292969
+        },
+        {
+            "docid": "440479_27",
+            "document": "Influenza A virus . Genetic factors in distinguishing between \"human flu viruses\" and \"avian influenza viruses\" include: \"About 52 key genetic changes distinguish avian influenza strains from those that spread easily among people, according to researchers in Taiwan, who analyzed the genes of more than 400 A type flu viruses.\" \"How many mutations would make an avian virus capable of infecting humans efficiently, or how many mutations would render an influenza virus a pandemic strain, is difficult to predict. We have examined sequences from the 1918 strain, which is the only pandemic influenza virus that could be entirely derived from avian strains. Of the 52 species-associated positions, 16 have residues typical for human strains; the others remained as avian signatures. The result supports the hypothesis that the 1918 pandemic virus is more closely related to the avian influenza A virus than are other human influenza viruses.\"",
+            "score": 257.4605712890625
+        },
+        {
+            "docid": "14579421_17",
+            "document": "Introduction to viruses . In some species of RNA virus, the genes are not on a continuous molecule of RNA, but are separated. The influenza virus, for example, has eight separate genes made of RNA. When two different strains of influenza virus infect the same cell, these genes can mix and produce new strains of the virus in a process called reassortment.",
+            "score": 256.38726806640625
+        },
+        {
+            "docid": "44579483_9",
+            "document": "Batai virus . Batai virus is geographically spread throughout Asia and Europe. It has been shown that batai viruses from Japan, Malaysia and India share homologies in the genomic sequence more so than when virus strains from Europe and Asia are compared to each other. Reassortment of the genome can have some serious effects. It has been observed that reassortment between the M segment and the S and L segments with another strain of Batai virus (BUNV) can cause an increase in the virulence of Batai virus. Reassortment of the genome within the genus Orthobunyavirus are not uncommon and can lead to an increase in virulence.",
+            "score": 254.89927673339844
+        },
+        {
+            "docid": "2866555_15",
+            "document": "Influenza A virus subtype H1N1 . In the 2009 flu pandemic, the virus isolated from patients in the United States was found to be made up of genetic elements from four different flu viruses \u2013 North American swine influenza, North American avian influenza, human influenza, and swine influenza virus typically found in Asia and Europe \u2013 \"an unusually mongrelised mix of genetic sequences.\" This new strain appears to be a result of reassortment of human influenza and swine influenza viruses, in all four different strains of subtype H1N1.",
+            "score": 252.8249053955078
+        },
+        {
+            "docid": "1045705_76",
+            "document": "Influenza vaccine . Influenza research includes molecular virology, molecular evolution, pathogenesis, host immune responses, genomics, and epidemiology. These help in developing influenza countermeasures such as vaccines, therapies and diagnostic tools. Improved influenza countermeasures require basic research on how viruses enter cells, replicate, mutate, evolve into new strains and induce an immune response. The Influenza Genome Sequencing Project is creating a library of influenza sequences that will help us understand what makes one strain more lethal than another, what genetic determinants most affect immunogenicity, and how the virus evolves over time. Solutions to limitations in current vaccine methods are being researched.",
+            "score": 251.0522003173828
+        },
+        {
+            "docid": "3833671_9",
+            "document": "Influenzavirus C . Influenza viruses, like all viruses in the family Orthomyxoviridae, are enveloped RNA viruses with single stranded genomes. The antigens, matrix protein (M1) and nucleoprotein (NP), are used to determine if an influenza virus is type A, B, or C. The M1 protein is required for virus assembly and NP functions in transcription and replication. These viruses also contain proteins on the surface of the cell membrane called glycoproteins. Type A and B have two glycoproteins: hemagglutinin (HA) and neuraminidase (NA). Type C has only one glycoprotein: hemagglutinin-esterase fusion (HEF). These glycoproteins allow for attachment and fusion of viral and cellular membranes. Fusion of these membranes allows the viral proteins and genome to be released into the host cell, which then causes the infection. Type C is the only influenza virus to express the enzyme esterase. This enzyme is similar to the enzyme neuraminidase produced by type A and B in that they both function in destroying the host cell receptors. Glycoproteins may undergo mutations (antigenic drift) or reassortment in which a new HA or NA is produced (antigenic shift). Influenza virus C is only capable of antigenic drift whereas type A undergo antigenic shift, as well. When either of these processes occur, the antibodies formed by the immune system no longer protect against these altered glycoproteins. Because of this, viruses continually cause infections.",
+            "score": 247.92745971679688
+        },
+        {
+            "docid": "1034106_3",
+            "document": "Strain (biology) . A strain is a genetic variant or subtype of a microorganism (e.g., virus or bacterium or fungus). For example, a \"flu strain\" is a certain biological form of the influenza or \"flu\" virus. These flu strains are characterized by their differing isoforms of surface proteins. New viral strains can be created due to mutation or swapping of genetic components when two or more viruses infect the same cell in nature. These phenomena are known respectively as antigenic drift and antigenic shift. Microbial strains can also be differentiated by their genetic makeup using metagenomic methods to maximize resolution within species. This has become a valuable tool to analyze the microbiome.",
+            "score": 246.66458129882812
+        },
+        {
+            "docid": "532906_26",
+            "document": "Orthomyxoviridae . Since RNA proofreading enzymes are absent, the RNA-dependent RNA transcriptase makes a single nucleotide insertion error roughly every 10 thousand nucleotides, which is the approximate length of the influenza vRNA. Hence, nearly every newly manufactured influenza virus will contain a mutation in its genome. The separation of the genome into eight separate segments of vRNA allows mixing (reassortment) of the genes if more than one variety of influenza virus has infected the same cell (superinfection). The resulting alteration in the genome segments packaged into viral progeny confers new behavior, sometimes the ability to infect new host species or to overcome protective immunity of host populations to its old genome (in which case it is called an antigenic shift).",
+            "score": 246.2953643798828
+        },
+        {
+            "docid": "4697208_27",
+            "document": "H5N1 genetic structure . Both the H2N2 and H3N2 pandemic strains contained avian influenza virus RNA segments. \"While the pandemic human influenza viruses of 1957 (H2N2) and 1968 (H3N2) clearly arose through reassortment between human and avian viruses, the influenza virus causing the 'Spanish flu' in 1918 appears to be entirely derived from an avian source\".",
+            "score": 246.27537536621094
+        },
+        {
+            "docid": "1516915_58",
+            "document": "Swine influenza . The phylogenetic origin of the flu virus that caused the 2009 pandemics can be traced before 1918. Around 1918, the ancestral virus, of avian origin, crossed the species boundaries and infected humans as human H1N1. The same phenomenon took place soon after in America, where the human virus was infecting pigs; it led to the emergence of the H1N1 swine strain, which later became the classic swine flu.However, genetic coding of H1N1 shows it is a combination of segments of 4 influenza viruses forming a novel strain\u2013 North American Swine (30.6%)- PIG ORIGIN FLU North American Avian (34.4%)\u2013 BIRD ORIGIN FLU Human influenza strain (17.5%) Euroasian swine (17.5%)- PIG ORIGIN FLU. QUADRUPLE GENETIC RE-ASSORTMENT - coinfection with influenza viruses from diverse animal species. Due to coinfection, the viruses are able to interact, mutate, and form a new strain to which host has variable immunity.",
+            "score": 245.91099548339844
+        },
+        {
+            "docid": "2888063_30",
+            "document": "Influenza pandemic . \"About 52 key genetic changes distinguish avian influenza strains from those that spread easily among people, according to researchers in Taiwan, who analyzed the genes of more than 400 A type flu viruses.\" \"How many mutations would make an avian virus capable of infecting humans efficiently, or how many mutations would render an influenza virus a pandemic strain, is difficult to predict. We have examined sequences from the 1918 strain, which is the only pandemic influenza virus that could be entirely derived from avian strains. Of the 52 species-associated positions, 16 have residues typical for human strains; the others remained as avian signatures. The result supports the hypothesis that the 1918 pandemic virus is more closely related to the avian influenza A virus than are other human influenza viruses.\"",
+            "score": 244.85093688964844
+        },
+        {
+            "docid": "2957262_7",
+            "document": "Influenza A virus subtype H3N2 . Avian influenza virus H3N2 is endemic in pigs in China, and has been detected in pigs in Vietnam, contributing to the emergence of new variant strains. Pigs can carry human influenza viruses, which can combine (i.e. exchange homologous genome subunits by genetic reassortment) with H5N1, passing genes and mutating into a form which can pass easily among humans. H3N2 evolved from H2N2 by antigenic shift and caused the Hong Kong Flu pandemic of 1968 and 1969 that killed up to 750,000 humans. The dominant strain of annual flu in humans in January 2006 was H3N2. Measured resistance to the standard antiviral drugs amantadine and rimantadine in H3N2 in humans had increased to 91% by 2005. In August 2004, researchers in China found H5N1 in pigs.",
+            "score": 244.7277374267578
+        },
+        {
+            "docid": "38203359_19",
+            "document": "Reverse genetics . A common way to create a vaccine using reverse genetic techniques is to utilize plasmids to synthesize attenuated viruses. This technique is most commonly used in the yearly production of influenza vaccines, where an eight plasmid system can rapidly produce an effective vaccine. The entire genome of the influenza A virus consists of eight RNA segments, so the combination of six attenuated viral cDNA plasmids with two wild-type plasmids allow for an attenuated vaccine strain to be constructed. For the development of influenza vaccines, the fourth and sixth RNA segments, encoding for the hemagglutinin and neuraminidase proteins respectively, are taken from the circulating virus, while the other six segments are derived from a previously attenuated master strain. The HA and NA proteins exhibit high antigen variety, and therefore are taken from the current strain for which the vaccine is being produced to create a well matching vaccine.",
+            "score": 244.54083251953125
+        }
+    ]
+}

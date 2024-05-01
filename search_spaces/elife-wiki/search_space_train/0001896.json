@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "16862854_26",
+            "document": "RNA polymerase II holoenzyme . The nucleotide excision repair (NER) pathway is a mechanism to repair damage to DNA. ERCC2 is involved in transcription-coupled NER and is an integral member of the basal transcription factor BTF2/TFIIH complex. ERCC3 is an ATP-dependent DNA helicase that functions in NER. It also is a subunit of basal transcription factor 2 (TFIIH) and, thus, functions in class II transcription. XPG (ERCC5) forms a stable complex with TFIIH, which is active in transcription and NER. ERCC6 encodes a DNA-binding protein that is important in transcription-coupled excision repair. ERCC8 interacts with Cockayne syndrome type B (CSB) protein, with p44 (GTF2H2), a subunit of the RNA polymerase II transcription factor IIH, and ERCC6. It is involved in transcription-coupled excision repair.",
+            "score": 139.02440202236176
+        },
+        {
+            "docid": "7955_53",
+            "document": "DNA . Structural proteins that bind DNA are well-understood examples of non-specific DNA-protein interactions. Within chromosomes, DNA is held in complexes with structural proteins. These proteins organize the DNA into a compact structure called chromatin. In eukaryotes, this structure involves DNA binding to a complex of small basic proteins called histones, while in prokaryotes multiple types of proteins are involved. The histones form a disk-shaped complex called a nucleosome, which contains two complete turns of double-stranded DNA wrapped around its surface. These non-specific interactions are formed through basic residues in the histones, making ionic bonds to the acidic sugar-phosphate backbone of the DNA, and are thus largely independent of the base sequence. Chemical modifications of these basic amino acid residues include methylation, phosphorylation, and acetylation. These chemical changes alter the strength of the interaction between the DNA and the histones, making the DNA more or less accessible to transcription factors and changing the rate of transcription. Other non-specific DNA-binding proteins in chromatin include the high-mobility group proteins, which bind to bent or distorted DNA. These proteins are important in bending arrays of nucleosomes and arranging them into the larger structures that make up chromosomes.",
+            "score": 122.09063649177551
+        },
+        {
+            "docid": "966654_4",
+            "document": "DNA-binding protein . Structural proteins that bind DNA are well-understood examples of non-specific DNA-protein interactions. Within chromosomes, DNA is held in complexes with structural proteins. These proteins organize the DNA into a compact structure called chromatin. In eukaryotes, this structure involves DNA binding to a complex of small basic proteins called histones. In prokaryotes, multiple types of proteins are involved. The histones form a disk-shaped complex called a nucleosome, which contains two complete turns of double-stranded DNA wrapped around its surface. These non-specific interactions are formed through basic residues in the histones making ionic bonds to the acidic sugar-phosphate backbone of the DNA, and are therefore largely independent of the base sequence. Chemical modifications of these basic amino acid residues include methylation, phosphorylation and acetylation. These chemical changes alter the strength of the interaction between the DNA and the histones, making the DNA more or less accessible to transcription factors and changing the rate of transcription. Other non-specific DNA-binding proteins in chromatin include the high-mobility group (HMG) proteins, which bind to bent or distorted DNA. Biophysical studies show that these architectural HMG proteins bind, bend and loop DNA to perform its biological functions. These proteins are important in bending arrays of nucleosomes and arranging them into the larger structures that form chromosomes.",
+            "score": 121.48602175712585
+        },
+        {
+            "docid": "36532828_2",
+            "document": "Tbf5 protein domain . In molecular biology, this protein domain represents Tbf5 which stands for TTDA subunit of TFIIH basal transcription factor complex (also known as subunit 5 of RNA polymerase II transcription factor B), and Rex1 a type of nucleotide excision repair (NER) proteins. Nucleotide excision repair is a major pathway for repairing UV light-induced DNA damage in most organisms. The function of this protein is to aid transcription.",
+            "score": 119.40429496765137
+        },
+        {
+            "docid": "15346869_3",
+            "document": "GTF2H5 . The \"GTF2H5(TTDA)\" gene encodes a small (71 amino acid) protein that stabilizes the multi-subunit transcription repair factor IIH(TFIIH). TFIIH plays a key role in a major DNA repair process, nucleotide excision repair (NER), by opening the DNA double helix after the initial recognition of damage in one strand. This step is followed by excision of the damaged region to generate a single-strand gap, and then repair synthesis, using the undamaged strand as template, to accurately fill in the gap. Disruption of the \"GTF2H5(TTDA)\" gene in a knockout mouse-model completely inactivates NER. In humans, mutation in any one of four genes can give rise to the trichothiodystrophy phenotype. These genes are \"TTDN1\", \"XPB\", \"XPD\" and \"GTF2H5(TTDA)\".",
+            "score": 141.8450608253479
+        },
+        {
+            "docid": "14170524_5",
+            "document": "CUL4A . The DDB1 adaptor protein was initially characterized as the large subunit of a heterodimeric complex (UV-DDB) that was found to recognize damaged DNA and participate in a form of repair known as nucleotide excision repair (NER). The smaller subunit of this Damaged DNA Binding protein complex is known as DDB2 and is able to directly bind DNA lesions associated with UV-irradiation. DDB2 is a DCAF protein and is both a ubiquitination substrate of the CRL4 complex and also serves as an E3 ligase protein for other substrates such as XPC and histones (see next section) near the damage site. Due to its ubiquitination of DNA damage-recognizing proteins DDB2 and XPC, CUL4A has been described as a negative regulator of NER activity. In addition to the \"global\" type of NER, the CRL4A complex also appears to play a role in \"transcription-coupled\" NER in conjunction with the Cockayne Syndrome A protein. CRL4A complexes appear to be activated by certain types of DNA damage (most notably, UV-irradiation) and several substrates are preferentially ubiquitinated after DNA damage induction.",
+            "score": 80.77077054977417
+        },
+        {
+            "docid": "21339139_6",
+            "document": "Trichothiodystrophy . Currently, mutations in four genes are recognized as causing the TTD phenotype, namely \"TTDN1\", \"XPB\", \"XPD\" and \"TTDA\". Individuals with defects in \"XPB\", \"XPD\" and \"TTDA\" are photosensitive, whereas those with a defect in \"TTDN1\" are not. The three genes, \"XPB\", \"XPD\" and \"TTDA\", encode protein components of the multi-subunit transcription/repair factor IIH (TFIIH). This complex factor is an important decision maker in NER that opens the DNA double helix after damage is initially recognized. NER is a multi-step pathway that removes a variety of different DNA damages that alter normal base pairing, including both UV-induced damages and bulky chemical adducts. Features of premature aging often occur in individuals with mutational defects in genes specifying protein components of the NER pathway, including those with TTD (see DNA damage theory of aging).",
+            "score": 146.36850881576538
+        },
+        {
+            "docid": "1890884_13",
+            "document": "Nucleotide excision repair . Transcription factor II H (TFIIH) is the key enzyme involved in dual excision. TFIIH and XPG are first recruited to the site of DNA damage (XPG stabilizes TFIIH). The TFIIH subunits of XPD and XPB act as a 5'-3' and 3'-5' helicase, respectively - they help unwind DNA and generate a junction between the double-stranded and single-stranded DNA around the transcription bubble. In addition to stabilizing TFIIH, XPG also has endonuclease activity; it cuts DNA damage on the 3' side while the XPF\u2013ERCC1 heterodimeric protein cuts on the 5' side. The dual incision leads to the removal of a ssDNA with a single strand gap of 25~30 nucleotides. The small, excised, damage-containing DNA (sedDNA) oligonucleotides are initially released from the duplex in complex with TFIIH but then dissociate in an ATP-dependent manner and become bound to RPA. Inhibition of gap filling DNA synthesis and ligation results in an accumulation of RPA-bound sedDNAs in the cell.",
+            "score": 168.54118633270264
+        },
+        {
+            "docid": "9895073_3",
+            "document": "Transcription factor II H . TFIIH consists of ten subunits, 7 of which (ERCC2/XPD, ERCC3/XPB, GTF2H1/p62, GTF2H4/p52, GTF2H2/p44, GTF2H3/p34 and GTF2H5/TTDA) form the core complex. The cyclin activating kinase-subcomplex (CDK7, MAT1, and cyclin H) is linked to the core via the XPD protein Two of the subunits, ERCC2/XPD and ERCC3/XPB, have helicase and ATPase activities and help create the transcription bubble. In a test tube these subunits are only required for transcription if the DNA template is not already denatured or if it is supercoiled.",
+            "score": 164.46243798732758
+        },
+        {
+            "docid": "14043373_11",
+            "document": "Promyelocytic leukemia protein . In addition to this regulation of transcription, observations of PML-NBs have strongly suggested that the protein complex plays a role in mediating DNA-damage responses. For example, the number and size of PML-NBs increases as the activities of DNA damage sensors ATM and ATR increase. The nuclear bodies localize to the site of DNA damage, where proteins associated with the repair of DNA and halting of the cell cycle then co-localize. The functional purpose of the interaction between PML-NBs and DNA repair mechanisms remains unclear, but it seems unlikely that they have a role in repairing the DNA directly, due to the co-localization of DNA repair proteins and PML-NBs some time after the DNA has been damaged. Rather, it is thought that PML-NBs may regulate responses to DNA damage by acting as a storage site for proteins involved in DNA repair, regulating the repair directly, or mediating between DNA repair and checkpoint responses. However, it is clear that PML-NBs play a role in mediating checkpoint responses, particularly in causing apoptosis.",
+            "score": 83.51193857192993
+        },
+        {
+            "docid": "14162174_3",
+            "document": "RAD17 . The protein encoded by this gene is highly similar to the gene product of Schizosaccharomyces pombe rad17, a cell cycle checkpoint gene required for cell cycle arrest and DNA damage repair in response to DNA damage. This protein shares strong similarity with DNA replication factor C (RFC), and can form a complex with RFCs. This protein binds to chromatin prior to DNA damage and is phosphorylated by ATR after the damage. This protein recruits the RAD1-RAD9-HUS1 checkpoint protein complex onto chromatin after DNA damage, which may be required for its phosphorylation. The phosphorylation of this protein is required for the DNA-damage-induced cell cycle G2 arrest, and is thought to be a critical early event during checkpoint signaling in DNA-damaged cells. Eight alternatively spliced transcript variants of this gene, which encode four distinct proteins, have been reported.",
+            "score": 90.48034262657166
+        },
+        {
+            "docid": "9955145_37",
+            "document": "Eukaryotic transcription . When transcription is arrested by the presence of a lesion in the transcribed strand of a gene, DNA repair proteins are recruited to the stalled RNA polymerase to initiate a process called transcription-coupled repair. Central to this process is the general transcription factor TFIIH that has ATPase activity. TFIIH causes a conformational change in the polymerase, to expose the transcription bubble trapped inside, in order for the DNA repair enzymes to gain access to the lesion. Thus, RNA polymerase serves as damage-sensing protein in the cell to target repair enzymes to genes that are being actively transcribed.",
+            "score": 146.21898865699768
+        },
+        {
+            "docid": "7955_54",
+            "document": "DNA . A distinct group of DNA-binding proteins is the DNA-binding proteins that specifically bind single-stranded DNA. In humans, replication protein A is the best-understood member of this family and is used in processes where the double helix is separated, including DNA replication, recombination, and DNA repair. These binding proteins seem to stabilize single-stranded DNA and protect it from forming stem-loops or being degraded by nucleases. In contrast, other proteins have evolved to bind to particular DNA sequences. The most intensively studied of these are the various transcription factors, which are proteins that regulate transcription. Each transcription factor binds to one particular set of DNA sequences and activates or inhibits the transcription of genes that have these sequences close to their promoters. The transcription factors do this in two ways. Firstly, they can bind the RNA polymerase responsible for transcription, either directly or through other mediator proteins; this locates the polymerase at the promoter and allows it to begin transcription. Alternatively, transcription factors can bind enzymes that modify the histones at the promoter. This changes the accessibility of the DNA template to the polymerase.",
+            "score": 85.61291682720184
+        },
+        {
+            "docid": "412097_4",
+            "document": "BRCA1 . BRCA1 combines with other tumor suppressors, DNA damage sensors and signal transducers to form a large multi-subunit protein complex known as the BRCA1-associated genome surveillance complex (BASC). The BRCA1 protein associates with RNA polymerase II, and through the C-terminal domain, also interacts with histone deacetylase complexes. Thus, this protein plays a role in transcription, DNA repair of double-strand breaks ubiquitination, transcriptional regulation as well as other functions.",
+            "score": 65.62281131744385
+        },
+        {
+            "docid": "966654_8",
+            "document": "DNA-binding protein . Protein\u2013DNA interactions occur when a protein binds a molecule of DNA, often to regulate the biological function of DNA, usually the expression of a gene. Among the proteins that bind to DNA are transcription factors that activate or repress gene expression by binding to DNA motifs and histones that form part of the structure of DNA and bind to it less specifically. Also proteins that repair DNA such as uracil-DNA glycosylase interact closely with it.",
+            "score": 100.19589424133301
+        },
+        {
+            "docid": "14881024_3",
+            "document": "LRDD . The protein encoded by this gene contains a leucine-rich repeat and a death domain. This protein has been shown to interact with other death domain proteins, such as Fas (TNFRSF6)-associated via death domain (FADD) and MAP-kinase activating death domain-containing protein (MADD), and thus may function as an adaptor protein in cell death-related signaling processes. The expression of the mouse counterpart of this gene has been found to be positively regulated by the tumor suppressor p53 and to induce cell apoptosis in response to DNA damage, which suggests a role for this gene as an effector of p53-dependent apoptosis. Three alternatively spliced transcript variants encoding distinct isoforms have been reported. Besides its pro-apoptotic function it may also be involved in DNA repair as part of a protein complex formed together with the catalytic subunit of DNA-PK (DNA-PKcs)and caspase 2.",
+            "score": 90.22830271720886
+        },
+        {
+            "docid": "14755377_3",
+            "document": "Structure specific recognition protein 1 . The protein encoded by this gene is a subunit of a heterodimer that, along with SUPT16H, forms chromatin transcriptional elongation factor FACT. FACT interacts specifically with histones H2A/H2B to effect nucleosome disassembly and transcription elongation. FACT and cisplatin-damaged DNA may be crucial to the anticancer mechanism of cisplatin. This encoded protein contains a high mobility group box which most likely constitutes the structure recognition element for cisplatin-modified DNA. This protein also functions as a co-activator of the transcriptional activator p63.",
+            "score": 87.75402402877808
+        },
+        {
+            "docid": "9059122_4",
+            "document": "Nigel Savery . Understanding how proteins interact with DNA is an important first step to developing novel methods to study genetics. Dr Savery's group has recently made advances in the study of the \"E. coli\" protein MFD ( a transcription-repair coupling factor, a bacterial protein involved in repair of damaged DNA).",
+            "score": 81.29503178596497
+        },
+        {
+            "docid": "16862854_25",
+            "document": "RNA polymerase II holoenzyme . The transcription factor TFIIH is involved in transcription initiation and DNA repair. MAT1 (for 'm\u00e9nage \u00e0 trois-1') is involved in the assembly of the CAK complex. CAK is a multisubunit protein that includes CDK7, cyclin H (CCNH), and MAT1. CAK is an essential component of the transcription factor TFIIH that is involved in transcription initiation and DNA repair.",
+            "score": 137.00982785224915
+        },
+        {
+            "docid": "26530198_2",
+            "document": "DNA damage-binding protein . DNA damage-binding protein or UV-DDB is a protein complex that is responsible for repair of UV-damaged DNA. This complex is composed of two protein subunits, a large subunit DDB1 (p127) and a small subunit DDB2 (p48). When cells are exposed to UV radiation, DDB1 moves from the cytosol to the nucleus and binds to DDB2, thus forming the UV-DDB complex. This complex functions in nucleotide excision repair, recognising UV-induced (6-4) pyrimidine-pyrimidone photoproducts and cyclobutane pyrimidine dimers.",
+            "score": 78.15882921218872
+        },
+        {
+            "docid": "14880688_2",
+            "document": "MED31 . Mediator of RNA polymerase II transcription subunit 31 is a protein in humans encoded by the \"MED31\" gene. It represents subunit Med31 of the Mediator complex. The family contains the \"Saccharomyces cerevisiae\" SOH1 homologues. SOH1 is responsible for the repression of temperature sensitive growth of the HPR1 mutant and has been found to be a component of the RNA polymerase II transcription complex. SOH1 not only interacts with factors involved in DNA repair, but transcription as well. Thus, the SOH1 protein may serve to couple these two processes.",
+            "score": 64.85285663604736
+        },
+        {
+            "docid": "1493053_7",
+            "document": "Cockayne syndrome . Within the damaged cell, the CSA protein normally localizes to sites of DNA damage, particularly inter-strand cross-links, double-strand breaks and some monoadducts. CSB protein is also normally recruited to DNA damaged sites, and its recruitment is most rapid and robust as follows: interstrand crosslinks > double-strand breaks > monoadducts > oxidative damages. CSB protein forms a complex with another DNA repair protein, SNM1A(DCLRE1A), a 5\u2019 \u2013 3\u2019 exonuclease, that localizes to inter-strand cross-links in a transcription dependent manner. The accumulation of CSB protein at sites of DNA double-strand breaks occurs in a transcription dependent manner and facilitates homologous recombinational repair of the breaks. During the G0/G1 phase of the cell cycle, DNA damage can trigger a CSB-dependent recombinational repair process that uses an RNA (rather than DNA) template.",
+            "score": 91.50814700126648
+        },
+        {
+            "docid": "20938446_2",
+            "document": "HBx . HBx is a hepatitis B viral protein. It is 154 amino acids long and interferes with transcription, signal transduction, cell cycle progress, protein degradation, apoptosis and chromosomal stability in the host. It forms a heterodimeric complex with its cellular target protein (HBX interacting protein: HBXIP), and this interaction dysregulates centrosome dynamics and mitotic spindle formation. It interacts with DDB1 (Damaged DNA Binding Protein 1) redirecting the ubiquitin ligase activity of the CUL4-DDB1 E3 complexes, which are intimately involved in the intracellular regulation of DNA replication and repair, transcription and signal transduction.",
+            "score": 83.28865349292755
+        },
+        {
+            "docid": "9878823_2",
+            "document": "MSH2 . DNA mismatch repair protein Msh2 also known as MutS protein homolog 2 or MSH2 is a protein that in humans is encoded by the \"MSH2\" gene, which is located on chromosome 2. MSH2 is a tumor suppressor gene and more specifically a caretaker gene that codes for a DNA mismatch repair (MMR) protein, MSH2, which forms a heterodimer with MSH6 to make the human MutS\u03b1 mismatch repair complex. It also dimerizes with MSH3 to form the MutS\u03b2 DNA repair complex. MSH2 is involved in many different forms of DNA repair, including transcription-coupled repair, homologous recombination, and base excision repair.",
+            "score": 98.12659740447998
+        },
+        {
+            "docid": "14723679_3",
+            "document": "MED1 . The activation of gene transcription is a multistep process that is triggered by factors that recognize transcriptional enhancer sites in DNA. These factors work with co-activators to direct transcriptional initiation by the RNA polymerase II apparatus. The mediator of RNA polymerase II transcription subunit 1 protein is a subunit of the CRSP (cofactor required for SP1 activation) complex, which, along with TFIID, is required for efficient activation by SP1. This protein is also a component of other multisubunit complexes [e.g., thyroid hormone receptor-(TR-) associated proteins that interact with TR and facilitate TR function on DNA templates in conjunction with initiation factors and cofactors]. It also regulates p53-dependent apoptosis and it is essential for adipogenesis. This protein is known to have the ability to self-oligomerize.",
+            "score": 64.97264051437378
+        },
+        {
+            "docid": "14775396_3",
+            "document": "CRSP3 . The activation of gene transcription is a multistep process that is triggered by factors that recognize transcriptional enhancer sites in DNA. These factors work with co-activators to direct transcriptional initiation by the RNA polymerase II apparatus. The protein encoded by this gene is a subunit of the CRSP (cofactor required for SP1 activation) complex, which, along with TFIID, is required for efficient activation by SP1. This protein is also a component of other multisubunit complexes e.g. thyroid hormone receptor-(TR-) associated proteins which interact with TR and facilitate TR function on DNA templates in conjunction with initiation factors and cofactors. This protein also acts as a metastasis suppressor. Two alternatively spliced transcript variants encoding different isoforms have been described for this gene.",
+            "score": 71.62826299667358
+        },
+        {
+            "docid": "3570811_2",
+            "document": "Werner syndrome helicase . \"Werner syndrome ATP-dependent helicase\" also known as DNA helicase, RecQ-like type 3 is an enzyme that in humans is encoded by the WRN gene. WRN is a member of the RecQ Helicase family. Helicase enzymes generally unwind and separate double-stranded DNA. These activities are necessary before DNA can be copied in preparation for cell division (DNA replication). Helicase enzymes are also critical for making a blueprint of a gene for protein production, a process called transcription. Further evidence suggests that Werner protein plays a critical role in repairing DNA. Overall, this protein helps maintain the structure and integrity of a person's DNA.",
+            "score": 109.27319812774658
+        },
+        {
+            "docid": "3233135_5",
+            "document": "TATA-binding protein . TBP is a subunit of the eukaryotic transcription factor TFIID. TFIID is the first protein to bind to DNA during the formation of the pre-initiation transcription complex of RNA polymerase II (RNA Pol II). Binding of TFIID to the TATA box in the promoter region of the gene initiates the recruitment of other factors required for RNA Pol II to begin transcription. Some of the other recruited transcription factors include TFIIA, TFIIB, and TFIIF. Each of these transcription factors is formed from the interaction of many protein subunits, indicating that transcription is a heavily regulated process.",
+            "score": 58.734459400177
+        },
+        {
+            "docid": "14119752_3",
+            "document": "Cyclin-dependent kinase 7 . The protein encoded by this gene is a member of the cyclin-dependent protein kinase (CDK) family. CDK family members are highly similar to the gene products of Saccharomyces cerevisiae cdc28, and Schizosaccharomyces pombe cdc2, and are known to be important regulators of cell cycle progression. This protein forms a trimeric complex with cyclin H and MAT1, which functions as a Cdk-activating kinase (CAK). It is an essential component of the transcription factor TFIIH, that is involved in transcription initiation and DNA repair. This protein is thought to serve as a direct link between the regulation of transcription and the cell cycle.",
+            "score": 126.18236315250397
+        },
+        {
+            "docid": "14061080_13",
+            "document": "ETS1 . ETS1 functions are regulated by protein \u2013 protein interactions. In particular, ETS1 protein interacts with several DNA repair proteins. ETS1 binds with DNA-dependent protein kinase (DNA-PK) [where the DNA-PK complex is made up of DNA-PKcs and DNA repair Ku (protein), and where Ku itself is a heterodimer of two polypeptides, Ku70 (XRCC6) and Ku80 (XRCC5)]. ETS1 interaction with DNA-PK phosphorylates ETS1. Such phosphorylation of ETS1 alters its target gene repertoire. The Ku80 portion of DNA-PK, acting alone, interacts with ETS1 to down-regulate at least one of its transcriptional activities.",
+            "score": 77.47195434570312
+        },
+        {
+            "docid": "553745_4",
+            "document": "Histone fold . The histone fold\u2019s evolution can be found by different combinations of ancestral sets of peptides that make up helix-strand-helix motif that come from the three folds from the ancestral fragments. These peptide chains can be found in the archaeal histones, which could have come from eukaryotic H3-H4 tetramer. The eukaryotic histone-like domain of the son of seven less protein. The archaeal single-chain histones are also found in the bacterium Aquifex aeolicus. Which helps the diverse bacteria phylogeny coming from the ancestry of eukaryotes and archaea with lateral gene transfers to get to the bacteria. These lead into the octamer articulated protein endoskeleton for DNA compaction. From this endoskeleton it has a central segment that folds for the histone dimerization. This then leads into the end segments of the fold to make properties of dimer-dimer contacts that also cap the protein super helix at the octamer. One species that looked at is Drosophila, and in the subunits of the Drosophila transcription initiation factor has specific amino acid sequences that have different characteristics of the histone folds that make up the two proteins make up the subunits. When just looking at the histone fold motif in the Drosophila the protein-protein and the protein DNA interaction of the core histone proteins can be found by looking at the non-histone proteins. This can then be used in \u201cStructural studies on the TAFII42/TAFII62 complex from Drosophila and HMfB from Methanococcus fervidus, proteins identified as containing the histone fold in the aforementioned searches, confirmed that a histone-like substructure exists in these proteins, with the individual proteins folding into the canonical histone fold motif\u201d. The evolutionary structure and range of the histone protein-protein and DNA-protein interactions of the histone fold proteins has a very wide range of evolutionary traits that form the structures and other proteins.",
+            "score": 106.42717254161835
+        },
+        {
+            "docid": "36532828_4",
+            "document": "Tbf5 protein domain . Transcription/repair factor IIH (TFIIH) is essential for RNA polymerase II transcription and nucleotide excision repair. The TFIIH complex consists of ten subunits: TTDA is also required for the stability of the TFIIH complex and for the presence of normal levels of TFIIH in the cell. TFIIH is one of five general transcription factors (GTFs) that assemble with RNA polymerase IIat a promoter site prior to the initiation of transcription. It is one of ten subunits that complete part of the 10 subunit protein complex (holoTFIIH) and part of a six-subunit complex of Rad3, Tfb1, Tfb2, Tfb4, Tfb5, and Ssl1 (referred to as core)",
+            "score": 152.23562622070312
+        }
+    ],
+    "r": [
+        {
+            "docid": "1890884_13",
+            "document": "Nucleotide excision repair . Transcription factor II H (TFIIH) is the key enzyme involved in dual excision. TFIIH and XPG are first recruited to the site of DNA damage (XPG stabilizes TFIIH). The TFIIH subunits of XPD and XPB act as a 5'-3' and 3'-5' helicase, respectively - they help unwind DNA and generate a junction between the double-stranded and single-stranded DNA around the transcription bubble. In addition to stabilizing TFIIH, XPG also has endonuclease activity; it cuts DNA damage on the 3' side while the XPF\u2013ERCC1 heterodimeric protein cuts on the 5' side. The dual incision leads to the removal of a ssDNA with a single strand gap of 25~30 nucleotides. The small, excised, damage-containing DNA (sedDNA) oligonucleotides are initially released from the duplex in complex with TFIIH but then dissociate in an ATP-dependent manner and become bound to RPA. Inhibition of gap filling DNA synthesis and ligation results in an accumulation of RPA-bound sedDNAs in the cell.",
+            "score": 168.5411834716797
+        },
+        {
+            "docid": "9895073_3",
+            "document": "Transcription factor II H . TFIIH consists of ten subunits, 7 of which (ERCC2/XPD, ERCC3/XPB, GTF2H1/p62, GTF2H4/p52, GTF2H2/p44, GTF2H3/p34 and GTF2H5/TTDA) form the core complex. The cyclin activating kinase-subcomplex (CDK7, MAT1, and cyclin H) is linked to the core via the XPD protein Two of the subunits, ERCC2/XPD and ERCC3/XPB, have helicase and ATPase activities and help create the transcription bubble. In a test tube these subunits are only required for transcription if the DNA template is not already denatured or if it is supercoiled.",
+            "score": 164.46243286132812
+        },
+        {
+            "docid": "447832_22",
+            "document": "Helicase . XPD is an essential component of the TFIIH complex, a transcription and repair factor in the cell. As part of this complex, it facilitates nucleotide excision repair by unwinding DNA. TFIIH assists in repairing damaged DNA such as sun damage. A mutation in the XPD helicase that helps form this complex and contributes to its function causes the sensitivity to sunlight seen in all three diseases, as well as the increased risk of cancer seen in XP and premature aging seen in trichothiodystrophy and Cockayne syndrome.",
+            "score": 154.94105529785156
+        },
+        {
+            "docid": "36532828_4",
+            "document": "Tbf5 protein domain . Transcription/repair factor IIH (TFIIH) is essential for RNA polymerase II transcription and nucleotide excision repair. The TFIIH complex consists of ten subunits: TTDA is also required for the stability of the TFIIH complex and for the presence of normal levels of TFIIH in the cell. TFIIH is one of five general transcription factors (GTFs) that assemble with RNA polymerase IIat a promoter site prior to the initiation of transcription. It is one of ten subunits that complete part of the 10 subunit protein complex (holoTFIIH) and part of a six-subunit complex of Rad3, Tfb1, Tfb2, Tfb4, Tfb5, and Ssl1 (referred to as core)",
+            "score": 152.23562622070312
+        },
+        {
+            "docid": "21339139_6",
+            "document": "Trichothiodystrophy . Currently, mutations in four genes are recognized as causing the TTD phenotype, namely \"TTDN1\", \"XPB\", \"XPD\" and \"TTDA\". Individuals with defects in \"XPB\", \"XPD\" and \"TTDA\" are photosensitive, whereas those with a defect in \"TTDN1\" are not. The three genes, \"XPB\", \"XPD\" and \"TTDA\", encode protein components of the multi-subunit transcription/repair factor IIH (TFIIH). This complex factor is an important decision maker in NER that opens the DNA double helix after damage is initially recognized. NER is a multi-step pathway that removes a variety of different DNA damages that alter normal base pairing, including both UV-induced damages and bulky chemical adducts. Features of premature aging often occur in individuals with mutational defects in genes specifying protein components of the NER pathway, including those with TTD (see DNA damage theory of aging).",
+            "score": 146.36851501464844
+        },
+        {
+            "docid": "9955145_37",
+            "document": "Eukaryotic transcription . When transcription is arrested by the presence of a lesion in the transcribed strand of a gene, DNA repair proteins are recruited to the stalled RNA polymerase to initiate a process called transcription-coupled repair. Central to this process is the general transcription factor TFIIH that has ATPase activity. TFIIH causes a conformational change in the polymerase, to expose the transcription bubble trapped inside, in order for the DNA repair enzymes to gain access to the lesion. Thus, RNA polymerase serves as damage-sensing protein in the cell to target repair enzymes to genes that are being actively transcribed.",
+            "score": 146.218994140625
+        },
+        {
+            "docid": "9895073_8",
+            "document": "Transcription factor II H . Genetic polymorphisms of genes that encode subunits of TFIIH are known to be associated with increased cancer susceptibility in many tissues, e.g.; skin tissue, breast tissue and lung tissue. Mutations in the subunits (such as XPD and XPB) can lead to a variety of diseases, including xeroderma pigmentosum (XP) or XP combined with Cockayne syndrome. In addition to genetic variations, virus-encoded proteins also target TFIIH.",
+            "score": 145.0054168701172
+        },
+        {
+            "docid": "9955145_16",
+            "document": "Eukaryotic transcription . For pol II-transcribed genes, and unlike bacterial RNA polymerase, promoter melting requires hydrolysis of ATP and is mediated by TFIIH. TFIIH is a ten-subunit protein, including both ATPase and protein kinase activities. While the upstream promoter DNA is held in a fixed position by TFIID, TFIIH pulls downstream double-stranded DNA into the cleft of the polymerase, driving the separation of DNA strands and the transition of the preinitiation complex from the closed to open state. TFIIB aids in open complex formation by binding the melted DNA and stabilizing the transcription bubble.",
+            "score": 143.39686584472656
+        },
+        {
+            "docid": "15346869_3",
+            "document": "GTF2H5 . The \"GTF2H5(TTDA)\" gene encodes a small (71 amino acid) protein that stabilizes the multi-subunit transcription repair factor IIH(TFIIH). TFIIH plays a key role in a major DNA repair process, nucleotide excision repair (NER), by opening the DNA double helix after the initial recognition of damage in one strand. This step is followed by excision of the damaged region to generate a single-strand gap, and then repair synthesis, using the undamaged strand as template, to accurately fill in the gap. Disruption of the \"GTF2H5(TTDA)\" gene in a knockout mouse-model completely inactivates NER. In humans, mutation in any one of four genes can give rise to the trichothiodystrophy phenotype. These genes are \"TTDN1\", \"XPB\", \"XPD\" and \"GTF2H5(TTDA)\".",
+            "score": 141.84506225585938
+        },
+        {
+            "docid": "9895073_2",
+            "document": "Transcription factor II H . Transcription factor II Human (Transcription Factor II H; TFIIH) is an important protein complex, having roles in transcription of various protein-coding genes and DNA nucleotide excision repair (NER) pathways. TFIIH first came to light in 1989 when general transcription factor-\u03b4 or basic transcription factor 2 was characterized as an indispensable transcription factor in vitro. This factor was also isolated from yeast and finally named as TFIIH in 1992.",
+            "score": 141.293701171875
+        },
+        {
+            "docid": "447832_23",
+            "document": "Helicase . XPD helicase mutations leading to trichothiodystrophy are found throughout the protein in various locations involved in protein-protein interactions. This mutation results in an unstable protein due to its inability to form stabilizing interactions with other proteins at the points of mutations. This, in turn, destabilizes the entire TFIIH complex, which leads to defects with transcription and repair mechanisms of the cell.",
+            "score": 140.4947052001953
+        },
+        {
+            "docid": "2661507_9",
+            "document": "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid . When Watson and Crick produced their double helix model of DNA, it was known that most of the specialized features of the many different life forms on Earth are made possible by proteins. Structurally, proteins are long chains of amino acid subunits. In some way, the genetic molecule, DNA, had to contain instructions for how to make the thousands of proteins found in cells. From the DNA double helix model, it was clear that there must be some correspondence between the linear sequences of nucleotides in DNA molecules to the linear sequences of amino acids in proteins. The details of how sequences of DNA instruct cells to make specific proteins was worked out by molecular biologists during the period from 1953 to 1965. Francis Crick played an integral role in both the theory and analysis of the experiments that led to an improved understanding of the genetic code.",
+            "score": 140.2134552001953
+        },
+        {
+            "docid": "16862854_26",
+            "document": "RNA polymerase II holoenzyme . The nucleotide excision repair (NER) pathway is a mechanism to repair damage to DNA. ERCC2 is involved in transcription-coupled NER and is an integral member of the basal transcription factor BTF2/TFIIH complex. ERCC3 is an ATP-dependent DNA helicase that functions in NER. It also is a subunit of basal transcription factor 2 (TFIIH) and, thus, functions in class II transcription. XPG (ERCC5) forms a stable complex with TFIIH, which is active in transcription and NER. ERCC6 encodes a DNA-binding protein that is important in transcription-coupled excision repair. ERCC8 interacts with Cockayne syndrome type B (CSB) protein, with p44 (GTF2H2), a subunit of the RNA polymerase II transcription factor IIH, and ERCC6. It is involved in transcription-coupled excision repair.",
+            "score": 139.02439880371094
+        },
+        {
+            "docid": "3473628_6",
+            "document": "Gene product . Proteins have many different functions in a cell and the function may vary based on the polypeptides they interact with and their cellular environment. Chaperone proteins work to stabilize newly synthesized proteins. They ensure the new protein folds into its correct functional conformation in addition to making sure products do not aggregate in areas where they should not. Proteins can also function as enzymes, increasing the rate of various biochemical reactions and turning substrates into products. Products can be modified by attaching groups such as phosphate via an enzyme to specific amino acids in the primary sequence. Proteins can also be used to move molecules in the cell to where they are needed, these are called motor proteins. The shape of the cell is supported by proteins. Proteins such as actin, microtubules and intermediate filaments provide structure to the cell. Another class of proteins are found in plasma membranes. Membrane proteins can be associated with the plasma membrane in different ways, depending on their structure. These proteins allow the cell to import or export cell products, nutrients or signals to and from the extracellular space. Other proteins help the cell to perform regulatory functions. For example, transcription factors bind to DNA to help transcription of RNA.",
+            "score": 138.39932250976562
+        },
+        {
+            "docid": "16862854_25",
+            "document": "RNA polymerase II holoenzyme . The transcription factor TFIIH is involved in transcription initiation and DNA repair. MAT1 (for 'm\u00e9nage \u00e0 trois-1') is involved in the assembly of the CAK complex. CAK is a multisubunit protein that includes CDK7, cyclin H (CCNH), and MAT1. CAK is an essential component of the transcription factor TFIIH that is involved in transcription initiation and DNA repair.",
+            "score": 137.00982666015625
+        },
+        {
+            "docid": "1209013_10",
+            "document": "Xeroderma pigmentosum . The XPD (ERCC2) protein, in combination with the XPB helicase-containing transcription/repair complex TFIIH, is employed in unwinding the DNA duplex after damage is initially recognized. Mutations in the \"XPD(ERCC2)\" gene cause a variety of syndromes; XP, trichothiodystrophy (TTD), or a combination of XP and Cockayne syndrome (XPCS). Both trichothiodystrophy and Cockayne syndrome display features of premature aging, suggesting an association between deficient DNA repair and premature aging (see DNA damage theory of aging).",
+            "score": 136.18161010742188
+        },
+        {
+            "docid": "1890884_14",
+            "document": "Nucleotide excision repair . Replication protein A (RPA) and XPA are the last two proteins associated with the main NER repair complex. These two proteins are present prior to TFIIH binding since they are involved with verifying DNA damage. They may also protect single-stranded DNA. After verification, the 5' side incision is made and DNA repair begins before the 3' side incision. This helps reduce exposed single stranded DNA during the repair process.",
+            "score": 134.90606689453125
+        },
+        {
+            "docid": "36532828_5",
+            "document": "Tbf5 protein domain . In humans, the function of Tbf5 is clear, as loss of it leads to trichothiosystropy. Defects in GTF2H5 cause the disease trichothiodystrophy (TTD), therefore GTF2H5 (general transcription factor 2H subunit 5) is also known as the TTD group A (TTDA) subunit (and as Tfb5). The TTDA subunit is responsible for the DNA repair function of the complex. TTDA is present both bound to TFIIH, and as a free fraction that shuffles between the cytoplasm and nucleus; induction of NER-type DNA lesions shifts the balance towards TTDA's more stable association with TFIIH.",
+            "score": 133.78097534179688
+        },
+        {
+            "docid": "23634_45",
+            "document": "Protein . Discovering the tertiary structure of a protein, or the quaternary structure of its complexes, can provide important clues about how the protein performs its function. Common experimental methods of structure determination include X-ray crystallography and NMR spectroscopy, both of which can produce information at atomic resolution. However, NMR experiments are able to provide information from which a subset of distances between pairs of atoms can be estimated, and the final possible conformations for a protein are determined by solving a distance geometry problem. Dual polarisation interferometry is a quantitative analytical method for measuring the overall protein conformation and conformational changes due to interactions or other stimulus. Circular dichroism is another laboratory technique for determining internal \u03b2-sheet / \u03b1-helical composition of proteins. Cryoelectron microscopy is used to produce lower-resolution structural information about very large protein complexes, including assembled viruses; a variant known as electron crystallography can also produce high-resolution information in some cases, especially for two-dimensional crystals of membrane proteins. Solved structures are usually deposited in the Protein Data Bank (PDB), a freely available resource from which structural data about thousands of proteins can be obtained in the form of Cartesian coordinates for each atom in the protein.",
+            "score": 130.91970825195312
+        },
+        {
+            "docid": "2140955_5",
+            "document": "ENCODE . Humans are estimated to have approximately 20,000 protein-coding genes, which account for about 1.5% of DNA in the human genome. The primary goal of the ENCODE project is to determine the role of the remaining component of the genome, much of which was traditionally regarded as \"junk.\" The activity and expression of protein-coding genes can be modulated by the regulome - a variety of DNA elements, such as the promoter, transcriptional regulatory sequences, and regions of chromatin structure and histone modification. It is thought that changes in the regulation of gene activity can disrupt protein production and cell processes and result in disease. Determining the location of these regulatory elements and how they influence gene transcription could reveal links between variations in the expression of certain genes and the development of disease.",
+            "score": 130.34906005859375
+        },
+        {
+            "docid": "5813192_17",
+            "document": "CDK-activating kinase . In addition to activating Cdks, CAK also regulates transcription. Two forms of CAK have been identified: free CAK and TFIIH-associated CAK. Free CAK is more abundant than TFIIH-associated CAK. Free CAK phosphorylates Cdks and is involved in cell cycle regulation. Associated CAK is part of the general transcription factor TFIIH. CAK associated with TFIIH phosphorylates proteins involved in transcription including RNA polymerase II. More specifically, associated CAK is involved in promoter clearance and progression of transcription from the preinitiation to the initiation stage.",
+            "score": 129.86968994140625
+        },
+        {
+            "docid": "21496_15",
+            "document": "Nucleic acid . Deoxyribonucleic acid (DNA) is a nucleic acid containing the genetic instructions used in the development and functioning of all known living organisms. The DNA segments carrying this genetic information are called genes. Likewise, other DNA sequences have structural purposes, or are involved in regulating the use of this genetic information. Along with RNA and proteins, DNA is one of the three major macromolecules that are essential for all known forms of life. DNA consists of two long polymers of simple units called nucleotides, with backbones made of sugars and phosphate groups joined by ester bonds. These two strands run in opposite directions to each other and are, therefore, anti-parallel. Attached to each sugar is one of four types of molecules called nucleobases (informally, bases). It is the sequence of these four nucleobases along the backbone that encodes information. This information is read using the genetic code, which specifies the sequence of the amino acids within proteins. The code is read by copying stretches of DNA into the related nucleic acid RNA in a process called transcription. Within cells DNA is organized into long structures called chromosomes. During cell division these chromosomes are duplicated in the process of DNA replication, providing each cell its own complete set of chromosomes. Eukaryotic organisms (animals, plants, fungi, and protists) store most of their DNA inside the cell nucleus and some of their DNA in organelles, such as mitochondria or chloroplasts. In contrast, prokaryotes (bacteria and archaea) store their DNA only in the cytoplasm. Within the chromosomes, chromatin proteins such as histones compact and organize DNA. These compact structures guide the interactions between DNA and other proteins, helping control which parts of the DNA are transcribed.",
+            "score": 128.37301635742188
+        },
+        {
+            "docid": "12266_41",
+            "document": "Genetics . A single nucleotide difference within DNA can cause a change in the amino acid sequence of a protein. Because protein structures are the result of their amino acid sequences, some changes can dramatically change the properties of a protein by destabilizing the structure or changing the surface of the protein in a way that changes its interaction with other proteins and molecules. For example, sickle-cell anemia is a human genetic disease that results from a single base difference within the coding region for the \u03b2-globin section of hemoglobin, causing a single amino acid change that changes hemoglobin's physical properties. Sickle-cell versions of hemoglobin stick to themselves, stacking to form fibers that distort the shape of red blood cells carrying the protein. These sickle-shaped cells no longer flow smoothly through blood vessels, having a tendency to clog or degrade, causing the medical problems associated with this disease.",
+            "score": 127.30581665039062
+        },
+        {
+            "docid": "18517743_3",
+            "document": "Daniela Rhodes . Daniela Rhodes has made many fundamental contributions to understanding the structure and function of nucleic acids and their biologically important interactions with many different proteins. Her work combines biochemical analyses with direct structural determination. She determined the structures of a number of important protein-DNA complexes involved in transcription, such as zinc-fingers and nuclear hormone receptors. She has provided some of the first structural information on telomeric proteins, such as yeast Rap1p and human TRF1 and TRF2 and their complexes with DNA. Throughout her career she has made many contributions to the understanding of chromatin structure and function. She was involved in determining the structure of the nucleosome core particle, has worked on transcriptionally active chromatin and more recently on the higher order 30nm structure of chromatin. Her research continues to focus on understanding how the structure of chromatin is involved in transcriptional regulation and how telomeres are involved in preserving chromosome integrity.",
+            "score": 126.63877868652344
+        },
+        {
+            "docid": "14119752_3",
+            "document": "Cyclin-dependent kinase 7 . The protein encoded by this gene is a member of the cyclin-dependent protein kinase (CDK) family. CDK family members are highly similar to the gene products of Saccharomyces cerevisiae cdc28, and Schizosaccharomyces pombe cdc2, and are known to be important regulators of cell cycle progression. This protein forms a trimeric complex with cyclin H and MAT1, which functions as a Cdk-activating kinase (CAK). It is an essential component of the transcription factor TFIIH, that is involved in transcription initiation and DNA repair. This protein is thought to serve as a direct link between the regulation of transcription and the cell cycle.",
+            "score": 126.18236541748047
+        },
+        {
+            "docid": "5092142_10",
+            "document": "Laboratory of Molecular Biology . 1953 was an annus mirabilis: Watson and Crick discovered the double-helical structure of DNA, which revealed that biological information was encoded in a linear structure and how this information could be duplicated during cell division. Perutz discovered that the detailed three-dimensional structures of proteins, such as myoglobin and hemoglobin could, in principle, be solved by X-ray analysis using a heavy metal atom labeling technique. Hugh Huxley discovered that muscle contraction works by a sliding filament mechanism.",
+            "score": 125.2234878540039
+        },
+        {
+            "docid": "26480660_6",
+            "document": "Ram Samudrala . Samudrala's research has focused on understanding how the genome of an organism specifies its behaviour and characteristics, and applying that information to improve health and quality of life. His vision is to produce a computing model of life focused on atomic level detail, organisation, and arrangements of all the components involved, which he calls the \"structeome\". The structeome, which is the actual structural organization of components at the atomic level, by its very nature includes single molecules such as DNA, RNA, proteins, and metabolites, as well larger groupings such genomes, proteome, interactomes, connectomes, and so on. Since the vision is of a large collection of atoms with subgroupings of atoms that work together in a complex dynamic manner, a protein would be a collection of atoms, many of which are covalently bonded, that interact together to perform a specific biological function. Samudrala's work has thus focussed on proteins, which is the fundamental unit of biological function within the structeome. Atoms in a structeome interact with the environment which may include other structeomes (or components thereof) thereby causing a strange loop or a tangled hierarchy of interactions. Thus a structeome would include not only all atoms and their interactions within that structeome, but also all interactions to other structeomes. Samudrala has extended this theoretical framework to explain how evolution works by recursion of existing information and has used it to solve research problems with practical applications in medicine, such as therapeutic discovery based on docking with dynamics, multitargeting, and drug repurposing in a shotgun manner, as well as in nanobiotechnology, such as engineering tooth tissue by designing novel peptides that bind to various inorganic substrates.",
+            "score": 124.8957290649414
+        },
+        {
+            "docid": "15228738_2",
+            "document": "MPLKIP . M-phase-specific PLK1-interacting protein (TTD non-photosensitive 1 protein) is a protein that in humans is encoded by the MPLKIP gene (previously known as C7orf11). Patients with an inherited defect in both alleles of the gene suffer from trichothiodystrophy (TTD), a disease hallmarked by brittle hair and nails and usually by developmental difficulties as well. One patient carries a homozygous deletion of the whole gene area, which indicates that the gene is not essential for embryonic development. TTD can be diagnosed by the presence of tigertail-striped patterns in hair visible under polarised light microscopy, or biochemically by a reduced Cys content of the hairs. Only a minority of the TTD cases carry a MPLKIP defect: more frequently, the gene ERCC2 is mutated, which encodes a subunit of the protein complex TFIIH that is required for general transcription and for nucleotide excision repair of DNA damage.",
+            "score": 124.16483306884766
+        },
+        {
+            "docid": "9895073_9",
+            "document": "Transcription factor II H . TFIIH participates in nucleotide excision repair (NER) by opening the DNA double helix after damage is initially recognized. NER is a multi-step pathway that removes a wide range of different damages that distort normal base pairing, including bulky chemical damages and UV-induced damages. Individuals with mutational defects in genes specifying protein components that catalyze the NER pathway, including the TFIIH components, often display features of premature aging (see DNA damage theory of aging).",
+            "score": 123.9924087524414
+        },
+        {
+            "docid": "33560980_6",
+            "document": "Bruce William Stillman . Another major accomplishment was the discovery of the Origin Recognition Complex (ORC), a key protein made up of six subunits that binds to cellular origins of DNA replication and coordinates the entire process of initiating a complete cycle of DNA replication throughout the entire cell genome. Soon after the discovery of ORC, Stillman\u2019s group identified other initiation proteins that together form the pre-replication complex (pre-RC), which makes chromosomes competent for the subsequent initiation of DNA replication during the S phase of the cell cycle. His group\u2019s recent studies have revealed the intricate details of the mechanism of the initiation of DNA replication and illuminated how this process is regulated throughout the cell cycle, including the mechanisms that prevent DNA replication from occurring more than once during each cell cycle. These studies include elucidation of the structure of ORC and its associated pre-RC proteins.",
+            "score": 123.3247299194336
+        },
+        {
+            "docid": "9895073_4",
+            "document": "Transcription factor II H . Two other TFIIH subunits, CDK7 and cyclin H, phosphorylate serine amino acids on the RNA polymerase II C-terminal domain and possibly other proteins involved in the cell cycle. Next to a vital function in transcription initiation, TFIIH is also involved in nucleotide excision repair.",
+            "score": 122.96190643310547
+        },
+        {
+            "docid": "7955_53",
+            "document": "DNA . Structural proteins that bind DNA are well-understood examples of non-specific DNA-protein interactions. Within chromosomes, DNA is held in complexes with structural proteins. These proteins organize the DNA into a compact structure called chromatin. In eukaryotes, this structure involves DNA binding to a complex of small basic proteins called histones, while in prokaryotes multiple types of proteins are involved. The histones form a disk-shaped complex called a nucleosome, which contains two complete turns of double-stranded DNA wrapped around its surface. These non-specific interactions are formed through basic residues in the histones, making ionic bonds to the acidic sugar-phosphate backbone of the DNA, and are thus largely independent of the base sequence. Chemical modifications of these basic amino acid residues include methylation, phosphorylation, and acetylation. These chemical changes alter the strength of the interaction between the DNA and the histones, making the DNA more or less accessible to transcription factors and changing the rate of transcription. Other non-specific DNA-binding proteins in chromatin include the high-mobility group proteins, which bind to bent or distorted DNA. These proteins are important in bending arrays of nucleosomes and arranging them into the larger structures that make up chromosomes.",
+            "score": 122.09063720703125
+        }
+    ]
+}

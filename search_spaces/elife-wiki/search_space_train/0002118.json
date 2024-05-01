@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "437943_15",
+            "document": "Fanconi anemia . There are 19 genes responsible for FA, one of them being the breast-cancer susceptibility gene BRCA2. They are involved in the recognition and repair of damaged DNA; genetic defects leave them unable to repair DNA. The FA core complex of 8 proteins is normally activated when DNA stops replicating because of damage. The core complex adds ubiquitin, a small protein that combines with BRCA2 in another cluster to repair DNA (see Figure Recombinational repair of DNA double-strand damage). At the end of the process, ubiquitin is removed.",
+            "score": 177.53640985488892
+        },
+        {
+            "docid": "437943_18",
+            "document": "Fanconi anemia . Monoubiquitinated FANCD2, also known as FANCD2-L, then goes on to interact with a BRCA1/BRCA2 complex (see Figure Recombinational repair of DNA double-strand damage). Details are not known, but similar complexes are involved in genome surveillance and associated with a variety of proteins implicated in DNA repair and chromosomal stability. With a crippling mutation in any FA protein in the complex, DNA repair is much less effective, as shown by its response to damage caused by cross-linking agents such as cisplatin, diepoxybutane and Mitomycin C. Bone marrow is particularly sensitive to this defect.",
+            "score": 210.6285104751587
+        },
+        {
+            "docid": "14875121_3",
+            "document": "FANCL . The clinical phenotype of mutational defects in all Fanconi anemia (FA) complementation groups is similar. This phenotype is characterized by progressive bone marrow failure, cancer proneness and typical birth defects. The main cellular phenotype is hypersensitivity to DNA damage, particularly inter-strand DNA crosslinks. The FA proteins interact through a multi-protein pathway. DNA interstrand crosslinks are highly deleterious damages that are repaired by homologous recombination involving coordination of FA proteins and \"breast cancer susceptibility gene 1 (BRCA1)\".",
+            "score": 147.67254328727722
+        },
+        {
+            "docid": "437943_2",
+            "document": "Fanconi anemia . Fanconi anaemia (FA) is a rare genetic disease resulting in impaired response to DNA damage. Although it is a very rare disorder, study of this and other bone marrow failure syndromes has improved scientific understanding of the mechanisms of normal bone marrow function and development of cancer. Among those affected, the majority develop cancer, most often acute myelogenous leukemia, and 90% develop bone marrow failure (the inability to produce blood cells) by age 40. About 60\u201375% of people have congenital defects, commonly short stature, abnormalities of the skin, arms, head, eyes, kidneys, and ears, and developmental disabilities. Around 75% of people have some form of endocrine problems, with varying degrees of severity. FA is the result of a genetic defect in a cluster of proteins responsible for DNA repair via homologous recombination. Treatment with androgens and hematopoietic (blood cell) growth factors can help bone marrow failure temporarily, but the long-term treatment is bone marrow transplant if a donor is available. Because of the genetic defect in DNA repair, cells from people with FA are sensitive to drugs that treat cancer by DNA crosslinking, such as mitomycin C. The typical age of death was 30 years in 2000. FA occurs in about one per 130,000 births, with a higher frequency in Ashkenazi Jews in Israel and Afrikaners in South Africa. The disease is named after the Swiss pediatrician who originally described this disorder, Guido Fanconi. It should not be confused with Fanconi syndrome, a kidney disorder also named after Fanconi.",
+            "score": 183.23475635051727
+        },
+        {
+            "docid": "39984231_8",
+            "document": "FAN1 . Repair of interstrand DNA crosslinks is triggered when the DNA replication fork is unable to continue. The FA proteins play an elaborate role with FAN1 to remove these ICLs. The pathway consists of 15 known proteins. Three of them form the FA AP24-MHF1/2 complex which recognizes the ICL (from stalled replication forks). This recruits the FA core complex, which consists of 8 proteins. This complex monoubiquitinates FANCD2 and FANCI, which allows it to form a heterodimer. It is this complex that recruits FAN1 as well as other nucleases such as SLX4. Ubiquinated FANCD2 interacts with the FAN1 nuclease. Upon its recruitment by FANCD2, FAN1 acts to restrain DNA replication fork progression and to prevent chromosome abnormalities from occurring when DNA replication forks stall. FAN1 is typically localized in the nucleus, but forms very distinct loci at damaged regions when ICLs are present.",
+            "score": 173.68213844299316
+        },
+        {
+            "docid": "14725541_12",
+            "document": "FANCA . However, as FANCA and BRCA1 undergo a constitutive interaction, this may not depend solely on detection of actual DNA damage. Instead BRCA1 protein may be more crucial in the detection of double stranded DNA breaks, or an intermediate in interstrand crosslink (ICL) repair, and rather serve to bring some of the many DNA repair proteins it interacts with to the site. One such protein would be FANCA, which in turn may serve as a docking site or anchor point at the site of ICL damage for the FA core complex. Other FANC proteins, such as FANCC, FANCE and FANCG are then assembled in this nuclear complex in the presence of FANCA as required for the action of FANCD2. This mechanic is also supported by the protein-protein interactions between BRG1 and both BRCA1 and FANCA, that serve to modulate cell-cycle kinetics alongside this. Alternatively, BRCA1 might localize FANCA to the site of DNA damage and then release it to initiate complex formation. The complex would allow ubiquitination of FANCD2, a later functioning protein in the FA path, promoting ICL and DNA repair.",
+            "score": 192.9290908575058
+        },
+        {
+            "docid": "14725541_11",
+            "document": "FANCA . In cells from Fanconi anaemia patients, FA core complex induction of FANCD2 ubiquitination is not observed, assumably a result from impaired complex formation due to the lack of a working FANCA protein. Ultimately, regardless of specific mutation, it is disruption of this FA/BRCA pathway that results in the adverse cellular and clinical phenotypes common to all FANCA-impaired Fanconi anaemia sufferers. Interactions between BRCA1 and many FANC proteins have been investigated. Amongst known FANC proteins, most evidence points for a direct interaction primarily between FANCA protein and BRCA1. Evidence from yeast two-hybrid analysis, coimmunoprecipitation from \"in vitro\" synthesis, and coimmunoprecipitation from cell extracts shows that the site of interaction is between the terminal amino group of FANCA and the central part of BRCA1, located within amino acids 740\u20131083.",
+            "score": 141.94590544700623
+        },
+        {
+            "docid": "14755542_4",
+            "document": "FANCG . The clinical phenotype of all Fanconi anemia (FA) complementation groups is similar. This phenotype is characterized by progressive bone marrow failure, cancer proneness and typical birth defects. The main cellular phenotype is hypersensitivity to DNA damage, particularly inter-strand DNA crosslinks. The FA proteins interact through a multiprotein pathway. DNA interstrand crosslinks are highly deleterious damages that are repaired by homologous recombination involving coordination of FA proteins and \"breast cancer susceptibility gene 1 (BRCA1)\", but the exact biochemical roles of these proteins is currently unclear.",
+            "score": 151.64924931526184
+        },
+        {
+            "docid": "14794628_5",
+            "document": "FANCF . The FA core complex is a nuclear core complex that is essential for the monoubiquitination of FANCD2 and this modified form of FANCD2 colocalizes with BRCA1, RAD51 and PCNA in foci that also contain other DNA repair proteins. All these proteins function together to facilitate DNA interstrand cross-link repair. They also function in other DNA damage response repair processes including recovering and stabilizing stalled replication forks. FoxF1 protein also interacts with the FA protein core and induces its binding to chromatin to promote DNA repair.",
+            "score": 174.10556316375732
+        },
+        {
+            "docid": "14879953_6",
+            "document": "FANCB . Within the Fanconi anemia core complex, FANCB has an obligate interaction with FAAP100 and FANCL, to form a catalytic E3 RING ligase enzyme. FANCB creates a dimer interface within this subcomplex that is required for simultaneous ubiquitination of FANCD2 and FANCI. Electron microscopy imaging of the FANCB-FANCL-FAAP100 complex revealed a symmetry that is centred on FANCB, and biochemical investigation confirmed that the entire complex is a dimer containing two of each subunit. Further imaging reveals the overall architecture of the Fanconi Anemia core complex centres on FANCB protein.",
+            "score": 148.87555861473083
+        },
+        {
+            "docid": "657905_14",
+            "document": "Agkistrodon . Although \"Agkistrodon\" venom is lethal to both prey and humans \"in vivo\", when controlled, research shows that the venom has some clinical application. \"Deinagkistrodon acutus\" snake venom contains a protein called ACTX-6. This protein was shown to induce apoptosis (cell death) in isolated cancer cells through Fas pathway activation. Fas is a protein that becomes a death receptor in the cellular membrane. When activated, Fas turns on what is called a \u201cCaspase Cascade.\u201d This pathway is made up of a series of proteins called initiator and executioner caspases. Initiator caspases help form an apoptosis initiation factor that eventually activates executioner caspases (see figure 3). Executioner caspases go on to \u201cdigest\u201d the cell from the inside out. They cleave cytoskeleton filaments and DNA until the cell completely implodes.",
+            "score": 105.4711434841156
+        },
+        {
+            "docid": "14725541_5",
+            "document": "FANCA . In humans, the gene FANCA is 79 kilobases (kb) in length, and is located on chromosome 16 (16q24.3). The FANCA protein is composed of 1455 amino acids. Within cells, the major purpose of FANCA belongs to its putative involvement in a multisubunit FA complex composed of FANCA, FANCB, FANCC, FANCE, FANCF, FANCG, FANCL/PHF9 and FANCM. In complex with FANCF, FANCG and FANCL, FANCA interacts with HES1. This interaction has been proposed as essential for the stability and nuclear localization of FA core complex proteins. The complex with FANCC and FANCG may also include EIF2AK2 and HSP70. In cells, FANCA involvement in this \u2018FA core complex\u2019 is required for the activation of the FANCD2 protein to a monoubiquitinated isoform (FANCD2-Ub) in response to DNA damage, catalysing activation of the FA/BRCA DNA damage-response pathway, leading to repair.",
+            "score": 157.88743031024933
+        },
+        {
+            "docid": "14753813_3",
+            "document": "FANCD2 . Fanconi anemia is a genetically homozygous recessive disorder characterized by chromosomal instability, hypersensitivity to DNA crosslinking agents, increased chromosomal breakage, and defective DNA repair. The members of the Fanconi anemia complementation group do not share sequence similarity; they are related by their assembly into a common nuclear protein complex. This gene encodes the protein for complementation group D2. This protein is monoubiquitinated in response to DNA damage, resulting in its localization to nuclear foci with other proteins (BRCA1 and BRCA2) involved in homology-directed DNA repair (see Figure: Recombinational repair of DNA double-strand damages). A nuclear complex containing FANCA, FANCC, FANCF and FANCG proteins is required for the activation of the FANCD2 protein to the mono-ubiquitinated isoform. Mono-ubiquination of FANCD2 is essential for repairing DNA interstrand crosslinks.",
+            "score": 226.44604516029358
+        },
+        {
+            "docid": "2851991_4",
+            "document": "Bimolecular fluorescence complementation . Recognition of many proteins' ability to spontaneously assemble into functional complexes as well as the ability of protein fragments to assemble as a consequence of the spontaneous functional complex assembly of interaction partners to which they are fused was later reported for ubiquitin fragments in yeast protein interactions.  In 2000, Ghosh \"et al\" developed a system that allowed a green fluorescent protein (GFP) to be reassembled using an anti-parallel leucine zipper in \"E. coli\" cells. This was achieved by dissecting GFP into C- and N-terminal GFP fragments. As the GFP fragment was attached to each leucine zipper by a linker, the heterodimerisation of the anti-parallel leucine zipper resulted in a reconstituted, or re-formed, GFP protein that could be visualised. The successful fluorescent signal indicated that the separate GFP peptide fragments were able to correctly reassemble and achieve tertiary folding. It was, therefore, postulated that using this technique, fragmented GFP could be used to study interaction of protein\u2013protein pairs that have their N\u2013C termini in close proximity.  After the demonstration of successful fluorescent protein fragment reconstitution in mammalian cells, Hu \"et al\". described the use of fragmented yellow fluorescent protein (YFP) in the investigation of bZIP and Rel family transcription factor interactions. This was the first report bZIP protein interaction regulation by regions outside of the bZIP domain, regulation of subnuclear localization of the bZIP domains Fos and Jun by their different interacting partners, and modulation of transcriptional activation of bZIP and Rel proteins through mutual interactions. In addition, this study was the first report of an \"in vivo\" technique, now known as the bimolecular fluorescence complementation (BiFC) assay, to provide insight into the structural basis of protein complex formation through detection of fluorescence caused by the assembly of fluorescent reporter protein fragments tethered to interacting proteins.",
+            "score": 106.9123044013977
+        },
+        {
+            "docid": "3473628_6",
+            "document": "Gene product . Proteins have many different functions in a cell and the function may vary based on the polypeptides they interact with and their cellular environment. Chaperone proteins work to stabilize newly synthesized proteins. They ensure the new protein folds into its correct functional conformation in addition to making sure products do not aggregate in areas where they should not. Proteins can also function as enzymes, increasing the rate of various biochemical reactions and turning substrates into products. Products can be modified by attaching groups such as phosphate via an enzyme to specific amino acids in the primary sequence. Proteins can also be used to move molecules in the cell to where they are needed, these are called motor proteins. The shape of the cell is supported by proteins. Proteins such as actin, microtubules and intermediate filaments provide structure to the cell. Another class of proteins are found in plasma membranes. Membrane proteins can be associated with the plasma membrane in different ways, depending on their structure. These proteins allow the cell to import or export cell products, nutrients or signals to and from the extracellular space. Other proteins help the cell to perform regulatory functions. For example, transcription factors bind to DNA to help transcription of RNA.",
+            "score": 118.57306134700775
+        },
+        {
+            "docid": "966654_4",
+            "document": "DNA-binding protein . Structural proteins that bind DNA are well-understood examples of non-specific DNA-protein interactions. Within chromosomes, DNA is held in complexes with structural proteins. These proteins organize the DNA into a compact structure called chromatin. In eukaryotes, this structure involves DNA binding to a complex of small basic proteins called histones. In prokaryotes, multiple types of proteins are involved. The histones form a disk-shaped complex called a nucleosome, which contains two complete turns of double-stranded DNA wrapped around its surface. These non-specific interactions are formed through basic residues in the histones making ionic bonds to the acidic sugar-phosphate backbone of the DNA, and are therefore largely independent of the base sequence. Chemical modifications of these basic amino acid residues include methylation, phosphorylation and acetylation. These chemical changes alter the strength of the interaction between the DNA and the histones, making the DNA more or less accessible to transcription factors and changing the rate of transcription. Other non-specific DNA-binding proteins in chromatin include the high-mobility group (HMG) proteins, which bind to bent or distorted DNA. Biophysical studies show that these architectural HMG proteins bind, bend and loop DNA to perform its biological functions. These proteins are important in bending arrays of nucleosomes and arranging them into the larger structures that form chromosomes.",
+            "score": 94.95180308818817
+        },
+        {
+            "docid": "7955_53",
+            "document": "DNA . Structural proteins that bind DNA are well-understood examples of non-specific DNA-protein interactions. Within chromosomes, DNA is held in complexes with structural proteins. These proteins organize the DNA into a compact structure called chromatin. In eukaryotes, this structure involves DNA binding to a complex of small basic proteins called histones, while in prokaryotes multiple types of proteins are involved. The histones form a disk-shaped complex called a nucleosome, which contains two complete turns of double-stranded DNA wrapped around its surface. These non-specific interactions are formed through basic residues in the histones, making ionic bonds to the acidic sugar-phosphate backbone of the DNA, and are thus largely independent of the base sequence. Chemical modifications of these basic amino acid residues include methylation, phosphorylation, and acetylation. These chemical changes alter the strength of the interaction between the DNA and the histones, making the DNA more or less accessible to transcription factors and changing the rate of transcription. Other non-specific DNA-binding proteins in chromatin include the high-mobility group proteins, which bind to bent or distorted DNA. These proteins are important in bending arrays of nucleosomes and arranging them into the larger structures that make up chromosomes.",
+            "score": 92.81939899921417
+        },
+        {
+            "docid": "14725541_13",
+            "document": "FANCA . FANCA\u2019s emerging putative and clearly integral function within activation the FA core complex also provides an explanation for its particularly high correlation with mutations causing Fanconi anaemia. Whilst many FANC protein mutations account for only 1% of the total observed cases, they are also stabilized by FANCA within the complex. For example, FANCA stabilises FANCG within the core complex, and hence mutations in FANCG are compensated for as the complex can still catalyse FANCD2-ubiquitination further downstream. FANCA upregulation also increases expression of FANCG in cells, and the fact this transduction is not mutual \u2013 FANCG upregulation does not cause increased expression of FANCA \u2013 suggests that FANCA is not only the primary stabilizing protein in the core complex, but may act as a natural regulator in patients who would otherwise suffer from mutations in FANC genes other than FANCA or FANCD2.",
+            "score": 140.10269165039062
+        },
+        {
+            "docid": "14879953_5",
+            "document": "FANCB . The FANCB gene product is FANCB protein. FANCB is a component of a \"core complex\" of nine Fanconi Anemia proteins: FANCA, FANCB, FANCC, FANCE, FANCF, FANCG, FANCL, FAAP100 and FAAP20. The core complex localises to DNA damage sites during DNA replication where it catalyzes transfer of ubiquitin to FANCD2 and FANCI. In particular, this reaction is necessary for the repair of DNA interstrand crosslinks, such as those formed by chemotherapy drugs cisplatin, mitomycin c and melphalan.",
+            "score": 205.915842294693
+        },
+        {
+            "docid": "15066434_10",
+            "document": "RNF8 . Ku protein is a dimeric protein complex, a heterodimer of two polypeptides, Ku70 and Ku80. Ku protein forms a ring structure. An early step in non-homologous end joining DNA repair of a double-strand break is the slipping of a Ku protein (with its ring protein structure) over each end of the broken DNA. The two Ku proteins, one on each broken end, bind to each other and form a bridge. This protects the DNA ends and forms a platform for further DNA repair enzymes to operate. After the broken ends are rejoined, the two Ku proteins still encircle the now intact DNA and can no longer slip off an end. The Ku proteins must be removed or they cause loss of cell viability. The removal of Ku protein is performed either by RNF8 ubiquitination of Ku80, allowing it to be released from the Ku protein ring, or else by NEDD8 promoted ubiquitination of Ku protein, causing its release from DNA.",
+            "score": 148.97207808494568
+        },
+        {
+            "docid": "15063646_3",
+            "document": "FANCI . The Fanconi anemia complementation group (FANC) currently includes FANCA, FANCB, FANCC, FANCD1 (also called BRCA2), FANCD2, FANCE, FANCF, FANCG, FANCI, FANCJ (also called BRIP1), FANCL, FANCM and FANCN (also called PALB2). The previously defined group FANCH is the same as FANCA. Fanconi anemia is a genetically heterogeneous recessive disorder characterized by cytogenetic instability, hypersensitivity to DNA crosslinking agents, increased chromosomal breakage, and defective DNA repair. The members of the Fanconi anemia complementation group do not share sequence similarity; they are related by their assembly into a common nuclear protein complex. This gene encodes the protein for complementation group I. Alternative splicing results in two transcript variants encoding different isoforms.",
+            "score": 158.9627513885498
+        },
+        {
+            "docid": "8258312_3",
+            "document": "Ubiquitin-activating enzyme . Ubiquitin-activating enzyme (E1) starts the ubiquitination process (Figure 1). The E1 enzyme along with ATP binds to the ubiquitin protein. The E1 enzyme then passes the ubiquitin protein to a second protein, called Ubiquitin carrier or conjugation protein (E2). The E2 protein complexes with a Ubiquitin protein ligase (E3). This Ubiquitin protein ligase recognizes which protein needs to be tagged and catalyzes the transfer of ubiquitin to that protein. This pathway repeats itself until the target protein has a full chain of ubiquitin attached to itself.",
+            "score": 127.13609290122986
+        },
+        {
+            "docid": "24603_3",
+            "document": "Proteasome . Proteasomes are part of a major mechanism by which cells regulate the concentration of particular proteins and degrade misfolded proteins. Proteins are tagged for degradation with a small protein called ubiquitin. The tagging reaction is catalyzed by enzymes called ubiquitin ligases. Once a protein is tagged with a single ubiquitin molecule, this is a signal to other ligases to attach additional ubiquitin molecules. The result is a \"polyubiquitin chain\" that is bound by the proteasome, allowing it to degrade the tagged protein. The degradation process yields peptides of about seven to eight amino acids long, which can then be further degraded into shorter amino acid sequences and used in synthesizing new proteins.",
+            "score": 139.0861692428589
+        },
+        {
+            "docid": "7241138_7",
+            "document": "Endoplasmic-reticulum-associated protein degradation . The ubiquitination of terminally misfolded proteins is caused by a cascade of enzymatic reactions. The first of these reactions takes place when the ubiquitin-activating enzyme E1 hydrolyses ATP and forms a high-energy thioester linkage between a cysteine residue in its active site and the C-terminus of ubiquitin. The resulting activated ubiquitin is then passed to E2, which is a ubiquitin-conjugating enzyme. Another group of enzymes, more specifically ubiquitin protein ligases called E3, bind to the misfolded protein. Next they align the protein and E2, thus facilitating the attachment of ubiquitin to lysine residues of the misfolded protein. Following successive addition of ubiquitin molecules to lysine residues of the previously attached ubiquitin, a polyubiquitin chain is formed. A polyubiquitinated protein is produced and this is recognized by specific subunits in the 19S capping complexes of the 26S proteasome. Hereafter, the polypeptide chain is fed into the central chamber of the 20S core region that contains the proteolytically active sites. Ubiquitin is cleaved before terminal digestion by deubiquitinating enzymes. This third step is very closely associated with the second one, since ubiquitination takes place during the translocation event. However, the proteasomal degradation takes place in the cytoplasm.",
+            "score": 126.57980346679688
+        },
+        {
+            "docid": "14723293_4",
+            "document": "Fanconi anemia, complementation group C . A nuclear complex containing FANCC protein (as well as FANCA, FANCF and FANCG) is essential for the activation of the FANCD2 protein to the mono-ubiquitinated isoform. In normal, non-mutant, cells FANCD2 is mono-ubiquinated in response to DNA damage. Activated FANCD2 protein co-localizes with BRCA1 (breast cancer susceptibility protein) at ionizing radiation-induced foci and in synaptonemal complexes of meiotic chromosomes. Activated FANCD2 protein may function prior to the initiation of meiotic recombination, perhaps to prepare chromosomes for synapsis, or to regulate subsequent recombination events.",
+            "score": 215.6940472126007
+        },
+        {
+            "docid": "14879953_3",
+            "document": "FANCB . The Fanconi anemia complementation group (FANC) currently includes FANCA, FANCB, FANCC, FANCD1 (also called BRCA2), FANCD2, FANCE, FANCF, FANCG, and FANCL. Fanconi anemia is a genetically heterogeneous recessive disorder characterized by cytogenetic instability, hypersensitivity to DNA crosslinking agents, increased chromosomal breakage, and defective DNA repair. The members of the Fanconi anemia complementation group do not share sequence similarity; they are related by their assembly into a common nuclear protein complex. This gene encodes the protein for complementation group B. Alternative splicing results in two transcript variants encoding the same protein.",
+            "score": 152.72700214385986
+        },
+        {
+            "docid": "50185_47",
+            "document": "Jellyfish . In 1961, Osamu Shimomura extracted green fluorescent protein (GFP) and another bioluminescent protein, called aequorin, from the large and abundant hydromedusa \"Aequorea victoria\", while studying photoproteins that cause bioluminescence in this species. Three decades later, Douglas Prasher sequenced and cloned the gene for GFP. Martin Chalfie figured out how to use GFP as a fluorescent marker of genes inserted into other cells or organisms. Roger Tsien later chemically manipulated GFP to produce other fluorescent colors to use as markers. In 2008, Shimomura, Chalfie and Tsien won the Nobel Prize in Chemistry for their work with GFP. Man-made GFP became commonly used as a fluorescent tag to show which cells or tissues express specific genes. The genetic engineering technique fuses the gene of interest to the GFP gene. The fused DNA is then put into a cell, to generate either a cell line or (via IVF techniques) an entire animal bearing the gene. In the cell or animal, the artificial gene turns on in the same tissues and the same time as the normal gene, making GFP instead of the normal protein. Illuminating the animal or cell reveals what tissues express that protein\u2014or at what stage of development. The fluorescence shows where the gene is expressed.",
+            "score": 98.23045229911804
+        },
+        {
+            "docid": "9652398_4",
+            "document": "Fusion protein . Many whole gene fusions are fully functional and can still act to replace the original peptides. Some, however, experience interactions between the two proteins that can modify their functions. Beyond these effects, some gene fusions may cause regulatory changes that alter when and where these genes act. For partial gene fusions, the shuffling of different active sites and binding domains have the potential to result in new proteins with novel functions. The fusion of fluorescent tags to proteins in a host cell is a widely popular technique used in experimental cell and biology research in order to track protein interactions in real time. The first fluorescent tag, green fluorescent protein (GFP), was isolated from \"Aequorea Victoria\" and is still used frequently in modern research. More recent derivations include photoconvertible fluorescent proteins (PCFPs), which were first isolated from \"Anthozoa\". The most commonly used PCFP is the Kaede fluorescent tag, but the development of Kikume green-red (KikGR) in 2005 offers a brighter signal and more efficient photoconversion. The advantage of using PCFP fluorescent tags is the ability to track the interaction of overlapping biochemical pathways in real time. The tag will change color from green to red once the protein reaches a point of interest in the pathway, and the alternate colored protein can be monitored through the duration of pathway. This technique is especially useful when studying G-protein coupled receptor (GPCR) recycling pathways. The fates of recycled G-protein receptors may either be sent to the plasma membrane to be recycled, marked by a green fluorescent tag, or may be sent to a lysosome for degradation, marked by a red fluorescent tag.",
+            "score": 76.64121186733246
+        },
+        {
+            "docid": "2027822_6",
+            "document": "Indole-3-acetic acid . IAA enters the plant cell nucleus and binds to a protein complex composed of a ubiquitin-activating enzyme (E1), a ubiquitin-conjugating enzyme (E2), and a ubiquitin ligase (E3), resulting in ubiquitination of Aux/IAA proteins with increased speed. Aux/IAA proteins bind to auxin response factor (ARF) proteins, forming a heterodimer, suppressing ARF activity. In 1997 it was described how ARFs bind to auxin-response gene elements in promoters of auxin regulated genes, generally activating transcription of that gene when an Aux/IAA protein is not bound.",
+            "score": 114.0091609954834
+        },
+        {
+            "docid": "437943_19",
+            "document": "Fanconi anemia . In another pathway responding to ionizing radiation, FANCD2 is thought to be phosphorylated by protein complex ATM/ATR activated by double-strand DNA breaks, and takes part in S-phase checkpoint control. This pathway was proven by the presence of radioresistant DNA synthesis, the hallmark of a defect in the S phase checkpoint, in patients with FA-D1 or FA-D2. Such a defect readily leads to uncontrollable replication of cells and might also explain the increase frequency of AML in these patients.",
+            "score": 145.871906042099
+        },
+        {
+            "docid": "14178697_3",
+            "document": "RAD23B . The protein encoded by this gene is one of two human homologs of Saccharomyces cerevisiae Rad23, a protein involved in nucleotide excision repair (NER). This protein was found to be a component of the protein complex that specifically complements the NER defect of xeroderma pigmentosum group C (XP-c) cell extracts in vitro. This protein was also shown to interact with, and elevate the nucleotide excision activity of 3-methyladenine-DNA glycosylase (MPG), which suggested a role in DNA damage recognition in base excision repair. This protein contains an N-terminal ubiquitin-like domain, which was reported to interact with 26S proteasome, and thus this protein may be involved in the ubiquitin mediated proteolytic pathway in cells.",
+            "score": 153.65931046009064
+        },
+        {
+            "docid": "1460525_17",
+            "document": "Oncovirus . Viruses employ various methods of inactivating p53. The adenovirus E1B protein (55K) prevents p53 from regulating genes by binding to the site on p53 which binds to the genome. In SV40, the large T antigen (LT) is an analogue; LT also binds to several other cellular proteins, such as p107 and p130, on the same residues. LT binds to p53\u2019s binding domain on the DNA (rather than on the protein), again preventing p53 from appropriately regulating genes. HPV instead degrades p53: the HPV protein E6 binds to a cellular protein called the E6-associated protein (E6-AP, also known as UBE3A), forming a complex which causes the rapid and specific ubiquitination of p53.",
+            "score": 100.63755106925964
+        }
+    ],
+    "r": [
+        {
+            "docid": "14753813_3",
+            "document": "FANCD2 . Fanconi anemia is a genetically homozygous recessive disorder characterized by chromosomal instability, hypersensitivity to DNA crosslinking agents, increased chromosomal breakage, and defective DNA repair. The members of the Fanconi anemia complementation group do not share sequence similarity; they are related by their assembly into a common nuclear protein complex. This gene encodes the protein for complementation group D2. This protein is monoubiquitinated in response to DNA damage, resulting in its localization to nuclear foci with other proteins (BRCA1 and BRCA2) involved in homology-directed DNA repair (see Figure: Recombinational repair of DNA double-strand damages). A nuclear complex containing FANCA, FANCC, FANCF and FANCG proteins is required for the activation of the FANCD2 protein to the mono-ubiquitinated isoform. Mono-ubiquination of FANCD2 is essential for repairing DNA interstrand crosslinks.",
+            "score": 226.446044921875
+        },
+        {
+            "docid": "14723293_4",
+            "document": "Fanconi anemia, complementation group C . A nuclear complex containing FANCC protein (as well as FANCA, FANCF and FANCG) is essential for the activation of the FANCD2 protein to the mono-ubiquitinated isoform. In normal, non-mutant, cells FANCD2 is mono-ubiquinated in response to DNA damage. Activated FANCD2 protein co-localizes with BRCA1 (breast cancer susceptibility protein) at ionizing radiation-induced foci and in synaptonemal complexes of meiotic chromosomes. Activated FANCD2 protein may function prior to the initiation of meiotic recombination, perhaps to prepare chromosomes for synapsis, or to regulate subsequent recombination events.",
+            "score": 215.6940460205078
+        },
+        {
+            "docid": "437943_18",
+            "document": "Fanconi anemia . Monoubiquitinated FANCD2, also known as FANCD2-L, then goes on to interact with a BRCA1/BRCA2 complex (see Figure Recombinational repair of DNA double-strand damage). Details are not known, but similar complexes are involved in genome surveillance and associated with a variety of proteins implicated in DNA repair and chromosomal stability. With a crippling mutation in any FA protein in the complex, DNA repair is much less effective, as shown by its response to damage caused by cross-linking agents such as cisplatin, diepoxybutane and Mitomycin C. Bone marrow is particularly sensitive to this defect.",
+            "score": 210.62850952148438
+        },
+        {
+            "docid": "14879953_5",
+            "document": "FANCB . The FANCB gene product is FANCB protein. FANCB is a component of a \"core complex\" of nine Fanconi Anemia proteins: FANCA, FANCB, FANCC, FANCE, FANCF, FANCG, FANCL, FAAP100 and FAAP20. The core complex localises to DNA damage sites during DNA replication where it catalyzes transfer of ubiquitin to FANCD2 and FANCI. In particular, this reaction is necessary for the repair of DNA interstrand crosslinks, such as those formed by chemotherapy drugs cisplatin, mitomycin c and melphalan.",
+            "score": 205.9158477783203
+        },
+        {
+            "docid": "14875121_5",
+            "document": "FANCL . A nuclear complex containing FANCL (as well as FANCA, FANCB, FANCC, FANCE, FANCF, FANCG and FANCM) is essential for the activation of the FANCD2 protein to the mono-ubiquitinated isoform. In normal, non-mutant, cells FANCD2 is mono-ubiquinated in response to DNA damage. Activated FANCD2 protein co-localizes with BRCA1 (breast cancer susceptibility protein) at ionizing radiation-induced foci and in synaptonemal complexes of meiotic chromosomes (see Figure: Recombinational repair of double strand damage).",
+            "score": 203.4550323486328
+        },
+        {
+            "docid": "14755542_5",
+            "document": "FANCG . A nuclear complex containing FANCG (as well as FANCA, FANCB, FANCC, FANCE, FANCF, FANCL and FANCM) is essential for the activation of the FANCD2 protein to the mono-ubiquitinated isoform. In normal, non-mutant, cells FANCD2 is mono-ubiquinated in response to DNA damage. Activated FANCD2 protein co-localizes with BRCA1 (breast cancer susceptibility protein) at ionizing radiation-induced foci and in synaptonemal complexes of meiotic chromosomes (see Figure: Recombinational repair of double strand damage).",
+            "score": 203.4550323486328
+        },
+        {
+            "docid": "14725541_12",
+            "document": "FANCA . However, as FANCA and BRCA1 undergo a constitutive interaction, this may not depend solely on detection of actual DNA damage. Instead BRCA1 protein may be more crucial in the detection of double stranded DNA breaks, or an intermediate in interstrand crosslink (ICL) repair, and rather serve to bring some of the many DNA repair proteins it interacts with to the site. One such protein would be FANCA, which in turn may serve as a docking site or anchor point at the site of ICL damage for the FA core complex. Other FANC proteins, such as FANCC, FANCE and FANCG are then assembled in this nuclear complex in the presence of FANCA as required for the action of FANCD2. This mechanic is also supported by the protein-protein interactions between BRG1 and both BRCA1 and FANCA, that serve to modulate cell-cycle kinetics alongside this. Alternatively, BRCA1 might localize FANCA to the site of DNA damage and then release it to initiate complex formation. The complex would allow ubiquitination of FANCD2, a later functioning protein in the FA path, promoting ICL and DNA repair.",
+            "score": 192.92909240722656
+        },
+        {
+            "docid": "14875121_4",
+            "document": "FANCL . The Fanconi Anemia (FA) DNA repair pathway is essential for the recognition and repair of DNA interstrand crosslinks (ICL). A critical step in the pathway is the monoubiquitination of FANCD2 by the RING E3 ligase FANCL. FANCL comprises 3 domains, a RING domain that interacts with E2 conjugating enzymes, a central domain required for substrate interaction, and an N-terminal E2-like fold (ELF) domain that interacts with FANCB. The ELF domain of FANCL is also required to mediate a non-covalent interaction between FANCL and ubiquitin. The ELF domain is required to promote efficient DNA damage-induced FANCD2 monoubiquitination in vertebrate cells, suggesting an important function of FANCB and ubiquitin binding by FANCL in vivo.",
+            "score": 189.80523681640625
+        },
+        {
+            "docid": "22519615_15",
+            "document": "Johanson\u2013Blizzard syndrome . The protein ubiquitin is a universal, \"ubiquitously\" expressed protein common to eukaryotic organisms. Ubiquitin plays a role in the regulation of other proteins by tagging them for eventual degradation by proteasomes. This process begins when \"ubiquitin ligase\" covalently attaches a ubiquitin molecule to the lysine side chain of the target protein substrate (the misfolded, damaged, malfunctioning or unneeded protein that needs to be degraded). This is repeated a number of times in succession forming a chain of ubiquitin molecules, which is a process referred to as polyubiquitination. The polyubiquitination of the target protein signals the proteasome to break it down, which it does via proteolysis. The ubiquitin-proteasome system plays a crucial role in the non-lysosomal degradation of intracellular proteins, and ubiquitin can also participate in modifying proteins to perform certain tasks. Both degradation and modification of proteins within the cell are part of a broader regulatory scheme, necessary for cellular processes such as cell division, cell signalling, cell surface receptor function, apoptosis, DNA maintenance, inflammatory response and developmental quality control associated with the cell cycle and homeostasis in general.",
+            "score": 184.13119506835938
+        },
+        {
+            "docid": "437943_2",
+            "document": "Fanconi anemia . Fanconi anaemia (FA) is a rare genetic disease resulting in impaired response to DNA damage. Although it is a very rare disorder, study of this and other bone marrow failure syndromes has improved scientific understanding of the mechanisms of normal bone marrow function and development of cancer. Among those affected, the majority develop cancer, most often acute myelogenous leukemia, and 90% develop bone marrow failure (the inability to produce blood cells) by age 40. About 60\u201375% of people have congenital defects, commonly short stature, abnormalities of the skin, arms, head, eyes, kidneys, and ears, and developmental disabilities. Around 75% of people have some form of endocrine problems, with varying degrees of severity. FA is the result of a genetic defect in a cluster of proteins responsible for DNA repair via homologous recombination. Treatment with androgens and hematopoietic (blood cell) growth factors can help bone marrow failure temporarily, but the long-term treatment is bone marrow transplant if a donor is available. Because of the genetic defect in DNA repair, cells from people with FA are sensitive to drugs that treat cancer by DNA crosslinking, such as mitomycin C. The typical age of death was 30 years in 2000. FA occurs in about one per 130,000 births, with a higher frequency in Ashkenazi Jews in Israel and Afrikaners in South Africa. The disease is named after the Swiss pediatrician who originally described this disorder, Guido Fanconi. It should not be confused with Fanconi syndrome, a kidney disorder also named after Fanconi.",
+            "score": 183.23475646972656
+        },
+        {
+            "docid": "437943_15",
+            "document": "Fanconi anemia . There are 19 genes responsible for FA, one of them being the breast-cancer susceptibility gene BRCA2. They are involved in the recognition and repair of damaged DNA; genetic defects leave them unable to repair DNA. The FA core complex of 8 proteins is normally activated when DNA stops replicating because of damage. The core complex adds ubiquitin, a small protein that combines with BRCA2 in another cluster to repair DNA (see Figure Recombinational repair of DNA double-strand damage). At the end of the process, ubiquitin is removed.",
+            "score": 177.53640747070312
+        },
+        {
+            "docid": "14794628_5",
+            "document": "FANCF . The FA core complex is a nuclear core complex that is essential for the monoubiquitination of FANCD2 and this modified form of FANCD2 colocalizes with BRCA1, RAD51 and PCNA in foci that also contain other DNA repair proteins. All these proteins function together to facilitate DNA interstrand cross-link repair. They also function in other DNA damage response repair processes including recovering and stabilizing stalled replication forks. FoxF1 protein also interacts with the FA protein core and induces its binding to chromatin to promote DNA repair.",
+            "score": 174.10557556152344
+        },
+        {
+            "docid": "39984231_8",
+            "document": "FAN1 . Repair of interstrand DNA crosslinks is triggered when the DNA replication fork is unable to continue. The FA proteins play an elaborate role with FAN1 to remove these ICLs. The pathway consists of 15 known proteins. Three of them form the FA AP24-MHF1/2 complex which recognizes the ICL (from stalled replication forks). This recruits the FA core complex, which consists of 8 proteins. This complex monoubiquitinates FANCD2 and FANCI, which allows it to form a heterodimer. It is this complex that recruits FAN1 as well as other nucleases such as SLX4. Ubiquinated FANCD2 interacts with the FAN1 nuclease. Upon its recruitment by FANCD2, FAN1 acts to restrain DNA replication fork progression and to prevent chromosome abnormalities from occurring when DNA replication forks stall. FAN1 is typically localized in the nucleus, but forms very distinct loci at damaged regions when ICLs are present.",
+            "score": 173.68214416503906
+        },
+        {
+            "docid": "14761654_4",
+            "document": "MDC1 . When a cell is exposed to ionizing radiation, its chromatin can be damaged with DSB, triggering the DDR which starts with the MRN complex recruiting ATM kinase to the exposed H2AX histones on the damaged DNA. ATM phosphorylates the C-terminus of the H2AX histone (phosphorylated H2AX histones are commonly noted as \u03b3H2AX), and they become an epigenetic flag that highlights the site of DNA damage . The SDT domain of the MDC1 protein is phosphorylated by caseine kinase 2 (CK2) which allows it to bind another MRN complex, the MDC1 protein can sense the DNA damage by binding to the \u03b3H2AX flag through its BRCT domain and brings the bound MRN complex to the site of damaged DNA and it facilitates the recruitment and retention of another ATM kinase. The second ATM kinase phosphorylates the TQXF domain on MDC1 which allows it to recruit the E3 ubiquitin ligase RNF8, which will ubiquitinate the histones near the DSB which initiates further ubiquitination of the chromatin around the site of damage by other factors of the DDR. This aggregation of DDR factors and concentration of phosphorylated and ubiquitinated histones is called a DNA damage foci or ionizing radiation-induced foci and the main role of MDC1 is to coordinate the creation of DNA damage foci. This protein is required to activate the intra-S phase and G2/M phase cell cycle checkpoints in response to DNA damage.",
+            "score": 168.2791290283203
+        },
+        {
+            "docid": "32167_25",
+            "document": "Ubiquitin . Proliferating cell nuclear antigen (PCNA) is a protein involved in DNA synthesis. Under normal physiological conditions PCNA is sumoylated (a similar post-translational modification to ubiquitination). When DNA is damaged by ultra-violet radiation or chemicals, the SUMO molecule that is attached to a lysine residue is replaced by ubiquitin. Monoubiquitinated PCNA recruits polymerases that can carry out DNA synthesis with damaged DNA; but this is very error-prone, possibly resulting in the synthesis of mutated DNA. Lysine 63-linked polyubiquitination of PCNA allows it to perform a less error-prone mutation bypass known by the template switching pathway.",
+            "score": 167.7364501953125
+        },
+        {
+            "docid": "38885064_10",
+            "document": "Cancer syndrome . Fanconi anemia (FA) is a disorder with a wide clinical spectrum, including: early onset and increased risk of cancer; bone marrow failure; and congenital abnormalities. The most prominent manifestations of this disorder are those related to hematopoeisis (production of blood by the bone marrow); these include aplastic anemia, myelodysplastic syndrome and acute myeloid leukemia. Hepatic tumors and squamous cell carcinomas of the esophagus, oropharynx and uvula are solid tumors commonly linked to FA. Congenital abnormalities include: skeletal anomalies (especially those affecting the hands), cafe au lait spots and hypopigmentation. To date, the genes known to cause FA are: FANCA, FANCB, FANCC, FANCD2, FANCE, FANCF, FANCG, FANCI, FANCJ, FANCL, FANCM, FANCN, FANCO, FANCP and BRCA2 (previously known as FANCD1). Inheritance of this syndrome is primarily autosomal recessive, but FANCB can be inherited from the maternal or paternal x-chromosome (x-linked recessive inheritance). The FA pathway is involved in DNA repair when the two strands of DNA are incorrectly joined together (interstrand crosslinks). Many pathways are coordinated by the FA pathway for this including nucleotide excision repair, translesion synthesis and homologous recombination.",
+            "score": 167.58741760253906
+        },
+        {
+            "docid": "3713086_3",
+            "document": "Nijmegen breakage syndrome . NBS1 codes for a protein (nibrin) that has two major functions: (1) to stop the cell cycle in the S phase, when there are errors in the cell DNA (2) to interact with FANCD2 that can activate the BRCA1/BRCA2 pathway of DNA repair. This explains why mutations in the NBS1 gene lead to higher levels of cancer (see Fanconi anemia, Cockayne syndrome.)",
+            "score": 166.31643676757812
+        },
+        {
+            "docid": "622571_2",
+            "document": "Ubiquitin ligase . A ubiquitin ligase (also called an E3 ubiquitin ligase) is a protein that recruits an E2 ubiquitin-conjugating enzyme that has been loaded with ubiquitin, recognizes a protein substrate, and assists or directly catalyzes the transfer of ubiquitin from the E2 to the protein substrate. The ubiquitin is attached to a lysine on the target protein by an isopeptide bond. E3 ligases interact with both the target protein and the E2 enzyme, and so impart substrate specificity to the E2. Commonly, E3s polyubiquitinate their substrate with Lys48-linked chains of ubiquitin, targeting the substrate for destruction by the proteasome. However, many other types of linkages are possible and alter a protein's activity, interactions, or localization. Ubiquitination by E3 ligases regulates diverse areas such as cell trafficking, DNA repair, and signaling and is of profound importance in cell biology. E3 ligases are also key players in cell cycle control, mediating the degradation of cyclins, as well as cyclin dependent kinase inhibitor proteins. The human genome encodes over 600 putative E3 ligases, allowing for tremendous diversity in substrates.",
+            "score": 166.12728881835938
+        },
+        {
+            "docid": "37626088_27",
+            "document": "DNA damage (naturally occurring) . After irradiation with UV light, DDB2, in a complex with DDB1, the ubiquitin ligase protein CUL4A and the RING finger protein ROC1, associates with sites of damage within chromatin. Half-maximum association occurs in 40 seconds. PARP1 also associates within this period. The PARP1 protein attaches to both DDB1 and DDB2 and then PARylates (creates a poly-ADP ribose chain) on DDB2 that attracts the DNA remodeling protein ALC1. ALC1 relaxes chromatin at sites of UV damage to DNA. In addition, the ubiquitin E3 ligase complex DDB1-CUL4A carries out ubiquitination of the core histones H2A, H3, and H4 as well as the repair protein XPC which has been attracted to the site of the DNA damage. XPC, upon ubiquitination, is activated and initiates the nucleotide excision repair pathway. Somewhat later, at 30 minutes after UV damage, the INO80 chromatin remodeling complex is recruited to the site of the DNA damage, and this coincides with the binding of further nucleotide excision repair proteins, including ERCC1.",
+            "score": 163.44764709472656
+        },
+        {
+            "docid": "2620905_5",
+            "document": "UBA1 . The protein encoded by this gene catalyzes the first step in ubiquitin conjugation, or ubiquitination, to mark cellular proteins for degradation. Specifically, UBA1 catalyzes the ATP-dependent adenylation of ubiquitin, thereby forming a thioester bond between the two. It also continues to participate in subsequent steps of ubiquination as a Ub carrier. There are only two human ubiquitin-activating enzymes, UBA1 and UBA6, and thus UBA1 is largely responsible for protein ubiquitination in humans. Through its central role in ubiquitination, UBA1 has been linked to cell cycle regulation, endocytosis, signal transduction, apoptosis, DNA damage repair, and transcriptional regulation. Additionally, UBA1 helps regulate the NEDD8 pathway, thus implicating it in protein folding, as well as mitigating the depletion of ubiquitin levels during stress.",
+            "score": 162.1324462890625
+        },
+        {
+            "docid": "412097_12",
+            "document": "BRCA1 . The ring domain is an important element of ubiquitin E3 ligases, which catalyze protein ubiquitination. Ubiquitin is a small regulatory protein found in all tissues that direct proteins to compartments within the cell. BRCA1 polypeptides, in particular, Lys-48-linked polyubiquitin chains are dispersed throughout the resting cell nucleus, but at the start of DNA replication, they gather in restrained groups that also contain BRCA2 and BARD1. BARD1 is thought to be involved in the recognition and binding of protein targets for ubiquitination. It attaches to proteins and labels them for destruction. Ubiquitination occurs via the BRCA1 fusion protein and is abolished by zinc chelation. The enzyme activity of the fusion protein is dependent on the proper folding of the ring domain.",
+            "score": 160.4037628173828
+        },
+        {
+            "docid": "15063646_3",
+            "document": "FANCI . The Fanconi anemia complementation group (FANC) currently includes FANCA, FANCB, FANCC, FANCD1 (also called BRCA2), FANCD2, FANCE, FANCF, FANCG, FANCI, FANCJ (also called BRIP1), FANCL, FANCM and FANCN (also called PALB2). The previously defined group FANCH is the same as FANCA. Fanconi anemia is a genetically heterogeneous recessive disorder characterized by cytogenetic instability, hypersensitivity to DNA crosslinking agents, increased chromosomal breakage, and defective DNA repair. The members of the Fanconi anemia complementation group do not share sequence similarity; they are related by their assembly into a common nuclear protein complex. This gene encodes the protein for complementation group I. Alternative splicing results in two transcript variants encoding different isoforms.",
+            "score": 158.96275329589844
+        },
+        {
+            "docid": "14725541_5",
+            "document": "FANCA . In humans, the gene FANCA is 79 kilobases (kb) in length, and is located on chromosome 16 (16q24.3). The FANCA protein is composed of 1455 amino acids. Within cells, the major purpose of FANCA belongs to its putative involvement in a multisubunit FA complex composed of FANCA, FANCB, FANCC, FANCE, FANCF, FANCG, FANCL/PHF9 and FANCM. In complex with FANCF, FANCG and FANCL, FANCA interacts with HES1. This interaction has been proposed as essential for the stability and nuclear localization of FA core complex proteins. The complex with FANCC and FANCG may also include EIF2AK2 and HSP70. In cells, FANCA involvement in this \u2018FA core complex\u2019 is required for the activation of the FANCD2 protein to a monoubiquitinated isoform (FANCD2-Ub) in response to DNA damage, catalysing activation of the FA/BRCA DNA damage-response pathway, leading to repair.",
+            "score": 157.88743591308594
+        },
+        {
+            "docid": "3322173_3",
+            "document": "UBE3A . Protein degradation is a normal process that removes damaged or unnecessary proteins and helps maintain the normal functions of cells. Ubiquitin protein ligase E3A attaches a small marker protein called ubiquitin to proteins that should be degraded. Cellular structures called proteasomes recognize and digest proteins tagged with ubiquitin.",
+            "score": 157.48585510253906
+        },
+        {
+            "docid": "14167219_3",
+            "document": "RAD23A . The protein encoded by this gene is one of two human homologs of Saccharomyces cerevisiae Rad23, a protein involved in nucleotide excision repair (NER). This protein was shown to interact with, and elevate the nucleotide excision activity of 3-methyladenine-DNA glycosylase (MPG), which suggested a role in DNA damage recognition in base excision repair. This protein contains an N-terminal ubiquitin-like domain, which was reported to interact with 26S proteasome, as well as with ubiquitin protein ligase E6AP, and thus suggests that this protein may be involved in the ubiquitin mediated proteolytic pathway in cells.",
+            "score": 157.44589233398438
+        },
+        {
+            "docid": "32167_32",
+            "document": "Ubiquitin . Post-translational modification of proteins is a generally used mechanism in eukaryotic cell signaling. Ubiquitination, or ubiquitin conjugation to proteins, is a crucial process for cell cycle progression and cell proliferation and development. Although ubiquitination usually serves as a signal for protein degradation through the 26S proteasome, it could also serve for other fundamental cellular processes, e.g. in endocytosis, enzymatic activation and DNA repair. Moreover, since ubiquitination functions to tightly regulate the cellular level of cyclins, its misregulation is highly expected to have severe impacts. First evidence of the importance of the ubiquitin/proteasome pathway in oncogenic processes was observed due to the high antitumor activity of proteasome inhibitors. Various studies have shown that defects or alterations in ubiquitination processes are commonly associated with or presence in human carcinoma. Malignancies could be developed through loss of function mutation directly at the tumor suppressor gene, increased activity of ubiquitination, and/or indirect attenuation of ubiquitination due to mutation in related proteins.",
+            "score": 157.2300262451172
+        },
+        {
+            "docid": "14170524_5",
+            "document": "CUL4A . The DDB1 adaptor protein was initially characterized as the large subunit of a heterodimeric complex (UV-DDB) that was found to recognize damaged DNA and participate in a form of repair known as nucleotide excision repair (NER). The smaller subunit of this Damaged DNA Binding protein complex is known as DDB2 and is able to directly bind DNA lesions associated with UV-irradiation. DDB2 is a DCAF protein and is both a ubiquitination substrate of the CRL4 complex and also serves as an E3 ligase protein for other substrates such as XPC and histones (see next section) near the damage site. Due to its ubiquitination of DNA damage-recognizing proteins DDB2 and XPC, CUL4A has been described as a negative regulator of NER activity. In addition to the \"global\" type of NER, the CRL4A complex also appears to play a role in \"transcription-coupled\" NER in conjunction with the Cockayne Syndrome A protein. CRL4A complexes appear to be activated by certain types of DNA damage (most notably, UV-irradiation) and several substrates are preferentially ubiquitinated after DNA damage induction.",
+            "score": 156.35743713378906
+        },
+        {
+            "docid": "437943_17",
+            "document": "Fanconi anemia . Following assembly, the protein core complex activates FANCL protein which acts as an E3 ubiquitin-ligase and monoubiquitinates FANCD2.",
+            "score": 155.62953186035156
+        },
+        {
+            "docid": "17533758_9",
+            "document": "3-M syndrome . The majority of 3-M syndrome patients have been identified with CUL7 mutations. The Cullin 7 gene contains instructions for making the protein Cullin-7. Cullin-7 acts as scaffold protein in the E3 ubiquitin ligase complex. The role of this complex is to tag damaged and excess proteins in the cell with ubiquitin. Intracellular and extracellular signals within the cell highly regulate when and which proteins are tagged with ubiquitin. Once attached to the protein, ubiquitin serves as a signaling molecule to the proteasomes, which then bind to the ubiquinated proteins and degrades them. This ubiquitin-proteasome system acts as the cell's quality control system by breaking down unwanted proteins. Additionally, the system regulates the level of proteins involved in critical cell activities such as the timing of cell division and growth. Mutations in the CUL7 gene blocks the ability of the cullin-7 protein to bring together the components of this E3 ubiquitin ligase complex. This leads to impaired ubiquination and hence the aggregation of damaged, misfolded, and excess proteins. Disruption of the protein degradation process plays a role in the pathogensis of prenatal growth retardation in humans, a key feature of 3-M syndrome. The skeletal abnormalities that are present in individuals with this disorder suggests that this gene may play a role in the endochondral ossification process. Preliminary data suggests that CUL7 is in fact involved in chondrocyte growth and proliferation.",
+            "score": 154.6549835205078
+        },
+        {
+            "docid": "14178697_3",
+            "document": "RAD23B . The protein encoded by this gene is one of two human homologs of Saccharomyces cerevisiae Rad23, a protein involved in nucleotide excision repair (NER). This protein was found to be a component of the protein complex that specifically complements the NER defect of xeroderma pigmentosum group C (XP-c) cell extracts in vitro. This protein was also shown to interact with, and elevate the nucleotide excision activity of 3-methyladenine-DNA glycosylase (MPG), which suggested a role in DNA damage recognition in base excision repair. This protein contains an N-terminal ubiquitin-like domain, which was reported to interact with 26S proteasome, and thus this protein may be involved in the ubiquitin mediated proteolytic pathway in cells.",
+            "score": 153.65931701660156
+        },
+        {
+            "docid": "36473106_4",
+            "document": "UBA protein domain . Protein degradation via the ubiquitin proteasome system (UPS) allows the cell to selectively negatively regulate intracellular proteins. Protein degradation helps to maintain protein quality control, signalling, and cell cycle progression. UBA has been proposed to limit ubiquitin chain elongation and to target polyubiquitinated proteins to the 26S proteasome for degradation. They have been identified in modular proteins involved in protein trafficking, DNA repair, proteasomal degradation, and cell cycle regulation. UBA bind to ubiquitin and aids all the cellular processes involved with ubiquitin; this includes:",
+            "score": 153.40171813964844
+        },
+        {
+            "docid": "14796689_3",
+            "document": "FANCE . The Fanconi anemia complementation group (FANC) currently includes FANCA, FANCB, FANCC, FANCD1 (also called BRCA2), FANCD2, FANCE, FANCF, FANCG, and FANCL. Fanconi anemia is a genetically heterogeneous recessive disorder characterized by cytogenetic instability, hypersensitivity to DNA crosslinking agents, increased chromosomal breakage, and defective DNA repair. The members of the Fanconi anemia complementation group do not share sequence similarity; they are related by their assembly into a common nuclear protein complex. This gene encodes the protein for complementation group E.",
+            "score": 153.0601043701172
+        }
+    ]
+}

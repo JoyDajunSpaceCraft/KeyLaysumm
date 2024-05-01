@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "311436_10",
+            "document": "Von Willebrand disease . When vWD is suspected, blood plasma of a patient must be investigated for quantitative and qualitative deficiencies of vWF. This is achieved by measuring the amount of vWF in a vWF antigen assay and the functionality of vWF with a glycoprotein (GP)Ib binding assay, a collagen binding assay, or a ristocetin cofactor activity (RiCof) or ristocetin induced platelet agglutination (RIPA) assays. Factor VIII levels are also performed because factor VIII is bound to vWF which protects the factor VIII from rapid breakdown within the blood. Deficiency of vWF can then lead to a reduction in factor VIII levels, which explains the elevation in PTT. Normal levels do not exclude all forms of vWD, particularly type 2, which may only be revealed by investigating platelet interaction with subendothelium under flow, a highly specialized coagulation study not routinely performed in most medical laboratories. A platelet aggregation assay will show an abnormal response to ristocetin with normal responses to the other agonists used. A platelet function assay may give an abnormal collagen/epinephrine closure time, and in most cases, a normal collagen/ADP time. Type 2N may be considered if factor VIII levels are disproportionately low, but confirmation requires a \"factor VIII binding\" assay. Additional laboratory tests that help classify sub-types of vWD include von-willebrand multimer analysis, modified ristocetin induced platelet aggregation assay and vWF propeptide to vWF antigen ratio propeptide. In cases of suspected acquired von-Willebrand syndrome, a mixing study study (analysis of patient plasma along with pooled normal plasma/PNP and a mixture of the two tested immediately, at one hour, and at two hours) should be performed. Detection of vWD is complicated by vWF being an acute phase reactant with levels rising in infection, pregnancy, and stress.",
+            "score": 165.09059536457062
+        },
+        {
+            "docid": "4323503_4",
+            "document": "Ristocetin . In some types of vWD (types 2B and platelet-type), even very small amounts of ristocetin cause platelet aggregation when the patient's platelet-rich plasma is used. This paradox is explained by these types having gain-of-function mutations which cause the vWD high molecular-weight multimers to bind more tightly to their receptors on platelets (the alpha chains of glycoprotein Ib (GPIb) receptors). In the case of type 2B vWD, the gain-of-function mutation involves von Willebrand's factor (VWF gene), and in platelet-type vWD, the receptor is the object of the mutation (GPIb). This increased binding causes vWD because the high-molecular weight multimers are removed from circulation in plasma since they remain attached to the patient's platelets. Thus, if the patient's platelet-poor plasma is used, the ristocetin cofactor assay will not agglutinate standardized platelets (i.e., pooled platelets from normal donors that are fixed in formalin), similar to the other types of vWD.",
+            "score": 147.25819420814514
+        },
+        {
+            "docid": "311436_23",
+            "document": "Von Willebrand disease . Platelet-type vWD (also known as pseudo-vWD) is an autosomal dominant genetic defect of the platelets. The vWF is qualitatively normal and genetic testing of the von Willebrand gene and vWF protein reveals no mutational alteration. The defect lies in the qualitatively altered GPIb receptor on the platelet membrane which increases its affinity to bind to the vWF. Large platelet aggregates and high molecular weight vWF multimers are removed from the circulation resulting in thrombocytopenia and diminished or absent large vWF multimers. The ristocetin cofactor activity and loss of large vWF multimers are similar to vWD type 2B.",
+            "score": 174.95727109909058
+        },
+        {
+            "docid": "311436_18",
+            "document": "Von Willebrand disease . This is a \"gain of function\" defect. The ability of the qualitatively defective vWF to bind to glycoprotein Ib (GPIb) receptor on the platelet membrane is abnormally enhanced, leading to its spontaneous binding to platelets and subsequent rapid clearance of the bound platelets and of the large vWF multimers. Thrombocytopenia may occur. Large vWF multimers are reduced or absent from the circulation.",
+            "score": 169.9128077030182
+        },
+        {
+            "docid": "1586721_25",
+            "document": "ABO blood group system . The ABO antigen is also expressed on the von Willebrand factor (vWF) glycoprotein, which participates in hemostasis (control of bleeding). In fact, having type O blood predisposes to bleeding, as 30% of the total genetic variation observed in plasma vWF is explained by the effect of the ABO blood group, and individuals with group O blood normally have significantly lower plasma levels of vWF (and Factor VIII) than do non-O individuals. In addition, vWF is degraded more rapidly due to the higher prevalence of blood group O with the Cys1584 variant of vWF (an amino acid polymorphism in VWF): the gene for ADAMTS13 (vWF-cleaving protease) maps to the ninth chromosome (9q34), the same locus as ABO blood type. Higher levels of vWF are more common amongst people who have had ischemic stroke (from blood clotting) for the first time. The results of this study found that the occurrence was not affected by ADAMTS13 polymorphism, and the only significant genetic factor was the person's blood group.",
+            "score": 96.08483672142029
+        },
+        {
+            "docid": "791712_5",
+            "document": "Desmopressin . Desmopressin (DDAVP) stimulates the release of von Willebrand factor (vWF) from the Weibel\u2013Palade bodies of endothelial cells, thereby increasing the levels of vWF (as well as coagulant factor VIII) 3 to 5-fold.  Desmopressin can be used to promote the release of von Willebrand factor (with subsequent increase in factor VIII survival secondary to vWF complexing) in patients with coagulation disorders such as von Willebrand disease, mild hemophilia A (factor VIII deficiency), and thrombocytopenia. It can be used with uremic induced platelet dysfunction. It is not effective in the treatment of hemophilia B (factor IX deficiency) or severe hemophilia A.",
+            "score": 124.17715406417847
+        },
+        {
+            "docid": "212193_5",
+            "document": "Coagulation . When the endothelium is damaged, the normally isolated, underlying collagen is exposed to circulating platelets, which bind directly to collagen with collagen-specific glycoprotein Ia/IIa surface receptors. This adhesion is strengthened further by von Willebrand factor (vWF), which is released from the endothelium and from platelets; vWF forms additional links between the platelets' glycoprotein Ib/IX/V and the collagen fibrils. This localization of platelets to the extracellular matrix promotes collagen interaction with platelet glycoprotein VI. Binding of collagen to glycoprotein VI triggers a signaling cascade that results in activation of platelet integrins. Activated integrins mediate tight binding of platelets to the extracellular matrix. This process adheres platelets to the site of injury.",
+            "score": 155.07712578773499
+        },
+        {
+            "docid": "57391934_11",
+            "document": "Platelet plug . The ADP secreted from the dense granules then binds to receptors on the membrane of platelets. However, to allow for platelet adhesion to occur requires an additional molecule. Glycoprotein lb is a protein on the surface of the platelet membrane that binds to vWF. When vWF is bound to glycoprotein lb, it helps the platelet interact with other surfaces, like the inside of a damaged vessel wall. At high sheer stress levels, the GP1b-von Willebrand Factor will initiate the platelet adhesion. This process will then be mediated by integrins, such as \u03b21 (\u03b12\u03b21, \u03b15\u03b21) and \u03b23 (\u03b1IIb\u03b23) integrins.",
+            "score": 177.7999927997589
+        },
+        {
+            "docid": "14185108_5",
+            "document": "Platelet membrane glycoprotein . This transmembrane glycoprotein complex is composed of four subunits: GPIb\u03b1, GPIb\u03b2, GPV and GPIX. Each of them has a variable number of leucine-rich repeats. GPIb\u03b1 and GPIb\u03b2 are linked by disulfide bridges, while the GPV and GPIX associate non-covalently with the complex. GPIb\u03b1 subunit bears the binding site for von Willebrand factor (vWF), \u03b1-thrombin, leukocyte integrin \u03b1M\u03b22 and P-selectin. The binding between GPIb\u03b1 and vWF mediates the capture of platelets to the injured vascular wall. The deficiency in glycoprotein Ib-IX-V complex synthesis leads to Bernard-Soulier syndrome.",
+            "score": 135.3339011669159
+        },
+        {
+            "docid": "49472190_8",
+            "document": "Multiple electrode aggregometry . Ristocetin forms complexes with von Willebrand Factor (vWF) that bind to the glycoprotein Ib (GP1b) receptors on platelets, causing platelet activation and aggregation.  Reduced or absent aggregation in response to ristocetin can be caused by a lack of or reduction of vWF, as seen in von Willebrand disease (vWD), or absence or reduction in numbers of GP1b receptors, as in Bernard-Soulier syndrome (BSS). RISTOtest can be performed in two concentrations; RISTOhigh and RISTOlow. In RISTOhigh, a ristocetin concentration of 0,77\u00a0mg/ml is applied. This normally induces a strong platelet aggregation, and low or absent aggregation can be caused by the earlier mentioned conditions vWD and BSS. In RISTOlow, the ristocetin concentration is just 0,2\u00a0mg/ml, and at a level that does not normally induce a strong aggregation response. This test can detect if vWF shows a stronger than normal tendency to aggregate platelets, which can be seen in a subtype of vWD called vWDIIb.",
+            "score": 137.37592601776123
+        },
+        {
+            "docid": "212193_33",
+            "document": "Coagulation . Von Willebrand disease (which behaves more like a platelet disorder except in severe cases), is the most common hereditary bleeding disorder and is characterized as being inherited autosomal recessive or dominant. In this disease, there is a defect in von Willebrand factor (vWF), which mediates the binding of glycoprotein Ib (GPIb) to collagen. This binding helps mediate the activation of platelets and formation of primary hemostasis.",
+            "score": 133.0925419330597
+        },
+        {
+            "docid": "311436_19",
+            "document": "Von Willebrand disease . The ristocetin cofactor activity is low when the patient's platelet-poor plasma is assayed against formalin-fixed, normal donor platelets. However, when the assay is performed with the patient's own platelets (platelet-rich plasma), a lower-than-normal amount of ristocetin causes aggregation to occur. This is due to the large vWF multimers remaining bound to the patient's platelets. Patients with this subtype are unable to use desmopressin as a treatment for bleeding, because it can lead to unwanted platelet aggregation and aggravation of thrombocytopenia.",
+            "score": 137.22559309005737
+        },
+        {
+            "docid": "623174_8",
+            "document": "Von Willebrand factor . vWF plays a major role in blood coagulation. Therefore, vWF deficiency or dysfunction (von Willebrand disease) leads to a bleeding tendency, which is most apparent in tissues having high blood flow shear in narrow vessels. From studies it appears that vWF uncoils under these circumstances, decelerating passing platelets. Recent research also suggests that von Willebrand factor is involved in the formation of blood vessels themselves, which would explain why some people with von Willebrand disease develop vascular malformations (predominantly in the digestive tract) that can bleed excessively.",
+            "score": 116.7539074420929
+        },
+        {
+            "docid": "40074737_2",
+            "document": "Glycoprotein Ib-IX-V Receptor Complex . The GPIb-IX-V complex is a profuse membrane receptor complex originating in megakaryocytes and exclusively functional on the surface of platelets. It primarily functions to mediate the first critical step in platelet adhesion, by facilitating binding to von Willebrand factor (VWF) on damaged sub-endothelium under conditions of high fluid shear stress. Although the primary ligand for the GPIb-V-IX receptor is VWF, it can also bind to a number of other ligands in the circulation such as thrombin, P-selectin, factor XI, factor XII, high molecular weight kininogen as well as bacteria. GPIb-IX-V offers a critical role in thrombosis, metastasis, and the life cycle of platelets, and is implicated in a number of thrombotic pathological processes such as stroke or myocardial infarction.",
+            "score": 147.08270692825317
+        },
+        {
+            "docid": "212193_6",
+            "document": "Coagulation . Activated platelets will release the contents of stored granules into the blood plasma. The granules include ADP, serotonin, platelet-activating factor (PAF), vWF, platelet factor 4, and thromboxane A (TXA), which, in turn, activate additional platelets. The granules' contents activate a G-linked protein receptor cascade, resulting in increased calcium concentration in the platelets' cytosol. The calcium activates protein kinase C, which, in turn, activates phospholipase A (PLA). PLA then modifies the integrin membrane glycoprotein IIb/IIIa, increasing its affinity to bind fibrinogen. The activated platelets change shape from spherical to stellate, and the fibrinogen cross-links with glycoprotein IIb/IIIa aid in aggregation of adjacent platelets (completing primary hemostasis).",
+            "score": 162.57748818397522
+        },
+        {
+            "docid": "14755752_3",
+            "document": "GP1BB . Platelet glycoprotein Ib (GPIb) is a heterodimeric transmembrane protein consisting of a disulfide-linked 140 kD alpha chain and 22 kD beta chain. It is part of the Glycoprotein Ib-IX-V Receptor Complex (GPIb-V-IX) system that constitutes the receptor for von Willebrand factor (VWF), and mediates platelet adhesion in the arterial circulation. GPIb alpha chain provides the VWF binding site, and GPIb beta contributes to surface expression of the receptor and participates in transmembrane signaling through phosphorylation of its intracellular domain. Mutations in the GPIb beta subunit have been associated with Bernard-Soulier syndrome, velocardiofacial syndrome and giant platelet disorder. The 206 amino acid precursor of GPIb beta is synthesized from a 1.0 kb mRNA expressed in plateletes and megakaryocytes. A 411 amino acid protein arising from a longer, unspliced transcript in endothelial cells has been described; however, the authenticity of this product has been questioned. Yet another less abundant GPIb beta mRNA species of 3.5 kb, expressed in nonhematopoietic tissues such as endothelium, brain and heart, was shown to result from inefficient usage of a non-consensus polyA signal within a separate gene (septin 5) located upstream of this gene. In the absence of polyadenylation from its own imperfect site, the septin 5 gene uses the consensus polyA signal of this gene.",
+            "score": 142.76920211315155
+        },
+        {
+            "docid": "472537_3",
+            "document": "Thrombotic thrombocytopenic purpura . Most cases of TTP arise from autoantibody-mediated inhibition of the enzyme ADAMTS13, a metalloprotease responsible for cleaving large multimers of von Willebrand factor (vWF) into smaller units. The increase in circulating multimers of vWF increases platelet adhesion to areas of endothelial injury, particularly where arterioles and capillaries meet, which in turn results in the formation of small platelet clots called thrombi. As platelets are used up in the formation of thrombi, this then leads to a decrease in the number of overall circulating platelets, which may then cause life-threatening bleeds. The reason why the antibodies form is generally unknown for most patients, though it can be associated with some medications and autoimmune diseases such as HIV and Lupus, as well as pregnancy.",
+            "score": 152.60968494415283
+        },
+        {
+            "docid": "35005452_2",
+            "document": "Ristocetin-induced platelet aggregation . The ristocetin-induced platelet aggregation (RIPA) is an ex vivo assay for live platelet function. It measures platelet aggregation with the help of von Willebrand factor (vWF) and exogenous antibiotic ristocetin added in a graded fashion. It is similar to the ristocetin cofactor assay but has the added benefit in that it helps in the diagnosis of type 2B/pseudo von Willebrand disease (vWD) and Bernard-Soulier syndrome because it uses patient's live endogenous platelets, whereas ristocetin cofactor assay tests the function of only the vWF and not the platelets. Ristocetin cofactor assay uses platelet-poor plasma (with vWF but no platelets) and adds ristocetin and exogenous formalin-fixed platelets which can passively agglutinate (but not actively \"aggregate\", as they are dead). Formalin does not allow the extrinsic platelets to secrete the vWF of their \u03b1-granules, and thus only the activity of the intrinsic vWF is tested.",
+            "score": 150.145770072937
+        },
+        {
+            "docid": "57003665_2",
+            "document": "GPIb-IX-V . This transmembrane glycoprotein complex is composed of four subunits: GPIb\u03b1, GPIb\u03b2, GPV and GPIX. Each of them has a variable number of leucine-rich repeats. GPIb\u03b1 and GPIb\u03b2 are linked by disulfide bridges, while the GPV and GPIX associate non-covalently with the complex. GPIb\u03b1 subunit bears the binding site for von Willebrand factor (vWF), \u03b1-thrombin, leukocyte integrin \u03b1M\u03b22 and P-selectin. The binding between GPIb\u03b1 and vWF mediates the capture of platelets to the injured vascular wall. The deficiency in glycoprotein Ib-IX-V complex synthesis leads to Bernard-Soulier syndrome.",
+            "score": 105.43623995780945
+        },
+        {
+            "docid": "623174_3",
+            "document": "Von Willebrand factor . vWF is a large multimeric glycoprotein present in blood plasma and produced constitutively as ultra-large vWF in endothelium (in the Weibel-Palade bodies), megakaryocytes (\u03b1-granules of platelets), and subendothelial connective tissue.",
+            "score": 110.16567373275757
+        },
+        {
+            "docid": "14284484_3",
+            "document": "GP1BA . Glycoprotein Ib (GP Ib) is a platelet surface membrane glycoprotein composed of a heterodimer, an alpha chain and a beta chain, that are linked by disulfide bonds. The Gp Ib functions as a receptor for von Willebrand factor (VWF). The complete receptor complex includes noncovalent association of the alpha and beta subunits with platelet glycoprotein IX and platelet glycoprotein V. The binding of the GP Ib-IX-V complex to VWF facilitates initial platelet adhesion to vascular subendothelium after vascular injury, and also initiates signaling events within the platelet that lead to enhanced platelet activation, thrombosis, and hemostasis. This gene encodes the alpha subunit. Several polymorphisms and mutations have been described in this gene, some of which are the cause of Bernard-Soulier syndromes and platelet-type von Willebrand disease.",
+            "score": 150.4762692451477
+        },
+        {
+            "docid": "623174_2",
+            "document": "Von Willebrand factor . Von Willebrand factor (vWF) () is a blood glycoprotein involved in hemostasis. It is deficient or defective in von Willebrand disease and is involved in a large number of other diseases, including thrombotic thrombocytopenic purpura, Heyde's syndrome, and possibly hemolytic-uremic syndrome. Increased plasma levels in a large number of cardiovascular, neoplastic, and connective tissue diseases are presumed to arise from adverse changes to the endothelium, and may contribute to an increased risk of thrombosis.",
+            "score": 62.7967324256897
+        },
+        {
+            "docid": "24010016_2",
+            "document": "Von Willebrand factor type A domain . The von Willebrand factor is a large multimeric glycoprotein found in blood plasma. Mutant forms are involved in the aetiology of bleeding disorders. In von Willebrand factor, the type A domain (vWF) is the prototype for a protein superfamily. The vWF domain is found in various plasma proteins: complement factors B, C2, CR3 and CR4; the integrins (I-domains); collagen types VI, VII, XII and XIV; and other extracellular proteins. Although the majority of VWA-containing proteins are extracellular, the most ancient ones present in all eukaryotes are all intracellular proteins involved in functions such as transcription, DNA repair, ribosomal and membrane transport and the proteasome. A common feature appears to be involvement in multiprotein complexes. Proteins that incorporate vWF domains participate in numerous biological events (e.g. cell adhesion, migration, homing, pattern formation, and signal transduction), involving interaction with a large array of ligands. A number of human diseases arise from mutations in VWA domains. Secondary structure prediction from 75 aligned vWF sequences has revealed a largely alternating sequence of alpha-helices and beta-strands. Fold recognition algorithms were used to score sequence compatibility with a library of known structures: the vWF domain fold was predicted to be a doubly wound, open, twisted beta-sheet flanked by alpha-helices. 3D structures have been determined for the I-domains of integrins CD11b (with bound magnesium) and CD11a (with bound manganese). The domain adopts a classic alpha/beta Rossmann fold and contains an unusual metal ion coordination site at its surface. It has been suggested that this site represents a general metal ion-dependent adhesion site (MIDAS) for binding protein ligands. The residues constituting the MIDAS motif in the CD11b and CD11a I-domains are completely conserved, but the manner in which the metal ion is coordinated differs slightly.",
+            "score": 95.19771993160248
+        },
+        {
+            "docid": "542776_9",
+            "document": "Hemolytic-uremic syndrome . The typical pathophysiology of HUS involves the binding of Shiga-toxin to the globotriaosylceramide (Gb3; also called ceramide trihexoside which accumulates in Fabry disease) receptor on the surface of the glomerular endothelium. This action includes a cascade of signaling events leading to apoptosis and binding of leukocytes to endothelial cells. The Shiga-toxin-activated endothelial cells then become thrombogenic (clot-producing) by mechanism that is not fully understood, though they have been shown to induce the release of cytokines and chemokines that are implicated in platelet activation. Additionally, the binding action of Shiga-toxin inactivates a metalloproteinase called ADAMTS13, the deficiency of which causes the closely related TTP. Once ADAMTS13 is disabled, multimers of von Willebrand Factor (vWF) form and initiate platelet activation, causing microthrombus formation. The activation of platelets resulting from inhibition of ADAMTS13 is due to the hyperactivity of large multimers of uncleaved vWF. The arterioles and capillaries of the body become obstructed by the resulting complexes of activated platelets, which have adhered to the endothelium via large multimeric vWF. Through a mechanism known as microangiopathic hemolysis, the growing thrombi lodged in smaller vessels destroy red blood cells (RBCs) as they squeeze through the narrowed blood vessels, forming schistocytes, or fragments of sheared RBCs. The presence of schistocytes is a key finding that helps to diagnose HUS. Typically, this hemolysis results in a hemoglobin level of less than 80\u00a0g/L.",
+            "score": 137.27512192726135
+        },
+        {
+            "docid": "623174_12",
+            "document": "Von Willebrand factor . Higher levels of vWF are more common among people that have had ischemic stroke (from blood-clotting) for the first time. Occurrence is not affected by ADAMTS13, and the only significant genetic factor is the person's blood group. High plasma vWF levels were found to be an independent predictor of major bleeding in anticoagulated atrial fibrillation patients.",
+            "score": 67.412917137146
+        },
+        {
+            "docid": "623174_14",
+            "document": "Von Willebrand factor . In the 1950s, vWD was shown to be caused by a plasma factor deficiency (instead of being caused by platelet disorders), and, in the 1970s, the vWF protein was purified.",
+            "score": 114.55152893066406
+        },
+        {
+            "docid": "42294288_7",
+            "document": "Circulating endothelial cell . The High-Definition Circulating Endothelial Cell (HD-CEC) assay is a novel fluid biopsy test which detects endothelial cells in the blood of patients who have recently suffered a heart attack. Though not yet approved by the FDA, this test has demonstrated better specificity than the FDA approved CellSearch test used to detect circulating tumour cells. CECs are known to express endothelial markers such as the blood glycoprotein von Willebrand Factor (vWF) which is involved in platelet aggregation and adhesion, CECs also express the cell surface protein CD146 which is the most commonly known endothelial marker found in CECs and plays an important role in permeability, cell-cell cohesion and signalling. CECs are identifiable through DAPI staining, a specialised method of DNA staining, and are absent of the hematopoietic marker CD45. The HD-CEC assay identifies these markers based on reaction with specific antibodies as well as morphological characteristics of their cytoplasm and nuclei.",
+            "score": 85.4179857969284
+        },
+        {
+            "docid": "14185108_4",
+            "document": "Platelet membrane glycoprotein . The binding of von Willebrand factor (vWF) results in conformational changes within the GPIb-V-IX complex. In consequence, this complex activates GPIIb / IIIa membrane glycoproteins allowing them to bind fibrinogen. Fibrinogen molecules then interconnect the platelets serving as the basis for platelet aggregation. In the absence of fibrinogen, the platelets are joined by vWF due to its ability to bind the activated GPIIb / IIIa complex.",
+            "score": 163.3192117214203
+        },
+        {
+            "docid": "311436_20",
+            "document": "Von Willebrand disease . Type 2M vWD is a qualitative defect of vWF characterized by its decreased ability to bind to GPIb receptor on the platelet membrane and normal capability at multimerization. The vWF antigen levels are normal. The ristocetin cofactor activity is decreased and high molecular weight large vWF multimers are present in the circulation.",
+            "score": 131.23236799240112
+        },
+        {
+            "docid": "196121_22",
+            "document": "Platelet . Platelet activation causes its membrane surface to become negatively charged. One of the signaling pathways turns on scramblase, which moves negatively charged phospholipids from the inner to the outer platelet membrane surface. These phospholipids then bind the tenase and prothrombinase complexes, two of the sites of interplay between platelets and the coagulation cascade. Calcium ions are essential for the binding of these coagulation factors. In addition to interacting with vWF and fibrin, platelets interact with thrombin, Factors X, Va, VIIa, XI, IX, and prothrombin to complete clot formation via the coagulation cascade. Six studies suggested platelets express tissue factor: the definitive study shows they do not. The platelets from rats were conclusively shown to express tissue factor protein and also it was proved that the rat platelets carry both the tissue factor pre-mRNA and mature mRNA.",
+            "score": 158.52919602394104
+        },
+        {
+            "docid": "196121_12",
+            "document": "Platelet . Endothelial cells are attached to the subendothelial collagen by von Willebrand factor (VWF) which these cells produce. VWF is also stored in the Weibel-Palade bodies of the endothelial cells and secreted constitutively into the blood. Platelets store vWF in their alpha granules.",
+            "score": 126.58026504516602
+        },
+        {
+            "docid": "36463360_2",
+            "document": "Von Willebrand factor type D domain . In molecular biology, the protein domain Von Willebrand factor type D domain belongs to a large family of proteins, named, the von Willebrand factor (vWF). These proteins, the vWF type D domain in particular, is a large, multimeric glycoprotein and it is synthesized by a type of bone marrow cell called megakaryocytes. vWF type D plays 2 important roles in stopping the blood flow or loss of blood. Firstly, it causes platelets to adhere to the inside of the damaged blood vessel walls to prevent leakage of blood. Secondly, it is a carrier protein for factor VIII (FVIII) which helps blood to clot.",
+            "score": 118.65770506858826
+        }
+    ],
+    "r": [
+        {
+            "docid": "20938828_5",
+            "document": "Viral neuraminidase . The enzyme helps viruses to be released after budding from the plasma membrane of a host cell. Influenza virus membranes contain two glycoproteins: hemagglutinin and neuraminidase. While the hemagglutinin on the surface of the virion is needed for infection, its presence inhibits release of the particle after budding. Viral neuraminidase cleaves terminal neuraminic acid (also called sialic acid) residues from glycan structures on the surface of the infected cell. This promotes the release of progeny viruses and the spread of the virus from the host cell to uninfected surrounding cells. Neuraminidase also cleaves sialic acid residues from viral proteins, preventing aggregation of viruses.",
+            "score": 193.63572692871094
+        },
+        {
+            "docid": "44298290_4",
+            "document": "Discovery and development of neuraminidase inhibitors . The Influenza virus is an RNA virus that is divided into three serological types: A, B and C. Hemagglutinin (HA) and neuraminidase (NA) are two important glycoproteins on influenza virus membranes. The hemagglutinin is a sialic acid receptor-binding molecule and mediates entry of the virus into the host cell, while neuraminidase cleaves cellular-receptor sialic acid to form new particles. Neuraminidase is an exoglycosidase that destroys the hemagglutinin receptor by cleaving the \u03b1(2,6)- or \u03b1(2,3)-ketosidic linkage that exists between a terminal sialic acid and a sugar residue of the Neu5Ac containing receptor on the surface of host cells. This helps the spread of the infection by preventing self-aggregation of new viruses at the cell surface and possible immobilisation in the mucin by hemagglutinin (HA) during virus replication. The virus will then be released from the host cells and will subsequently infect other cells. Neuraminidase also helps the invasion of the virus in the upper respiratory tract, possibly by cleaving sialic acid molecules on mucin of epithelial cells. Neuraminidase is found in influenza viruses of types A and B. Neuraminidase has roles in the infection, replication and delivery of Influenza virus A and B. Type C Influenza virus expresses the enzyme esterase instead of neuraminidase.",
+            "score": 187.56068420410156
+        },
+        {
+            "docid": "520602_15",
+            "document": "Sialic acid . Many viruses such as some adenoviruses (\"Adenoviridae\"), rotaviruses (\"Reoviridae\") and influenza viruses (\"Orthomyxoviridae\") can use host-sialylated structures for binding to their target host cell. Sialic acids provide a good target for these viruses since they are highly conserved and are abundant in large numbers in virtually all cells. Unsurprisingly, sialic acids also play an important role in several human viral infections. The influenza viruses have hemagglutinin activity (HA) glycoproteins on their surfaces that bind to sialic acids found on the surface of human erythrocytes and on the cell membranes of the upper respiratory tract. This is the basis of hemagglutination when viruses are mixed with blood cells, and entry of the virus into cells of the upper respiratory tract. Widely used anti-influenza drugs (oseltamivir and zanamivir) are sialic acid analogs that interfere with release of newly generated viruses from infected cells by inhibiting the viral enzyme neuraminidase.",
+            "score": 186.4833526611328
+        },
+        {
+            "docid": "57391934_11",
+            "document": "Platelet plug . The ADP secreted from the dense granules then binds to receptors on the membrane of platelets. However, to allow for platelet adhesion to occur requires an additional molecule. Glycoprotein lb is a protein on the surface of the platelet membrane that binds to vWF. When vWF is bound to glycoprotein lb, it helps the platelet interact with other surfaces, like the inside of a damaged vessel wall. At high sheer stress levels, the GP1b-von Willebrand Factor will initiate the platelet adhesion. This process will then be mediated by integrins, such as \u03b21 (\u03b12\u03b21, \u03b15\u03b21) and \u03b23 (\u03b1IIb\u03b23) integrins.",
+            "score": 177.79998779296875
+        },
+        {
+            "docid": "311436_23",
+            "document": "Von Willebrand disease . Platelet-type vWD (also known as pseudo-vWD) is an autosomal dominant genetic defect of the platelets. The vWF is qualitatively normal and genetic testing of the von Willebrand gene and vWF protein reveals no mutational alteration. The defect lies in the qualitatively altered GPIb receptor on the platelet membrane which increases its affinity to bind to the vWF. Large platelet aggregates and high molecular weight vWF multimers are removed from the circulation resulting in thrombocytopenia and diminished or absent large vWF multimers. The ristocetin cofactor activity and loss of large vWF multimers are similar to vWD type 2B.",
+            "score": 174.957275390625
+        },
+        {
+            "docid": "33302120_4",
+            "document": "Glycoside hydrolase family 34 . Glycoside hydrolase family 34 CAZY GH_34 comprises enzymes with only one known activity; sialidase or neuraminidase . Neuraminidases cleave the terminal sialic acid residues from carbohydrate chains in glycoproteins. Sialic acid is a negatively charged sugar associated with the protein and lipid portions of lipoproteins. In Influenza virus, neuraminidases prevent self-aggregation by removing the carbohydrate from the viral envelope thus facilitating the mobility of the virus to and from the site of infection. Antiviral agents that inhibit influenza viral neuraminidase activity are of major importance in the control of influenza.",
+            "score": 172.5111083984375
+        },
+        {
+            "docid": "20938828_3",
+            "document": "Viral neuraminidase . When influenza virus replicates, it attaches to the interior cell surface using hemagglutinin, a molecule found on the surface of the virus that binds to sialic acid groups. Sialic acids are found on various glycoproteins at the host cell surface, and the virus exploits these groups to bind the host cell. In order for the virus to be released from the cell, neuraminidase must enzymatically cleave the sialic acid groups from host glycoproteins. Since the cleavage of the sialic groups is an integral part of influenza replication, blocking the function of neuraminidase with neuraminidase inhibitors is an effective way to treat influenza.",
+            "score": 171.88290405273438
+        },
+        {
+            "docid": "311436_18",
+            "document": "Von Willebrand disease . This is a \"gain of function\" defect. The ability of the qualitatively defective vWF to bind to glycoprotein Ib (GPIb) receptor on the platelet membrane is abnormally enhanced, leading to its spontaneous binding to platelets and subsequent rapid clearance of the bound platelets and of the large vWF multimers. Thrombocytopenia may occur. Large vWF multimers are reduced or absent from the circulation.",
+            "score": 169.91281127929688
+        },
+        {
+            "docid": "311436_10",
+            "document": "Von Willebrand disease . When vWD is suspected, blood plasma of a patient must be investigated for quantitative and qualitative deficiencies of vWF. This is achieved by measuring the amount of vWF in a vWF antigen assay and the functionality of vWF with a glycoprotein (GP)Ib binding assay, a collagen binding assay, or a ristocetin cofactor activity (RiCof) or ristocetin induced platelet agglutination (RIPA) assays. Factor VIII levels are also performed because factor VIII is bound to vWF which protects the factor VIII from rapid breakdown within the blood. Deficiency of vWF can then lead to a reduction in factor VIII levels, which explains the elevation in PTT. Normal levels do not exclude all forms of vWD, particularly type 2, which may only be revealed by investigating platelet interaction with subendothelium under flow, a highly specialized coagulation study not routinely performed in most medical laboratories. A platelet aggregation assay will show an abnormal response to ristocetin with normal responses to the other agonists used. A platelet function assay may give an abnormal collagen/epinephrine closure time, and in most cases, a normal collagen/ADP time. Type 2N may be considered if factor VIII levels are disproportionately low, but confirmation requires a \"factor VIII binding\" assay. Additional laboratory tests that help classify sub-types of vWD include von-willebrand multimer analysis, modified ristocetin induced platelet aggregation assay and vWF propeptide to vWF antigen ratio propeptide. In cases of suspected acquired von-Willebrand syndrome, a mixing study study (analysis of patient plasma along with pooled normal plasma/PNP and a mixture of the two tested immediately, at one hour, and at two hours) should be performed. Detection of vWD is complicated by vWF being an acute phase reactant with levels rising in infection, pregnancy, and stress.",
+            "score": 165.09059143066406
+        },
+        {
+            "docid": "44298290_5",
+            "document": "Discovery and development of neuraminidase inhibitors . N-acetylneuraminic acid (Neu5Ac) is one of the two most common sialic acid in mammals. It is a monosaccharide with a backbone of 9 carbons. It is usually attached to glycoproteins or gangliosides on a terminal end via \u03b1(2,3), \u03b1(2,6), and \u03b1(2,8) linkage. Neuraminidase is an enzyme which hydrolyses that bond to produce a free neuraminic acid and a glycoprotein or a sugar chain. Influenza virus will bind via the hemagglutinin protein on these sialic acid attached glycoproteins on the cell membrane.",
+            "score": 163.3392791748047
+        },
+        {
+            "docid": "14185108_4",
+            "document": "Platelet membrane glycoprotein . The binding of von Willebrand factor (vWF) results in conformational changes within the GPIb-V-IX complex. In consequence, this complex activates GPIIb / IIIa membrane glycoproteins allowing them to bind fibrinogen. Fibrinogen molecules then interconnect the platelets serving as the basis for platelet aggregation. In the absence of fibrinogen, the platelets are joined by vWF due to its ability to bind the activated GPIIb / IIIa complex.",
+            "score": 163.3192138671875
+        },
+        {
+            "docid": "212193_6",
+            "document": "Coagulation . Activated platelets will release the contents of stored granules into the blood plasma. The granules include ADP, serotonin, platelet-activating factor (PAF), vWF, platelet factor 4, and thromboxane A (TXA), which, in turn, activate additional platelets. The granules' contents activate a G-linked protein receptor cascade, resulting in increased calcium concentration in the platelets' cytosol. The calcium activates protein kinase C, which, in turn, activates phospholipase A (PLA). PLA then modifies the integrin membrane glycoprotein IIb/IIIa, increasing its affinity to bind fibrinogen. The activated platelets change shape from spherical to stellate, and the fibrinogen cross-links with glycoprotein IIb/IIIa aid in aggregation of adjacent platelets (completing primary hemostasis).",
+            "score": 162.57748413085938
+        },
+        {
+            "docid": "196121_22",
+            "document": "Platelet . Platelet activation causes its membrane surface to become negatively charged. One of the signaling pathways turns on scramblase, which moves negatively charged phospholipids from the inner to the outer platelet membrane surface. These phospholipids then bind the tenase and prothrombinase complexes, two of the sites of interplay between platelets and the coagulation cascade. Calcium ions are essential for the binding of these coagulation factors. In addition to interacting with vWF and fibrin, platelets interact with thrombin, Factors X, Va, VIIa, XI, IX, and prothrombin to complete clot formation via the coagulation cascade. Six studies suggested platelets express tissue factor: the definitive study shows they do not. The platelets from rats were conclusively shown to express tissue factor protein and also it was proved that the rat platelets carry both the tissue factor pre-mRNA and mature mRNA.",
+            "score": 158.52920532226562
+        },
+        {
+            "docid": "212193_5",
+            "document": "Coagulation . When the endothelium is damaged, the normally isolated, underlying collagen is exposed to circulating platelets, which bind directly to collagen with collagen-specific glycoprotein Ia/IIa surface receptors. This adhesion is strengthened further by von Willebrand factor (vWF), which is released from the endothelium and from platelets; vWF forms additional links between the platelets' glycoprotein Ib/IX/V and the collagen fibrils. This localization of platelets to the extracellular matrix promotes collagen interaction with platelet glycoprotein VI. Binding of collagen to glycoprotein VI triggers a signaling cascade that results in activation of platelet integrins. Activated integrins mediate tight binding of platelets to the extracellular matrix. This process adheres platelets to the site of injury.",
+            "score": 155.07711791992188
+        },
+        {
+            "docid": "472537_3",
+            "document": "Thrombotic thrombocytopenic purpura . Most cases of TTP arise from autoantibody-mediated inhibition of the enzyme ADAMTS13, a metalloprotease responsible for cleaving large multimers of von Willebrand factor (vWF) into smaller units. The increase in circulating multimers of vWF increases platelet adhesion to areas of endothelial injury, particularly where arterioles and capillaries meet, which in turn results in the formation of small platelet clots called thrombi. As platelets are used up in the formation of thrombi, this then leads to a decrease in the number of overall circulating platelets, which may then cause life-threatening bleeds. The reason why the antibodies form is generally unknown for most patients, though it can be associated with some medications and autoimmune diseases such as HIV and Lupus, as well as pregnancy.",
+            "score": 152.60968017578125
+        },
+        {
+            "docid": "14284484_3",
+            "document": "GP1BA . Glycoprotein Ib (GP Ib) is a platelet surface membrane glycoprotein composed of a heterodimer, an alpha chain and a beta chain, that are linked by disulfide bonds. The Gp Ib functions as a receptor for von Willebrand factor (VWF). The complete receptor complex includes noncovalent association of the alpha and beta subunits with platelet glycoprotein IX and platelet glycoprotein V. The binding of the GP Ib-IX-V complex to VWF facilitates initial platelet adhesion to vascular subendothelium after vascular injury, and also initiates signaling events within the platelet that lead to enhanced platelet activation, thrombosis, and hemostasis. This gene encodes the alpha subunit. Several polymorphisms and mutations have been described in this gene, some of which are the cause of Bernard-Soulier syndromes and platelet-type von Willebrand disease.",
+            "score": 150.4762725830078
+        },
+        {
+            "docid": "35005452_2",
+            "document": "Ristocetin-induced platelet aggregation . The ristocetin-induced platelet aggregation (RIPA) is an ex vivo assay for live platelet function. It measures platelet aggregation with the help of von Willebrand factor (vWF) and exogenous antibiotic ristocetin added in a graded fashion. It is similar to the ristocetin cofactor assay but has the added benefit in that it helps in the diagnosis of type 2B/pseudo von Willebrand disease (vWD) and Bernard-Soulier syndrome because it uses patient's live endogenous platelets, whereas ristocetin cofactor assay tests the function of only the vWF and not the platelets. Ristocetin cofactor assay uses platelet-poor plasma (with vWF but no platelets) and adds ristocetin and exogenous formalin-fixed platelets which can passively agglutinate (but not actively \"aggregate\", as they are dead). Formalin does not allow the extrinsic platelets to secrete the vWF of their \u03b1-granules, and thus only the activity of the intrinsic vWF is tested.",
+            "score": 150.14576721191406
+        },
+        {
+            "docid": "57391934_13",
+            "document": "Platelet plug . After platelets make contact with the focal point of the vascular injury, they begin to interact with each other to form a platelet aggregate. After platelets make contact with the focal point of the vascular injury, they begin to interact with each other to form a platelet aggregate. Platelet aggregation is mainly mediated by \u03b23 (\u03b1IIb\u03b23) integrin and its ligands, such as vWF and fibrinogen. \u00a0While platelet membranes have binding sites for fibrinogen, they must be induced by thrombin. Thrombin triggers the binding of the adhesive platelets with vWF and fibrinogen. ADP can then catalyze the aggregation of platelets, allowing for fibrinogen to link two platelets together.",
+            "score": 148.64761352539062
+        },
+        {
+            "docid": "1506941_3",
+            "document": "Neuraminidase . There are two major classes of Neuraminidase that cleave exo or endo poly-sialic acids: Neuraminidases, also called sialidases, catalyze the hydrolysis of terminal sialic acid residues from the newly formed virions and from the host cell receptors. Sialidase activities include assistance in the mobility of virus particles through the respiratory tract mucus and in the elution of virion progeny from the infected cell.",
+            "score": 147.7672576904297
+        },
+        {
+            "docid": "4323503_4",
+            "document": "Ristocetin . In some types of vWD (types 2B and platelet-type), even very small amounts of ristocetin cause platelet aggregation when the patient's platelet-rich plasma is used. This paradox is explained by these types having gain-of-function mutations which cause the vWD high molecular-weight multimers to bind more tightly to their receptors on platelets (the alpha chains of glycoprotein Ib (GPIb) receptors). In the case of type 2B vWD, the gain-of-function mutation involves von Willebrand's factor (VWF gene), and in platelet-type vWD, the receptor is the object of the mutation (GPIb). This increased binding causes vWD because the high-molecular weight multimers are removed from circulation in plasma since they remain attached to the patient's platelets. Thus, if the patient's platelet-poor plasma is used, the ristocetin cofactor assay will not agglutinate standardized platelets (i.e., pooled platelets from normal donors that are fixed in formalin), similar to the other types of vWD.",
+            "score": 147.25819396972656
+        },
+        {
+            "docid": "40074737_2",
+            "document": "Glycoprotein Ib-IX-V Receptor Complex . The GPIb-IX-V complex is a profuse membrane receptor complex originating in megakaryocytes and exclusively functional on the surface of platelets. It primarily functions to mediate the first critical step in platelet adhesion, by facilitating binding to von Willebrand factor (VWF) on damaged sub-endothelium under conditions of high fluid shear stress. Although the primary ligand for the GPIb-V-IX receptor is VWF, it can also bind to a number of other ligands in the circulation such as thrombin, P-selectin, factor XI, factor XII, high molecular weight kininogen as well as bacteria. GPIb-IX-V offers a critical role in thrombosis, metastasis, and the life cycle of platelets, and is implicated in a number of thrombotic pathological processes such as stroke or myocardial infarction.",
+            "score": 147.0827178955078
+        },
+        {
+            "docid": "39669_16",
+            "document": "Dengue fever . When a mosquito carrying dengue virus bites a person, the virus enters the skin together with the mosquito's saliva. It binds to and enters white blood cells, and reproduces inside the cells while they move throughout the body. The white blood cells respond by producing a number of signaling proteins, such as cytokines and interferons, which are responsible for many of the symptoms, such as the fever, the flu-like symptoms, and the severe pains. In severe infection, the virus production inside the body is greatly increased, and many more organs (such as the liver and the bone marrow) can be affected. Fluid from the bloodstream leaks through the wall of small blood vessels into body cavities due to capillary permeability. As a result, less blood circulates in the blood vessels, and the blood pressure becomes so low that it cannot supply sufficient blood to vital organs. Furthermore, dysfunction of the bone marrow due to infection of the stromal cells leads to reduced numbers of platelets, which are necessary for effective blood clotting; this increases the risk of bleeding, the other major complication of dengue fever.",
+            "score": 146.62791442871094
+        },
+        {
+            "docid": "953471_7",
+            "document": "Carboxyglutamic acid . Gamma-carboxyglutamic acid residues play an important role in coagulation. The high-affinity calcium binding sites in the GLA domain of factor IX, which is a serine protease of the coagulation system, were found to partially mediate the binding of factor IXa to platelets and in factor-X activation. In addition, upon mechanical injury to the blood vessel wall, a cell-associated tissue factor becomes exposed and initiates a series of enzymatic reactions localized on a membrane surface generally provided by cells and accumulating platelets. Gla residues partly govern the activation and binding of circulating blood-clotting enzymes and zymogens to this exposed cell membrane surface. Specifically, gla residues are needed in calcium binding and in exposing hydrophobic membrane binding regions to the cell bilayer. Lack of these gla residues results in impaired coagulation or even anticoagulation, which may lead to bleeding diathesis or thrombosis.",
+            "score": 145.9759521484375
+        },
+        {
+            "docid": "957081_19",
+            "document": "Oseltamivir . Oseltamivir is a neuraminidase inhibitor, a competitive inhibitor of influenza's neuraminidase enzyme. The enzyme cleaves the sialic acid which is found on glycoproteins on the surface of human cells that helps new virions to exit the cell. Thus oseltamivir prevents new viral particles from being released.",
+            "score": 145.22911071777344
+        },
+        {
+            "docid": "532906_24",
+            "document": "Orthomyxoviridae . Negative-sense vRNAs that form the genomes of future viruses, RNA-dependent RNA transcriptase, and other viral proteins are assembled into a virion. Hemagglutinin and neuraminidase molecules cluster into a bulge in the cell membrane. The vRNA and viral core proteins leave the nucleus and enter this membrane protrusion (step 6). The mature virus buds off from the cell in a sphere of host phospholipid membrane, acquiring hemagglutinin and neuraminidase with this membrane coat (step 7). As before, the viruses adhere to the cell through hemagglutinin; the mature viruses detach once their neuraminidase has cleaved sialic acid residues from the host cell. After the release of new influenza virus, the host cell dies.",
+            "score": 143.614501953125
+        },
+        {
+            "docid": "14185108_10",
+            "document": "Platelet membrane glycoprotein . This complex also binds vWF, fibronectin and vitronectin. In the resting state the contact between the two protein subunits (necessary for the complex activation)is prevented by aggregin, which disables their contact necessary for the complex activation. The complex can be activated by ADP. When bound to ADP, conformational changes occur within the aggregin molecule and consequently, it dissociates from the two subunits. Furthermore, the complex can be activated by thrombin. Thrombin binding to its receptor activates protein kinase C and increases the level of inositol triphosphate. Consequently, there is a release of calcium ions that activate calpain. Calpain cleaves aggregin, and thus allows for joining of the two subunits. Deficiency in the IIb / IIIa complex is described as Glanzmann's thrombasthenia. Patients completely lack the ability to aggregate platelets.",
+            "score": 143.60183715820312
+        },
+        {
+            "docid": "14755752_3",
+            "document": "GP1BB . Platelet glycoprotein Ib (GPIb) is a heterodimeric transmembrane protein consisting of a disulfide-linked 140 kD alpha chain and 22 kD beta chain. It is part of the Glycoprotein Ib-IX-V Receptor Complex (GPIb-V-IX) system that constitutes the receptor for von Willebrand factor (VWF), and mediates platelet adhesion in the arterial circulation. GPIb alpha chain provides the VWF binding site, and GPIb beta contributes to surface expression of the receptor and participates in transmembrane signaling through phosphorylation of its intracellular domain. Mutations in the GPIb beta subunit have been associated with Bernard-Soulier syndrome, velocardiofacial syndrome and giant platelet disorder. The 206 amino acid precursor of GPIb beta is synthesized from a 1.0 kb mRNA expressed in plateletes and megakaryocytes. A 411 amino acid protein arising from a longer, unspliced transcript in endothelial cells has been described; however, the authenticity of this product has been questioned. Yet another less abundant GPIb beta mRNA species of 3.5 kb, expressed in nonhematopoietic tissues such as endothelium, brain and heart, was shown to result from inefficient usage of a non-consensus polyA signal within a separate gene (septin 5) located upstream of this gene. In the absence of polyadenylation from its own imperfect site, the septin 5 gene uses the consensus polyA signal of this gene.",
+            "score": 142.76919555664062
+        },
+        {
+            "docid": "19572217_24",
+            "document": "Influenza . Negative-sense vRNAs that form the genomes of future viruses, RNA-dependent RNA polymerase, and other viral proteins are assembled into a virion. Hemagglutinin and neuraminidase molecules cluster into a bulge in the cell membrane. The vRNA and viral core proteins leave the nucleus and enter this membrane protrusion (step 6). The mature virus buds off from the cell in a sphere of host phospholipid membrane, acquiring hemagglutinin and neuraminidase with this membrane coat (step 7). As before, the viruses adhere to the cell through hemagglutinin; the mature viruses detach once their neuraminidase has cleaved sialic acid residues from the host cell. After the release of new influenza viruses, the host cell dies.",
+            "score": 142.6439208984375
+        },
+        {
+            "docid": "57391934_10",
+            "document": "Platelet plug . Once platelets are activated, when they come across injured endothelium cells, the von Willebrand factor (vWF) and fibrinogen will act as anchors to allow platelets to adhere onto the vessel wall. These molecules are released from the platelet themselves as a result of degranulation, a physiological change in the platelet's shape due to the secretion of the contents of the dense granules and alpha granules. From the dense granules, serotonin and adenosine triphosphate are released. From the alpha granules come molecules such as the platelet-derived growth factor, fibrinogen, and the von Willebrand factor (vWF), a glycoprotein critical in platelet activation and adhesion.",
+            "score": 141.86912536621094
+        },
+        {
+            "docid": "9630962_18",
+            "document": "SIGLEC . Many pathologies have been linked to the spontaneous interactions between sialic acid and the immunosuppressive sialic acid-binding immunoglobulin-like lectin (Siglec) receptors on immune cells such as cancer, HIV-1 and Group B Strep Infection. The sialic acid family branches from glycans, sugar chains comprising various monosaccharides that cover the membrane of every living cell and display a staggering structural diversity. Sialic acids function in protein folding, neural development, cellular interactions, among many other physiological processes. As sialic acids are abundantly expressed in vertebrates and not in microorganisms, they are considered self-antigens or self-structures that play major role in inhibiting harmful immune system activity by regulating neutrophils and B cell tolerance.",
+            "score": 141.64608764648438
+        },
+        {
+            "docid": "39669_2",
+            "document": "Dengue fever . Dengue fever is a mosquito-borne tropical disease caused by the dengue virus. Symptoms typically begin three to fourteen days after infection. This may include a high fever, headache, vomiting, muscle and joint pains, and a characteristic skin rash. Recovery generally takes two to seven days. In a small proportion of cases, the disease develops into the life-threatening dengue hemorrhagic fever, resulting in bleeding, low levels of blood platelets and blood plasma leakage, or into dengue shock syndrome, where dangerously low blood pressure occurs. Dengue is spread by several species of mosquito of the \"Aedes\" type, principally \"A. aegypti\". The virus has five different types; infection with one type usually gives lifelong immunity to that type, but only short-term immunity to the others. Subsequent infection with a different type increases the risk of severe complications. A number of tests are available to confirm the diagnosis including detecting antibodies to the virus or its RNA. A vaccine for dengue fever has been approved and is commercially available in a number of countries. Other methods of prevention are by reducing mosquito habitat and limiting exposure to bites. This may be done by getting rid of or covering standing water and wearing clothing that covers much of the body. Treatment of acute dengue is supportive and includes giving fluid either by mouth or intravenously for mild or moderate disease. For more severe cases blood transfusion may be required. About half a million people require admission to hospital a year. Paracetamol (acetaminophen) is recommended instead of nonsteroidal anti-inflammatory drugs (NSAIDs) for fever reduction and pain relief in dengue due to an increased risk of bleeding from NSAID use. Dengue has become a global problem since the Second World War and is common in more than 110\u00a0countries. Each year between 50 and 528\u00a0million people are infected and approximately 10,000 to 20,000 die. The earliest descriptions of an outbreak date from 1779. Its viral cause and spread were understood by the early 20th century. Apart from eliminating the mosquitoes, work is ongoing for medication targeted directly at the virus. It is classified as a neglected tropical disease.",
+            "score": 140.1932830810547
+        },
+        {
+            "docid": "472537_13",
+            "document": "Thrombotic thrombocytopenic purpura . ADAMTS13 is a metalloproteinase responsible for the breakdown of von Willebrand factor (vWF), a protein that links platelets, blood clots, and the blood vessel wall in the process of blood coagulation. Very large vWF multimers are more prone to lead to coagulation. Hence, without proper cleavage of vWF by ADAMTS13, coagulation occurs at a higher rate, especially in the microvasculature, part of the blood vessel system where vWF is most active due to high shear stress. In idiopathic TTP, severely decreased (<5% of normal) ADAMTS13 activity can be detected in most (80%) patients, and inhibitors are often found in this subgroup (44\u201356%).",
+            "score": 139.3438720703125
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "32116368_2",
+            "document": "MutS-1 . Mismatch repair contributes to the overall fidelity of DNA replication and is essential for combating the adverse effects of damage to the genome. It involves the correction of mismatched base pairs that have been missed by the proofreading element (Klenow fragment) of the DNA polymerase complex. The post-replicative Mismatch Repair System (MMRS) of \"Escherichia coli\" involves MutS (Mutator S), MutL and MutH proteins, and acts to correct point mutations or small insertion/deletion loops produced during DNA replication. MutS and MutL are involved in preventing recombination between partially homologous DNA sequences. The assembly of MMRS is initiated by MutS, which recognizes and binds to mispaired nucleotides and allows further action of MutL and MutH to eliminate a portion of newly synthesized DNA strand containing the mispaired base. MutS can also collaborate with methyltransferases in the repair of O(6)-methylguanine damage, which would otherwise pair with thymine during replication to create an O(6)mG:T mismatch. MutS exists as a dimer, where the two monomers have different conformations and form a heterodimer at the structural level. Only one monomer recognises the mismatch specifically and has ADP bound. Non-specific major groove DNA-binding domains from both monomers embrace the DNA in a clamp-like structure. Mismatch binding induces ATP uptake and a conformational change in the MutS protein, resulting in a clamp that translocates on DNA.",
+            "score": 476.14822697639465
+        },
+        {
+            "docid": "64045_14",
+            "document": "Chromosomal crossover . While the motivating factors behind unequal recombination remain obscure, elements of the physical mechanism have been elucidated. Mismatch repair (MMR) proteins, for instance, are a well-known regulatory family of proteins, responsible for regulating mismatched sequences of DNA during replication and escape regulation. The operative goal of MMRs is the restoration of the parental genotype. One class of MMR in particular, MutS\u03b2, is known to initiate the correction of insertion-deletion mismatches of up to 16 nucleotides. Little is known about the excision process in eukaryotes, but \"E. coli\" excisions involve the cleaving of a nick on either the 5\u2019 or 3\u2019 strand, after which DNA helicase and DNA polymerase III bind and generate single-stranded proteins, which are digested by exonucleases and attached to the strand by ligase. Multiple MMR pathways have been implicated in the maintenance of complex organism genome stability, and any of many possible malfunctions in the MMR pathway result in DNA editing and correction errors. Therefore, while it is not certain precisely what mechanisms lead to errors of non-homologous crossover, it is extremely likely that the MMR pathway is involved.",
+            "score": 200.95253837108612
+        },
+        {
+            "docid": "14762085_2",
+            "document": "MSH3 . DNA mismatch repair protein, MutS Homolog 3 (MSH3) is a human homologue of the bacterial mismatch repair protein MutS that participates in the mismatch repair (MMR) system. MSH3 typically forms the heterodimer MutS\u03b2 with MSH2 in order to correct long insertion/deletion loops and base-base mispairs in microsatellites during DNA synthesis. Deficient capacity for MMR is found in approximately 15% of colorectal cancers, and somatic mutations in the MSH3 gene can be found in nearly 50% of MMR-deficient colorectal cancers.",
+            "score": 278.5175406932831
+        },
+        {
+            "docid": "9878823_2",
+            "document": "MSH2 . DNA mismatch repair protein Msh2 also known as MutS protein homolog 2 or MSH2 is a protein that in humans is encoded by the \"MSH2\" gene, which is located on chromosome 2. MSH2 is a tumor suppressor gene and more specifically a caretaker gene that codes for a DNA mismatch repair (MMR) protein, MSH2, which forms a heterodimer with MSH6 to make the human MutS\u03b1 mismatch repair complex. It also dimerizes with MSH3 to form the MutS\u03b2 DNA repair complex. MSH2 is involved in many different forms of DNA repair, including transcription-coupled repair, homologous recombination, and base excision repair.",
+            "score": 278.2915258407593
+        },
+        {
+            "docid": "2488614_6",
+            "document": "DNA mismatch repair . Mismatch repair is a highly conserved process from prokaryotes to eukaryotes. The first evidence for mismatch repair was obtained from \"S. pneumoniae\" (the hexA and hexB genes). Subsequent work on \"E. coli\" has identified a number of genes that, when mutationally inactivated, cause hypermutable strains. The gene products are, therefore, called the \"Mut\" proteins, and are the major active components of the mismatch repair system. Three of these proteins are essential in detecting the mismatch and directing repair machinery to it: MutS, MutH and MutL (MutS is a homologue of HexA and MutL of HexB).",
+            "score": 347.68724179267883
+        },
+        {
+            "docid": "2488614_7",
+            "document": "DNA mismatch repair . MutS forms a dimer (MutS) that recognises the mismatched base on the daughter strand and binds the mutated DNA. MutH binds at hemimethylated sites along the daughter DNA, but its action is latent, being activated only upon contact by a MutL dimer (MutL), which binds the MutS-DNA complex and acts as a mediator between MutS and MutH, activating the latter. The DNA is looped out to search for the nearest d(GATC) methylation site to the mismatch, which could be up to 1 kb away. Upon activation by the MutS-DNA complex, MutH nicks the daughter strand near the hemimethylated site. MutL recruits UvrD helicase (DNA Helicase II) to separate the two strands with a specific 3' to 5' polarity. The entire MutSHL complex then slides along the DNA in the direction of the mismatch, liberating the strand to be excised as it goes. An exonuclease trails the complex and digests the ss-DNA tail. The exonuclease recruited is dependent on which side of the mismatch MutH incises the strand \u2013 5' or 3'. If the nick made by MutH is on the 5' end of the mismatch, either RecJ or ExoVII (both 5' to 3' exonucleases) is used. If, however, the nick is on the 3' end of the mismatch, ExoI (a 3' to 5' enzyme) is used.",
+            "score": 411.4391905069351
+        },
+        {
+            "docid": "2892265_7",
+            "document": "Nick (DNA) . Single stranded nicks act as recognizable markers to help the repair machinery distinguish the newly synthesized strand (daughter strand) from the template strand (parental strand). DNA mismatch repair (MMR) is an important DNA repair system that helps maintain genome plasticity by correcting mismatches, or non Watson-Crick base pairs in the a DNA duplex. Some sources of mismatched base pairs include replication errors and deamination of 5-methylcytosine DNA to form thymine.  MMR in most bacteria and eukaryotes is directed to the erroneous strand of the mismatched duplex through recognition of strand discontinuities, while MMR in E. coli and closely related bacteria is directed to the strand on the basis of the absence of methylation. Nicking endonucleases introduce the strand discontinuities, or DNA nicks, for both respective systems. Mut L homologues from eukaryotes and most bacteria incise the discontinuous strand to introduce the entry or termination point for the excision reaction. Similarly, in E. coli, Mut H nicks the unmethylated strand of the duplex to introduce the entry point of excision.  For eukaryotes specifically, the mechanism of DNA replication elongation between the leading and lagging strand differs. On the lagging strand, nicks exist between Okazaki fragments and are easily recognizable by the DNA mismatch repair machinery prior to ligation. Due to the continuous replication that occurs on the leading strand, the mechanism there is slightly more complex. During replication, ribonucleotides are added by replication enzymes and these ribonucleotides are nicked by an enzyme called RNase H2. Together, the presence of a nick and a ribonucleotide make the leading strand easily recognizable to the DNA mismatch repair machinery.",
+            "score": 288.9733958244324
+        },
+        {
+            "docid": "235926_15",
+            "document": "DNA polymerase . DNA polymerase's ability to slide along the DNA template allows increased processivity. There is a dramatic increase in processivity at the replication fork. This increase is facilitated by the DNA polymerase's association with proteins known as the sliding DNA clamp. The clamps are multiple protein subunits associated in the shape of a ring. Using the hydrolysis of ATP, a class of proteins known as the sliding clamp loading proteins open up the ring structure of the sliding DNA clamps allowing binding to and release from the DNA strand. Protein-protein interaction with the clamp prevents DNA polymerase from diffusing from the DNA template, thereby ensuring that the enzyme binds the same primer/template junction and continues replication. DNA polymerase changes conformation, increasing affinity to the clamp when associated with it and decreasing affinity when it completes the replication of a stretch of DNA to allow release from the clamp.",
+            "score": 212.33974862098694
+        },
+        {
+            "docid": "3568274_9",
+            "document": "MUTYH . Other notable interactions include MUTYH and Replication protein A is a single strand binding protein that prevents the annealing of DNA during replication, it also plays a role as an activator for damage repair on DNA. There is a hypothetical relation between the interaction of Mismatch Repair proteins (MMR) such as MSH 2,3 and 6, MLH1, PMS1 and 2, and MUTYH in which the proposed result of their partnering is to increase susceptibility to cancer.",
+            "score": 184.46819019317627
+        },
+        {
+            "docid": "9878901_2",
+            "document": "MSH6 . MSH6 or mutS homolog 6 is a gene that codes for DNA mismatch repair protein Msh6 in the budding yeast \"Saccharomyces cerevisiae\". It is the homologue of the human \"G/T binding protein,\" (GTBP) also called p160 or hMSH6 (human MSH6). The MSH6 protein is a member of the Mutator S (MutS) family of proteins that are involved in DNA damage repair.",
+            "score": 282.3991684913635
+        },
+        {
+            "docid": "7413343_9",
+            "document": "Microsatellite instability . In a broad sense, MSI results from the inability of the mismatch repair (MMR) proteins to fix a DNA replication error. DNA replication occurs in the \"S\" phase of the cell cycle; the faulty event creating an MSI region occurs during the second replication event. The original strand is unharmed, but the daughter strand experiences a frame-shift mutation due to DNA polymerase slippage. Specifically, DNA polymerase slips, creating a temporary insertion-deletion loop, which is usually recognized by MMR proteins. However, when the MMR proteins do not function normally, as in the case of MSI, this loop results in frame-shift mutations, either through insertions or deletions, yielding non-functioning proteins.",
+            "score": 188.53154921531677
+        },
+        {
+            "docid": "12266_49",
+            "document": "Genetics . During the process of DNA replication, errors occasionally occur in the polymerization of the second strand. These errors, called mutations, can affect the phenotype of an organism, especially if they occur within the protein coding sequence of a gene. Error rates are usually very low\u20141 error in every 10\u2013100\u00a0million bases\u2014due to the \"proofreading\" ability of DNA polymerases. Processes that increase the rate of changes in DNA are called mutagenic: mutagenic chemicals promote errors in DNA replication, often by interfering with the structure of base-pairing, while UV radiation induces mutations by causing damage to the DNA structure. Chemical damage to DNA occurs naturally as well and cells use DNA repair mechanisms to repair mismatches and breaks. The repair does not, however, always restore the original sequence.",
+            "score": 220.58196020126343
+        },
+        {
+            "docid": "9878834_4",
+            "document": "MLH1 . MLH1 protein is one component of a system of seven DNA mismatch repair (MMR) proteins that work coordinately in sequential steps to initiate repair of DNA mismatches in humans. Defects in mismatch repair, found in about 13% of colorectal cancers, are much more frequently due to deficiency of MLH1 than deficiencies of other MMR proteins. The seven MMR proteins in humans are MLH1, MLH3, MSH2, MSH3, MSH6, PMS1 and PMS2. In addition, there are Exo1-dependent and Exo1-independent MMR subpathways.",
+            "score": 173.09763288497925
+        },
+        {
+            "docid": "2488614_13",
+            "document": "DNA mismatch repair . Eukaryotes have MutL homologs designated Mlh1 and Pms1. They form a heterodimer that mimics MutL in \"E. coli\". The human homologue of prokaryotic MutL has three forms designated as MutL\u03b1, MutL\u03b2, and MutL\u03b3. The MutL\u03b1 complex is made of two subunits MLH1 and PMS2, the MutL\u03b2 heterodimer is made of MLH1 and PMS1, whereas MutL\u03b3 is made of MLH1 and MLH3. MutL\u03b1 acts as the matchmaker or facilitator, coordinating events in mismatch repair. It has recently been shown to be a DNA endonuclease that introduces strand breaks in DNA upon activation by mismatch and other required proteins, MutSa and PCNA. These strand interruptions serve as entry points for an exonuclease activity that removes mismatched DNA. Roles played by MutL\u03b2 and MutL\u03b3 in mismatch repair are less-understood.",
+            "score": 294.0292248725891
+        },
+        {
+            "docid": "14772672_10",
+            "document": "MBD4 . MBD4 has a special relationship with DNA mismatch repair (MMR). MBD4 protein binds strongly to the MMR protein MLH1. A mutational deficiency in MBD4 causes down-regulation, at the protein level, of MMR proteins Mlh1, Msh2, Pms2, and Msh6 by 5.8-, 5.6-, 2.6-, and 2.7-fold, respectively. In colorectal cancers with mutations in MMR genes, co-occurrence of MBD4 mutations were found in 27% of cancers.",
+            "score": 138.72753834724426
+        },
+        {
+            "docid": "14764880_15",
+            "document": "POLD1 . POLD1 activity contributes to multiple evolutionarily conserved DNA repair processes, including Mismatch repair (MMR), Translesion synthesis (TLS), Base excision repair (BER), Nucleotide Excision repair (NER) and double-strand break (DSB) repair. POLD1 mediates the post-incision steps in BER, NER and MMR. Pol\u03b4 interacts with the MMR machinery to support post-replication proofreading of newly synthesized DNA, with cells bearing mutations that inactivate POLD1 and MMR components experiencing elevated mutation rates. As noted above, a Pol\u03b4 heterotrimer (Pol\u03b43) becomes the dominant oligomeric form of POLD1 and is active during the presence of DNA damage. Pol\u03b43 is less error-prone than (Pol\u03b44), and can discriminate better between mismatched pairs, associated with better proofreading activity: however, it has reduced ability to bypass some base lesions. Instead, Pol\u03b4 polymerase switching to the specialized polymerase zeta (Pol\u03b6) is important for TLS as the substitution of p125 for the Pol\u03b6 catalytic subunit, p353, permits better bypass activity. In this process, the highly conserved C-terminal domain (CTD) of POLD1/p125 interacts with the CTD domain of Pol\u03b6, and the iron clusters within each CTD mediate interactions involving binding to POLD2 that permit polymerase switching during TLS. Some recent studies suggest that a switch from Pol\u03b4 to Pol lambda (\u03bb) also supports the TLS and repair of oxidative DNA damage like 7,8-Dihydro-8-oxoguanine lesions.",
+            "score": 190.30102062225342
+        },
+        {
+            "docid": "9878901_7",
+            "document": "MSH6 . Mismatch recognition by this complex is regulated by the ADP to ATP transformation, which provides evidence that hMutS alpha complex functions as a molecular switch. In normal DNA, adenine (A) bonds with thymine (T) and cytosine (C) bonds with guanine (G). Sometimes there will be a mismatch where T will bind with G, which is called a G/T mismatch. When a G/T mismatch is recognized, hMutS alpha complex binds and exchanges ADP for ATP. The ADP-->ATP exchange causes a conformational change to convert hMutS alpha into a sliding clamp that can diffuse along the DNA backbone. The ATP induces a release of the complex from the DNA and allows the hMutS alpha to dissociate along the DNA like a sliding clamp. This transformation helps trigger downstream events to repair the damaged DNA.",
+            "score": 290.99168157577515
+        },
+        {
+            "docid": "19544_7",
+            "document": "Microevolution . During the process of DNA replication, errors occasionally occur in the polymerization of the second strand. These errors, called mutations, can affect the phenotype of an organism, especially if they occur within the protein coding sequence of a gene. Error rates are usually very low\u20141 error in every 10\u2013100\u00a0million bases\u2014due to the \"proofreading\" ability of DNA polymerases. (Without proofreading error rates are a thousandfold higher; because many viruses rely on DNA and RNA polymerases that lack proofreading ability, they experience higher mutation rates.) Processes that increase the rate of changes in DNA are called mutagenic: mutagenic chemicals promote errors in DNA replication, often by interfering with the structure of base-pairing, while UV radiation induces mutations by causing damage to the DNA structure. Chemical damage to DNA occurs naturally as well, and cells use DNA repair mechanisms to repair mismatches and breaks in DNA\u2014nevertheless, the repair sometimes fails to return the DNA to its original sequence.",
+            "score": 211.8987523317337
+        },
+        {
+            "docid": "9878823_4",
+            "document": "MSH2 . Hereditary nonpolyposis colorectal cancer (HNPCC), sometimes referred to as Lynch syndrome, is inherited in an autosomal dominant fashion, where inheritance of only one copy of a mutated mismatch repair gene is enough to cause disease phenotype. Mutations in the MSH2 gene account for 40% of genetic alterations associated with this disease and is the leading cause, together with MLH1 mutations. Mutations associated with HNPCC are broadly distributed in all domains of MSH2, and hypothetical functions of these mutations based on the crystal structure of the MutS\u03b1 include protein\u2013protein interactions, stability, allosteric regulation, MSH2-MSH6 interface, and DNA binding. Mutations in MSH2 and other mismatch repair genes cause DNA damage to go unrepaired, resulting in an increase in mutation frequency. These mutations build up over a person's life that otherwise would not have occurred had the DNA been repaired properly.",
+            "score": 204.29153048992157
+        },
+        {
+            "docid": "10147471_12",
+            "document": "Nibrin . HSV-1-infection has been shown to result from the phosphorylation of Nbs1. It has been shown in studies that activation of the MRN complex and ATM biochemical cascade is consistent for a resulting HSV-1 infection. When there is an HSV-1 infection, the nucleus is reorganized causing the formation of RCs (replication compartments) where gene expression and DNA replication occurs. Proteins in the host used for DNA repair and damage response are needed for virus production. ICP8, which is a viral single-strand binding protein, is known to interact with several DNA repair proteins, such as Rad50, Mre11, BRG1, and DNA-PKcs. Ul12 and ICP8 viral proteins function together as a recombinase, possibly showing that while working with the host's recombination factors, work to form a concatemer by stimulating homologous recombination. These proteins may move the MRN complex towards the viral genome so it is able to promote homologous recombination, and to prevent non-homologous recombination as non-homologous recombination can have anti-viral effects. This possibly shows that the reaction between UL12 and MRN regulates the complex in a way that benefits the herpes virus.",
+            "score": 168.66052508354187
+        },
+        {
+            "docid": "32116368_5",
+            "document": "MutS-1 . This entry represents the N-terminal domain of proteins in the MutS family of DNA mismatch repair proteins, as well as closely related proteins. The N-terminal domain of MutS is responsible for mismatch recognition and forms a 6-stranded mixed beta-sheet surrounded by three alpha-helices, which is similar to the structure of tRNA endonuclease. Yeast MSH3, bacterial proteins involved in DNA mismatch repair, and the predicted protein product of the Rep-3 gene of mouse share extensive sequence similarity. Human MSH has been implicated in non-polyposis colorectal carcinoma (HNPCC) and is a mismatch binding protein.",
+            "score": 299.6046986579895
+        },
+        {
+            "docid": "2488614_16",
+            "document": "DNA mismatch repair . Mutations in the human homologues of the Mut proteins affect genomic stability, which can result in microsatellite instability (MSI), implicated in some human cancers. In specific, the hereditary nonpolyposis colorectal cancers (HNPCC or Lynch syndrome) are attributed to damaging germline variants in the genes encoding the MutS and MutL homologues MSH2 and MLH1 respectively, which are thus classified as tumour suppressor genes. One subtype of HNPCC, the Muir-Torre Syndrome (MTS), is associated with skin tumors. If both inherited copies (alleles) of a MMR gene bear damaging genetic variants, this results in a very rare and severe condition: the mismatch repair cancer syndrome (or constitutional mismatch repair deficiency, CMMR-D), manifesting as multiple occurrences of tumors at an early age, often colon and brain tumors.",
+            "score": 290.5050811767578
+        },
+        {
+            "docid": "14146177_7",
+            "document": "PMS2 . The MutS heterodimers, MutS\u03b1 and MutS\u03b2, associate with MutL\u03b1 upon mismatch binding. MutL\u03b1 is believed to join the mismatch recognition step to other processes, including: removal of mismatches from the new DNA strand, resynthesis of the degraded DNA, and repair of the nick in the DNA. MutL\u03b1 is shown to have weak ATPase activity and also possesses endonuclease activity that introduces nicks into the discontinuous strand of DNA. This facilitates 5' to 3' degradation of the mismatched DNA strand by EXO1. The active site of MutL\u03b1 is located on the PMS2 subunit. PMS1 and PMS2 compete for interaction with MLH1. Proteins in the interactome of PMS2 have been identified by tandem affinity purification.",
+            "score": 275.41878962516785
+        },
+        {
+            "docid": "30778342_12",
+            "document": "Infectious causes of cancer . As reviewed by Takeda et al., HCV and HBV cause carcinogenic DNA damage and genomic instability by a number of mechanisms. HBV, and especially HCV, cause chronic inflammation in the liver, increasing reactive oxygen species (ROS) formation. ROS interact directly with DNA, causing multiple types of DNA damages (26 ROS-induced DNA damages are described by Yu et al.) It also appears that chronic inflammation caused by HCV infection triggers the aberrant up-regulation of activation-induced cytidine deaminase (AID) in hepatocytes. AID creates mutations in DNA by deamination (a DNA damage) of the cytosine base, which converts cytosine into uracil. Thus, it changes a C:G base pair into a mutagenic U:G mismatch. In a still further cause of DNA damage, HCV core protein binds to the NBS1 protein and inhibits the formation of the Mre11/NBS1/Rad50 complex, thereby inhibiting DNA binding of repair enzymes. As a result of reduced DNA repair mutagenic DNA damages can accumulate.",
+            "score": 220.2809603214264
+        },
+        {
+            "docid": "2488614_20",
+            "document": "DNA mismatch repair . In humans, seven DNA mismatch repair (MMR) proteins (MLH1, MLH3, MSH2, MSH3, MSH6, PMS1 and PMS2) work coordinately in sequential steps to initiate repair of DNA mismatches. In addition, there are Exo1-dependent and Exo1-independent MMR subpathways.",
+            "score": 182.14469408988953
+        },
+        {
+            "docid": "24653882_2",
+            "document": "Mutation Frequency Decline . Mutation Frequency Decline (\"mfd\") is the gene which encodes the protein Mfd (also known as Transcription Repair Coupling Factor, TRCF). Mfd functions in transcription-coupled repair to remove a stalled RNA polymerase that has encountered DNA damage and is unable to continue translocating. Mfd utilizes ATP to translocate along DNA, most likely forcing RNA polymerase forward and ultimately dissociating it from the DNA template. Mfd also contains binding domains which recruit UvrA and trigger the associated nucleotide excision repair pathway and was initially discovered when its mutation led to a decrease in mutation rates after irradiation by UV light. Structural studies of E. coli Mfd by X-ray crystallography have revealed that this molecule is autoinhibited for UvrA-binding in its apo form due to a \"clamp\" interaction between the N-terminal UvrB-homology module and the C-terminal domain.",
+            "score": 202.45123279094696
+        },
+        {
+            "docid": "2332422_24",
+            "document": "Carcinogenesis . Cancers are known to exhibit genome instability or a mutator phenotype. The protein-coding DNA within the nucleus is about 1.5% of the total genomic DNA. Within this protein-coding DNA (called the exome), an average cancer of the breast or colon can have about 60 to 70 protein altering mutations, of which about 3 or 4 may be \"driver\" mutations, and the remaining ones may be \"passenger\" mutations. However, the average number of DNA sequence mutations in the entire genome (including non-protein-coding regions) within a breast cancer tissue sample is about 20,000. In an average melanoma tissue sample (where melanomas have a higher exome mutation frequency) the total number of DNA sequence mutations is about 80,000. These high frequencies of mutations in the total nucleotide sequences within cancers suggest that often an early alteration in the field defect giving rise to a cancer (e.g. yellow area in the diagram in the preceding section) is a deficiency in DNA repair. Large field defects surrounding colon cancers (extending to about 10\u00a0cm on each side of a cancer) are found to frequently have epigenetic defects in 2 or 3 DNA repair proteins (ERCC1, XPF and/or PMS2) in the entire area of the field defect. When expression of DNA repair genes is reduced, DNA damages accumulate in cells at a higher than normal level, and these excess damages cause increased frequencies of mutation and/or epimutation. Mutation rates strongly increase in cells defective in DNA mismatch repair or in homologous recombinational repair (HRR). A deficiency in DNA repair, itself, can allow DNA damages to accumulate, and error-prone translesion synthesis past some of those damages may give rise to mutations. In addition, faulty repair of these accumulated DNA damages may give rise to epimutations. These new mutations and/or epimutations may provide a proliferative advantage, generating a field defect. Although the mutations/epimutations in DNA repair genes do not, themselves, confer a selective advantage, they may be carried along as passengers in cells when the cell acquires an additional mutation/epimutation that does provide a proliferative advantage.",
+            "score": 189.08191764354706
+        },
+        {
+            "docid": "14797281_3",
+            "document": "PMS1 . The protein encoded by this gene was identified by its homology to a yeast protein involved in DNA mismatch repair. A role for this protein in mismatch repair has not been proven. However, the protein forms heterodimers with MLH1, a DNA mismatch repair protein, and some cases of hereditary nonpolyposis colorectal cancer have been found to have mutations in this gene.",
+            "score": 196.05074787139893
+        },
+        {
+            "docid": "6691212_3",
+            "document": "Dam methylase . When DNA polymerase makes an error resulting in a mismatched base-pair or a small insertion or deletion during DNA synthesis, the cell will repair the DNA by a pathway called mismatch repair. However, the cell must be able to differentiate between the template strand and the newly synthesized strand. In some bacteria, DNA strands are methylated by Dam methylase, and therefore, \"immediately\" after replication, the DNA will be hemimethylated. A repair enzyme, MutS, binds to mismatches in DNA and recruits MutL, which subsequently activates the endonuclease MutH. MutH binds hemimethylated GATC sites and when activated will selectively cleave the unmethylated daughter strand, allowing helicase and exonucleases to excise the nascent strand in the region surrounding the mismatch. The strand is then re-synthesized by DNA polymerase III.",
+            "score": 354.8622125387192
+        },
+        {
+            "docid": "9933420_15",
+            "document": "DNA repair protein XRCC4 . The process of NHEJ involves XRCC4 and a number of tightly coupled proteins acting in concert to repair the DSB. The system begins with the binding of one heterodimeric protein called Ku70/80 to each end of the DSB to maintain them close together in preparation for ligation and prevent their degradation. Ku70/80 then sequesters one DNA-dependent protein kinase catalytic subunit (DNA-PKcs) to the DNA ends to enable the binding of Artemis protein to one end of each DNA-PKcs. One end of the DNA-PKcs joins to stabilize the proximity of the DSB and allow very short regions of DNA complementarity to hybridize. DNA-PKcs then phosphorylates Artemis at a serine/threonine to activate its exonuclease activity and cleave nucleotides at the single strand tails that are not hybridized in a 5\u2019 to 3\u2019 direction. Two XRCC4 proteins are post-translationally modified for recognition and localization to Ku70/80 (5). The two XRCC4 proteins dimerize together and bind to Ku70/80 at the ends of the DNA strands to promote ligation. XRCC4 then forms a strong complex with DNA ligase IV, LigIV, which is enhanced by Cernunnos XRCC4-like factor, Cer-XLF. Cer-XLF only binds to XRCC4 without direct interaction with LigIV. LigIV then joins the DNA ends by catalyzing a covalent phosphodiester bond.",
+            "score": 173.1963472366333
+        },
+        {
+            "docid": "2631477_15",
+            "document": "Homologous recombination . Two primary models for how homologous recombination repairs double-strand breaks in DNA are the double-strand break repair (DSBR) pathway (sometimes called the \"double Holliday junction model\") and the synthesis-dependent strand annealing (SDSA) pathway. The two pathways are similar in their first several steps. After a double-strand break occurs, the MRX complex (MRN complex in humans) binds to DNA on either side of the break. Next a resection, in which DNA around the 5' ends of the break is cut back, is carried out in two distinct steps. In the first step of resection, the MRX complex recruits the Sae2 protein. The two proteins then trim back the 5' ends on either side of the break to create short 3' overhangs of single-strand DNA. In the second step, 5'\u21923' resection is continued by the Sgs1 helicase and the Exo1 and Dna2 nucleases. As a helicase, Sgs1 \"unzips\" the double-strand DNA, while Exo1 and Dna2's nuclease activity allows them to cut the single-stranded DNA produced by Sgs1. The RPA protein, which has high affinity for single-stranded DNA, then binds the 3' overhangs. With the help of several other proteins that mediate the process, the Rad51 protein (and Dmc1, in meiosis) then forms a filament of nucleic acid and protein on the single strand of DNA coated with RPA. This nucleoprotein filament then begins searching for DNA sequences similar to that of the 3' overhang. After finding such a sequence, the single-stranded nucleoprotein filament moves into (invades) the similar or identical recipient DNA duplex in a process called strand invasion. In cells that divide through mitosis, the recipient DNA duplex is generally a sister chromatid, which is identical to the damaged DNA molecule and provides a template for repair. In meiosis, however, the recipient DNA tends to be from a similar but not necessarily identical homologous chromosome. A displacement loop (D-loop) is formed during strand invasion between the invading 3' overhang strand and the homologous chromosome. After strand invasion, a DNA polymerase extends the end of the invading 3' strand by synthesizing new DNA. This changes the D-loop to a cross-shaped structure known as a Holliday junction. Following this, more DNA synthesis occurs on the invading strand (i.e., one of the original 3' overhangs), effectively restoring the strand on the homologous chromosome that was displaced during strand invasion.",
+            "score": 203.34278285503387
+        },
+        {
+            "docid": "17269882_3",
+            "document": "MRX complex . Cells are able to accurately repair DNA double-strand breaks using a process called homologous recombination. By this process DNA sequence information that is lost because of the breakage can be recovered from a second homologous DNA molecule. Homologous recombinational repair is important for removing DNA damage both during mitosis and meiosis. The repair process begins with the degradation of the 5\u2019 end on either side of the double-strand break to yield 3\u2019 single-stranded DNA tails (a process called end resection). Next the Rad51 protein binds to these tails and initiates a process of strand invasion leading to recovery of genetic information from the undamaged homologous sequence of the second DNA molecule. Studies with the yeast \"Saccharomyces cerevisiae\" have shown that end resection is catalyzed by the MRX protein complex. The MRE11 enzyme (one of the three component proteins of the MRX complex) first makes a nick in the DNA at 15 to 20 nucleotides from the 5\u2019 end of the break. This creates an entry point for further processing by exonucleases to complete the initial resection stage of the overall process.",
+            "score": 192.91406655311584
+        }
+    ],
+    "r": [
+        {
+            "docid": "32116368_2",
+            "document": "MutS-1 . Mismatch repair contributes to the overall fidelity of DNA replication and is essential for combating the adverse effects of damage to the genome. It involves the correction of mismatched base pairs that have been missed by the proofreading element (Klenow fragment) of the DNA polymerase complex. The post-replicative Mismatch Repair System (MMRS) of \"Escherichia coli\" involves MutS (Mutator S), MutL and MutH proteins, and acts to correct point mutations or small insertion/deletion loops produced during DNA replication. MutS and MutL are involved in preventing recombination between partially homologous DNA sequences. The assembly of MMRS is initiated by MutS, which recognizes and binds to mispaired nucleotides and allows further action of MutL and MutH to eliminate a portion of newly synthesized DNA strand containing the mispaired base. MutS can also collaborate with methyltransferases in the repair of O(6)-methylguanine damage, which would otherwise pair with thymine during replication to create an O(6)mG:T mismatch. MutS exists as a dimer, where the two monomers have different conformations and form a heterodimer at the structural level. Only one monomer recognises the mismatch specifically and has ADP bound. Non-specific major groove DNA-binding domains from both monomers embrace the DNA in a clamp-like structure. Mismatch binding induces ATP uptake and a conformational change in the MutS protein, resulting in a clamp that translocates on DNA.",
+            "score": 476.1482238769531
+        },
+        {
+            "docid": "2488614_7",
+            "document": "DNA mismatch repair . MutS forms a dimer (MutS) that recognises the mismatched base on the daughter strand and binds the mutated DNA. MutH binds at hemimethylated sites along the daughter DNA, but its action is latent, being activated only upon contact by a MutL dimer (MutL), which binds the MutS-DNA complex and acts as a mediator between MutS and MutH, activating the latter. The DNA is looped out to search for the nearest d(GATC) methylation site to the mismatch, which could be up to 1 kb away. Upon activation by the MutS-DNA complex, MutH nicks the daughter strand near the hemimethylated site. MutL recruits UvrD helicase (DNA Helicase II) to separate the two strands with a specific 3' to 5' polarity. The entire MutSHL complex then slides along the DNA in the direction of the mismatch, liberating the strand to be excised as it goes. An exonuclease trails the complex and digests the ss-DNA tail. The exonuclease recruited is dependent on which side of the mismatch MutH incises the strand \u2013 5' or 3'. If the nick made by MutH is on the 5' end of the mismatch, either RecJ or ExoVII (both 5' to 3' exonucleases) is used. If, however, the nick is on the 3' end of the mismatch, ExoI (a 3' to 5' enzyme) is used.",
+            "score": 411.4391784667969
+        },
+        {
+            "docid": "6691212_3",
+            "document": "Dam methylase . When DNA polymerase makes an error resulting in a mismatched base-pair or a small insertion or deletion during DNA synthesis, the cell will repair the DNA by a pathway called mismatch repair. However, the cell must be able to differentiate between the template strand and the newly synthesized strand. In some bacteria, DNA strands are methylated by Dam methylase, and therefore, \"immediately\" after replication, the DNA will be hemimethylated. A repair enzyme, MutS, binds to mismatches in DNA and recruits MutL, which subsequently activates the endonuclease MutH. MutH binds hemimethylated GATC sites and when activated will selectively cleave the unmethylated daughter strand, allowing helicase and exonucleases to excise the nascent strand in the region surrounding the mismatch. The strand is then re-synthesized by DNA polymerase III.",
+            "score": 354.8622131347656
+        },
+        {
+            "docid": "2488614_6",
+            "document": "DNA mismatch repair . Mismatch repair is a highly conserved process from prokaryotes to eukaryotes. The first evidence for mismatch repair was obtained from \"S. pneumoniae\" (the hexA and hexB genes). Subsequent work on \"E. coli\" has identified a number of genes that, when mutationally inactivated, cause hypermutable strains. The gene products are, therefore, called the \"Mut\" proteins, and are the major active components of the mismatch repair system. Three of these proteins are essential in detecting the mismatch and directing repair machinery to it: MutS, MutH and MutL (MutS is a homologue of HexA and MutL of HexB).",
+            "score": 347.687255859375
+        },
+        {
+            "docid": "2488614_11",
+            "document": "DNA mismatch repair . MutL also has weak ATPase activity (it uses ATP for purposes of movement). It forms a complex with MutS and MutH, increasing the MutS footprint on the DNA.",
+            "score": 344.60015869140625
+        },
+        {
+            "docid": "2488614_14",
+            "document": "DNA mismatch repair . MutH is a very weak endonuclease that is activated once bound to MutL (which itself is bound to MutS). It nicks unmethylated DNA and the unmethylated strand of hemimethylated DNA but does not nick fully methylated DNA. Experiments have shown that mismatch repair is random if neither strand is methylated. These behaviours led to the proposal that MutH determines which strand contains the mismatch.  MutH has no eukaryotic homolog. Its endonuclease function is taken up by MutL homologs, which have some specialized 5'-3' exonuclease activity. The strand bias for removing mismatches from the newly synthesized daughter strand in eukaryotes may be provided by the free 3' ends of Okazaki fragments in the new strand created during replication.",
+            "score": 325.9465637207031
+        },
+        {
+            "docid": "2488614_9",
+            "document": "DNA mismatch repair . When bound, the MutS dimer bends the DNA helix and shields approximately 20 base pairs. It has weak ATPase activity, and binding of ATP leads to the formation of tertiary structures on the surface of the molecule. The crystal structure of MutS reveals that it is exceptionally asymmetric, and, while its active conformation is a dimer, only one of the two halves interacts with the mismatch site.",
+            "score": 310.4114990234375
+        },
+        {
+            "docid": "32116368_5",
+            "document": "MutS-1 . This entry represents the N-terminal domain of proteins in the MutS family of DNA mismatch repair proteins, as well as closely related proteins. The N-terminal domain of MutS is responsible for mismatch recognition and forms a 6-stranded mixed beta-sheet surrounded by three alpha-helices, which is similar to the structure of tRNA endonuclease. Yeast MSH3, bacterial proteins involved in DNA mismatch repair, and the predicted protein product of the Rep-3 gene of mouse share extensive sequence similarity. Human MSH has been implicated in non-polyposis colorectal carcinoma (HNPCC) and is a mismatch binding protein.",
+            "score": 299.6047058105469
+        },
+        {
+            "docid": "26945617_3",
+            "document": "Very short patch repair . The components of the system are MutS, which binds to the GT mismatch, the VSR endonuclease, which cuts the DNA, and MutL, which recruits the UvrD helicase.",
+            "score": 297.5724792480469
+        },
+        {
+            "docid": "2488614_13",
+            "document": "DNA mismatch repair . Eukaryotes have MutL homologs designated Mlh1 and Pms1. They form a heterodimer that mimics MutL in \"E. coli\". The human homologue of prokaryotic MutL has three forms designated as MutL\u03b1, MutL\u03b2, and MutL\u03b3. The MutL\u03b1 complex is made of two subunits MLH1 and PMS2, the MutL\u03b2 heterodimer is made of MLH1 and PMS1, whereas MutL\u03b3 is made of MLH1 and MLH3. MutL\u03b1 acts as the matchmaker or facilitator, coordinating events in mismatch repair. It has recently been shown to be a DNA endonuclease that introduces strand breaks in DNA upon activation by mismatch and other required proteins, MutSa and PCNA. These strand interruptions serve as entry points for an exonuclease activity that removes mismatched DNA. Roles played by MutL\u03b2 and MutL\u03b3 in mismatch repair are less-understood.",
+            "score": 294.02923583984375
+        },
+        {
+            "docid": "9878901_7",
+            "document": "MSH6 . Mismatch recognition by this complex is regulated by the ADP to ATP transformation, which provides evidence that hMutS alpha complex functions as a molecular switch. In normal DNA, adenine (A) bonds with thymine (T) and cytosine (C) bonds with guanine (G). Sometimes there will be a mismatch where T will bind with G, which is called a G/T mismatch. When a G/T mismatch is recognized, hMutS alpha complex binds and exchanges ADP for ATP. The ADP-->ATP exchange causes a conformational change to convert hMutS alpha into a sliding clamp that can diffuse along the DNA backbone. The ATP induces a release of the complex from the DNA and allows the hMutS alpha to dissociate along the DNA like a sliding clamp. This transformation helps trigger downstream events to repair the damaged DNA.",
+            "score": 290.9916687011719
+        },
+        {
+            "docid": "2488614_16",
+            "document": "DNA mismatch repair . Mutations in the human homologues of the Mut proteins affect genomic stability, which can result in microsatellite instability (MSI), implicated in some human cancers. In specific, the hereditary nonpolyposis colorectal cancers (HNPCC or Lynch syndrome) are attributed to damaging germline variants in the genes encoding the MutS and MutL homologues MSH2 and MLH1 respectively, which are thus classified as tumour suppressor genes. One subtype of HNPCC, the Muir-Torre Syndrome (MTS), is associated with skin tumors. If both inherited copies (alleles) of a MMR gene bear damaging genetic variants, this results in a very rare and severe condition: the mismatch repair cancer syndrome (or constitutional mismatch repair deficiency, CMMR-D), manifesting as multiple occurrences of tumors at an early age, often colon and brain tumors.",
+            "score": 290.50506591796875
+        },
+        {
+            "docid": "2892265_7",
+            "document": "Nick (DNA) . Single stranded nicks act as recognizable markers to help the repair machinery distinguish the newly synthesized strand (daughter strand) from the template strand (parental strand). DNA mismatch repair (MMR) is an important DNA repair system that helps maintain genome plasticity by correcting mismatches, or non Watson-Crick base pairs in the a DNA duplex. Some sources of mismatched base pairs include replication errors and deamination of 5-methylcytosine DNA to form thymine.  MMR in most bacteria and eukaryotes is directed to the erroneous strand of the mismatched duplex through recognition of strand discontinuities, while MMR in E. coli and closely related bacteria is directed to the strand on the basis of the absence of methylation. Nicking endonucleases introduce the strand discontinuities, or DNA nicks, for both respective systems. Mut L homologues from eukaryotes and most bacteria incise the discontinuous strand to introduce the entry or termination point for the excision reaction. Similarly, in E. coli, Mut H nicks the unmethylated strand of the duplex to introduce the entry point of excision.  For eukaryotes specifically, the mechanism of DNA replication elongation between the leading and lagging strand differs. On the lagging strand, nicks exist between Okazaki fragments and are easily recognizable by the DNA mismatch repair machinery prior to ligation. Due to the continuous replication that occurs on the leading strand, the mechanism there is slightly more complex. During replication, ribonucleotides are added by replication enzymes and these ribonucleotides are nicked by an enzyme called RNase H2. Together, the presence of a nick and a ribonucleotide make the leading strand easily recognizable to the DNA mismatch repair machinery.",
+            "score": 288.973388671875
+        },
+        {
+            "docid": "496312_22",
+            "document": "Nuclease . The MutSLH system (comprising MutS, MutL, and MutH) corrects point mutations and small turns. MutS recognizes and binds to mismatches, where it recruits MutL and MutH. MutL mediates the interaction between MutS and MutH, and enhances the endonucleasic activity of the latter. MutH recognizes hemimethylated codice_4 sites and cleaves next to the codice_5 of the non-methylated strand (the more recently synthesized strand).",
+            "score": 285.33502197265625
+        },
+        {
+            "docid": "9878901_2",
+            "document": "MSH6 . MSH6 or mutS homolog 6 is a gene that codes for DNA mismatch repair protein Msh6 in the budding yeast \"Saccharomyces cerevisiae\". It is the homologue of the human \"G/T binding protein,\" (GTBP) also called p160 or hMSH6 (human MSH6). The MSH6 protein is a member of the Mutator S (MutS) family of proteins that are involved in DNA damage repair.",
+            "score": 282.399169921875
+        },
+        {
+            "docid": "14762085_2",
+            "document": "MSH3 . DNA mismatch repair protein, MutS Homolog 3 (MSH3) is a human homologue of the bacterial mismatch repair protein MutS that participates in the mismatch repair (MMR) system. MSH3 typically forms the heterodimer MutS\u03b2 with MSH2 in order to correct long insertion/deletion loops and base-base mispairs in microsatellites during DNA synthesis. Deficient capacity for MMR is found in approximately 15% of colorectal cancers, and somatic mutations in the MSH3 gene can be found in nearly 50% of MMR-deficient colorectal cancers.",
+            "score": 278.5175476074219
+        },
+        {
+            "docid": "9878823_2",
+            "document": "MSH2 . DNA mismatch repair protein Msh2 also known as MutS protein homolog 2 or MSH2 is a protein that in humans is encoded by the \"MSH2\" gene, which is located on chromosome 2. MSH2 is a tumor suppressor gene and more specifically a caretaker gene that codes for a DNA mismatch repair (MMR) protein, MSH2, which forms a heterodimer with MSH6 to make the human MutS\u03b1 mismatch repair complex. It also dimerizes with MSH3 to form the MutS\u03b2 DNA repair complex. MSH2 is involved in many different forms of DNA repair, including transcription-coupled repair, homologous recombination, and base excision repair.",
+            "score": 278.2915344238281
+        },
+        {
+            "docid": "14146177_7",
+            "document": "PMS2 . The MutS heterodimers, MutS\u03b1 and MutS\u03b2, associate with MutL\u03b1 upon mismatch binding. MutL\u03b1 is believed to join the mismatch recognition step to other processes, including: removal of mismatches from the new DNA strand, resynthesis of the degraded DNA, and repair of the nick in the DNA. MutL\u03b1 is shown to have weak ATPase activity and also possesses endonuclease activity that introduces nicks into the discontinuous strand of DNA. This facilitates 5' to 3' degradation of the mismatched DNA strand by EXO1. The active site of MutL\u03b1 is located on the PMS2 subunit. PMS1 and PMS2 compete for interaction with MLH1. Proteins in the interactome of PMS2 have been identified by tandem affinity purification.",
+            "score": 275.4187927246094
+        },
+        {
+            "docid": "3485068_3",
+            "document": "Phylogenomics . When Jonathan Eisen originally coined \"phylogenomics\", it applied to prediction of gene function. Before the use of phylogenomic techniques, predicting gene function was done primarily by comparing the gene sequence with the sequences of genes with known functions. When several genes with similar sequences but differing functions are involved, this method alone is ineffective in determining function. A specific example is presented in the paper \"Gastronomic Delights: A movable feast\". Gene predictions based on sequence similarity alone had been used to predict that \"Helicobacter pylori\" can repair mismatched DNA. This prediction was based on the fact that this organism has a gene for which the sequence is highly similar to genes from other species in the \"MutS\" gene family which included many known to be involved in mismatch repair. However, Eisen noted that \"H. pylori\" lacks other genes thought to be essential for this function (specifically, members of the MutL family). Eisen suggested a solution to this apparent discrepancy \u2013 phylogenetic trees of genes in the MutS family revealed that the gene found in \"H. pylori\" was not in the same subfamily as those known to be involved in mismatch repair. Furthermore, he suggested that this \"phylogenomic\" approach could be used as a general method for prediction functions of genes. This approach was formally described in 1998. For reviews of this aspect of phylogenomics see Brown D, Sj\u00f6lander K. Functional classification using phylogenomic inference.",
+            "score": 255.82247924804688
+        },
+        {
+            "docid": "2488614_15",
+            "document": "DNA mismatch repair . PCNA and the \u03b2-sliding clamp associate with MutS\u03b1/\u03b2 and MutS, respectively. Although initial reports suggested that the PCNA-MutS\u03b1 complex may enhance mismatch recognition, it has been recently demonstrated that there is no apparent change in affinity of MutS\u03b1 for a mismatch in the presence or absence of PCNA. Furthermore, mutants of MutS\u03b1 that are unable to interact with PCNA \"in vitro\" exhibit the capacity to carry out mismatch recognition and mismatch excision to near wild type levels. Such mutants are defective in the repair reaction directed by a 5' strand break, suggesting for the first time MutS\u03b1 function in a post-excision step of the reaction.",
+            "score": 254.3550262451172
+        },
+        {
+            "docid": "2488614_12",
+            "document": "DNA mismatch repair . However, the processivity (the distance the enzyme can move along the DNA before dissociating) of UvrD is only ~40\u201350 bp. Because the distance between the nick created by MutH and the mismatch can average ~600 bp, if there is not another UvrD loaded the unwound section is then free to re-anneal to its complementary strand, forcing the process to start over. However, when assisted by MutL, the \"rate\" of UvrD loading is greatly increased. While the processivity (and ATP utilisation) of the individual UvrD molecules remains the same, the total effect on the DNA is boosted considerably; the DNA has no chance to re-anneal, as each UvrD unwinds 40-50 bp of DNA, dissociates, and then is immediately replaced by another UvrD, repeating the process. This exposes large sections of DNA to exonuclease digestion, allowing for quick excision (and later replacement) of the incorrect DNA.",
+            "score": 251.13388061523438
+        },
+        {
+            "docid": "14799195_3",
+            "document": "MSH5 . This gene encodes a member of the mutS family of proteins that are involved in DNA mismatch repair or meiotic recombination processes. This protein is similar to a Saccharomyces cerevisiae protein that participates in meiotic segregation fidelity and crossing-over. This protein forms heterooligomers with another member of this family, mutS homolog 4. Alternative splicing results in four transcript variants encoding three different isoforms.",
+            "score": 247.99603271484375
+        },
+        {
+            "docid": "2488614_5",
+            "document": "DNA mismatch repair . Examples of mismatched bases include a G/T or A/C pairing (see DNA repair). Mismatches are commonly due to tautomerization of bases during DNA replication. The damage is repaired by recognition of the deformity caused by the mismatch, determining the template and non-template strand, and excising the wrongly incorporated base and replacing it with the correct nucleotide. The removal process involves more than just the mismatched nucleotide itself. A few or up to thousands of base pairs of the newly synthesized DNA strand can be removed.",
+            "score": 247.0474853515625
+        },
+        {
+            "docid": "9007251_36",
+            "document": "SNP genotyping . DNA mismatch-binding proteins can distinguish single nucleotide mismatches and thus facilitate differential analysis of SNPs. For example, MutS protein from \"Thermus aquaticus\" binds different single nucleotide mismatches with different affinities and can be used in capillary electrophoresis to differentiate all six sets of mismatches (Drabovich & Krylov 2006).",
+            "score": 245.7595977783203
+        },
+        {
+            "docid": "46511739_22",
+            "document": "Sulcia muelleri . \"Sulcia muelleri\" has a minimal set of genes assigned for DNA housekeeping purposes. The only genes it has for DNA repair are the \"mutL\" and mutS genes.",
+            "score": 244.64463806152344
+        },
+        {
+            "docid": "27687357_2",
+            "document": "GHKL domain . The GHKL domain (Gyrase, Hsp90, Histidine Kinase, MutL) is an evolutionary conserved protein domain. This family represents the structurally related ATPase domains of histidine kinase, DNA gyrase B and HSP90. This domain is found in several ATP-binding proteins for example: histidine kinase, DNA gyrase B, topoisomerases, heat shock protein HSP90, phytochrome-like ATPases and DNA mismatch repair proteins. More information about this protein can be found at Protein of the Month: DNA Topoisomerase.",
+            "score": 243.87319946289062
+        },
+        {
+            "docid": "235926_12",
+            "document": "DNA polymerase . Fidelity is very important in DNA replication. Mismatches in DNA base pairing can potentially result in dysfunctional proteins and could lead to cancer. Many DNA polymerase contain an exonuclease domain, which acts in detecting base pair mismatches and further performs in the removal of the incorrect nucleotide to be replaced by the correct one. The shape and the interactions accommodating the Watson and Crick base pair are what primarily contribute to the detection or error. Hydrogen bonds play a key role in base pair binding and interaction. The loss of an interaction, which occurs at a mismatch, is said to trigger a shift in the balance, for the binding of the template-primer, from the polymerase, to the exonuclease domain. In addition, an incorporation of a wrong nucleotide causes a retard in DNA polymerization. This delay gives time for the DNA to be switched from the polymerase site to the exonuclease site. Different conformational changes and loss of interaction occur at different mismatches. In a purine:pyrimidine mismatch there is a displacement of the pyrimidine towards the major groove and the purine towards the minor groove. Relative to the shape of DNA polymerase's binding pocket, steric clashes occur between the purine and residues in the minor groove, and important van der Waals and electrostatic interactions are lost by the pyrimidine. Pyrimidine:pyrimidine and purine:purine mismatches present less notable changes since the bases are displaced towards the major groove, and less steric hindrance is experienced. However, although the different mismatches result in different steric properties, DNA polymerase is still able to detect and differentiate them so uniformly and maintain fidelity in DNA replication. DNA polymerization is also critical for many mutagenesis processes and is widely employed in biotechnologies.",
+            "score": 238.3084259033203
+        },
+        {
+            "docid": "2488614_3",
+            "document": "DNA mismatch repair . Mismatch repair is strand-specific. During DNA synthesis the newly synthesised (daughter) strand will commonly include errors. In order to begin repair, the mismatch repair machinery distinguishes the newly synthesised strand from the template (parental). In gram-negative bacteria, transient hemimethylation distinguishes the strands (the parental is methylated and daughter is not). However, in other prokaryotes and eukaryotes, the exact mechanism is not clear. It is suspected that, in eukaryotes, newly synthesized lagging-strand DNA transiently contains nicks (before being sealed by DNA ligase) and provides a signal that directs mismatch proofreading systems to the appropriate strand. This implies that these nicks must be present in the leading strand, and evidence for this has recently been found. Recent work has shown that nicks are sites for RFC-dependent loading of the replication sliding clamp PCNA, in an orientation-specific manner, such that one face of the donut-shape protein is juxtaposed toward the 3'-OH end at the nick. Oriented PCNA then directs the action of the MutLalpha endonuclease to one strand in the presence of a mismatch and MutSalpha or MutSbeta.",
+            "score": 232.14895629882812
+        },
+        {
+            "docid": "9878834_5",
+            "document": "MLH1 . DNA mismatches occur where one base is improperly paired with another base, or where there is a short addition or deletion in one strand of DNA that is not matched in the other strand. Mismatches commonly occur as a result of DNA replication errors or during genetic recombination. Recognizing those mismatches and repairing them is important for cells because failure to do so results in microsatellite instability (MSI) and an elevated spontaneous mutation rate (mutator phenotype). Among 20 cancers evaluated, microsatellite instable (MSI) colon cancer (mismatch repair deficient) had the second highest frequency of mutations (after melanoma).",
+            "score": 228.67469787597656
+        },
+        {
+            "docid": "1137227_4",
+            "document": "DNA methylation . Methylation of cytosine to form 5-methylcytosine occurs at the same 5 position on the pyrimidine ring where the DNA base thymine's methyl group is located; the same position distinguishes thymine from the analogous RNA base uracil, which has no methyl group. Spontaneous deamination of 5-methylcytosine converts it to thymine. This results in a T:G mismatch. Repair mechanisms then correct it back to the original C:G pair; alternatively, they may substitute G for A, turning the original C:G pair into an T:A pair, effectively changing a base and introducing a mutation. This misincorporated base will not be corrected during DNA replication as thymine is a DNA base. If the mismatch is not repaired and the cell enters the cell cycle the strand carrying the T will be complemented by an A in one of the daughter cells, such that the mutation becomes permanent. The near-universal replacement of uracil by thymine in DNA, but not RNA, may have evolved as an error-control mechanism, to facilitate the removal of uracils generated by the spontaneous deamination of cytosine. DNA methylation as well as many of its contemporary DNA methyltransferases has been thought to evolve from early world primitive RNA methylation activity and is supported by several lines of evidence.",
+            "score": 226.9625701904297
+        },
+        {
+            "docid": "1695344_6",
+            "document": "Gene conversion . Meiotic recombination is initiated through formation of a double-strand break (DSB). The 5\u2019 ends of the break are then degraded, leaving long 3\u2019 overhangs of several hundred nucleotides. One of these 3\u2019 single stranded DNA segments then invades a homologous sequence on the homologous chromosome, forming an intermediate which can be repaired through different pathways resulting either in crossovers (CO) or noncrossovers (NCO). At various steps of the recombination process, heteroduplex DNA (double-stranded DNA consisting of single strands from each of the two homologous chromosomes which may or may not be perfectly complementary) is formed. When mismatches occur in heteroduplex DNA, the sequence of one strand will be repaired to bind the other strand with perfect complementarity, leading to the conversion of one sequence to another. This repair process can follow either of two alternative pathways as illustrated in the Figure. By one pathway, a structure called a double Holliday junction (DHJ) is formed, leading to the exchange of DNA strands. By the other pathway, referred to as Synthesis Dependent Strand Annealing (SDSA), there is information exchange but not physical exchange. Gene conversion will occur during SDSA if the two DNA molecules are heterozygous at the site of the recombinational repair. Gene conversion may also occur during recombinational repair involving a DHJ, and this gene conversion may be associated with physical recombination of the DNA duplexes on the two sides of the DHJ.",
+            "score": 223.3640594482422
+        },
+        {
+            "docid": "7955_61",
+            "document": "DNA . In DNA replication, DNA-dependent DNA polymerases make copies of DNA polynucleotide chains. To preserve biological information, it is essential that the sequence of bases in each copy are precisely complementary to the sequence of bases in the template strand. Many DNA polymerases have a proofreading activity. Here, the polymerase recognizes the occasional mistakes in the synthesis reaction by the lack of base pairing between the mismatched nucleotides. If a mismatch is detected, a 3\u2032 to 5\u2032 exonuclease activity is activated and the incorrect base removed. In most organisms, DNA polymerases function in a large complex called the replisome that contains multiple accessory subunits, such as the DNA clamp or helicases.",
+            "score": 223.0945587158203
+        }
+    ]
+}

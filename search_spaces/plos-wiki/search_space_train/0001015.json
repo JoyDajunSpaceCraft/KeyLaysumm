@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "141029_15",
+            "document": "African trypanosomiasis . The gold standard for diagnosis is identification of trypanosomes in a patient sample by microscopic examination. Patient samples that can be used for diagnosis include chancre fluid, lymph node aspirates, blood, bone marrow, and, during the neurological stage, cerebrospinal fluid. Detection of trypanosome-specific antibodies can be used for diagnosis, but the sensitivity and specificity of these methods are too variable to be used alone for clinical diagnosis. Further, seroconversion occurs after the onset of clinical symptoms during a \"T. b. rhodesiense\" infection, so is of limited diagnostic use.",
+            "score": 42.09011220932007
+        },
+        {
+            "docid": "4225577_5",
+            "document": "N-Ethylmaleimide . NEM activates ouabain-insensitive Cl-dependent K efflux in low K sheep and goat red blood cells. This discovery contributed to the molecular identification of K-Cl cotransport (KCC) in human embryonic cells transfected by KCC1 isoform cDNA, 16 years later. Since then, NEM has been widely used as a diagnostic tool to uncover or manipulate the membrane presence of K-Cl cotransport in cells of many species in the animal kingdom. Despite repeated unsuccessful attempts to identify chemically the target thiol group, at physiological pH, NEM may form adducts with thiols within protein kinases that phosphorylate KCC at specific serine and threonine residues primarily within the C-terminal domain of the transporter. The ensuing dephosphorylation of KCC by protein phosphatases leads to activation of KCC.",
+            "score": 18.534814834594727
+        },
+        {
+            "docid": "787945_5",
+            "document": "Cathodoluminescence microscope . CL systems can also be attached to a scanning electron microscope. These devices are traditionally used for special applications like e.g. investigations in materials science, geoscience, optics research, or quality determination of ceramics. New SEM CL systems can be used for research in nanophotonics. The most prominent advantage is their higher magnifications. However, CL colour information can only be obtained by a spectroscopic analysis of the luminescence emission.",
+            "score": 20.315544843673706
+        },
+        {
+            "docid": "3928494_31",
+            "document": "Hyperspectral imaging . Physicists use an electron microscopy technique that involves microanalysis using either energy-dispersive X-ray spectroscopy (EDS), electron energy loss spectroscopy (EELS), infrared spectroscopy(IR), Raman spectroscopy, or cathodoluminescence (CL) spectroscopy, in which the entire spectrum measured at each point is recorded. EELS hyperspectral imaging is performed in a scanning transmission electron microscope (STEM); EDS and CL mapping can be performed in STEM as well, or in a scanning electron microscope or electron microprobe (also called an electron probe microanalyzer or EPMA). Often, multiple techniques (EDS, EELS, CL) are used simultaneously.",
+            "score": 24.383448123931885
+        },
+        {
+            "docid": "232046_14",
+            "document": "Hydranencephaly . Diagnosis may be delayed for several months because the infant's early behavior appears to be relatively normal. Transillumination, an examination in which light is passed through body tissues, can be used to diagnose hydranencephaly. An accurate, confirmed diagnosis is generally impossible until after birth, though prenatal diagnosis using fetal ultrasonography (ultrasound) can identify characteristic physical abnormalities that exist. Through thorough clinical evaluation, via physical findings, detailed patient history, and advanced imaging techniques, such as angiogram, computerized tomography (CT scan), magnetic resonance imaging (MRI), or more rarely transillumination after birth are the most accurate diagnostic techniques. However, diagnostic literature fails to provide a clear distinction between severe obstructive hydrocephalus and hydranencephaly, leaving some children with an unsettled diagnosis.",
+            "score": 32.36288833618164
+        },
+        {
+            "docid": "20288037_2",
+            "document": "Diagnostic electron microscopy . The transmission electron microscope (TEM) is used as an important diagnostic tool to screen human tissues at high magnification (the ultrastructural level), often in conjunction with other methods, particularly light microscopy and immunofluorescence techniques. The TEM was first used extensively for this purpose in the 1980s, especially for identifying the markers of cell differentiation to identify tumours, and in renal disease. Immunolabelling techniques are now generally used instead of the TEM for tumour diagnosis but the technique retains a critical role in the diagnosis of renal disease and a range of other conditions.",
+            "score": 46.615960121154785
+        },
+        {
+            "docid": "1799250_5",
+            "document": "Cardiolipin . As the head group forms such compact bicycle structure, the head group area is quite small relative to the big tail region consisting of 4 acyl chains. Based on this special structure, the fluorescent mitochondrial indicator, nonyl acridine orange (NAO) was introduced in 1982, and was later found to target mitochondria by binding to CL. NAO has a very large head and small tail structure which can compensate with cardiolipin\u2019s small head large tail structure, and arrange in a highly ordered way. Several studies were published utilizing NAO both as a quantitative mitochondrial indicator and an indicator of CL content in mitochondria. However, NAO is influenced by membrane potential and/or the spatial arrangement of CL, so it's not proper to use NAO for CL or mitochondria quantitative studies of intact respiring mitochondria. But NAO still represents a simple method of assessing CL content.",
+            "score": 10.328968048095703
+        },
+        {
+            "docid": "18094_28",
+            "document": "Litre . In the SI system, use of prefixes for powers of 1,000 is preferred and all other multiples discouraged. However, in countries where  the metric system was established well before the adoption of the SI standard other multiples were already established, their use remains common. In particular, use of the centi (10), deci (10), deca (10) and hecto (10) prefixes are still common. For example, in many European countries, the hectolitre is the typical unit for production and export volumes of beverages (milk, beer, soft drinks, wine, etc.) and for measuring the size of the catch and quotas for fishing boats; decilitres are common in Switzerland and Scandinavia and sometimes found in cookbooks; centilitres indicate the capacity of drinking glasses and of small bottles. In colloquial Dutch in Belgium, a \"vijfentwintiger\" and a \"drie\u00ebndertiger\" (literally \"twenty-fiver\" and \"thirty-threer\") are the common beer glasses, the corresponding bottles mention 25\u2009cL or 33\u2009cL. Bottles may also be 75\u2009cL or half size at 37.5\u2009cL for 'artisanal' brews or 70\u2009cL for wines or spirits. Cans come in 25\u2009cL, 33\u2009cL and 50\u2009cL.",
+            "score": 17.402999997138977
+        },
+        {
+            "docid": "293802_16",
+            "document": "Closure (mathematics) . Any of these four closures preserves symmetry, i.e., if \"R\" is symmetric, so is any \"cl\"(\"R\").  Similarly, all four preserve reflexivity. Moreover, \"cl\" preserves closure under \"cl\" for arbitrary \u03a3. As a consequence, the equivalence closure of an arbitrary binary relation \"R\" can be obtained as \"cl\"(\"cl\"(\"cl\"(\"R\"))), and the congruence closure with respect to some \u03a3 can be obtained as \"cl\"(\"cl\"(\"cl\"(\"cl\"(\"R\")))). In the latter case, the nesting order does matter; e.g. if \"S\" is the set of terms over \u03a3 = { \"a\", \"b\", \"c\", \"f\" } and \"R\" = { \u27e8\"a\",\"b\"\u27e9, \u27e8\"f\"(\"b\"),\"c\"\u27e9 }, then the pair \u27e8\"f\"(\"a\"),\"c\"\u27e9 is contained in the congruence closure \"cl\"(\"cl\"(\"cl\"(\"cl\"(\"R\")))) of \"R\", but not in the relation \"cl\"(\"cl\"(\"cl\"(\"cl\"(\"R\")))).",
+            "score": 3.6353063583374023
+        },
+        {
+            "docid": "3114537_10",
+            "document": "Pyoderma gangrenosum . Diagnosis of PG is challenging owing to its variable presentation, clinical overlap with other conditions, association with several systemic diseases, and absence of defining histopathologic or laboratory findings. Misdiagnosis and delayed diagnosis are common. It has been shown that up to 39% of patients who initially received a diagnosis of PG have an alternative diagnosis. In light of this, validated diagnostic criteria have recently been developed for ulcerative pyoderma gangrenosum.",
+            "score": 36.0552978515625
+        },
+        {
+            "docid": "9355054_3",
+            "document": "Malaria antigen detection tests . Malaria is a curable disease if the patients have access to early diagnosis and prompt treatment. Antigen-based rapid diagnostic tests (RDTs) have an important role at the periphery of health services capability because none of the rural clinics has the ability to diagnose malaria on-site due to a lack of microscopes and trained technicians to evaluate blood films. Furthermore, in regions where the disease is not endemic, laboratory technologists have very limited experience in detecting and identifying malaria parasites. An ever increasing numbers of travelers from temperate areas each year visit tropical countries and many of them return with a malaria infection. The RDT tests are still regarded as complements to conventional microscopy but with some improvements it may well replace the microscope. The tests are simple and the procedure can be performed on the spot in field conditions. These tests use finger-stick or venous blood, the completed test takes a total of 15\u201320 minutes, and a laboratory is not needed. The threshold of detection by these rapid diagnostic tests is in the range of 100 parasites/\u00b5l of blood compared to 5 by thick film microscopy.",
+            "score": 50.30440640449524
+        },
+        {
+            "docid": "787945_4",
+            "document": "Cathodoluminescence microscope . CL color and intensity are dependent on the characteristics of the sample and on the working conditions of the electron gun. Here, acceleration voltage and beam current of the electron beam are of major importance. Today, two types of CL microscopes are in use. One is working with a \"cold cathode\" generating an electron beam by a corona discharge tube, the other one produces a beam using a \"hot cathode\". Cold-cathode CL microscopes are the simplest and most economical type. Unlike other electron bombardment techniques like electron microscopy, cold cathodoluminescence microscopy provides positive ions along with the electrons which neutralize surface charge buildup and eliminate the need for conductive coatings to be applied to the specimens. The \"hot cathode\" type generates an electron beam by an electron gun with tungsten filament. The advantage of a hot cathode is the precisely controllable high beam intensity allowing to stimulate the emission of light even on weakly luminescing materials (e.g. quartz \u2013 see picture). To prevent charging of the sample, the surface must be coated with a conductive layer of gold or carbon. This is usually done by a sputter deposition device or a carbon coater.",
+            "score": 29.02453327178955
+        },
+        {
+            "docid": "34205072_14",
+            "document": "Oxohalide . Bismuth oxochloride (BiOCl, bismoclite) is a rare example of a mineral oxohalide. The crystal structure has a tetragonal symmetry and can be thought of as consisting of layers of Cl, Bi and O ions, in the order Cl-Bi-O-Bi-Cl-Cl-Bi-O-Bi-Cl. This layered, graphite-like structure results in a relatively low hardness of bismoclite (Mohs 2\u20132.5) and most other oxohalide minerals. Those other minerals include terlinguaite HgOCl, formed by the weathering of mercury-containing minerals. Mendipite, PbOCl, formed from an original deposit of lead sulfide in a number of stages is another example of a secondary oxohalide mineral.",
+            "score": 10.349675178527832
+        },
+        {
+            "docid": "20876673_4",
+            "document": "Communist Labor Party of North America . The CL organized forums with different left groups and individuals to discuss various questions of Marxist theory and political policy to lay the basis for developing a new communist party. Many of these forums attracted hundreds of people and were held in several cities around the country. These forums made it clear that the CL was politically quite advanced and also the most important grouping on the left. The CL had a policy of advancing into leadership women, national minorities and workers and therefore had a leadership grouping different from other groups on the left. The CL was the main grouping behind the founding of the CLP. The newspaper of the CL, the Peoples Tribune/Tribuno del Pueblo, became the newspaper of the CLP. The CL\u2019s theoretical journal, Proletariat, was also continued by the CLP. In addition, the Western Worker, published by the CL was continued by the CLP. The two other new communist parties were organized soon after the CLP.",
+            "score": 19.57566738128662
+        },
+        {
+            "docid": "3770891_2",
+            "document": "Medical laboratory scientist . A medical laboratory scientist (MLS), also traditionally referred to as a medical technologist (MT), or a clinical laboratory scientist (CLS), is a healthcare professional who performs chemical, hematological, immunologic, histopathological, cytopathological, microscopic, and bacteriological diagnostic analyses on body fluids such as blood, urine, sputum, stool, cerebrospinal fluid (CSF), peritoneal fluid, pericardial fluid, and synovial fluid, as well as other specimens. Medical laboratory scientists work in clinical laboratories at hospitals, reference labs, biotechnology labs and non-clinical industrial labs.",
+            "score": 28.13407874107361
+        },
+        {
+            "docid": "829047_4",
+            "document": "Mercedes-Benz CL-Class . The last generation of the CL-Class, C216, was available in five models: CL 500 (CL 550 in some markets, with standard 4MATIC in Canada and the USA), CL 600, CL 63 AMG, CL 63 AMG(S) and CL 65 AMG. The CL 65 AMG was the most powerful model of the CL and the most expensive Mercedes-branded vehicle, slightly edging out its S-Class equivalent S65 AMG and the SLS. CL sales are the third-lowest of Mercedes-Benz in North America with under 1400 units sold in 2006, as only the G-Class four-wheel drive and two-seat SLS AMG sell smaller numbers; annual CL sales equalled Ford truck sales for one day. However, this degree of distinction was considered attractive to CL buyers.",
+            "score": 3.395676612854004
+        },
+        {
+            "docid": "787945_8",
+            "document": "Cathodoluminescence microscope . Beyond the material composition, cathodoluminescence microscopy can be used to structures made of known materials, but with rich combinations of these. In this case, CL is capable of measuring the local density of states (LDOS) of a nanostructured photonic medium, where the intensity of the emitted CL reflects directly the number of available photonic states. This is very relevant for materials like photonic crystals or complex topologies for which large LDOS variations are achieved on nanometer scales.",
+            "score": 17.525403022766113
+        },
+        {
+            "docid": "24309803_8",
+            "document": "Placental alpha microglobulin-1 (PAMG-1) . Additionally, and in light of early research suggesting a diagnostic application of PAMG-1 detection as a test to assess the risk of imminent spontaneous preterm birth, a commercial test known as the PartoSure test was developed and has been the subject of several peer-reviewed publications suggesting its superiority to conventional methods for assessing the risk of preterm birth (i.e. fetal fibronectin testing and cervical length measurement via transvaginal ultrasound). Di Renzo et al. report, \"That the PartoSure test was found to be statistically superior to fFN fetal fibronectin and CL [cervical length measurement via transvaginal ultrasound] with respect to SP specificity and PPV positive predictive value (P < 0.01) provides evidence toward being able to significantly enhance current practice to ultimately reduce the unnecessary administration of potentially harmful therapeutics to patients, as well as reduce the economic burden associated with unnecessary hospital admissions.\" In this study, the sensitivities for PartoSure (PAMG-1, n=203), fetal fibronectin (fFN, n=66), and cervical length measurement via transvaginal ultrasound (CL, n=203) for predicting imminent spontaneous preterm birth within 7 days were 80%, 50%, and 57%, respectively. The specificities were 95%, 72%, and 73% for PAMG-1, fFN and CL, respectively. The NPVs were 96%, 87%, and 89% for PAMG-1, fFN and CL, respectively. The PPVs were 76%, 29%, and 30% for PAMG-1, fFN and CL, respectively.",
+            "score": 8.72359013557434
+        },
+        {
+            "docid": "6385965_25",
+            "document": "Social penetration theory . The first standard that we use to evaluate the outcomes of a situation is comparison level. As defined by Thibaut and Kelley, comparison level is the standard by which individuals evaluate the desirability of group membership. A group is defined as \"two or more interdependent individuals who influence one another through social interaction\". In this instance, the group refers to a dyadic relationship, but it can really be extended to any type of group. \"A person's comparison level (CL) is the threshold above which an outcome seems attractive\". That is, when groups fall above the CL they are seen as being satisfying to the individual, and when they fall below the CL they are seen as being unsatisfying. We take an average of outcomes from the past as a benchmark to determine what makes us happy or sad so that we may develop the threshold, or comparison level, in which an outcome appears attractive. Past experiences shape one's thoughts and feelings about developing relationships, and in this way, an individual's CL is very much influenced by these previous relationships.",
+            "score": 14.410287857055664
+        },
+        {
+            "docid": "46873873_3",
+            "document": "Sweat diagnostics . Although sweat is mostly water, there are many solutes which are found in sweat that have at least some relation to biomarkers found in blood. These include: sodium (Na), chloride (Cl), potassium (K), ammonium (NH), alcohols, lactate, peptides & proteins. Development of devices, sensing techniques and biomarker identification in sweat continues to be an expanding field for medical diagnostics and athletics applications.",
+            "score": 14.805682897567749
+        },
+        {
+            "docid": "2844680_13",
+            "document": "Corticobasal degeneration . One of the most significant problems associated with CBD is the inability to perform a definitive diagnosis while an individual exhibiting the symptoms associated with CBD is still alive. A clinical diagnosis of CBD is performed based upon the specified diagnostic criteria, which focus mainly on the symptoms correlated with the disease. However, this often results in complications as these symptoms often overlap with numerous other neurodegenerative diseases. Frequently, a differential diagnosis for CBD is performed, in which other diseases are eliminated based on specific symptoms that do not overlap. However, some of the symptoms of CBD used in this process are rare to the disease, and thus the differential diagnosis cannot always be used.",
+            "score": 38.57500147819519
+        },
+        {
+            "docid": "22103265_7",
+            "document": "Central nervous system cyst . The diagnostic process typically begins with a medical history workup followed by a medical examination by a physician. Imaging tests, such as CT scans and MRIs, help provide a clearer picture. The physician typically looks for fluid (or other bodily substance) filled sacs to appear in the scans, as is shown in the CT scan of a colloid cyst. A primary health care provider will refer an individual to a neurologist or neurosurgeon for further examination. Other diagnostic methods include radiological examinations and macroscopic examinations. After a diagnosis has been made, immunohistochemistry may be used to differentiate between epithelial cysts and arachnoid cysts. These examinations are useful to get a general idea of possible treatment options, but can be unsatisfactory to diagnose CNS cysts. Professionals still do not fully understand how cysts form; however, analyzing the walls of different cyst types, using electron microscopes and light microscopes, has proven to be the best diagnostic tool. This has led to more accurate cyst classification and correct course of action for treatments that are cyst specific. In the past, before imaging scans or tests were available, medical professionals could only diagnose cysts via exploratory surgery.",
+            "score": 45.67787408828735
+        },
+        {
+            "docid": "12837694_29",
+            "document": "Tuberculosis in China . The proposed diagnostic tools will include the use of LED microscopes and DNA-based diagnosis. Using LEDs rather than standard phosphorescent lights in microscopes forms a clearer image and improves TB detection rates in patients' sputum from 50 to 65 per cent. And DNA testing, which can determine which strains of Mycobacterium tuberculosis are present in sputum has 98 per cent accuracy and can be used to detect drug-resistant strains in as little as a day. DNA-based diagnosis is also cost-effective. As well as diagnosis, new management methods such as mobile phone text messaging and medicine kits with built-in reminder alarms will be used to enhance patients' drug compliance. Drug combinations \u2014 where different drugs are combined in the same pill \u2014 will also be used to reduce the number of pills a patient has to take from around 13 to three or four a day.",
+            "score": 39.117706298828125
+        },
+        {
+            "docid": "44007076_19",
+            "document": "Provenance (geology) . Sand-sized sediments are able to be analyzed by single-grain methods. Single-grain methods can be divided into the following three groups: (1) Microscopic-morphological techniques, which are used to observe shape, color and internal structures in minerals. For example, scanning electron microscope (SEM) and cathodoluminescence (CL) detector. (2) Single grain geochemical techniques, which are used to acquire chemical composition and variations within minerals. For example, laser-ablation inductively coupled plasma mass spectrometry (ICP-MS). (3) Radiometric dating of single grain mineral, which can determine the geochronological and thermochronological properties of minerals. For example, U/Pb SHRIMP dating and 40Ar/39Ar laser-probe dating.",
+            "score": 26.838181257247925
+        },
+        {
+            "docid": "26916229_3",
+            "document": "Bismuth oxychloride . The structure of bismuth oxychloride can be thought of as consisting of layers of Cl, Bi and O ions (in the image Bi = grey, O = red, Cl = green). These ions are ordered as Cl-Bi-O-Bi-Cl-Cl-Bi-O-Bi-Cl, i.e., with alternating anions (Cl, O) and cations (Bi3+). The layered structure gives rise to the pearlescent properties of this material.",
+            "score": 0.0
+        },
+        {
+            "docid": "33395486_2",
+            "document": "Diagnosis of malaria . The mainstay of malaria diagnosis has been the microscopic examination of blood, utilizing blood films. Although blood is the sample most frequently used to make a diagnosis, both saliva and urine have been investigated as alternative, less invasive specimens. More recently, modern techniques utilizing antigen tests or polymerase chain reaction have been discovered, though these are not widely implemented in malaria endemic regions. Areas that cannot afford laboratory diagnostic tests often use only a history of subjective fever as the indication to treat for malaria.",
+            "score": 48.91916489601135
+        },
+        {
+            "docid": "33581389_2",
+            "document": "CLs method (particle physics) . In particle physics, CLs represent a statistical method for setting \"upper limits\" (also called \"exclusion limits\") on model parameters, a particular form of interval estimation used for parameters that can take only non-negative values. Although CLs are said to refer to Confidence Levels, \"The method's name is ... misleading, as the CLs exclusion region is not a confidence interval.\" It was first introduced by physicists working at the LEP experiment at CERN and has since been used by many high energy physics experiments. It is a frequentist method in the sense that the properties of the limit are defined by means of error probabilities, however it differs from standard confidence intervals in that the stated confidence level of the interval is not equal to its coverage probability. The reason for this deviation is that standard upper limits based on a most powerful test necessarily produce empty intervals with some fixed probability when the parameter value is zero, and this property is considered undesirable by most physicists and statisticians.",
+            "score": 12.456368565559387
+        },
+        {
+            "docid": "829047_18",
+            "document": "Mercedes-Benz CL-Class . After 6 years of development, the new model was officially unveiled at the end of June 2006 and was presented at the 2006 Paris Salon. Like its predecessors, the C216 has no B-pillar interrupting the sleek curve of the side windows. The W216 is offered in four models, each with its own engine and transmission, the 5.5L V8-powered CL 500 (available with 4MATIC all-wheel drive, which is standard in Canada and the USA), the high-performance 6.2L V8-powered CL 63 AMG (with optional performance package variant) and the ultra-luxury twin-turbo 5.5L V12-powered CL 600 and, lastly, the CL 65 AMG with a twin-turbo 6.0L V12 engine. The CL 500 is sold as the CL 550 in some markets (including the U.S.). The class is based on the chassis of the W221 S-Class, which shares the same powertrains, although there are V6 and hybrid engines for the S not available for the CL. The two-door coup\u00e9 weighs , being heavier than the equivalent S saloon, and rides on a full-size 116.3-inch wheelbase (albeit 8.2 inches less than the long wheelbase S-Class, which is the only S-Class sold in the U.S.). Despite its large size, rear seat legroom is limited in keeping in the tradition of 2+2 luxury coup\u00e9s, though CL has more rear passenger space than its rivals. The CL's trunk is as large as that of the Audi A8 flagship saloon.",
+            "score": 3.173065185546875
+        },
+        {
+            "docid": "18914017_37",
+            "document": "Alzheimer's disease . The National Institute of Neurological and Communicative Disorders and Stroke (NINCDS) and the Alzheimer's Disease and Related Disorders Association (ADRDA, now known as the Alzheimer's Association) established the most commonly used NINCDS-ADRDA Alzheimer's Criteria for diagnosis in 1984, extensively updated in 2007. These criteria require that the presence of cognitive impairment, and a suspected dementia syndrome, be confirmed by neuropsychological testing for a clinical diagnosis of possible or probable AD. A histopathologic confirmation including a microscopic examination of brain tissue is required for a definitive diagnosis. Good statistical reliability and validity have been shown between the diagnostic criteria and definitive histopathological confirmation. Eight cognitive domains are most commonly impaired in AD\u2014memory, language, perceptual skills, attention, constructive abilities, orientation, problem solving and functional abilities. These domains are equivalent to the NINCDS-ADRDA Alzheimer's Criteria as listed in the \"Diagnostic and Statistical Manual of Mental Disorders\" (DSM-IV-TR) published by the American Psychiatric Association.",
+            "score": 38.69543480873108
+        },
+        {
+            "docid": "45218019_14",
+            "document": "Cultural-historical activity theory . Change Laboratory (CL) is a CHAT-based method for formative intervention in activity systems and for research on their developmental potential as well as processes of expansive learning, collaborative concept-formation, and transformation of practices, elaborated in the mid-nineties by the Finnish Developmental Work Research (DWR) group. The CL method relies on collaboration between the practitioners of the activity being analyzed and transformed, and academic researchers or interventionists supporting and facilitating collective developmental processes. On the basis of Engestr\u00f6m's theory of \"expansive learning\", the foundation of an interventionist research approach at DWR was elaborated in the 1980s, and developed further in the 1990s as an intervention method now known as \"Change Laboratory\". CL interventions are used both to study the conditions of change and to help those working in organizations to develop their work, drawing on participant observation, interviews, and the recording and videotaping of meetings and work practices. Initially, with the help of an external interventionist, the first stimulus that \"is beyond the actors' present capabilities\", is produced in the Change Laboratory by collecting first-hand empirical data on problematic aspects of the activity. This data may comprise difficult client cases, descriptions of recurrent disturbances and ruptures in the process of producing the outcome. Steps in the CL process: Step 1 Questioning; Step 2 Analysis; Step 3 Modeling; Step 4 Examining; Step 5 Implementing; Step 6 Reflecting; Step 7 Consolidating. These seven action steps for increased understanding are described by Engestr\u00f6m as \"expansive learning\", or phases of an outwardly expanding spiral, while multiple kinds of actions can take place at any time. The phases of the model simply allow for the identification and analysis of the dominant action type during a particular period of time. These learning actions are provoked by contradictions. CL is used by a team or work unit or by collaborating partners across the organizational boundaries, initially with the help of an interventionist-researcher. The CL method has been used in agricultural contexts, educational and media settings, health care and learning support.",
+            "score": 17.16002118587494
+        },
+        {
+            "docid": "22279848_5",
+            "document": "Majocchi's disease . Primary diagnosis usually starts off with a thorough physical exam and evaluation of medical history. To further investigate, a dermoscope, a diagnostic tool, is used by the dermatologist to examine the skin using a magnified lens. A complete blood count (CBC) along with other blood tests can also be done to rule out any sort of other infections. Lastly, a skin biopsy test may be ordered to arrive at a definitive diagnosis. This pathological examination of the skin biopsy helps to arrive at the correct diagnosis via a fungal culture(mycology). The biopsy is put together with clinical and microscope findings and study of the special tissues if need be. The signs and symptoms of MG are similar to many other clinical conditions and therefore it is necessary to perform all of the additional tests in order for a physician to correctly rule out all other possible diagnoses.",
+            "score": 51.21824097633362
+        },
+        {
+            "docid": "3445259_4",
+            "document": "Tafazzin . The mutation of the tafazzin gene is associated with a number of clinical disorders including Barth syndrome (BTHS) (type II 3-Methylglutaconic aciduria), dilated cardiomyopathy (DCM), hypertrophic DCM, endocardial fibroelastosis, and left ventricular noncompaction (LVNC). Tafazzin is responsible for remodeling of a phospholipid cardiolipin (CL), the signature lipid of the mitochondrial inner membrane. As a result, BTHS patients exhibit defects in CL metabolism, including aberrant CL fatty acyl composition, accumulation of monolysocardiolipin (MLCL) and reduced total CL levels.",
+            "score": 9.144074440002441
+        }
+    ],
+    "r": [
+        {
+            "docid": "198491_2",
+            "document": "Leishmaniasis . Leishmaniasis is a disease caused by parasites of the \"Leishmania\" type. It is spread by the bite of certain types of sandflies. The disease can present in three main ways: cutaneous, mucocutaneous, or visceral leishmaniasis. The cutaneous form presents with skin ulcers, while the mucocutaneous form presents with ulcers of the skin, mouth, and nose, and the visceral form starts with skin ulcers and then later presents with fever, low red blood cells, and enlarged spleen and liver. Infections in humans are caused by more than 20 species of \"Leishmania\". Risk factors include poverty, malnutrition, deforestation, and urbanization. All three types can be diagnosed by seeing the parasites under the microscope. Additionally, visceral disease can be diagnosed by blood tests. Leishmaniasis can be partly prevented by sleeping under nets treated with insecticide. Other measures include spraying insecticides to kill sandflies and treating people with the disease early to prevent further spread. The treatment needed is determined by where the disease is acquired, the species of \"Leishmania\", and the type of infection. Some possible medications used for visceral disease include liposomal amphotericin B, a combination of pentavalent antimonials and paromomycin, and miltefosine. For cutaneous disease, paromomycin, fluconazole, or pentamidine may be effective. About 4 to 12 million people are currently infected in some 98 countries. About 2 million new cases and between 20 and 50 thousand deaths occur each year. About 200\u00a0million people in Asia, Africa, South and Central America, and southern Europe live in areas where the disease is common. The World Health Organization has obtained discounts on some medications to treat the disease. It is classified as a neglected tropical disease. The disease may occur in a number of other animals, including dogs and rodents.",
+            "score": 97.49358367919922
+        },
+        {
+            "docid": "794996_9",
+            "document": "Granulomatosis with polyangiitis . If the person has kidney failure or cutaneous vasculitis, a biopsy is obtained from the kidneys. On rare occasions, thoracoscopic lung biopsy is required. On histopathological examination, a biopsy will show \"leukocytoclastic vasculitis\" with necrotic changes and granulomatous inflammation (clumps of typically arranged white blood cells) on microscopy. These granulomas are the main reason for the name granulomatosis with polyangiitis, although it is not an essential feature. Nevertheless, necrotizing granulomas are a hallmark of this disease. However, many biopsies can be nonspecific and 50% provide too little information for the diagnosis of GPA.",
+            "score": 94.44086456298828
+        },
+        {
+            "docid": "2798373_13",
+            "document": "Cutaneous leishmaniasis . The best treatment for cutaneous leishmaniasis is not known. Treatments that work for one species of leishmania may not work for another; it is recommended that advice of a tropical medicine or geographical medicine specialist be sought. Ideally, every effort should be made to establish the species of leishmania by molecular techniques (PCR) prior to starting treatment. In the setting of a developing country, there is often only one species present in a particular locality, so it is usually unnecessary to speciate every infection. Unfortunately, leishmaniasis is an orphan disease in developed nations, and almost all the current treatment options are toxic with significant side effects. The most sound treatment for cutaneous leishmaniasis thus far is prevention.",
+            "score": 94.24590301513672
+        },
+        {
+            "docid": "53827607_2",
+            "document": "Leishmania amazonensis . Leishmania amazonesis is a parasite responsible for the disease leishmaniasis. This species has been known to spread by using sandflies as its vector and a vertebrate as its primary host, just like other species of Leishmania. They have also been known to spread throughout the Brazilian Amazon region due to their ecological niches needed for survival and reproduction. However, when the host is infected, the Leishmania can cause 3 different forms of Leishmaniasis. For this species, it has been known to cause cutaneous leishmaniasis and mucocutaneous leishmaniasis. Cutaneous leishmaniasis is commonly characterized with skin lesions, which can appear localized, or throughout the body. While mucocutaneous leishmaniasis is characterized with ulcers around the skin, mouth, and nose. This form of Leishmaniasis has also been known to can spread by metastasis and can be deadly.",
+            "score": 93.1813735961914
+        },
+        {
+            "docid": "446252_18",
+            "document": "Granuloma . Sarcoidosis is a disease of unknown cause characterized by non-necrotizing (\"non-caseating\") granulomas in multiple organs and body sites, most commonly the lungs and lymph nodes within the chest cavity. Other common sites of involvement include the liver, spleen, skin and eyes. The granulomas of sarcoidosis are similar to the granulomas of tuberculosis and other infectious granulomatous diseases. However, in most cases of sarcoidosis, the granulomas do not contain necrosis and are surrounded by concentric scar tissue (fibrosis). Sarcoid granulomas often contain star-shaped structures termed asteroid bodies or lamellar structures termed Schaumann bodies. However, these structures are not specific for sarcoidosis. Sarcoid granulomas can resolve spontaneously without complications or heal with residual scarring. In the lungs, this scarring can cause a condition known as pulmonary fibrosis that impairs breathing. In the heart, it can lead to rhythm disturbances, heart failure, and even death.",
+            "score": 90.29180145263672
+        },
+        {
+            "docid": "22512240_2",
+            "document": "Granuloma multiforme . Granuloma multiforme (also known as \"Mkar disease\" and \"granuloma multiforme (Leiker)\") is a cutaneous condition most commonly seen in central Africa, and rarely elsewhere, characterized by skin lesions that are on the upper trunk and arms in sun-exposed areas. It may be confused with tuberculoid leprosy, with which it has clinical similarities. The condition was first noted by Gosset in the 1940s, but it was not until 1964 that Leiker coined the term to describe \"a disease resembling leprosy\" in his study in Nigeria.",
+            "score": 88.5866470336914
+        },
+        {
+            "docid": "12738869_8",
+            "document": "Leishmania major . \"L. major\" should be considered in the differential diagnosis of chronic lesions of people who have spent time in areas where it is endemic. However, other pathogens can cause similar lesions and therefore paracoccidiodomycosis, histoplasmosis, sporotrichosis, lobomycosis, lupus vulgaris, \"Mycobacterium ulcerans\", syphilis, cutaneous sarcoidosis, and leprosy should all be considered as well.  The most common ways of diagnosing leishmaniasis are to identify amastigotes in a Wright-Giemsa-stained touch preparation or through isolation of the parasites in cultures.",
+            "score": 87.6730728149414
+        },
+        {
+            "docid": "446252_15",
+            "document": "Granuloma . When \"Cryptococcus\" infection occurs in persons whose immune systems are intact, granulomatous inflammation is typically encountered. The granulomas can be necrotizing or non-necrotizing. Using a microscope and appropriate stains, organisms can be seen within the granulomas.",
+            "score": 87.44941711425781
+        },
+        {
+            "docid": "2798373_2",
+            "document": "Cutaneous leishmaniasis . Cutaneous leishmaniasis (also known as oriental sore, tropical sore, chiclero ulcer, chiclero's ulcer or Aleppo boil) is the most common form of leishmaniasis affecting humans. It is a skin infection caused by a single-celled parasite that is transmitted by the bite of a phlebotomine sandfly. There are about twenty species of \"Leishmania\" that may cause cutaneous leishmaniasis.",
+            "score": 87.29613494873047
+        },
+        {
+            "docid": "446252_10",
+            "document": "Granuloma . An important feature of granulomas is whether or not they contain necrosis. Necrosis refers to dead cells that, under the microscope, appear as a mass of formless debris with no nuclei present. A related term, \"caseation\" (literally: turning to cheese) refers to a form of necrosis that, to the unaided eye (i.e., without a microscope), appears cheese-like (\"caseous\"), and is typically (but not uniquely) a feature of the granulomas of tuberculosis. The identification of necrosis in granulomas is important because granulomas with necrosis tend to have infectious causes. There are several exceptions to this general rule, but it nevertheless remains useful in day-to-day diagnostic pathology.",
+            "score": 86.33760070800781
+        },
+        {
+            "docid": "2798373_7",
+            "document": "Cutaneous leishmaniasis . Mucocutaneous leishmaniasis is an especially disturbing form of cutaneous leishmaniasis, because it produces destructive and disfiguring lesions of the face. It is most often caused by \"Leishmania braziliensis\", but cases caused by \"L. aethiopica\" have also been described.",
+            "score": 86.24549102783203
+        },
+        {
+            "docid": "2798373_4",
+            "document": "Cutaneous leishmaniasis . Post-kala-azar dermal leishmaniasis (PKDL) is a recurrence of kala-azar that may appear on the skin of affected individuals months and up to 20 years after being partially treated, untreated or even in those considered adequately treated. In Sudan, they can be demonstrated in up to 60% of treated cases. They manifest as hypopigmented skin lesions (such as macules, papules, nodules), or facial redness. Though any organism causing kala-azar can lead to PKDL, it is commonly associated with \"Leishmania donovani\" which gives different disease patterns in India and Sudan. In the Indian variant, nodules enlarge with time and form plaques but rarely ulcerate, but nodules from the African variety often ulcerate as they progress. Nerve involvement is common in African variety but rare in Indian subcontinent. Histology demonstrates a mixture of chronic inflammatory cells; there can be macrophage or epitheloid granuloma. Parasite concentration is not consistent among studies, perhaps reflecting low sensitivity of diagnostic methods used in earlier entries.",
+            "score": 84.51009368896484
+        },
+        {
+            "docid": "7454606_6",
+            "document": "Orofacial granulomatosis . The cause of the condition is unknown. The disease is characterized by non-caseating granulomatous inflammation. That is, the granulomas do not undergo the caseating (\"cheese-like\") necrosis typical of the granulomas of tuberculosis.",
+            "score": 84.509033203125
+        },
+        {
+            "docid": "22097288_11",
+            "document": "Granulomatous mastitis . Characteristic for idiopathic granulomatous mastitis are multinucleated giant cells and epithelioid histiocytes forming non-caseating granulomas around lobules. Often minor ductal and periductal inflammation is present. The lesion is in some cases very difficult to distinguish from breast cancer and other causes such as infections (tuberculosis, syphilis, corynebacterial infection, mycotic infection), autoimmune diseases (sarcoidosis, granulomatosis with polyangiitis), foreign body reaction and granulomatous reaction in a carcinoma must be excluded.",
+            "score": 83.01136016845703
+        },
+        {
+            "docid": "63522_32",
+            "document": "Crohn's disease . During a colonoscopy, biopsies of the colon are often taken to confirm the diagnosis. Certain characteristic features of the pathology seen point toward Crohn's disease; it shows a transmural pattern of inflammation, meaning the inflammation may span the entire depth of the intestinal wall. Ulceration is an outcome seen in highly active disease. There is usually an abrupt transition between unaffected tissue and the ulcer\u2014a characteristic sign known as skip lesions. Under a microscope, biopsies of the affected colon may show mucosal inflammation, characterized by focal infiltration of neutrophils, a type of inflammatory cell, into the epithelium. This typically occurs in the area overlying lymphoid aggregates. These neutrophils, along with mononuclear cells, may infiltrate the crypts, leading to inflammation (crypititis) or abscess (crypt abscess). Granulomas, aggregates of macrophage derivatives known as giant cells, are found in 50% of cases and are most specific for Crohn's disease. The granulomas of Crohn's disease do not show \"caseation\", a cheese-like appearance on microscopic examination characteristic of granulomas associated with infections, such as tuberculosis. Biopsies may also show chronic mucosal damage, as evidenced by blunting of the intestinal villi, atypical branching of the crypts, and a change in the tissue type (metaplasia). One example of such metaplasia, \"Paneth cell metaplasia\", involves development of Paneth cells (typically found in the small intestine and a key regulator of intestinal microbiota) in other parts of the gastrointestinal system.",
+            "score": 82.61475372314453
+        },
+        {
+            "docid": "50468_3",
+            "document": "Leishmania . The first written reference to the conspicuous symptoms of cutaneous leishmaniasis surfaced in the Paleotropics within oriental texts dating back to the 7th century BC (allegedly transcribed from sources several hundred years older, between 1500 and 2000 BC). Due to its broad and persistent prevalence throughout antiquity as a mysterious disease of diverse symptomatic outcomes, leishmaniasis has been dubbed with various names ranging from \"white leprosy\" to \"black fever\". Some of these names suggest links to negative cultural beliefs or mythology, which still feed into the social stigmatization of leishmaniasis today. Members of an ancient genus of the \"Leishmania\" parasite, Paleoleishmania, have been detected in fossilized sand flies dating back to the early Cretaceous period, however, the causative agent for the disease was only discovered in 1901 as a concurrent finding by William Boog Leishman and Charles Donovan. They independently visualised microscopic single-celled parasites (later called Leishman-Donovan bodies) living within the cells of infected human organs. The parasitic genus would later be classed as Trypanosomatid protozoans under the phylogenetic designation, \"Leishmania donovani\". Several species have since been classified and grouped under two major subgenera i.e. \"Leishmania Viannia\" (generally located in the Neotropics) or \"Leishmania Leishmania\" (generally located in the Paleotropics, with the major exception of the \"L. mexicana\" subgroup).",
+            "score": 82.56504821777344
+        },
+        {
+            "docid": "8618281_2",
+            "document": "Leishmania infantum . Leishmania infantum is the causative agent of infantile visceral leishmaniasis in the Mediterranean region of the Old World and in Latin America, where it has been called \"Leishmania chagasi\". It is also an unusual cause of cutaneous leishmaniasis, which is normally caused by specific lineages (or zymodemes). Wild canids and domestic dogs are the natural reservoir of this organism. \"Leishmania infantum\" is closely related to \"Leishmania donovani\", and some authors believe that these two species are so close as to actually be subspecies of each other; however, phylogenetic analyses can easily distinguish between the two groups, although analysis has shown that some isolates of \"Leishmania donovani\" have been classified as \"Leishmania infantum\" and that the former includes a number of different genetic groups.",
+            "score": 82.29009246826172
+        },
+        {
+            "docid": "21898175_3",
+            "document": "Leishmania aethiopica . It is associated with cutaneous leishmaniasis also called \"oriental sore\". It comes under the old world group of Leishmania species, along with L. major and L. tropica which are other agents causing oriental sore.",
+            "score": 82.21762084960938
+        },
+        {
+            "docid": "7956308_3",
+            "document": "Eosinophilic granuloma . Feline eosinophilic granuloma complex is synonymous with \"feline eosinophilic skin diseases\". This is considered to be a cutaneous reaction pattern that can be the manifestation of a number of underlying infections, allergies or ectoparasite infestations. It can also be idiopathic, that is have no known underlying trigger. The eosinophilic reaction is common in feline inflammatory disease and the eosinophilic granuloma can be a hereditary reaction pattern in some lines of domestic cats.",
+            "score": 81.74224090576172
+        },
+        {
+            "docid": "446252_11",
+            "document": "Granuloma . The granulomas of tuberculosis tend to contain necrosis (\"caseating tubercules\"), but non-necrotizing granulomas may also be present. Multinucleated giant cells with nuclei arranged like a horseshoe (Langhans giant cell) and foreign body giant cells are often present, but are not specific for tuberculosis. A definitive diagnosis of tuberculosis requires identification of the causative organism by microbiologic cultures.",
+            "score": 81.59466552734375
+        },
+        {
+            "docid": "446252_21",
+            "document": "Granuloma . Pneumocystis infection in the lungs is usually not associated with granulomas, but rare cases are well documented to cause granulomatous inflammation. The diagnosis is established by finding Pneumocystis yeasts within the granulomas on lung biopsies.",
+            "score": 81.42536926269531
+        },
+        {
+            "docid": "2687346_12",
+            "document": "Interferon gamma . A granuloma is the body's way of dealing with a substance it cannot remove or sterilize. Infectious causes of granulomas (infections are typically the most common cause of granulomas) include tuberculosis, leprosy, histoplasmosis, cryptococcosis, coccidioidomycosis, blastomycosis, and cat scratch disease. Examples of non-infectious granulomatous diseases are sarcoidosis, Crohn's disease, berylliosis, giant-cell arteritis, granulomatosis with polyangiitis, eosinophilic granulomatosis with polyangiitis, pulmonary rheumatoid nodules, and aspiration of food and other particulate material into the lung. The infectious pathophysiology of granulomas is discussed primarily here.",
+            "score": 80.67130279541016
+        },
+        {
+            "docid": "2798373_18",
+            "document": "Cutaneous leishmaniasis . Most species of \"Leishmania\" are capable of infecting humans and causing cutaneous leishmaniasis. In the New World, these organisms include \"L. amazonensis\", \"L. braziliensis\", \"L. guyanensis\", \"L. lainsoni\", \"L. lindenbergi\", \"L. mexicana\", \"L. naiffi\", \"L. panamensis\", \"L. peruviana\", \"L. shawi\", and \"L. venezuelensis\". Old World species that cause cutaneous leishmaniasis include \"L. aethiopica\", \"L. infantum\", \"L. major\", and \"L. tropica\". With the exception of \"L. tropica\" \u2014 which is commonly associated with human settlements and therefore considered to be an anthroponotic species \u2014 all of these organisms are zoonotic. As demographic changes occur in developing nations, some species that have traditionally been considered to be zoonotic (e.g., \"L. panamensis\") are becoming primarily human pathogens.",
+            "score": 80.35853576660156
+        },
+        {
+            "docid": "2189559_9",
+            "document": "Lutzomyia . The sand fly genus \"Lutzomyia\" includes all species responsible for transmission, in the New World, of the \"Leishmania\" parasite; the causative agent of leishmaniasis. Of the more than 350 \"Lutzomyia\" species identified, less than 10% are known or suspected to transmit leishmaniasis to humans. The disease is in endemic in 22 countries of tropical and subtropical America, where it is generally considered a zoonosis. That is, the parasite cycles between mammalian reservoir hosts and the sand flies, with humans serving as incidental, dead-end hosts. Common reservoirs in the Americas include a number of rodent species, as well as dogs, sloths and armadillos. The \"Lutzomyia\" sand flies maintain transmission amongst reservoir species and allow the disease to \u2018jump\u2019 to humans, causing the visceral, cutaneous or mucocutaneous forms of the disease depending on the \"Leishmania\" species. The human-sand fly-human cycle of transmission, known as anthroponotic, is limited to two \"Leishmania\" species endemic in the Old World and so does not involve \"Lutzomyia\" sand flies.",
+            "score": 80.17416381835938
+        },
+        {
+            "docid": "20929959_2",
+            "document": "Leishmania tropica . Leishmania tropica is a species of flagellate parasites that infects humans and hyraxes, and the cause of the disease Leishmaniasis Recidivans, a form of cutaneous leishmaniasis. L. tropica infection results in non-ulcerating disease.<Korean J Parasitol. 2007 Jun;45(2):103-9.> <Mahmoudzadeh-Niknam H1, Kiaei SS, Iravani D.>",
+            "score": 79.44983673095703
+        },
+        {
+            "docid": "198491_9",
+            "document": "Leishmaniasis . Visceral disease is usually caused by \"Leishmania donovani\", \"L. infantum\", or \"L. chagasi\", but occasionally these species may cause other forms of disease. The cutaneous form of the disease is caused by more than 15 species of \"Leishmania\".",
+            "score": 79.14946746826172
+        },
+        {
+            "docid": "53375780_5",
+            "document": "Childhood granulomatous periorificial dermatitis . The approach to diagnosing CGPD is controversial. Certain dermatologists suggest that ruling out infectious and allergic causes of similar skin eruptions and a skin biopsy demonstrating features consistent with CGPD is adequate for diagnosis. In contrast, other dermatologists advocate for performing a complete history and physical examination and obtaining laboratories and appropriate imaging to rule out cutaneous sarcoidosis. On microscopy, non-tuberculous granulomas clustered around hair follicles may be seen.",
+            "score": 79.05305480957031
+        },
+        {
+            "docid": "42898_3",
+            "document": "Anthrax . Cutaneous anthrax, also known as Hide porter's disease, is when anthrax occurs on the skin. It is the most common form (>90% of anthrax cases). It is also the least dangerous form of anthrax (low mortality with treatment, 20% mortality without). Cutaneous anthrax presents as a boil-like skin lesion that eventually forms an ulcer with a black center (eschar). The black eschar often shows up as a large, painless, necrotic ulcer (beginning as an irritating and itchy skin lesion or blister that is dark and usually concentrated as a black dot, somewhat resembling bread mold) at the site of infection. In general, cutaneous infections form within the site of spore penetration between two and five days after exposure. Unlike bruises or most other lesions, cutaneous anthrax infections normally do not cause pain. Nearby lymph nodes may become infected, reddened, swollen, and painful. A scab forms over the lesion soon, and falls off in a few weeks. Complete recovery may take longer. Cutaneous anthrax is typically caused when \"B. anthracis\" spores enter through cuts on the skin. This form is found most commonly when humans handle infected animals and/or animal products.",
+            "score": 79.04165649414062
+        },
+        {
+            "docid": "12738869_5",
+            "document": "Leishmania major . The incidence rate of cutaneous leishmaniasis is estimated to be between 1-1.5 million cases a year. However, transmission does not often occur \"in utero\", during blood transfusions, or through interpersonal contact. Thus, the main form of transmission is through the sand fly vector. Sand flies do not fly long distances, and tend to complete their life cycles in areas with a diameter of less than 1\u00a0km. Furthermore, because of the propensity of sand flies to seek out shelter in the burrows of small rodents, where \"L. major\" is endemic, small mammals such as gerbils and birds serve as the main reservoirs. Dogs have also been documented as contracting cutaneous leishmaniasis in Egypt and Saudi Arabia. This is rare however, and dogs are not important hosts for \"L. major\".",
+            "score": 78.14280700683594
+        },
+        {
+            "docid": "21898168_5",
+            "document": "Leishmania mexicana . \"L. mexicana\" can induce the cutaneous and diffuse cutaneous clinical manifestations in humans. The cutaneous type develops an ulcer at the bite site, here the amastigotes do not spread and the ulcers become visible either a few days or several months after the initial bite. The diffuse cutaneous type begins when the amastigote diffuses through the skin and metastasize to other tissue. This type does not produce ulcers and there is no treatment.",
+            "score": 78.10577392578125
+        },
+        {
+            "docid": "21898168_3",
+            "document": "Leishmania mexicana . \"Leishmania mexicana\" is an obligate intracellular protozoan parasite that causes the cutaneous form of leishmaniasis. This species of Leishmania is found in America. The infection with \"L. mexicana\" occurs when an individual is bitten by an infected sandfly that injects infective promastigotes, which are carried in the salivary glands and expulsed by the proboscis, directly to the skin.",
+            "score": 76.96345520019531
+        },
+        {
+            "docid": "30653_22",
+            "document": "Tuberculosis . Tuberculosis is classified as one of the granulomatous inflammatory diseases. Macrophages, T lymphocytes, B lymphocytes, and fibroblasts aggregate to form granulomas, with lymphocytes surrounding the infected macrophages. When other macrophages attack the infected macrophage, they fuse together to form a giant multinucleated cell in the alveolar lumen. The granuloma may prevent dissemination of the mycobacteria and provide a local environment for interaction of cells of the immune system. However, more recent evidence suggests that the bacteria use the granulomas to avoid destruction by the host's immune system. Macrophages and dendritic cells in the granulomas are unable to present antigen to lymphocytes; thus the immune response is suppressed. Bacteria inside the granuloma can become dormant, resulting in latent infection. Another feature of the granulomas is the development of abnormal cell death (necrosis) in the center of tubercles. To the naked eye, this has the texture of soft, white cheese and is termed caseous necrosis.",
+            "score": 76.41494750976562
+        }
+    ]
+}

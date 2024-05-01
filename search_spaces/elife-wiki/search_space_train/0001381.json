@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "6691427_6",
+            "document": "Ran (protein) . Ran is involved in the transport of proteins across the nuclear envelope by interacting with karyopherins and changing their ability to bind or release cargo molecules. Cargo proteins containing a nuclear localization signal (NLS) are bound by importins and transported into the nucleus. Inside the nucleus, RanGTP binds to importin and releases the import cargo. Cargo that needs to get out of the nucleus into the cytoplasm binds to exportin in a ternary complex with RanGTP. Upon hydrolysis of RanGTP to RanGDP outside the nucleus, the complex dissociates and export cargo is released.",
+            "score": 324.4595003128052
+        },
+        {
+            "docid": "6235_44",
+            "document": "Cell nucleus . The entry and exit of large molecules from the nucleus is tightly controlled by the nuclear pore complexes. Although small molecules can enter the nucleus without regulation, macromolecules such as RNA and proteins require association karyopherins called importins to enter the nucleus and exportins to exit. \"Cargo\" proteins that must be translocated from the cytoplasm to the nucleus contain short amino acid sequences known as nuclear localization signals, which are bound by importins, while those transported from the nucleus to the cytoplasm carry nuclear export signals bound by exportins. The ability of importins and exportins to transport their cargo is regulated by GTPases, enzymes that hydrolyze the molecule guanosine triphosphate (GTP) to release energy. The key GTPase in nuclear transport is Ran, which can bind either GTP or GDP (guanosine diphosphate), depending on whether it is located in the nucleus or the cytoplasm. Whereas importins depend on RanGTP to dissociate from their cargo, exportins require RanGTP in order to bind to their cargo.",
+            "score": 356.70044708251953
+        },
+        {
+            "docid": "21957_5",
+            "document": "Nuclear pore . Small particles (< ~30-60 kDa) are able to pass through the nuclear pore complex by passive diffusion. Larger particles are also able to diffuse passively through the large diameter of the pore, at rates that decrease gradually with molecular weight. Efficient passage through the complex requires several protein factors, and in particular, nuclear transport receptors that bind to cargo molecules and mediate their translocation across the NPC, either into the nucleus (importins) or out of it (exportins). The largest family of nuclear transport receptors are karyopherins, which includes dozens of both importins and exportins; this family is further subdivided to the karyopherin-\u03b1 and the karyopherin-\u03b2 subfamilies. Other nuclear transport receptors include NTF2 and some NTF2-like proteins.",
+            "score": 314.92984986305237
+        },
+        {
+            "docid": "6235_13",
+            "document": "Cell nucleus . Most proteins, ribosomal subunits, and some DNAs are transported through the pore complexes in a process mediated by a family of transport factors known as karyopherins. Those karyopherins that mediate movement into the nucleus are also called importins, whereas those that mediate movement out of the nucleus are called exportins. Most karyopherins interact directly with their cargo, although some use adaptor proteins. Steroid hormones such as cortisol and aldosterone, as well as other small lipid-soluble molecules involved in intercellular signaling, can diffuse through the cell membrane and into the cytoplasm, where they bind nuclear receptor proteins that are trafficked into the nucleus. There they serve as transcription factors when bound to their ligand; in the absence of a ligand, many such receptors function as histone deacetylases that repress gene expression.",
+            "score": 256.1384336948395
+        },
+        {
+            "docid": "13056378_9",
+            "document": "Nucleoporin . Nucleoporins regulate the transport of macromolecules through the nuclear envelope via interactions with the transporter molecules karyopherins. Karyopherins will bind to their cargo, and reversibly interact with the FG-repeats in nucleoporins. Karyopherins and their cargo are passed between FG-repeats until they diffuse down their concentration gradient and through the nuclear pore complex. Karyopherins can serve as an importin (transporting proteins into the nucleus) or an exportin (transporting proteins out of the nucleus). Karyopherins release of their cargo is driven by Ran, a G protein. Ran is small enough that it can diffuse through nuclear pores down its concentration gradient without interacting with nucleoporins. Ran will bind to either GTP or GDP and has the ability to change a karyopherin's affinity for its cargo. Inside the nucleus, RanGTP causes an importin karyopherin to change conformation, allowing its cargo to be released. RanGTP can also bind to exportin karyopherins and pass through the nuclear pore. Once it has reached the cytosol, RanGTP can be hydrolyzed to RanGDP, allowing the exportin's cargo to be released.",
+            "score": 357.6088135242462
+        },
+        {
+            "docid": "7125109_5",
+            "document": "Nuclear transport . Importin proteins bind their cargo in the cytoplasm, after which they are able to interact with the nuclear pore complex and pass through its channel. Once inside the nucleus, interaction with Ran-GTP causes a conformational change in the importin that causes it to dissociate from its cargo. The resulting complex of importin and Ran-GTP then translocates to the cytoplasm, where a protein called Ran Binding Protein (RanBP) separates Ran-GTP from importin. Separation allows access to a GTPase activating protein (GAP) that binds Ran-GTP and induces the hydrolysis of GTP to GDP. The Ran-GDP produced from this process now binds the nuclear transport factor NUTF2 which returns it to the nucleoplasm. Now in the nucleus, the Ran-GDP interacts with a guanine nucleotide exchange factor (GEF) which replaces the GDP with GTP, resulting again in Ran-GTP, and beginning the cycle anew.",
+            "score": 288.40856552124023
+        },
+        {
+            "docid": "5773450_6",
+            "document": "Karyopherin . Importin beta is a specific type of karyopherin that facilitates the transport of cargo proteins into the nucleus. First, it is binding importin alpha \u2013 another type of karyopherin that binds the cargo protein in the cytoplasm - before the cargo protein is imported into the nucleus through the nuclear pore using energy derived from the Ran gradient. Once inside the nucleus, the cargo dissociates from the karyopherins.",
+            "score": 274.20322275161743
+        },
+        {
+            "docid": "14072181_3",
+            "document": "KPNB1 . Nucleocytoplasmic transport, a signal- and energy-dependent process, takes place through nuclear pore complexes embedded in the nuclear envelope. The import of proteins containing a classical nuclear localization signal (NLS) requires the NLS import receptor, a heterodimer of importin alpha and beta subunits. Each of these subunits are part of the karyopherin family of proteins. Importin alpha binds the NLS-containing cargo in the cytoplasm and importin beta docks the complex at the cytoplasmic side of the nuclear pore complex. In the presence of nucleoside triphosphates and the small GTP binding protein Ran, the complex moves into the nuclear pore complex and the importin subunits dissociate. Importin alpha enters the nucleoplasm with its passenger protein and importin beta remains at the pore. Interactions between importin beta and the FG repeats of nucleoporins are essential in translocation through the pore complex. The protein encoded by this gene is a member of the importin beta family.",
+            "score": 293.4585645198822
+        },
+        {
+            "docid": "14144838_3",
+            "document": "IPO5 . Nuclear transport, a signal- and energy-dependent process, takes place through nuclear pore complexes embedded in the nuclear envelope. The import of proteins containing a nuclear localization signal (NLS) requires the NLS import receptor, a heterodimer of importin alpha and beta subunits also known as karyopherins. Importin alpha binds the NLS-containing cargo in the cytoplasm and importin beta docks the complex at the cytoplasmic side of the nuclear pore complex. In the presence of nucleoside triphosphates and the small GTP binding protein Ran, the complex moves into the nuclear pore complex and the importin subunits dissociate. Importin alpha enters the nucleoplasm with its passenger protein and importin beta remains at the pore. Interactions between importin beta and the FG repeats of nucleoporins are essential in translocation through the pore complex.",
+            "score": 288.10943055152893
+        },
+        {
+            "docid": "31934637_6",
+            "document": "Callystatin A . The most important role of leptomycin B is its inhibitory effect on the NES-dependent nuclear export mechanism, leading to the cell cycle arrest during G1 and G2 phases in eukaryotic cells. In wild-type cells, macromolecules in the nucleus with the leucine-rich nuclear export signal (NES) can be transported to the cytoplasm by binding to a karyopherin protein called chromosome region maintenance 1 (CRM1)/exportin 1. This CRM1/exportin1/NES-cargo interaction is stabilized by Ran-GTP binding which forms a complex that can transport the cargo to the cytoplasm. There, the cargo will be released when the Ran-GTP protein is hydrolyzed by a cytoplasmic Ran-GTPase enzyme to form Ran-GDP. This step completes the transport process and CRM1/exportin1 reenters the nucleus for more cargo binding. Leptomycin B and callystatin A inhibit the action of CRM1/exportin1 by a likely Michael-type addition of the thiol group from a cysteine residue of CRM1/exportin1 to form a covalent bond. This interaction prevents CRM1/exportin1 from recognizing and binding the NES of the cargo molecules because it occurs within the same binding site. Thus, macromolecules intended to be transported out of the nucleus will accumulate there instead.",
+            "score": 179.22461032867432
+        },
+        {
+            "docid": "44214016_14",
+            "document": "Glutamate receptor-interacting protein . Motor proteins such as Kinesin (KIF5) are bound to adapter molecules like GRIP1 to move cargo from the Golgi to the extremities of a neuron cell. GRIP1 and KIF5 are very commonly found together due to a good binding affinity (Kd range from 10-20nM). As for how cargo gets to the right place, there has been a hypothesis called the \u201csmart motor\u201d. It is currently thought that the \u201csmart motor\u201d recognizes the difference between axonal (coated with KLC protein) and dendritic (coated with KHC) proteins. The destination is chosen accordingly. Unfortunately, details about the intermediate transporting steps are unknown. However, at the destination the binding of protein 14-3-3 disrupts the interaction between KIF5 and GRIP1. This releases the cargo.",
+            "score": 135.87592315673828
+        },
+        {
+            "docid": "5773466_3",
+            "document": "Importin . Importin has two subunits, importin \u03b1 and importin \u03b2. Members of the importin-\u03b2 family can bind and transport cargo by themselves, or can form heterodimers with importin-\u03b1. As part of a heterodimer, importin-\u03b2 mediates interactions with the pore complex, while importin-\u03b1 acts as an adaptor protein to bind the nuclear localisation signal (NLS) on the cargo. The NLS-Importin \u03b1-Importin \u03b2 trimer dissociates after binding to Ran GTP inside the nucleus, with the two importin proteins being recycled to the cytoplasm for further use.",
+            "score": 329.50887989997864
+        },
+        {
+            "docid": "14874208_4",
+            "document": "RAB11FIP5 . Rab11FIP5 is one of the many proteins that have been shown to interact with the Rab11 protein. Rab GTPases, such as Rab11, are enzymes that are involved in vesicular trafficking. Rab11 specifically plays a key role in endocytic trafficking and recycling through guiding early endosomes to endosome recycling complexes. Rab11FIP5, like most other Rab11FIP proteins, interacts with Rab11 by serving as an adaptor protein. This leads to downstream changes with regards to which proteins can interact. This is a result of the various Rab11FIP proteins that each have different binding partners. This process allows for the coordination and organization of endosomal transport and ultimately gives Rab11 its versatile function in the cell. It is believed that Rab11 recruits specific Rab11FIP proteins to the surface of vesicles in order to determine how the vesicle will behave. Studies have shown that Rab11FIP5 localizes to the perinuclear endosomes where it aids in sorting vesicles into the slow recycling route. This process involves the transport of cargo proteins, like endocytosed receptors, to endosome recycling complexes and subsequently to the plasma membrane. This is in contrast to the fast constitutive recycling route which allows for the direct transport of cargo from the endosome to the plasma membrane. Rab11FIP5 aids in this sorting process by binding to kinesin II and forming a protein complex to regulate vesicular trafficking. Some of the proteins that are regulated through Rab11FIP5 mediated vesicle trafficking are microtubule proteins and the TfR receptor. This links Rab11FIP5 functionality to the cell cytoskeleton and the iron uptake of a cell, respectively. Rab11FIP5 has been shown to play a role in the nervous system because it functions in neurons. Studies have suggested that Rab11FIP5 is involved in regulating the localization of the postsynaptic AMPA-type glutamate receptor. The AMPA receptor is an excitatory receptor that can be found on the plasma membranes of neurons. Studies have shown that mice with the Rab11FIP5 gene knocked out have severe long term neuronal depression. Without the presence of Rab11FIP5, it is hypothesized that the internalized AMPA receptors cannot be recycled back onto the plasma membrane because the receptors cannot be correctly trafficked to intracellular organelles responsible for recycling. Rab11FIP5 has also been implicated as a protein involved in the creation of tissue polarity during development. Rab11FIP5 has been shown to be involved in the vesicle trafficking and degradation of proteins used to coordinate embryonic development. This is conducted in a manner that helps maintain the ectoderm polarity in embryonic Drosophila. Rab11FIP5 is also suggested to be involved in aiding salivary epithelial cells to adjust to extracellular pH. V-ATPase, a proton pump protein, has been shown to be reliant on Rab11FIP5 mediated vesicle trafficking. When Rab11FIP5 is knocked down, salivary cells cannot correctly translocate V-ATPase to the plasma membrane in response to extracellular acidosis. While this pathway remains largely unknown, these results suggest a link between Rab11FIP5 function and the maintenance of the buffering capacity of saliva.",
+            "score": 133.0111941099167
+        },
+        {
+            "docid": "21957_8",
+            "document": "Nuclear pore . The classical scheme of NLS-protein importation begins with Importin-\u03b1 first binding to the NLS sequence, which then acts as a bridge for Importin-\u03b2 to attach. The importin\u03b2\u2014importin\u03b1\u2014cargo complex is then directed towards the nuclear pore and diffuses through it. Once the complex is in the nucleus, RanGTP binds to Importin-\u03b2 and displaces it from the complex. Then the \"cellular apoptosis susceptibility protein\" (CAS), an exportin which in the nucleus is bound to RanGTP, displaces Importin-\u03b1 from the cargo. The NLS-protein is thus free in the nucleoplasm. The Importin\u03b2-RanGTP and Importin\u03b1-CAS-RanGTP complex diffuses back to the cytoplasm where GTPs are hydrolyzed to GDP leading to the release of Importin\u03b2 and Importin\u03b1 which become available for a new NLS-protein import round.",
+            "score": 380.54639172554016
+        },
+        {
+            "docid": "529981_4",
+            "document": "Membrane transport protein . Active transport is the movement of a substance across a membrane against its concentration gradient. This is usually to accumulate high concentrations of molecules that a cell needs, such as glucose or amino acids. If the process uses chemical energy, such as adenosine triphosphate (ATP), it is called primary active transport. Secondary active transport involves the use of an electrochemical gradient, and does not use energy produced in the cell. Unlike channel proteins which only transport substances through membranes passively, carrier proteins can transport ions and molecules either passively through facilitated diffusion, or via secondary active transport. A carrier protein is required to move particles from areas of low concentration to areas of high concentration. These carrier proteins have receptors that bind to a specific molecule (substrate) needing transport. The molecule or ion to be transported (the substrate) must first bind at a binding site at the carrier molecule, with a certain binding affinity. Following binding, and while the binding site is facing the same way, the carrier will capture or occlude (take in and retain) the substrate within its molecular structure and cause an internal translocation so that the opening in the protein now faces the other side of the plasma membrane. The carrier protein substrate is released at that site, according to its binding affinity there.",
+            "score": 160.37880897521973
+        },
+        {
+            "docid": "21957_3",
+            "document": "Nuclear pore . Nuclear pore complexes allow the transport of molecules across the nuclear envelope. This transport includes RNA and ribosomal proteins moving from nucleus to the cytoplasm and proteins (such as DNA polymerase and lamins), carbohydrates, signaling molecules and lipids moving into the nucleus. It is notable that the \"nuclear pore complex\" (NPC) can actively conduct 1000 translocations per complex per second. Although smaller molecules simply diffuse through the pores, larger molecules may be recognized by specific signal sequences and then be diffused with the help of nucleoporins into or out of the nucleus. It has been recently shown that these nucleoporins have specific evolutionary conserved features encoded in their sequences that provide insight into how they regulate the transport of molecules through the nuclear pore. Nucleoporin-mediated transport is not directly energy requiring, but depends on concentrations gradients associated with the RAN cycle. Each of the eight protein subunits surrounding the actual pore (the outer ring) projects a spoke-shaped protein over the pore channel. The center of the pore often appears to contain a plug-like structure. It is yet unknown whether this corresponds to an actual plug or is merely cargo caught in transit.",
+            "score": 211.1594762802124
+        },
+        {
+            "docid": "6253216_9",
+            "document": "Alpha solenoid . Due to their propensity for forming large interaction surfaces well-suited to protein-protein interactions, and their flexible surfaces permitting binding of various cargo molecules, alpha solenoid proteins commonly function as transport proteins, particularly in transport between the nucleus and the cytoplasm. For example, the beta-karyopherin superfamily consists of alpha solenoid proteins formed from HEAT repeats; importin beta is a member of this family, and its adaptor protein importin alpha is an alpha solenoid formed from Armadillo repeats. Transporters of other molecules, such as RNA, can also be of alpha solenoid architecuture, as in exportin-5 or pentatricopeptide-repeat-containing RNA-binding proteins, which are particularly common in plants.",
+            "score": 199.43422091007233
+        },
+        {
+            "docid": "32572_18",
+            "document": "Vesicle (biology and chemistry) . The vesicle \"coat\" is a collection of proteins that serve to shape the curvature of a donor membrane, forming the rounded vesicle shape. Coat proteins can also function to bind to various transmembrane receptor proteins, called cargo receptors. These receptors help select what material is endocytosed in receptor-mediated endocytosis or intracellular transport.",
+            "score": 120.75111651420593
+        },
+        {
+            "docid": "5884194_15",
+            "document": "Vesicular transport adaptor protein . Which cargo molecules are incorporated into a particular type of vesicle relies on specific interactions. Some of these interactions are directly with AP complexes and some are indirectly with \"alternative adaptors\", as shown in this diagram. As examples, membrane proteins can have direct interactions, while proteins that are soluble in the lumen of the donor organelle bind indirectly to AP complexes by binding to membrane proteins that traverse the membrane and bind at their lumenal end to the desired cargo molecule. Molecules that should not be included in the vesicle appear to be excluded by \"molecular crowding\".",
+            "score": 132.35269713401794
+        },
+        {
+            "docid": "2626268_5",
+            "document": "STAT protein . Extracellular binding of cytokines or growth factors induce activation of receptor-associated Janus kinases, which phosphorylate a specific tyrosine residue within the STAT protein promoting dimerization via their SH2 domains. The phosphorylated dimer is then actively transported to the nucleus via an importin \u03b1/\u03b2 ternary complex. Originally, STAT proteins were described as \"latent\" cytoplasmic transcription factors as phosphorylation was thought to be required for nuclear retention. However, unphosphorylated STAT proteins also shuttle between the cytosol and nucleus, and play a role in gene expression. Once STAT reaches the nucleus, it binds to a consensus DNA-recognition motif called gamma-activated sites (GAS) in the promoter region of cytokine-inducible genes and activates transcription. The STAT protein can be dephosphorylated by nuclear phosphatases, which leads to inactivation of STAT and subsequent transport out of the nucleus by a exportin-RanGTP complex.",
+            "score": 250.32964396476746
+        },
+        {
+            "docid": "11011552_4",
+            "document": "Cellular communication (biology) . Reception occurs when the target cell (any cell with a receptor protein specific to the signal molecule) detects a signal, usually in the form of a small, water-soluble molecule, via binding to a receptor protein. Reception is the target cell's detection of a signal via binding of a signaling molecule, or ligand. Receptor proteins span the cell\u2019s plasma membrane and provide specific sites for water-soluble signaling molecules to bind to. These trans-membrane receptors are able to transmit information from outside the cell to the inside because they change conformation when a specific ligand binds to it. By looking at three major types of receptors, (G protein coupled receptors, receptor tyrosine kinases, and ion channel receptors) scientists are able to see how trans-membrane receptors contribute to the complexity of cells and the work that these cells do. Cell surface receptors play an essential role in the biological systems of single- and multi-cellular organisms and malfunction or damage to these proteins is associated with cancer, heart disease, and asthma.",
+            "score": 107.7582893371582
+        },
+        {
+            "docid": "14725615_3",
+            "document": "Transportin 1 . This protein is a karyopherin which interacts with nuclear localization sequence to target nuclear proteins to the nucleus. The classical karyopherin receptor complex, such as the complex that uses Importin-\u03b21 (encoded by gene KPNB1), is a heterodimer of an alpha subunit which recognizes the nuclear localization signal and a beta subunit which docks the complex at nucleoporins. However, Transportin-1 can directly bind to the cargo proteins and may not need importin alpha subunit to do it.",
+            "score": 193.66548442840576
+        },
+        {
+            "docid": "1501977_3",
+            "document": "Receptor-mediated endocytosis . Although receptors and their ligands can be brought into the cell through a few mechanisms (e.g. caveolin), clathrin-mediated endocytosis remains the best studied. Clathrin-mediated endocytosis of many receptor types begins with the cargo ligands in the luminal compartment of the cell binding to receptors on the cell membrane. The cargo ligand and receptor will then recruit adaptor proteins and clathrin triskelions to the outside membrane of the cell around where budding will form. Budding of the plasma membrane then occurs, forming a clathrin coated pit. Other receptors can nucleate a clathrin-coated pit allowing formation around the receptor. A mature pit will be cleaved from the plasma membrane through the use of membrane binding and fission proteins such as Dynamin, (as well as other BAR domain proteins) forming a clathrin-coated vesicle that then uncoats and typically fuses to an early endosome. Once fused, the endocytosed cargo (receptor and/or ligand) can then be sorted to lysosomal, recycling, or other trafficking pathways.",
+            "score": 127.61130082607269
+        },
+        {
+            "docid": "3131507_8",
+            "document": "RNA-binding protein . After processing is complete, mRNA needs to be transported from the cell nucleus to cytoplasm. This is a three-step process involving the generation of a cargo-carrier complex in the nucleus followed by translocation of the complex through the nuclear pore complex and finally release of the cargo into cytoplasm. The carrier is then subsequently recycled. TAP/NXF1:p15 heterodimer is thought to be the key player in mRNA export. Over-expression of TAP in \"Xenopus laevis\" frogs increases the export of transcripts that are otherwise inefficiently exported. However TAP needs adaptor proteins because it is unable interact directly with mRNA. Aly/REF protein interacts and binds to the mRNA recruiting TAP.",
+            "score": 187.83475136756897
+        },
+        {
+            "docid": "7125109_3",
+            "document": "Nuclear transport . Protein that must be imported to the nucleus from the cytoplasm carry nuclear localization signals (NLS) that are bound by importins. A NLS is a sequence of amino acids that acts as a tag. They are diverse in their composition and most commonly hydrophilic, although hydrophobic sequences have also been documented. Proteins, transfer RNA, and assembled ribosomal subunits are exported from the nucleus due to association with exportins, which bind signaling sequences called nuclear export signals (NES). The ability of both importins and exportins to transport their cargo is regulated by the small Ras related GTPase, Ran.",
+            "score": 202.90603184700012
+        },
+        {
+            "docid": "13056378_2",
+            "document": "Nucleoporin . Nucleoporins are a family of proteins which are the constituent building blocks of the nuclear pore complex (NPC). The nuclear pore complex is a massive structure embedded in the nuclear envelope at sites where the inner and outer nuclear membranes fuse, forming a gateway that regulates the flow of macromolecules between the cell nucleus and the cytoplasm. Nuclear pores in turn allow the transport of water-soluble molecules across the nuclear envelope. Nucleoporins, a family of around 30 proteins, are the main components of the nuclear pore complex in eukaryotic cells. Nucleoporin 62 is the most abundant member of this family. Nucleoporins are able to transport molecules across the nuclear envelope at a very high rate. A single NPC is able to transport 60,000 protein molecules across the nuclear envelope every minute.",
+            "score": 180.33049416542053
+        },
+        {
+            "docid": "5773466_5",
+            "document": "Importin . Importin-\u03b2, unlike importin-\u03b1, has no direct homologues in yeast, but was purified as a 90-95kDa protein and found to form a heterodimer with importin-\u03b1 in a number of different cases. These included a study led by Michael Rexach and further studies by Dirk G\u00f6rlich. These groups found that importin-\u03b1 requires another protein, importin-\u03b2 to function, and that together they form a receptor for nuclear localization signals (NLS), thus allowing transport into the nucleus. Since these initial discoveries in 1994 and 1995, a host of Importin genes, such as IPO4 and IPO7, have been found that facilitate the import of slightly different cargo proteins, due to their differing structure and locality.",
+            "score": 239.1949906349182
+        },
+        {
+            "docid": "9858250_2",
+            "document": "Vitamin A receptor . Vitamin A receptor (also known as \"Stimulated by retinoic acid 6,\" or STRA6 protein) was originally discovered as a transmembrane cell-surface receptor for retinol-binding protein. STRA6 is unique as it functions both as a membrane transporter and a cell surface receptor, particularly as a cytokine receptor. In fact, STRA6 may be the first of a whole new class of proteins that might be known as \"cytokine signaling transporters.\" STRA6 is primarily known as the receptor for retinol binding protein and for its relevance in the transport of retinol to specific sites such as the eye (Vitamin A). It does this through the removal of retinol (ROH) from the holo-Retinol Binding Protein (RBP) and transports it into the cell to be metabolized into retinoids and/or kept as a retinylester. As a receptor, after holo-RBP is bound, STRA6 activates the JAK/STAT pathway, resulting in the activation of transcription factor, STAT5. These two functions\u2014retinol transporter and cytokine receptor\u2014while using different pathways, are processes that depend on each other.",
+            "score": 117.08628284931183
+        },
+        {
+            "docid": "1648525_11",
+            "document": "Nuclear localization sequence . This view was shown to be incorrect by Dingwall and Laskey in 1982. Using a protein called Nucleoplasmin, the archetypal \u2018molecular chaperone\u2019, they identified a domain in the protein that acts as a signal for nuclear entry. This work stimulated research in the area, and two years later the first NLS was identified in SV40 Large T-antigen (or SV40, for short). However, a functional NLS could not be identified in another nuclear protein simply on the basis of similarity to the SV40 NLS. In fact, only a small percentage of cellular (non-viral) nuclear proteins contained a sequence similar to the SV40 NLS. A detailed examination of Nucleoplasmin identified a sequence with two elements made up of basic amino acids separated by a spacer arm. One of these elements was similar to the SV40 NLS but was not able to direct a protein to the cell nucleus when attached to a non-nuclear reporter protein. Both elements are required. This kind of NLS has become known as a bipartite classical NLS. The bipartite NLS is now known to represent the major class of NLS found in cellular nuclear proteins and structural analysis has revealed how the signal is recognized by a receptor (importin \u03b1) protein (the structural basis of some monopartite NLSs is also known). Many of the molecular details of nuclear protein import are now known. This was made possible by the demonstration that nuclear protein import is a two-step process; the nuclear protein binds to the nuclear pore complex in a process that does not require energy. This is followed by an energy-dependent translocation of the nuclear protein through the channel of the pore complex. By establishing the presence of two distinct steps in the process the possibility of identifying the factors involved was established and led on to the identification of the importin family of NLS receptors and the GTPase Ran.",
+            "score": 189.9612843990326
+        },
+        {
+            "docid": "11712_3",
+            "document": "Facilitated diffusion . Facilitated diffusion is different from simple diffusion in several ways. First, the transport relies on molecular binding between the cargo and the membrane-embedded channel or carrier protein. Second, the rate of facilitated diffusion is saturable with respect to the concentration difference between the two phases; unlike free diffusion which is linear in the concentration difference. Third, the temperature dependence of facilitated transport is substantially different due to the presence of an activated binding event, as compared to free diffusion where the dependence on temperature is mild. Polar molecules and large ions dissolved in water cannot diffuse freely across the plasma membrane due to the hydrophobic nature of the fatty acid tails of the phospholipids that make up the lipid bilayer. Only small, non-polar molecules, such as oxygen and carbon dioxide, can diffuse easily across the membrane. Hence, no nonpolar molecules are transported by proteins in the form of transmembrane channels. These channels are gated, meaning that they open and close, and thus deregulate the flow of ions or small polar molecules across membranes, sometimes against the osmotic gradient. Larger molecules are transported by transmembrane carrier proteins, such as permeases, that change their conformation as the molecules are carried across (e.g. glucose or amino acids).  Non-polar molecules, such as retinol or lipids, are poorly soluble in water. They are transported through aqueous compartments of cells or through extracellular space by water-soluble carriers (e.g. retinol binding protein). The metabolites are not altered because no energy is required for facilitated diffusion. Only permease changes its shape in order to transport metabolites. The form of transport through a cell membrane in which a metabolite is modified is called group translocation transportation.",
+            "score": 142.94858956336975
+        },
+        {
+            "docid": "2246657_8",
+            "document": "Androgen receptor . The primary mechanism of action for androgen receptors is direct regulation of gene transcription. The binding of an androgen to the androgen receptor results in a conformational change in the receptor that, in turn, causes dissociation of heat shock proteins, transport from the cytosol into the cell nucleus, and dimerization. The androgen receptor dimer binds to a specific sequence of DNA known as a hormone response element. Androgen receptors interact with other proteins in the nucleus, resulting in up- or down-regulation of specific gene transcription. Up-regulation or activation of transcription results in increased synthesis of messenger RNA, which, in turn, is translated by ribosomes to produce specific proteins. One of the known target genes of androgen receptor activation is the insulin-like growth factor I receptor (IGF-1R). Thus, changes in levels of specific proteins in cells is one way that androgen receptors control cell behavior.",
+            "score": 113.82058787345886
+        },
+        {
+            "docid": "35666519_2",
+            "document": "Clathrin adaptor protein . Clathrin adaptor proteins, also known as adaptins, are vesicular transport adaptor proteins associated with clathrin. These proteins are synthesized in the ribosomes, processed in the endoplasmic reticulum and transported from the Golgi apparatus to the trans-Golgi network, and from there via small carrier vesicles to their final destination compartment. The association between adaptins and clathrin are important for vesicular cargo selection and transporting. Clathrin coats contain both clathrin (acts as a scaffold) and adaptor complexes that link clathrin to receptors in coated vesicles. Clathrin-associated protein complexes are believed to interact with the cytoplasmic tails of membrane proteins, leading to their selection and concentration. The two major types of clathrin adaptor complexes are the heterotetrameric vesicular transport adaptor proteins (AP1-5), and the monomeric GGA (Golgi-localising, Gamma-adaptin ear homology, ARF-binding proteins) adaptors. Adaptins are distantly related to the other main type of vesicular transport proteins, the coatomer subunits, sharing between 16% and 26% of their amino acid sequence.",
+            "score": 117.26289141178131
+        }
+    ],
+    "r": [
+        {
+            "docid": "21957_8",
+            "document": "Nuclear pore . The classical scheme of NLS-protein importation begins with Importin-\u03b1 first binding to the NLS sequence, which then acts as a bridge for Importin-\u03b2 to attach. The importin\u03b2\u2014importin\u03b1\u2014cargo complex is then directed towards the nuclear pore and diffuses through it. Once the complex is in the nucleus, RanGTP binds to Importin-\u03b2 and displaces it from the complex. Then the \"cellular apoptosis susceptibility protein\" (CAS), an exportin which in the nucleus is bound to RanGTP, displaces Importin-\u03b1 from the cargo. The NLS-protein is thus free in the nucleoplasm. The Importin\u03b2-RanGTP and Importin\u03b1-CAS-RanGTP complex diffuses back to the cytoplasm where GTPs are hydrolyzed to GDP leading to the release of Importin\u03b2 and Importin\u03b1 which become available for a new NLS-protein import round.",
+            "score": 380.54638671875
+        },
+        {
+            "docid": "13056378_9",
+            "document": "Nucleoporin . Nucleoporins regulate the transport of macromolecules through the nuclear envelope via interactions with the transporter molecules karyopherins. Karyopherins will bind to their cargo, and reversibly interact with the FG-repeats in nucleoporins. Karyopherins and their cargo are passed between FG-repeats until they diffuse down their concentration gradient and through the nuclear pore complex. Karyopherins can serve as an importin (transporting proteins into the nucleus) or an exportin (transporting proteins out of the nucleus). Karyopherins release of their cargo is driven by Ran, a G protein. Ran is small enough that it can diffuse through nuclear pores down its concentration gradient without interacting with nucleoporins. Ran will bind to either GTP or GDP and has the ability to change a karyopherin's affinity for its cargo. Inside the nucleus, RanGTP causes an importin karyopherin to change conformation, allowing its cargo to be released. RanGTP can also bind to exportin karyopherins and pass through the nuclear pore. Once it has reached the cytosol, RanGTP can be hydrolyzed to RanGDP, allowing the exportin's cargo to be released.",
+            "score": 357.60882568359375
+        },
+        {
+            "docid": "6235_44",
+            "document": "Cell nucleus . The entry and exit of large molecules from the nucleus is tightly controlled by the nuclear pore complexes. Although small molecules can enter the nucleus without regulation, macromolecules such as RNA and proteins require association karyopherins called importins to enter the nucleus and exportins to exit. \"Cargo\" proteins that must be translocated from the cytoplasm to the nucleus contain short amino acid sequences known as nuclear localization signals, which are bound by importins, while those transported from the nucleus to the cytoplasm carry nuclear export signals bound by exportins. The ability of importins and exportins to transport their cargo is regulated by GTPases, enzymes that hydrolyze the molecule guanosine triphosphate (GTP) to release energy. The key GTPase in nuclear transport is Ran, which can bind either GTP or GDP (guanosine diphosphate), depending on whether it is located in the nucleus or the cytoplasm. Whereas importins depend on RanGTP to dissociate from their cargo, exportins require RanGTP in order to bind to their cargo.",
+            "score": 356.700439453125
+        },
+        {
+            "docid": "6235_45",
+            "document": "Cell nucleus . Nuclear import depends on the importin binding its cargo in the cytoplasm and carrying it through the nuclear pore into the nucleus. Inside the nucleus, RanGTP acts to separate the cargo from the importin, allowing the importin to exit the nucleus and be reused. Nuclear export is similar, as the exportin binds the cargo inside the nucleus in a process facilitated by RanGTP, exits through the nuclear pore, and separates from its cargo in the cytoplasm.",
+            "score": 347.78924560546875
+        },
+        {
+            "docid": "5773466_3",
+            "document": "Importin . Importin has two subunits, importin \u03b1 and importin \u03b2. Members of the importin-\u03b2 family can bind and transport cargo by themselves, or can form heterodimers with importin-\u03b1. As part of a heterodimer, importin-\u03b2 mediates interactions with the pore complex, while importin-\u03b1 acts as an adaptor protein to bind the nuclear localisation signal (NLS) on the cargo. The NLS-Importin \u03b1-Importin \u03b2 trimer dissociates after binding to Ran GTP inside the nucleus, with the two importin proteins being recycled to the cytoplasm for further use.",
+            "score": 329.5088806152344
+        },
+        {
+            "docid": "6691427_6",
+            "document": "Ran (protein) . Ran is involved in the transport of proteins across the nuclear envelope by interacting with karyopherins and changing their ability to bind or release cargo molecules. Cargo proteins containing a nuclear localization signal (NLS) are bound by importins and transported into the nucleus. Inside the nucleus, RanGTP binds to importin and releases the import cargo. Cargo that needs to get out of the nucleus into the cytoplasm binds to exportin in a ternary complex with RanGTP. Upon hydrolysis of RanGTP to RanGDP outside the nucleus, the complex dissociates and export cargo is released.",
+            "score": 324.4595031738281
+        },
+        {
+            "docid": "21957_5",
+            "document": "Nuclear pore . Small particles (< ~30-60 kDa) are able to pass through the nuclear pore complex by passive diffusion. Larger particles are also able to diffuse passively through the large diameter of the pore, at rates that decrease gradually with molecular weight. Efficient passage through the complex requires several protein factors, and in particular, nuclear transport receptors that bind to cargo molecules and mediate their translocation across the NPC, either into the nucleus (importins) or out of it (exportins). The largest family of nuclear transport receptors are karyopherins, which includes dozens of both importins and exportins; this family is further subdivided to the karyopherin-\u03b1 and the karyopherin-\u03b2 subfamilies. Other nuclear transport receptors include NTF2 and some NTF2-like proteins.",
+            "score": 314.9298400878906
+        },
+        {
+            "docid": "14072181_3",
+            "document": "KPNB1 . Nucleocytoplasmic transport, a signal- and energy-dependent process, takes place through nuclear pore complexes embedded in the nuclear envelope. The import of proteins containing a classical nuclear localization signal (NLS) requires the NLS import receptor, a heterodimer of importin alpha and beta subunits. Each of these subunits are part of the karyopherin family of proteins. Importin alpha binds the NLS-containing cargo in the cytoplasm and importin beta docks the complex at the cytoplasmic side of the nuclear pore complex. In the presence of nucleoside triphosphates and the small GTP binding protein Ran, the complex moves into the nuclear pore complex and the importin subunits dissociate. Importin alpha enters the nucleoplasm with its passenger protein and importin beta remains at the pore. Interactions between importin beta and the FG repeats of nucleoporins are essential in translocation through the pore complex. The protein encoded by this gene is a member of the importin beta family.",
+            "score": 293.45855712890625
+        },
+        {
+            "docid": "7125109_5",
+            "document": "Nuclear transport . Importin proteins bind their cargo in the cytoplasm, after which they are able to interact with the nuclear pore complex and pass through its channel. Once inside the nucleus, interaction with Ran-GTP causes a conformational change in the importin that causes it to dissociate from its cargo. The resulting complex of importin and Ran-GTP then translocates to the cytoplasm, where a protein called Ran Binding Protein (RanBP) separates Ran-GTP from importin. Separation allows access to a GTPase activating protein (GAP) that binds Ran-GTP and induces the hydrolysis of GTP to GDP. The Ran-GDP produced from this process now binds the nuclear transport factor NUTF2 which returns it to the nucleoplasm. Now in the nucleus, the Ran-GDP interacts with a guanine nucleotide exchange factor (GEF) which replaces the GDP with GTP, resulting again in Ran-GTP, and beginning the cycle anew.",
+            "score": 288.4085693359375
+        },
+        {
+            "docid": "14144838_3",
+            "document": "IPO5 . Nuclear transport, a signal- and energy-dependent process, takes place through nuclear pore complexes embedded in the nuclear envelope. The import of proteins containing a nuclear localization signal (NLS) requires the NLS import receptor, a heterodimer of importin alpha and beta subunits also known as karyopherins. Importin alpha binds the NLS-containing cargo in the cytoplasm and importin beta docks the complex at the cytoplasmic side of the nuclear pore complex. In the presence of nucleoside triphosphates and the small GTP binding protein Ran, the complex moves into the nuclear pore complex and the importin subunits dissociate. Importin alpha enters the nucleoplasm with its passenger protein and importin beta remains at the pore. Interactions between importin beta and the FG repeats of nucleoporins are essential in translocation through the pore complex.",
+            "score": 288.10943603515625
+        },
+        {
+            "docid": "7125109_6",
+            "document": "Nuclear transport . Nuclear export roughly reverses the import process; in the nucleus, the exportin binds the cargo and Ran-GTP and diffuses through the pore to the cytoplasm, where the complex dissociates. Ran-GTP binds GAP and hydrolyzes GTP, and the resulting Ran-GDP complex is restored to the nucleus where it exchanges its bound ligand for GTP. Hence, whereas importins depend on RanGTP to dissociate from their cargo, exportins require RanGTP in order to bind to their cargo.",
+            "score": 285.7000427246094
+        },
+        {
+            "docid": "5773466_7",
+            "document": "Importin . Importin-\u03b2 is the typical structure of a larger superfamily of karyopherins. The basis of their structure is 18-20 tandem repeats of the HEAT motif. Each one of these repeats contains two antiparallel alpha helices linked by a turn, which stack together to form the overall structure of the protein. In order to transport cargo into the nucleus, importin-\u03b2 must associate with the nuclear pore complexes. It does this by forming weak, transient bonds with nucleoporins at their various FG (Phe-Gly) motifs. Crystallographic analysis has shown that these motifs bind to importin-\u03b2 at shallow hydrophobic pockets found on its surface.",
+            "score": 276.2590026855469
+        },
+        {
+            "docid": "5773450_6",
+            "document": "Karyopherin . Importin beta is a specific type of karyopherin that facilitates the transport of cargo proteins into the nucleus. First, it is binding importin alpha \u2013 another type of karyopherin that binds the cargo protein in the cytoplasm - before the cargo protein is imported into the nucleus through the nuclear pore using energy derived from the Ran gradient. Once inside the nucleus, the cargo dissociates from the karyopherins.",
+            "score": 274.2032165527344
+        },
+        {
+            "docid": "5773466_11",
+            "document": "Importin . Now that the importin-\u03b1/cargo complex is free of importin-\u03b2, the cargo protein can be released into the nucleus. The N-terminal importin-\u03b2-binding (IBB) domain of importin-\u03b1 contains an auto-regulatory region that mimics the NLS motif. The release of importin-\u03b2 frees this region and allows it to loop back and compete for binding with the cargo protein at the major NLS-binding site. This competition leads to the release of the protein. In some cases, specific release factors such as Nup2 and Nup50 can be employed to help release the cargo as well.",
+            "score": 264.04827880859375
+        },
+        {
+            "docid": "7125109_4",
+            "document": "Nuclear transport . GTPases are enzymes that bind to a molecule called guanosine triphosphate (GTP) which they then hydrolyze to create guanosine diphosphate (GDP) and release energy. Ran is in a different conformation depending on whether it is bound to GTP or GDP. In its GDP bound state, Ran is capable of binding karyopherins (importins and exportins). Importins release cargo upon binding to RanGTP, while exportins must bind RanGTP to form a ternary complex with their export cargo. The dominant nucleotide binding state of Ran depends on whether it is located in the nucleus (RanGTP) or the cytoplasm (RanGDP).",
+            "score": 261.11737060546875
+        },
+        {
+            "docid": "5773466_10",
+            "document": "Importin . Once the cargo protein is bound, importin-\u03b2 interacts with the NPC, and the complex diffuses into the nucleus from the cytoplasm. The rate of diffusion depends on both the concentration of importin-\u03b1 present in the cytoplasm and also the binding affinity of importin-\u03b1 to the cargo. Once inside the nucleus, the complex interacts with the Ras-family GTPase, Ran-GTP. This leads to the dissociation of the complex by altering the conformation of Importin-\u03b2. Importin-\u03b2 is left bound to Ran-GTP, ready to be recycled.",
+            "score": 257.73968505859375
+        },
+        {
+            "docid": "6235_13",
+            "document": "Cell nucleus . Most proteins, ribosomal subunits, and some DNAs are transported through the pore complexes in a process mediated by a family of transport factors known as karyopherins. Those karyopherins that mediate movement into the nucleus are also called importins, whereas those that mediate movement out of the nucleus are called exportins. Most karyopherins interact directly with their cargo, although some use adaptor proteins. Steroid hormones such as cortisol and aldosterone, as well as other small lipid-soluble molecules involved in intercellular signaling, can diffuse through the cell membrane and into the cytoplasm, where they bind nuclear receptor proteins that are trafficked into the nucleus. There they serve as transcription factors when bound to their ligand; in the absence of a ligand, many such receptors function as histone deacetylases that repress gene expression.",
+            "score": 256.138427734375
+        },
+        {
+            "docid": "30742057_3",
+            "document": "Importin \u03b1 . Importin \u03b1 is known to bind to the nuclear localization signal (NLS) sequence of nucleus targeted proteins. After this recognition, importin \u03b1 links the protein to importin \u03b2, which transports the NLS-containing protein across the nuclear envelope to its destination. Because of their complementary functional relationship, importin \u03b1 and importin \u03b2 are often referred to as the importin \u03b1/\u03b2 heterodimer, but they are functionally separate, and do not normally exist in conjugation with each other, but only associate for cellular import processes, thus importin \u03b1 proteins constitute an independent class of adaptor protein.",
+            "score": 252.29116821289062
+        },
+        {
+            "docid": "2626268_5",
+            "document": "STAT protein . Extracellular binding of cytokines or growth factors induce activation of receptor-associated Janus kinases, which phosphorylate a specific tyrosine residue within the STAT protein promoting dimerization via their SH2 domains. The phosphorylated dimer is then actively transported to the nucleus via an importin \u03b1/\u03b2 ternary complex. Originally, STAT proteins were described as \"latent\" cytoplasmic transcription factors as phosphorylation was thought to be required for nuclear retention. However, unphosphorylated STAT proteins also shuttle between the cytosol and nucleus, and play a role in gene expression. Once STAT reaches the nucleus, it binds to a consensus DNA-recognition motif called gamma-activated sites (GAS) in the promoter region of cytokine-inducible genes and activates transcription. The STAT protein can be dephosphorylated by nuclear phosphatases, which leads to inactivation of STAT and subsequent transport out of the nucleus by a exportin-RanGTP complex.",
+            "score": 250.32965087890625
+        },
+        {
+            "docid": "21957_9",
+            "document": "Nuclear pore . Although cargo passes through the pore with the assistance of chaperone proteins, the translocation through the pore itself is not energy-dependent. However, the whole import cycle needs the hydrolysis of 2 GTPs and is thus energy-dependent and has to be considered as active transport. The import cycle is powered by the nucleo-cytoplasmic RanGTP gradient. This gradient arises from the exclusive nuclear localization of RanGEFs, proteins that exchange GDP to GTP on Ran molecules. Thus there is an elevated RanGTP concentration in the nucleus compared to the cytoplasm.",
+            "score": 250.26953125
+        },
+        {
+            "docid": "5773466_9",
+            "document": "Importin . The first step of this cycle is the binding of cargo. Importin can perform this function as a monomeric importin-\u03b2 protein, but usually requires the presence of importin-\u03b1, which acts as an adaptor to cargo proteins (via interactions with the NLS). The NLS is a sequence of basic amino acids that tags the protein as cargo destined for the nucleus. A cargo protein can contain either one or two of these motifs, which will bind to the major and/or minor binding sites on importin-\u03b1.",
+            "score": 245.640380859375
+        },
+        {
+            "docid": "5773466_16",
+            "document": "Importin . Many different cargo proteins can be transported into the nucleus by importin. Often, different proteins will require different combinations of \u03b1 and \u03b2 in order to translocate. Some examples of different cargo are listed below. Although importin-\u03b1 and importin-\u03b2 are used to describe importin as a whole, they actually represent larger families of proteins that share a similar structure and function. Various different genes have been identified for both \u03b1 and \u03b2, with some of them listed below. Note that often karyopherin and importin are used interchangeably.",
+            "score": 243.83602905273438
+        },
+        {
+            "docid": "6691427_7",
+            "document": "Ran (protein) . During mitosis, the Ran cycle is involved in mitotic spindle assembly and nuclear envelope reassembly after the chromosomes have been separated. During prophase, the steep gradient in RanGTP-RanGDP ratio at the nuclear pores breaks down as the nuclear envelope becomes leaky and disassembles. RanGTP concentration stays high around the chromosomes as RCC1, a nucleotide exchange factor, stays attached to chromatin. RanBP2 (Nup358) and RanGAP move to the kinetochores where they facilitate the attachment of spindle fibers to chromosomes. Moreover, RanGTP promotes spindle assembly by mechanisms similar to mechanisms of nuclear transport: the activity of spindle assembly factors such as NuMA and TPX2 is inhibited by the binding to importins. By releasing importins, RanGTP activates these factors and therefore promotes the assembly of the mitotic spindle . In telophase, RanGTP hydrolysis and nucleotide exchange are required for vesicle fusion at the reforming nuclear envelopes of the daughter nuclei.",
+            "score": 242.42990112304688
+        },
+        {
+            "docid": "5773466_6",
+            "document": "Importin . A large proportion of the importin-\u03b1 adaptor protein is made up of several armadillo repeats (ARM) arranged in tandem. These repeats can stack together to form a curved shaped structure, which facilitates binding to the NLS of specific cargo proteins. The major NLS binding site is found towards the N-terminus, with a minor site being found at the C-terminus. As well as the ARM structures, Importin-\u03b1 also contains a 90 amino acid N-terminal region, responsible for binding to Importin-\u03b2, known as IBB (Importin-\u03b2 binding domain). This is also a site of autoinhibition, and is implicated in the release of cargo once importin-\u03b1 reaches the nucleus.",
+            "score": 239.95823669433594
+        },
+        {
+            "docid": "5773466_12",
+            "document": "Importin . Finally, in order to return to the cytoplasm, importin-\u03b1 must associate with a Ran-GTP/CAS (nuclear export factor) complex which facilitates its exit from the nucleus. CAS (cellular apoptosis susceptibility protein) is part of the importin-\u03b2 superfamily of karyopherins and is defined as a nuclear export factor. Importin-\u03b2 returns to the cytoplasm, still bound to Ran-GTP. Once in the cytoplasm, Ran-GTP is hydrolysed by RanGAP, forming Ran-GDP, and releasing the two importins for further activity. It is this hydrolysis of GTP that provides the energy for the cycle as a whole. In the nucleus, a GEF will charge Ran with a GTP molecule, which is then hydrolysed by a GAP in the cytoplasm, as stated above. It is this activity of Ran that allows for the unidirectional transport of proteins.",
+            "score": 239.5823974609375
+        },
+        {
+            "docid": "5773466_5",
+            "document": "Importin . Importin-\u03b2, unlike importin-\u03b1, has no direct homologues in yeast, but was purified as a 90-95kDa protein and found to form a heterodimer with importin-\u03b1 in a number of different cases. These included a study led by Michael Rexach and further studies by Dirk G\u00f6rlich. These groups found that importin-\u03b1 requires another protein, importin-\u03b2 to function, and that together they form a receptor for nuclear localization signals (NLS), thus allowing transport into the nucleus. Since these initial discoveries in 1994 and 1995, a host of Importin genes, such as IPO4 and IPO7, have been found that facilitate the import of slightly different cargo proteins, due to their differing structure and locality.",
+            "score": 239.1949920654297
+        },
+        {
+            "docid": "20938046_8",
+            "document": "Rev (HIV) . The arginine-rich domain of the Rev protein, containing a nuclear localization signal (NLS), allows Rev to enter the nucleus. Entry requires binding between a Rev multimer, Ran-GDP, and importin-\u03b2 (a nuclear transport factor). The Rev NLS is a highly similar sequence to that of the importin-\u03b2-binding site present within importin-\u03b1, which allows for the interaction between Rev and importin-\u03b2. The NLS overlaps with the sequence required for RNA-binding. This prevents the NLS from counteracting the export of RRE-containing mRNA transcripts.",
+            "score": 237.4027862548828
+        },
+        {
+            "docid": "1648525_13",
+            "document": "Nuclear localization sequence . A protein translated with a NLS will bind strongly to importin (aka karyopherin), and, together, the complex will move through the nuclear pore. At this point, Ran-GTP will bind to the importin-protein complex, and its binding will cause the importin to lose affinity for the protein. The protein is released, and now the Ran-GTP/importin complex will move back out of the nucleus through the nuclear pore. A GTPase-activating protein (GAP) in the cytoplasm hydrolyzes the Ran-GTP to GDP, and this causes a conformational change in Ran, ultimately reducing its affinity for importin. Importin is released and Ran-GDP is recycled back to the nucleus where a Guanine nucleotide exchange factor (GEF) exchanges its GDP back for GTP.",
+            "score": 235.42324829101562
+        },
+        {
+            "docid": "969821_7",
+            "document": "JAK-STAT signaling pathway . To move from the cytosol to the nucleus, STAT dimers have to pass through nuclear pore complexes (NPCs), which are protein complexes present along the nuclear envelope that control the flow of substances in and out of the nucleus. To enable STATs to move into the nucleus, an amino acid sequence on STATs, called the nuclear localization signal (NLS), is bound by proteins called importins. Once the STAT dimer (bound to importins) enters the nucleus, a protein called Ran (associated with GTP) binds to the importins, releasing them from the STAT dimer. The STAT dimer is then free in the nucleus.",
+            "score": 233.92031860351562
+        },
+        {
+            "docid": "14725615_4",
+            "document": "Transportin 1 . Transportin-1 is thought to use the same principal mechanism to carry out nuclear transport as other Importins. It mediates docking to the nuclear pore complex through binding to nucleoporin and is subsequently translocated through the pore by an energy requiring mechanism. Then, in the nucleus Ran binds to Transportin-1, it dissociates from cargo, and Transportin-1 is re-exported from the nucleus to the cytoplasm where GTP hydrolysis releases Ran. Then Transportin-1 is free to bind new cargo.",
+            "score": 229.41412353515625
+        },
+        {
+            "docid": "7125109_2",
+            "document": "Nuclear transport . The entry and exit of large molecules from the cell nucleus is tightly controlled by the nuclear pore complexes (NPCs). Although small molecules can enter the nucleus without regulation, macromolecules such as RNA and proteins require association with transport factors like karyopherins called importins to enter the nucleus and exportins to exit.",
+            "score": 226.94207763671875
+        },
+        {
+            "docid": "40061160_3",
+            "document": "IPO8 . The importin-alpha/beta complex and the GTPase Ran mediate nuclear import of proteins with a classical nuclear localization signal. The protein encoded by this gene is a member of a class of approximately 20 potential Ran targets that share a sequence motif related to the Ran-binding site of importin-beta. This protein binds to the nuclear pore complex and, along with RanGTP and RANBP1, inhibits the GAP stimulation of the Ran GTPase. Alternatively spliced transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Jul 2010].",
+            "score": 218.1724395751953
+        }
+    ]
+}

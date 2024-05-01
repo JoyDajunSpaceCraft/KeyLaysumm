@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "192595_28",
+            "document": "Methicillin-resistant Staphylococcus aureus . Community-acquired MRSA (CA-MRSA) strains emerged in late 1990 to 2000, infecting healthy people who had not been in contact with health care facilities. Researchers suggest that CA-MRSA did not evolve from the HA-MRSA. This is further proven by molecular typing of CA-MRSA strains and genome comparison between CA-MRSA and HA-MRSA, which indicate that novel MRSA strains integrated SCC\"mec\" into MSSA separately on its own. By mid 2000, CA-MRSA was introduced into the health care systems and distinguishing CA-MRSA from HA-MRSA became a difficult process. Community-acquired MRSA is more easily treated and more virulent than hospital-acquired MRSA (HA-MRSA). The genetic mechanism for the enhanced virulence in CA-MRSA remains an active area of research. Especially the Panton\u2013Valentine leukocidin (PVL) genes are of interest because they are a unique feature of CA-MRSA.",
+            "score": 247.63494098186493
+        },
+        {
+            "docid": "15243054_2",
+            "document": "ST8:USA300 . ST8:USA300 is a strain of community-associated methicillin-resistant \"Staphylococcus aureus\" (MRSA) that has emerged as a particularly antibiotic resistant epidemic that is responsible for rapidly progressive, fatal diseases including necrotizing pneumonia, severe sepsis and necrotizing fasciitis. The epidemiology of infections caused by MRSA is rapidly changing: in the past 10 years, infections caused by this organism have emerged in the community. The 2 MRSA clones in the United States most closely associated with community outbreaks, (MW2 strain, ST1 lineage) and USA300, often contain Panton-Valentine leukocidin (PVL) genes and, more frequently, have been associated with skin and soft tissue infections. Outbreaks of community-associated (CA)-MRSA infections have been reported in correctional facilities, among athletic teams, among military recruits, in newborn nurseries, and among sexually active homosexual men. CA-MRSA infections now appear to be endemic in many urban regions and cause most MRSA infections.",
+            "score": 189.9473661184311
+        },
+        {
+            "docid": "192595_20",
+            "document": "Methicillin-resistant Staphylococcus aureus . Staphylococcal cassette chromosome \"mec\" (SCC\"mec\") is a genomic island of unknown origin containing the antibiotic resistance gene \"mecA\". SCC\"mec\" contains additional genes beyond \"mecA\", including the cytolysin gene \"psm-mec\", which may suppress virulence in HA-acquired MRSA strains. In addition this locus encodes strain dependent gene regulatory RNA called \"psm-mec\"RNA. SCC\"mec\" also contains \"ccrA\" and \"ccrB\"; both genes encode recombinases that mediate the site-specific integration and excision of the SCC\"mec\" element from the \"S. aureus\" chromosome. Currently, six unique SCC\"mec\" types ranging in size from 21\u201367 kb have been identified; they are designated types I-VI and are distinguished by variation in \"mec\" and \"ccr\" gene complexes. Owing to the size of the SCC\"mec\" element and the constraints of horizontal gene transfer, a minimum of five clones are thought to be responsible for the spread of MRSA infections, with clonal complex (CC) 8 most prevalent. SCC\"mec\" is thought to have originated in the closely related \"S. sciuri\" species and transferred horizontally to \"S. aureus.\"",
+            "score": 272.31684947013855
+        },
+        {
+            "docid": "192595_29",
+            "document": "Methicillin-resistant Staphylococcus aureus . In the United States, most cases of CA-MRSA are caused by a CC8 strain designated , which carries SCC\"mec\" type IV, Panton\u2013Valentine leukocidin, PSM-alpha and enterotoxins Q and K, and . The ST8:USA300 strain results in skin infections, necrotizing fasciitis and toxic shock syndrome, whereas the ST1:USA400 strain results in necrotizing pneumonia and pulmonary sepsis. Other community-acquired strains of MRSA are ST8:USA500 and ST59:USA1000. In many nations of the world, MRSA strains with different predominant genetic background types have come to predominate among CA-MRSA strains; USA300 easily tops the list in the U.S. and is becoming more common in Canada after its first appearance there in 2004. For example, in Australia ST93 strains are common, while in continental Europe ST80 strains, which carry SCC\"mec\" type IV, predominate. In Taiwan, ST59 strains, some of which are resistant to many non-beta-lactam antibiotics, have arisen as common causes of skin and soft tissue infections in the community. In a remote region of Alaska, unlike most of the continental U.S., USA300 was found rarely in a study of MRSA strains from outbreaks in 1996 and 2000 as well as in surveillance from 2004\u201306.",
+            "score": 235.0698208808899
+        },
+        {
+            "docid": "192595_26",
+            "document": "Methicillin-resistant Staphylococcus aureus . Acquisition of SCC\"mec\" in methicillin-sensitive \"S. aureus\" (MSSA) gives rise to a number of genetically different MRSA lineages. These genetic variations within different MRSA strains possibly explain the variability in virulence and associated MRSA infections. The first MRSA strain, ST250 MRSA-1 originated from SCC\"mec\" and ST250-MSSA integration. Historically, major MRSA clones: ST2470-MRSA-I, ST239-MRSA-III, ST5-MRSA-II, and ST5-MRSA-IV were responsible for causing hospital-acquired MRSA (HA-MRSA) infections. ST239-MRSA-III, known as the Brazilian clone, was highly transmissible compared to others and distributed in Argentina, Czech Republic, and Portugal.",
+            "score": 230.23883175849915
+        },
+        {
+            "docid": "192595_11",
+            "document": "Methicillin-resistant Staphylococcus aureus . Prisons, and military barracks, can be crowded and confined, and poor hygiene practices may proliferate, thus putting inhabitants at increased risk of contracting MRSA. Cases of MRSA in such populations were first reported in the United States, and then in Canada. The earliest reports were made by the Center for Disease Control (CDC) in US state prisons. In the news media, hundreds of reports of MRSA outbreaks in prisons appeared between 2000 and 2008. For example, in February 2008, the Tulsa County jail in Oklahoma started treating an average of 12 \"S. aureus\" cases per month. A report on skin and soft tissue infections in the Cook County jail in Chicago in 2004\u201305 demonstrated MRSA was the most common cause of these infections among cultured lesions, and few risk factors were more strongly associated with MRSA infections than infections caused by methicillin-susceptible\" S. aureus\". In response to these and many other reports on MRSA infections among incarcerated and recently incarcerated persons, the Federal Bureau of Prisons has released guidelines for the management and control of the infections, although few studies provide an evidence base for these guidelines. During a recent study in Fort Benning Georgia, a variety of military recruits both healthy and those suffering from soft tissue infections were tested for MRSA as well as other pathogens. The researchers determined that a significant portion of trainees were either asymptomatic carriers of MRSA or that MRSA was the cause of their infection.",
+            "score": 158.22686624526978
+        },
+        {
+            "docid": "192595_21",
+            "document": "Methicillin-resistant Staphylococcus aureus . Different SCC\"mec\" genotypes confer different microbiological characteristics, such as different antimicrobial resistance rates. Different genotypes are also associated with different types of infections. Types I-III SCC\"mec\" are large elements that typically contain additional resistance genes and are characteristically isolated from HA-MRSA strains. Conversely, CA-MRSA is associated with types IV and V, which are smaller and lack resistance genes other than \"mecA\".",
+            "score": 222.999680519104
+        },
+        {
+            "docid": "192595_22",
+            "document": "Methicillin-resistant Staphylococcus aureus . These distinctions were thoroughly investigated by Collins et al. in 2001 and can be explained by the fitness differences associated with carriage of a large or small SCC\"mec\" plasmid. Carriage of large plasmids, such as SCC\"mec\"I-III, is costly to the bacteria, resulting in compensatory decrease in virulence expression. MRSA is able to thrive in hospital settings with increased antibiotic resistance but decreased virulence- HA-MRSA targets immunocompromised, hospitalized hosts, thus a decrease in virulence is not maladaptive. In contrast, CA-MRSA tends to carry lower fitness cost SCC\"mec\" elements to offset the increased virulence and toxicity expression required to infect healthy hosts.",
+            "score": 235.89861130714417
+        },
+        {
+            "docid": "6802352_2",
+            "document": "Panton\u2013Valentine leukocidin . Panton\u2013Valentine leukocidin (PVL) is a cytotoxin\u2014one of the \u03b2-pore-forming toxins. The presence of PVL is associated with increased virulence of certain strains (isolates) of \"Staphylococcus aureus\". It is present in the majority of community-associated Methicillin-resistant \"Staphylococcus aureus\" (CA-MRSA) isolates studied  and is the cause of necrotic lesions involving the skin or mucosa, including necrotic hemorrhagic pneumonia.  PVL creates pores in the membranes of infected cells. PVL is produced from the genetic material of a bacteriophage that infects \"Staphylococcus aureus\", making it  more virulent.",
+            "score": 162.7073323726654
+        },
+        {
+            "docid": "4106560_12",
+            "document": "Emerging infectious disease . Methicillin-resistant Staphylococcus aureus (MRSA) evolved from Methicillin-susceptible Staphylococcus aureus (MSSA) otherwise known as common \"S. aureus\". Many people are natural carriers of \"S. aureus\", without being affected in any way. MSSA was treatable with the antibiotic methicillin until it acquired the gene for antibiotic resistance. Though genetic mapping of various strains of MRSA, scientists have found that MSSA acquired the mecA gene in the 1960s, which accounts for its pathogenicity, before this it had a predominantly commensal relationship with humans. It is theorized that when this \"S. aureus\" strain that had acquired the mecA gene was introduced into hospitals, it came into contact with other hospital bacteria that had already been exposed to high levels of antibiotics. When exposed to such high levels of antibiotics, the hospital bacteria suddenly found themselves in an environment that had a high level of selection for antibiotic resistance, and thus resistance to multiple antibiotics formed within these hospital populations. When \"S. aureus\" came into contact with these populations, the multiple genes that code for antibiotic resistance to different drugs were then acquired by MRSA, making it nearly impossible to control. It is thought that MSSA acquired the resistance gene through the horizontal gene transfer, a method in which genetic information can be passed within a generation, and spread rapidly through its own population as was illustrated in multiple studies. Horizontal gene transfer speeds the process of genetic transfer since there is no need to wait an entire generation time for gene to be passed on. Since most antibiotics do not work on MRSA, physicians have to turn to alternative methods based in Darwinian medicine. However prevention is the most preferred method of avoiding antibiotic resistance. By reducing unnecessary antibiotic use in human and animal populations, antibiotics resistance can be slowed.",
+            "score": 179.5809097290039
+        },
+        {
+            "docid": "192595_69",
+            "document": "Methicillin-resistant Staphylococcus aureus . In 1961 the first known MRSA isolates were reported in a British study, and from 1961 to 1967 there were infrequent hospital outbreaks in Western Europe and Australia, with methicillin then being licensed in England to treat resistant infections. Other reports of MRSA began to be described in the 1970s. Resistance to other antibiotics was documented in some strains of S. aureus. In 1996, vancomycin resistance was reported in Japan. In many countries, outbreaks of MRSA infection was reported to be transmitted between hospitals. The rate had increased to 22% by 1995, and by 1997 the percent of hospital \"S. aureus\" infections attributable to MRSA had reached 50%.",
+            "score": 166.87215542793274
+        },
+        {
+            "docid": "15690011_4",
+            "document": "Staphylococcal infection . The main coagulase-positive staphylococcus is Staphylococcus aureus, although not all strains of Staphylococcus aureus are coagulase positive. These bacteria can survive on dry surfaces, increasing the chance of transmission. S. aureus is also implicated in toxic shock syndrome; during the 1980s some tampons allowed the rapid growth of S. aureus, which released toxins that were absorbed into the bloodstream. Any S. aureus infection can cause the staphylococcal scalded skin syndrome, a cutaneous reaction to exotoxin absorbed into the bloodstream. It can also cause a type of septicaemia called pyaemia. The infection can be life-threatening. Problematically, Methicillin-resistant Staphylococcus aureus (MRSA) has become a major cause of hospital-acquired infections. MRSA has also been recognized with increasing frequency in community-acquired infections. The symptoms of a Staph Infection include a collection of pus, such as a boil or furuncle, or abscess. The area is typically tender or painful and may be reddened or swollen.",
+            "score": 156.10397911071777
+        },
+        {
+            "docid": "19372852_3",
+            "document": "MecA (gene) . The most commonly known carrier of the \"mecA\" gene is the bacterium known as Methicillin-resistant \"Staphylococcus aureus\" (MRSA). In \"Staphylococcus\" species, \"mecA\" is spread on the SCC\"mec\" genetic element. resistant strains are responsible for many infections originating in hospitals.",
+            "score": 193.36545538902283
+        },
+        {
+            "docid": "192595_2",
+            "document": "Methicillin-resistant Staphylococcus aureus . Methicillin-resistant \"Staphylococcus aureus\" (MRSA) ( or ) refers to a group of gram-positive bacteria that are genetically distinct from other strains of \"Staphylococcus aureus\". MRSA is responsible for several difficult-to-treat infections in humans. MRSA is any strain of \"S. aureus\" that has developed, through horizontal gene transfer and natural selection, multiple drug resistance to beta-lactam antibiotics. \u03b2-lactam antibiotics are a broad spectrum group which includes some penams \u2013 penicillin derivatives such as methicillin and oxacillin, and cephems such as the cephalosporins. Strains unable to resist these antibiotics are classified as methicillin-susceptible \"S. aureus\", or MSSA.",
+            "score": 187.01972150802612
+        },
+        {
+            "docid": "192595_71",
+            "document": "Methicillin-resistant Staphylococcus aureus . It has been argued that the observed increased mortality among MRSA-infected people may be the result of the increased underlying morbidity of these people. Several studies, however, including one by Blot and colleagues, that have adjusted for underlying disease still found MRSA bacteremia to have a higher attributable mortality than methicillin-susceptible \"S. aureus\" (MSSA) bacteremia.",
+            "score": 156.7420196533203
+        },
+        {
+            "docid": "935328_6",
+            "document": "Fusidic acid . One important clinical use of fusidic acid is its activity against methicillin-resistant \"Staphylococcus aureus\" (MRSA). Although many strains of MRSA remain sensitive to fusidic acid, there is a low genetic barrier to drug resistance (a single point mutation is all that is required), fusidic acid should never be used on its own to treat serious MRSA infection and should be combined with another antimicrobial such as rifampicin when administering oral or topical dosing regimens approved in Europe, Canada, and elsewhere. However, resistance selection is low when pathogens are challenged at high drug exposure. An orally-administered mono-therapy with a high loading dose is under development in the United States.",
+            "score": 152.8696870803833
+        },
+        {
+            "docid": "178769_41",
+            "document": "Intravenous therapy . A peripheral IV cannot be left in the vein indefinitely, because of the risk of insertion-site infection leading to phlebitis, cellulitis and sepsis. The US Centers for Disease Control and Prevention updated their guidelines and now advise the cannula need to be replaced every 96 hours. This was based on studies organised to identify causes of Methicillin-resistant Staphylococcus aureus (MRSA) infection in hospitals. In the United Kingdom, the UK Department of health published their finding about risk factors associated with increased MRSA infection, now include intravenous cannula, central venous catheters and urinary catheters as the main factors increasing the risk of spreading antibiotic resistant strain bacteria.",
+            "score": 146.5208399295807
+        },
+        {
+            "docid": "24255_30",
+            "document": "Pandemic . In the past 20 years, common bacteria including \"Staphylococcus aureus\", \"Serratia marcescens\" and Enterococcus, have developed resistance to various antibiotics such as vancomycin, as well as whole classes of antibiotics, such as the aminoglycosides and cephalosporins. Antibiotic-resistant organisms have become an important cause of healthcare-associated (nosocomial) infections (HAI). In addition, infections caused by community-acquired strains of methicillin-resistant \"Staphylococcus aureus\" (MRSA) in otherwise healthy individuals have become more frequent in recent years.",
+            "score": 134.99934816360474
+        },
+        {
+            "docid": "192595_3",
+            "document": "Methicillin-resistant Staphylococcus aureus . MRSA is common in hospitals, prisons, and nursing homes, where people with open wounds, invasive devices such as catheters, and weakened immune systems are at greater risk of hospital-acquired infection. MRSA began as a hospital-acquired infection, but has become community-acquired as well as livestock-acquired. The terms HA-MRSA (healthcare-associated or hospital-acquired MRSA), CA-MRSA (community-associated MRSA) and LA-MRSA (livestock-associated) reflect this.",
+            "score": 182.7176194190979
+        },
+        {
+            "docid": "118212_58",
+            "document": "Staphylococcus aureus . Because of the high level of resistance to penicillins and because of the potential for MRSA to develop resistance to vancomycin, the U.S. Centers for Disease Control and Prevention has published guidelines for the appropriate use of vancomycin. In situations where the incidence of MRSA infections is known to be high, the attending physician may choose to use a glycopeptide antibiotic until the identity of the infecting organism is known. After the infection is confirmed to be due to a methicillin-susceptible strain of \"S. aureus\", treatment can be changed to flucloxacillin or even penicillin], as appropriate.",
+            "score": 141.02054595947266
+        },
+        {
+            "docid": "25894745_21",
+            "document": "Center for Disease Dynamics, Economics &amp; Policy . ETC research featured in the CDC's Emerging Infectious Diseases also received widespread national media coverage. The study found the community-associated strain of the deadly superbug MRSA\u2014an infection-causing bacteria resistant to most common antibiotics\u2014poses a far greater health threat than previously known and is making its way into hospitals. The new threat is easily picked up in fitness centers, schools, and other public places and has increased the overall burden of MRSA within hospitals. The study analyzed data from more than 300 microbiology labs serving hospitals all over the United States, found a seven-fold increase in the proportion of \"community-associated\" strains of methicillin-resistant Staphylococcus aureus, or MRSA, in outpatient hospital units between 1999 and 2006.",
+            "score": 163.12699627876282
+        },
+        {
+            "docid": "192595_60",
+            "document": "Methicillin-resistant Staphylococcus aureus . In a US cohort study of 1300 healthy children, 2.4% carried MRSA in their nose. Bacterial sepsis occurs with most (75%) of cases of invasive MRSA infection. In 2009, there were an estimated 463,017 hospitalization due to MRSA or a rate of 11.74 per 1,000 hospitalizations. Many of these infections are less serious, but the Centers for Disease Control and Prevention (CDC) estimates that there are 80,461 invasive MRSA infections and 11,285 deaths due to MRSA annually. In 2003, the cost for a hospitalization due to a MRSA was $92,363. A hospital stay for MSSA was $52,791 (USD).",
+            "score": 166.881854057312
+        },
+        {
+            "docid": "11469677_80",
+            "document": "Intensive animal farming . Methicillin-resistant Staphylococcus aureus (MRSA) has been identified in pigs and humans raising concerns about the role of pigs as reservoirs of MRSA for human infection. One study found that 20% of pig farmers in the United States and Canada in 2007 harbored MRSA. A second study revealed that 81% of Dutch pig farms had pigs with MRSA and 39% of animals at slaughter carried the bug were all of the infections were resistant to tetracycline and many were resistant to other antimicrobials. A more recent study found that MRSA ST398 isolates were less susceptible to tiamulin, an antimicrobial used in agriculture, than other MRSA or methicillin susceptible \"S. aureus\". Cases of MRSA have increased in livestock animals. CC398 is a new clone of MRSA that has emerged in animals and is found in intensively reared production animals (primarily pigs, but also cattle and poultry), where it can be transmitted to humans. Although dangerous to humans, CC398 is often asymptomatic in food-producing animals.",
+            "score": 172.28917288780212
+        },
+        {
+            "docid": "635885_12",
+            "document": "Clindamycin . Clindamycin may be useful in skin and soft tissue infections caused by methicillin-resistant \"Staphylococcus aureus\" (MRSA); many strains of MRSA are still susceptible to clindamycin; however, in the United States spreading from the West Coast eastwards, MRSA is becoming increasingly resistant.",
+            "score": 152.07356214523315
+        },
+        {
+            "docid": "118212_2",
+            "document": "Staphylococcus aureus . Staphylococcus aureus is a Gram-positive, round-shaped bacterium that is a member of the Firmicutes, and it is a member of the normal flora of the body, frequently found in the nose, respiratory tract, and on the skin. It is often positive for catalase and nitrate reduction and is a facultative anaerobe that can grow without the need for oxygen. Although \"S. aureus\" is not always pathogenic (and can commonly be found existing as a commensal), it is a common cause of skin infections including abscesses, respiratory infections such as sinusitis, and food poisoning. Pathogenic strains often promote infections by producing virulence factors such as potent protein toxins, and the expression of a cell-surface protein that binds and inactivates antibodies. The emergence of antibiotic-resistant strains of \"S. aureus\" such as methicillin-resistant \"S. aureus\" (MRSA) is a worldwide problem in clinical medicine. Despite much research and development, no vaccine for \"S. aureus\" has been approved.",
+            "score": 152.28676199913025
+        },
+        {
+            "docid": "14874273_6",
+            "document": "Dalbavancin . Dalbavancin is an antibiotic used to treat acute bacterial skin and skin structure infections (ABSSSI) in adults caused by susceptible Gram-positive organisms, including methicillin-resistant \"Staphylococcus aureus\" (MRSA). MRSA infections have become problematic in the community and in healthcare settings due to resistance to many available antibiotics. Because dalbavancin has demonstrated efficacy against MRSA and other microorganisms to treat serious or life-threatening infections, it was the first drug approved as a Qualified Infectious Disease Product under the Generating Antibiotic Incentives Now (GAIN) act, which is part of the FDA Safety and Innovation Act.",
+            "score": 161.40455389022827
+        },
+        {
+            "docid": "192595_8",
+            "document": "Methicillin-resistant Staphylococcus aureus . People who are hospitalized, including the elderly, are often immunocompromised and susceptible to infection of all kinds, including MRSA; when the infection is by MRSA this is called healthcare-associated or hospital-acquired methicillin-resistant \"S. aureus\" (HA-MRSA). Generally, those infected by MRSA will stay infected for just under 10 days, if treated by a doctor, although effects may vary from person to person.",
+            "score": 176.83415007591248
+        },
+        {
+            "docid": "118212_51",
+            "document": "Staphylococcus aureus . Resistance to methicillin is mediated via the \"mec\" operon, part of the staphylococcal cassette chromosome mec (SCC\"mec\"). Resistance is conferred by the \"mecA\" gene, which codes for an altered penicillin-binding protein (PBP2a or PBP2') that has a lower affinity for binding \u03b2-lactams (penicillins, cephalosporins, and carbapenems). This allows for resistance to all \u03b2-lactam antibiotics, and obviates their clinical use during MRSA infections. As such, the glycopeptide vancomycin is often deployed against MRSA.",
+            "score": 229.04950833320618
+        },
+        {
+            "docid": "34737722_6",
+            "document": "Vertebral osteomyelitis . A notable aspect of the disease is found in its ability to start anywhere in the body and spread to other regions through the bloodstream. A number of bacterial strains can enter the body in this manner, making the origin of the infection hard to trace; thus, for many patients with the infection, this characteristic can delay an accurate diagnosis and prolong suffering. The most common microorganism associated with vertebral osteomyelitis is the bacteria \"staphylococcus aureus\". Another strain of \"staphylococcus aureus\", commonly known as \"Methicillin-resistant Staphylococcus aureus\" (MRSA), is a particularly harmful microorganism that is more difficult to treat than other related strains. \"Streptococcus equisimilis\" may also be responsible for the onset of vertebral osteomyelitis, though it is thought to be less virulent than \"staphylococcus aureus\".",
+            "score": 121.84792637825012
+        },
+        {
+            "docid": "192595_14",
+            "document": "Methicillin-resistant Staphylococcus aureus . Locker rooms, gyms, and related athletic facilities offer potential sites for MRSA contamination and infection. Athletes have been identified as a high risk group. A study linked MRSA to the abrasions caused by artificial turf. Three studies by the Texas State Department of Health found the infection rate among football players was 16 times the national average. In October 2006, a high-school football player was temporarily paralyzed from MRSA-infected turf burns. His infection returned in January 2007 and required three surgeries to remove infected tissue, as well as three weeks of hospital stay. In 2013, Lawrence Tynes, Carl Nicks, and Johnthan Banks of the Tampa Bay Buccaneers were diagnosed with MRSA. Tynes and Nicks apparently did not contract the infection from each other, but it is unknown if Banks contracted it from either individual. In 2015, Los Angeles Dodgers' infielder Justin Turner was infected while the team visited the New York Mets. In October 2015, New York Giants tight end Daniel Fells was hospitalized with a serious MRSA infection.",
+            "score": 140.5992877483368
+        },
+        {
+            "docid": "192595_65",
+            "document": "Methicillin-resistant Staphylococcus aureus . In the United States, 95\u00a0million carry \"S. aureus\" in their noses; of these, 2.5\u00a0million (2.6% of carriers) carry MRSA. A population review conducted in three U.S. communities showed the annual incidence of CA-MRSA during 2001\u20132002 to be 18\u201325.7/100,000; most CA-MRSA isolates were associated with clinically relevant infections, and 23% of people required hospitalization.",
+            "score": 166.04833245277405
+        },
+        {
+            "docid": "53960307_4",
+            "document": "Andreas Peschel . Peschel's research focuses on the biology and pathogenicity of the bacterium \"Staphylococcus aureus\", a major cause of severe human infections. Multidrug-resistant \"S. aureus\" such as methicillin-resistant \"S. aureus\" (MRSA) represent a major cause of morbidity and mortality worldwide demanding new strategies for prevention and therapy of staphylococcal infections. The symptomless colonization of the human nose by \"S. aureus\" represents a major risk factor for invasive \"S. aureus\" infections. Peschel's laboratory pioneered research on the strategies used by \"S aureus\" to colonize the human nose and elude the immune system to cause infections. In 2016 his team demonstrated that many nasal bacteria produce antimicrobial compounds such as the novel antibiotic \"lugdunin\" that may become novel drugs against bacterial infections and may be used to prevent pathogen colonization. Peschel is a principal investigator of the German Center for Infection Research (DZIF), which connects basic and translational research on major infectious diseases.",
+            "score": 107.07123446464539
+        }
+    ],
+    "r": [
+        {
+            "docid": "192595_20",
+            "document": "Methicillin-resistant Staphylococcus aureus . Staphylococcal cassette chromosome \"mec\" (SCC\"mec\") is a genomic island of unknown origin containing the antibiotic resistance gene \"mecA\". SCC\"mec\" contains additional genes beyond \"mecA\", including the cytolysin gene \"psm-mec\", which may suppress virulence in HA-acquired MRSA strains. In addition this locus encodes strain dependent gene regulatory RNA called \"psm-mec\"RNA. SCC\"mec\" also contains \"ccrA\" and \"ccrB\"; both genes encode recombinases that mediate the site-specific integration and excision of the SCC\"mec\" element from the \"S. aureus\" chromosome. Currently, six unique SCC\"mec\" types ranging in size from 21\u201367 kb have been identified; they are designated types I-VI and are distinguished by variation in \"mec\" and \"ccr\" gene complexes. Owing to the size of the SCC\"mec\" element and the constraints of horizontal gene transfer, a minimum of five clones are thought to be responsible for the spread of MRSA infections, with clonal complex (CC) 8 most prevalent. SCC\"mec\" is thought to have originated in the closely related \"S. sciuri\" species and transferred horizontally to \"S. aureus.\"",
+            "score": 272.31683349609375
+        },
+        {
+            "docid": "192595_28",
+            "document": "Methicillin-resistant Staphylococcus aureus . Community-acquired MRSA (CA-MRSA) strains emerged in late 1990 to 2000, infecting healthy people who had not been in contact with health care facilities. Researchers suggest that CA-MRSA did not evolve from the HA-MRSA. This is further proven by molecular typing of CA-MRSA strains and genome comparison between CA-MRSA and HA-MRSA, which indicate that novel MRSA strains integrated SCC\"mec\" into MSSA separately on its own. By mid 2000, CA-MRSA was introduced into the health care systems and distinguishing CA-MRSA from HA-MRSA became a difficult process. Community-acquired MRSA is more easily treated and more virulent than hospital-acquired MRSA (HA-MRSA). The genetic mechanism for the enhanced virulence in CA-MRSA remains an active area of research. Especially the Panton\u2013Valentine leukocidin (PVL) genes are of interest because they are a unique feature of CA-MRSA.",
+            "score": 247.63494873046875
+        },
+        {
+            "docid": "192595_22",
+            "document": "Methicillin-resistant Staphylococcus aureus . These distinctions were thoroughly investigated by Collins et al. in 2001 and can be explained by the fitness differences associated with carriage of a large or small SCC\"mec\" plasmid. Carriage of large plasmids, such as SCC\"mec\"I-III, is costly to the bacteria, resulting in compensatory decrease in virulence expression. MRSA is able to thrive in hospital settings with increased antibiotic resistance but decreased virulence- HA-MRSA targets immunocompromised, hospitalized hosts, thus a decrease in virulence is not maladaptive. In contrast, CA-MRSA tends to carry lower fitness cost SCC\"mec\" elements to offset the increased virulence and toxicity expression required to infect healthy hosts.",
+            "score": 235.8986053466797
+        },
+        {
+            "docid": "192595_29",
+            "document": "Methicillin-resistant Staphylococcus aureus . In the United States, most cases of CA-MRSA are caused by a CC8 strain designated , which carries SCC\"mec\" type IV, Panton\u2013Valentine leukocidin, PSM-alpha and enterotoxins Q and K, and . The ST8:USA300 strain results in skin infections, necrotizing fasciitis and toxic shock syndrome, whereas the ST1:USA400 strain results in necrotizing pneumonia and pulmonary sepsis. Other community-acquired strains of MRSA are ST8:USA500 and ST59:USA1000. In many nations of the world, MRSA strains with different predominant genetic background types have come to predominate among CA-MRSA strains; USA300 easily tops the list in the U.S. and is becoming more common in Canada after its first appearance there in 2004. For example, in Australia ST93 strains are common, while in continental Europe ST80 strains, which carry SCC\"mec\" type IV, predominate. In Taiwan, ST59 strains, some of which are resistant to many non-beta-lactam antibiotics, have arisen as common causes of skin and soft tissue infections in the community. In a remote region of Alaska, unlike most of the continental U.S., USA300 was found rarely in a study of MRSA strains from outbreaks in 1996 and 2000 as well as in surveillance from 2004\u201306.",
+            "score": 235.06982421875
+        },
+        {
+            "docid": "192595_26",
+            "document": "Methicillin-resistant Staphylococcus aureus . Acquisition of SCC\"mec\" in methicillin-sensitive \"S. aureus\" (MSSA) gives rise to a number of genetically different MRSA lineages. These genetic variations within different MRSA strains possibly explain the variability in virulence and associated MRSA infections. The first MRSA strain, ST250 MRSA-1 originated from SCC\"mec\" and ST250-MSSA integration. Historically, major MRSA clones: ST2470-MRSA-I, ST239-MRSA-III, ST5-MRSA-II, and ST5-MRSA-IV were responsible for causing hospital-acquired MRSA (HA-MRSA) infections. ST239-MRSA-III, known as the Brazilian clone, was highly transmissible compared to others and distributed in Argentina, Czech Republic, and Portugal.",
+            "score": 230.23883056640625
+        },
+        {
+            "docid": "118212_51",
+            "document": "Staphylococcus aureus . Resistance to methicillin is mediated via the \"mec\" operon, part of the staphylococcal cassette chromosome mec (SCC\"mec\"). Resistance is conferred by the \"mecA\" gene, which codes for an altered penicillin-binding protein (PBP2a or PBP2') that has a lower affinity for binding \u03b2-lactams (penicillins, cephalosporins, and carbapenems). This allows for resistance to all \u03b2-lactam antibiotics, and obviates their clinical use during MRSA infections. As such, the glycopeptide vancomycin is often deployed against MRSA.",
+            "score": 229.0495147705078
+        },
+        {
+            "docid": "192595_21",
+            "document": "Methicillin-resistant Staphylococcus aureus . Different SCC\"mec\" genotypes confer different microbiological characteristics, such as different antimicrobial resistance rates. Different genotypes are also associated with different types of infections. Types I-III SCC\"mec\" are large elements that typically contain additional resistance genes and are characteristically isolated from HA-MRSA strains. Conversely, CA-MRSA is associated with types IV and V, which are smaller and lack resistance genes other than \"mecA\".",
+            "score": 222.9996795654297
+        },
+        {
+            "docid": "14276878_3",
+            "document": "Phenol-soluble modulin . MRSA production of PSMs is thought to be a possible cause of severe infections. PSM production is higher in community-acquired MRSA (CA-MRSA) than in healthcare-associated MRSA (HA-MRSA), and consequently CA-MRSA associated osteomyelitis is more severe than HA-MRSA associated osteomyelitis.",
+            "score": 221.1996307373047
+        },
+        {
+            "docid": "192595_27",
+            "document": "Methicillin-resistant Staphylococcus aureus . In the UK, the most common strains of MRSA are EMRSA15 and EMRSA16. EMRSA16 has been found to be identical to the ST36:USA200 strain, which circulates in the United States, and to carry the SCC\"mec\" type II, enterotoxin A and toxic shock syndrome toxin 1 genes. Under the new international typing system, this strain is now called MRSA252. EMRSA 15 is also found to be one of the common MRSA strains in Asia. Other common strains include ST5:USA100 and EMRSA 1. These strains are genetic characteristics of HA-MRSA.",
+            "score": 210.76724243164062
+        },
+        {
+            "docid": "14276878_2",
+            "document": "Phenol-soluble modulin . Phenol-soluble modulins (PSMs) are a family of protein toxins that are soluble in phenols that are produced by \"staphylococcus\" bacteria. In all species of \"Staphylococcus\", including \"Methicillin-resistant Staphylococcus Aureus\" (MRSA)\",\" they are encoded within the core genome and are an important virulence factor. As they are part of the core genome and not found on mobile genetic elements, all species of \"Staphylococcus\" carry these genes.",
+            "score": 195.68251037597656
+        },
+        {
+            "docid": "19372852_3",
+            "document": "MecA (gene) . The most commonly known carrier of the \"mecA\" gene is the bacterium known as Methicillin-resistant \"Staphylococcus aureus\" (MRSA). In \"Staphylococcus\" species, \"mecA\" is spread on the SCC\"mec\" genetic element. resistant strains are responsible for many infections originating in hospitals.",
+            "score": 193.36544799804688
+        },
+        {
+            "docid": "15243054_2",
+            "document": "ST8:USA300 . ST8:USA300 is a strain of community-associated methicillin-resistant \"Staphylococcus aureus\" (MRSA) that has emerged as a particularly antibiotic resistant epidemic that is responsible for rapidly progressive, fatal diseases including necrotizing pneumonia, severe sepsis and necrotizing fasciitis. The epidemiology of infections caused by MRSA is rapidly changing: in the past 10 years, infections caused by this organism have emerged in the community. The 2 MRSA clones in the United States most closely associated with community outbreaks, (MW2 strain, ST1 lineage) and USA300, often contain Panton-Valentine leukocidin (PVL) genes and, more frequently, have been associated with skin and soft tissue infections. Outbreaks of community-associated (CA)-MRSA infections have been reported in correctional facilities, among athletic teams, among military recruits, in newborn nurseries, and among sexually active homosexual men. CA-MRSA infections now appear to be endemic in many urban regions and cause most MRSA infections.",
+            "score": 189.94737243652344
+        },
+        {
+            "docid": "192595_2",
+            "document": "Methicillin-resistant Staphylococcus aureus . Methicillin-resistant \"Staphylococcus aureus\" (MRSA) ( or ) refers to a group of gram-positive bacteria that are genetically distinct from other strains of \"Staphylococcus aureus\". MRSA is responsible for several difficult-to-treat infections in humans. MRSA is any strain of \"S. aureus\" that has developed, through horizontal gene transfer and natural selection, multiple drug resistance to beta-lactam antibiotics. \u03b2-lactam antibiotics are a broad spectrum group which includes some penams \u2013 penicillin derivatives such as methicillin and oxacillin, and cephems such as the cephalosporins. Strains unable to resist these antibiotics are classified as methicillin-susceptible \"S. aureus\", or MSSA.",
+            "score": 187.01971435546875
+        },
+        {
+            "docid": "192595_18",
+            "document": "Methicillin-resistant Staphylococcus aureus . Like all \"S. aureus\" (also abbreviated SA at times), methicillin-resistant \"S. aureus\" (MRSA) is a gram-positive, spherical (coccus) bacterium that is about 1 micron in diameter. It does not form spores and it is non-motile. It forms grape-like clusters or chains. Unlike Methicillin-susceptible \"S. aureus\" (MSSA), MRSA is slower growing on a variety of media and has been found to exist in mixed colonies of MSSA. The mecA gene, which confers the resistance to a number of antibiotics is present in MRSA and not in MSSA. In some instances, the mecA gene is present in MSSA but is not expressed. Polymerase chain reaction (PCR) testing is the most precise method in identifying MRSA strains. Specialized culture media have been developed to better differentiate between MSSA and MRSA and in some cases, it will identify specific strains that are resistant to different antibiotics. Other strains of \"S. aureus \" have emerged that are resistant to oxacillin, clindamycin, teicoplanin, and erythromycin. These resistant strains may or may not possess the mecA gene. \"S. aureus \" has also developed resistance to vancomycin (VRSA). One strain is only partially susceptible to vancomycin and is called vancomycin-intermediate \"S. aureus\" (VISA). GISA is a strain of resistant S. aureus and stands for glycopeptide-intermediate \"S. aureus\" and is less suspectible to vancomycin and teicoplanin. Resistance to antibiotics in \"S. aureus\" can be quantified. This done by determining the amount of the antibiotic in micrograms/milliliter must be used to inhibit growth. If S. aureus is inhibited at a concentration of vancomycin of less than or equal to 4 micrograms/milliliter, it is said to be susceptible. If a concentration of greater than 32 micrograms/milliliter is necessary to inhibit growth, it is said to be resistant.",
+            "score": 186.60702514648438
+        },
+        {
+            "docid": "192595_3",
+            "document": "Methicillin-resistant Staphylococcus aureus . MRSA is common in hospitals, prisons, and nursing homes, where people with open wounds, invasive devices such as catheters, and weakened immune systems are at greater risk of hospital-acquired infection. MRSA began as a hospital-acquired infection, but has become community-acquired as well as livestock-acquired. The terms HA-MRSA (healthcare-associated or hospital-acquired MRSA), CA-MRSA (community-associated MRSA) and LA-MRSA (livestock-associated) reflect this.",
+            "score": 182.71762084960938
+        },
+        {
+            "docid": "4106560_12",
+            "document": "Emerging infectious disease . Methicillin-resistant Staphylococcus aureus (MRSA) evolved from Methicillin-susceptible Staphylococcus aureus (MSSA) otherwise known as common \"S. aureus\". Many people are natural carriers of \"S. aureus\", without being affected in any way. MSSA was treatable with the antibiotic methicillin until it acquired the gene for antibiotic resistance. Though genetic mapping of various strains of MRSA, scientists have found that MSSA acquired the mecA gene in the 1960s, which accounts for its pathogenicity, before this it had a predominantly commensal relationship with humans. It is theorized that when this \"S. aureus\" strain that had acquired the mecA gene was introduced into hospitals, it came into contact with other hospital bacteria that had already been exposed to high levels of antibiotics. When exposed to such high levels of antibiotics, the hospital bacteria suddenly found themselves in an environment that had a high level of selection for antibiotic resistance, and thus resistance to multiple antibiotics formed within these hospital populations. When \"S. aureus\" came into contact with these populations, the multiple genes that code for antibiotic resistance to different drugs were then acquired by MRSA, making it nearly impossible to control. It is thought that MSSA acquired the resistance gene through the horizontal gene transfer, a method in which genetic information can be passed within a generation, and spread rapidly through its own population as was illustrated in multiple studies. Horizontal gene transfer speeds the process of genetic transfer since there is no need to wait an entire generation time for gene to be passed on. Since most antibiotics do not work on MRSA, physicians have to turn to alternative methods based in Darwinian medicine. However prevention is the most preferred method of avoiding antibiotic resistance. By reducing unnecessary antibiotic use in human and animal populations, antibiotics resistance can be slowed.",
+            "score": 179.58091735839844
+        },
+        {
+            "docid": "192595_70",
+            "document": "Methicillin-resistant Staphylococcus aureus . The first report of community-associated MRSA (CA-MRSA) occurred in 1981, and in 1982 there was a large outbreak of CA-MRSA among intravenous drug users in Detroit, Michigan. Additional outbreaks of CA-MRSA were reported through the 1980s and 1990s, including outbreaks among Australian Aboriginal populations that had never been exposed to hospitals. In the mid-1990s there were scattered reports of CA-MRSA outbreaks among US children. While HA-MRSA rates stabilized between 1998 and 2008, CA-MRSA rates continued to rise. A report released by the University of Chicago Children's Hospital comparing two time periods (1993\u20131995 and 1995\u20131997) found a 25-fold increase in the rate of hospitalizations due to MRSA among children in the United States. In 1999 the University of Chicago reported the first deaths from invasive MRSA among otherwise healthy children in the United States. By 2004, the genome for various strains of MRSA were described.",
+            "score": 179.51718139648438
+        },
+        {
+            "docid": "192595_44",
+            "document": "Methicillin-resistant Staphylococcus aureus . Both CA-MRSA and HA-MRSA are resistant to traditional anti-staphylococcal beta-lactam antibiotics, such as cephalexin. CA-MRSA has a greater spectrum of antimicrobial susceptibility to sulfa drugs (like co-trimoxazole (trimethoprim/sulfamethoxazole), tetracyclines (like doxycycline and minocycline) and clindamycin (for osteomyelitis). MRSA can be eradicated with a regimen of linezolid, though treatment protocols vary and serum levels of antibiotics vary widely person to person and may affect outcomes. The effective treatment of MRSA with linezolid has been successful in 87% of people. Linezolid is more effective in soft tissue infections than vancomycin. This is compared to eradication of infection in those with MRSA treated with vancomycin. Treatment with vancomycin is successful in approximately 49% of people. Linezolid belongs to the newer oxazolidinone class of antibiotics which has been shown to be effective against both CA-MRSA and HA-MRSA. The Infectious Disease Society of America recommends vancomycin, linezolid, or clindamycin (if susceptible) for treating those with MRSA pneumonia. Ceftaroline, a fifth-generation cephalosporin, is the first beta-lactam antibiotic approved in the US to treat MRSA infections in skin and soft tissue or community acquired pneumonia.",
+            "score": 179.166259765625
+        },
+        {
+            "docid": "192595_8",
+            "document": "Methicillin-resistant Staphylococcus aureus . People who are hospitalized, including the elderly, are often immunocompromised and susceptible to infection of all kinds, including MRSA; when the infection is by MRSA this is called healthcare-associated or hospital-acquired methicillin-resistant \"S. aureus\" (HA-MRSA). Generally, those infected by MRSA will stay infected for just under 10 days, if treated by a doctor, although effects may vary from person to person.",
+            "score": 176.8341522216797
+        },
+        {
+            "docid": "11469677_80",
+            "document": "Intensive animal farming . Methicillin-resistant Staphylococcus aureus (MRSA) has been identified in pigs and humans raising concerns about the role of pigs as reservoirs of MRSA for human infection. One study found that 20% of pig farmers in the United States and Canada in 2007 harbored MRSA. A second study revealed that 81% of Dutch pig farms had pigs with MRSA and 39% of animals at slaughter carried the bug were all of the infections were resistant to tetracycline and many were resistant to other antimicrobials. A more recent study found that MRSA ST398 isolates were less susceptible to tiamulin, an antimicrobial used in agriculture, than other MRSA or methicillin susceptible \"S. aureus\". Cases of MRSA have increased in livestock animals. CC398 is a new clone of MRSA that has emerged in animals and is found in intensively reared production animals (primarily pigs, but also cattle and poultry), where it can be transmitted to humans. Although dangerous to humans, CC398 is often asymptomatic in food-producing animals.",
+            "score": 172.28916931152344
+        },
+        {
+            "docid": "52390011_11",
+            "document": "Feline zoonosis . MRSA is a common type of bacteria that is normally found on the skin of people and cats. Methicillin-resistant Staphylococcus aureus (MRSA) is the same bacterium that has become resistant to some antibiotics. Cats and other animals often can carry MRSA without being sick, but MRSA can cause a variety of infections, including of the skin, respiratory tract, and urinary tract of people. MRSA can be transmitted back and forth between people and animals through direct contact. In people, MRSA most often causes skin infections that can range from mild to severe. If left untreated, MRSA can spread to the bloodstream or lungs and cause life-threatening infections.",
+            "score": 172.01382446289062
+        },
+        {
+            "docid": "192595_60",
+            "document": "Methicillin-resistant Staphylococcus aureus . In a US cohort study of 1300 healthy children, 2.4% carried MRSA in their nose. Bacterial sepsis occurs with most (75%) of cases of invasive MRSA infection. In 2009, there were an estimated 463,017 hospitalization due to MRSA or a rate of 11.74 per 1,000 hospitalizations. Many of these infections are less serious, but the Centers for Disease Control and Prevention (CDC) estimates that there are 80,461 invasive MRSA infections and 11,285 deaths due to MRSA annually. In 2003, the cost for a hospitalization due to a MRSA was $92,363. A hospital stay for MSSA was $52,791 (USD).",
+            "score": 166.88185119628906
+        },
+        {
+            "docid": "192595_69",
+            "document": "Methicillin-resistant Staphylococcus aureus . In 1961 the first known MRSA isolates were reported in a British study, and from 1961 to 1967 there were infrequent hospital outbreaks in Western Europe and Australia, with methicillin then being licensed in England to treat resistant infections. Other reports of MRSA began to be described in the 1970s. Resistance to other antibiotics was documented in some strains of S. aureus. In 1996, vancomycin resistance was reported in Japan. In many countries, outbreaks of MRSA infection was reported to be transmitted between hospitals. The rate had increased to 22% by 1995, and by 1997 the percent of hospital \"S. aureus\" infections attributable to MRSA had reached 50%.",
+            "score": 166.8721466064453
+        },
+        {
+            "docid": "192595_65",
+            "document": "Methicillin-resistant Staphylococcus aureus . In the United States, 95\u00a0million carry \"S. aureus\" in their noses; of these, 2.5\u00a0million (2.6% of carriers) carry MRSA. A population review conducted in three U.S. communities showed the annual incidence of CA-MRSA during 2001\u20132002 to be 18\u201325.7/100,000; most CA-MRSA isolates were associated with clinically relevant infections, and 23% of people required hospitalization.",
+            "score": 166.04832458496094
+        },
+        {
+            "docid": "192595_54",
+            "document": "Methicillin-resistant Staphylococcus aureus . CA-MRSA in hospitalized patients pneumonia treatment begins before culture results. After the susceptibility to antibiotics is performed, the infection may be treated with vancomycin or linezolid for up to 21 days. If the pneumonia is complicated by the accumulation of pus in the pleural cavity surrounding the lungs, drainage may be done along with antibiotic therapy. People with cystic fibrosis may develop respiratory complications related to MRSA infection. The incidence of MRSA in those with cystic fibrosis increased during 2000 to 2015 by five times. Most of these infections were HA-MRSA. MRSA accounts for 26% of lung infections in those with cystic fibrosis.",
+            "score": 164.20791625976562
+        },
+        {
+            "docid": "118212_48",
+            "document": "Staphylococcus aureus . MRSA, often pronounced or , is one of a number of greatly feared strains of \"S. aureus\" which have become resistant to most \u03b2-lactam antibiotics. For this reason, vancomycin, a glycopeptide antibiotic, is commonly used to combat MRSA. Vancomycin inhibits the synthesis of peptidoglycan, but unlike \u03b2-lactam antibiotics, glycopeptide antibiotics target and bind to amino acids in the cell wall, preventing peptidoglycan cross-linkages from forming. MRSA strains are most often found associated with institutions such as hospitals, but are becoming increasingly prevalent in community-acquired infections.",
+            "score": 163.30172729492188
+        },
+        {
+            "docid": "25894745_21",
+            "document": "Center for Disease Dynamics, Economics &amp; Policy . ETC research featured in the CDC's Emerging Infectious Diseases also received widespread national media coverage. The study found the community-associated strain of the deadly superbug MRSA\u2014an infection-causing bacteria resistant to most common antibiotics\u2014poses a far greater health threat than previously known and is making its way into hospitals. The new threat is easily picked up in fitness centers, schools, and other public places and has increased the overall burden of MRSA within hospitals. The study analyzed data from more than 300 microbiology labs serving hospitals all over the United States, found a seven-fold increase in the proportion of \"community-associated\" strains of methicillin-resistant Staphylococcus aureus, or MRSA, in outpatient hospital units between 1999 and 2006.",
+            "score": 163.12698364257812
+        },
+        {
+            "docid": "6802352_2",
+            "document": "Panton\u2013Valentine leukocidin . Panton\u2013Valentine leukocidin (PVL) is a cytotoxin\u2014one of the \u03b2-pore-forming toxins. The presence of PVL is associated with increased virulence of certain strains (isolates) of \"Staphylococcus aureus\". It is present in the majority of community-associated Methicillin-resistant \"Staphylococcus aureus\" (CA-MRSA) isolates studied  and is the cause of necrotic lesions involving the skin or mucosa, including necrotic hemorrhagic pneumonia.  PVL creates pores in the membranes of infected cells. PVL is produced from the genetic material of a bacteriophage that infects \"Staphylococcus aureus\", making it  more virulent.",
+            "score": 162.70733642578125
+        },
+        {
+            "docid": "14874273_6",
+            "document": "Dalbavancin . Dalbavancin is an antibiotic used to treat acute bacterial skin and skin structure infections (ABSSSI) in adults caused by susceptible Gram-positive organisms, including methicillin-resistant \"Staphylococcus aureus\" (MRSA). MRSA infections have become problematic in the community and in healthcare settings due to resistance to many available antibiotics. Because dalbavancin has demonstrated efficacy against MRSA and other microorganisms to treat serious or life-threatening infections, it was the first drug approved as a Qualified Infectious Disease Product under the Generating Antibiotic Incentives Now (GAIN) act, which is part of the FDA Safety and Innovation Act.",
+            "score": 161.40455627441406
+        },
+        {
+            "docid": "4522192_3",
+            "document": "Oxacillin . Oxacillin is a penicillinase-resistant \u03b2-lactam. It is similar to methicillin, and has replaced methicillin in clinical use. Other related compounds are nafcillin, cloxacillin, dicloxacillin, and flucloxacillin. Since it is resistant to penicillinase enzymes, such as that produced by \"Staphylococcus aureus\", it is widely used clinically in the US to treat penicillin-resistant \"Staphylococcus aureus\". However, with the introduction and widespread use of both oxacillin and methicillin, antibiotic-resistant strains called methicillin-resistant and oxacillin-resistant \"Staphylococcus aureus\" (MRSA/ORSA) have become increasingly prevalent worldwide. MRSA/ORSA is treated using vancomycin.",
+            "score": 159.3255157470703
+        },
+        {
+            "docid": "192595_11",
+            "document": "Methicillin-resistant Staphylococcus aureus . Prisons, and military barracks, can be crowded and confined, and poor hygiene practices may proliferate, thus putting inhabitants at increased risk of contracting MRSA. Cases of MRSA in such populations were first reported in the United States, and then in Canada. The earliest reports were made by the Center for Disease Control (CDC) in US state prisons. In the news media, hundreds of reports of MRSA outbreaks in prisons appeared between 2000 and 2008. For example, in February 2008, the Tulsa County jail in Oklahoma started treating an average of 12 \"S. aureus\" cases per month. A report on skin and soft tissue infections in the Cook County jail in Chicago in 2004\u201305 demonstrated MRSA was the most common cause of these infections among cultured lesions, and few risk factors were more strongly associated with MRSA infections than infections caused by methicillin-susceptible\" S. aureus\". In response to these and many other reports on MRSA infections among incarcerated and recently incarcerated persons, the Federal Bureau of Prisons has released guidelines for the management and control of the infections, although few studies provide an evidence base for these guidelines. During a recent study in Fort Benning Georgia, a variety of military recruits both healthy and those suffering from soft tissue infections were tested for MRSA as well as other pathogens. The researchers determined that a significant portion of trainees were either asymptomatic carriers of MRSA or that MRSA was the cause of their infection.",
+            "score": 158.22686767578125
+        },
+        {
+            "docid": "192595_71",
+            "document": "Methicillin-resistant Staphylococcus aureus . It has been argued that the observed increased mortality among MRSA-infected people may be the result of the increased underlying morbidity of these people. Several studies, however, including one by Blot and colleagues, that have adjusted for underlying disease still found MRSA bacteremia to have a higher attributable mortality than methicillin-susceptible \"S. aureus\" (MSSA) bacteremia.",
+            "score": 156.7420196533203
+        }
+    ]
+}

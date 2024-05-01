@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "401150_15",
+            "document": "Photoreceptor cell . The process of phototransduction occurs in the retina. The retina has many layers of various cell types. The best-known photoreceptor cells (\"rods\" and \"cones\") form the outermost layer. They are the photoreceptors responsible for sight. The middle layer contains bipolar cells, which collect neural signals from the rods and the cones and then transmit them to the innermost layer of the retina, where the neurons called retinal ganglion cells (RGCs), a small percentage of which are themselves photosensitive, organize the signals and send them to the brain.",
+            "score": 357.39162731170654
+        },
+        {
+            "docid": "27250366_2",
+            "document": "Retinal summation . Retinal summation describes the relationship between different types of cells in the retina: cone photoreceptor cells, bipolar cells, and ganglion cells. With high retinal summation, a large number of photoreceptor cells converge on a smaller number of bipolar cells in transferring their signals to ganglion cells. Zero summation occurs when each cone photoreceptor cell contacts a single ganglion cell via a single bipolar cell.",
+            "score": 341.21323013305664
+        },
+        {
+            "docid": "608751_6",
+            "document": "Pinealocyte . A common theory on the evolution of pinealocytes is that they evolved from photoreceptor cells. It is speculated that in ancestral vertebrates, the pinealocytes served the same function as photoreceptor cells, such as retinal cells. Structural, functional, and genetic similarities exist between the two cell types. Structurally, both develop from the area of the brain designated the diencephalon, also the area containing the thalamus and hypothalamus, during embryological development. Both types of cells have similar features, including cilia, folded membranes, and polarity. Functional evidence for this theory of evolution can be seen in lower vertebrates. The retention of photosensitivity of the pinealocytes of lampreys, fish, amphibians, reptiles, and birds and the secretion of melatonin by some of these lower vertebrates suggests that pinealocytes may have once served as photoreceptor cells. Researchers have also indicated the presence of several proteins found in the retina in the pinealocytes in chicken and fish. Genetic evidence demonstrates that phototransduction genes present in the DNA of the retina are also present in the DNA of pinealocytes.",
+            "score": 326.8417123556137
+        },
+        {
+            "docid": "801776_2",
+            "document": "Retinal ganglion cell . A retinal ganglion cell (RGC) is a type of neuron located near the inner surface (the ganglion cell layer) of the retina of the eye. It receives visual information from photoreceptors via two intermediate neuron types: bipolar cells and retina amacrine cells. Retina amacrine cells, particularly narrow field cells, are important for creating functional subunits within the ganglion cell layer and making it so that ganglion cells can observe a small dot moving a small distance. Retinal ganglion cells collectively transmit image-forming and non-image forming visual information from the retina in the form of action potential to several regions in the thalamus, hypothalamus, and mesencephalon, or midbrain.",
+            "score": 303.86064755916595
+        },
+        {
+            "docid": "305136_18",
+            "document": "Visual system . In the retina, the photoreceptors synapse directly onto bipolar cells, which in turn synapse onto ganglion cells of the outermost layer, which will then conduct action potentials to the brain. A significant amount of visual processing arises from the patterns of communication between neurons in the retina. About 130 million photo-receptors absorb light, yet roughly 1.2 million axons of ganglion cells transmit information from the retina to the brain. The processing in the retina includes the formation of center-surround receptive fields of bipolar and ganglion cells in the retina, as well as convergence and divergence from photoreceptor to bipolar cell. In addition, other neurons in the retina, particularly horizontal and amacrine cells, transmit information laterally (from a neuron in one layer to an adjacent neuron in the same layer), resulting in more complex receptive fields that can be either indifferent to color and sensitive to motion or sensitive to color and indifferent to motion.",
+            "score": 331.137971162796
+        },
+        {
+            "docid": "38663170_2",
+            "document": "Retinal precursor cells . Retinal precursor cells are biological cells that differentiate into the various cell types of the retina during development. In the vertebrate, these retinal cells differentiate into seven cell types, including retinal ganglion cells, amacrine cells, bipolar cells, horizontal cells, rod photoreceptors, cone photoreceptors, and M\u00fcller glia cells. During embryogenesis, retinal cells originate from the anterior portion of the neural plate termed the eye field. Eye field cells with a retinal fate express several transcription factor markers including Rx1, Pax6, and Lhx2. The eye field gives rise to the optic vesicle and then to the optic cup. The retina is generated from the precursor cells within the inner layer of the optic cup, as opposed to the retinal pigment epithelium that originate from the outer layer of the optic cup. In general, the developing retina is organized so that the least-committed precursor cells are located in the periphery of the retina, while the committed cells are located in the center of the retina. The differentiation of retinal precursor cells into the mature cell types found in the retina is coordinated in time and space by factors within the cell as well as factors in the environment of the cell. One example of an intrinsic regulator of this process is the transcription factor Ath5. Ath5 expression in retinal progenitor cells biases their differentiation into a retinal ganglion cell fate. An example of an environmental factor is the morphogen sonic hedge hog (Shh). Shh has been shown to repress the differentiation of precursor cells into retinal ganglion cells.",
+            "score": 295.43141889572144
+        },
+        {
+            "docid": "21120_26",
+            "document": "Neuron . The distinction between excitatory and inhibitory neurotransmitters is not absolute, however. Rather, it depends on the class of chemical receptors present on the postsynaptic neuron. In principle, a single neuron, releasing a single neurotransmitter, can have excitatory effects on some targets, inhibitory effects on others, and modulatory effects on others still. For example, photoreceptor cells in the retina constantly release the neurotransmitter glutamate in the absence of light. So-called OFF bipolar cells are, like most neurons, excited by the released glutamate. However, neighboring target neurons called ON bipolar cells are instead \"inhibited\" by glutamate, because they lack the typical ionotropic glutamate receptors and instead express a class of inhibitory metabotropic glutamate receptors. When light is present, the photoreceptors cease releasing glutamate, which relieves the ON bipolar cells from inhibition, activating them; this simultaneously removes the excitation from the OFF bipolar cells, silencing them.",
+            "score": 299.01023375988007
+        },
+        {
+            "docid": "1017131_5",
+            "document": "Retina bipolar cell . In the dark, a photoreceptor (rod/cone) cell will release glutamate, which inhibits (hyperpolarizes) the ON bipolar cells and excites (depolarizes) the OFF bipolar cells. In light, however, light strikes the photoreceptor which causes the photoreceptor to be inhibited (hyperpolarized) due to the activation of opsins which activate All trans-Retinal, giving energy to stimulate G-Protein coupled receptors to activate phosphodiesterase (PDE) which cleaves cGMP into 5'-GMP. In photoreceptor cells, there is an abundance of cGMP in dark conditions, keeping cGMP-gated Na channels open and so, activating PDE diminishes the supply of cGMP, reducing the number of open Na channels and thus hyperpolarizing the photoreceptor cell, causing less glutamate to be released. This causes the ON bipolar cell to lose its inhibition and become active (depolarized), while the OFF bipolar cell loses its excitation (becomes hyperpolarized) and becomes silent.",
+            "score": 323.4720153808594
+        },
+        {
+            "docid": "48334_3",
+            "document": "Retina . The retina consists of several layers of neurons interconnected by synapses. The neural retina refers to the three layers of neural cells (photo receptor cells, bipolar cells, and ganglion cells) within the retina, which in its entirety comprises ten distinct layers, including an outer layer of pigmented epithelial cells. The only neural cells that are directly sensitive to light are the photoreceptor cells, which are of two types: rods and cones. Rods function mainly in dim light and provide black-and-white vision while cones are responsible for the perception of colour. A third type of photoreceptor, the photosensitive ganglion cells, is important for entrainment and reflexive responses to the brightness of light.",
+            "score": 334.19280457496643
+        },
+        {
+            "docid": "1389391_4",
+            "document": "Opponent process . Besides the cones, which detect light entering the eye, the biological basis of the opponent theory involves two other types of cells: bipolar cells, and ganglion cells. Information from the cones is passed to the bipolar cells in the retina, which may be the cells in the opponent process that transform the information from cones. The information is then passed to ganglion cells, of which there are two major classes: magnocellular, or large-cell layers, and parvocellular, or small-cell layers. Parvocellular cells, or P cells, handle the majority of information about color, and fall into two groups: one that processes information about differences between firing of L and M cones, and one that processes differences between S cones and a combined signal from both L and M cones. The first subtype of cells are responsible for processing red\u2013green differences, and the second process blue\u2013yellow differences. P cells also transmit information about intensity of light (how much of it there is) due to their receptive fields.",
+            "score": 287.31674551963806
+        },
+        {
+            "docid": "27110987_12",
+            "document": "Gene therapy of the human retina . The vertebrate neural retina composed of several layers and distinct cell types (see anatomy of the human retina). A number of these cell types are implicated in retinal diseases, including retinal ganglion cells, which degenerate in glaucoma, the rod and cone photoreceptors, which are responsive to light and degenerate in retinitis pigmentosa, macular degeneration, and other retinal diseases, and the retinal pigment epithelium (RPE), which supports the photoreceptors and is also implicated in retinitis pigmentosa and macular degeneration.",
+            "score": 283.12764024734497
+        },
+        {
+            "docid": "42073672_46",
+            "document": "Neuronal self-avoidance . Considering that \"Dscam\" and \"Dscaml1\" have non-overlapping expression patterns in the mouse retina, with \"Dscam\" being expressed in a subset of amacrine cells and most retinal ganglion cells (RGC) and \"Dscaml1\" expressed in the rod circuit, Fuerst et al. (2009) examined retinal ganglion cell populations in \"Dscam\" mice and, in addition, assessed retinal anatomy in the rod circuit using a gene-trap-knockout allele of \"Dscaml1\". In the absence of either gene, the cells that would normally express it showed excessive fasciculation of their dendrites and clumping of their cell bodies. These findings led to the conclusion that \"Dscam\" and \"Dscaml1\" prevent excessive adhesion, primarily by masking cell-type-specific adhesive interactions between dendrites of the same cell class, rather than actively promoting repulsion between them. Thus, in the absence of diversity, mammalian DSCAMs do not provide cells with the ability to distinguish between their own processes and the processes of all other cells, including processes from cells of the same type. Instead, DSCAM acts to negate cell-type-specific interactions that are promoted by other recognition molecules.",
+            "score": 230.73498570919037
+        },
+        {
+            "docid": "152611_11",
+            "document": "Cellular differentiation . Each specialized cell type in an organism expresses a subset of all the genes that constitute the genome of that species. Each cell type is defined by its particular pattern of regulated gene expression. Cell differentiation is thus a transition of a cell from one cell type to another and it involves a switch from one pattern of gene expression to another. Cellular differentiation during development can be understood as the result of a gene regulatory network. A regulatory gene and its cis-regulatory modules are nodes in a gene regulatory network; they receive input and create output elsewhere in the network. The systems biology approach to developmental biology emphasizes the importance of investigating how developmental mechanisms interact to produce predictable patterns (morphogenesis). (However, an alternative view has been proposed recently. Based on stochastic gene expression, cellular differentiation is the result of a Darwinian selective process occurring among cells. In this frame, protein and gene networks are the result of cellular processes and not their cause. See: Cellular Darwinism) A few evolutionarily conserved types of molecular processes are often involved in the cellular mechanisms that control these switches. The major types of molecular processes that control cellular differentiation involve cell signaling. Many of the signal molecules that convey information from cell to cell during the control of cellular differentiation are called growth factors. Although the details of specific signal transduction pathways vary, these pathways often share the following general steps. A ligand produced by one cell binds to a receptor in the extracellular region of another cell, inducing a conformational change in the receptor. The shape of the cytoplasmic domain of the receptor changes, and the receptor acquires enzymatic activity. The receptor then catalyzes reactions that phosphorylate other proteins, activating them. A cascade of phosphorylation reactions eventually activates a dormant transcription factor or cytoskeletal protein, thus contributing to the differentiation process in the target cell. Cells and tissues can vary in competence, their ability to respond to external signals.",
+            "score": 240.43854641914368
+        },
+        {
+            "docid": "801776_5",
+            "document": "Retinal ganglion cell . The six types of retinal neurons are bipolar cells, ganglion cells, horizontal cells, retina amacrine cells, and rod and cone photoreceptors.",
+            "score": 288.086163520813
+        },
+        {
+            "docid": "22671435_7",
+            "document": "Retinal degeneration (rhodopsin mutation) . RP begins with death of rod photoreceptor cells, which are the only cells in the retina to express rhodopsin and which express it as their most abundant protein. Eventually, loss of rod cells leads to loss of cone cells (cone photoreceptors), the mainstay of human vision. Symptoms of RP include loss of sensitivity to dim light, abnormal visual function, and characteristic bone spicule deposits of pigment in the retina. Affected individuals progressively lose visual field and visual acuity, and photoreceptor cell death can ultimately lead to blindness. A prominent early clinical feature of retinitis pigmentosa is the loss of night vision as a result of death of rod photoreceptor cells. Proper expression of the wild-type rhodopsin gene is essential for the development and sustained function of photoreceptor cells.",
+            "score": 278.94771432876587
+        },
+        {
+            "docid": "1017131_2",
+            "document": "Retina bipolar cell . As a part of the retina, bipolar cells exist between photoreceptors (rod cells and cone cells) and ganglion cells. They act, directly or indirectly, to transmit signals from the photoreceptors to the ganglion cells.",
+            "score": 301.40698981285095
+        },
+        {
+            "docid": "401150_3",
+            "document": "Photoreceptor cell . There are currently three known types of photoreceptor cells in mammalian eyes: rods, cones, and photosensitive retinal ganglion cells. The two classic photoreceptor cells are rods and cones, each contributing information used by the visual system to form a representation of the visual world, sight. The rods are narrower than the cones and distributed differently across the retina, but the chemical process in each that supports phototransduction is similar. A third class of mammalian photoreceptor cell was discovered during the 1990s: the photosensitive ganglion cells. These cells do not contribute to sight directly, but are thought to support circadian rhythms and pupillary reflex.",
+            "score": 277.5667631626129
+        },
+        {
+            "docid": "401150_34",
+            "document": "Photoreceptor cell . Further complexity arises from the various interconnections among bipolar cells, horizontal cells, and amacrine cells in the retina. The final result is differing populations of ganglion cells in the retina, a sub-population of which is also intrinsically photosensitive, using the photopigment melanopsin.",
+            "score": 274.91040897369385
+        },
+        {
+            "docid": "21280496_32",
+            "document": "Visual perception . Transduction is the process through which energy from environmental stimuli is converted to neural activity for the brain to understand and process. The back of the eye contains three different cell layers: photoreceptor layer, bipolar cell layer and ganglion cell layer. The photoreceptor layer is at the very back and contains rod photoreceptors and cone photoreceptors. Cones are responsible for color perception. There are three different cones: red, green and blue. Rods, are responsible for the perception of objects in low light. Photoreceptors contain within them a special chemical called a photopigment, which are embedded in the membrane of the lamellae; a single human rod contains approximately 10 million of them. The photopigment molecules consist of two parts: an opsin (a protein) and retinal (a lipid). There are 3 specific photopigments (each with their own color) that respond to specific wavelengths of light. When the appropriate wavelength of light hits the photoreceptor, its photopigment splits into two, which sends a message to the bipolar cell layer, which in turn sends a message to the ganglion cells, which then send the information through the optic nerve to the brain. If the appropriate photopigment is not in the proper photoreceptor (for example, a green photopigment inside a red cone), a condition called color vision deficiency will occur.",
+            "score": 344.2850422859192
+        },
+        {
+            "docid": "38154621_4",
+            "document": "Retinal regeneration . Zebrafish, like other teleost fish, possess the innate ability to regenerate retinal damage. This ability combined with the considerable similarity between teleost and mammalian retinal structure makes zebrafish an attractive model for the study of retinal regeneration. Muller glia are a type of glial cell present in both the teleost and mammalian retina. Retinal regeneration in zebrafish is mediated by Muller glia, which dedifferentiate into stem-like cells and proliferate into neural progenitor cells in response to retinal damage. While Muller glia division is responsible for the regeneration of the retina in all cases of retinal damage, the case of photoreceptor loss due to light damage is particularly well characterized. In response to photoreceptor ablation, Muller glia dedifferentiate and undergo a single asymmetric division to produce a neural progenitor cell and a new Muller glia cell. The neural progenitor cell proliferates to form a cluster of neural progenitors, which migrate to the outer nuclear layer of the retina and differentiate into photoreceptors to replace the lost cells. This process restores retinal function to the injured fish. Understanding the underlying mechanisms may provide insight into treatment options for degenerative retinal diseases in mammals.",
+            "score": 280.8993055820465
+        },
+        {
+            "docid": "27110987_14",
+            "document": "Gene therapy of the human retina . AAV is capable of transducing multiple cell types within the retina. AAV serotype 2, the most well-studied type of AAV, is commonly administered in one of two routes: intravitreal or subretinal. Using the intravitreal route, AAV is injected in the vitreous humor of the eye. Using the subretinal route, AAV is injected underneath the retina, taking advantage of the potential space between the photoreceptors and RPE layer, in a short surgical procedure. Although this is more invasive than the intravitreal route, the fluid is absorbed by the RPE and the retina flattens in less than 14 hours without complications. Intravitreal AAV targets retinal ganglion cells and a few Muller glial cells. Subretinal AAV efficiently targets photoreceptors and RPE cells.",
+            "score": 264.805860042572
+        },
+        {
+            "docid": "1017131_3",
+            "document": "Retina bipolar cell . Bipolar cells are so-named as they have a central body from which two sets of processes arise. They can synapse with either rods or cones (rod/cone mixed input BCs have been found in teleost fish but not mammals), and they also accept synapses from horizontal cells. The bipolar cells then transmit the signals from the photoreceptors or the horizontal cells, and pass it on to the ganglion cells directly or indirectly (via amacrine cells). Unlike most neurons, bipolar cells communicate via graded potentials, rather than action potentials.",
+            "score": 293.3752909898758
+        },
+        {
+            "docid": "42064066_20",
+            "document": "Proneural genes . The proneural protein Atonal (Ato) is responsible for the development of \"Drosophila\u2019s\" R8 photoreceptors. However, it does not act alone, since it dimerizes with a second identical protein, \u2018\u2019Daughterless (Da)\u2019\u2019 that reinforces its expression. The coexpression of \u2018\u2019Ato\u2019\u2019 and \u2018\u2019Da\u2019\u2019 is important for the migration of the different cell types of an ommatidium and for the repression of atonal in the inter-cluster spaces, functioning as inhibitory signals that regulate both the number and position of the nascent R8 cells. Moreover, this expression leads to the activation of the kinase MAPK that is important for the cellular recruitment and the repressor effect, once, when this kinase is inactive the expression of \u2018\u2019Ato\u2019\u2019 is detected in every cell. In an initial state, Hedgehog (\u2018\u2019Hh\u2019\u2019) and Decapentaplegic are responsible for the activation of \u2018\u2019ato\u2019\u2019 in small cellular clusters, leading to the activation of MAPK. First, Hedgehog induces \u2018\u2019ato\u2019\u2019 expression in more than just the cells that ultimately become photoreceptor cells, so its expression has to be refined and restricted to a single presumptive R8 cell. Hedgehog signaling is also required to repress \u2018\u2019atonal\u2019\u2019 expression between the nascent proneural clusters, which reveals a dual role crucial to building precision and geometry into the adult retina. Therefore, the regulation of \u2018\u2019ato\u2019\u2019 expression depends on the levels of Hedgehog: at low levels (that is far from the source) this pronuclear gene is activated and at high levels (close to the source) it is repressed. Combining lateral inhibition with the dual role played by Hedgehog, one can imagine how the hexagonal array of R8 cells can be patterned.",
+            "score": 257.32250475883484
+        },
+        {
+            "docid": "941909_11",
+            "document": "Receptive field . The receptive field is often identified as the region of the retina where the action of light alters the firing of the neuron. In retinal ganglion cells (see below), this area of the retina would encompass all the photoreceptors, all the rods and cones from one eye that are connected to this particular ganglion cell via bipolar cells, horizontal cells, and amacrine cells. In binocular neurons in the visual cortex, it is necessary to specify the corresponding area in both retinas (one in each eye). Although these can be mapped separately in each retina by shutting one or the other eye, the full influence on the neuron's firing is revealed only when both eyes are open.",
+            "score": 283.8106927871704
+        },
+        {
+            "docid": "12266_47",
+            "document": "Genetics . Differences in gene expression are especially clear within multicellular organisms, where cells all contain the same genome but have very different structures and behaviors due to the expression of different sets of genes. All the cells in a multicellular organism derive from a single cell, differentiating into variant cell types in response to external and intercellular signals and gradually establishing different patterns of gene expression to create different behaviors. As no single gene is responsible for the development of structures within multicellular organisms, these patterns arise from the complex interactions between many cells.",
+            "score": 223.14011907577515
+        },
+        {
+            "docid": "48334_33",
+            "document": "Retina . When thus excited by light, the photoceptor sends a proportional response synaptically to bipolar cells which in turn signal the retinal ganglion cells. The photoreceptors are also cross-linked by horizontal cells and amacrine cells, which modify the synaptic signal before it reaches the ganglion cells, the neural signals being intermixed and combined. Of the retina's nerve cells, only the retinal ganglion cells and few amacrine cells create action potentials.",
+            "score": 273.6119523048401
+        },
+        {
+            "docid": "801776_6",
+            "document": "Retinal ganglion cell . There are about 0.7 to 1.5 million retinal ganglion cells in the human retina. With about 4.6 million cone cells and 92 million rod cells, or 96.6 million photoreceptors per retina, on average each retinal ganglion cell receives inputs from about 100 rods and cones. However, these numbers vary greatly among individuals and as a function of retinal location. In the fovea (center of the retina), a single ganglion cell will communicate with as few as five photoreceptors. In the extreme periphery (ends of the retina), a single ganglion cell will receive information from many thousands of photoreceptors.",
+            "score": 244.24466347694397
+        },
+        {
+            "docid": "2018673_3",
+            "document": "Retina horizontal cell . Retinal neurons include photoreceptor cells, horizontal cells, bipolar cells, amacrine cells, and ganglion cells.",
+            "score": 267.25316619873047
+        },
+        {
+            "docid": "1017131_9",
+            "document": "Retina bipolar cell . The mechanism for producing the center of a bipolar cell's receptive field is well known: direct innervation of the photoreceptor cell above it, either through a metabotropic (ON) or ionotropic (OFF) receptor. However, the mechanism for producing the monochromatic surround of the same receptive field is under investigation. While it is known that an important cell in the process is the horizontal cell, the exact sequence of receptors and molecules is unknown.",
+            "score": 283.0096254348755
+        },
+        {
+            "docid": "915830_19",
+            "document": "Usher syndrome . Usher syndrome type I can be caused by mutations in any one of several different genes: \"CDH23, MYO7A, PCDH15, USH1C\", and \"USH1G\". These genes function in the development and maintenance of inner ear structures such as hair cells (stereocilia), which transmit sound and motion signals to the brain. Alterations in these genes can cause an inability to maintain balance (vestibular dysfunction) and hearing loss. The genes also play a role in the development and stability of the retina by influencing the structure and function of both the rod photoreceptor cells and supporting cells called the retinal pigmented epithelium. Mutations that affect the normal function of these genes can result in retinitis pigmentosa and resultant vision loss.",
+            "score": 240.5975182056427
+        },
+        {
+            "docid": "350926_27",
+            "document": "Retinitis pigmentosa . The goal of gene therapy studies is to virally supplement retinal cells expressing mutant genes associated with the retinitis pigmentosa phenotype with healthy forms of the gene; thus, allowing the repair and proper functioning of retinal photoreceptor cells in response to the instructions associated with the inserted healthy gene. Clinical trials investigating the insertion of the healthy RPE65 gene in retinas expressing the LCA2 retinitis pigmentosa phenotype measured modest improvements in vision; however, the degradation of retinal photoreceptors continued at the disease-related rate. Likely, gene therapy may preserve remaining healthy retinal cells while failing to repair the earlier accumulation of damage in already diseased photoreceptor cells. Response to gene therapy would theoretically benefit young patients exhibiting the shortest progression of photoreceptor decline; thus, correlating to a higher possibility of cell rescue via the healthy inserted gene.",
+            "score": 252.20051527023315
+        },
+        {
+            "docid": "27110987_23",
+            "document": "Gene therapy of the human retina . For example, in rat the murine rhodopsin gene drive the expression in AAV2, GFP reporter product was found only in rat photoreceptors, not in any other retinal cell type or in the adjacent RPE after subretinal injection. On the other hand, if ubiquitously expressed immediate-early cytomegalovirus (CMV) enhancer-promoter is expressed in a wide variety of transfected cell types. Other ubiquitous promoters such as the CBA promoter, a fusion of the chicken-actin promoter and CMV immediate-early enhancer, allows stable GFP reporter expression in both RPE and photoreceptor cells after subretinal injections.",
+            "score": 265.8554153442383
+        }
+    ],
+    "r": [
+        {
+            "docid": "401150_15",
+            "document": "Photoreceptor cell . The process of phototransduction occurs in the retina. The retina has many layers of various cell types. The best-known photoreceptor cells (\"rods\" and \"cones\") form the outermost layer. They are the photoreceptors responsible for sight. The middle layer contains bipolar cells, which collect neural signals from the rods and the cones and then transmit them to the innermost layer of the retina, where the neurons called retinal ganglion cells (RGCs), a small percentage of which are themselves photosensitive, organize the signals and send them to the brain.",
+            "score": 357.3916320800781
+        },
+        {
+            "docid": "21280496_32",
+            "document": "Visual perception . Transduction is the process through which energy from environmental stimuli is converted to neural activity for the brain to understand and process. The back of the eye contains three different cell layers: photoreceptor layer, bipolar cell layer and ganglion cell layer. The photoreceptor layer is at the very back and contains rod photoreceptors and cone photoreceptors. Cones are responsible for color perception. There are three different cones: red, green and blue. Rods, are responsible for the perception of objects in low light. Photoreceptors contain within them a special chemical called a photopigment, which are embedded in the membrane of the lamellae; a single human rod contains approximately 10 million of them. The photopigment molecules consist of two parts: an opsin (a protein) and retinal (a lipid). There are 3 specific photopigments (each with their own color) that respond to specific wavelengths of light. When the appropriate wavelength of light hits the photoreceptor, its photopigment splits into two, which sends a message to the bipolar cell layer, which in turn sends a message to the ganglion cells, which then send the information through the optic nerve to the brain. If the appropriate photopigment is not in the proper photoreceptor (for example, a green photopigment inside a red cone), a condition called color vision deficiency will occur.",
+            "score": 344.2850646972656
+        },
+        {
+            "docid": "27250366_2",
+            "document": "Retinal summation . Retinal summation describes the relationship between different types of cells in the retina: cone photoreceptor cells, bipolar cells, and ganglion cells. With high retinal summation, a large number of photoreceptor cells converge on a smaller number of bipolar cells in transferring their signals to ganglion cells. Zero summation occurs when each cone photoreceptor cell contacts a single ganglion cell via a single bipolar cell.",
+            "score": 341.2132568359375
+        },
+        {
+            "docid": "48334_3",
+            "document": "Retina . The retina consists of several layers of neurons interconnected by synapses. The neural retina refers to the three layers of neural cells (photo receptor cells, bipolar cells, and ganglion cells) within the retina, which in its entirety comprises ten distinct layers, including an outer layer of pigmented epithelial cells. The only neural cells that are directly sensitive to light are the photoreceptor cells, which are of two types: rods and cones. Rods function mainly in dim light and provide black-and-white vision while cones are responsible for the perception of colour. A third type of photoreceptor, the photosensitive ganglion cells, is important for entrainment and reflexive responses to the brightness of light.",
+            "score": 334.19281005859375
+        },
+        {
+            "docid": "305136_18",
+            "document": "Visual system . In the retina, the photoreceptors synapse directly onto bipolar cells, which in turn synapse onto ganglion cells of the outermost layer, which will then conduct action potentials to the brain. A significant amount of visual processing arises from the patterns of communication between neurons in the retina. About 130 million photo-receptors absorb light, yet roughly 1.2 million axons of ganglion cells transmit information from the retina to the brain. The processing in the retina includes the formation of center-surround receptive fields of bipolar and ganglion cells in the retina, as well as convergence and divergence from photoreceptor to bipolar cell. In addition, other neurons in the retina, particularly horizontal and amacrine cells, transmit information laterally (from a neuron in one layer to an adjacent neuron in the same layer), resulting in more complex receptive fields that can be either indifferent to color and sensitive to motion or sensitive to color and indifferent to motion.",
+            "score": 331.13800048828125
+        },
+        {
+            "docid": "608751_6",
+            "document": "Pinealocyte . A common theory on the evolution of pinealocytes is that they evolved from photoreceptor cells. It is speculated that in ancestral vertebrates, the pinealocytes served the same function as photoreceptor cells, such as retinal cells. Structural, functional, and genetic similarities exist between the two cell types. Structurally, both develop from the area of the brain designated the diencephalon, also the area containing the thalamus and hypothalamus, during embryological development. Both types of cells have similar features, including cilia, folded membranes, and polarity. Functional evidence for this theory of evolution can be seen in lower vertebrates. The retention of photosensitivity of the pinealocytes of lampreys, fish, amphibians, reptiles, and birds and the secretion of melatonin by some of these lower vertebrates suggests that pinealocytes may have once served as photoreceptor cells. Researchers have also indicated the presence of several proteins found in the retina in the pinealocytes in chicken and fish. Genetic evidence demonstrates that phototransduction genes present in the DNA of the retina are also present in the DNA of pinealocytes.",
+            "score": 326.8417053222656
+        },
+        {
+            "docid": "19274237_26",
+            "document": "Mammalian eye . Differences between the rhodopsin and the iodopsins is the reason why cones and rods enable organisms to see in dark and light conditions \u2014 each of the photoreceptor proteins requires a different light intensity to break down into the constituent products. Further, synaptic convergence means that several rod cells are connected to a single bipolar cell, which then connects to a single ganglion cell by which information is relayed to the visual cortex. This convergence is in direct contrast to the situation with cones, where each cone cell is connected to a single bipolar cell. This divergence results in the high visual acuity, or the high ability to distinguish detail, of cone cells compared to rods. If a ray of light were to reach just one rod cell, the cell's response may not be enough to hyperpolarize the connected bipolar cell. But because several \"converge\" onto a bipolar cell, enough transmitter molecules reach the synapses of the bipolar cell to hyperpolarize it.",
+            "score": 323.6642761230469
+        },
+        {
+            "docid": "1017131_5",
+            "document": "Retina bipolar cell . In the dark, a photoreceptor (rod/cone) cell will release glutamate, which inhibits (hyperpolarizes) the ON bipolar cells and excites (depolarizes) the OFF bipolar cells. In light, however, light strikes the photoreceptor which causes the photoreceptor to be inhibited (hyperpolarized) due to the activation of opsins which activate All trans-Retinal, giving energy to stimulate G-Protein coupled receptors to activate phosphodiesterase (PDE) which cleaves cGMP into 5'-GMP. In photoreceptor cells, there is an abundance of cGMP in dark conditions, keeping cGMP-gated Na channels open and so, activating PDE diminishes the supply of cGMP, reducing the number of open Na channels and thus hyperpolarizing the photoreceptor cell, causing less glutamate to be released. This causes the ON bipolar cell to lose its inhibition and become active (depolarized), while the OFF bipolar cell loses its excitation (becomes hyperpolarized) and becomes silent.",
+            "score": 323.4720153808594
+        },
+        {
+            "docid": "401150_9",
+            "document": "Photoreceptor cell . Rod and cone photoreceptors are found on the outermost layer of the retina; they both have the same basic structure. Closest to the visual field (and farthest from the brain) is the axon terminal, which releases a neurotransmitter called glutamate to bipolar cells. Farther back is the cell body, which contains the cell's organelles. Farther back still is the inner segment, a specialized part of the cell full of mitochondria. The chief function of the inner segment is to provide ATP (energy) for the sodium-potassium pump. Finally, closest to the brain (and farthest from the field of view) is the outer segment, the part of the photoreceptor that absorbs light. Outer segments are actually modified cilia that contain disks filled with opsin, the molecule that absorbs photons, as well as voltage-gated sodium channels.",
+            "score": 309.2418518066406
+        },
+        {
+            "docid": "401150_32",
+            "document": "Photoreceptor cell . Every rod or cone photoreceptor releases the same neurotransmitter, glutamate. However, the effect of glutamate differs in the bipolar cells, depending upon the type of receptor imbedded in that cell's membrane. When glutamate binds to an ionotropic receptor, the bipolar cell will depolarize (and therefore will hyperpolarize with light as less glutamate is released). On the other hand, binding of glutamate to a metabotropic receptor results in a hyperpolarization, so this bipolar cell will depolarize to light as less glutamate is released.",
+            "score": 308.5672912597656
+        },
+        {
+            "docid": "401150_20",
+            "document": "Photoreceptor cell . Thus, a rod or cone photoreceptor actually releases less neurotransmitter when stimulated by light. Less neurotransmitter in the synaptic cleft between a photoreceptor and bipolar cell will serve to either excite (depolarize) ON bipolar cells or inhibit (hyperpolarize) OFF bipolar cells. Thus, it is at the photoreceptor-bipolar cell synapse where visual signals are split into ON and OFF pathways.",
+            "score": 305.4451599121094
+        },
+        {
+            "docid": "801776_2",
+            "document": "Retinal ganglion cell . A retinal ganglion cell (RGC) is a type of neuron located near the inner surface (the ganglion cell layer) of the retina of the eye. It receives visual information from photoreceptors via two intermediate neuron types: bipolar cells and retina amacrine cells. Retina amacrine cells, particularly narrow field cells, are important for creating functional subunits within the ganglion cell layer and making it so that ganglion cells can observe a small dot moving a small distance. Retinal ganglion cells collectively transmit image-forming and non-image forming visual information from the retina in the form of action potential to several regions in the thalamus, hypothalamus, and mesencephalon, or midbrain.",
+            "score": 303.8606262207031
+        },
+        {
+            "docid": "1017131_2",
+            "document": "Retina bipolar cell . As a part of the retina, bipolar cells exist between photoreceptors (rod cells and cone cells) and ganglion cells. They act, directly or indirectly, to transmit signals from the photoreceptors to the ganglion cells.",
+            "score": 301.4070129394531
+        },
+        {
+            "docid": "514355_6",
+            "document": "Rod cell . In vertebrates, activation of a photoreceptor cell is a hyperpolarization (inhibition) of the cell. When they are not being stimulated, such as in the dark, rod cells and cone cells depolarize and release a neurotransmitter spontaneously. This neurotransmitter hyperpolarizes the bipolar cell. Bipolar cells exist between photoreceptors and ganglion cells and act to transmit signals from the photoreceptors to the ganglion cells. As a result of the bipolar cell being hyperpolarized, it does not release its transmitter at the bipolar-ganglion synapse and the synapse is not excited.",
+            "score": 300.09918212890625
+        },
+        {
+            "docid": "21120_26",
+            "document": "Neuron . The distinction between excitatory and inhibitory neurotransmitters is not absolute, however. Rather, it depends on the class of chemical receptors present on the postsynaptic neuron. In principle, a single neuron, releasing a single neurotransmitter, can have excitatory effects on some targets, inhibitory effects on others, and modulatory effects on others still. For example, photoreceptor cells in the retina constantly release the neurotransmitter glutamate in the absence of light. So-called OFF bipolar cells are, like most neurons, excited by the released glutamate. However, neighboring target neurons called ON bipolar cells are instead \"inhibited\" by glutamate, because they lack the typical ionotropic glutamate receptors and instead express a class of inhibitory metabotropic glutamate receptors. When light is present, the photoreceptors cease releasing glutamate, which relieves the ON bipolar cells from inhibition, activating them; this simultaneously removes the excitation from the OFF bipolar cells, silencing them.",
+            "score": 299.0102233886719
+        },
+        {
+            "docid": "5645086_16",
+            "document": "Evolution of the eye . The functional unit of the eye is the photoreceptor cell, which contains the opsin proteins and responds to light by initiating a nerve impulse. The light sensitive opsins are borne on a hairy layer, to maximise the surface area. The nature of these \"hairs\" differs, with two basic forms underlying photoreceptor structure: microvilli and cilia. In the eyes of protostomes, they are microvilli: extensions or protrusions of the cellular membrane. But in the eyes of deuterostomes, they are derived from cilia, which are separate structures. However, outside the eyes an organism may use the other type of photoreceptor cells, for instance the clamworm Platynereis dumerilii uses microvilliar cells in the eyes but has additionally deep brain ciliary photoreceptor cells. The actual derivation may be more complicated, as some microvilli contain traces of cilia \u2014 but other observations appear to support a fundamental difference between protostomes and deuterostomes. These considerations centre on the response of the cells to light \u2013 some use sodium to cause the electric signal that will form a nerve impulse, and others use potassium; further, protostomes on the whole construct a signal by allowing \"more\" sodium to pass through their cell walls, whereas deuterostomes allow less through.",
+            "score": 297.45196533203125
+        },
+        {
+            "docid": "38663170_2",
+            "document": "Retinal precursor cells . Retinal precursor cells are biological cells that differentiate into the various cell types of the retina during development. In the vertebrate, these retinal cells differentiate into seven cell types, including retinal ganglion cells, amacrine cells, bipolar cells, horizontal cells, rod photoreceptors, cone photoreceptors, and M\u00fcller glia cells. During embryogenesis, retinal cells originate from the anterior portion of the neural plate termed the eye field. Eye field cells with a retinal fate express several transcription factor markers including Rx1, Pax6, and Lhx2. The eye field gives rise to the optic vesicle and then to the optic cup. The retina is generated from the precursor cells within the inner layer of the optic cup, as opposed to the retinal pigment epithelium that originate from the outer layer of the optic cup. In general, the developing retina is organized so that the least-committed precursor cells are located in the periphery of the retina, while the committed cells are located in the center of the retina. The differentiation of retinal precursor cells into the mature cell types found in the retina is coordinated in time and space by factors within the cell as well as factors in the environment of the cell. One example of an intrinsic regulator of this process is the transcription factor Ath5. Ath5 expression in retinal progenitor cells biases their differentiation into a retinal ganglion cell fate. An example of an environmental factor is the morphogen sonic hedge hog (Shh). Shh has been shown to repress the differentiation of precursor cells into retinal ganglion cells.",
+            "score": 295.4314270019531
+        },
+        {
+            "docid": "1017131_3",
+            "document": "Retina bipolar cell . Bipolar cells are so-named as they have a central body from which two sets of processes arise. They can synapse with either rods or cones (rod/cone mixed input BCs have been found in teleost fish but not mammals), and they also accept synapses from horizontal cells. The bipolar cells then transmit the signals from the photoreceptors or the horizontal cells, and pass it on to the ganglion cells directly or indirectly (via amacrine cells). Unlike most neurons, bipolar cells communicate via graded potentials, rather than action potentials.",
+            "score": 293.37530517578125
+        },
+        {
+            "docid": "18879580_10",
+            "document": "Pikachurin . Synapse formation is crucial for the mammalian CNS (central nervous system) to function correctly. Retinal photoreceptors finish at the axon terminal which forms a specialized structure, the ribbon synapse, which specifically connects photoreceptor synaptic terminals with bipolar and horizontal cell terminals in the outer plexiform layer (OPL) of the retina. It is clear that Pikachurin, an extracellular matrix\u2013like retinal protein, is localized to the synaptic cleft in the photoreceptor ribbon synapse. It is demonstrated that with a lack of Pikachurin, there is an improper apposition of the bipolar cell dendritic tips to the photoreceptor ribbon synapses, resulting in alterations in synaptic signal transmission and visual function. The function of Pikachurin remains unknown, but it is a fact that pikachurin is critically involved in the normal photoreceptor ribbon synapse formation and also in physiological functions of visual perception.",
+            "score": 289.54241943359375
+        },
+        {
+            "docid": "401150_31",
+            "document": "Photoreceptor cell . The rod and cone photoreceptors signal their absorption of photons via a decrease in the release of the neurotransmitter glutamate to bipolar cells at its axon terminal. Since the photoreceptor is depolarized in the dark, a high amount of glutamate is being released to bipolar cells in the dark. Absorption of a photon will hyperpolarize the photoreceptor and therefore result in the release of \"less\" glutamate at the presynaptic terminal to the bipolar cell.",
+            "score": 288.4820556640625
+        },
+        {
+            "docid": "801776_5",
+            "document": "Retinal ganglion cell . The six types of retinal neurons are bipolar cells, ganglion cells, horizontal cells, retina amacrine cells, and rod and cone photoreceptors.",
+            "score": 288.0861511230469
+        },
+        {
+            "docid": "1389391_4",
+            "document": "Opponent process . Besides the cones, which detect light entering the eye, the biological basis of the opponent theory involves two other types of cells: bipolar cells, and ganglion cells. Information from the cones is passed to the bipolar cells in the retina, which may be the cells in the opponent process that transform the information from cones. The information is then passed to ganglion cells, of which there are two major classes: magnocellular, or large-cell layers, and parvocellular, or small-cell layers. Parvocellular cells, or P cells, handle the majority of information about color, and fall into two groups: one that processes information about differences between firing of L and M cones, and one that processes differences between S cones and a combined signal from both L and M cones. The first subtype of cells are responsible for processing red\u2013green differences, and the second process blue\u2013yellow differences. P cells also transmit information about intensity of light (how much of it there is) due to their receptive fields.",
+            "score": 287.3167419433594
+        },
+        {
+            "docid": "2018673_5",
+            "document": "Retina horizontal cell . Horizontal cells span across photoreceptors and summate inputs before synapsing onto photoreceptor cells. Horizontal cells may also synapse onto bipolar cells, but this remains uncertain.",
+            "score": 285.46917724609375
+        },
+        {
+            "docid": "1137227_53",
+            "document": "DNA methylation . DNA methylation marks, are genomic regions with specific methylation pattern in a specific biological state such as tissue, cell type, individual), are regarded as possible functional regions involved in gene transcriptional regulation. Although various human cell types may have the same genome, these cells have different methylomes. The systematic identification and characterization of methylation marks across cell types are crucial to understanding the complex regulatory network for cell fate determination. Hongbo Liu et al. proposed an entropy-based framework termed SMART to integrate the whole genome bisulfite sequencing methylomes across 42 human tissues/cells and identified 757,887 genome segments. Nearly 75% of the segments showed uniform methylation across all cell types. From the remaining 25% of the segments, they identified cell type-specific hypo/hypermethylation marks that were specifically hypo/hypermethylated in a minority of cell types using a statistical approach and presented an atlas of the human methylation marks. Further analysis revealed that the cell type-specific hypomethylation marks were enriched through H3K27ac and transcription factor binding sites in cell type-specific manner. In particular, they observed that the cell type-specific hypomethylation marks are associated with the cell type-specific super-enhancers that drive the expression of cell identity genes. This framework provides a complementary, functional annotation of the human genome and helps to elucidate the critical features and functions of cell type-specific hypomethylation.",
+            "score": 283.9866027832031
+        },
+        {
+            "docid": "941909_11",
+            "document": "Receptive field . The receptive field is often identified as the region of the retina where the action of light alters the firing of the neuron. In retinal ganglion cells (see below), this area of the retina would encompass all the photoreceptors, all the rods and cones from one eye that are connected to this particular ganglion cell via bipolar cells, horizontal cells, and amacrine cells. In binocular neurons in the visual cortex, it is necessary to specify the corresponding area in both retinas (one in each eye). Although these can be mapped separately in each retina by shutting one or the other eye, the full influence on the neuron's firing is revealed only when both eyes are open.",
+            "score": 283.8106994628906
+        },
+        {
+            "docid": "27110987_12",
+            "document": "Gene therapy of the human retina . The vertebrate neural retina composed of several layers and distinct cell types (see anatomy of the human retina). A number of these cell types are implicated in retinal diseases, including retinal ganglion cells, which degenerate in glaucoma, the rod and cone photoreceptors, which are responsive to light and degenerate in retinitis pigmentosa, macular degeneration, and other retinal diseases, and the retinal pigment epithelium (RPE), which supports the photoreceptors and is also implicated in retinitis pigmentosa and macular degeneration.",
+            "score": 283.1276550292969
+        },
+        {
+            "docid": "1017131_9",
+            "document": "Retina bipolar cell . The mechanism for producing the center of a bipolar cell's receptive field is well known: direct innervation of the photoreceptor cell above it, either through a metabotropic (ON) or ionotropic (OFF) receptor. However, the mechanism for producing the monochromatic surround of the same receptive field is under investigation. While it is known that an important cell in the process is the horizontal cell, the exact sequence of receptors and molecules is unknown.",
+            "score": 283.0096435546875
+        },
+        {
+            "docid": "48334_11",
+            "document": "Retina . These layers can be grouped into 4 main processing stages: photoreception; transmission to bipolar cells; transmission to ganglion cells, which also contain photoreceptors, the photosensitive ganglion cells; and transmission along the optic nerve. At each synaptic stage there are also laterally connecting horizontal and amacrine cells.",
+            "score": 281.05902099609375
+        },
+        {
+            "docid": "38154621_4",
+            "document": "Retinal regeneration . Zebrafish, like other teleost fish, possess the innate ability to regenerate retinal damage. This ability combined with the considerable similarity between teleost and mammalian retinal structure makes zebrafish an attractive model for the study of retinal regeneration. Muller glia are a type of glial cell present in both the teleost and mammalian retina. Retinal regeneration in zebrafish is mediated by Muller glia, which dedifferentiate into stem-like cells and proliferate into neural progenitor cells in response to retinal damage. While Muller glia division is responsible for the regeneration of the retina in all cases of retinal damage, the case of photoreceptor loss due to light damage is particularly well characterized. In response to photoreceptor ablation, Muller glia dedifferentiate and undergo a single asymmetric division to produce a neural progenitor cell and a new Muller glia cell. The neural progenitor cell proliferates to form a cluster of neural progenitors, which migrate to the outer nuclear layer of the retina and differentiate into photoreceptors to replace the lost cells. This process restores retinal function to the injured fish. Understanding the underlying mechanisms may provide insight into treatment options for degenerative retinal diseases in mammals.",
+            "score": 280.8992919921875
+        },
+        {
+            "docid": "4455796_7",
+            "document": "Lateral inhibition . Visual Lateral Inhibition is the process in which photoreceptor cells aid the brain in perceiving contrast within an image. Electromagnetic light enters the eye by passing through the cornea, pupil, and the lens (optics). It then bypasses the ganglion cells, amacrine cells, bipolar cells, and horizontal cells in order to reach the photoreceptors rod cells which absorb light. The rods become stimulated by the energy from the light and release an excitatory neural signal to the horizontal cells.",
+            "score": 280.66070556640625
+        },
+        {
+            "docid": "608751_7",
+            "document": "Pinealocyte . More evidence for the evolution of pinealocytes from photoreceptor cells is the similarities between the ribbon complexes in the two types of cells. The presence of the protein RIBEYE and other proteins in both pinealocytes and sensory cells (both photoreceptors and hair cells) suggests that the two cells are related to one another evolutionarily. Differences between the two synaptic ribbons exist in the presence of certain proteins, such as ERC2/CAST1, and the distribution of proteins within the complexes of each cell.",
+            "score": 279.0010070800781
+        },
+        {
+            "docid": "22671435_7",
+            "document": "Retinal degeneration (rhodopsin mutation) . RP begins with death of rod photoreceptor cells, which are the only cells in the retina to express rhodopsin and which express it as their most abundant protein. Eventually, loss of rod cells leads to loss of cone cells (cone photoreceptors), the mainstay of human vision. Symptoms of RP include loss of sensitivity to dim light, abnormal visual function, and characteristic bone spicule deposits of pigment in the retina. Affected individuals progressively lose visual field and visual acuity, and photoreceptor cell death can ultimately lead to blindness. A prominent early clinical feature of retinitis pigmentosa is the loss of night vision as a result of death of rod photoreceptor cells. Proper expression of the wild-type rhodopsin gene is essential for the development and sustained function of photoreceptor cells.",
+            "score": 278.9477233886719
+        }
+    ]
+}

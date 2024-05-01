@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "17033211_2",
+            "document": "Quantitative models of the action potential . In neurophysiology, several mathematical models of the action potential have been developed, which fall into two basic types. The first type seeks to model the experimental data quantitatively, i.e., to reproduce the measurements of current and voltage exactly. The renowned Hodgkin\u2013Huxley model of the axon from the \"Loligo\" squid exemplifies such models. Although qualitatively correct, the H-H model does not describe every type of excitable membrane accurately, since it considers only two ions (sodium and potassium), each with only one type of voltage-sensitive channel. However, other ions such as calcium may be important and there is a great diversity of channels for all ions. As an example, the cardiac action potential illustrates how differently shaped action potentials can be generated on membranes with voltage-sensitive calcium channels and different types of sodium/potassium channels. The second type of mathematical model is a simplification of the first type; the goal is not to reproduce the experimental data, but to understand qualitatively the role of action potentials in neural circuits. For such a purpose, detailed physiological models may be unnecessarily complicated and may obscure the \"forest for the trees\". The Fitzhugh-Nagumo model is typical of this class, which is often studied for its entrainment behavior. Entrainment is commonly observed in nature, for example in the synchronized lighting of fireflies, which is coordinated by a burst of action potentials; entrainment can also be observed in individual neurons. Both types of models may be used to understand the behavior of small biological neural networks, such as the central pattern generators responsible for some automatic reflex actions. Such networks can generate a complex temporal pattern of action potentials that is used to coordinate muscular contractions, such as those involved in breathing or fast swimming to escape a predator.",
+            "score": 32.737948298454285
+        },
+        {
+            "docid": "3608284_25",
+            "document": "Generalized additive model . As an example of how models can be estimated in practice with software, consider R package `mgcv' (the user interface for which is based on the original `gam', and is broadly similar to other GAM packages). Suppose that our R workspace contains vectors `y', `x' and `z' and we want to estimate the model Within R we could issue the commands In common with most R modelling functions `gam' expects a model formula to be supplied, specifying the model structure to fit. The response variable is given to the left of the `~' while the specification of the linear predictor is given to the right. `gam' sets up bases and penalties for the smooth terms, estimates the model including its smoothing parameters and, in standard R fashion, returns a `fitted model object' (of class \"gam\"), which can then be interrogated using various helper functions, such as `summary', `plot', `predict', `AIC' and so on.",
+            "score": 31.33048915863037
+        },
+        {
+            "docid": "30525054_7",
+            "document": "Anders Dale . In a 2003 interview, Dale explained that he had \u201calways been interested in using quantitative modeling methods and simulations to answer biological questions,\u201d and that as a Harvard student he had been \u201cinterested in approaching connectionist neural networks from a more biological angle.\u201d When he went to UCSD to continue his graduate work his interest \u201cshifted to learning how to test models of how the brain works. Ideally you'd like to test your models not in anesthetized animals and brain slices, but by measuring brain activity in humans non-invasively. I wanted to study normal people doing normal tasks. That was what brought me to imaging. My goal was to see what kind of things we can measure non-invasively that can be quantitatively related to the models we want to build...I wanted to know what exactly we are measuring, how can you model it, and how can you relate the signal to what is going on in the brain physiologically...at a level that say you could measure invasively and that you could relate to parameters of quantitative models.\u201d His thesis work at UCSD, he said, \u201cwas on the EEG and MEG forward and inverse problems, and how to use anatomical information to constrain the solutions. It is clear that if you only use EEG or MEG measures, the spatial precision is not good enough to make inferences at a scale that's most useful to neuroscience. That led us into trying to use information with higher spatial resolution to constrain or bias our estimations of the signal sources in the brain.\u201d",
+            "score": 36.97021687030792
+        },
+        {
+            "docid": "420159_32",
+            "document": "Item response theory . The Rasch model is often considered to be the 1PL IRT model. However, proponents of Rasch modeling prefer to view it as a completely different approach to conceptualizing the relationship between data and theory. Like other statistical modeling approaches, IRT emphasizes the primacy of the fit of a model to observed data, while the Rasch model emphasizes the primacy of the requirements for fundamental measurement, with adequate data-model fit being an important but secondary requirement to be met before a test or research instrument can be claimed to measure a trait. Operationally, this means that the IRT approaches include additional model parameters to reflect the patterns observed in the data (e.g., allowing items to vary in their correlation with the latent trait), whereas in the Rasch approach, claims regarding the presence of a latent trait can only be considered valid when both (a) the data fit the Rasch model, and (b) test items and examinees conform to the model. Therefore, under Rasch models, misfitting responses require diagnosis of the reason for the misfit, and may be excluded from the data set if one can explain substantively why they do not address the latent trait. Thus, the Rasch approach can be seen to be a confirmatory approach, as opposed to exploratory approaches that attempt to model the observed data. As in any confirmatory analysis, care must be taken to avoid confirmation bias.",
+            "score": 18.645513653755188
+        },
+        {
+            "docid": "19978374_33",
+            "document": "Attribute hierarchy method . Once we establish that the model fits the data, the attribute probabilities can be calculated. The use of attribute probabilities is important in the psychometric analyses of the AHM because these probabilities provide examinees with specific information about their attribute-level performance as part of the diagnostic reporting process. To estimate the probability that examinees possess specific attributes, given their observed item response pattern, an artificial neural network approach is used.",
+            "score": 24.734557628631592
+        },
+        {
+            "docid": "21312140_69",
+            "document": "Quantitative comparative linguistics . Choice of an appropriate model is critical for the production of good phylogenetic analyses. Both underparameterised or overly restrictive models may produce aberrant behaviour when their underlying assumptions are violated, while overly complex or overparameterised models require long run times and their parameters may be overfit. The most common method of model selection is the \"Likelihood Ratio Test\" which produces an estimate of the fit between the model and the data, but as an alternative the Akaike Information Criterion or the Bayesian Information Criterion can be used. Model selection computer programs are available.",
+            "score": 31.24239206314087
+        },
+        {
+            "docid": "3717_69",
+            "document": "Brain . Theorists have worked to understand these response patterns by constructing mathematical models of neurons and neural networks, which can be simulated using computers. Some useful models are abstract, focusing on the conceptual structure of neural algorithms rather than the details of how they are implemented in the brain; other models attempt to incorporate data about the biophysical properties of real neurons. No model on any level is yet considered to be a fully valid description of brain function, though. The essential difficulty is that sophisticated computation by neural networks requires distributed processing in which hundreds or thousands of neurons work cooperatively\u2014current methods of brain activity recording are only capable of isolating action potentials from a few dozen neurons at a time.",
+            "score": 26.2023606300354
+        },
+        {
+            "docid": "188540_48",
+            "document": "Classical conditioning . An organism's need to predict future events is central to modern theories of conditioning. Most theories use associations between stimuli to take care of these predictions. For example: In the R\u2013W model, the associative strength of a CS tells us how strongly that CS predicts a US. A different approach to prediction is suggested by models such as that proposed by Gallistel & Gibbon (2000, 2002). Here the response is not determined by associative strengths. Instead, the organism records the times of onset and offset of CSs and USs and uses these to calculate the probability that the US will follow the CS. A number of experiments have shown that humans and animals can learn to time events (see Animal cognition), and the Gallistel & Gibbon model yields very good quantitative fits to a variety of experimental data. However, recent studies have suggested that duration-based models cannot account for some empirical findings as well as associative models.",
+            "score": 24.935994625091553
+        },
+        {
+            "docid": "53757504_6",
+            "document": "Viktor K. Jirsa . The Virtual Brain is a free open source neuroinformatics tool designed to aid in the exploration of network mechanisms of brain function and associated pathologies. TVB provides the possibility to feed computational neuronal network models with information about structural and functional imaging data including population (sEEG/EEG/MEG) activity, spatially highly resolved whole brain metabolic/vascular signals (fMRI) and global measures of neuronal connections (DTI) \u2013 for intact as well as pathologically altered connectivity. TVB is model agnostic and offers a wide range of neural population models to be used as network nodes. The software infrastructure of the Virtual Brain is composed of a functional core running the large-scale brain simulations independently or in batch mode, a web based interface to access the simulator, as well as a command line interface to develop more extensive applications. All simulations may be performed on workstations and labtops, as well as on high-performance clusters (HPCs). Manipulations of network parameters within the Virtual Brain allow researchers and clinicians to test the effects of experimental paradigms, interventions (such as stimulation and surgery) and therapeutic strategies (such as pharmaceutical interventions targeting local areas). The computational environment allows the user to visualise the simulated data in 2D and 3D and perform data analyses in the same way as commonly performed with empirical data.",
+            "score": 18.576274037361145
+        },
+        {
+            "docid": "27876461_5",
+            "document": "Data mining in agriculture . A group method of data handling-type neural network (GMDH-type network) with an evolutionary method of genetic algorithm was used to predict the metabolizable energy of feather meal and poultry offal meal based on their protein, fat, and ash content. Published data samples were collected from literature and used to train a GMDH-type network model. The novel modeling of GMDH-type network with an evolutionary method of genetic algorithm can be used to predict the metabolizable energy of poltry feed samples based on their chemical content. It is also reported that the GMDH-type network may be used to accurately estimate the poultry performance from their dietary nutrients such as dietary metabolizable energy, protein and amino acids.",
+            "score": 16.736382484436035
+        },
+        {
+            "docid": "2860430_20",
+            "document": "Neural oscillation . Computational models adopt a variety of abstractions in order to describe complex oscillatory dynamics observed in brain activity. Many models are used in the field, each defined at a different level of abstraction and trying to model different aspects of neural systems. They range from models of the short-term behaviour of individual neurons, through models of how the dynamics of neural circuitry arise from interactions between individual neurons, to models of how behaviour can arise from abstract neural modules that represent complete subsystems.",
+            "score": 43.94986581802368
+        },
+        {
+            "docid": "1566437_25",
+            "document": "Physiologically based pharmacokinetic modelling . Owing to the mechanistic basis of PBPK models, another potential use of PBPK modeling is hypothesis testing. For example, if a drug compound showed lower-than-expected oral bioavailability, various model structures (i.e., hypotheses) and parameter values can be evaluated to determine which models and/or parameters provide the best fit to the observed data. If the hypothesis that metabolism in the intestines was responsibility for the low bioavailability yielded the best fit, then the PBPK modeling results support this hypothesis over the other hypotheses evaluated.",
+            "score": 20.33579397201538
+        },
+        {
+            "docid": "2690471_5",
+            "document": "Data farming . Farmers cultivate the land to maximize their yield. They manipulate the environment to their advantage using irrigation, pest control, crop rotation, fertilizer, and more. Small-scale designed experiments let them determine whether these treatments are effective. Similarly, data farmers manipulate simulation models to their advantage, using large-scale designed experimentation to grow data from their models in a manner that easily lets them extract useful information. ...the results can reveal root cause-and-effect relationships between the model input factors and the model responses, in addition to rich graphical and statistical views of these relationships. A NATO modeling and simulation task group has documented the data farming process in the Final Report of MSG-088. Here, data farming uses collaborative processes in combining rapid scenario prototyping, simulation modeling, design of experiments, high performance computing, and analysis and visualization in an iterative loop-of-loops.",
+            "score": 28.4092675447464
+        },
+        {
+            "docid": "37196_36",
+            "document": "Causality . For nonexperimental data, causal direction can often be inferred if information about time is available. This is because (according to many, though not all, theories) causes must precede their effects temporally. This can be determined by statistical time series models, for instance, or with a statistical test based on the idea of Granger causality, or by direct experimental manipulation. The use of temporal data can permit statistical tests of a pre-existing theory of causal direction. For instance, our degree of confidence in the direction and nature of causality is much greater when supported by cross-correlations, ARIMA models, or cross-spectral analysis using vector time series data than by cross-sectional data.",
+            "score": 17.355083227157593
+        },
+        {
+            "docid": "82359_38",
+            "document": "Least squares . constitutes the model, where \"F\" is the independent variable. To estimate the force constant, \"k\", a series of \"n\" measurements with different forces will produce a set of data, formula_36, where \"y\" is a measured spring extension. Each experimental observation will contain some error. If we denote this error formula_37, we may specify an empirical model for our observations,",
+            "score": 30.18660044670105
+        },
+        {
+            "docid": "84936_20",
+            "document": "Blood\u2013brain barrier . Peptides are able to cross the blood\u2013brain barrier (BBB) through various mechanisms, opening new diagnostic and therapeutic avenues. However, their BBB transport data are scattered in the literature over different disciplines, using different methodologies reporting different influx or efflux aspects. Therefore, a comprehensive BBB peptide database (Brainpeps) was constructed to collect the BBB data available in the literature. Brainpeps currently contains BBB transport information with positive as well as negative results. The database is a useful tool to prioritize peptide choices for evaluating different BBB responses or studying quantitative structure-property (BBB behaviour) relationships of peptides. Because a multitude of methods have been used to assess the BBB behaviour of compounds, we classified these methods and their responses. Moreover, the relationships between the different BBB transport methods have been clarified and visualized.",
+            "score": 34.10458254814148
+        },
+        {
+            "docid": "12868239_3",
+            "document": "Heteroscedasticity-consistent standard errors . In regression and time-series modelling, basic forms of models make use of the assumption that the errors or disturbances \"u\" have the same variance across all observation points. When this is not the case, the errors are said to be heteroscedastic, or to have heteroscedasticity, and this behaviour will be reflected in the residuals formula_1 estimated from a fitted model. Heteroscedasticity-consistent standard errors are used to allow the fitting of a model that does contain heteroscedastic residuals. The first such approach was proposed by Huber (1967), and further improved procedures have been produced since for cross-sectional data, time-series data and GARCH estimation.",
+            "score": 34.453685998916626
+        },
+        {
+            "docid": "20590_27",
+            "document": "Mathematical model . Usually the easiest part of model evaluation is checking whether a model fits experimental measurements or other empirical data. In models with parameters, a common approach to test this fit is to split the data into two disjoint subsets: training data and verification data. The training data are used to estimate the model parameters. An accurate model will closely match the verification data even though these data were not used to set the model's parameters. This practice is referred to as cross-validation in statistics.",
+            "score": 22.921918392181396
+        },
+        {
+            "docid": "33429735_36",
+            "document": "Software reliability testing . In the assessment and prediction of software reliability, we use the reliability growth model. During operation of the software, any data about its failure is stored in statistical form and is given as input to the reliability growth model. Using this data, the reliability growth model can evaluate the reliability of software. Lots of data about reliability growth model is available with probability models claiming to represent failure process. But there is no model which is best suited for all conditions. Therefore, we must choose a model based on the appropriate conditions.",
+            "score": 18.811223030090332
+        },
+        {
+            "docid": "25345530_40",
+            "document": "Models of neural computation . Flight control in the fly is believed to be mediated by inputs from the visual system and also the halteres, a pair of knob-like organs which measure angular velocity. Integrated computer models of \"Drosophila\", short on neuronal circuitry but based on the general guidelines given by control theory and data from the tethered flights of flies, have been constructed to investigate the details of flight control.",
+            "score": 44.8384485244751
+        },
+        {
+            "docid": "2956315_6",
+            "document": "Two-streams hypothesis . Goodale and Milner Accumulating an array of neuropsychological, electrophysiological, and behavioural evidence for their model. According to their data, the ventral \u2018perceptual\u2019 stream computes a detailed map of the world from visual input, which can then be used for cognitive operations, and the dorsal \u2018action\u2019 stream transforms incoming visual information to the requisite egocentric (head-centered) coordinate system for skilled motor planning. The model also posits that visual perception encodes spatial properties of objects, such as size and location, relative to other objects in the visual field; in other words, it utilizes relative metrics and scene-based frames of reference. Visual action planning and coordination, on the other hand, uses absolute metrics determined via egocentric frames of reference, computing the actual properties of objects relative to the observer. Thus, grasping movements directed towards objects embedded in size-contrast-ambiguous scenes have been shown to escape the effects of these illusions, as different frames of references and metrics are involved in the perception of the illusion versus the execution of the grasping act.  Norman proposed a similar dual-process model of vision, and described eight main differences between the two systems consistent with other two-system models.",
+            "score": 24.15460193157196
+        },
+        {
+            "docid": "8450479_5",
+            "document": "Bias of an estimator . Suppose we have a statistical model, parameterized by a real number \"\u03b8\", giving rise to a probability distribution for observed data, formula_1, and a statistic formula_2 which serves as an estimator of \"\u03b8\" based on any observed data formula_3. That is, we assume that our data follow some unknown distribution formula_4 (where \"\u03b8\" is a fixed constant that is part of this distribution, but is unknown), and then we construct some estimator formula_2 that maps observed data to values that we hope are close to \"\u03b8\". The bias of formula_2 relative to formula_7 is defined as",
+            "score": 24.93535566329956
+        },
+        {
+            "docid": "2161615_8",
+            "document": "Rasch model . Data analysed using the model are usually responses to conventional items on tests, such as educational tests with right/wrong answers. However, the model is a general one, and can be applied wherever discrete data are obtained with the intention of measuring a quantitative attribute or trait.",
+            "score": 13.215256690979004
+        },
+        {
+            "docid": "2860430_7",
+            "document": "Neural oscillation . Although neural oscillations in human brain activity are mostly investigated using EEG recordings, they are also observed using more invasive recording techniques such as single-unit recordings. Neurons can generate rhythmic patterns of action potentials or spikes. Some types of neurons have the tendency to fire at particular frequencies, so-called \"resonators\". Bursting is another form of rhythmic spiking. Spiking patterns are considered fundamental for information coding in the brain. Oscillatory activity can also be observed in the form of subthreshold membrane potential oscillations (i.e. in the absence of action potentials). If numerous neurons spike in synchrony, they can give rise to oscillations in local field potentials. Quantitative models can estimate the strength of neural oscillations in recorded data.",
+            "score": 22.986837148666382
+        },
+        {
+            "docid": "147003_63",
+            "document": "Hysteresis . The Bouc\u2013Wen model of hysteresis is often used to describe non-linear hysteretic systems. It was introduced by Bouc and extended by Wen, who demonstrated its versatility by producing a variety of hysteretic patterns. This model is able to capture in analytical form, a range of shapes of hysteretic cycles which match the behaviour of a wide class of hysteretical systems; therefore, given its versability and mathematical tractability, the Bouc\u2013Wen model has quickly gained popularity and has been extended and applied to a wide variety of engineering problems, including multi-degree-of-freedom (MDOF) systems, buildings, frames, bidirectional and torsional response of hysteretic systems two- and three-dimensional continua, and soil liquefaction among others. The Bouc\u2013Wen model and its variants/extensions have been used in applications of structural control, in particular in the modeling of the behaviour of magnetorheological dampers, base isolation devices for buildings and other kinds of damping devices; it has also been used in the modelling and analysis of structures built of reinforced concrete, steel, masonry and timber.. The most important extension of Bouc-Wen Model was carried out by Baber and Noori and later by Noori and co-workers. That extended model, named, BWBN, can reproduce the complex shear pinching or slip-lock phenomenon that earlier model could not reproduce. BWBN model has been widely used in a wide spectrum of applications and have been incorporated in several software codes such as OpenSees.",
+            "score": 31.718082427978516
+        },
+        {
+            "docid": "1935504_10",
+            "document": "Functional integration (neurobiology) . Dynamic causal modeling (DCM) is a Bayesian method for deducing the structure of a neural system based on the observed hemodynamic (fMRI) or electrophysiologic (EEG/MEG) signal. The first step is to make a prediction as to the relationships between the brain regions of interest, and formulate a system of ordinary differential equations describing the causal relationship between them, although many parameters (and relationships) will be initially unknown. Using previous results on how neural activity is known to translate into fMRI or EEG signals, one can take the measured signal and determine the likelihood that model parameters have particular values. The elucidated model can then be used to predict relationships between the considered brain regions under different conditions. A key factor to consider during the design of neuroimaging experiments involving DCM is the relationship between the timing of tasks or stimuli presented to the subject and the ability of DCM to determine the underlying relationships between brain regions, which is partially determined by the temporal resolution of the imaging modality in use.",
+            "score": 22.56412184238434
+        },
+        {
+            "docid": "690512_27",
+            "document": "Akaike information criterion . The AIC values of the candidate models must all be computed with the same data set. Sometimes, though, we might want to compare a model of the response variable, , with a model of the logarithm of the response variable, . More generally, we might want to compare a model of the data with a model of transformed data. Following is an illustration of how to deal with data transforms (adapted from : \"Investigators should be sure that all hypotheses are modeled using the same response variable\").",
+            "score": 24.872252106666565
+        },
+        {
+            "docid": "24727574_2",
+            "document": "Synthetic seismogram . A synthetic seismogram is the result of forward modelling the seismic response of an input earth model, which is defined in terms of 1D, 2D or 3D variations in physical properties. In hydrocarbon exploration this is used to provide a 'tie' between changes in rock properties in a borehole and seismic reflection data at the same location. It can also be used either to test possible interpretation models for 2D and 3D seismic data or to model the response of the predicted geology as an aid to planning a seismic reflection survey. In the processing of wide-angle reflection and refraction (WARR) data, synthetic seismograms are used to further constrain the results of seismic tomography. In earthquake seismology, synthetic seismograms are used either to match the predicted effects of a particular earthquake source fault model with observed seismometer records or to help constrain the Earth's velocity structure. Synthetic seismograms are generated using specialized geophysical software.",
+            "score": 22.002624034881592
+        },
+        {
+            "docid": "42803144_9",
+            "document": "Uncertainties in building design and building energy assessment . The work of Schnieders and Hermelink (2006) showed a substantial variability in the energy demands of low-energy buildings designed under the same (Passivhaus) specification. Blight and Coley (2012) showed that substantial variability in energy use can be occasioned due to variance in occupant behaviour, including the use of windows and doors. Their paper also demonstrated that their method of modelling occupants\u2019 behaviour accurately reproduces actual behavioural patterns of inhabitants. This modelling method was the one developed by Richardson et al. (2008), using the Time-Use Survey (TUS) of the United Kingdom as a source for real behaviour of occupants, based on the activity of more than 6000 occupants as recorded in 24-hour diaries with a 10-minute resolution. Richardson\u2019s paper shows how the tool is able to generate behavioural patterns that correlate with the real data obtained from the TUS.",
+            "score": 37.83832788467407
+        },
+        {
+            "docid": "1089270_10",
+            "document": "Random sample consensus . The threshold value to determine when a data point fits a model , and the number of close data points required to assert that a model fits well to data are determined based on specific requirements of the application and the dataset, and possibly based on experimental evaluation. The number of iterations , however, can be determined from a theoretical result. Let be the probability that the RANSAC algorithm in some iteration selects only inliers from the input data set when it chooses the points from which the model parameters are estimated. When this happens, the resulting model is likely to be useful so formula_1 gives the probability that the algorithm produces a useful result. Let formula_2 be the probability of choosing an inlier each time a single point is selected, that is,",
+            "score": 26.26671051979065
+        },
+        {
+            "docid": "5837233_10",
+            "document": "Diagnosis (artificial intelligence) . We have a model that describes the behaviour of the system (or artefact). The model is an abstraction of the behaviour of the system and can be incomplete. In particular, the faulty behaviour is generally little-known, and the faulty model may thus not be represented. Given observations of the system, the diagnosis system simulates the system using the model, and compares the observations actually made to the observations predicted by the simulation.",
+            "score": 28.218841075897217
+        },
+        {
+            "docid": "39400005_21",
+            "document": "Fish acute toxicity syndrome . As mentioned previously, FATS have been used to establish models that predict toxicity of chemicals. For instance, FATS data is used to develop quantitative structure-activity relationship (QSAR) models. QSAR models developed using FATS data are then used to establish computer based systems that predict toxicity. For example, Russom and colleagues used Fathead Minnow (Pimephales promelas) 96-hour acute toxicity tests data, FATS data and QSARs to create a computer based expert system that predicts chemical toxicity based on chemical structures and properties. These models and systems are useful for screening chemicals to prioritize more toxic substances for further toxicity testing. This is particularly useful for industrial chemicals with unknown toxicity. This due to the quantity of industrial chemicals with unknown toxicity, for which individual toxicity testing is not realistic. In addition, models and computer systems that predict toxicity are also cost-effective in comparison to running toxicity tests on all unknown chemicals. In conclusion, predictive screening techniques derived from FATS data are practical and cost efficient.",
+            "score": 16.021386981010437
+        }
+    ],
+    "r": [
+        {
+            "docid": "46080_29",
+            "document": "Halteres . Flies rely on both visual information from their compound eyes and mechanical input from their halteres. Sherman and Dickinson (2002) discovered that the responsiveness of the halteres and eyes are tuned to complimentary speeds of rotation. Responses to body rotations detected via the visual system are greatest at slow speeds and decrease with increased angular velocity. In contrast, body rotations detected by the halteres elicit the greatest responses at higher angular velocities and degrade as the speed of rotation decreases. The integration of these two separately tuned sensors allows the flies to detect a wide range of angular velocities in all three directions of rotation.",
+            "score": 50.80979537963867
+        },
+        {
+            "docid": "1318086_5",
+            "document": "Revolutions per minute . Formally, hertz (Hz) and radian per second (rad/s) are two different names for the same SI unit, s. However, they are used for two different but proportional ISQ quantities: frequency and angular frequency (angular speed, magnitude of angular velocity). The conversion between a frequency (measured in hertz) and an angular velocity (measured in radians per second) are:",
+            "score": 48.349571228027344
+        },
+        {
+            "docid": "21009897_6",
+            "document": "Crossed molecular beam . Detecting scattered particles through a metal filament gave a good indication of angular distribution but has no sensitivity to kinetic energy. In order to gain insight into the kinetic energy distribution, early crossed molecular beam apparatuses used a pair of slotted disks placed between the collision center and the detector. By controlling the rotation speed of the disks, only particles with a certain known velocity could pass through and be detected. With information about the velocity, angular distribution, and identity of the scattered species, useful information about the dynamics of the system can be derived.",
+            "score": 46.86699676513672
+        },
+        {
+            "docid": "42896_29",
+            "document": "Viscometer . Rheometers and viscometers work with torque and angular velocity. Since we normally work with shear stress and shear rates, a method is needed to convert from \"instrument numbers\" to \"rheology numbers\".  Each measuring system used in an instrument will have its associated \"form factors\" to convert torque to shear stress and to convert angular velocity to shear rate.",
+            "score": 46.810768127441406
+        },
+        {
+            "docid": "65927_66",
+            "document": "Angular velocity . We have supposed that the rigid body rotates around an arbitrary point. We should prove that the angular velocity previously defined is independent from the choice of origin, which means that the angular velocity is an intrinsic property of the spinning rigid body.",
+            "score": 45.40089797973633
+        },
+        {
+            "docid": "65927_30",
+            "document": "Angular velocity . Given the orientation matrix \"A\"(\"t\") of a frame, whose columns are the moving orthonormal coordinate vectors formula_53, we can obtain its angular velocity tensor \"W\"(\"t\") as follows. Angular velocity must be the same for the three vectors formula_54, so arranging the three vector equations into columns of a matrix, we have:",
+            "score": 45.39470672607422
+        },
+        {
+            "docid": "24050869_10",
+            "document": "Inertial navigation system . However, by tracking both the current angular velocity of the system and the current linear acceleration of the system measured relative to the moving system, it is possible to determine the linear acceleration of the system in the inertial reference frame. Performing integration on the inertial accelerations (using the original velocity as the initial conditions) using the correct kinematic equations yields the inertial velocities of the system and integration again (using the original position as the initial condition) yields the inertial position. In our example, if the blindfolded passenger knew how the car was pointed and what its velocity was before he was blindfolded and if he is able to keep track of both how the car has turned and how it has accelerated and decelerated since, then he can accurately know the current orientation, position, and velocity of the car at any time.",
+            "score": 45.34605407714844
+        },
+        {
+            "docid": "30873515_7",
+            "document": "Inertial measurement unit . In a navigation system, the data reported by the IMU is fed into a processor which calculates attitude, velocity and position. A typical implementation referred to as a Strap Down Inertial System integrates angular rate from the gyroscope to calculate angular position. This is fused with the gravity vector measured by the accelerometers in a Kalman filter to estimate attitude. The attitude estimate is used to transform acceleration measurements into an inertial reference frame (hence the term inertial navigation) where they are integrated once to get linear velocity, and twice to get linear position.",
+            "score": 45.292476654052734
+        },
+        {
+            "docid": "199829_3",
+            "document": "Angular frequency . Angular frequency (or angular speed) is the magnitude of the vector quantity \"angular velocity\". The term angular frequency vector formula_1 is sometimes used as a synonym for the vector quantity angular velocity.",
+            "score": 45.12428665161133
+        },
+        {
+            "docid": "24050869_11",
+            "document": "Inertial navigation system . All inertial navigation systems suffer from integration drift: small errors in the measurement of acceleration and angular velocity are integrated into progressively larger errors in velocity, which are compounded into still greater errors in position. Since the new position is calculated from the previous calculated position and the measured acceleration and angular velocity, these errors accumulate roughly proportionally to the time since the initial position was input. Therefore, the position must be periodically corrected by input from some other type of navigation system.",
+            "score": 44.8730354309082
+        },
+        {
+            "docid": "25345530_40",
+            "document": "Models of neural computation . Flight control in the fly is believed to be mediated by inputs from the visual system and also the halteres, a pair of knob-like organs which measure angular velocity. Integrated computer models of \"Drosophila\", short on neuronal circuitry but based on the general guidelines given by control theory and data from the tethered flights of flies, have been constructed to investigate the details of flight control.",
+            "score": 44.83844757080078
+        },
+        {
+            "docid": "8330403_15",
+            "document": "Dirichlet process . As another example, we might be interested in modeling the velocities of galaxies using a simple model assuming that the velocities are clustered, for instance by assuming each velocity is distributed according to the normal distribution formula_51, where the formula_52th observation belongs to the formula_53th cluster of galaxies with common expected velocity. In this case it is far from obvious how to determine a priori how many clusters (of common velocities) there should be and any model for this would be highly suspect and should be checked against the data. By using a Dirichlet process prior for the distribution of cluster means we circumvent the need to explicitly specify ahead of time how many clusters there are, although the concentration parameter still controls it implicitly.",
+            "score": 44.31612014770508
+        },
+        {
+            "docid": "7783_18",
+            "document": "Coriolis force . The second is the change of velocity in space. Different positions in a rotating frame of reference have different velocities (as seen from an inertial frame of reference). For an object to move in a straight line, it must accelerate so that its velocity changes from point to point by the same amount as the velocities of the frame of reference. The force is proportional to the angular velocity (which determines the relative speed of two different points in the rotating frame of reference), and to the component of the velocity of the object in a plane perpendicular to the axis of rotation (which determines how quickly it moves between those points). This also gives a term formula_6.",
+            "score": 44.28569793701172
+        },
+        {
+            "docid": "39475804_4",
+            "document": "Continuous gusts . The models accepted by the FAA and Department of Defense represent continuous gusts as a wind linear and angular velocity field that is a random process and make a number of simplifying assumptions in order to describe them mathematically. In particular, continuous gusts are assumed to be: These assumptions, while unrealistic, yield acceptable models for flight dynamics applications. The last assumption of a velocity field that does not vary with time is especially unrealistic, since measurements of atmospheric turbulence at one point in space always vary with time. These models rely on the airplane's motion through the gusts to generate temporal variations in wind velocity, making them inappropriate for use as inputs to models of hovering, wind turbines, or other applications that are fixed in space.",
+            "score": 44.25948715209961
+        },
+        {
+            "docid": "65927_11",
+            "document": "Angular velocity . In three-dimensional space, we again have the position vector r of a moving particle, its radius vector from the origin. Angular velocity is a vector (or pseudovector) whose magnitude measures the rate at which the radius sweeps out angle, and whose direction shows the principal axis of rotation. Its up-or-down direction is given by the right-hand rule.",
+            "score": 44.028709411621094
+        },
+        {
+            "docid": "2860430_20",
+            "document": "Neural oscillation . Computational models adopt a variety of abstractions in order to describe complex oscillatory dynamics observed in brain activity. Many models are used in the field, each defined at a different level of abstraction and trying to model different aspects of neural systems. They range from models of the short-term behaviour of individual neurons, through models of how the dynamics of neural circuitry arise from interactions between individual neurons, to models of how behaviour can arise from abstract neural modules that represent complete subsystems.",
+            "score": 43.949867248535156
+        },
+        {
+            "docid": "2973295_22",
+            "document": "Satellite galaxy . As satellites orbit their host and interact with each other they progressively lose small amounts of kinetic energy and angular momentum due to dynamical friction. Consequently, the distance between the host and the satellite progressively decreases in order to conserve angular momentum. This process continues until the satellite ultimately mergers with the host galaxy. Furthermore, If we assume that the host is a singular isothermal sphere (SIS) and the satellite is a SIS that is sharply truncated at the radius at which it begins to accelerate towards the host (known as the Jacobi radius), then the time formula_36 that it takes for dynamical friction to result in a minor merger can be approximated as follows:formula_37where formula_38 is the initial radius at formula_39, formula_40 is the velocity dispersion of the host galaxy, formula_41 is the velocity dispersion of the satellite and formula_42 is the Coulomb logarithm defined as formula_43 with formula_44, formula_45 and formula_46 respectively representing the maximum impact parameter, the half-mass radius and the typical relative velocity. Moreover, both the half-mass radius and the typical relative velocity can be rewritten in terms of the radius and velocity dispersion such that formula_47 and formula_48. Using the Faber-Jackson relation, the velocity dispersion of satellites and their host can be estimated individually from their observed luminosity. Therefore, using the equation above it is possible to estimate the time that it takes for a satellite galaxy to be consumed by the host galaxy.",
+            "score": 43.749794006347656
+        },
+        {
+            "docid": "65927_6",
+            "document": "Angular velocity . In the general case of a particle moving in the plane, the angular velocity is measured relative to a chosen center point, called the origin. The diagram shows the radius vector r from the origin \"O\" to the particle \"P\", with its polar coordinates formula_8. (All variables are functions of time \"t\".) The particle has linear velocity splitting as formula_9, with the radial component formula_10 parallel to the radius, and the cross-radial (or tangential or circular) component formula_11 perpendicular to the radius. When there is no radial component, the particle moves around the origin in a circle; but when there is no cross-radial component, it moves in a straight line from the origin. Since radial motion leaves the angle unchanged, only the cross-radial component of linear velocity contributes to angular velocity.",
+            "score": 43.72937774658203
+        },
+        {
+            "docid": "65927_15",
+            "document": "Angular velocity . If a point rotates with angular velocity formula_28 in a coordinate frame formula_29 which itself rotates with an angular velocity formula_30 with respect to an external frame formula_31, we can define formula_32 to be the composite angular velocity vector of the point with respect to formula_31. This operation coincides with usual addition of vectors, and it gives angular velocity the algebraic structure of a true vector, rather than just a pseudo-vector.",
+            "score": 43.589942932128906
+        },
+        {
+            "docid": "10458337_3",
+            "document": "Variable reluctance sensor . With more complex circuitry and the addition of software and specific mechanical hardware, a VR sensor can also provide measurements of linear velocity, angular velocity, frequency, etc.",
+            "score": 43.58502960205078
+        },
+        {
+            "docid": "3151702_6",
+            "document": "Smooth pursuit . Pursuit eye movement can be divided into two stages: open-loop pursuit and closed-loop pursuit. Open-loop pursuit is the visual system's first response to a moving object we want to track and typically lasts ~100 ms. Therefore, this stage is \"ballistic\": Visual signals have not yet had time to correct the ongoing pursuit velocity or direction. The second stage of pursuit, closed-loop pursuit, lasts until the pursuit movement has ceased. This stage is characterized by the online correction of pursuit velocity to compensate for \"retinal slip\". In other words, the pursuit system tries to null retinal velocity of the object of interest. This is achieved at the end of the open-loop phase. In the closed-loop phase, the eye angular velocity and target angular velocity are nearly equal.",
+            "score": 43.5272331237793
+        },
+        {
+            "docid": "1238797_2",
+            "document": "Constant angular velocity . In optical storage, constant angular velocity (CAV) is a qualifier for the rated speed of any disc containing information, and may also be applied to the writing speed of recordable discs. A drive or disc operating in CAV mode maintains a constant angular velocity, contrasted with a constant linear velocity (CLV).",
+            "score": 42.97587585449219
+        },
+        {
+            "docid": "186630_11",
+            "document": "Cosmic Background Explorer . The need to control systematic error in the measurement of the CMB anisotropy and measuring the zodiacal cloud at different elongation angles for subsequent modeling required that the satellite rotate at a 0.8 rpm spin rate. The spin axis is also tilted back from the orbital velocity vector as a precaution against possible deposits of residual atmospheric gas on the optics as well against the infrared glow that would result from fast neutral particles hitting its surfaces at extremely high speed. In order to meet the twin demands of slow rotation and three-axis attitude control, a sophisticated pair of yaw angular momentum wheels were employed with their axis oriented along the spin axis . These wheels were used to carry an angular momentum opposite that of the entire spacecraft in order to create a zero net angular momentum system.",
+            "score": 42.67564392089844
+        },
+        {
+            "docid": "65927_19",
+            "document": "Angular velocity . Consistent with the general definition, the angular velocity of a frame is defined as the angular velocity of any of the three vectors (same for all). The addition of angular velocity vectors for frames is also defined by the usual vector addition (composition of linear movements), and can be useful to decompose the rotation as in a gimbal. Components of the vector can be calculated as derivatives of the parameters defining the moving frames (Euler angles or rotation matrices). As in the general case, addition is commutative: formula_37.",
+            "score": 42.55181884765625
+        },
+        {
+            "docid": "51776_15",
+            "document": "Hydrostatic equilibrium . We can also use the principle of hydrostatic equilibrium to estimate the velocity dispersion of dark matter in clusters of galaxies. Only baryonic matter (or, rather, the collisions thereof) emits X-ray radiation. The absolute X-ray luminosity per unit volume takes the form formula_23 where formula_24 and formula_25 are the temperature and density of the baryonic matter, and formula_26 is some function of temperature and fundamental constants. The baryonic density satisfies the above equation formula_27: The integral is a measure of the total mass of the cluster, with formula_29 being the proper distance to the center of the cluster. Using the ideal gas law formula_30 (formula_31 is Boltzmann's constant and formula_32 is a characteristic mass of the baryonic gas particles) and rearranging, we arrive at Multiplying by formula_34 and differentiating with respect to formula_29 yields If we make the assumption that cold dark matter particles have an isotropic velocity distribution, then the same derivation applies to these particles, and their density formula_37 satisfies the non-linear differential equation With perfect X-ray and distance data, we could calculate the baryon density at each point in the cluster and thus the dark matter density. We could then calculate the velocity dispersion formula_39 of the dark matter, which is given by  The central density ratio formula_41 is dependent on the redshift formula_11 of the cluster and is given by where formula_22 is the angular width of the cluster and formula_45 the proper distance to the cluster. Values for the ratio range from .11 to .14 for various surveys.",
+            "score": 42.50600051879883
+        },
+        {
+            "docid": "51462_50",
+            "document": "Machine . The dynamic analysis of a machine requires the determination of the movement, or kinematics, of its component parts, known as kinematic analysis. The assumption that the system is an assembly of rigid components allows rotational and translational movement to be modeled mathematically as Euclidean, or rigid, transformations. This allows the position, velocity and acceleration of all points in a component to be determined from these properties for a reference point, and the angular position, angular velocity and angular acceleration of the component.",
+            "score": 42.36263656616211
+        },
+        {
+            "docid": "7577556_8",
+            "document": "Oort constants . With the assumption of circular motion, the rotational velocity is related to the angular velocity by formula_17 and we can substitute this into the velocity expressions:",
+            "score": 42.25394058227539
+        },
+        {
+            "docid": "12010787_8",
+            "document": "Magnetorotational instability . To see this unstable behavior more quantitatively, consider the equations of motion for a fluid element mass in circular motion with an angular velocity formula_6 In general formula_4 will be a function of the distance from the rotation axis formula_5 and we assume that the orbital radius is formula_9 The centripetal acceleration required to keep the mass in orbit is formula_10 the minus sign indicates a direction toward the center. If this force is gravity from a point mass at the center, then the centripetal acceleration is simply formula_11 where formula_12 is the gravitational constant and formula_13 is the central mass. Let us now consider small departures from the circular motion of the orbiting mass element caused by some perturbing force. We transform variables into a rotating frame moving with the orbiting mass element at angular velocity formula_14 with origin located at the unperturbed, orbiting location of the mass element. As usual when working in a rotating frame, we need to add to the equations of motion a Coriolis force formula_15 plus a centrifugal force formula_16 The velocity formula_17 is the velocity as measured in the rotating frame. Furthermore, we restrict our attention to a small neighborhood near formula_18 say formula_19 with formula_20 much smaller than formula_21 Then the sum of the centrifugal and centripetal forces is to linear order in formula_22 With our formula_20 axis pointing radial outward from the unperturbed location of the fluid element and our formula_24 axis pointing in the direction of increasing azimuthal angle (the direction of the unperturbed orbit), the formula_20 and formula_24 equations of motion for a small departure from a circular orbit formula_27 are: where formula_28 and formula_29 are the forces per unit mass in the formula_20 and formula_24 directions, and a dot indicates a time derivative (i.e., formula_32 is the formula_20 velocity, formula_34 is the formula_20 acceleration, etc.). Provided that formula_28 and formula_29 are either 0 or linear in x and y, this is a system of coupled second-order linear differential equations that can be solved analytically. In the absence of external forces, formula_38 and formula_39, the equations of motion have solutions with the time dependence formula_40 where the angular frequency formula_41 satisfies the equation",
+            "score": 42.18147659301758
+        },
+        {
+            "docid": "32059083_24",
+            "document": "Machine (mechanical) . The dynamic analysis of a machine requires the determination of the movement, or kinematics, of its component parts, known as kinematic analysis. The assumption that the system is an assembly of rigid components allows rotational and translational movement to be modeled mathematically as Euclidean, or rigid, transformations. This allows the position, velocity and acceleration of all points in a component to be determined from these properties for a reference point, and the angular position, angular velocity and angular acceleration of the component.",
+            "score": 42.092655181884766
+        },
+        {
+            "docid": "24050869_8",
+            "document": "Inertial navigation system . Gyroscopes measure the angular velocity of the sensor frame with respect to the inertial reference frame. By using the original orientation of the system in the inertial reference frame as the initial condition and integrating the angular velocity, the system's current orientation is known at all times. This can be thought of as the ability of a blindfolded passenger in a car to feel the car turn left and right or tilt up and down as the car ascends or descends hills. Based on this information alone, the passenger knows what direction the car is facing but not how fast or slow it is moving, or whether it is sliding sideways.",
+            "score": 42.07045364379883
+        },
+        {
+            "docid": "53747734_6",
+            "document": "Positional tracking . Inertial tracking use data from accelerometers and gyroscopes. Accelerometers measure linear acceleration. Since the derivative of position with respect to time is velocity and the derivative of velocity is acceleration, the output of the accelerometer could be integrated to find the velocity and then integrated again to find the position relative to some initial point. Gyroscopes measure angular velocity. Angular velocity can be integrated as well to determine angular position relatively to the initial point. Modern inertial measurement units systems (IMU) are based on MEMS technology allows to track the orientation (roll, pitch, yaw) in space with high update rates and minimal latency. But it is hard to rely only on inertial tracking to determine the precise position because dead reckoning leads to drift, so this one is not used in isolation in virtual reality.",
+            "score": 41.993656158447266
+        },
+        {
+            "docid": "51212428_26",
+            "document": "Low Level Bombsight, Mark III . The Low Level sight used this angular velocity principle to time the drop. The aircraft's altitude and the type of bomb being used were used to calculate the time that the bomb would take to reach the ground, and when that was multiplied by the airspeed, the range was produced. The ballistics did not have to be more complex than that, there simply wasn't enough time for drag to be significant. The derivative of this calculation reveals the angular velocity of an object at that range as seen from the bomber's altitude and speed. To simplify operation, all of this was carried out in a simple mechanical computer.",
+            "score": 41.84266662597656
+        }
+    ]
+}

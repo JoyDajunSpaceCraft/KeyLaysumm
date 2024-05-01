@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "5036465_4",
+            "document": "Spiral ganglion . Two apparent subtypes of spiral ganglion cells exist. Type I spiral ganglion cells comprise the vast majority of spiral ganglion cells (90-95% in cats and 88% in humans), and exclusively innervate the inner hair cells. They are myelinated, bipolar neurons. Type II spiral ganglion cells make up the remainder. In contrast to Type I cells, they are unipolar and unmyelinated in most mammals. They innervate the outer hair cells, with each Type II neuron sampling many (15-20) outer hair cells. In addition, outer hair cells form reciprocal synapses onto Type II spiral ganglion cells, suggesting that the Type II cells have both afferent and efferent roles.",
+            "score": 242.22860145568848
+        },
+        {
+            "docid": "25260196_23",
+            "document": "Neuronal encoding of sound . Type II neurons on the other hand innervate outer hair cells. However, there is significantly greater convergence of this type of neuron towards the apex end in comparison with the basal end. A 1:30-60 ratio of innervation is seen between Type II neurons and outer hair cells which in turn make these neurons ideal for electromechanical feedback. Type II neurons can be physiologically manipulated to innervate inner hair cells provided outer hair cells have been destroyed either through mechanical damage or by chemical damage induced by drugs such as gentamicin.",
+            "score": 210.34728932380676
+        },
+        {
+            "docid": "25260196_14",
+            "document": "Neuronal encoding of sound . The cochlea of the inner ear, a marvel of physiological engineering, acts as both a frequency analyzer and nonlinear acoustic amplifier. The cochlea has over 32,000 hair cells. Outer hair cells primarily provide amplification of traveling waves that are induced by sound energy, while inner hair cells detect the motion of those waves and excite the (Type I) neurons of the auditory nerve.",
+            "score": 240.04950046539307
+        },
+        {
+            "docid": "21944_3",
+            "document": "Nervous system . At the cellular level, the nervous system is defined by the presence of a special type of cell, called the neuron, also known as a \"nerve cell\". Neurons have special structures that allow them to send signals rapidly and precisely to other cells. They send these signals in the form of electrochemical waves traveling along thin fibers called axons, which cause chemicals called neurotransmitters to be released at junctions called synapses. A cell that receives a synaptic signal from a neuron may be excited, inhibited, or otherwise modulated. The connections between neurons can form neural pathways, neural circuits, and larger networks that generate an organism's perception of the world and determine its behavior. Along with neurons, the nervous system contains other specialized cells called glial cells (or simply glia), which provide structural and metabolic support.",
+            "score": 120.08015084266663
+        },
+        {
+            "docid": "49604_111",
+            "document": "Hearing loss . A 2005 study achieved successful regrowth of cochlea cells in guinea pigs. However, the regrowth of cochlear hair cells does not imply the restoration of hearing sensitivity, as the sensory cells may or may not make connections with neurons that carry the signals from hair cells to the brain. A 2008 study has shown that gene therapy targeting Atoh1 can cause hair cell growth and attract neuronal processes in embryonic mice. Some hope that a similar treatment will one day ameliorate hearing loss in humans.",
+            "score": 179.69858813285828
+        },
+        {
+            "docid": "4548229_12",
+            "document": "Interaural time difference . The auditory nerve fibres, known as the afferent nerve fibres, carry information from the organ of Corti to the brainstem and brain. Auditory afferent fibres consist of two types of fibres called type I and type II fibres. Type I fibres innervate the base of one or two inner hair cells and Type II fibres innervate the outer hair cells. Both leave the organ of Corti through an opening called the habenula perforata. The type I fibres are thicker than the type II fibres and may also differ in how they innervate the inner hair cells. Neurons with large calycal endings ensure preservation of timing information throughout the ITD pathway.",
+            "score": 223.02874565124512
+        },
+        {
+            "docid": "25260196_17",
+            "document": "Neuronal encoding of sound . Cochlear hair cells are organized as inner hair cells and outer hair cells; inner and outer refer to relative position from the axis of the cochlear spiral. The inner hair cells are the primary sensory receptors and a significant amount of the sensory input to the auditory cortex occurs from these hair cells. Outer hair cells on the other hand boost the mechanical signal by using electromechanical feedback.",
+            "score": 204.5344066619873
+        },
+        {
+            "docid": "890232_2",
+            "document": "Hair cell . Hair cells are the sensory receptors of both the auditory system and the vestibular system in the ears of all vertebrates. Through mechanotransduction, hair cells detect movement in their environment. In mammals, the auditory hair cells are located within the spiral organ of Corti on the thin basilar membrane in the cochlea of the inner ear. They derive their name from the tufts of stereocilia called \"hair bundles\" that protrude from the apical surface of the cell into the fluid-filled cochlear duct. Mammalian cochlear hair cells are of two anatomically and functionally distinct types, known as outer, and inner hair cells. Damage to these hair cells results in decreased hearing sensitivity, and because the inner ear hair cells cannot regenerate, this damage is permanent. However, other organisms, such as the frequently studied zebrafish, and birds have hair cells that can regenerate. The human cochlea contains on the order of 3,500 inner hair cells and 12,000 outer hair cells at birth.",
+            "score": 255.44959092140198
+        },
+        {
+            "docid": "12142270_3",
+            "document": "GENESIS (software) . GENESIS works by creating simulation environments for constructing models of neurons or neural systems. \"Nerve cells are capable of communicating with each other in such a highly structured manner as to form neuronal networks. To understand neural networks, it is necessary to understand the ways in which one neuron communicates with another through synaptic connections and the process called synaptic transmission\". Neurons have a specialized structure for their function, they \"are different from most other cells in the body in that they are polarized and have distinct morphological regions, each with specific functions\". The two important regions of a neuron are the dendrite and the axon. \"Dendrites are the region where one neuron receives connections from other neurons. The cell body or soma contains the nucleus and the other organelles necessary for cellular function. The axon is a key component of nerve cells over which information is transmitted from one part of the neuron (e.g., the cell body) to the terminal regions of the neuron\". The third important piece of a neuron is the synapse. \"The synapse is the terminal region of the axon this is where one neuron forms a connection with another and conveys information through the process of synaptic transmission\".",
+            "score": 116.72291111946106
+        },
+        {
+            "docid": "17523336_4",
+            "document": "Olivocochlear system . The LOCS (originating from both the intrinsic and shell neurons) contains unmyelinated fibres that synapse with the dendrites of the Type I spiral ganglion cells projecting to the inner hair cells. While the intrinsic LOCS neurons tend to be small (~10 to 15\u00a0\u00b5m in diameter), and the shell OC neurons are larger (~25\u00a0\u00b5m in diameter), it is the intrinsic OC neurons that possess the larger axons (0.77\u00a0\u00b5m compared to 0.37\u00a0\u00b5m diameter for shell neurons). In contrast, the MOCS contains myelinated nerve fibres which innervate the outer hair cells directly. Although both the LOCS and MOCS contain crossed (contralateral) and uncrossed (ipsilateral) fibres, in most mammalian species the majority of LOCS fibres project to the ipsilateral cochlea, whilst the majority of the MOCS fibres project to the contralateral cochlea. The proportion of fibres in the MOCS and LOCS also varies between species, but in most cases the fibres of the LOCS are more numerous. In humans, there are an estimated (average) 1,000 LOCS fibres and 360 MOCS fibres, however the numbers vary between individuals. The MOCS gives rise to a frequency-specific innervation of the cochlea, in that MOC fibres terminate on the outer hair cells at the place in the cochlea predicted from the fibres\u2019 characteristic frequency, and are thus tonotopically organised in the same fashion as the primary afferent neurons. The fibres of the LOCS also appear to be arranged in a tonotopic fashion. However, it is not known whether the characteristic frequencies of the LOCS fibres coincide with the characteristic frequencies of the primary afferent neurons, since attempts to selectively stimulate the fibres of the LOCS have been largely unsuccessful. Intrinsic LOCS derived axons travel only approximately 1\u00a0\u00b5m within the organ of Corti, generally spiraling apically. They give off a small tuft of synaptic boutons that is compact in its extent, often involving less than 10 IHCs. In comparison, shell neurons spiral both apically and basally, and can cover large territories within the organ of Corti. The shell axons often cover 1-2 octaves of tonotopic length. Their terminal arbor is quite sparse, however.",
+            "score": 176.27323389053345
+        },
+        {
+            "docid": "25260196_22",
+            "document": "Neuronal encoding of sound . Type I neurons innervate inner hair cells. There is significantly greater convergence of this type of neuron towards the basal end in comparison with the apical end. A radial fiber bundle acts as an intermediary between Type I neurons and inner hair cells. The ratio of innervation that is seen between Type I neurons and inner hair cells is 1:1 which results in high signal transmission fidelity and resolution.",
+            "score": 191.91910696029663
+        },
+        {
+            "docid": "8460279_10",
+            "document": "Neurosphere . Researchers are exploring the use of neural stem cells (NSCs) obtained from neurospheres to aid in the regrowth of inner ear neurons and hair cells. Hu et al. transplanted adult mice NSCs into normal and deafened inner ears of guinea pigs. Prior to implantation, the NSCs were treated with neurogenin 2 protein to encourage proliferation of the intended inner ear cells. They concluded that adult NSCs were indeed able to survive and differentiate in the injured inner ear, and that this type of therapy could possibly act to restore auditory function in hearing impaired subjects. This experiment also indicates that genetic engineering can contribute to the success of generating specific progenitor cells of interest.",
+            "score": 165.32800841331482
+        },
+        {
+            "docid": "859926_13",
+            "document": "Sensory neuron . This mechanoelectrical transduction is mediated with hair cells within the ear. Depending on the movement, the hair cell can either hyperpolarize or depolarize. When the movement is towards the tallest stereocilia, the Na cation channels open allowing Na to flow into cell and the resulting depolarization causes the Ca channels to open, thus releasing its neurotransmitter into the afferent auditory nerve. There are two types of hair cells: inner and outer. The inner hair cells are the sensory receptors .",
+            "score": 199.94344091415405
+        },
+        {
+            "docid": "46348501_3",
+            "document": "Evolution of the cochlea . While the basic structure of the inner ear in lepidosaurs (lizards and snakes), archosaurs (birds and crocodilians) and mammals is similar, and the organs are considered to be homologous, each group has a unique type of auditory organ. The hearing organ arose within the lagenar duct of stem reptiles, lying between the saccular and lagenar epithelia. In lepidosaurs, the hearing organ, the basilar papilla, is generally small, with at most 2000 hair cells, whereas in archosaurs the basilar papilla can be much longer (>10mm in owls) and contain many more hair cells that show two typical size extremes, the short and the tall hair cells. In mammals, the structure is known as the organ of Corti and shows a unique arrangement of hair cells and supporting cells. All mammalian organs of Corti contain a supporting tunnel made up of pillar cells, on the inner side of which there are inner hair cells and outer hair cells on the outer side. The definitive mammalian middle ear and the elongated cochlea allows for better sensitivity for higher frequencies.",
+            "score": 229.78572118282318
+        },
+        {
+            "docid": "25260196_21",
+            "document": "Neuronal encoding of sound . There are two types of afferent neurons found in the cochlear nerve: Type I and Type II. Each type of neuron has specific cell selectivity within the cochlea. The mechanism that determines the selectivity of each type of neuron for a specific hair cell has been proposed by two diametrically opposed theories in neuroscience known as the peripheral instruction hypothesis and the cell autonomous instruction hypothesis. The peripheral instruction hypothesis states that phenotypic differentiation between the two neurons are not made until after these undifferentiated neurons attach to hair cells which in turn will dictate the differentiation pathway. The cell autonomous instruction hypothesis states that differentiation into Type I and Type II neurons occur following the last phase of mitotic division but preceding innervations. Both types of neuron participate in the encoding of sound for transmission to the brain.",
+            "score": 196.1089414358139
+        },
+        {
+            "docid": "46201232_3",
+            "document": "Multivesicular release . In the mammalian brain, MVR has been shown to be common in CA1 pyramidal cells and Schaffer collateral cells. It has also been proposed and then refuted at the ribbon synapses formed between inner hair cell and spiral ganglion neurons. Recent evidence points to a possibility of MVR at neocortical connections of the somatosensory cortex.",
+            "score": 151.13940811157227
+        },
+        {
+            "docid": "56439577_34",
+            "document": "Temporal envelope and fine structure . The effects of hearing loss and age on neural coding are generally believed to be smaller for slowly varying envelope responses (i.e., ENV) than for rapidly varying temporal fine structure (i.e., TFS). Enhanced ENV coding following noise-induced hearing loss has been observed in peripheral auditory responses from single neurons and in central evoked responses from the auditory midbrain. The enhancement in ENV coding of narrowband sounds occurs across the full range of modulation frequencies encoded by single neurons. For broadband sounds, the range of modulation frequencies encoded in impaired responses is broader than normal (extending to higher frequencies), as expected from reduced frequency selectivity associated with outer-hair-cell dysfunction. The enhancement observed in neural envelope responses is consistent with enhanced auditory perception of modulations following cochlear damage, which is commonly believed to result from loss of cochlear compression that occurs with outer-hair-cell dysfunction due to age or noise overexposure. \u00a0However, the influence of inner-hair-cell dysfunction (e.g., shallower response growth for mild-moderate damage and steeper growth for severe damage) can confound the effects of outer-hair-cell dysfunction on overall response growth and thus ENV coding. Thus, not surprisingly the relative effects of outer-hair-cell and inner-hair-cell dysfunction have been predicted with modeling to create individual differences in speech intelligibility based on the strength of envelope coding of speech relative to noise.",
+            "score": 182.11870074272156
+        },
+        {
+            "docid": "21245_12",
+            "document": "Neuroscience . The scientific study of the nervous system has increased significantly during the second half of the twentieth century, principally due to advances in molecular biology, electrophysiology, and computational neuroscience. This has allowed neuroscientists to study the nervous system in all its aspects: how it is structured, how it works, how it develops, how it malfunctions, and how it can be changed. For example, it has become possible to understand, in much detail, the complex processes occurring within a single neuron. Neurons are cells specialized for communication. They are able to communicate with neurons and other cell types through specialized junctions called synapses, at which electrical or electrochemical signals can be transmitted from one cell to another. Many neurons extrude a long thin filament of axoplasm called an axon, which may extend to distant parts of the body and are capable of rapidly carrying electrical signals, influencing the activity of other neurons, muscles, or glands at their termination points. A nervous system emerges from the assemblage of neurons that are connected to each other.",
+            "score": 121.47347259521484
+        },
+        {
+            "docid": "21244265_9",
+            "document": "Olfaction . Olfactory sensory neurons project axons to the brain within the olfactory nerve, (cranial nerveI). These nerve fibers, lacking myelin sheaths, pass to the olfactory bulb of the brain through perforations in the cribriform plate, which in turn projects olfactory information to the olfactory cortex and other areas. The axons from the olfactory receptors converge in the outer layer of the olfactory bulb within small (\u224850 micrometers in diameter) structures called glomeruli. Mitral cells, located in the inner layer of the olfactory bulb, form synapses with the axons of the sensory neurons within glomeruli and send the information about the odor to other parts of the olfactory system, where multiple signals may be processed to form a synthesized olfactory perception. A large degree of convergence occurs, with 25,000 axons synapsing on 25 or so mitral cells, and with each of these mitral cells projecting to multiple glomeruli. Mitral cells also project to periglomerular cells and granular cells that inhibit the mitral cells surrounding it (lateral inhibition). Granular cells also mediate inhibition and excitation of mitral cells through pathways from centrifugal fibers and the anterior olfactory nuclei. Neuromodulators like acetylcholine, serotonin and norepinephrine all send axons to the olfactory bulb and have been implicated in gain modulation, pattern separation, and memory functions, respectively.",
+            "score": 121.59660720825195
+        },
+        {
+            "docid": "4301708_4",
+            "document": "Cochlear nucleus . The major input to the cochlear nucleus is from the auditory nerve, a part of cranial nerve VIII (the vestibulocochlear nerve). The auditory nerve fibers form a highly organized system of connections according to their peripheral innervation of the cochlea. Axons from the spiral ganglion cells of the lower frequencies innervate the ventrolateral portions of the ventral cochlear nucleus and lateral-ventral portions of the dorsal cochlear nucleus. The axons from the higher frequency organ of corti hair cells project to the dorsal portion of the ventral cochlear nucleus and the dorsal-medial portions of the dorsal cochlear nucleus. The mid frequency projections end up in between the two extremes; in this way the tonotopic organization that is established in the cochlea is preserved in the cochlear nuclei. This tonotopic organization is preserved because only a few inner hair cells synapse on the dendrites of a nerve cell in the spiral ganglion, and the axon from that nerve cell synapses on only a very few dendrites in the cochlear nucleus. In contrast with the VCN that receives all acoustic input from the auditory nerve, the DCN receives input not only from the auditory nerve but it also receives acoustic input from neurons in the VCN (T stellate cells). The DCN is therefore in a sense a second order sensory nucleus.",
+            "score": 160.69128441810608
+        },
+        {
+            "docid": "6546126_6",
+            "document": "Stratum lucidum of hippocampus . The types of neurons found in the stratum lucidum are called interneurons, neurons which form a connection between other neurons in a different location. This situation is described in the mossy fiber axon connection in the CA3 stratum lucidum region of the hippocampus as is in relation to Purkinje cells. The interneurons found in the stratum lucidum are of two classes, spiny and aspiny. Spiny neurons are a \"special type of inhibitory cell\", characterized by spiny projections on the dendrites of the cell. The axons of these neurons in the hippocampus terminate primarily in the stratum lucidum and stratum radiatum of CA3. Spiny neurons are of importance because of their \"pivotal role in motor control, habit formation, and motivated behavior\". They receive synaptic inputs from mossy fibers boutons, as well as multiple other synaptic terminals. The majority of axon collaterals of these neurons remain in the stratum lucidum and CA3 region, though in some cases axon collaterals of these neurons are observed migrating into the CA1 region of the hippocampus. Aspiny neurons, the second class of neurons found in the stratum lucidum, are another type of inhibitory cell similar to spiny neurons, though lacking dendrite projections. They make up the majority of the neuron composition in comparison to spiny neurons, about 63 percent. The somata of aspiny neurons are for the most part bipolar, generating 2\u20135 primary dendrites \"that to a varying extent displayed varicose swellings in their course\". Similar to spiny neurons, aspiny neuron dendrites \"branch extensively in stratum lucidum and stratum radiatum of CA3\", in contrast to spiny neurons, however, some dendrites \"traversed stratum pyramidale and entered stratum oriens\", the second deepest layer of the hippocampus. Additionally, what distinguishes aspiny neurons form spiny neurons is their higher maximal firing rates and narrower action potential half-widths than their spiny counterparts.",
+            "score": 109.28766000270844
+        },
+        {
+            "docid": "20850385_13",
+            "document": "Gyrification . Cortical stem cells, known as radial glial cells (RGC)s, reside in the ventricular zone and generate the excitatory glutamatergic neurons of the cerebral cortex. These cells rapidly proliferate through self-renewal at early developmental stages, expanding the progenitor pool and increasing cortical surface area. At this stage, the pattern of cortical areas is genetically programmed by a system of signaling centers through the process of cortical patterning, and the primordial map of cortical functional areas at this stage is called a 'protomap'. Cortical neurogenesis begins to deplete the pool of progenitor cells, subject to the influences of many genetic cues such as fibroblast growth factors (FGF)s and Notch. RGCs generate intermediate neuronal precursors that divide further in the subventricular zone (SVZ), amplifying the number of cortical neurons being produced. The long fibers of RGCs project all the way through the developing cortex to the pial surface of the brain, and these fibers serve as physical guides for neuronal migration. A second class of RGC, termed basal RGCs (bRGC)s, forms a third progenitor pool in the outer SVZ. Basal RGCs are generally much more abundant in higher mammals. Both classic RGCs and the recently described bRGCs represent guiding cues that lead newborn neurons to their destination in the cortex. Increased numbers of bRGCs increase the density of guiding fibers in an otherwise fanning out array which would lose fiber density. The scientific literature points to differences in the dynamics of proliferation and neuronal differentiation in each of these progenitor zones across mammalian species, and such differences may account for the large differences in cortical size and gyrification among mammals. One hypothesis suggests that certain progenitor cells generate abundant neurons destined for the outer cortical layers, causing greater surface area increase in the outer layers compared with the inner cortical layers. It remains unclear how this may work without further mechanistic elements.",
+            "score": 118.08202528953552
+        },
+        {
+            "docid": "1187487_43",
+            "document": "Sensorineural hearing loss . The bending of the stereocilia towards the basal body of the OHC causes excitation of the hair cell. Thus, an increase in firing rate of the auditory neurons connected to the hair cell occurs. On the other hand, the bending of the stereocilia away from the basal body of the OHC causes inhibition of the hair cell. Thus, a decrease in firing rate of the auditory neurons connected to the hair cell occurs. OHCs are unique in that they are able to contract and expand (electromotility). Therefore, in response to the electrical stimulations provided by the efferent nerve supply, they can alter in length, shape and stiffness. These changes influence the response of the basilar membrane to sound. It is therefore clear that the OHCs play a major role in the active processes of the cochlea. The main function of the active mechanism is to finely tune the basilar membrane, and provide it with a high sensitivity to quiet sounds. The active mechanism is dependent on the cochlea being in good physiological condition. However, the cochlea is very susceptible to damage.",
+            "score": 189.49397659301758
+        },
+        {
+            "docid": "21120_2",
+            "document": "Neuron . A neuron, also known as a neurone (British spelling) and nerve cell, is an electrically excitable cell that receives, processes, and transmits information through electrical and chemical signals. These signals between neurons occur via specialized connections called synapses. Neurons can connect to each other to form neural circuits. Neurons are the primary components of the central nervous system, which includes the brain and spinal cord, and of the peripheral nervous system, which comprises the autonomic nervous system and the somatic nervous system.",
+            "score": 108.4487464427948
+        },
+        {
+            "docid": "5036465_3",
+            "document": "Spiral ganglion . Neurons whose cell bodies lie in the spiral ganglion are strung along the bony core of the cochlea, and send fibers (axons) into the central nervous system (CNS). These bipolar neurons are the first neurons in the auditory system to fire an action potential, and supply all of the brain's auditory input. Their dendrites make synaptic contact with the base of hair cells, and their axons are bundled together to form the auditory portion of eighth cranial nerve. The number of neurons in the spiral ganglion is estimated to be about 35,000\u201350,000.",
+            "score": 146.10353350639343
+        },
+        {
+            "docid": "534710_8",
+            "document": "Cone cell . Like rods, each cone cell has a synaptic terminal, an inner segment, and an outer segment as well as an interior nucleus and various mitochondria. The synaptic terminal forms a synapse with a neuron such as a bipolar cell. The inner and outer segments are connected by a cilium. The inner segment contains organelles and the cell's nucleus, while the outer segment, which is pointed toward the back of the eye, contains the light-absorbing materials.",
+            "score": 132.6046802997589
+        },
+        {
+            "docid": "337071_2",
+            "document": "Nucleus (neuroanatomy) . In neuroanatomy, a nucleus (plural form: nuclei) is a cluster of neurons in the central nervous system, located deep within the cerebral hemispheres and brainstem. The neurons in one nucleus usually have roughly similar connections and functions. Nuclei are connected to other nuclei by tracts, the bundles (fascicles) of axons (nerve fibers) extending from the cell bodies. A nucleus is one of the two most common forms of nerve cell organization, the other being layered structures such as the cerebral cortex or cerebellar cortex. In anatomical sections, a nucleus shows up as a region of gray matter, often bordered by white matter. The vertebrate brain contains hundreds of distinguishable nuclei, varying widely in shape and size. A nucleus may itself have a complex internal structure, with multiple types of neurons arranged in clumps (subnuclei) or layers.",
+            "score": 106.30655264854431
+        },
+        {
+            "docid": "14723656_6",
+            "document": "Granulin . Although progranulin expression increases as cells mature, they are still involved in the development of multiple cell types. Progranulin is hypothesized to be a neurotrophic factor involved in corticogenisis. Induced pluripotent stem cell lines (IPSC) harboring the GRN mutation show a decrease in cortical neuronal differentiation ability. A recent mice study suggests that progranulin may be involved in regulating the early development of cerebellar tissue by selecting for individual climbing fibers as they intersect and form synapses with Purkinje cells. In addition, several studies implicate progranulin in synaptic pruning, a microglial process that occurs during development of the neural network. Cytokines, a neuronal marker for synapse elimination, is found to be upregulated in neurons with the GRN mutation. Increased cytokine tagging results in an increase in microglial density and activity around synapses. Progranulin may also be involved in sexual determination during embryonic development.",
+            "score": 90.95746088027954
+        },
+        {
+            "docid": "5473337_10",
+            "document": "Neuroconstructivism . Cells do not develop in isolation. Even from a young age, neurons are influenced by the surrounding environment (e.g. other neurons). Over time, neurons interact either spontaneously or in response to some sensory stimulation to form neural networks. Competition between neurons plays a key role in establishing the exact pattern of connections. As a result, specific neural activation patterns may arise due to the underlying morphology and connection patterns within the specified neural structures. These may subsequently be modified by morphological change imposed by the current representations. Progressively more complex patterns may arise through manipulation of current neuronal structures by an organism's experience.",
+            "score": 72.81850171089172
+        },
+        {
+            "docid": "33826069_5",
+            "document": "Viral neuronal tracing . The viral tracer may be introduced in peripheral organs, such as a muscle or gland. Certain viruses, such as adeno-associated virus can be injected into the blood stream and cross the blood\u2013brain barrier to infect the brain. It may also be introduced into a ganglion or injected directly into the brain using a stereotactic device. These methods offer unique insight into how the brain and its periphery are connected. Viruses are introduced into neuronal tissue in many different ways. There are two major methods to introduce tracer into the target tissues. Pressure injection requires the tracer, in liquid form, to be injected directly into the cell. This is the most common method. Iontophoresis involves the application of current to the tracer solution within an electrode. The tracer molecules pick up a charge and are driven into the cell via the electric field. This is a useful method if you wish to label a cell after performing the patch clamp technique. Once the tracer is introduced into the cell, the aforementioned transport mechanisms take over. Once introduced into the nervous system, the virus will begin to infect cells in the local area. The viruses function by incorporating their own genetic material into the genome of the infected cells. The host cell will then produce the proteins encoded by the gene. Researchers are able to incorporate numerous genes into the infected neurons, including fluorescent proteins used for visualization. Further advances in neuronal tracing allow for targeted expression of fluorescent proteins to specific cell types.",
+            "score": 127.8606173992157
+        },
+        {
+            "docid": "6880764_4",
+            "document": "Neuromorphology . Research has supported a relationship between the morphological and functional properties of neurons. For instance, the accordance between the morphology and the functional classes of cat retinal ganglion cells has been studied to show the relationship between neuron shape and function. Orientation sensitivity and dendritic branching patterns are a few other common characteristics of neurons that researchers have noted as having an effect on neuron function. Ian A. Meinertzhagen et al. have recently established a connection between the genetic factors that underlie a specific neuronal structure and how these two factors then pertain to the neuron's function by examining the optic nerves in \"Drosophila melanogaster\". They assert the structure of the neuron is able to determine its function by dictating synapse formation.",
+            "score": 76.08529710769653
+        },
+        {
+            "docid": "11088829_76",
+            "document": "Nerve guidance conduit . Inserting neurons into a bioartificial nerve conduit seems like the most obvious method for replacing damaged nerves; however, neurons are unable to proliferate and they are often short-lived in culture. Thus, neural progenitor cells are more promising candidates for replacing damaged and degenerated neurons because they are self-renewing, which allows for the \"in vitro\" production of many cells with minimal donor material. In order to confirm that the new neurons formed from neural progenitor cells are a part of a functional network, the presence of synapse formation is required. A study by Ma, Fitzgerald et al. is the first demonstration of murine neural stem and progenitor cell-derived functional synapse and neuronal network formation on a 3D collagen matrix. The neural progenitor cells expanded and spontaneously differentiated into excitable neurons and formed synapses; furthermore, they retained the ability to differentiate into the three neural tissue lineages. It was also demonstrated that not only active synaptic vesicle recycling occurred, but also that excitatory and inhibitory connections capable of generating action potentials spontaneously were formed. Thus, neural progenitor cells are a viable and relatively unlimited source for creating functional neurons.",
+            "score": 94.56018996238708
+        }
+    ],
+    "r": [
+        {
+            "docid": "890232_2",
+            "document": "Hair cell . Hair cells are the sensory receptors of both the auditory system and the vestibular system in the ears of all vertebrates. Through mechanotransduction, hair cells detect movement in their environment. In mammals, the auditory hair cells are located within the spiral organ of Corti on the thin basilar membrane in the cochlea of the inner ear. They derive their name from the tufts of stereocilia called \"hair bundles\" that protrude from the apical surface of the cell into the fluid-filled cochlear duct. Mammalian cochlear hair cells are of two anatomically and functionally distinct types, known as outer, and inner hair cells. Damage to these hair cells results in decreased hearing sensitivity, and because the inner ear hair cells cannot regenerate, this damage is permanent. However, other organisms, such as the frequently studied zebrafish, and birds have hair cells that can regenerate. The human cochlea contains on the order of 3,500 inner hair cells and 12,000 outer hair cells at birth.",
+            "score": 255.4495849609375
+        },
+        {
+            "docid": "635490_14",
+            "document": "Auditory system . Hair cells are columnar cells, each with a bundle of 100\u2013200 specialized cilia at the top, for which they are named. There are two types of hair cells; \"inner\" and \"outer\" \"hair\" \"cells\". Inner hair cells are the mechanoreceptors for hearing: they transduce the vibration of sound into electrical activity in nerve fibers, which is transmitted to the brain. Outer hair cells are a motor structure. Sound energy causes changes in the shape of these cells, which serves to amplify sound vibrations in a frequency specific manner. Lightly resting atop the longest cilia of the inner hair cells is the tectorial membrane, which moves back and forth with each cycle of sound, tilting the cilia, which is what elicits the hair cells' electrical responses.",
+            "score": 247.4768524169922
+        },
+        {
+            "docid": "5036465_4",
+            "document": "Spiral ganglion . Two apparent subtypes of spiral ganglion cells exist. Type I spiral ganglion cells comprise the vast majority of spiral ganglion cells (90-95% in cats and 88% in humans), and exclusively innervate the inner hair cells. They are myelinated, bipolar neurons. Type II spiral ganglion cells make up the remainder. In contrast to Type I cells, they are unipolar and unmyelinated in most mammals. They innervate the outer hair cells, with each Type II neuron sampling many (15-20) outer hair cells. In addition, outer hair cells form reciprocal synapses onto Type II spiral ganglion cells, suggesting that the Type II cells have both afferent and efferent roles.",
+            "score": 242.22860717773438
+        },
+        {
+            "docid": "25260196_14",
+            "document": "Neuronal encoding of sound . The cochlea of the inner ear, a marvel of physiological engineering, acts as both a frequency analyzer and nonlinear acoustic amplifier. The cochlea has over 32,000 hair cells. Outer hair cells primarily provide amplification of traveling waves that are induced by sound energy, while inner hair cells detect the motion of those waves and excite the (Type I) neurons of the auditory nerve.",
+            "score": 240.04949951171875
+        },
+        {
+            "docid": "5442380_15",
+            "document": "Sensory cue . The auditory system of humans and animals allows individuals to assimilate information from the surroundings, represented as sound waves. Sound waves first pass through the pinnae and the auditory canal, the parts of the ear that comprise the outer ear. Sound then reaches the tympanic membrane in the middle ear (also known as the eardrum). The tympanic membrane sets the malleus, incus, and stapes into vibration. The stapes transmits these vibrations to the inner ear by pushing on the membrane covering the oval window, which separates the middle and inner ear. The inner ear contains the cochlea, the liquid-filled structure containing the hair cells. These cells serve to transform the incoming vibration to electrical signals, which can then be transmitted to the brain. The auditory nerve carries the signal generated by the hair cells away from the inner ear and towards the auditory receiving area in the cortex. The signal then travels through fibers to several subcortical structures and then to the primary auditory receiving area in the temporal lobe",
+            "score": 237.2432861328125
+        },
+        {
+            "docid": "569444_5",
+            "document": "Transduction (physiology) . In the auditory system, sound vibrations (mechanical energy) are transduced into electrical energy by hair cells in the inner ear. Sound vibrations from an object cause vibrations in air molecules, which in turn, vibrate the ear drum. The movement of the eardrum causes the bones of the middle ear (the ossicles) to vibrate. These vibrations then pass into the cochlea, the organ of hearing. Within the cochlea, the hair cells on the sensory epithelium of the organ of Corti bend and cause movement of the basilar membrane. The membrane undulates in different sized waves according to the frequency of the sound. Hair cells are then able to convert this movement (mechanical energy) into electrical signals (graded receptor potentials) which travel along auditory nerves to hearing centres in the brain.",
+            "score": 236.1044464111328
+        },
+        {
+            "docid": "5534634_2",
+            "document": "Tectorial membrane . The tectorial membrane (TM) is one of two acellular membranes in the cochlea of the inner ear, the other being the basilar membrane (BM). The TM is located above the spiral limbus and the spiral organ of Corti and extends along the longitudinal length of the cochlea parallel to the BM. Radially the TM is divided into three zones, the limbal, middle and marginal zones. Of these the limbal zone is the thinnest (transversally) and overlies the auditory teeth of Huschke with its inside edge attached to the spiral limbus. The marginal zone is the thickest (transversally) and is divided from the middle zone by Hensen's Stripe. It overlies the sensory inner hair cells and electrically-motile outer hair cells of the organ of Corti and during acoustic stimulation stimulates the inner hair cells through fluid coupling, and the outer hair cells via direct connection to their tallest stereocilia.",
+            "score": 232.27932739257812
+        },
+        {
+            "docid": "46348501_3",
+            "document": "Evolution of the cochlea . While the basic structure of the inner ear in lepidosaurs (lizards and snakes), archosaurs (birds and crocodilians) and mammals is similar, and the organs are considered to be homologous, each group has a unique type of auditory organ. The hearing organ arose within the lagenar duct of stem reptiles, lying between the saccular and lagenar epithelia. In lepidosaurs, the hearing organ, the basilar papilla, is generally small, with at most 2000 hair cells, whereas in archosaurs the basilar papilla can be much longer (>10mm in owls) and contain many more hair cells that show two typical size extremes, the short and the tall hair cells. In mammals, the structure is known as the organ of Corti and shows a unique arrangement of hair cells and supporting cells. All mammalian organs of Corti contain a supporting tunnel made up of pillar cells, on the inner side of which there are inner hair cells and outer hair cells on the outer side. The definitive mammalian middle ear and the elongated cochlea allows for better sensitivity for higher frequencies.",
+            "score": 229.7857208251953
+        },
+        {
+            "docid": "6894544_29",
+            "document": "Noise-induced hearing loss . NIHL occurs when too much sound intensity is transmitted into and through the auditory system. An acoustic signal from a sound source, such as a radio, enters into the external auditory canal (ear canal), and is funneled through to the tympanic membrane (eardrum), causing it to vibrate. The vibration of the tympanic membrane drives the middle ear ossicles, the malleus, incus, and stapes into motion. The middle ear ossicles transfer mechanical energy to the cochlea by way of the stapes footplate hammering against the oval window of the cochlea. This hammering causes the fluid within the cochlea (perilymph and endolymph) to be displaced. Displacement of the fluid causes movement of the hair cells (sensory cells in the cochlea) and an electrical signal to be sent from the auditory nerve (CN VIII) to the central auditory system within the brain. This is where sound is perceived. Different groups of hair cells are responsive to different frequencies. Hair cells at or near the base of the cochlea are most sensitive to higher frequency sounds while those at the apex are most sensitive to lower frequency sounds. There are two known biological mechanisms of NIHL from excessive sound intensity: damage to the hair cells and damage to the myelination or synaptic regions of auditory nerves.",
+            "score": 225.45066833496094
+        },
+        {
+            "docid": "4548229_12",
+            "document": "Interaural time difference . The auditory nerve fibres, known as the afferent nerve fibres, carry information from the organ of Corti to the brainstem and brain. Auditory afferent fibres consist of two types of fibres called type I and type II fibres. Type I fibres innervate the base of one or two inner hair cells and Type II fibres innervate the outer hair cells. Both leave the organ of Corti through an opening called the habenula perforata. The type I fibres are thicker than the type II fibres and may also differ in how they innervate the inner hair cells. Neurons with large calycal endings ensure preservation of timing information throughout the ITD pathway.",
+            "score": 223.02874755859375
+        },
+        {
+            "docid": "46348501_14",
+            "document": "Evolution of the cochlea . Parallel to the evolution of the cochlea, prestins show an increased rate of evolution in therian mammals. Prestins are located in the outer hair cells of mammalian cochlea and are considered motor proteins. They are found in the hair cells of all vertebrates, including fish, but are thought to have initially been membrane transporter molecules. A high concentration of prestins are found only in the lateral membranes of therian outer hair cells (there is uncertainty with regard to concentrations in monotremes). This high concentration is not found in inner hair cells, and is also lacking in all hair cell types of non-mammals. Prestin also has a role in motility, which evolved a greater importance in the motor function in land vertebrates, but this developed vastly differently in different lineages. In certain birds and mammals, prestins function as both transporters and motors, but the strongest evolution to robust motor dynamics only evolved in therian mammals. It is hypothesized that this motor system is significant to the therian cochlea at high frequencies because of the distinctive cellular and bony composition of the organ of Corti that allows the prestins to intensify movements of the whole structure. Modern ultra-sound echolocating species such as bats and toothed whales show highly evolved prestins, and these prestins show identical sequence alterations over time. Unusually, the sequences thus apparently evolved independent from each other during different time periods. Furthermore, the evolution of neurotransmitter receptor systems (acetylcholine) that regulate the motor feedback of the outer hair cells coincides with prestin evolution in therians. This suggests that there was a parallel evolution of a control system and a motor system in the inner ear of therian mammals.",
+            "score": 222.66156005859375
+        },
+        {
+            "docid": "2196633_8",
+            "document": "Stereocilia (inner ear) . There are two different types of fluid that surround the hair cells of the inner ear. The endolymph is the fluid that surrounds the apical surfaces of hair cells. Potassium is the major cation in the endolymph and is thought to be responsible for carrying the receptor currents in the cochlea. Perilymph is found surrounding the sides and the bases of the hair cells. Perilymph is low in potassium and high in sodium. The different ionic makeups of the surrounding fluid in addition to the resting potential of the hair cell creates a potential difference across the apical membrane of the hair cell, so potassium enters when transduction channels open. An influx of potassium ions depolarizes the cell and causes the release of a neurotransmitter that can initiate nerve impulses in the sensory neurons that synapse on the base of the hair cell.",
+            "score": 222.00198364257812
+        },
+        {
+            "docid": "768413_21",
+            "document": "Ear . The inner ear houses the apparatus necessary to change the vibrations transmitted from the outside world via the middle ear into signals passed along the vestibulocochlear nerve to the brain. The hollow channels of the inner ear are filled with liquid, and contain a sensory epithelium that is studded with hair cells. The microscopic \"hairs\" of these cells are structural protein filaments that project out into the fluid. The hair cells are mechanoreceptors that release a chemical neurotransmitter when stimulated. Sound waves moving through fluid flows against the receptor cells of the organ of Corti. The fluid pushes the filaments of individual cells; movement of the filaments causes receptor cells to become open to receive the potassium-rich endolymph. This causes the cell to depolarise, and creates an action potential that is transmitted along the spiral ganglion, which sends information through the auditory portion of the vestibulocochlear nerve to the temporal lobe of the brain.",
+            "score": 221.97061157226562
+        },
+        {
+            "docid": "635490_4",
+            "document": "Auditory system . Vestibular and tympanic ducts are filled with perilymph, and the smaller cochlear duct between them is filled with endolymph, a fluid with a very different ion concentration and voltage. Vestibular duct perilymph vibrations bend organ of Corti outer cells (4 lines) causing prestin to be released in cell tips. This causes the cells to be chemically elongated and shrunk (somatic motor), and hair bundles to shift which, in turn, electrically affects the basilar membrane\u2019s movement (hair-bundle motor). These motors (outer cells) amplify the perilymph vibrations that initially incited them over 40-fold. Since both motors are chemically driven they are unaffected by the newly amplified vibrations due to recuperation time. The outer hair cells (OHC) are minimally innervated by spiral ganglion in slow (unmyelinated) reciprocal communicative bundles (30+ hairs per nerve fiber); this contrasts inner hair cells (IHC) that have only afferent innervation (30+ nerve fibers per one hair) but are heavily connected. There are 4x more OHC than IHC. The basilar membrane is a wall where the majority of the IHC and OHC sit. Basilar membrane width and stiffness corresponds to the frequencies best sensed by the IHC. At the cochlea base the Basilar is at its narrowest and most stiff (high-frequencies), at the cochlea apex it is at its widest and least stiff (low-frequencies). The tectorial membrane supports the remaining IHC and OHC. Tectorial membrane helps facilitate cochlear amplification by stimulating OHC (direct) and IHC (via endolymph vibrations). Tectorial's width and stiffness parallels Basilar's and similarly aids in frequency differentiation.",
+            "score": 221.6127471923828
+        },
+        {
+            "docid": "49604_30",
+            "document": "Hearing loss . Sound travels to the brain: as follows: sound waves reach the outer ear and are conducted down the ear canal to the eardrum. The sound waves cause the eardrum to vibrate. These vibrations are passed through the 3 tiny ear bones in the middle ear, which transfer the vibrations to the fluid in the inner ear. The fluid moves hair cells, and the movement of the hair cells converts the vibrations into nerve impulses, which are then taken to the brain by the auditory nerve. The auditory nerve takes the impulses to the brainstem, which sends the impulses to the midbrain. Finally, the signal goes to the auditory cortex of the temporal lobe to be interpreted as sound.",
+            "score": 219.4293212890625
+        },
+        {
+            "docid": "2935167_3",
+            "document": "Prestin . Prestin is the motor protein of the outer hair cells of the inner ear of the mammalian cochlea. It is highly expressed in the outer hair cells, and is not expressed in the nonmotile inner hair cells. Immunolocalization shows prestin is expressed in the lateral plasma membrane of the outer hair cells, the region where electromotility occurs. The expression pattern correlates with the appearance of outer hair cell electromotility.",
+            "score": 217.65052795410156
+        },
+        {
+            "docid": "1900338_14",
+            "document": "Critical band . When a sound is presented to the human ear, the time taken for the wave to travel through the cochlea is only 5 milliseconds.  When low-frequency travelling waves pass through the cochlea, the wave increases in amplitude gradually, then decays almost immediately. The placement of vibration on the cochlea depends upon the frequency of the presented stimuli. For example, lower frequencies mostly stimulate the apex, in comparison to higher frequencies, which stimulate the base of the cochlea. This attribute of the physiology of the basilar membrane can be illustrated in the form of a place\u2013frequency map: The basilar membrane supports the organ of Corti, which sits within the scala media. The organ of Corti comprises both outer and inner hair cells. There are approximately between 15,000 and 16,000 of these hair cells in one ear. Outer hair cells have stereocilia projecting towards the tectorial membrane, which sits above the organ of Corti. Stereocilia respond to movement of the tectorial membrane when a sound causes vibration through the cochlea. When this occurs, the stereocilia separate and a channel is formed that allows chemical processes to take place. Eventually the signal reaches the eighth nerve, followed by processing in the brain.",
+            "score": 217.08827209472656
+        },
+        {
+            "docid": "134971_23",
+            "document": "Cochlea . As the study of the cochlea should fundamentally be focused at the level of hair cells, it is important to note the anatomical and physiological differences between the hair cells of various species. In birds, for instance, instead of outer and inner hair cells, there are tall and short hair cells. There are several similarities of note in regard to this comparative data. For one, the tall hair cell is very similar in function to that of the inner hair cell, and the short hair cell, lacking afferent auditory-nerve fiber innervation, resembles the outer hair cell. One unavoidable difference, however, is that while all hair cells are attached to a tectorial membrane in birds, only the outer hair cells are attached to the tectorial membrane in mammals.",
+            "score": 215.20843505859375
+        },
+        {
+            "docid": "134971_8",
+            "document": "Cochlea . The hair cells are arranged in four rows in the organ of Corti along the entire length of the cochlear coil. Three rows consist of outer hair cells (OHCs) and one row consists of inner hair cells (IHCs). The inner hair cells provide the main neural output of the cochlea. The outer hair cells, instead, mainly \"receive\" neural input from the brain, which influences their motility as part of the cochlea's mechanical pre-amplifier. The input to the OHC is from the olivary body via the medial olivocochlear bundle.",
+            "score": 214.3657684326172
+        },
+        {
+            "docid": "25260196_23",
+            "document": "Neuronal encoding of sound . Type II neurons on the other hand innervate outer hair cells. However, there is significantly greater convergence of this type of neuron towards the apex end in comparison with the basal end. A 1:30-60 ratio of innervation is seen between Type II neurons and outer hair cells which in turn make these neurons ideal for electromechanical feedback. Type II neurons can be physiologically manipulated to innervate inner hair cells provided outer hair cells have been destroyed either through mechanical damage or by chemical damage induced by drugs such as gentamicin.",
+            "score": 210.3472900390625
+        },
+        {
+            "docid": "890232_15",
+            "document": "Hair cell . Efferent projections from the brain to the cochlea also play a role in the perception of sound. Efferent synapses occur on outer hair cells and on afferent axons under inner hair cells. The presynaptic terminal bouton is filled with vesicles containing acetylcholine and a neuropeptide called calcitonin gene-related peptide. The effects of these compounds vary, in some hair cells the acetylcholine hyperpolarized the cell, which reduces the sensitivity of the cochlea locally.",
+            "score": 206.75770568847656
+        },
+        {
+            "docid": "55971_18",
+            "document": "Inner ear . Deiters' cells (phalangeal cells) are a type of neuroglial cell found in the organ of Corti and organised in one row of inner phalangeal cells and three rows of outer phalangeal cells. They are the supporting cells of the hair cell area within the cochlea. They are named after the German pathologist Otto Deiters (1834-1863) who described them.",
+            "score": 205.9025115966797
+        },
+        {
+            "docid": "25260196_17",
+            "document": "Neuronal encoding of sound . Cochlear hair cells are organized as inner hair cells and outer hair cells; inner and outer refer to relative position from the axis of the cochlear spiral. The inner hair cells are the primary sensory receptors and a significant amount of the sensory input to the auditory cortex occurs from these hair cells. Outer hair cells on the other hand boost the mechanical signal by using electromechanical feedback.",
+            "score": 204.53439331054688
+        },
+        {
+            "docid": "134971_13",
+            "document": "Cochlea . The perilymph in the vestibular duct and the endolymph in the cochlear duct act mechanically as a single duct, being kept apart only by the very thin Reissner's membrane. The vibrations of the endolymph in the cochlear duct displace the basilar membrane in a pattern that peaks a distance from the oval window depending upon the soundwave frequency. The organ of Corti vibrates due to outer hair cells further amplifying these vibrations. Inner hair cells are then displaced by the vibrations in the fluid, and depolarise by an influx of K+ via their tip-link-connected channels, and send their signals via neurotransmitter to the primary auditory neurons of the spiral ganglion.",
+            "score": 204.39825439453125
+        },
+        {
+            "docid": "6846175_10",
+            "document": "Listener fatigue . When exposed to noise, the human ear's sensitivity to sound is decreased, corresponding to an increase in the threshold of hearing. This shift is usually temporary but may become permanent. A natural physiological reaction to these threshold shifts is vasoconstriction, which will reduce the amount of blood reaching the hair cells of the organ of Corti in the cochlea. With the resultant oxygen tension and diminished blood supply reaching the outer hair cells, their response to sound levels is lessened when exposed to loud sounds, rendering them less effective and putting more stress on the inner hair cells. This can lead to fatigue and temporary hearing loss if the outer hair cells do not get the opportunity to recover through periods of silence. If these cells do not get this chance to recover, they are vulnerable to death.",
+            "score": 202.2821807861328
+        },
+        {
+            "docid": "55971_15",
+            "document": "Inner ear . Pillar cells are found in the organ of Corti and act as supporting cells for hair cells. They are divided into two types: inner and outer. Outer pillar cells are unique in that they are free standing cells with no contact to adjacent cells except at the bases and apices. Both types of pillar cell are characterized by the presence of thousands of cross linked microtubules and actin filaments in parallel orientation. They provide mechanical coupling between the basement membrane and the mechanoreceptors on the hair cells.",
+            "score": 200.3798828125
+        },
+        {
+            "docid": "859926_13",
+            "document": "Sensory neuron . This mechanoelectrical transduction is mediated with hair cells within the ear. Depending on the movement, the hair cell can either hyperpolarize or depolarize. When the movement is towards the tallest stereocilia, the Na cation channels open allowing Na to flow into cell and the resulting depolarization causes the Ca channels to open, thus releasing its neurotransmitter into the afferent auditory nerve. There are two types of hair cells: inner and outer. The inner hair cells are the sensory receptors .",
+            "score": 199.94345092773438
+        },
+        {
+            "docid": "6846175_8",
+            "document": "Listener fatigue . The stereocilia (hair cells) of the inner ear can become subjected to bending from loud noises. Because they are not regeneratable in humans, any major damage or loss of these hair cells leads to permanent hearing impairment and other hearing-related diseases. Outer hair cells serve as acoustic amplifiers for stimulation of the inner hair cells. Outer hair cells respond primarily to low-intensity sounds.",
+            "score": 199.45213317871094
+        },
+        {
+            "docid": "563529_4",
+            "document": "Organ of Corti . The organ of Corti is located in the scala media of the cochlea of the inner ear between the vestibular duct and the tympanic duct and is composed of mechanosensory cells, known as hair cells. Strategically positioned on the basilar membrane of the organ of Corti are three rows of outer hair cells (OHCs) and one row of inner hair cells (IHCs). Separating these hair cells are supporting cells: Deiters cells, also called phalangeal cells, which separate and support both the OHCs and the IHCs.",
+            "score": 199.39614868164062
+        },
+        {
+            "docid": "3246329_7",
+            "document": "Hearing range . In humans, sound waves funnel into the ear via the external ear canal and reach the eardrum (tympanic membrane). The compression and rarefaction of these waves set this thin membrane in motion, causing sympathetic vibration through the middle ear bones (the ossicles: malleus, incus and stapes), the basilar fluid in the cochlea, and the hairs within it, called stereocilia. These hairs line the cochlea from base to apex, and the part stimulated and the intensity of stimulation gives an indication of the nature of the sound. Information gathered from the hair cells is sent via the auditory nerve for processing in the brain.",
+            "score": 198.96034240722656
+        },
+        {
+            "docid": "21282020_9",
+            "document": "Hearing . The inner ear consists of the cochlea, which is a spiral-shaped, fluid-filled tube. It is divided lengthwise by the organ of Corti, which is the main organ of mechanical to neural transduction. Inside the organ of Corti is the basilar membrane, a structure that vibrates when waves from the middle ear propagate through the cochlear fluid \u2013 endolymph. The basilar membrane is tonotopic, so that each frequency has a characteristic place of resonance along it. Characteristic frequencies are high at the basal entrance to the cochlea, and low at the apex. Basilar membrane motion causes depolarization of the hair cells, specialized auditory receptors located within the organ of Corti. While the hair cells do not produce action potentials themselves, they release neurotransmitter at synapses with the fibers of the auditory nerve, which does produce action potentials. In this way, the patterns of oscillations on the basilar membrane are converted to spatiotemporal patterns of firings which transmit information about the sound to the brainstem.",
+            "score": 197.58193969726562
+        },
+        {
+            "docid": "635490_19",
+            "document": "Auditory system . Efferent projections from the brain to the cochlea also play a role in the perception of sound, although this is not well understood. Efferent synapses occur on outer hair cells and on afferent (towards the brain) dendrites under inner hair cells",
+            "score": 197.15780639648438
+        }
+    ]
+}

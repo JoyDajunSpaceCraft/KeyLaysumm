@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "18136205_3",
+            "document": "LcrV . The type III secretion system of Gram-negative bacteria is used to transport virulence factors from the pathogen directly into the host cell and is only triggered when the bacterium comes into close contact with the host. Effector proteins secreted by the type III system do not possess a secretion signal, and are considered unique because of this. \"Yersinia\" spp. secrete effector proteins called YopB and YopD that facilitate the spread of other translocated proteins through the type III needle and the host cell cytoplasm. In turn, the transcription of these moieties is thought to be regulated by another gene, lcrV, found on the Yops virulon that encodes the entire type III system. The product of this gene, LcrV protein, also regulates the secretion of YopD through the type III translocon, and itself acts as a protective \"V\" antigen for \"Yersinia pestis\", the causative agent of plague.",
+            "score": 112.42814636230469
+        },
+        {
+            "docid": "40822244_2",
+            "document": "Bacterial effector protein . Bacterial effectors are proteins secreted by pathogenic bacteria into the cells of their host, usually using a type 3 secretion system (TTSS/T3SS), a type 4 secretion system (TFSS/T4SS) or a Type VI secretion system (T6SS). Some bacteria inject only a few effectors into their host\u2019s cells while others may inject dozens or even hundreds. Effector proteins may have many different activities, but usually help the pathogen to invade host tissue, suppress its immune system, or otherwise help the pathogen to survive. Effector proteins are usually critical for virulence. For instance, in the causative agent of plague (\"Yersinia pestis\"), the loss of the T3SS is sufficient to render the bacteria completely avirulent, even when they are directly introduced into the bloodstream. Gram negative microbes are also suspected to deploy bacterial outer membrane vesicles to translocate effector proteins and virulence factors via a novel membrane vesicle trafficking secretory pathway, in order to modify their environment or attack/invade target cells, for example, at the host-pathogen interface.",
+            "score": 82.38706827163696
+        },
+        {
+            "docid": "36383544_5",
+            "document": "YopR bacterial protein domain . There have been four secretion systems described in animal enteropathogens, such as \"Salmonella\" and \"Yersinia\", with further sequence similarities in plant pathogens like \"Ralstonia\" and \"Erwinia\". This is useful for further work with the YopR protein domain as comparative sequence and structure homology can be made. The type III secretion system is of great interest, as the YopR protein domain plays an important role. The type III secretion system transports virulence factors from the pathogen directly into the host cell when the bacterium is in close contact with the host.",
+            "score": 101.92955017089844
+        },
+        {
+            "docid": "46231655_2",
+            "document": "Type II secretion system . The type 2 secretion system (often referred to as the type II secretion system or the T2SS) is protein secretion machinery found in various species of Gram-negative bacteria, including various human pathogens such as \"Pseudomonas aeruginosa\" and \"Vibrio cholerae\". The type II secretion system is one of six protein secretory systems that are commonly found in gram negative bacteria along with the type I secretion system, the type III secretion system, The type IV secretion system, the chaperone/usher pathway, the autotransporter pathway/type V secretion system and the type VI secretion system (some bacteria also utilize the type VII secretion system). Like these other systems, the type II secretion system enables the transport of cytoplasmic proteins across the lipid bilayers that make up the cell membranes in gram negative bacteria.",
+            "score": 104.01767683029175
+        },
+        {
+            "docid": "46231655_10",
+            "document": "Type II secretion system . The secretion ATPase, GspE, is an ATPase which is found closely associated with the inner membrane complex on the cytoplasmic side of the inner membrane. GspE belongs to the type II/type IV secretion ATPase family. ATPases belonging to this family have a distinct hexameric structure. Each individual subunit of the hexamer has 3 main domains. These are 2 separate N-terminal domains called N1D and N2D which are separated by a short linker region and a single C-terminal domain termed the CTD. The CTD in turn is made up of 3 subdomains, one of which is a nucleotide binding domain. It is this nucleotide binding domain, which is present in of each of the 6 subunits of the hexamer, that is responsible for binding ATP. The other 2 domains that make up the CTD, a four helical domain and a metal binding domain, then help catalyze the hydrolysis of bound ATP. This ATP hydrolysis is used to power the assembly and disassembly of the pseudopillus which is what drives secretion via the type II secretion system. As a result, the system cannot function without GspE. The N-terminal domains N1D and N2D form the interactions with the inner membrane complex which help keep the secretion ATPase in close association with the rest of the type II secretion system. The N2D domain is not fully understood but observations show that it is the N1D which is responsible for forming the tight interactions seen with the inner membrane complex subunit GspL.",
+            "score": 117.85677790641785
+        },
+        {
+            "docid": "10438113_14",
+            "document": "Ralstonia solanacearum . \"R. solanacearum\" possesses genes for all six protein secretion pathways that have been characterized in Gram-negative bacteria. Perhaps the best-studied of these is the Type III secretion system (T3SS or TTSS), which secretes infection-promoting effector proteins (T3Es) into host cells. Around 74 suspected or confirmed T3Es have been identified in \"R. solanacearum\" to date, although the functions of very few are currently known. Despite being just one of several protein secretion systems, T3SS is necessary for \"R. solanacearum\" to cause disease. No single effector protein has been found to significantly alter pathogenicity of \"R. solanacearum\", but simultaneous disruption of certain subsets of effectors (such as the set of seven GALA effectors in strain GMI1000) strongly affects virulence of the pathogen. GALA 7 is necessary for virulence on \"Medicago truncatula\", hinting that T3E diversity may play a role in determining the broad host range of the \"R. solanacearum\" species complex.",
+            "score": 80.17847967147827
+        },
+        {
+            "docid": "7171067_5",
+            "document": "Aeromonas hydrophila . The pathogenicity of \"Aeromonas\" species was believed to be mediated by a number of extracellular proteins such as aerolysin, lipase, chitinase, amylase, gelatinase, hemolysins, and enterotoxins. However, the pathogenic mechanisms are unknown. The recently proposed type-III secretion system (TTSS) has been linked to \"Aeromonas\" pathogenesis. TTSS is a specialized protein secretion machinery that exports virulence factors directly to host cells. These factors subvert normal host cell functions to the benefit of invading bacteria. In contrast to the general secretory pathway, the TTSS is triggered when a pathogen comes in contact with host cells. ADP-ribosylation toxin is one of the effector molecules secreted by several pathogenic bacteria and translocated through the TTSS and delivered into the host cytoplasm, which leads to interruption of the NF-\u03baB pathway, cytoskeletal damage, and apoptosis. This toxin has been characterized in \"A. hydrophila\" (human diarrhoeal isolate), \"A. salmonicida\" (fish pathogen), and \"A. jandaei\" GV17, a pathogenic strain which can cause disease both in humans and fish.",
+            "score": 85.72753715515137
+        },
+        {
+            "docid": "10321124_7",
+            "document": "Type three secretion system . The hallmark of T3SS is the needle (more generally, the needle complex (NC) or the T3SS apparatus (T3SA); also called injectisome when the ATPase is excluded; see below). Bacterial proteins that need to be secreted pass from the bacterial cytoplasm through the needle directly into the host cytoplasm. Three membranes separate the two cytoplasms: the double membrane (inner and outer membranes) of the Gram-negative bacterium and the eukaryotic membrane. The needle provides a smooth passage through those highly selective and almost impermeable membranes. A single bacterium can have several hundred needle complexes spread across its membrane. It has been proposed that the needle complex is a universal feature of all T3SSs of pathogenic bacteria.",
+            "score": 105.40239214897156
+        },
+        {
+            "docid": "534001_15",
+            "document": "Secretion . It is homologous to the basal body in bacterial flagella. It is like a molecular syringe through which a bacterium (e.g. certain types of \"Salmonella\", \"Shigella\", \"Yersinia\", \"Vibrio\") can inject proteins into eukaryotic cells. The low Ca concentration in the cytosol opens the gate that regulates T3SS. One such mechanism to detect low calcium concentration has been illustrated by the lcrV (Low Calcium Response) antigen utilized by \"Yersinia pestis\", which is used to detect low calcium concentrations and elicits T3SS attachment. The Hrp system in plant pathogens inject harpins and pathogen effector proteins through similar mechanisms into plants. This secretion system was first discovered in \"Yersinia pestis\" and showed that toxins could be injected directly from the bacterial cytoplasm into the cytoplasm of its host's cells rather than simply be secreted into the extracellular medium.",
+            "score": 82.48057508468628
+        },
+        {
+            "docid": "46231655_3",
+            "document": "Type II secretion system . The type II secretion system is a membrane bound protein complex found in Gram-negative bacteria that is used to secrete proteins found in the cytoplasm of the bacteria into the extracellular space outside of the cell. The type II secretion system is just one of many secretory systems found in Gram-negative bacteria and is used to secrete a variety of different proteins, including bacterial toxins and degradative enzymes such as proteases and lipases. These secreted proteins are generally associated with the breakdown of host tissues and therefore are often important in causing the symptoms associated with certain bacterial infections. Each bacterial cell will contain a number of type II secretion systems and these are found embedded in the inner and outer membranes of the cell.",
+            "score": 98.20339465141296
+        },
+        {
+            "docid": "534001_11",
+            "document": "Secretion . Secretion is not unique to eukaryotes alone - it is present in bacteria and archaea as well. ATP binding cassette (ABC) type transporters are common to all the three domains of life. The Sec system constituting the Sec Y-E-G complex (see Type II secretion system (T2SS), below) is another conserved secretion system, homologous to the translocon in the eukaryotic endoplasmic reticulum and the Sec 61 translocon complex of yeast. Some secreted proteins are translocated across the cytoplasmic membrane by the Sec translocon, which requires the presence of an N-terminal signal peptide on the secreted protein. Others are translocated across the cytoplasmic membrane by the twin-arginine translocation pathway (Tat). Gram-negative bacteria have two membranes, thus making secretion topologically more complex. There are at least six specialized secretion systems in gram-negative bacteria. Many secreted proteins are particularly important in bacterial pathogenesis.",
+            "score": 105.95163798332214
+        },
+        {
+            "docid": "10321124_5",
+            "document": "Type three secretion system . The T3SS is composed of approximately 30 different proteins, making it one of the most complex secretion systems. Its structure shows many similarities with bacterial flagella (long, rigid, extracellular structures used for motility). Some of the proteins participating in T3SS share amino-acid sequence homology to flagellar proteins. Some of the bacteria possessing a T3SS have flagella as well and are motile (\"Salmonella\", for instance), and some do not (\"Shigella\", for instance). Technically speaking, type III secretion is used both for secreting infection-related proteins and flagellar components. However, the term \"type III secretion\" is used mainly in relation to the infection apparatus. The bacterial flagellum shares a common ancestor with the type III secretion system.",
+            "score": 124.12708139419556
+        },
+        {
+            "docid": "9028799_22",
+            "document": "Bacteria . The assembly of these extracellular structures is dependent on bacterial secretion systems. These transfer proteins from the cytoplasm into the periplasm or into the environment around the cell. Many types of secretion systems are known and these structures are often essential for the virulence of pathogens, so are intensively studied.",
+            "score": 79.83556485176086
+        },
+        {
+            "docid": "1031641_7",
+            "document": "Pathogenicity island . PAIs, a type of mobile genetic elements, may range from 10-200 kb and encode genes which contribute to the virulence of the respective pathogen. Pathogenicity islands carry genes encoding one or more virulence factors, including, but not limited to, adhesins, secretion systems (like type III secretion system), toxins, invasins, modulins, effectors, superantigens, iron uptake systems, o-antigen synthesis, serum resistance, immunoglobulin A proteases, apoptosis, capsule synthesis, and plant tumorigenesis via \"A. tumefaciens\".",
+            "score": 68.99899625778198
+        },
+        {
+            "docid": "534001_17",
+            "document": "Secretion . In short, Type IV secretion system (T4SS), is the general mechanism by which bacterial cells secrete or take up macromolecules. Their precise mechanism remains unknown. T4SS is encoded on Gram-negative conjugative elements in bacteria.T4SS are cell envelope-spanning complexes or in other words 11\u201313 core proteins that form a channel through which DNA and proteins can travel from the cytoplasm of the donor cell to the cytoplasm of the recipient cell. Additionally, T4SS also secrete virulence factor proteins directly into host cells as well as taking up DNA from the medium during natural transformation, which shows the versatility of this macromolecular secretion apparatus.",
+            "score": 85.65902638435364
+        },
+        {
+            "docid": "3041236_4",
+            "document": "Shigella flexneri . \"S. flexneri\" contains a virulence plasmid that codes for three virulence factors: a type-3 secretion system (T3SS), invasion plasmid antigen proteins (ipa proteins), and IcsA (used for cell-to-cell spread). Upon infection, \"S. flexneri\" injects the host cell cytoplasm with ipa proteins using the T3SS\u2014a needle-and-syringe-like apparatus common to many Gram-negative pathogens. These ipa proteins induce \"membrane ruffling\" by the host cell. Membrane ruffling creates membrane pockets which capture and engulf the bacteria. Once inside, \"S. flexneri\" uses host cell actin for propulsion to move directly from cell to cell using a cellular mechanism known as paracytophagy, similarly to the bacterial pathogen \"Listeria monocytogenes\".",
+            "score": 77.0831618309021
+        },
+        {
+            "docid": "10321124_3",
+            "document": "Type three secretion system . In pathogenic bacteria, the needle-like structure is used as a sensory probe to detect the presence of eukaryotic organisms and secrete proteins that help the bacteria infect them. The secreted effector proteins are secreted directly from the bacterial cell into the eukaryotic (host) cell, where they exert a number of effects that help the pathogen to survive and to escape an immune response.",
+            "score": 73.1636950969696
+        },
+        {
+            "docid": "10629767_2",
+            "document": "Tir (receptor) . Tir (translocated intimin receptor) is an essential component in the adherence of the enteropathogenic \"Escherichia coli\" (EPEC) and enterohemorraghic \"Escherichia coli\" (EHEC) to the cells lining the small intestine. To aid attachment, both EPEC and EHEC possess the ability to reorganise the host cell actin cytoskeleton via the secretion of virulence factors. These factors are secreted directly into the cells using a Type three secretion system. One of the virulence factors secreted is the Translocated Intimin Receptor (Tir). Tir is a receptor protein encoded by the \"espE\" gene which is located on the locus of enterocyte effacement (LEE) pathogenicity island in EPEC strains. It is secreted into the host cell membranes and acts as a receptor for intimin which is found on the bacterial surface. Once Tir binds intimin, the bacterium is attached to the enterocyte surface.",
+            "score": 60.364113092422485
+        },
+        {
+            "docid": "45582346_2",
+            "document": "Type VI secretion system . The type VI secretion system (T6SS) is molecular machine used by a wide range of Gram-negative bacterial species to transport proteins from the interior (cytoplasm or cytosol) of a bacterial cell across the cellular envelope into an adjacent target cell. While often reported that the T6SS was discovered in 2006 by researchers studying the causative agent of cholera, \"Vibrio cholerae\", the first study demonstrating that T6SS genes encode a protein export apparatus was actually published in 2004, in a study of protein secretion by the fish pathogen \"Edwardsiella tarda\".",
+            "score": 102.2052538394928
+        },
+        {
+            "docid": "542725_6",
+            "document": "Effector (biology) . Bacterial effector proteins are injected by bacterial cells, usually pathogens, into the cells of their host. The injection is mediated by specialized secretion systems, e.g. the type III secretion system (TTSS or T3SS).",
+            "score": 80.04717087745667
+        },
+        {
+            "docid": "36605791_2",
+            "document": "YadA bacterial adhesin protein domain . In molecular biology, YadA is a protein domain which is short for \"Yersinia\" adhesin A. These proteins have strong sequence and structural homology, particularly at their C-terminal end. The function is to promote their pathogenicity and virulence in host cells, though cell adhesion. YadA is found in three pathogenic species of \"Yersinia\", \"Y. pestis,\" \"Y. pseudotuberculosis\", and \"Y. enterocolitica\". The YadA domain is encoded for by a virulence plasmid in \"Yersinia\", which encodes a type-III secretion (T3S) system consisting of the Ysc injectisome and the Yop effectors.",
+            "score": 86.0863721370697
+        },
+        {
+            "docid": "3650770_10",
+            "document": "Yersinia pseudotuberculosis . The 70-kb pYV is critical to \"Yersinia\"'s pathogenicity, since it contains many genes known to encode virulence factors and its loss gives avirulence of all \"Yersinia\" species. A 26-kb \"core region\" in the pYV contains the \"ysc\" genes, which regulate the expression and secretion of Yops. Many Ysc proteins also amalgamate to form a type-III secretory apparatus, which secretes many Yops into the host cell cytoplasm with the assistance of the \"translocation apparatus\", constructed of YopB and YopD. The core region also includes \"yopN\", \"yopB\", \"yopD\", \"tyeA\", \"lcrG\", and \"lcrV\", which also regulate Yops gene expression and help to translocate secretory Yops to the target cell. For example, YopN and TyeA are positioned as a plug on the apparatus so only their conformational change, induced by their interaction with certain host cell membrane proteins, will cause the unblocking of the secretory pathway. Secretion is regulated in this fashion so that proteins are not expelled into the extracellular matrix and elicit an immune response. Since this pathway gives secretion selectivity, it is a virulence factor.",
+            "score": 73.63766026496887
+        },
+        {
+            "docid": "45582346_9",
+            "document": "Type VI secretion system . Although the ancestral function of the T6SS appears to be targeting of bacteria, a handful of systems have been identified that have evolved to target eukaryotic cells. In general, these eukaryote-targeting systems are involved in causing disease. For example, the intracellular pathogen \"Francisella tularensis\" requires the activity of a T6SS to escape from phagosomes and replicate in the cytoplasm of macrophages. The mechanism by which secreted proteins facilitate \"F. tularensis\" virulence is still unknown. The T6SS of \"Vibrio cholerae\" has a dual role, being able to target both bacterial and eukaryotic cells. At least one substrate it secretes is specialized for eukaryotic cell-targeting, functioning by cross-linking the cytoskeleton protein actin. \"Burkholderia pseudomallei\" and \"Edwardsiella tarda\" are two other organisms which possess a T6SS that appears dedicated for eukaryotic targeting. The T6SS of plant pathogen \"Xanthomonas citri\" protects it from predatory amoeba \"Dictyostelium discoideum\".",
+            "score": 78.4435408115387
+        },
+        {
+            "docid": "1409978_9",
+            "document": "Francisella tularensis . \"F. tularensis\" contains type VI secretion system (T6SS), also present in some other pathogenic bacteria. It also contains a number of ATP-binding cassette (ABC) proteins that may be linked to the secretion of virulence factors. \"F. tularensis\" uses type IV pili to bind to the exterior of a host cell and thus become phagocytosed. Mutant strains lacking pili show severely attenuated pathogenicity.",
+            "score": 75.48531675338745
+        },
+        {
+            "docid": "534001_21",
+            "document": "Secretion . Type VI secretion systems were originally identified in 2006 by the group of John Mekalanos at the Harvard Medical School (Boston, USA) in two bacterial pathogens, \"Vibrio cholerae\" and \"Pseudomonas aeruginosa\". These were identified when mutations in the Hcp and VrgG genes in \"Vibrio Cholerae\" led to decreased virulence and pathogenicity. Since then, Type VI secretion systems have been found in a quarter of all proteobacterial genomes, including animal, plant, human pathogens, as well as soil, environmental or marine bacteria. While most of the early studies of Type VI secretion focused on its role in the pathogenesis of higher organisms, more recent studies suggested a broader physiological role in defense against simple eukaryotic predators and its role in inter-bacteria interactions. The Type VI secretion system gene clusters contain from 15 to more than 20 genes, two of which, Hcp and VgrG, have been shown to be nearly universally secreted substrates of the system. Structural analysis of these and other proteins in this system bear a striking resemblance to the tail spike of the T4 phage, and the activity of the system is thought to functionally resemble phage infection.",
+            "score": 78.29186677932739
+        },
+        {
+            "docid": "244847_16",
+            "document": "Fire blight . Pathogenicity depends on many different factors such as the production of the siderophore desferrioxamine, metalloproteases, plasmids, and histone-like proteins. However, some essential factors of pathogenicity are variations in the synthesis of extracellular polysaccharides (EPS) and the mechanism of type III secretion system and its associated proteins. EPS helps bacterial pathogens avoid plant defenses, \u201cclog\u201d the host\u2019s vascular system, protect bacteria against desiccation and attach to both surfaces and one another. One EPS is amylovoran, a polymer of pentasaccharide repeating units. If a strain of \"E. amylovora\" can not produce amylovoran it is not pathogenic and can not spread in plants. Levan is another EPS, and a lack of it will slow development of symptoms. Type III secretion systems are used for exporting and delivering effector proteins into the cytosol of host plants. This system mainly consists of Hrc proteins. Motility is another major virulence factor. Since \"E. amylovora\" is not an obligate biotroph, it is able to survive outside the host which allows it to spread in many ways such as rain.",
+            "score": 94.95701026916504
+        },
+        {
+            "docid": "46231655_5",
+            "document": "Type II secretion system . Overall the type II secretion system is a large multiprotein machinery, made up of a number of distinct protein subunits known as the general secretory proteins (GSPs). The genes encoding these GSPs are usually found together in the genome in a single operon and many of these genes overlap. Each gene is named with a letter corresponding to the GSP that it encodes (for example the gspD gene encodes GspD) and studies indicate that between 12 and 15 of these genes are essential to the function of the type II secretion system. The GSPs are common among a number of different bacterial species and when they come together they form a complex that is structurally very similar to the type IV pili, an appendage that is also commonly found in gram negative bacteria. Overall the type II secretion system can be broken down into four main components. These are the outer membrane complex, the inner membrane complex, the secretion ATPase and the pseudopilus.",
+            "score": 91.09291696548462
+        },
+        {
+            "docid": "11561317_4",
+            "document": "CFP-10 . 10-kDa culture filtrate protein (CFP-10) is an antigen that contributes to the virulence Mycobacterium tuberculosis. CFP-10 forms a tight 1:1 heterodimeric complex with 6kDaA early secreted antigen target (ESAT-6). In the mycobacterial cell, these two proteins are interdependent on each other for stability. The ESAT-6/CFP-10 complex is secreted by the ESX-1 secretion system, also known as the RD1 region. Mycobacterium tuberculosis uses this ESX-1 secretion system to deliver virulence factors into host macrophage and monocyte white blood cells during infection. In Mycobacterium tuberculosis, the core components of the whole ESX-1 secretion system include Rv3877, and two AAA ATPases, including Rv3870 and Rv3871, a cytosolic protein. The ESAT-6/CFP-10 heterodimer complex is targeted for secretion by a C-terminal signal sequence on CFP-10 that is recognized by the cytosolic Rv3871 protein. Rv3871 then interacts with the CFP-10 C-terminal, and escorts the ESAT-6/CFP-10 complex to Rv3870 and Rv3877, a multi-transmembrane protein which makes up the pore that spans the cytosolic membrane of the virulent host cell. Once ESAT-6/CFP-10 is next to the membrane of the virulent host cell, the CFP-10 C-terminal attaches and binds itself to the cells surface. The ESAT-6/CFP-10 complex\u2019s secretion and attachment to the virulent host cell shows its contribution to the pathogenicity of Mycobacterium tuberculosis. .",
+            "score": 70.9797101020813
+        },
+        {
+            "docid": "10139931_6",
+            "document": "Pseudomonas syringae . \"P. syringae\" pathogenesis is dependent on effector proteins secreted into the plant cell by the bacterial type III secretion system. Nearly 60 different type III effector families encoded by \"hop\" genes have been identified in \"P. syringae\". Type III effectors contribute to pathogenesis chiefly through their role in suppressing plant defense. Owing to early availability of the genome sequence for three \"P. syringae\" strains and the ability of selected strains to cause disease on well-characterized host plants, including \"Arabidopsis thaliana\", \"Nicotiana benthamiana\", and the tomato, \"P. syringae\" has come to represent an important model system for experimental characterization of the molecular dynamics of plant-pathogen interactions.",
+            "score": 78.58459711074829
+        },
+        {
+            "docid": "35051717_4",
+            "document": "SecDF protein-export membrane protein . The translocase itself comprises 7 proteins, including a chaperone protein (SecB), an ATPase (SecA), an integral membrane complex (SecCY, SecE and SecG), and two additional membrane proteins that promote the release of the mature peptide into the periplasm (SecD and SecF). The chaperone protein SecB is a highly acidic homotetrameric protein that exists as a \"dimer of dimers\" in the bacterial cytoplasm. SecB maintains preproteins in an unfolded state after translation, and targets these to the peripheral membrane protein ATPase SecA for secretion. Together with SecY and SecG, SecE forms a multimeric channel through which preproteins are translocated, using both proton motive forces and ATP-driven secretion. The latter is mediated by SecA. The structure of the \"Escherichia coli\" SecYEG assembly revealed a sandwich of two membranes interacting through the extensive cytoplasmic domains. Each membrane is composed of dimers of SecYEG. The monomeric complex contains 15 transmembrane helices.",
+            "score": 103.02527236938477
+        },
+        {
+            "docid": "45582346_10",
+            "document": "Type VI secretion system . A wide range of Gram-negative bacteria have been shown to have antibacterial T6SSs, including opportunistic pathogens such as \"Pseudomonas aeruginosa\", obligate commensal species that inhabit the human gut (\"Bacteroides\" spp.), and plant-associated bacteria such as \"Agrobacterium tumefaciens\". These systems exert antibacterial activity via the function of their secreted substrates. All characterized bacterial-targeting T6SS proteins act as toxins, either by killing or preventing the growth of target cells. The mechanisms of toxicity toward target cells exhibited by T6SS substrates are diverse, but typically involve targeting of highly conserved bacterial structures, including degradation of the cell wall through amidase or glycohydrolase activity, disruption of cell membranes through lipase activity or pore formation, cleavage of DNA, and degradation of the essential metabolite NAD+. T6SS-positive bacterial species prevent T6SS-mediated intoxication towards self and kin cells by producing immunity proteins specific to each secreted toxin. The immunity proteins function by binding to the toxin proteins, often at their active site, thereby blocking their activity.",
+            "score": 75.44010090827942
+        },
+        {
+            "docid": "24603_13",
+            "document": "Proteasome . The 19S particle in eukaryotes consists of 19 individual proteins and is divisible into two subassemblies, a 9-subunit base that binds directly to the \u03b1 ring of the 20S core particle, and a 10-subunit lid. Six of the nine base proteins are ATPase subunits from the AAA Family, and an evolutionary homolog of these ATPases exists in archaea, called PAN (Proteasome-Activating Nucleotidase). The association of the 19S and 20S particles requires the binding of ATP to the 19S ATPase subunits, and ATP hydrolysis is required for the assembled complex to degrade folded and ubiquitinated proteins. Note that only the step of substrate unfolding requires energy from ATP hydrolysis, while ATP-binding alone can support all the other steps required for protein degradation (e.g., complex assembly, gate opening, translocation, and proteolysis). In fact, ATP binding to the ATPases by itself supports the rapid degradation of unfolded proteins. However, while ATP hydrolysis is required for unfolding only, it is not yet clear whether this energy may be used in the coupling of some of these steps.",
+            "score": 96.82179653644562
+        }
+    ],
+    "r": [
+        {
+            "docid": "10321124_5",
+            "document": "Type three secretion system . The T3SS is composed of approximately 30 different proteins, making it one of the most complex secretion systems. Its structure shows many similarities with bacterial flagella (long, rigid, extracellular structures used for motility). Some of the proteins participating in T3SS share amino-acid sequence homology to flagellar proteins. Some of the bacteria possessing a T3SS have flagella as well and are motile (\"Salmonella\", for instance), and some do not (\"Shigella\", for instance). Technically speaking, type III secretion is used both for secreting infection-related proteins and flagellar components. However, the term \"type III secretion\" is used mainly in relation to the infection apparatus. The bacterial flagellum shares a common ancestor with the type III secretion system.",
+            "score": 124.1270751953125
+        },
+        {
+            "docid": "46231655_10",
+            "document": "Type II secretion system . The secretion ATPase, GspE, is an ATPase which is found closely associated with the inner membrane complex on the cytoplasmic side of the inner membrane. GspE belongs to the type II/type IV secretion ATPase family. ATPases belonging to this family have a distinct hexameric structure. Each individual subunit of the hexamer has 3 main domains. These are 2 separate N-terminal domains called N1D and N2D which are separated by a short linker region and a single C-terminal domain termed the CTD. The CTD in turn is made up of 3 subdomains, one of which is a nucleotide binding domain. It is this nucleotide binding domain, which is present in of each of the 6 subunits of the hexamer, that is responsible for binding ATP. The other 2 domains that make up the CTD, a four helical domain and a metal binding domain, then help catalyze the hydrolysis of bound ATP. This ATP hydrolysis is used to power the assembly and disassembly of the pseudopillus which is what drives secretion via the type II secretion system. As a result, the system cannot function without GspE. The N-terminal domains N1D and N2D form the interactions with the inner membrane complex which help keep the secretion ATPase in close association with the rest of the type II secretion system. The N2D domain is not fully understood but observations show that it is the N1D which is responsible for forming the tight interactions seen with the inner membrane complex subunit GspL.",
+            "score": 117.85677337646484
+        },
+        {
+            "docid": "63263_13",
+            "document": "Evolution of flagella . All currently known nonflagellar Type III transport systems serve the function of exporting (injecting) toxin into eukaryotic cells. Similarly, flagellar grow by exporting flagelling through the flagellar machinery. It is hypothesised that the flagellum evolved from the type three secretory system. For example, the bubonic plague bacterium \"Yersinia pestis\" has an organelle assembly very similar to a complex flagellum, except that is missing only a few flagellar mechanisms and functions, such as a needle to inject toxins into other cells. The hypothesis that the flagellum evolved from the type three secretory system has been challenged by recent phylogenetic research that strongly suggests the type three secretory system evolved from the flagellum through a series of gene deletions. As such, the type three secretory system supports the hypothesis that the flagellum evolved from a simpler bacterial secretion system.",
+            "score": 113.79717254638672
+        },
+        {
+            "docid": "14662962_3",
+            "document": "ATP synthase subunit C . ATPases (or ATP synthases) are membrane-bound enzyme complexes/ion transporters that combine ATP synthesis and/or hydrolysis with the transport of protons across a membrane. ATPases can harness the energy from a proton gradient, using the flux of ions across the membrane via the ATPase proton channel to drive the synthesis of ATP. Some ATPases work in reverse, using the energy from the hydrolysis of ATP to create a proton gradient. There are different types of ATPases, which can differ in function (ATP synthesis and/or hydrolysis), structure (F-, V- and A-ATPases contain rotary motors) and in the type of ions they transport.",
+            "score": 113.49043273925781
+        },
+        {
+            "docid": "18136205_3",
+            "document": "LcrV . The type III secretion system of Gram-negative bacteria is used to transport virulence factors from the pathogen directly into the host cell and is only triggered when the bacterium comes into close contact with the host. Effector proteins secreted by the type III system do not possess a secretion signal, and are considered unique because of this. \"Yersinia\" spp. secrete effector proteins called YopB and YopD that facilitate the spread of other translocated proteins through the type III needle and the host cell cytoplasm. In turn, the transcription of these moieties is thought to be regulated by another gene, lcrV, found on the Yops virulon that encodes the entire type III system. The product of this gene, LcrV protein, also regulates the secretion of YopD through the type III translocon, and itself acts as a protective \"V\" antigen for \"Yersinia pestis\", the causative agent of plague.",
+            "score": 112.42814636230469
+        },
+        {
+            "docid": "36332456_6",
+            "document": "Archaellum . In the 1980s, Dieter Oesterhelt\u2019s laboratory showed for the first time that haloarchaea switch the rotation of their archaellum from clockwise to counterclockwise upon blue light pulses. This led microbiologists to believe that the archaeal motility structure is not only functionally, but also structurally reminiscent of bacterial flagella. However, in contrast to flagellins, archaellins are produced as preproteins which are processed by a specific peptidase prior to assembly. Their signal peptide is homologous to class III signal peptides of type IV prepilins that are processed in Gram-negative bacteria by the peptidase PilD. In crenarchaeota PibD and in euryarchaeota FlaK are PilD homologs, that are essential for the maturation of the archaellins. Furthermore, archaellins are N-glycosylated which has not been described for bacterial flagellins, where O-linked glycosylation is evident. Two other components of the archaellum assembly system, namely, FlaI and FlaJ are homologous to components of type IV pili, PilB and PilC, respectively. Moreover, the structure of the archaellum filament resembles type IV pili as it has no central lumen excluding the possibility that it might assembled in a similar fashion like bacterial flagella via a type III secretion system. Additionally, it was demonstrated that the rotation of the archaellum is dependent on ATP concentration in the cell rather than PMF (proton motive force) as in the bacterial flagellum.",
+            "score": 107.51190948486328
+        },
+        {
+            "docid": "15387_50",
+            "document": "Irreducible complexity . Evolution from Type Three Secretion Systems. Scientists regard this argument as having been disproved in the light of research dating back to 1996 as well as more recent findings. They point out that the basal body of the flagella has been found to be similar to the Type III secretion system (TTSS), a needle-like structure that pathogenic germs such as \"Salmonella\" and \"Yersinia pestis\" use to inject toxins into living eucaryote cells. The needle's base has ten elements in common with the flagellum, but it is missing forty of the proteins that make a flagellum work. The TTSS system negates Behe's claim that taking away any one of the flagellum's parts would prevent the system from functioning. On this basis, Kenneth Miller notes that, \"The parts of this supposedly irreducibly complex system actually have functions of their own.\" Studies have also shown that similar parts of the flagellum in different bacterial species can have different functions despite showing evidence of common descent, and that certain parts of the flagellum can be removed without completely eliminating its functionality.",
+            "score": 106.15962219238281
+        },
+        {
+            "docid": "534001_11",
+            "document": "Secretion . Secretion is not unique to eukaryotes alone - it is present in bacteria and archaea as well. ATP binding cassette (ABC) type transporters are common to all the three domains of life. The Sec system constituting the Sec Y-E-G complex (see Type II secretion system (T2SS), below) is another conserved secretion system, homologous to the translocon in the eukaryotic endoplasmic reticulum and the Sec 61 translocon complex of yeast. Some secreted proteins are translocated across the cytoplasmic membrane by the Sec translocon, which requires the presence of an N-terminal signal peptide on the secreted protein. Others are translocated across the cytoplasmic membrane by the twin-arginine translocation pathway (Tat). Gram-negative bacteria have two membranes, thus making secretion topologically more complex. There are at least six specialized secretion systems in gram-negative bacteria. Many secreted proteins are particularly important in bacterial pathogenesis.",
+            "score": 105.9516372680664
+        },
+        {
+            "docid": "10321124_7",
+            "document": "Type three secretion system . The hallmark of T3SS is the needle (more generally, the needle complex (NC) or the T3SS apparatus (T3SA); also called injectisome when the ATPase is excluded; see below). Bacterial proteins that need to be secreted pass from the bacterial cytoplasm through the needle directly into the host cytoplasm. Three membranes separate the two cytoplasms: the double membrane (inner and outer membranes) of the Gram-negative bacterium and the eukaryotic membrane. The needle provides a smooth passage through those highly selective and almost impermeable membranes. A single bacterium can have several hundred needle complexes spread across its membrane. It has been proposed that the needle complex is a universal feature of all T3SSs of pathogenic bacteria.",
+            "score": 105.40238952636719
+        },
+        {
+            "docid": "63263_14",
+            "document": "Evolution of flagella . Eubacterial flagellum is a multifunctional organelle. It\u2019s also one of a range of motility systems in bacteria. The structure of the organelle appears like a motor, shaft and a propeller. However, the structure of eubacterial flagellae varies based on whether their motor systems run on protons or sodium, and on the complexity of the flagellar whip. The evolutionary origin of eubacterial flagellae is probably an example of indirect evolution. A hypothesis on the evolutionary pathway of the eubacterial flagellum argues that a secretory system evolved first, based around the SMC rod- and pore-forming complex. This is presumed to be the common ancestor of the type-III secretory system and the flagellar system. Then, an ion pump was introduced to this structure which improved secretion. The ion pump later became the motor protein. This was followed by the emergence of the proto-flagellar filament as part of the protein-secretion structure. Gliding-twitching motility arose at this stage or later and was then refined into swimming motility.",
+            "score": 105.0282974243164
+        },
+        {
+            "docid": "4256142_2",
+            "document": "V-ATPase . Vacuolar-type -ATPase (V-ATPase) is a highly conserved evolutionarily ancient enzyme with remarkably diverse functions in eukaryotic organisms. V-ATPases acidify a wide array of intracellular organelles and pump protons across the plasma membranes of numerous cell types. V-ATPases couple the energy of ATP hydrolysis to proton transport across intracellular and plasma membranes of eukaryotic cells. It is generally seen as the polar opposite of ATP synthase because ATP synthase is a proton channel that uses the energy from a proton gradient to produce ATP. V-ATPase however, is a proton pump that uses the energy from ATP hydrolysis to produce a proton gradient.",
+            "score": 104.77474975585938
+        },
+        {
+            "docid": "4575803_6",
+            "document": "Ion transporter . ATP producing transporters run in the opposite direction of ATP Utilizing transporters. These proteins transport ions from high to low concentration with the gradient but in the process ATP is formed. Potential energy in the form of the concentration gradient is used to generate ATP. In animals, this ATP synthesis takes place in the mitochondria using F- type ATPase otherwise known as ATP synthase. V-type ATPase serves the opposite function as F-type ATPase and is used in plants to hydrolyze ATP to create a proton gradient. Examples of this are lysosomes that use V-type ATPase acidify vesicles or plant vacuoles during process of photosynthesis in the chloroplasts. This process can be regulated through various methods such as pH.",
+            "score": 104.28133392333984
+        },
+        {
+            "docid": "46231655_2",
+            "document": "Type II secretion system . The type 2 secretion system (often referred to as the type II secretion system or the T2SS) is protein secretion machinery found in various species of Gram-negative bacteria, including various human pathogens such as \"Pseudomonas aeruginosa\" and \"Vibrio cholerae\". The type II secretion system is one of six protein secretory systems that are commonly found in gram negative bacteria along with the type I secretion system, the type III secretion system, The type IV secretion system, the chaperone/usher pathway, the autotransporter pathway/type V secretion system and the type VI secretion system (some bacteria also utilize the type VII secretion system). Like these other systems, the type II secretion system enables the transport of cytoplasmic proteins across the lipid bilayers that make up the cell membranes in gram negative bacteria.",
+            "score": 104.0176773071289
+        },
+        {
+            "docid": "35051717_4",
+            "document": "SecDF protein-export membrane protein . The translocase itself comprises 7 proteins, including a chaperone protein (SecB), an ATPase (SecA), an integral membrane complex (SecCY, SecE and SecG), and two additional membrane proteins that promote the release of the mature peptide into the periplasm (SecD and SecF). The chaperone protein SecB is a highly acidic homotetrameric protein that exists as a \"dimer of dimers\" in the bacterial cytoplasm. SecB maintains preproteins in an unfolded state after translation, and targets these to the peripheral membrane protein ATPase SecA for secretion. Together with SecY and SecG, SecE forms a multimeric channel through which preproteins are translocated, using both proton motive forces and ATP-driven secretion. The latter is mediated by SecA. The structure of the \"Escherichia coli\" SecYEG assembly revealed a sandwich of two membranes interacting through the extensive cytoplasmic domains. Each membrane is composed of dimers of SecYEG. The monomeric complex contains 15 transmembrane helices.",
+            "score": 103.0252685546875
+        },
+        {
+            "docid": "45582346_2",
+            "document": "Type VI secretion system . The type VI secretion system (T6SS) is molecular machine used by a wide range of Gram-negative bacterial species to transport proteins from the interior (cytoplasm or cytosol) of a bacterial cell across the cellular envelope into an adjacent target cell. While often reported that the T6SS was discovered in 2006 by researchers studying the causative agent of cholera, \"Vibrio cholerae\", the first study demonstrating that T6SS genes encode a protein export apparatus was actually published in 2004, in a study of protein secretion by the fish pathogen \"Edwardsiella tarda\".",
+            "score": 102.20525360107422
+        },
+        {
+            "docid": "36383544_5",
+            "document": "YopR bacterial protein domain . There have been four secretion systems described in animal enteropathogens, such as \"Salmonella\" and \"Yersinia\", with further sequence similarities in plant pathogens like \"Ralstonia\" and \"Erwinia\". This is useful for further work with the YopR protein domain as comparative sequence and structure homology can be made. The type III secretion system is of great interest, as the YopR protein domain plays an important role. The type III secretion system transports virulence factors from the pathogen directly into the host cell when the bacterium is in close contact with the host.",
+            "score": 101.92955017089844
+        },
+        {
+            "docid": "1551873_3",
+            "document": "ATP-binding cassette transporter . ABC transporters often consist of multiple subunits, one or two of which are transmembrane proteins and one or two of which are membrane-associated ATPases. The ATPase subunits utilize the energy of adenosine triphosphate (ATP) binding and hydrolysis to energize the translocation of various substrates across membranes, either for uptake or for export of the substrate.",
+            "score": 101.35441589355469
+        },
+        {
+            "docid": "52068284_22",
+            "document": "Asparagine peptide lyase . Family N6 includes autoprocessing endopeptidases involved in type III protein secretion system, in which autoproteolysis is essential for mediating the secretion of proteins. Type III secretion system secretes proteins directly into host cells by an injectisome, a hollow tubular structure that penetrates into the host cell. Secreted proteins can pass through the injectisome into the host cell cytoplasm. The conserved active site residue in family N6 asparagine peptide lyases is N263.",
+            "score": 100.82086181640625
+        },
+        {
+            "docid": "36383544_2",
+            "document": "YopR bacterial protein domain . In molecular biology, YopR is a protein domain commonly found in gram negative bacteria, in particular \"Yersinia\" and is a core domain. Proteins in this entry are type III secretion system effectors. They are named differently in different species and in \"Yersinia\" has been designated YopR (Yersinia outer protein R) which is encoded by the YscH (Yersinia secretion H) gene. This Yop protein is unusual in that it is released to the extracellular environment rather than injected directly into the target cell as are most Yop proteins. A hallmark of \"Yersinia\" type III machines is the presence of needles extending from the bacterial surface. Needles perform two functions, firstly, as a channel to export effectors into the immune cells and secondly as a sensor.",
+            "score": 100.0096664428711
+        },
+        {
+            "docid": "46231655_3",
+            "document": "Type II secretion system . The type II secretion system is a membrane bound protein complex found in Gram-negative bacteria that is used to secrete proteins found in the cytoplasm of the bacteria into the extracellular space outside of the cell. The type II secretion system is just one of many secretory systems found in Gram-negative bacteria and is used to secrete a variety of different proteins, including bacterial toxins and degradative enzymes such as proteases and lipases. These secreted proteins are generally associated with the breakdown of host tissues and therefore are often important in causing the symptoms associated with certain bacterial infections. Each bacterial cell will contain a number of type II secretion systems and these are found embedded in the inner and outer membranes of the cell.",
+            "score": 98.2033920288086
+        },
+        {
+            "docid": "24603_13",
+            "document": "Proteasome . The 19S particle in eukaryotes consists of 19 individual proteins and is divisible into two subassemblies, a 9-subunit base that binds directly to the \u03b1 ring of the 20S core particle, and a 10-subunit lid. Six of the nine base proteins are ATPase subunits from the AAA Family, and an evolutionary homolog of these ATPases exists in archaea, called PAN (Proteasome-Activating Nucleotidase). The association of the 19S and 20S particles requires the binding of ATP to the 19S ATPase subunits, and ATP hydrolysis is required for the assembled complex to degrade folded and ubiquitinated proteins. Note that only the step of substrate unfolding requires energy from ATP hydrolysis, while ATP-binding alone can support all the other steps required for protein degradation (e.g., complex assembly, gate opening, translocation, and proteolysis). In fact, ATP binding to the ATPases by itself supports the rapid degradation of unfolded proteins. However, while ATP hydrolysis is required for unfolding only, it is not yet clear whether this energy may be used in the coupling of some of these steps.",
+            "score": 96.82179260253906
+        },
+        {
+            "docid": "1551873_29",
+            "document": "ATP-binding cassette transporter . In gram-negative organisms, ABC transporters mediate secretion of protein substrates across inner and outer membranes simultaneously without passing through the periplasm. This type of secretion is referred to as \"type I secretion\", which involves three components that function in concert: an \"ABC exporter\", a \"membrane fusion protein (MFP)\", and an \"outer membrane factor (OMF)\". An example is the secretion of hemolysin (HlyA) from \"E. coli\" where the inner membrane ABC transporter HlyB interacts with an inner membrane fusion protein HlyD and an outer membrane facilitator TolC. TolC allows hemolysin to be transported across the two membranes, bypassing the periplasm.",
+            "score": 96.13836669921875
+        },
+        {
+            "docid": "35030204_2",
+            "document": "Bacterial potassium transporter . This protein family consists of various potassium transport proteins (Trk) and V-type sodium ATP synthase subunit J or translocating ATPase J (EC). These proteins are involved in active sodium uptake utilizing ATP in the process. TrkH from \"Escherichia coli\" is a transmembrane protein and determines the specificity and kinetics of cation transport by the TrK system in this organism. This protein interacts with TrkA and requires TrkE for transport activity.",
+            "score": 95.85115814208984
+        },
+        {
+            "docid": "2705942_2",
+            "document": "F-ATPase . F-ATPase, also known as F-Type ATPase (also called ATP synthase), is an ATPase found in bacterial plasma membranes, in mitochondrial inner membranes (in oxidative phosphorylation, where it is known as Complex V), and in chloroplast thylakoid membranes. It uses a proton gradient to drive ATP synthesis by allowing the passive flux of protons across the membrane down their electrochemical gradient and using the energy released by the transport reaction to release newly formed ATP from the active site of F-ATPase. In some bacteria, sodium ions may be used instead of protons.",
+            "score": 95.54705810546875
+        },
+        {
+            "docid": "55815630_13",
+            "document": "Twitching motility . Other structures and systems closely related to type IV pili have also been observed in prokaryotes. In Archea, for example, bundles of type IV-like filaments have been observed to form helical structures similar in both form and function to the bacterial flagellum. These swimming associated structures have been termed archaella. Also closely related to the type IV pilus is the type II secretion system, itself widely distributed amongst gram-negative bacteria. In this secretion system, cargo destined for export is associated with tips of type IV-like pseudopili in the periplasm. Extension of the pseudopili through secretin proteins similar to PilQ permits these cargo proteins to cross the outer membrane and enter the extracellular environment.",
+            "score": 95.25865936279297
+        },
+        {
+            "docid": "244847_16",
+            "document": "Fire blight . Pathogenicity depends on many different factors such as the production of the siderophore desferrioxamine, metalloproteases, plasmids, and histone-like proteins. However, some essential factors of pathogenicity are variations in the synthesis of extracellular polysaccharides (EPS) and the mechanism of type III secretion system and its associated proteins. EPS helps bacterial pathogens avoid plant defenses, \u201cclog\u201d the host\u2019s vascular system, protect bacteria against desiccation and attach to both surfaces and one another. One EPS is amylovoran, a polymer of pentasaccharide repeating units. If a strain of \"E. amylovora\" can not produce amylovoran it is not pathogenic and can not spread in plants. Levan is another EPS, and a lack of it will slow development of symptoms. Type III secretion systems are used for exporting and delivering effector proteins into the cytosol of host plants. This system mainly consists of Hrc proteins. Motility is another major virulence factor. Since \"E. amylovora\" is not an obligate biotroph, it is able to survive outside the host which allows it to spread in many ways such as rain.",
+            "score": 94.95701599121094
+        },
+        {
+            "docid": "14875994_2",
+            "document": "ATP synthase alpha/beta subunits . ATPases (or ATP synthases) are membrane-bound enzyme complexes/ion transporters that combine ATP synthesis and/or hydrolysis with the transport of protons across a membrane. ATPases can harness the energy from a proton gradient, using the flux of ions across the membrane via the ATPase proton channel to drive the synthesis of ATP.",
+            "score": 94.86241149902344
+        },
+        {
+            "docid": "10321124_2",
+            "document": "Type three secretion system . Type three secretion system (often written Type III secretion system and abbreviated TTSS or T3SS, also called Injectisome) is a protein appendage found in several Gram-negative bacteria.",
+            "score": 93.31352233886719
+        },
+        {
+            "docid": "7241138_6",
+            "document": "Endoplasmic-reticulum-associated protein degradation . Because the ubiquitin\u2013proteasome system (UPS) is located in the cytosol, terminally misfolded proteins have to be transported from the endoplasmic reticulum back into cytoplasm. Most evidence suggest that the Hrd1 E3 ubiquitin-protein ligase can function as a retrotranslocon or dislocon to transport substrates into the cytosol. Hrd1 is not required for all ERAD events, so it is likely that other proteins contribute to this process. Further, this translocation requires a driving force that determines the direction of transport. Since polyubiquitination is essential for the export of substrates, it is widely thought that this driving force is provided by ubiquitin-binding factors. One of these ubiquitin-binding factors is the Cdc48p-Npl4p-Ufd1p complex in yeast. Humans have the homolog of Cdc48p known as valosin-containing protein (VCP/p97) with the same function as Cdc48p. VCP/p97 transports substrates from the endoplasmic reticulum to the cytoplasm with its ATPase activity.",
+            "score": 92.88790130615234
+        },
+        {
+            "docid": "45582346_8",
+            "document": "Type VI secretion system . Unlike substrates of other secretion systems (such as the general secretory pathway or secretion systems III and VI), those of the T6SS do not have any universally identifying features. Instead, they are recognized and selected for secretion through one of two structural components of the apparatus. One class of substrates binds within the pore of an Hcp hexamer. Since substrates are unstable in the absence of this interaction, it is thought that the substrate-Hcp complexes are secreted together, rather than Hcp serving as a passive tubule through which substrates pass. Members of the second class of substrates are targeted for secretion via interaction with the phage tail spike-like protein VgrG. These substrates are often modular proteins, such as the Rhs toxins, that possess PAAR domain for interaction with VgrG at one end. There are also instances where a VgrG and a substrate are both part of the same protein.",
+            "score": 91.34380340576172
+        },
+        {
+            "docid": "46231655_5",
+            "document": "Type II secretion system . Overall the type II secretion system is a large multiprotein machinery, made up of a number of distinct protein subunits known as the general secretory proteins (GSPs). The genes encoding these GSPs are usually found together in the genome in a single operon and many of these genes overlap. Each gene is named with a letter corresponding to the GSP that it encodes (for example the gspD gene encodes GspD) and studies indicate that between 12 and 15 of these genes are essential to the function of the type II secretion system. The GSPs are common among a number of different bacterial species and when they come together they form a complex that is structurally very similar to the type IV pili, an appendage that is also commonly found in gram negative bacteria. Overall the type II secretion system can be broken down into four main components. These are the outer membrane complex, the inner membrane complex, the secretion ATPase and the pseudopilus.",
+            "score": 91.0929183959961
+        },
+        {
+            "docid": "32762479_2",
+            "document": "FHIPEP protein family . In molecular biology, the FHIPEP protein family (Flagellar/Hr/Invasion Proteins Export Pore family)consists of a number of proteins that constitute the type III secretion (or signal peptide-independent) pathway apparatus. This mechanism translocates proteins lacking an N-terminal signal peptide across the cell membrane in one step, as it does not require an intermediate periplasmic process to cleave the signal peptide. It is a common pathway amongst Gram-negative bacteria for secreting toxic and flagellar proteins.",
+            "score": 90.14828491210938
+        }
+    ]
+}

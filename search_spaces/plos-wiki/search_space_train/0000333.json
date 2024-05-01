@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "45079586_3",
+            "document": "Siderocalin . Organisms require iron for a variety of chemical reactions. Although iron can be found throughout the biosphere, free ferric iron forms insoluble hydroxides at physiological pH, limiting its accessibility in aerobic conditions to living organisms. In order to preserve homeostasis, organisms have evolved specific protein networks, with proteins and receptors translated in accordance with intracellular iron levels.  Export and import are supplemented by a cycling process between the ferrous Fe(II) available in the reducing environment of the cell, and ferric Fe(III) found primarily under aerobic conditions.  The iron acquisition mechanisms of pathogenic bacteria demonstrate the role of iron as a key component at the interface between pathogens and hosts.",
+            "score": 107.80478167533875
+        },
+        {
+            "docid": "3335116_10",
+            "document": "Human iron metabolism . In response to a systemic bacterial infection, the immune system initiates a process known as iron withholding. If bacteria are to survive, then they must obtain iron from their environment. Disease-causing bacteria do this in many ways, including releasing iron-binding molecules called siderophores and then reabsorbing them to recover iron, or scavenging iron from hemoglobin and transferrin. The harder they have to work to get iron, the greater a metabolic price they must pay. That means that iron-deprived bacteria reproduce more slowly. So our control of iron levels appears to be an important defense against most bacterial infections; there are some exceptions however. TB causing bacterium can reside within macrophages which are an iron rich environment and Borrelia burgdorferi utilises manganese in place of iron. People with increased amounts of iron, like people with hemochromatosis, are more susceptible to some bacterial infection.",
+            "score": 145.64413166046143
+        },
+        {
+            "docid": "45079586_2",
+            "document": "Siderocalin . Siderocalin (Scn), lipocalin-2, NGAL, 24p3 is a mammalian lipocalin-type protein that can prevent iron acquisition by pathogenic bacteria by binding siderophores, which are iron-binding chelators made by microorganisms.  Iron serves as a key nutrient in host-pathogen interactions, and pathogens can acquire iron from the host organism via synthesis and release siderophores such as enterobactin.  Siderocalin is a part of the mammalian defence mechanism and acts as an antibacterial agent.  Crystallographic studies of Scn demonstrated that it includes a calyx, a ligand-binding domain that is lined with polar cationic groups. Central to the siderophore/siderocalin recognition mechanism are hybrid electrostatic/cation-pi interactions.  To evade the host defences, pathogens evolved to produce structurally varied siderophores that would not be recognized by siderocalin, allowing the bacteria to acquire iron.",
+            "score": 95.46016263961792
+        },
+        {
+            "docid": "45079586_5",
+            "document": "Siderocalin . The lipocalin siderocalin is found in neutrophil granules, uterine secretions, and at particularly high levels in serum during bacterial infection. Upon infection, pathogens use siderophores to capture iron from the host organism. This strategy is, however, complicated by the human protein siderocalin, which can sequester siderophores, and prevent their use by pathogenic bacteria as iron delivery agents.  This effect has been demonstrated by studies with siderocalin-knock-out mice, which are more sensitive to infections under iron-limiting conditions.",
+            "score": 125.70287251472473
+        },
+        {
+            "docid": "31627093_6",
+            "document": "Yersiniabactin . As previously mentioned, siderophores serve the essential function of iron acquisition for pathogens in the low iron conditions of the host. Thus the successful establishment of disease depends on the ability of the invading organism to acquire iron. Because of its high affinity for iron, yersiniabactin can solubilize the metal bound to host binding proteins and transport it back to the bacteria. The complex yersiniabactin-Fe recognizes the specific bacterial outer membrane TonB-dependent receptor, FyuA (Psn), and is translocated with the help of membrane-embedded proteins into the cytosol where the iron is discharged from yersiniabactin and used in various metabolic pathways. In the absence of a high-affinity iron-chelating compound, pathogenic \"Yersinia\", responsible for such lethal disease as the bubonic plague, only causes local symptoms of moderate intensity. The availability of iron, through an intrinsic high-affinity iron-chelating system such as Ybt, provides the bacteria with the ability to multiply in the host and to cause systemic infections.",
+            "score": 141.59343218803406
+        },
+        {
+            "docid": "1065475_4",
+            "document": "Siderophore . Siderophores are also important for some pathogenic bacteria for their acquisition of iron. In mammalian hosts, iron is tightly bound to proteins such as hemoglobin, transferrin, lactoferrin and ferritin. The strict homeostasis of iron leads to a free concentration of about 10 mol L, hence there are great evolutionary pressures put on pathogenic bacteria to obtain this metal. For example, the anthrax pathogen \"Bacillus anthracis\" releases two siderophores, bacillibactin and petrobactin, to scavenge ferric iron from iron proteins. While bacillibactin has been shown to bind to the immune system protein siderocalin, petrobactin is assumed to evade the immune system and has been shown to be important for virulence in mice.",
+            "score": 93.4184639453888
+        },
+        {
+            "docid": "1065475_26",
+            "document": "Siderophore . In addition to these two classes of iron-binding proteins, a hormone, hepcidin, is involved in controlling the release of iron from absorptive enterocytes, iron-storing hepatocytes and macrophages. Infection leads to inflammation and the release of interleukin-6 (IL-6 ) which stimulates hepcidin expression. In humans, IL-6 production results in low serum iron, making it difficult for invading pathogens to infect. Such iron depletion has been demonstrated to limit bacterial growth in both extracellular and intracellular locations.",
+            "score": 134.67154335975647
+        },
+        {
+            "docid": "3352829_8",
+            "document": "Hepcidin . Hepcidin is a regulator of iron metabolism. Hepcidin inhibits iron transport by binding to the iron export channel ferroportin which is located on the basolateral surface of gut enterocytes and the plasma membrane of reticuloendothelial cells (macrophages). Hepcidin ultimately breaks down the transporter protein in the lysosome. Inhibiting ferroportin prevents iron from being exported and the iron is sequestered in the cells. By inhibiting ferroportin, hepcidin prevents enterocytes from allowing iron into the hepatic portal system, thereby reducing dietary iron absorption. The iron release from macrophages is also reduced by ferroportin inhibition. Increased hepcidin activity is partially responsible for reduced iron availability seen in anemia of chronic inflammation, such as renal failure.",
+            "score": 80.18289875984192
+        },
+        {
+            "docid": "31627093_2",
+            "document": "Yersiniabactin . Yersiniabactin (Ybt) is a siderophore found in the pathogenic bacteria \"Yersinia pestis\", \"Yersinia pseudotuberculosis\", and \"Yersinia enterocolitica\", as well as several strains of enterobacteria including enteropathogenic \"Escherichia coli\". Siderophores, compounds of low molecular mass with high affinities for ferric iron, are important virulence factors in pathogenic bacteria. Iron\u2014an essential element for life used for such cellular processes as respiration and DNA replication\u2014is extensively chelated by host proteins like lactoferrin and ferritin; thus, the pathogen produces molecules with an even higher affinity for Fe than these proteins in order to acquire sufficient iron for growth. As a part of such an iron-uptake system, yersiniabactin plays an important role in pathogenicity of \"Y. pestis\", \"Y. pseudotuberculosis\", and \"Y. entercolitica\".",
+            "score": 110.14470052719116
+        },
+        {
+            "docid": "20693354_6",
+            "document": "Deployment cost\u2013benefit selection in physiology . Iron is vital to biological processes, not only of a host, but also to bacteria infecting the host. A biological fitness advantage can exist for hosts to reduce the availability of iron within itself to such bacteria (hypoferremia), even though this happens at a cost of the host impairing itself with anemia. The potential benefits of such self impairment is illustrated by the paradoxical effect that providing iron supplements to those with iron deficiency (which interferes with its antibacterial action) can result in an individual being cured of anemia but having increased bacterial illness.",
+            "score": 114.58973908424377
+        },
+        {
+            "docid": "45079586_12",
+            "document": "Siderocalin . The requirement for iron by humans and pathogens has been known for many years. The link between iron and mycobactins, iron-chelating growth factors from mycobacteria, was first made in the 1960s. At the time, interest was growing in resolving an application of mycobactins as target molecules for a rational anti-tuberculosis agent. Experiments in the 1960s and 1970s demonstrated that iron deficiency in mycobacteria was the cause of 'anaemic\u2019 cells. The majority of the genes and systems necessary for high affinity iron acquisition have been identified in pathogenic and saprophytic mycobacteria. These genes encode proteins for iron storage, uptake of ferric-siderophores, and heme.  Humans have evolved a defense for siderophore-mediated iron acquisition by developing siderocalin. To combat this, various pathogens have evolved siderophores that can evade siderocalin recognition. Siderocalin has been shown to bind to siderophores and inhibit iron acquisition, and prevent the growth of \"Mycobacterium tuberculosis\" in extracellular cultures; however, the effect of siderocalin on this pathogen within macrophages remains unclear.",
+            "score": 102.58108258247375
+        },
+        {
+            "docid": "3335116_26",
+            "document": "Human iron metabolism . Iron export occurs in a variety of cell types, including neurons, erythrocytes, macrophages and enterocytes. The latter two are especially important since systemic iron levels depend upon them. There is only one known iron exporter, ferroportin. It transports ferrous iron out of the cell, generally aided by ceruloplasmin and/or hephaestin (mostly in enterocytes), which oxidize iron to its ferric state so it can bind ferritin in the extracellular medium. Hepcidin causes the internalization of ferroportin, decreasing iron export. Besides, hepcidin seems to downregulate both TFR1 and DMT1 through an unknown mechanism. Another player assisting ferroportin in effecting cellular iron export is GAPDH. A specific post translationally modified isoform of GAPDH is recruited to the surface of iron loaded cells where it recruits apo-transferrin in close proximity to ferroportin so as to rapidly chelate the iron extruded.",
+            "score": 100.62929940223694
+        },
+        {
+            "docid": "4840621_12",
+            "document": "Iron supplement . Some studies have found that iron supplementation can lead to an increase in infectious disease morbidity in areas where bacterial infections are common. For example, children receiving iron-enriched foods have demonstrated an increased rate in diarrhea overall and enteropathogen shedding. Iron deficiency protects against infection by creating an unfavorable environment for bacterial growth. Nevertheless, while iron deficiency might lessen infections by certain pathogenic diseases, it also leads to a reduction in resistance to other strains of viral or bacterial infections, such as \"Salmonella typhimurium\" or \"Entamoeba histolytica\". Overall, it is sometimes difficult to decide whether iron supplementation will be beneficial or harmful to an individual in an environment that is prone to many infectious diseases; however this is a different question than the question of supplementation in individuals who are already ill with a bacterial infection.",
+            "score": 150.76371598243713
+        },
+        {
+            "docid": "49293529_2",
+            "document": "Natural Resistance-Associated Macrophage Proteins . Natural Resistance-Associated Macrophage Proteins (NRAMPs) are members of the Metal Ion (Mn-iron) Transporter (NRAMP) Family (TC# 2.A.55). The NRAMP family is a member of the large APC Superfamily of secondary carriers. Homologues of this family are found in various yeasts, plants, animals, archaea, and Gram-negative and Gram-positive bacteria termed \"natural resistance-associated\" macrophage proteins because one of the animal homologues plays a role in resistance to intracellular bacterial pathogens such as \"Salmonella enterica serovar Typhimurium\", \"Leishmania donovani\" and \"Mycobacterium bovis\". The natural history of \"SLC11\" genes in vertebrates has been discussed by Neves et al. (2011). Proposed to be a distant member of the APC Superfamily, several human pathologies may result from defects in NRAMP-dependent Fe or Mn transport, including iron overload, neurodegenerative diseases and innate susceptibility to infectious diseases.",
+            "score": 88.22409391403198
+        },
+        {
+            "docid": "25738012_2",
+            "document": "Functional molecular infection epidemiology . Functional Molecular Infection Epidemiology (FMIE) is an emerging area of medicine that entails the study of pathogen genes and genomes in the context of their functional association with the host niches (adhesion, invasion, adaptation) and the complex interactions they trigger within the host immune system (cell signaling, apoptosis) to culminate in varied outcomes of the infection. This can also be defined as the correlation of genetic variations in a pathogen or its respective host with a unique function that is important for disease severity, disease progression, or host susceptibility to a particular pathogen. Functional epidemiology implies not only descriptive host-pathogen genomic associations, but rather the interplay between pathogen and host genomic variations to functionally demonstrate the role of the genetic variations during infection.",
+            "score": 81.4323365688324
+        },
+        {
+            "docid": "3335116_11",
+            "document": "Human iron metabolism . Although this mechanism is an elegant response to short-term bacterial infection, it can cause problems when inflammation goes on for longer. Since the liver produces hepcidin in response to inflammatory cytokines, hepcidin levels can increase as the result of non-bacterial sources of inflammation, like viral infection, cancer, auto-immune diseases or other chronic diseases. When this occurs, the sequestration of iron appears to be the major cause of the syndrome of anemia of chronic disease, in which not enough iron is available to produce enough hemoglobin-containing red blood cells.",
+            "score": 132.83987617492676
+        },
+        {
+            "docid": "15464966_17",
+            "document": "Pathogenic bacteria . Iron is required for humans, as well as the growth of most bacteria. To obtain free iron, some pathogens secrete proteins called siderophores, which take the iron away from iron-transport proteins by binding to the iron even more tightly. Once the iron-siderophore complex is formed, it is taken up by siderophore receptors on the bacterial surface and then that iron is brought into the bacterium.",
+            "score": 107.36889553070068
+        },
+        {
+            "docid": "14146770_3",
+            "document": "Lipocalin-2 . The binding of NGAL to bacterial siderophores is important in the innate immune response to bacterial infection. Upon encountering invading bacteria the toll-like receptors on immune cells stimulate the synthesis and secretion of NGAL. Secreted NGAL then limits bacterial growth by sequestering iron-containing siderophores. Lipocalin-2 binds, next to bacterial siderophores, also to the mammalian siderophore 2,5-dihydroxybenzoic acid (2,5-DHBA). This complex ensures that excess free iron does not accumulate in the cytoplasm. Mammalian cells lacking 2,5-DHBA accumulate abnormal intracellular levels of iron leading to high levels of reactive oxygen species. Lipocalin-2 also functions as a growth factor.",
+            "score": 128.21340155601501
+        },
+        {
+            "docid": "45598981_16",
+            "document": "Gaseous signaling molecules . Nitric oxide is also generated by phagocytes (monocytes, macrophages, and neutrophils) as part of the human immune response. Phagocytes are armed with inducible nitric oxide synthase (iNOS), which is activated by interferon-gamma (IFN-\u03b3) as a single signal or by tumor necrosis factor (TNF) along with a second signal. On the other hand, transforming growth factor-beta (TGF-\u03b2) provides a strong inhibitory signal to iNOS, whereas interleukin-4 (IL-4) and IL-10 provide weak inhibitory signals. In this way, the immune system may regulate the resources of phagocytes that play a role in inflammation and immune responses. Nitric oxide is secreted as free radicals in an immune response and is toxic to bacteria and intracellular parasites, including \"Leishmania\" and malaria; the mechanism for this includes DNA damage and degradation of iron sulfur centers into iron ions and iron-nitrosyl compounds.",
+            "score": 85.7790846824646
+        },
+        {
+            "docid": "14958_68",
+            "document": "Immune system . An evasion strategy used by several pathogens to avoid the innate immune system is to hide within the cells of their host (also called intracellular pathogenesis). Here, a pathogen spends most of its life-cycle inside host cells, where it is shielded from direct contact with immune cells, antibodies and complement. Some examples of intracellular pathogens include viruses, the food poisoning bacterium \"Salmonella\" and the eukaryotic parasites that cause malaria (\"Plasmodium falciparum\") and leishmaniasis (\"Leishmania spp.\"). Other bacteria, such as \"Mycobacterium tuberculosis\", live inside a protective capsule that prevents lysis by complement. Many pathogens secrete compounds that diminish or misdirect the host's immune response. Some bacteria form biofilms to protect themselves from the cells and proteins of the immune system. Such biofilms are present in many successful infections, e.g., the chronic \"Pseudomonas aeruginosa\" and \"Burkholderia cenocepacia\" infections characteristic of cystic fibrosis. Other bacteria generate surface proteins that bind to antibodies, rendering them ineffective; examples include \"Streptococcus\" (protein G), \"Staphylococcus aureus\" (protein A), and \"Peptostreptococcus magnus\" (protein L).",
+            "score": 92.284947514534
+        },
+        {
+            "docid": "20800103_10",
+            "document": "Biological functions of nitric oxide . Nitric oxide is generated by phagocytes (monocytes, macrophages, and neutrophils) as part of the human immune response. Phagocytes are armed with inducible nitric oxide synthase (iNOS), which is activated by interferon-gamma (IFN-\u03b3) as a single signal or by tumor necrosis factor (TNF) along with a second signal. On the other hand, transforming growth factor-beta (TGF-\u03b2) provides a strong inhibitory signal to iNOS, whereas interleukin-4 (IL-4) and IL-10 provide weak inhibitory signals. In this way, the immune system may regulate the armamentarium of phagocytes that play a role in inflammation and immune responses. Nitric oxide is secreted as free radicals in an immune response and is toxic to bacteria and intracellular parasites, including \"Leishmania\" and malaria; the mechanism for this includes DNA damage and degradation of iron sulfur centers into iron ions and iron-nitrosyl compounds.",
+            "score": 87.76339292526245
+        },
+        {
+            "docid": "624361_19",
+            "document": "Autophagy . In microbiology, xenophagy is the autophagic degradation of infectious particles. Cellular autophagic machinery also play an important role in innate immunity. Intracellular pathogens, such as \"Mycobacterium tuberculosis\" (the bacterium which is responsible for tuberculosis) are targeted for degradation by the same cellular machinery and regulatory mechanisms that target host mitochondria for degradation. Incidentally, this is further evidence for the endosymbiotic hypothesis. This process generally leads to the destruction of the invasive organism, although some bacteria can block the maturation of phagosomes into degradative organelles called phagolysosomes. Stimulation of autophagy in infected cells can help overcome this phenomenon, restoring pathogen degradation.",
+            "score": 91.58274841308594
+        },
+        {
+            "docid": "10163776_18",
+            "document": "Hemolysin . Hemolysins are thought to be responsible for many events in host cells. For example, iron may be a limiting factor in the growth of various pathogenic bacteria. Since free iron may generate damaging free radicals, free iron is typically maintained at low concentrations within the body. Red blood cells are rich in iron-containing heme. Lysis of these cells releases heme into the surroundings, allowing the bacteria to take up the free iron. But hemolysin is related to bacteria not only in this way but also in some others.",
+            "score": 82.88427591323853
+        },
+        {
+            "docid": "3335116_19",
+            "document": "Human iron metabolism . These intestinal lining cells can then either store the iron as ferritin, which is accomplished by Fe binding to apoferritin (in which case the iron will leave the body when the cell dies and is sloughed off into feces), or the cell can release it into the body via the only known iron exporter in mammals, ferroportin. Hephaestin, a ferroxidase that can oxidize Fe to Fe and is found mainly in the small intestine, helps ferroportin transfer iron across the basolateral end of the intestine cells. In contrast, ferroportin is post-translationally repressed by hepcidin, a 25-amino acid peptide hormone. The body regulates iron levels by regulating each of these steps. For instance, enterocytes synthesize more Dcytb, DMT1 and ferroportin in response to iron deficiency anemia. Iron absorption from diet is enhanced in the presence of vitamin C and diminished by excess calcium, zinc, or manganese.",
+            "score": 72.17870950698853
+        },
+        {
+            "docid": "17364944_3",
+            "document": "Iron metabolism disorder . Hepcidin is the master regulator of iron metabolism and, therefore, most genetic forms of iron overload can be thought of as relative hepcidin deficiency in one way or another. For instance, a severe form of iron overload, juvenile hemochromatosis, is a result of severe hepcidin deficiency. The majority of cases are caused by mutations in the hemojuvelin gene (HJV or RGMc/repulsive guidance molecule c). The exceptions, people who have mutations in the gene for ferroportin, prove the rule: these people have plenty of hepcidin, but their cells lack the proper response to it. So, in people with ferroportin proteins that transport iron out of cells without responding to hepcidin's signals to stop, they have a deficiency in the action of hepcidin, if not in hepcidin itself.",
+            "score": 78.05779004096985
+        },
+        {
+            "docid": "14734_104",
+            "document": "Iron . Iron uptake is tightly regulated by the human body, which has no regulated physiological means of excreting iron. Only small amounts of iron are lost daily due to mucosal and skin epithelial cell sloughing, so control of iron levels is primarily accomplished by regulating uptake. Regulation of iron uptake is impaired in some people as a result of a genetic defect that maps to the HLA-H gene region on chromosome 6 and leads to abnormally low levels of hepcidin, a key regulator of the entry of iron into the circulatory system in mammals. In these people, excessive iron intake can result in iron overload disorders, known medically as hemochromatosis. Many people have an undiagnosed genetic susceptibility to iron overload, and are not aware of a family history of the problem. For this reason, people should not take iron supplements unless they suffer from iron deficiency and have consulted a doctor. Hemochromatosis is estimated to be the cause of 0.3 to 0.8% of all metabolic diseases of Caucasians.",
+            "score": 82.48135995864868
+        },
+        {
+            "docid": "52234631_7",
+            "document": "Hemochromatosis type 4 . In normal iron regulation, iron is absorbed in the intestine, and ferroportin transports iron from the cells of the intestinal lining into the bloodstream. Iron in the bloodstream is then bound by transferrin, which carries the iron to target cells. Iron is stored in cells and blood serum in a protein called ferritin. Reticuloendothelial macrophages, which can phagocytose red blood cells, are important in the iron recycling process. Ferroportin is upregulated in the reticuloendothelial macrophages after phagocytosis occurs so that iron from the degraded red blood cells can be released into the bloodstream and transported to other types of cells as needed. Hepcidin, a protein synthesized in the liver in response to iron or inflammation, is a regulator of ferroportin expression. When hepcidin binds ferroportin, ferroportin is phosphorylated, endocytosed, tagged with ubiquitin, and degraded. More than 39 mutations to the SLC40A1 gene have been identified in patients with type 4 hemochromatosis. The misregulation of ferroportin in type 4 hemochromatosis can involve a failure of ferroportin to be properly expressed at the cell membrane, or it can involve a failure of ferroportin to respond to negative regulation by hepcidin.",
+            "score": 70.80833792686462
+        },
+        {
+            "docid": "5951626_2",
+            "document": "Antigenic variation . Antigenic variation refers to the mechanism by which an infectious agent such as a protozoan, bacterium or virus alters its surface proteins in order to evade a host immune response. It is related to phase variation. Immune evasion is particularly important for organisms that target long-lived hosts, repeatedly infect a single host and are easily transmittable. Antigenic variation not only enables immune evasion by the pathogen, but also allows the microbes to cause re-infection, as their antigens are no longer recognized by the host's immune system. When an organism is exposed to a particular antigen (i.e. a protein on the surface of a bacterium) an immune response is stimulated and antibodies are generated to target that specific antigen. The immune system will then \"remember\" that particular antigen, and defenses aimed at that antigen become part of the immune system\u2019s acquired immune response. If the same pathogen tries to re-infect the same host the antibodies will act rapidly to target the pathogen for destruction. However, if the pathogen can alter its surface antigens, it can evade the host's acquired immune system. This will allow the pathogen to re-infect the host while the immune system generates new antibodies to target the newly identified antigen. Antigenic variation can occur by altering a variety of surface molecules including proteins and carbohydrates. There are many molecular mechanisms behind antigenic variation, including gene conversion, site-specific DNA inversions, hypermutation, as well as recombination of sequence cassettes. In all cases, antigenic variation and phase variation result in a heterogenic phenotype of a clonal population. Individual cells either express the phase-variable protein(s) or express one of multiple antigenic forms of the protein. This form of regulation has been identified mainly, but not exclusively, for a wide variety of surface structures in pathogens and is implicated as a virulence strategy.",
+            "score": 93.39079189300537
+        },
+        {
+            "docid": "16693506_14",
+            "document": "Pathogenic fungus . Studies have shown that hosts with higher levels of immune response cells such as monocytes/macrophages, dendritic cells, and invariant natural killer (iNK) T-cells exhibited greater control of fungal growth and protection against systemic infection. Pattern recognition receptors (PRRs) play an important role in inducing an immune response by recognizing specific fungal pathogens and initiating an immune response. In the case of mucosal candidiasis, the cells that produce cytokine IL-17 are extremely important in maintaining innate immunity.",
+            "score": 75.90562558174133
+        },
+        {
+            "docid": "8513008_9",
+            "document": "Host tropism . Host organisms are equipped with a variety of different defense mechanisms used to protect the host from pathogenic infection. Humans in particular possess multiple lines of defense that affect pathogenesis from beginning to end. In order for a virus or bacterium to display tropism for a specific host, it must first have the means to break through the host organism's line of defense. The first line of defense, known as the innate immune system, is meant to prevent initial pathogenic entry and establishment. The innate immune system is only broadly specific to pathogens and includes: anatomical barriers, inflammation, phagocytosis, and nonspecific inhibitors.",
+            "score": 70.07457947731018
+        },
+        {
+            "docid": "158402_22",
+            "document": "Iron deficiency . Iron is needed for bacterial growth making its bioavailability an important factor in controlling infection. Blood plasma as a result carries iron tightly bound to transferrin, which is taken up by cells by endocytosing transferrin, thus preventing its access to bacteria. Between 15 and 20 percent of the protein content in human milk consists of lactoferrin that binds iron. As a comparison, in cow's milk, this is only 2 percent. As a result, breast fed babies have fewer infections. Lactoferrin is also concentrated in tears, saliva and at wounds to bind iron to limit bacterial growth. Egg white contains 12% conalbumin to withhold it from bacteria that get through the egg shell (for this reason, prior to antibiotics, egg white was used to treat infections).",
+            "score": 121.42633891105652
+        },
+        {
+            "docid": "44116266_3",
+            "document": "Effector-triggered immunity . The innate immune system is common to all multicellular organisms and forms the first line of defense against pathogens. Infected cells recognize that they are under attack by detecting the pathogen directly through the Pathogen Associated Molecular Patterns (PAMPS) which bind with the Pattern Recognition Receptors (PRR) on the host cells. Host cells also recognize the pathogen through effector-triggered immunity, whereby the host cells are alerted to the pathogen by the associated damage caused by pathogenic toxins or effectors.",
+            "score": 70.19791650772095
+        }
+    ],
+    "r": [
+        {
+            "docid": "4840621_12",
+            "document": "Iron supplement . Some studies have found that iron supplementation can lead to an increase in infectious disease morbidity in areas where bacterial infections are common. For example, children receiving iron-enriched foods have demonstrated an increased rate in diarrhea overall and enteropathogen shedding. Iron deficiency protects against infection by creating an unfavorable environment for bacterial growth. Nevertheless, while iron deficiency might lessen infections by certain pathogenic diseases, it also leads to a reduction in resistance to other strains of viral or bacterial infections, such as \"Salmonella typhimurium\" or \"Entamoeba histolytica\". Overall, it is sometimes difficult to decide whether iron supplementation will be beneficial or harmful to an individual in an environment that is prone to many infectious diseases; however this is a different question than the question of supplementation in individuals who are already ill with a bacterial infection.",
+            "score": 150.7637176513672
+        },
+        {
+            "docid": "3335116_10",
+            "document": "Human iron metabolism . In response to a systemic bacterial infection, the immune system initiates a process known as iron withholding. If bacteria are to survive, then they must obtain iron from their environment. Disease-causing bacteria do this in many ways, including releasing iron-binding molecules called siderophores and then reabsorbing them to recover iron, or scavenging iron from hemoglobin and transferrin. The harder they have to work to get iron, the greater a metabolic price they must pay. That means that iron-deprived bacteria reproduce more slowly. So our control of iron levels appears to be an important defense against most bacterial infections; there are some exceptions however. TB causing bacterium can reside within macrophages which are an iron rich environment and Borrelia burgdorferi utilises manganese in place of iron. People with increased amounts of iron, like people with hemochromatosis, are more susceptible to some bacterial infection.",
+            "score": 145.64413452148438
+        },
+        {
+            "docid": "31627093_6",
+            "document": "Yersiniabactin . As previously mentioned, siderophores serve the essential function of iron acquisition for pathogens in the low iron conditions of the host. Thus the successful establishment of disease depends on the ability of the invading organism to acquire iron. Because of its high affinity for iron, yersiniabactin can solubilize the metal bound to host binding proteins and transport it back to the bacteria. The complex yersiniabactin-Fe recognizes the specific bacterial outer membrane TonB-dependent receptor, FyuA (Psn), and is translocated with the help of membrane-embedded proteins into the cytosol where the iron is discharged from yersiniabactin and used in various metabolic pathways. In the absence of a high-affinity iron-chelating compound, pathogenic \"Yersinia\", responsible for such lethal disease as the bubonic plague, only causes local symptoms of moderate intensity. The availability of iron, through an intrinsic high-affinity iron-chelating system such as Ybt, provides the bacteria with the ability to multiply in the host and to cause systemic infections.",
+            "score": 141.5934295654297
+        },
+        {
+            "docid": "1065475_26",
+            "document": "Siderophore . In addition to these two classes of iron-binding proteins, a hormone, hepcidin, is involved in controlling the release of iron from absorptive enterocytes, iron-storing hepatocytes and macrophages. Infection leads to inflammation and the release of interleukin-6 (IL-6 ) which stimulates hepcidin expression. In humans, IL-6 production results in low serum iron, making it difficult for invading pathogens to infect. Such iron depletion has been demonstrated to limit bacterial growth in both extracellular and intracellular locations.",
+            "score": 134.67153930664062
+        },
+        {
+            "docid": "3335116_11",
+            "document": "Human iron metabolism . Although this mechanism is an elegant response to short-term bacterial infection, it can cause problems when inflammation goes on for longer. Since the liver produces hepcidin in response to inflammatory cytokines, hepcidin levels can increase as the result of non-bacterial sources of inflammation, like viral infection, cancer, auto-immune diseases or other chronic diseases. When this occurs, the sequestration of iron appears to be the major cause of the syndrome of anemia of chronic disease, in which not enough iron is available to produce enough hemoglobin-containing red blood cells.",
+            "score": 132.83987426757812
+        },
+        {
+            "docid": "14146770_3",
+            "document": "Lipocalin-2 . The binding of NGAL to bacterial siderophores is important in the innate immune response to bacterial infection. Upon encountering invading bacteria the toll-like receptors on immune cells stimulate the synthesis and secretion of NGAL. Secreted NGAL then limits bacterial growth by sequestering iron-containing siderophores. Lipocalin-2 binds, next to bacterial siderophores, also to the mammalian siderophore 2,5-dihydroxybenzoic acid (2,5-DHBA). This complex ensures that excess free iron does not accumulate in the cytoplasm. Mammalian cells lacking 2,5-DHBA accumulate abnormal intracellular levels of iron leading to high levels of reactive oxygen species. Lipocalin-2 also functions as a growth factor.",
+            "score": 128.21340942382812
+        },
+        {
+            "docid": "45079586_5",
+            "document": "Siderocalin . The lipocalin siderocalin is found in neutrophil granules, uterine secretions, and at particularly high levels in serum during bacterial infection. Upon infection, pathogens use siderophores to capture iron from the host organism. This strategy is, however, complicated by the human protein siderocalin, which can sequester siderophores, and prevent their use by pathogenic bacteria as iron delivery agents.  This effect has been demonstrated by studies with siderocalin-knock-out mice, which are more sensitive to infections under iron-limiting conditions.",
+            "score": 125.70287322998047
+        },
+        {
+            "docid": "47867650_16",
+            "document": "Cunninghamella bertholletiae . In cases of uncontrolled diabetes, where ketoacidosis is present and glucose levels are above 12mM, \"C. bertholletiae\" infection is promoted and can be highly invasive. This may related to effects of low pH on iron acquisition, as low pH decreases affinity of transferrin for iron, freeing iron from its usual sequestration in blood and making if more available for fungal exploitation. Because a primary factor in patient susceptibility to \"C. bertholletiae\" is increased iron availability, any condition that increases blood iron availability creates an increased risk of infection. Patients undergoing iron chelation therapy with deferoxamine are also at risk of infection, because this treatment also increases accessible iron for \"C. bertholletiae\". Furthermore, \"C. bertholletiae\" was identified as the causative agent of a fatal case of rhinocerebral mucormycosis in a patient with hemochromatosis, expanding the recognized risk factors for infection.",
+            "score": 123.77339172363281
+        },
+        {
+            "docid": "158402_22",
+            "document": "Iron deficiency . Iron is needed for bacterial growth making its bioavailability an important factor in controlling infection. Blood plasma as a result carries iron tightly bound to transferrin, which is taken up by cells by endocytosing transferrin, thus preventing its access to bacteria. Between 15 and 20 percent of the protein content in human milk consists of lactoferrin that binds iron. As a comparison, in cow's milk, this is only 2 percent. As a result, breast fed babies have fewer infections. Lactoferrin is also concentrated in tears, saliva and at wounds to bind iron to limit bacterial growth. Egg white contains 12% conalbumin to withhold it from bacteria that get through the egg shell (for this reason, prior to antibiotics, egg white was used to treat infections).",
+            "score": 121.42633819580078
+        },
+        {
+            "docid": "2363722_7",
+            "document": "Anemia of chronic disease . In the short term, the overall effect of these changes is likely positive: it allows the body to keep more iron away from bacterial pathogens in the body, while producing more immune cells to fight off infection. Almost all bacteria depend on iron to live and multiply. However, if inflammation continues, the effect of locking up iron stores is to reduce the ability of the bone marrow to produce red blood cells. These cells require iron for their massive amounts of hemoglobin which allow them to transport oxygen.",
+            "score": 119.7788314819336
+        },
+        {
+            "docid": "25279961_5",
+            "document": "Sugarcane grassy shoot disease . Symptoms of iron deficiency (interveinal chlorosis) are very similar to those of SCGS. It shows creamy leaves, but no chlorosis occurs in leaf veins, and they remain green. In the case of severe iron deficiency, veins may lose chlorophyll in the absence of iron and appear similar to SCGS disease. Iron deficiency is caused by a lack of iron nutrients in the soil; therefore, one may observe several plants showing symptoms of iron deficiency in localized patches in a field. Phytoplasma-infected plants, though, may occur anywhere in the field in a more random distribution. Treatment with 0.1% ferrous sulfate, either by spraying or supplying it through fertilizer cures iron deficiency, but phytoplasma-infected sugarcane does not respond to any treatment. Phytoplasma-infected plants growing \"in vitro\" show sensitivity to tetracycline.",
+            "score": 115.66324615478516
+        },
+        {
+            "docid": "27024757_6",
+            "document": "Nutritional neuroscience . Iron is essential for several critical metabolic enzymes and a deficiency of this mineral can disrupt brain development. For, example chronic marginal iron affects dopamine metabolism and myelin fatty acid composition and behavior in mice. In rats a marginal iron deficiency that does not cause anemia disrupted axon growth in the auditory nerve affecting auditory brainstem latency without major changes in myelination. In rhesus macaques, prenatal iron deficiency disrupts emotional behavior and polymorphisms that reduce the expression of monoamine oxidase interact with gestational iron deficiency to exacerbate the response to a stressful situation leading to increased aggressiveness. Inexpensive and effective iron supplementation is an available preventative strategy recommended by the World Health Organization. However, iron supplementation can exacerbate malaria infection. Therefore, individuals receiving iron supplementation in malaria-endemic areas must be carefully monitored.",
+            "score": 115.50994110107422
+        },
+        {
+            "docid": "14958_12",
+            "document": "Immune system . Within the genitourinary and gastrointestinal tracts, commensal flora serve as biological barriers by competing with pathogenic bacteria for food and space and, in some cases, by changing the conditions in their environment, such as pH or available iron. As a result of the symbiotic relationship between commensals and the immune system, the probability that pathogens will reach sufficient numbers to cause illness is reduced. However, since most antibiotics non-specifically target bacteria and do not affect fungi, oral antibiotics can lead to an \"overgrowth\" of fungi and cause conditions such as a vaginal candidiasis (a yeast infection). There is good evidence that re-introduction of probiotic flora, such as pure cultures of the lactobacilli normally found in unpasteurized yogurt, helps restore a healthy balance of microbial populations in intestinal infections in children and encouraging preliminary data in studies on bacterial gastroenteritis, inflammatory bowel diseases, urinary tract infection and post-surgical infections.",
+            "score": 115.29322052001953
+        },
+        {
+            "docid": "158402_24",
+            "document": "Iron deficiency . Reflecting this link between iron bioavailability and bacterial growth, the taking of oral iron supplements in excess of 200\u00a0mg/day causes a relative overabundance of iron that can alter the types of bacteria that are present within the gut. There have been concerns regarding parenteral iron being administered whilst bacteremia is present, although this has not been borne out in clinical practice. A moderate iron deficiency, in contrast, can provide protection against acute infection, especially against organisms that reside within hepatocytes and macrophages, such as malaria and tuberculosis. This is mainly beneficial in regions with a high prevalence of these diseases and where standard treatment is unavailable.",
+            "score": 114.63628387451172
+        },
+        {
+            "docid": "20693354_6",
+            "document": "Deployment cost\u2013benefit selection in physiology . Iron is vital to biological processes, not only of a host, but also to bacteria infecting the host. A biological fitness advantage can exist for hosts to reduce the availability of iron within itself to such bacteria (hypoferremia), even though this happens at a cost of the host impairing itself with anemia. The potential benefits of such self impairment is illustrated by the paradoxical effect that providing iron supplements to those with iron deficiency (which interferes with its antibacterial action) can result in an individual being cured of anemia but having increased bacterial illness.",
+            "score": 114.5897445678711
+        },
+        {
+            "docid": "158402_23",
+            "document": "Iron deficiency . To reduce bacterial growth, plasma concentrations of iron are lowered in a variety of systemic inflammatory states due to increased production of hepcidin which is mainly released by the liver in response to increased production of pro-inflammatory cytokines such as Interleukin-6. This functional iron deficiency will resolve once the source of inflammation is rectified; however, if not resolved, it can progress to Anaemia of Chronic Inflammation. The underlying inflammation can be caused by fever, inflammatory bowel disease, infections, Chronic Heart Failure (CHF), carcinomas, or following surgery.",
+            "score": 113.29991912841797
+        },
+        {
+            "docid": "1455589_31",
+            "document": "Emergency management . Flood-associated skin infections: Flood waters are often contaminated with bacteria and waste as well as chemicals on occasion. Prolonged, direct contact with these waters leads to an increased risk for skin infection, especially with open wounds in the skin or history of a previous skin condition, such as atopic dermatitis or psoriasis. These infections are exacerbated with a compromised immune system or an aging population. The most common bacterial skin infections are usually with Staphylococcus and Streptococcus. One of the most uncommon, but well-known bacterial infections is from Vibrio vulnificus, which causes a rare, but often fatal infection called necrotizing fasciitis.  Other salt-water Mycobacterium infections include the slow growing M. marinum and fast growing M. fortuitum, M. chelonae, and M. abscessus. Fresh-water bacterial infections include aeromonas hydrophila, Burkholderia pseudomallei causing melioidosis, leptospira interrogans causing leptospirosis, and chromobacterium violaceum. Fungal infections may lead to chromoblastomycosis, blastomycosis, mucormycosis, and dermatophytosis. Numerous other arthropod, protozoal, and parasitic infections have been described. A worker can reduce the risk of flood-associated skin infections by avoiding the water if an open wound is present, or at minimum, cover the open wound with a waterproof bandage. Should contact with flood water occur, the open wound should be washed thoroughly with soap and clean water.",
+            "score": 110.99815368652344
+        },
+        {
+            "docid": "31627093_2",
+            "document": "Yersiniabactin . Yersiniabactin (Ybt) is a siderophore found in the pathogenic bacteria \"Yersinia pestis\", \"Yersinia pseudotuberculosis\", and \"Yersinia enterocolitica\", as well as several strains of enterobacteria including enteropathogenic \"Escherichia coli\". Siderophores, compounds of low molecular mass with high affinities for ferric iron, are important virulence factors in pathogenic bacteria. Iron\u2014an essential element for life used for such cellular processes as respiration and DNA replication\u2014is extensively chelated by host proteins like lactoferrin and ferritin; thus, the pathogen produces molecules with an even higher affinity for Fe than these proteins in order to acquire sufficient iron for growth. As a part of such an iron-uptake system, yersiniabactin plays an important role in pathogenicity of \"Y. pestis\", \"Y. pseudotuberculosis\", and \"Y. entercolitica\".",
+            "score": 110.14469909667969
+        },
+        {
+            "docid": "5309210_19",
+            "document": "Beta thalassemia . Iron overload is an unavoidable consequence of chronic transfusion therapy, necessary for patients with beta thalassemia. Iron chelation is a medical therapy that avoids the complications of iron overload. The iron overload can be removed by Deferasirox, an oral iron chelator, which has a dose- dependent effect on iron burden. Every unit of transfused blood contains 200\u2013250\u00a0mg of iron and the body has no natural mechanism to remove excess iron. Deferasirox is a vital part in the patients health after blood transfusions. During normal iron homeostasis the circulating iron is bound to transferrin, but with an iron overload, the ability for transferrin to bind iron is exceeded and non-transferrin bound iron is formed. It represents a potentially toxic iron form due to its high propensity to induce oxygen species and is responsible for cellular damage. The prevention of iron overload protects patients from morbidity and mortality. The primary aim is to bind to and remove iron from the body and a rate equal to the rate of transfusional iron input or greater than iron input. During clinical trails patients that received Deferasirox experienced no drug-related neutropenia or agranulocytosis, which was present with other iron chelators. Its long half life requires it to be taken once daily and provides constant chelation. Cardiac failure is a main cause of illness from transfusional iron overload but deferasirox demonstrated the ability to remove iron from iron-loaded myocardial cells protecting beta thalassemia patients from effects of required blood transfusions.",
+            "score": 109.23992919921875
+        },
+        {
+            "docid": "4840621_11",
+            "document": "Iron supplement . Because one of the functions of elevated ferritin (an acute phase reaction protein) in acute infections is thought to be to sequester iron from bacteria, it is generally thought that iron supplementation (which circumvents this mechanism) should be avoided in patients who have active bacterial infections. Replacement of iron stores is seldom such an emergency situation that it cannot wait for any such acute infection to be treated.",
+            "score": 108.82704162597656
+        },
+        {
+            "docid": "44596645_7",
+            "document": "Bacterial leaf streak . Bacterial leaf streak of wheat is not easily prevented, but can be controlled with clean seed and resistance. Some foliar products, such as pesticides and antibiotic compounds, have been tested for effectiveness, but have proven to have insignificant outcomes on the bacterial pathogen. Using clean seed, with little infection, has yielded effective results for researchers and producers. The pathogen, being seed-borne, can be controlled with the elimination of contaminated seed, however, clean seed is not always a sure solution. Because the pathogen may still live in the soil, the use of clean seed is only effective if both the soil and seed are free of the pathogen. Currently, there are no successful seed treatments available for producers to apply to wheat seed for the pathogen. Variety resistance is another option for control of the disease. Using cultivars such as Blade, Cromwell, Faller, Howard or Knudson, which are resistant to BLS may reduce the impact of the disease and potentially break the disease cycle. Avoiding susceptible cultivars such as Hat Trick, Kelby, and Samson may also reduce the presence of the disease and reduce the amount of bacterial residue in the soil. Using integrated pest management techniques such as tillage to turn over the soil and bury the infection as well as rotating crops may assist with disease management, but are not a definitive control methods. Depending on conditions, the bacteria may survive for up to 81 months. Because the bacteria is moisture driven, irrigation may also increase the risks of BLS infection.",
+            "score": 107.9876480102539
+        },
+        {
+            "docid": "45079586_3",
+            "document": "Siderocalin . Organisms require iron for a variety of chemical reactions. Although iron can be found throughout the biosphere, free ferric iron forms insoluble hydroxides at physiological pH, limiting its accessibility in aerobic conditions to living organisms. In order to preserve homeostasis, organisms have evolved specific protein networks, with proteins and receptors translated in accordance with intracellular iron levels.  Export and import are supplemented by a cycling process between the ferrous Fe(II) available in the reducing environment of the cell, and ferric Fe(III) found primarily under aerobic conditions.  The iron acquisition mechanisms of pathogenic bacteria demonstrate the role of iron as a key component at the interface between pathogens and hosts.",
+            "score": 107.80477905273438
+        },
+        {
+            "docid": "15464966_17",
+            "document": "Pathogenic bacteria . Iron is required for humans, as well as the growth of most bacteria. To obtain free iron, some pathogens secrete proteins called siderophores, which take the iron away from iron-transport proteins by binding to the iron even more tightly. Once the iron-siderophore complex is formed, it is taken up by siderophore receptors on the bacterial surface and then that iron is brought into the bacterium.",
+            "score": 107.368896484375
+        },
+        {
+            "docid": "1065475_24",
+            "document": "Siderophore . There are two major types of iron-binding proteins present in most animals that provide protection against microbial invasion \u2013 extracellular protection is achieved by the transferrin family of proteins and intracellular protection is achieved by ferritin. Transferrin is present in the serum at approximately 30 \u03bcM, and contains two iron-binding sites, each with an extremely high affinity for iron. Under normal conditions it is about 25\u201340% saturated, which means that any freely available iron in the serum will be immediately scavenged \u2013 thus preventing microbial growth . Most siderophores are unable to remove iron from transferrin. Mammals also produce lactoferrin, which is similar to serum transferrin but possesses an even higher affinity for iron. Lactoferrin is present in secretory fluids, such as sweat, tears and milk, thereby minimising bacterial infection.",
+            "score": 107.07711029052734
+        },
+        {
+            "docid": "1551873_7",
+            "document": "ATP-binding cassette transporter . Bacterial ABC transporters are essential in cell viability, virulence, and pathogenicity. Iron ABC uptake systems, for example, are important effectors of virulence. Pathogens use siderophores, such as Enterobactin, to scavenge iron that is in complex with high-affinity iron-binding proteins or erythrocytes. These are high-affinity iron-chelating molecules that are secreted by bacteria and reabsorb iron into iron-siderophore complexes. The chvE-gguAB gene in \"Agrobacterium tumefaciens\" encodes glucose and galactose importers that are also associated with virulence. Transporters are extremely vital in cell survival such that they function as protein systems that counteract any undesirable change occurring in the cell. For instance, a potential lethal increase in osmotic strength is counterbalanced by activation of osmosensing ABC transporters that mediate uptake of solutes. Other than functioning in transport, some bacterial ABC proteins are also involved in the regulation of several physiological processes.",
+            "score": 106.02638244628906
+        },
+        {
+            "docid": "1283668_2",
+            "document": "Burkholderia . Burkholderia is a genus of Proteobacteria whose pathogenic members include the Burkholderia cepacia complex which attacks humans and \"Burkholderia mallei\", responsible for glanders, a disease that occurs mostly in horses and related animals; \"Burkholderia pseudomallei\", causative agent of melioidosis; and \"Burkholderia cepacia\", an important pathogen of pulmonary infections in people with cystic fibrosis (CF).",
+            "score": 105.63658142089844
+        },
+        {
+            "docid": "3335116_2",
+            "document": "Human iron metabolism . Human iron metabolism is the set of chemical reactions that maintain human homeostasis of iron at the systemic and cellular level. Iron is both necessary to the body and potentially toxic, and controlling iron levels in the body is a critically important part of many aspects of human health and disease. Hematologists have been especially interested in systemic iron metabolism because iron is essential for red blood cells, where most of the human body's iron is contained. Understanding iron metabolism is also important for understanding diseases of iron overload, such as hereditary hemochromatosis, and iron deficiency, such as iron deficiency anemia.",
+            "score": 105.62882232666016
+        },
+        {
+            "docid": "3392594_5",
+            "document": "Angular cheilitis . Angular cheilitis is thought to be multifactorial disorder of infectious origin, with many local and systemic predisposing factors. The sores in angular cheilitis are often infected with fungi (yeasts), bacteria, or a combination thereof; this may represent a secondary, opportunistic infection by these pathogens. Some studies have linked the initial onset of angular cheilitis with nutritional deficiencies, especially of the B(B2-riboflavin) vitamins and iron (which causes iron deficiency anemia), which in turn may be evidence of malnutrition or malabsorption. Angular cheilitis can be a manifestation of contact dermatitis, which is considered in two groups; irritational and allergic.",
+            "score": 104.49575805664062
+        },
+        {
+            "docid": "8770937_7",
+            "document": "Pasteurella multocida . \"P. multocida\" mutants are being researched for their ability to cause diseases. \"In vitro\" experiments show the bacteria respond to low iron. Vaccination against progressive atrophic rhinitis was developed by using a recombinant derivative of \"P. multocida\" toxin. The vaccination was tested on pregnant gilts (female swine without previous litters). The piglets born to treated gilts were inoculated, while the piglets born to unvaccinated mothers developed atrophic rhinitis. Other research is being done on the effects of protein, pH, temperature, NaCl, and sucrose on \"P. multocida\" development and survival in water. The research seems to show the bacteria survive better in 18\u00a0\u00b0C water compared to 2\u00a0\u00b0C water. The addition of 0.5% NaCl also aided bacterial survival, while the sucrose and pH levels had minor effects, as well. Research has also been done on the response of \"P. multocida\" to the host environment. These tests use DNA microarrays and proteomics techniques. \"P. multocida\"-directed mutants have been tested for their ability to produce disease. Findings seem to indicate the bacteria occupy host niches that force them to change their gene expression for energy metabolism, uptake of iron, amino acids, and other nutrients. \"In vitro\" experiments show the responses of the bacteria to low iron and different iron sources, such as transferrin and hemoglobin. \"P. multocida\" genes that are upregulated in times of infection are usually involved in nutrient uptake and metabolism. This shows true virulence genes may only be expressed during the early stages of infection.",
+            "score": 104.20539855957031
+        },
+        {
+            "docid": "14045844_3",
+            "document": "Nitric oxide dioxygenase . Nitric oxide is a ubiquitous small molecule that is integrated in a wide variety of physiological processes including smooth muscle vasodilation, platelet disaggregation, neurotransmission, and immune response to bacterial infection. Overproduction of this signaling molecule can be lethal to cells by poisoning cellular energy production. The most sensitive targets of NO are aconitase, an enzyme that catalyzes the isomerization of citrate to isocitrate in the citric acid cycle, and cytochrome oxidase, the last enzyme in the respiratory electron transport chain of mitochondria. Additionally NO, with its lone radical on the nitrogen atom, is implicated in a number of secondary mechanisms of toxicity, including catalase inhibition (resulting in hydrogen peroxide toxicity), Fe-S center iron liberation, and the formation of dinitosyl-iron complexes.",
+            "score": 104.1262435913086
+        },
+        {
+            "docid": "8235178_3",
+            "document": "Burkholderia cenocepacia . It is an opportunistic pathogen and human infections are common in patients with cystic fibrosis and chronic granulomatous disease, and are often fatal. In cystic fibrosis, it can cause \"cepacia syndrome\" which is characterized by a rapidly progressive fever, uncontrolled bronchopneumonia, weight loss, and possibly death. A review of \"B. cenocepacia\" in respiratory infections of cystic fibrosis patients stated that \"one of the most threatening pathogens in [cystic fibrosis] is \"Burkholderia cenocepacia\", a member of a bacterial group collectively referred to as the \"Burkholderia cepacia\" complex (Bcc)\". 24 Small RNAs were identified using RNA binding properties of the Hfq protein during the exponential growth phasess. sRNAs identified in Burkholderia cenocepacia KC-0 were upregulated under iron depletion and oxidate stress.",
+            "score": 103.8826904296875
+        },
+        {
+            "docid": "4637216_11",
+            "document": "Diseases of poverty . Malnutrition disproportionately affect those in sub-Saharan Africa. Over 35 percent of children under the age of 5 in sub-Saharan Africa show physical signs of malnutrition. Malnutrition, the immune system, and infectious diseases operate in a cyclical manner: infectious diseases have deleterious effects on nutritional status, and nutritional deficiencies can lower the strength of the immune system which affects the body\u2019s ability to resist infections. Similarly, malnutrition of both macronutrients (such as protein and energy) and micronutrients (such as iron, zinc, and vitamins) increase susceptibility to HIV infections by interfering with the immune system and through other biological mechanisms. Depletion of macronutrients and micronutrients promotes viral replication that contributes to greater risks of HIV transmission from mother-to-child as well as those through sexual transmission. Increased mother-to-child transmission is related to specific deficiencies in micronutrients such as vitamin A. Further, anemia, a decrease in the number of red blood cells, increases viral shedding in the birth canal, which also increases risk of mother-to-child transmission. Without these vital nutrients, the body lacks the defense mechanisms to resist infections. At the same time, HIV lowers the body\u2019s ability to intake essential nutrients. HIV infection can affect the production of hormones that interfere with the metabolism of carbohydrates, proteins, and fats.",
+            "score": 103.81011199951172
+        }
+    ]
+}

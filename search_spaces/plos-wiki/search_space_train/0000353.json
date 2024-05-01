@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "1534578_12",
+            "document": "Motion perception . As in other aspects of vision, the observer's visual input is generally insufficient to determine the true nature of stimulus sources, in this case their velocity in the real world. In monocular vision for example, the visual input will be a 2D projection of a 3D scene. The motion cues present in the 2D projection will by default be insufficient to reconstruct the motion present in the 3D scene. Put differently, many 3D scenes will be compatible with a single 2D projection. The problem of motion estimation generalizes to binocular vision when we consider occlusion or motion perception at relatively large distances, where binocular disparity is a poor cue to depth. This fundamental difficulty is referred to as the inverse problem.",
+            "score": 132.41055750846863
+        },
+        {
+            "docid": "1534578_10",
+            "document": "Motion perception . Some have speculated that, having extracted the hypothesized motion signals (first- or second-order) from the retinal image, the visual system must integrate those individual \"local\" motion signals at various parts of the visual field into a 2-dimensional or \"global\" representation of moving objects and surfaces. (It is not clear how this 2D representation is then converted into the perceived 3D percept) Further processing is required to detect coherent motion or \"global motion\" present in a scene.",
+            "score": 102.22038161754608
+        },
+        {
+            "docid": "43971138_2",
+            "document": "Stereoscopic motion . Stereoscopic motion, as introduced by B\u00e9la Julesz in his book \"Foundations of Cyclopean Perception\" of 1971, is a translational motion of figure boundaries defined by changes in binocular disparity over time in a real-life 3D scene, a 3D film or other stereoscopic scene. This translational motion gives rise to a mental representation of three dimensional motion created in the brain on the basis of the binocular motion stimuli. Whereas the motion stimuli as presented to the eyes have a different direction for each eye, the stereoscopic motion is perceived as yet another direction on the basis of the views of both eyes taken together. Stereoscopic motion, as it is perceived by the brain, is also referred to as \"cyclopean motion\", and the processing of visual input that takes place in the visual system relating to stereoscopic motion is called \"stereoscopic motion processing\".",
+            "score": 109.8250458240509
+        },
+        {
+            "docid": "32172794_19",
+            "document": "Visual space . Even in monocular vision, which physiologically has only two dimensions, cues of size, perspective, relative motion etc. are used to assign depth differences to percepts. Looked at as a mathematical/geometrical problem, expanding a 2-dimensional object manifold into a 3-dimensional visual world is \"ill-posed,\" i.e., not capable of a rational solution, but is accomplished quite effectively by the human observer.",
+            "score": 69.90287375450134
+        },
+        {
+            "docid": "32528_41",
+            "document": "Visual cortex . However, since neurons in V1 are also tuned to the direction and speed of motion, these early results left open the question of precisely what MT could do that V1 could not. Much work has been carried out on this region, as it appears to integrate local visual motion signals into the global motion of complex objects. For example, \"lesion\" to the V5 leads to deficits in perceiving motion and processing of complex stimuli. It contains many neurons selective for the motion of complex visual features (line ends, corners). \"Microstimulation\" of a neuron located in the V5 affects the perception of motion. For example, if one finds a neuron with preference for upward motion in a monkey's V5 and stimulates it with an electrode, then the monkey becomes more likely to report 'upward' motion when presented with stimuli containing 'left' and 'right' as well as 'upward' components.",
+            "score": 69.79458355903625
+        },
+        {
+            "docid": "5386671_2",
+            "document": "Structure from motion . Structure from motion (SfM) is a photogrammetric range imaging technique for estimating three-dimensional structures from two-dimensional image sequences that may be coupled with local motion signals. It is studied in the fields of computer vision and visual perception. In biological vision, SfM refers to the phenomenon by which humans (and other living creatures) can recover 3D structure from the projected 2D (retinal) motion field of a moving object or scene.",
+            "score": 105.9605622291565
+        },
+        {
+            "docid": "8312479_2",
+            "document": "Kinetic depth effect . In visual perception, the kinetic depth effect refers to the phenomenon whereby the three-dimensional structural form of an object can be perceived when the object is moving. In the absence of other visual depth cues, this might be the only perception mechanism available to infer the object's shape. Being able to identify a structure from a motion stimulus through the human visual system was shown by Wallach and O'Connell in the 1950s through their experiments.",
+            "score": 62.052756786346436
+        },
+        {
+            "docid": "42938624_48",
+            "document": "Biological motion perception . The following neural detectors are used to detect horizontal and vertical opponent motion due by pooling together the output of previous local motion energy detectors into two adjacent subfields. Local motion detectors that have the same direction preference are combined into the same subfield. These detectors were modeled after neurons sensitive to opponent motion such as the ones in MT and medial superior temporal (MST). Also, KO/V3B has been associated with processing edges, moving objects, and opponent motion. Patients with damage to dorsal pathway areas but an intact KO/V3B, as seen in patient AF can still perceive biological motion.",
+            "score": 57.40417838096619
+        },
+        {
+            "docid": "53497_13",
+            "document": "Optical illusion . In the Ponzo illusion the converging parallel lines tell the brain that the image higher in the visual field is farther away therefore the brain perceives the image to be larger, although the two images hitting the retina are the same size. The optical illusion seen in a diorama/false perspective also exploits assumptions based on monocular cues of depth perception. The M.C. Escher painting \"Waterfall\" exploits rules of depth and proximity and our understanding of the physical world to create an illusion. Like depth perception, motion perception is responsible for a number of sensory illusions. Film animation is based on the illusion that the brain perceives a series of slightly varied images produced in rapid succession as a moving picture. Likewise, when we are moving, as we would be while riding in a vehicle, stable surrounding objects may appear to move. We may also perceive a large object, like an airplane, to move more slowly than smaller objects, like a car, although the larger object is actually moving faster. The phi phenomenon is yet another example of how the brain perceives motion, which is most often created by blinking lights in close succession.",
+            "score": 83.11702299118042
+        },
+        {
+            "docid": "29150377_18",
+            "document": "Empirical theory of perception . Perception of motion is also confounded by an inverse problem: movement in three-dimensional space does not map perfectly onto movement on the retinal plane. A distant object moving at a given speed will translate more slowly on the retina than a nearby object moving at the same speed, and as mentioned previously size, distance and orientation are also ambiguous given only the retinal image. As with other aspects of perception, empirical theorists propose that this problem is solved by trial-and-error experience with moving stimuli, their associated retinal images and the consequences of behavior.  One way to test this hypothesis is by seeing whether it can explain the flash lag illusion, a visual effect in which a flash superimposed on a moving bar is falsely seen to lag behind the bar. The task for empirical theorists is to explain why individuals perceive the flash in this way, and further, why the perceived lag increases with the speed of the moving bar. To investigate this question, Wojtach et al. (2008) simulated a three-dimensional environment full of moving virtual particles. They modeled the transformation from three dimensions to the two-dimensional image plane and tallied up the frequency of occurrence of particle speeds, particle distances, image speeds, and image distances (image meaning the path projected across the computer-modeled \u201cretina\u201d). The probability distributions they obtained in this way predicted the magnitude of the bar-flash disparity quite well. The authors concluded that the flash-lag effect was a signature of the way brains evolve and develop to behave appropriately in response to moving retinal images.",
+            "score": 70.2116197347641
+        },
+        {
+            "docid": "1534578_6",
+            "document": "Motion perception . The phi phenomenon has been referred to as \"first-order\" motion perception. Werner E. Reichardt and Bernard Hassenstein have modelled it in terms of relatively simple \"motion sensors\" in the visual system, that have evolved to detect a change in luminance at one point on the retina and correlate it with a change in luminance at a neighbouring point on the retina after a short delay. Sensors that are proposed to work this way have been referred to as either \"Hassenstein-Reichardt detectors\" after the scientists Bernhard Hassenstein and Werner Reichardt, who first modelled them, motion-energy sensors, or Elaborated Reichardt Detectors. These sensors are described as detecting motion by spatio-temporal correlation and are considered by some to be plausible models for how the visual system may detect motion. (Although, again, the notion of a \"pure motion\" detector suffers from the problem that there is no \"pure motion\" stimulus, i.e. a stimulus lacking perceived figure/ground properties). There is still considerable debate regarding the accuracy of the model and exact nature of this proposed process. It is not clear how the model distinguishes between movements of the eyes and movements of objects in the visual field, both of which produce changes in luminance on points on the retina.",
+            "score": 86.69318079948425
+        },
+        {
+            "docid": "305136_11",
+            "document": "Visual system . V5\u2019s functionality is similar to that of the other V\u2019s, however, it integrates local object motion into global motion on a complex level. V6 works in conjunction with V5 on motion analysis. V5 analyzes self-motion, whereas V6 analyzes motion of objects relative to the background. V6\u2019s primary input is V1, with V5 additions. V6 houses the topographical map for vision. V6 outputs to the region directly around it (V6A). V6A has direct connections to arm-moving cortices, including the premotor cortex.",
+            "score": 53.60222268104553
+        },
+        {
+            "docid": "7112300_6",
+            "document": "Barberpole illusion . This illusion occurs because a bar or contour within a frame of reference provides ambiguous information about its \"real\" direction of movement. The actual motion of the line has many possibilities. The shape of the aperture thus tends to determine the perceived direction of motion for an otherwise identically moving contour. A vertically elongated aperture makes vertical motion dominant whereas a horizontally elongated aperture makes horizontal motion dominant. In the case of a circular or square aperture, the perceived direction of movement is usually orthogonal to the orientation of the stripes (diagonal, in this case). The perceived direction of movement relates to the termination of the line's end points within the inside border of the occluder. The vertical aperture, for instance, has longer edges at the vertical orientation, creating a larger number of terminators unambiguously moving vertically. This stronger motion signal forces us to perceive vertical motion. Functionally, this mechanism has evolved to ensure that we perceive a moving pattern as a rigid surface moving in one direction.",
+            "score": 52.1231883764267
+        },
+        {
+            "docid": "1841851_7",
+            "document": "Stereopsis . It has also been suggested to distinguish between two different types of stereoscopic depth perception: \"static depth perception\" (or static stereo perception) and \"motion-in-depth perception\" (or stereo motion perception). Some individuals who have strabismus and show no depth perception using static stereotests (in particular, using Titmus tests, see this article's section on \"contour stereotests\") do perceive motion in depth when tested using dynamic random dot stereograms. One study found the combination of motion stereopsis and no static stereopsis to be present only in exotropes, not in esotropes.",
+            "score": 75.35898351669312
+        },
+        {
+            "docid": "581459_5",
+            "document": "Amblyopia . People with amblyopia also have problems of binocular vision such as limited stereoscopic depth perception and usually have difficulty seeing the three-dimensional images in hidden stereoscopic displays such as autostereograms. Perception of depth, however, from monocular cues such as size, perspective, and motion parallax remains normal.",
+            "score": 63.61421322822571
+        },
+        {
+            "docid": "302794_3",
+            "document": "Depth perception . Depth perception arises from a variety of depth cues. These are typically classified into binocular cues that are based on the receipt of sensory information in three dimensions from both eyes and monocular cues that can be represented in just two dimensions and observed with just one eye. Binocular cues include stereopsis, eye convergence, disparity, and yielding depth from binocular vision through exploitation of parallax. Monocular cues include size: distant objects subtend smaller visual angles than near objects, grain, size, and motion parallax.",
+            "score": 61.70352864265442
+        },
+        {
+            "docid": "2684988_6",
+            "document": "Fluid mechanics . Fluid dynamics is a subdiscipline of fluid mechanics that deals with fluid flow\u2014the science of liquids and gases in motion. Fluid dynamics offers a systematic structure\u2014which underlies these practical disciplines\u2014that embraces empirical and semi-empirical laws derived from flow measurement and used to solve practical problems. The solution to a fluid dynamics problem typically involves calculating various properties of the fluid, such as velocity, pressure, density, and temperature, as functions of space and time. It has several subdisciplines itself, including aerodynamics (the study of air and other gases in motion) and hydrodynamics (the study of liquids in motion). Fluid dynamics has a wide range of applications, including calculating forces and moments on aircraft, determining the mass flow rate of petroleum through pipelines, predicting evolving weather patterns, understanding nebulae in interstellar space and modeling explosions. Some fluid-dynamical principles are used in traffic engineering and crowd dynamics.",
+            "score": 51.03468859195709
+        },
+        {
+            "docid": "8312479_5",
+            "document": "Kinetic depth effect . In order to model the calculation of depth values from relative movement, many efforts have been made to infer these values using other information like geometry and measurements of objects and their positions. This is related to the extraction of structure from motion in computer vision. In addition, an individual's ability to realize the kinetic depth effect conclusively shows that the visual system can independently figure the structure from motion problem.",
+            "score": 68.1635947227478
+        },
+        {
+            "docid": "49418115_10",
+            "document": "Large deformation diffeomorphic metric mapping . Such methods are powerful in that they introduce notions of regularity of the solutions so that they can be differentiated and local inverses can be calculated. The disadvantages of these methods is that there was no associated global least-action property which could score the flows of minimum energy. This contrasts the geodesic motions which are central to the study of Rigid body kinematics and the many problems solved in Physics via Hamilton's principle of least action. In 1998, Dupuis, Grenander and Miller established the conditions for guaranteeing the existence of solutions for dense image matching in the space of flows of diffeomorphisms. These conditions require an action penalizing kinetic energy measured via the Sobolev norm on spatial derivatives of the flow of vector fields.",
+            "score": 49.92339611053467
+        },
+        {
+            "docid": "1942022_42",
+            "document": "Motion simulator . The standard approach to simulating motion (so called motion cueing) is to simulate the \u201crelevant\u201d cues as closely as possible which trigger motion perception. These cues can be visual, auditory, or somatosensory in nature. Visual and auditory cues enable humans to perceive their location in space on an absolute scale, whereas somatosensory cues (mainly proprioception and other signals from the vestibular system) provide only feedback of accelerations.",
+            "score": 60.393991112709045
+        },
+        {
+            "docid": "7143378_13",
+            "document": "Motion field . The motion field is an ideal construction, based on the idea that it is possible to determine the motion of each image point, and above it is described how this 2D motion is related to 3D motion. In practice, however, the true motion field can only be approximated based on measurements on image data. The problem is that in most cases each image point has an individual motion which therefore has to be locally measured by means of a neighborhood operation on the image data. As consequence, the correct motion field cannot be determined for certain types of neighborhood and instead an approximation, often referred to as the optical flow, has to be used. For example, a neighborhood which has a constant intensity may correspond to a non-zero motion field, but the optical flow is zero since no local image motion can be measured. Similarly, a neighborhood which is intrinsic 1-dimensional (for example, an edge or line) can correspond to an arbitrary motion field, but the optical flow can only capture the normal component of the motion field. There are also other effects, such as image noise, 3D occlusion, temporal aliasing, which are inherent to any method for measuring optical flow and causes the resulting optical flow to deviate from the true motion field.",
+            "score": 98.28884446620941
+        },
+        {
+            "docid": "1534578_13",
+            "document": "Motion perception . Nonetheless, some humans do perceive motion in depth. There are indications that the brain uses various cues, in particular temporal changes in disparity as well as monocular velocity ratios, for producing a sensation of motion in depth.",
+            "score": 51.704678535461426
+        },
+        {
+            "docid": "43971138_8",
+            "document": "Stereoscopic motion . How the brain combines different cues, including stereo cues, motion cues (both temporal changes in disparity and monocular velocity ratios), vergence angle and monocular cues for sensing motion in depth and 3D object position is an area of active research in vision science and neighboring disciplines.",
+            "score": 66.79750227928162
+        },
+        {
+            "docid": "7783_5",
+            "document": "Coriolis force . For an intuitive explanation of the origin of the Coriolis force, consider an object moving northward in the northern hemisphere. Viewed from outer space, the object does not appear to go due north, but has an eastward motion (it rotates around toward the right along with the surface of the Earth). The further north you go, the smaller the \"horizontal diameter\" of the Earth, and so the slower the eastward motion of its surface. As the object moves north, to higher latitudes, it has a tendency to maintain the eastward speed it started with (rather than slowing down to match the reduced eastward speed of local objects on the Earth's surface), so it veers east (i.e. to the right of its initial motion). Though not obvious from this example, which considers northward motion, the horizontal deflection occurs equally for objects moving east or west (or any other direction).",
+            "score": 44.37987470626831
+        },
+        {
+            "docid": "19649338_9",
+            "document": "Biological motion . Perception of biological motion depends both on the motions of individual dots and the configuration/orientation of the body as a whole, as well as interactions between these local and global cues. Similar to the Thatcher Effect in face perception, inversion of individual points is easy to detect when the entire figure is presented normally, but difficult to detect when the entire display is presented upside-down. However, recent electrophysiological work suggest that the configuration/orientation of the figure might be more important than the figure's motion, at least for early levels of processing.",
+            "score": 64.86914086341858
+        },
+        {
+            "docid": "9186444_3",
+            "document": "Visual modularity . Akinetopsia is an intriguing condition brought about by damage to the Extrastriate cortex MT+ that renders humans and monkeys unable to perceive motion, seeing the world in a series of static \"frames\" instead and indicates that there might be a \"motion centre\" in the brain. Of course, such data can only indicate that this area is at least necessary to motion perception, not that it is sufficient; however, other evidence has shown the importance of this area to primate motion perception. Specifically, physiological, neuroimaging, perceptual, electrical- and transcranial magnetic stimulation evidence (Table 1) all come together on the area V5/hMT+. Converging evidence of this type is supportive of a module for motion processing. However, this view is likely to be incomplete: other areas are involved with motion perception, including V1, V2 and V3a and areas surrounding V5/hMT+ (Table 2). A recent fMRI study put the number of motion areas at twenty-one. Clearly, this constitutes a stream of diverse anatomical areas. The extent to which this is \u2018pure\u2019 is in question: with Akinetopsia come severe difficulties in obtaining structure from motion. V5/hMT+ has since been implicated in this function as well as determining depth. Thus the current evidence suggests that motion processing occurs in a modular stream, although with a role in form and depth perception at higher levels.",
+            "score": 78.39328563213348
+        },
+        {
+            "docid": "29150377_7",
+            "document": "Empirical theory of perception . On the wholly empirical account, this strategy determines qualities of perception in all visual domains and sensory modalities. Accumulating evidence suggests that the perception of color, contrast, distance, size, length, line orientation and angles, and motion, as well as pitch and consonance in music, may be determined by empirically derived associations between the sensory patterns humans have always experienced and the relative success of behavior in response to those patterns. The wholly empirical theory of perception departs from many other empirical theories by recognizing the seriousness of the optical inverse problem. To illustrate this problem, imagine that three hoses are used to fill a bucket with water. If how much water each hose has contributed is known, it is straightforward to calculate how much water is in the bucket. These kinds of problems are known as \u201cforward\u201d problems, and scientists like them because they are easy to solve. But if instead, all that is known is the amount of water in the bucket, it is impossible to figure out, on this basis alone, how much water came from each hose: it is impossible to work \u201cbackwards\u201d from the bucket to the hoses. This is a simple example of an inverse problem. Solutions to these problems are rarely possible, although they can sometimes be approximated by imposing assumption-based constraints on the \u201csolution space\u201d.",
+            "score": 80.92613649368286
+        },
+        {
+            "docid": "1534578_2",
+            "document": "Motion perception . Motion perception is the process of inferring the speed and direction of elements in a scene based on visual, vestibular and proprioceptive inputs. Although this process appears straightforward to most observers, it has proven to be a difficult problem from a computational perspective, and extraordinarily difficult to explain in terms of neural processing.",
+            "score": 65.62060880661011
+        },
+        {
+            "docid": "20891413_3",
+            "document": "Local standard of rest . The LSR velocity is anywhere from 202\u2013241\u00a0km/s. In 2014, very-long-baseline interferometry observations of maser emission in high mass star forming regions placed tight constraints on combinations of kinematic parameters such as the circular orbit speed of the Sun (\u0398 + V = 255.2 \u00b1 5.1\u00a0km/s). There is significant correlation between the circular motion of the solar circle, the solar peculiar motion, and the predicted counterrotation of star-forming regions. Additionally, \"local\" estimates of the velocity of the LSR based on stars in the vicinity of the Sun may potentially yield different results than \"global\" estimates derived from motions relative to the Galactic center.",
+            "score": 47.76665234565735
+        },
+        {
+            "docid": "5442380_9",
+            "document": "Sensory cue . The ability to perceive the world in three dimensions and estimate the size and distance to an object depends heavily on depth cues. The two major depth cues, Stereopsis and motion parallax, both rely on parallax which is the difference between the perceived position of an object given two different viewpoints. In stereopsis the distance between the eyes is the source of the two different viewpoints, resulting in a Binocular disparity. Motion parallax relies head and body movement to produce the necessary viewpoints.",
+            "score": 62.26889514923096
+        },
+        {
+            "docid": "32323840_3",
+            "document": "Representational momentum . Representational Momentum has been studied using two types of displays: implied motion (left panel) and smooth animations (right panel). Implied events show a series of pictures that suggest a motion, but at a slow frame rate so there is no apparent motion. Smooth animations have also been used, where the animation is briefly interrupted and then participants either indicate whether a static probe is in the same position as the final frame of the animation (right panel), or are asked to indicate with a mouse cursor exactly where the object disappeared. The basic result is that participants either use the mouse to click beyond the vanishing point, or misidentify forward positioned probes as the location where the object disappeared. So, instead of indicating that the actual 0\u00b0 probe in a rotation event is the same, participants will say that probes appearing 2\u00b0-4\u00b0 past the vanishing point actually seem to be at the vanishing point itself. However, they will quite readily reject probes that are behind the vanishing point by 2\u00b0-4\u00b0. Initial studies established that representational momentum occurs for rotations in and movements across the picture plane, with larger distortions occurring with faster velocities and when downward motion is presented. Moreover, the overall pattern of the motion is anticipated, so that when shown an oscillatory motion, like a pendulum, the object is remembered as continuing the larger pattern. In other words, when asked to judge where the object is just as it would normally reverse directions, probes in the reverse direction are accepted as same, not probes that would continue the most immediate, local motion.",
+            "score": 59.65213084220886
+        },
+        {
+            "docid": "1841851_3",
+            "document": "Stereopsis . The perception of depth and 3-dimensional structure is, however, possible with information visible from one eye alone, such as differences in object size and motion parallax (differences in the image of an object over time with observer movement), though the impression of depth in these cases is often not as vivid as that obtained from binocular disparities. Therefore, the term stereopsis (or stereoscopic depth) can also refer specifically to the unique impression of depth associated with binocular vision; what is colloquially referred to as seeing \"in 3D\".",
+            "score": 79.85208582878113
+        }
+    ],
+    "r": [
+        {
+            "docid": "1534578_12",
+            "document": "Motion perception . As in other aspects of vision, the observer's visual input is generally insufficient to determine the true nature of stimulus sources, in this case their velocity in the real world. In monocular vision for example, the visual input will be a 2D projection of a 3D scene. The motion cues present in the 2D projection will by default be insufficient to reconstruct the motion present in the 3D scene. Put differently, many 3D scenes will be compatible with a single 2D projection. The problem of motion estimation generalizes to binocular vision when we consider occlusion or motion perception at relatively large distances, where binocular disparity is a poor cue to depth. This fundamental difficulty is referred to as the inverse problem.",
+            "score": 132.41055297851562
+        },
+        {
+            "docid": "246007_2",
+            "document": "3D film . A three-dimensional stereoscopic film (also known as three-dimensional sangu, 3D film or S3D film) is a motion picture that enhances the illusion of depth perception, hence adding a third dimension. The most common approach to the production of 3D films is derived from stereoscopic photography. In this approach, a regular motion picture camera system is used to record the images as seen from two perspectives (or computer-generated imagery generates the two perspectives in post-production), and special projection hardware and/or eyewear are used to limit the visibility of each image to the viewer's left or right eye only. 3D films are not limited to theatrical releases; television broadcasts and direct-to-video films have also incorporated similar methods, especially since the advent of 3D television and Blu-ray 3D.",
+            "score": 111.8658447265625
+        },
+        {
+            "docid": "43971138_2",
+            "document": "Stereoscopic motion . Stereoscopic motion, as introduced by B\u00e9la Julesz in his book \"Foundations of Cyclopean Perception\" of 1971, is a translational motion of figure boundaries defined by changes in binocular disparity over time in a real-life 3D scene, a 3D film or other stereoscopic scene. This translational motion gives rise to a mental representation of three dimensional motion created in the brain on the basis of the binocular motion stimuli. Whereas the motion stimuli as presented to the eyes have a different direction for each eye, the stereoscopic motion is perceived as yet another direction on the basis of the views of both eyes taken together. Stereoscopic motion, as it is perceived by the brain, is also referred to as \"cyclopean motion\", and the processing of visual input that takes place in the visual system relating to stereoscopic motion is called \"stereoscopic motion processing\".",
+            "score": 109.82504272460938
+        },
+        {
+            "docid": "5386671_2",
+            "document": "Structure from motion . Structure from motion (SfM) is a photogrammetric range imaging technique for estimating three-dimensional structures from two-dimensional image sequences that may be coupled with local motion signals. It is studied in the fields of computer vision and visual perception. In biological vision, SfM refers to the phenomenon by which humans (and other living creatures) can recover 3D structure from the projected 2D (retinal) motion field of a moving object or scene.",
+            "score": 105.96056365966797
+        },
+        {
+            "docid": "23364842_11",
+            "document": "3D stereo view . 1.3D film. A 3D or 3-D (three-dimensional) film or S3D (stereoscopic 3D) film is a motion picture that enhances the illusion of depth perception. The most common approach to the production of 3D films is derived from stereoscopic photography. In it, a regular motion picture camera system is used to record the images as seen from two perspectives (or computer-generated imagery generates the two perspectives in post-production), and special projection hardware and/or eyewear are used to provide the illusion of depth when viewing the film. Some methods of producing 3D films do not require the use of two images. 3D films are not limited to feature film theatrical releases; television broadcasts and direct-to-video films have also incorporated similar methods, especially since the advent of 3D television and Blu-ray 3D.",
+            "score": 102.86446380615234
+        },
+        {
+            "docid": "1534578_10",
+            "document": "Motion perception . Some have speculated that, having extracted the hypothesized motion signals (first- or second-order) from the retinal image, the visual system must integrate those individual \"local\" motion signals at various parts of the visual field into a 2-dimensional or \"global\" representation of moving objects and surfaces. (It is not clear how this 2D representation is then converted into the perceived 3D percept) Further processing is required to detect coherent motion or \"global motion\" present in a scene.",
+            "score": 102.22037506103516
+        },
+        {
+            "docid": "7143378_13",
+            "document": "Motion field . The motion field is an ideal construction, based on the idea that it is possible to determine the motion of each image point, and above it is described how this 2D motion is related to 3D motion. In practice, however, the true motion field can only be approximated based on measurements on image data. The problem is that in most cases each image point has an individual motion which therefore has to be locally measured by means of a neighborhood operation on the image data. As consequence, the correct motion field cannot be determined for certain types of neighborhood and instead an approximation, often referred to as the optical flow, has to be used. For example, a neighborhood which has a constant intensity may correspond to a non-zero motion field, but the optical flow is zero since no local image motion can be measured. Similarly, a neighborhood which is intrinsic 1-dimensional (for example, an edge or line) can correspond to an arbitrary motion field, but the optical flow can only capture the normal component of the motion field. There are also other effects, such as image noise, 3D occlusion, temporal aliasing, which are inherent to any method for measuring optical flow and causes the resulting optical flow to deviate from the true motion field.",
+            "score": 98.2888412475586
+        },
+        {
+            "docid": "7143378_2",
+            "document": "Motion field . In computer vision the motion field is an ideal representation of 3D motion as it is projected onto a camera image. Given a simplified camera model, each point formula_1 in the image is the projection of some point in the 3D scene but the position of the projection of a fixed point in space can vary with time. The motion field can formally be defined as the time derivative of the image position of all image points given that they correspond to fixed 3D points. This means that the motion field can be represented as a function which maps image coordinates to a 2-dimensional vector. The motion field is an ideal description of the projected 3D motion in the sense that it can be formally defined but in practice it is normally only possible to determine an approximation of the motion field from the image data.",
+            "score": 92.95647430419922
+        },
+        {
+            "docid": "37315_19",
+            "document": "Computer-aided design . \"3D \"dumb\" solids\" are created in a way analogous to manipulations of real-world objects (not often used today). Basic three-dimensional geometric forms (prisms, cylinders, spheres, and so on) have solid volumes added or subtracted from them as if assembling or cutting real-world objects. Two-dimensional projected views can easily be generated from the models. Basic 3D solids don't usually include tools to easily allow motion of components, set limits to their motion, or identify interference between components.",
+            "score": 91.87004089355469
+        },
+        {
+            "docid": "23364842_17",
+            "document": "3D stereo view . 4.Autostereoscopy Autostereoscopy is any method of displaying stereoscopic images (adding binocular perception of 3D depth) without the use of special headgear or glasses on the part of the viewer. Because headgear is not required, it is also called \"glasses-free 3D\" or \"glassesless 3D\". There are two broad approaches currently used to accommodate motion parallax and wider viewing angles: eye-tracking, and multiple views so that the display does not need to sense where the viewers' eyes are located.",
+            "score": 90.0683364868164
+        },
+        {
+            "docid": "172088_8",
+            "document": "Machine vision . Though the vast majority of machine vision applications are solved using two-dimensional imaging, machine vision applications utilizing 3D imaging are a growing niche within the industry. The most commonly used method for 3D imaging is scanning based triangulation which utilizes motion of the product or image during the imaging process. A laser is projected onto the surfaces of an object and viewed from a different angle. In machine vision this is accomplished with a scanning motion, either by moving the workpiece, or by moving the camera & laser imaging system. The line is viewed by a camera from a different angle; the deviation of the line represents shape variations. Lines from multiple scans are assembled into a depth map or point cloud. Stereoscopic vision is used in special cases involving unique features present in both views of a pair of cameras. Other 3D methods used for machine vision are time of flight and grid based. One method is grid array based systems using pseudorandom structured light system as employed by the Microsoft Kinect system circa 2012.",
+            "score": 89.5833969116211
+        },
+        {
+            "docid": "201460_33",
+            "document": "Stereoscopy . Anaglyph 3D is the name given to the stereoscopic 3D effect achieved by means of encoding each eye's image using filters of different (usually chromatically opposite) colors, typically red and cyan. Red-cyan filters can be used because our vision processing systems use red and cyan comparisons, as well as blue and yellow, to determine the color and contours of objects. Anaglyph 3D images contain two differently filtered colored images, one for each eye. When viewed through the \"color-coded\" \"anaglyph glasses\", each of the two images reaches one eye, revealing an integrated stereoscopic image. The visual cortex of the brain fuses this into perception of a three dimensional scene or composition.",
+            "score": 87.54400634765625
+        },
+        {
+            "docid": "1534483_2",
+            "document": "Motion estimation . Motion estimation is the process of determining motion vectors that describe the transformation from one 2D image to another; usually from adjacent frames in a video sequence. It is an ill-posed problem as the motion is in three dimensions but the images are a projection of the 3D scene onto a 2D plane. The motion vectors may relate to the whole image (global motion estimation) or specific parts, such as rectangular blocks, arbitrary shaped patches or even per pixel. The motion vectors may be represented by a translational model or many other models that can approximate the motion of a real video camera, such as rotation and translation in all three dimensions and zoom.",
+            "score": 87.12272644042969
+        },
+        {
+            "docid": "950041_3",
+            "document": "Stereo display . The basic technique of stereo displays is to present offset images that are displayed separately to the left and right eye. Both of these 2D offset images are then combined in the brain to give the perception of 3D depth. Although the term \"3D\" is ubiquitously used, it is important to note that the presentation of dual 2D images is distinctly different from displaying an image in three full dimensions. The most notable difference to real 3D displays is that the observer's head and eyes movements will not increase information about the 3-dimensional objects being displayed. For example, holographic displays do not have such limitations. Similar to how in sound reproduction it is not possible to recreate a full 3-dimensional sound field merely with two stereophonic speakers, it is likewise an overstatement of capability to refer to dual 2D images as being \"3D\". The accurate term \"stereoscopic\" is more cumbersome than the common misnomer \"3D\", which has been entrenched after many decades of unquestioned misuse. It is to note that although most stereoscopic displays do not qualify as real 3D display, all real 3D display are also stereoscopic displays because they meet the lower criteria as well.",
+            "score": 86.73719024658203
+        },
+        {
+            "docid": "1534578_6",
+            "document": "Motion perception . The phi phenomenon has been referred to as \"first-order\" motion perception. Werner E. Reichardt and Bernard Hassenstein have modelled it in terms of relatively simple \"motion sensors\" in the visual system, that have evolved to detect a change in luminance at one point on the retina and correlate it with a change in luminance at a neighbouring point on the retina after a short delay. Sensors that are proposed to work this way have been referred to as either \"Hassenstein-Reichardt detectors\" after the scientists Bernhard Hassenstein and Werner Reichardt, who first modelled them, motion-energy sensors, or Elaborated Reichardt Detectors. These sensors are described as detecting motion by spatio-temporal correlation and are considered by some to be plausible models for how the visual system may detect motion. (Although, again, the notion of a \"pure motion\" detector suffers from the problem that there is no \"pure motion\" stimulus, i.e. a stimulus lacking perceived figure/ground properties). There is still considerable debate regarding the accuracy of the model and exact nature of this proposed process. It is not clear how the model distinguishes between movements of the eyes and movements of objects in the visual field, both of which produce changes in luminance on points on the retina.",
+            "score": 86.69318389892578
+        },
+        {
+            "docid": "1534483_3",
+            "document": "Motion estimation . More often than not, the term motion estimation and the term optical flow are used interchangeably. It is also related in concept to image registration and stereo correspondence. In fact all of these terms refer to the process of finding corresponding points between two images or video frames. The points that correspond to each other in two views (images or frames) of a real scene or object are \"usually\" the same point in that scene or on that object. Before we do motion estimation, we must define our measurement of correspondence, i.e., the matching metric, which is a measurement of how similar two image points are. There is no right or wrong here; the choice of matching metric is usually related to what the final estimated motion is used for as well as the optimisation strategy in the estimation process.",
+            "score": 85.2330322265625
+        },
+        {
+            "docid": "10521327_18",
+            "document": "U2 3D . U2 developed a style of editing in their previous concert films that involved fast cutting between shots, which Owens wanted to retain in \"U2 3D\". Because fast cutting in 3D would lead to motion sickness or eye strain, the film was edited to incorporate dissolves of at least four frames between shots. Many of the transitions were created by layering several frames of footage on top of one another into composite images. Each of the layered frames featured a different depth of field to enhance the 3D effects, and up to five images were layered together in a single shot. This made \"U2 3D\" the first 3D film to feature composite images with more than two layers, and the first to be edited specifically to prevent the viewer from experiencing motion sickness or eye strain. Software did not exist at the time to layer the 3D images, so new software had to be developed. Because the project was captured in high-definition video, each frame used nearly 20 megabytes of data on 3ality Digital's servers, and the entire film used almost a petabyte (10 bytes). The 3D editing process took longer than Owens expected, and consequently, the project went over budget, costing $15\u00a0million to produce. Video editing took 17\u00a0months, and the final film was cut to a length of 85\u00a0minutes\u2014seven shorter than originally announced.",
+            "score": 85.01128387451172
+        },
+        {
+            "docid": "869825_10",
+            "document": "Optical flow . Motion estimation and video compression have developed as a major aspect of optical flow research. While the optical flow field is superficially similar to a dense motion field derived from the techniques of motion estimation, optical flow is the study of not only the determination of the optical flow field itself, but also of its use in estimating the three-dimensional nature and structure of the scene, as well as the 3D motion of objects and the observer relative to the scene, most of them using the Image Jacobian.",
+            "score": 84.98603820800781
+        },
+        {
+            "docid": "160223_5",
+            "document": "Media player (software) . 3D video players are used to play 2D video in 3D format. A high-quality three-dimensional video presentation requires that each frame of a motion picture be embedded with information on the depth of objects present in the scene. This process involves shooting the video with special equipment from two distinct perspectives or modelling and rendering each frame as a collection of objects composed of 3D vertices and textures, much like in any modern video game, to achieve special effects. Tedious and costly, this method is only used in a small fraction of movies produced worldwide, while most movies remain in the form of traditional 2D images. It is, however, possible to give an otherwise two-dimensional picture the appearance of depth. Using a technique known as anaglyph processing a \"flat\" picture can be transformed so as to give an illusion of depth when viewed through anaglyph glasses (usually red-cyan). An image viewed through anaglyph glasses appears to have both protruding and deeply embedded objects in it, at the expense of somewhat distorted colours. The method itself is old enough, dating back to mid-19th century, but it is only with recent advances in computer technology that it has become possible to apply this kind of transformation to a series of frames in a motion picture reasonably fast or even in real time, i.e. as the video is being played back. Several implementations exist in the form of 3D video players that render conventional 2D video in anaglyph 3D, as well as in the form of 3D video converters that transform video into stereoscopic anaglyph and transcode it for playback with regular software or hardware video players.",
+            "score": 84.57640838623047
+        },
+        {
+            "docid": "15619743_3",
+            "document": "Image Metrics . The Image Metrics proprietary facial animation system is a Markerless motion capture method in which an actor's performance is filmed and a 3D animated model is generated directly from the raw images. The process uses pre-existing or newly recorded video of an actor\u2019s facial performance shot with a video or High definition camera. All detail seen in the recorded video is then analyzed and mapped onto a computer-generated 3D model, including the detailed movements of teeth, tongue, lips and eyes.",
+            "score": 84.49125671386719
+        },
+        {
+            "docid": "818378_4",
+            "document": "Cave automatic virtual environment . A lifelike visual display is created by projectors positioned outside the CAVE and controlled by physical movements from a user inside the CAVE. A motion capture system records the real time position of the user. Stereoscopic LCD shutter glasses convey a 3D image. The computers rapidly generate a pair of images, one for each of the user's eyes, based on the motion capture data. The glasses are synchronized with the projectors so that each eye only sees the correct image. Since the projectors are positioned outside the cube, mirrors are often used to reduce the distance required from the projectors to the screens. One or more computers drive the projectors. Clusters of desktop PCs are popular to run CAVEs, because they cost less and run faster.",
+            "score": 84.24698638916016
+        },
+        {
+            "docid": "10450559_8",
+            "document": "3D interaction . Users experience a sense of presence when engaged in an immersive virtual world. Enabling the users to interact with this world in 3D allows them to make use of natural and intrinsic knowledge of how information exchange takes place with physical objects in the real world. Texture, sound, and speech can all be used to augment 3D interaction. Currently, users still have difficulty in interpreting 3D space visuals and understanding how interaction occurs. Although it\u2019s a natural way for humans to move around in a three-dimensional world, the difficulty exists because many of the cues present in real environments are missing from virtual environments. Perception and occlusion are the primary perceptual cues used by humans. Also, even though scenes in virtual space appear three-dimensional, they are still displayed on a 2D surface so some inconsistencies in depth perception will still exist.",
+            "score": 84.1423568725586
+        },
+        {
+            "docid": "878311_7",
+            "document": "Lenticular printing . The combined lenticular print will show two or more different images simply by changing the angle from which the print is viewed. If more (30+) images are used, taken in a sequence, one can even show a short animation sequence of about one second. Though normally produced in sheet form, by interlacing simple images or different colors throughout the artwork, lenticular images can also be created in roll form with 3D effects or multi-color changes. Alternatively, one can use several images of the same object, taken from slightly different angles, and then create a lenticular print which shows a stereoscopic 3D effect. 3D\u00a0effects can only be achieved in a side-to-side (left-to-right) direction, as the viewer's left eye needs to be seeing from a slightly different angle than the right to achieve the stereoscopic effect. Other effects, like morphs, motion, and zooms work better (less ghosting or latent effects) as top-to-bottom effects, but can be achieved in both directions.",
+            "score": 84.07987213134766
+        },
+        {
+            "docid": "4088299_2",
+            "document": "Autostereoscopy . Autostereoscopy is any method of displaying stereoscopic images (adding binocular perception of 3D depth) without the use of special headgear or glasses on the part of the viewer. Because headgear is not required, it is also called \"glasses-free 3D\" or \"glassesless 3D\". There are two broad approaches currently used to accommodate motion parallax and wider viewing angles: eye-tracking, and multiple views so that the display does not need to sense where the viewers' eyes are located. Examples of autostereoscopic displays technology include lenticular lens, parallax barrier, volumetric display, holographic and light field displays.",
+            "score": 83.93183898925781
+        },
+        {
+            "docid": "531432_2",
+            "document": "Autostereogram . An autostereogram is a single-image stereogram (SIS), designed to create the visual illusion of a three-dimensional (3D) scene from a two-dimensional image. In order to perceive 3D shapes in these autostereograms, one must overcome the normally automatic coordination between accommodation (focus) and horizontal vergence (angle of one's eyes). The illusion is one of depth perception and involves stereopsis: depth perception arising from the different perspective each eye has of a three-dimensional scene, called binocular parallax.",
+            "score": 83.60955810546875
+        },
+        {
+            "docid": "6281223_9",
+            "document": "Michael Betancourt . Using psychological studies of motion perception, Betancourt has argued that the motion seen in motion pictures is identical to the motion seen in paintings. He terms this second type \"painterly motion\" and argues that both kinds are invented by the subjective viewer: \"Unlike motion in the real world that is physically eminent, the motion we see in movies and through the technique of painterly motion is entirely a result of a human perception. The motion we see does not exist outside our perception.\" Work by painters Francis Bacon and Peter Paul Rubens present the type of motion effect identified by Betancourt as being psychologically the same as real motion of actual objects in the world.",
+            "score": 83.3093032836914
+        },
+        {
+            "docid": "53497_13",
+            "document": "Optical illusion . In the Ponzo illusion the converging parallel lines tell the brain that the image higher in the visual field is farther away therefore the brain perceives the image to be larger, although the two images hitting the retina are the same size. The optical illusion seen in a diorama/false perspective also exploits assumptions based on monocular cues of depth perception. The M.C. Escher painting \"Waterfall\" exploits rules of depth and proximity and our understanding of the physical world to create an illusion. Like depth perception, motion perception is responsible for a number of sensory illusions. Film animation is based on the illusion that the brain perceives a series of slightly varied images produced in rapid succession as a moving picture. Likewise, when we are moving, as we would be while riding in a vehicle, stable surrounding objects may appear to move. We may also perceive a large object, like an airplane, to move more slowly than smaller objects, like a car, although the larger object is actually moving faster. The phi phenomenon is yet another example of how the brain perceives motion, which is most often created by blinking lights in close succession.",
+            "score": 83.11701965332031
+        },
+        {
+            "docid": "1788660_2",
+            "document": "Anaglyph 3D . Anaglyph 3D is the name given to the stereoscopic 3D effect achieved by means of encoding each eye's image using filters of different (usually chromatically opposite) colors, typically red and cyan. Anaglyph 3D images contain two differently filtered colored images, one for each eye. When viewed through the \"color-coded\" \"anaglyph glasses\", each of the two images reaches the eye it's intended for, revealing an integrated stereoscopic image. The visual cortex of the brain fuses this into the perception of a three-dimensional scene or composition.",
+            "score": 82.93822479248047
+        },
+        {
+            "docid": "18315951_13",
+            "document": "Visual odometry . The goal of estimating the egomotion of a camera is to determine the 3D motion of that camera within the environment using a sequence of images taken by the camera. The process of estimating a camera's motion within an environment involves the use of visual odometry techniques on a sequence of images captured by the moving camera. This is typically done using feature detection to construct an optical flow from two image frames in a sequence generated from either single cameras or stereo cameras. Using stereo image pairs for each frame helps reduce error and provides additional depth and scale information.",
+            "score": 82.3567886352539
+        },
+        {
+            "docid": "7415870_5",
+            "document": "Motion analysis . A video camera can be seen as an approximation of a pinhole camera, which means that each point in the image is illuminated by some (normally one) point in the scene in front of the camera, usually by means of light that the scene point reflects from a light source. Each visible point in the scene is projected along a straight line that passes through the camera aperture and intersects the image plane. This means that at a specific point in time, each point in the image refers to a specific point in the scene. This scene point has a position relative to the camera, and if this relative position changes, it corresponds to a \"relative motion in 3D\". It is a relative motion since it does not matter if it is the scene point, or the camera, or both, that are moving. It is only when there is a change in the relative position that the camera is able to detect that some motion has happened. By projecting the relative 3D motion of all visible points back into the image, the result is the \"motion field\", describing the apparent motion of each image point in terms of a magnitude and direction of velocity of that point in the image plane. A consequence of this observation is that if the relative 3D motion of some scene points are along their projection lines, the corresponding apparent motion is zero.",
+            "score": 82.2256088256836
+        },
+        {
+            "docid": "156431_10",
+            "document": "M\u00fcller-Lyer illusion . Neural nets in the visual system of human beings learn how to make a very efficient interpretation of 3D scenes. That is why when somebody goes away from us, we do not perceive them as getting shorter. And when we stretch one arm and look at the two hands we do not perceive one hand smaller than the other. Visual illusions are sometimes held to show us that what we see is an image created in our brain. Our brain supposedly projects the image of the smaller hand to its correct distance in our internal 3D model. This is what is called the size constancy mechanism hypothesis.",
+            "score": 81.76771545410156
+        },
+        {
+            "docid": "30122531_16",
+            "document": "List of Sony Cyber-shot cameras . On July 7, 2010, Sony unveiled the Sony DSC-TX9 and DSC-WX5, which are the world's smallest 3D cameras and capture 3D images with a single lens system using a sweeping motion. Sony also introduced the DSC-T99 14.1 MP CCD camera for about $250. The three cameras above offer a 3D Sweep Panorama feature, which lets one take panoramic pictures in one press-and-sweep motion. The high-speed burst of frames is stitched together using innovative processing techniques to automatically create a detail-packed 3D panorama. These images can be seen in 2D or 3D on compatible 3D televisions. The cameras have been available since September 2010.",
+            "score": 81.7129898071289
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "232786_23",
+            "document": "Maximum life span . Further support for the theory that DNA damage is the primary cause of aging comes from study of Poly ADP ribose polymerases (PARPs). PARPs are enzymes that are activated by DNA strand breaks and play a role in DNA base excision repair. Burkle et al. reviewed evidence that PARPs, and especially PARP-1, are involved in maintaining mammalian longevity. The life span of 13 mammalian species correlated with poly(ADP ribosyl)ation capability measured in mononuclear cells. Furthermore, lymphoblastoid cell lines from peripheral blood lymphocytes of humans over age 100 had a significantly higher poly(ADP-ribosyl)ation capability than control cell lines from younger individuals.",
+            "score": 177.33750772476196
+        },
+        {
+            "docid": "13222629_15",
+            "document": "ADP-ribosylation . Poly-ADP-ribose polymerases (PARPs) can function in DNA repair of single strand breaks as well as double strand breaks. In single-strand break repair (base excision repair) the PARP can either facilitate removal of an oxidized sugar or strand cleavage. PARP1 binds the single-strand breaks and pulls any nearby base excision repair intermediates close. These intermediates include XRCC1 and APLF and they can be recruited directly or through the PBZ domain of the APLF. This leads to the synthesis of poly-ADP ribose. The PBZ domain is present in many proteins involved in DNA repair and allows for the binding of the PARP and thus ADP-ribosylation which recruits repair factors to interact at the break site. PARP2 is a secondary responder to DNA damage but serves to provide functional redundancy in DNA repair.",
+            "score": 175.34777569770813
+        },
+        {
+            "docid": "640637_5",
+            "document": "Aplysia . In neurons that mediate several forms of long-term memory in \"Aplysia\", the DNA repair enzyme poly ADP ribose polymerase 1 (PARP-1) is activated. In virtually all eukaryotic cells tested, the addition of polyADP-ribosyl groups to proteins (polyADP-ribosylation) occurs as a response to DNA damage. Thus the finding of activation of PARP-1 during learning and its requirement for long-term memory was surprising. Cohen-Aromon et al. suggested that fast and transient decondensation of chromatin structure by polyADP-ribosylation enables the transcription needed to form long-term memory without strand-breaks in DNA. Subsequent to these findings in \"Aplysia\", further research was done with mice and it was found that polyADP-ribosylation is also required for long-term memory formation in mammals.",
+            "score": 136.79540693759918
+        },
+        {
+            "docid": "13222629_17",
+            "document": "ADP-ribosylation . The PARPs have many protein targets at the site of DNA damage. KU protein and DNA-PKcs are both double-stranded break repair components with unknown sites of ADP-ribosylation. Histones are another protein target of the PARPs. All core histones and linker histone H1 are ADP-ribosylated following DNA damage. The function of these modifications is still unknown, but it has been proposed that ADP-ribosylation modulates higher-order chromatin structure in efforts to facilitate more accessible sites for repair factors to migrate to the DNA damage.",
+            "score": 131.22735977172852
+        },
+        {
+            "docid": "37694_55",
+            "document": "Seed . During seed dormancy, often associated with unpredictable and stressful environments, DNA damage accumulates as the seeds age. In rye seeds, the reduction of DNA integrity due to damage is associated with loss of seed viability during storage. Upon germination, seeds of \"Vicia faba\" undergo DNA repair. A plant DNA ligase that is involved in repair of single- and double-strand breaks during seed germination is an important determinant of seed longevity. Also, in Arabidopsis seeds, the activities of the DNA repair enzymes Poly ADP ribose polymerases (PARP) are likely needed for successful germination. Thus DNA damages that accumulate during dormancy appear to be a problem for seed survival, and the enzymatic repair of DNA damages during germination appears to be important for seed viability.",
+            "score": 110.03545355796814
+        },
+        {
+            "docid": "1959815_10",
+            "document": "Poly (ADP-ribose) polymerase . One important function of PARP is assisting in the repair of single-strand DNA nicks. It binds sites with single-strand breaks through its N-terminal zinc fingers and will recruit XRCC1, DNA ligase III, DNA polymerase beta, and a kinase to the nick. This is called \"base excision repair\" (BER). PARP-2 has been shown to oligomerize with PARP-1 and, therefore, is also implicated in BER. The oligomerization has also been shown to stimulate PARP catalytic activity. PARP-1 is also known for its role in transcription through remodeling of chromatin by PARylating histones and relaxing chromatin structure, thus allowing transcription complex to access genes.",
+            "score": 94.34885382652283
+        },
+        {
+            "docid": "13222629_11",
+            "document": "ADP-ribosylation . During caspase-independent apoptosis, also called parthanatos, poly-ADP-ribose accumulation can occur due to activation of PARPs or inactivation of poly(ADP-ribose) glycohydrolase, an enzyme that hydrolyses poly(ADP-ribose) to produce free ADP-ribose. Studies have shown poly-ADP-ribose drives the translocation of the apoptosis inducing factor protein to the nucleus where it will mediate DNA fragmentation. It has been suggested that if a failure of caspase activation under stress conditions were to occur, necroptosis would take place. Overactivation of PARPs has led to a necrotic cell death regulated by the tumor necrosis factor protein. Though the mechanism is not yet understood, PARP inhibitors have been shown to affect necroptosis.",
+            "score": 149.62733840942383
+        },
+        {
+            "docid": "854294_30",
+            "document": "DNA repair . Chromatin relaxation occurs rapidly at the site of a DNA damage. In one of the earliest steps, the stress-activated protein kinase, c-Jun N-terminal kinase (JNK), phosphorylates SIRT6 on serine 10 in response to double-strand breaks or other DNA damage. This post-translational modification facilitates the mobilization of SIRT6 to DNA damage sites, and is required for efficient recruitment of poly (ADP-ribose) polymerase 1 (PARP1) to DNA break sites and for efficient repair of DSBs. PARP1 protein starts to appear at DNA damage sites in less than a second, with half maximum accumulation within 1.6 seconds after the damage occurs. PARP1 synthesizes polymeric adenosine diphosphate ribose (poly (ADP-ribose) or PAR) chains on itself. Next the chromatin remodeler ALC1 quickly attaches to the product of PARP1 action, a poly-ADP ribose chain, and ALC1 completes arrival at the DNA damage within 10 seconds of the occurrence of the damage. About half of the maximum chromatin relaxation, presumably due to action of ALC1, occurs by 10 seconds. This then allows recruitment of the DNA repair enzyme MRE11, to initiate DNA repair, within 13 seconds.",
+            "score": 141.06649923324585
+        },
+        {
+            "docid": "14755563_10",
+            "document": "FUS (gene) . FUS appears at sites of DNA damage very rapidly suggesting that FUS is orchestrating the DNA repair response. The function of FUS in the DNA damage response in neurons involves a direct interaction with histone deacetylase 1 (HDAC1). The recruitment of FUS to double-strand break sites is important for DNA damage response signaling and for repair of DNA damage. FUS loss-of-function results in increased DNA damage in neurons. Mutations in the FUS nuclear localization sequence impairs the poly (ADP-ribose) polymerase (PARP)-dependent DNA damage response. This impairment leads to neurodegeneration and FUS aggregate formation. Such FUS aggregates are a pathological hallmark of the neurodegenerative disease amyotrophic lateral sclerosis (ALS).",
+            "score": 98.7783989906311
+        },
+        {
+            "docid": "195007_26",
+            "document": "Centenarian . Lymphoblastoid cell lines established from blood samples of centenarians have significantly higher activity of the DNA repair protein PARP (Poly ADP ribose polymerase) than cell lines from younger (20 to 70 years old) individuals. The lymphocytic cells of centenarians have characteristics typical of cells from young people, both in their capability of priming the mechanism of repair after HO sublethal oxidative DNA damage and in their PARP capacity. PARP activity measured in the permeabilized mononuclear leukocyte blood cells of thirteen mammalian species correlated with maximum lifespan of the species. These findings suggest that PARP mediated DNA repair activity contributes to the longevity of centenarians, consistent with the DNA damage theory of aging.",
+            "score": 124.71010160446167
+        },
+        {
+            "docid": "24369967_12",
+            "document": "PARP inhibitor . The PARP family of proteins in humans includes PARP1 and PARP2, which are DNA binding and repair proteins. When activated by DNA damage, these proteins recruit other proteins that do the actual work of repairing DNA. Under normal conditions, PARP1 and PARP2 are released from DNA once the repair process is underway. However, as this study shows, when they are bound to PARP inhibitors, PARP1 and PARP2 become trapped on DNA. The researchers showed that trapped PARP\u2013DNA complexes are more toxic to cells than the unrepaired single-strand DNA breaks that accumulate in the absence of PARP activity, indicating that PARP inhibitors act as PARP poisons. These findings suggest that there may be two classes of PARP inhibitors, catalytic inhibitors that act mainly to inhibit PARP enzyme activity and do not trap PARP proteins on DNA, and dual inhibitors that both block PARP enzyme activity and act as PARP poison.",
+            "score": 158.55647802352905
+        },
+        {
+            "docid": "2631477_12",
+            "document": "Homologous recombination . Chromatin relaxation occurs rapidly at the site of a DNA damage. In one of the earliest steps, the stress-activated protein kinase, c-Jun N-terminal kinase (JNK), phosphorylates SIRT6 on serine 10 in response to double-strand breaks or other DNA damage. This post-translational modification facilitates the mobilization of SIRT6 to DNA damage sites, and is required for efficient recruitment of poly (ADP-ribose) polymerase 1 (PARP1) to DNA break sites and for efficient repair of DSBs. PARP1 protein starts to appear at DNA damage sites in less than a second, with half maximum accumulation within 1.6 seconds after the damage occurs. Next the chromatin remodeler Alc1 quickly attaches to the product of PARP1 action, a poly-ADP ribose chain, and Alc1 completes arrival at the DNA damage within 10 seconds of the occurrence of the damage. About half of the maximum chromatin relaxation, presumably due to action of Alc1, occurs by 10 seconds. This then allows recruitment of the DNA repair enzyme MRE11, to initiate DNA repair, within 13 seconds.",
+            "score": 131.1379497051239
+        },
+        {
+            "docid": "1959815_6",
+            "document": "Poly (ADP-ribose) polymerase . Once PARP detects a SSB, it binds to the DNA, undergoes a structural change, and begins the synthesis of a polymeric adenosine diphosphate ribose (poly (ADP-ribose) or PAR) chain, which acts as a signal for the other DNA-repairing enzymes. Target enzymes include DNA ligase III (LigIII), DNA polymerase beta (pol\u03b2), and scaffolding proteins such as X-ray cross-complementing gene 1 (XRCC1). After repairing, the PAR chains are degraded via Poly(ADP-ribose) glycohydrolase (PARG).",
+            "score": 108.24989557266235
+        },
+        {
+            "docid": "177938_19",
+            "document": "Moss . The moss \"Phycomitrella patens\" has been used as a model organism to study how plants repair damage to their DNA, especially the repair mechanism known as homologous recombination. If the plant cannot repair DNA damage, e.g. double-strand breaks, in their somatic cells, the cells can lose normal functions or die. If this occurs during meiosis (part of sexual reproduction), they could become infertile. The genome of \"P. patens\" has been sequenced, which has allowed several genes involved in DNA repair to be identified. \"P. patens\" mutants that are defective in key steps of homologous recombination have been used to work out how the repair mechanism functions in plants. For example, a study of \"P. patens\" mutants defective in \"Rp\"RAD51, a gene that encodes a protein at the core of the recombinational repair reaction, indicated that homologous recombination is essential for repairing DNA double-strand breaks in this plant. Similarly, studies of mutants defective in \"Ppmre11\" or \"Pprad50\" (that encode key proteins of the MRN complex, the principal sensor of DNA double-strand breaks) showed that these genes are necessary for repair of DNA damage as well as for normal growth and development.",
+            "score": 50.60400414466858
+        },
+        {
+            "docid": "196206_11",
+            "document": "Longevity . Lymphoblastoid cell lines established from blood samples of centenarians have significantly higher activity of the DNA repair protein PARP (Poly ADP ribose polymerase) than cell lines from younger (20 to 70 year old) individuals. The lymphocytic cells of centenarians have characteristics typical of cells from young people, both in their capability of priming the mechanism of repair after HO sublethal oxidative DNA damage and in their PARP gene expression. These findings suggest that elevated PARP gene expression contributes to the longevity of centenarians, consistent with the DNA damage theory of aging.",
+            "score": 120.43588948249817
+        },
+        {
+            "docid": "13222629_16",
+            "document": "ADP-ribosylation . There are many mechanisms for the repair of damaged double stranded DNA. PARP1 may function as a synapsis factor in alternative non-homologous end joining. Additionally, It has been proposed that PARP1 is required to slow replication forks following DNA damage and promotes homologous recombination at replication forks that may be dysfunctional. It is possible that PARP1 and PARP3 work together in repair of double-stranded DNA and it has been shown that PARP3 is critical for double-stranded break resolution. There are two hypotheses by which PARP1 and PARP3 coincide. The first hypothesis states that the two ADP-ribosyltransferases serve to function for each other's inactivity. If PARP3 is lost, this results in single-strand breaks, and thus the recruitment of PARP1. A second hypothesis suggests that the two enzyme work together; PARP3 catalyzes mono-ADP ribosylation and short poly-ADP ribosylation and serves to activate PARP1.",
+            "score": 137.5780782699585
+        },
+        {
+            "docid": "7336899_10",
+            "document": "C-Jun N-terminal kinases . The packaging of eukaryotic DNA into chromatin presents a barrier to all DNA-based processes that require recruitment of enzymes to their sites of action. To allow repair of double-strand breaks in DNA, the chromatin must be remodeled. Chromatin relaxation occurs rapidly at the site of a DNA damage. In one of the earliest steps, JNK phosphorylates SIRT6 on serine 10 in response to double-strand breaks (DSBs) or other DNA damage, and this step is required for efficient repair of DSBs. Phosphorylation of SIRT6 on S10 facilitates the mobilization of SIRT6 to DNA damage sites, where SIRT6 then recruits and mono-phosphorylates poly (ADP-ribose) polymerase 1 (PARP1) at DNA break sites. Half maximum accumulation of PARP1 occurs within 1.6 seconds after the damage occurs. The chromatin remodeler Alc1 quickly attaches to the product of PARP1 action, a poly-ADP ribose chain, allowing half of the maximum chromatin relaxation, presumably due to action of Alc1, by 10 seconds. This allows recruitment of the DNA repair enzyme MRE11, to initiate DNA repair, within 13 seconds.",
+            "score": 115.08335781097412
+        },
+        {
+            "docid": "49033_20",
+            "document": "Epigenetics . DNA damage can also cause epigenetic changes. DNA damage is very frequent, occurring on average about 60,000 times a day per cell of the human body (see DNA damage (naturally occurring)). These damages are largely repaired, but at the site of a DNA repair, epigenetic changes can remain. In particular, a double strand break in DNA can initiate unprogrammed epigenetic gene silencing both by causing DNA methylation as well as by promoting silencing types of histone modifications (chromatin remodeling - see next section). In addition, the enzyme Parp1 (poly(ADP)-ribose polymerase) and its product poly(ADP)-ribose (PAR) accumulate at sites of DNA damage as part of a repair process. This accumulation, in turn, directs recruitment and activation of the chromatin remodeling protein ALC1 that can cause nucleosome remodeling. Nucleosome remodeling has been found to cause, for instance, epigenetic silencing of DNA repair gene MLH1. DNA damaging chemicals, such as benzene, hydroquinone, styrene, carbon tetrachloride and trichloroethylene, cause considerable hypomethylation of DNA, some through the activation of oxidative stress pathways.",
+            "score": 117.30550396442413
+        },
+        {
+            "docid": "854294_38",
+            "document": "DNA repair . The SOS response is the changes in gene expression in \"Escherichia coli\" and other bacteria in response to extensive DNA damage. The prokaryotic SOS system is regulated by two key proteins: LexA and RecA. The LexA homodimer is a transcriptional repressor that binds to operator sequences commonly referred to as SOS boxes. In \"Escherichia coli\" it is known that LexA regulates transcription of approximately 48 genes including the lexA and recA genes. The SOS response is known to be widespread in the Bacteria domain, but it is mostly absent in some bacterial phyla, like the Spirochetes. The most common cellular signals activating the SOS response are regions of single-stranded DNA (ssDNA), arising from stalled replication forks or double-strand breaks, which are processed by DNA helicase to separate the two DNA strands. In the initiation step, RecA protein binds to ssDNA in an ATP hydrolysis driven reaction creating RecA\u2013ssDNA filaments. RecA\u2013ssDNA filaments activate LexA autoprotease activity, which ultimately leads to cleavage of LexA dimer and subsequent LexA degradation. The loss of LexA repressor induces transcription of the SOS genes and allows for further signal induction, inhibition of cell division and an increase in levels of proteins responsible for damage processing.",
+            "score": 67.49919414520264
+        },
+        {
+            "docid": "37374556_4",
+            "document": "3-Aminobenzamide . 3-Aminobenzamide is an inhibitor of poly ADP ribose polymerase (PARP), an enzyme responsible for DNA repair, transcription control, and programmed cell death. When PARP is activated it rapidly uses up stores of nicotinamide adenine dinucleotide (NAD) in the cell as it performs DNA repair. Low levels of NAD deplete the amount of ATP found in the cell which can lead to cell death. The structure of 3-aminobenzamide is similar to that of NAD so it binds to PARP and prevents it from using up NAD. PARP is often a target of cancer therapy and so 3-aminobenzamide could potentially be used as an anticancer drug.",
+            "score": 104.38774609565735
+        },
+        {
+            "docid": "54954562_11",
+            "document": "Role of Calmodulins . 2) Pathogen Defense: Among the diverse range of defense strategies plants utilize against pathogens, Ca signaling is very increasingly common. Free Ca levels in the cytoplasm increases in response to a pathogenic infection. Ca signatures of this nature usually activate the plant defense system by inducing defense-related genes and the hypersensitive cell death. CaMs, CMLs and CaM-binding proteins are some of the recently identified elements of the plant defense signaling pathways. Several CML genes in tobacco, bean and tomato are responsive to pathogens. CML43 is a CaM-related protein that, as isolated from APR134 gene in the disease-resistant leaves of \"Arabidopsis\" for gene expression analysis, is rapidly induced when the leaves are inoculated with \"Pseudomonas syringae.\" These genes are also found in tomatoes (\"Solanum lycopersicum).\" The CML43 from the APR134 also binds to Ca ions in vitro which shows that CML43 and APR134 are, hence, involved in the Ca-dependent signaling during the plant immune response to bacterial pathogens. The CML9 expression in \"Arabidopsis thaliana\" is rapidly induced by phytopathogenic bacteria, flagellin and salicylic acid. Expression of soybean SCaM4 and SCaM5 in transgenic \"tobacco\" and \"Arabidopsis\" causes an activation of genes related to pathogen resistance and also results in enhanced resistance to a wide spectrum of pathogen infection. The same is not true for soybean SCaM1 and SCaM2 that are highly conserved CaM isoforms. The \"At\"BAG6 protein is a CaM-binding protein that binds to CaM only in the absence of Ca and not in the presence of it. \"At\"BAG6 is responsible for the hypersensitive response of programmed cell death in order to prevent the spread of pathogen infection or to restrict pathogen growth. Mutations in the CaM binding proteins can lead to severe effects on the defense response of the plants towards pathogen infections. Cyclic nucleotide-gated channels (CNGCs) are functional protein channels in the plasma membrane that have overlapping CaM binding sites transport divalent cations such as Ca. However, the exact role of the positioning of the CNGCs in this pathway for plant defense is still unclear.",
+            "score": 60.16188621520996
+        },
+        {
+            "docid": "13222629_10",
+            "document": "ADP-ribosylation . During DNA damage or cellular stress PARPs are activated, leading to an increase in the amount of poly-ADP-ribose and a decrease in the amount of NAD+. For over a decade it was thought that PARP1 was the only poly-ADP-ribose polymerase in mammalian cells, therefore this enzyme has been the most studied. Caspases are a family of cysteine proteases that are known to play an essential role in programmed cell death. This protease cleaves PARP-1 into two fragments, leaving it completely inactive, to limit poly-ADP-ribose production. One of its fragments migrates from the nucleus to the cytoplasm and is thought to become a target of autoimmunity.",
+            "score": 165.8291871547699
+        },
+        {
+            "docid": "1959815_5",
+            "document": "Poly (ADP-ribose) polymerase . The main role of PARP (found in the cell nucleus) is to detect and initiate an immediate cellular response to metabolic, chemical, or radiation-induced single-strand DNA breaks (SSB) by signaling the enzymatic machinery involved in the SSB repair.",
+            "score": 113.20936632156372
+        },
+        {
+            "docid": "1959815_15",
+            "document": "Poly (ADP-ribose) polymerase . PARP can be activated in cells experiencing stress and/or DNA damage. Activated PARP can deplete the ATP of a cell in an attempt to repair the damaged DNA. ATP depletion in a cell leads to lysis and cell death (necrosis). PARP also has the ability to induce programmed cell death, via the production of PAR, which stimulates mitochondria to release AIF. This mechanism appears to be caspase-independent. Cleavage of Parp, by enzymes such as caspases or cathepsins, typically inactivates Parp. The size of the cleavage fragments can give insight into which enzyme was responsible for the cleavage, and can be useful in determining which cell death pathway has been activated.",
+            "score": 118.86556661128998
+        },
+        {
+            "docid": "854294_40",
+            "document": "DNA repair . Eukaryotic cells exposed to DNA damaging agents also activate important defensive pathways by inducing multiple proteins involved in DNA repair, cell cycle checkpoint control, protein trafficking and degradation. Such genome wide transcriptional response is very complex and tightly regulated, thus allowing coordinated global response to damage. Exposure of yeast \"Saccharomyces cerevisiae\" to DNA damaging agents results in overlapping but distinct transcriptional profiles. Similarities to environmental shock response indicates that a general global stress response pathway exist at the level of transcriptional activation. In contrast, different human cell types respond to damage differently indicating an absence of a common global response. The probable explanation for this difference between yeast and human cells may be in the heterogeneity of mammalian cells. In an animal different types of cells are distributed among different organs that have evolved different sensitivities to DNA damage.",
+            "score": 83.83102977275848
+        },
+        {
+            "docid": "43937_38",
+            "document": "Parasitism . Viruses are obligate intracellular parasites, characterised by extremely limited biological function, to the point where, while they are evidently able to infect all other organisms from bacteria and archaea to animals, plants and fungi, it is unclear whether they can themselves be described as living. Viruses can be either RNA or DNA viruses consisting of a single or double strand of genetic material (RNA or DNA) respectively, covered in a protein coat and sometimes a lipid envelope. They thus lack all the usual machinery of the cell such as enzymes, relying entirely on the host cell's ability to replicate DNA and synthesise proteins. Most viruses are bacteriophages, infecting bacteria.",
+            "score": 44.87098288536072
+        },
+        {
+            "docid": "365558_29",
+            "document": "Nicotinamide adenine dinucleotide . The coenzyme NAD is also consumed in ADP-ribose transfer reactions. For example, enzymes called ADP-ribosyltransferases add the ADP-ribose moiety of this molecule to proteins, in a posttranslational modification called ADP-ribosylation. ADP-ribosylation involves either the addition of a single ADP-ribose moiety, in \"mono-ADP-ribosylation\", or the transferral of ADP-ribose to proteins in long branched chains, which is called \"poly(ADP-ribosyl)ation\". Mono-ADP-ribosylation was first identified as the mechanism of a group of bacterial toxins, notably cholera toxin, but it is also involved in normal cell signaling. Poly(ADP-ribosyl)ation is carried out by the poly(ADP-ribose) polymerases. The poly(ADP-ribose) structure is involved in the regulation of several cellular events and is most important in the cell nucleus, in processes such as DNA repair and telomere maintenance. In addition to these functions within the cell, a group of extracellular ADP-ribosyltransferases has recently been discovered, but their functions remain obscure. NAD may also be added onto cellular RNA as a 5'-terminal modification.",
+            "score": 160.50026488304138
+        },
+        {
+            "docid": "48712402_7",
+            "document": "Parthanatos . Poly(ADP-ribose) polymerase-1 (PARP-1) is a nuclear enzyme that is found universally in all eukaryotes and is encoded by the PARP-1 gene. It belongs to the PARP family, which is a group of catalysts that transfer ADP-ribose units from NAD (nicotinamide dinucleotide) to protein targets, thus creating branched or linear polymers. The major domains of PARP-1 impart the ability to fulfill its functions. These protein sections include the DNA-binding domain on the N-terminus (allows PARP-1 to detect DNA breaks), the automodification domain (has a BRCA1 C terminus motif which is key for protein-protein interactions), and a catalytic site with the NAD+-fold (characteristic of mono-ADP ribosylating toxins).",
+            "score": 122.39326882362366
+        },
+        {
+            "docid": "1959815_4",
+            "document": "Poly (ADP-ribose) polymerase . PARP is composed of four domains of interest: a DNA-binding domain, a caspase-cleaved domain (see below), an auto-modification domain, and a catalytic domain. The DNA-binding domain is composed of two zinc finger motifs. In the presence of damaged DNA (base pair-excised), the DNA-binding domain will bind the DNA and induce a conformational shift. It has been shown that this binding occurs independent of the other domains. This is integral in a programmed cell death model based on caspase cleavage inhibition of PARP. The auto-modification domain is responsible for releasing the protein from the DNA after catalysis. Also, it plays an integral role in cleavage-induced inactivation.",
+            "score": 113.98693430423737
+        },
+        {
+            "docid": "19828134_46",
+            "document": "Plant . Plants are continuously exposed to a range of biotic and abiotic stresses. These stresses often cause DNA damage directly, or indirectly via the generation of reactive oxygen species. Plants are capable of a DNA damage response that is a critical mechanism for maintaining genome stability. The DNA damage response is particularly important during seed germination, since seed quality tends to deteriorate with age in association with DNA damage accumulation. During germination repair processes are activated to deal with this accumulated DNA damage. In particular, single- and double-strand breaks in DNA can be repaired. The DNA checkpoint kinase ATM has a key role in integrating progression through germination with repair responses to the DNA damages accumulated by the aged seed.",
+            "score": 63.93738341331482
+        },
+        {
+            "docid": "1959815_11",
+            "document": "Poly (ADP-ribose) polymerase . PARP-1 and PARP-2 are activated by DNA single-strand breaks, and both PARP-1 and PARP-2 knockout mice have severe deficiencies in DNA repair, and increased sensitivity to alkylating agents or ionizing radiation.",
+            "score": 102.7981424331665
+        },
+        {
+            "docid": "583438_22",
+            "document": "Transformation (genetics) . Competence is specifically induced by DNA damaging conditions. For instance, transformation is induced in \"Streptococcus pneumoniae\" by the DNA damaging agents mitomycin C (a DNA crosslinking agent) and fluoroquinolone (a topoisomerase inhibitor that causes double-strand breaks). In \"B. subtilis\", transformation is increased by UV light, a DNA damaging agent. In \"Helicobacter pylori\", ciprofloxacin, which interacts with DNA gyrase and introduces double-strand breaks, induces expression of competence genes, thus enhancing the frequency of transformation Using \"Legionella pneumophila\", Charpentier et al. tested 64 toxic molecules to determine which of these induce competence. Of these only six, all DNA damaging agents, caused strong induction. These DNA damaging agents were mitomycin C (which causes DNA inter-strand crosslinks), norfloxacin, ofloxacin and nalidixic acid (inhibitors of DNA gyrase that cause double-strand breaks), bicyclomycin (causes single- and double-strand breaks), and hydroxyurea (induces DNA base oxidation). UV light also induced competence in \"L. pneumophila\". Charpentier et al. suggested that competence for transformation probably evolved as a DNA damage response. Logarithmically growing bacteria differ from stationary phase bacteria with respect to the number of genome copies present in the cell, and this has implications for the capability to carry out an important DNA repair process. During logarithmic growth, two or more copies of any particular region of the chromosome may be present in a bacterial cell, as cell division is not precisely matched with chromosome replication. The process of homologous recombinational repair (HRR) is a key DNA repair process that is especially effective for repairing double-strand damages, such as double-strand breaks. This process depends on a second homologous chromosome in addition to the damaged chromosome. During logarithmic growth, a DNA damage in one chromosome may be repaired by HRR using sequence information from the other homologous chromosome. Once cells approach stationary phase, however, they typically have just one copy of the chromosome, and HRR requires input of homologous template from outside the cell by transformation. To test whether the adaptive function of transformation is repair of DNA damages, a series of experiments were carried out using \"B. subtilis\" irradiated by UV light as the damaging agent (reviewed by Michod et al. and Bernstein et al.) The results of these experiments indicated that transforming DNA acts to repair potentially lethal DNA damages introduced by UV light in the recipient DNA. The particular process responsible for repair was likely HRR. Transformation in bacteria can be viewed as a primitive sexual process, since it involves interaction of homologous DNA from two individuals to form recombinant DNA that is passed on to succeeding generations. Bacterial transformation in prokaryotes may have been the ancestral process that gave rise to meiotic sexual reproduction in eukaryotes (see Evolution of sexual reproduction; Meiosis.)",
+            "score": 57.18280482292175
+        }
+    ],
+    "r": [
+        {
+            "docid": "232786_23",
+            "document": "Maximum life span . Further support for the theory that DNA damage is the primary cause of aging comes from study of Poly ADP ribose polymerases (PARPs). PARPs are enzymes that are activated by DNA strand breaks and play a role in DNA base excision repair. Burkle et al. reviewed evidence that PARPs, and especially PARP-1, are involved in maintaining mammalian longevity. The life span of 13 mammalian species correlated with poly(ADP ribosyl)ation capability measured in mononuclear cells. Furthermore, lymphoblastoid cell lines from peripheral blood lymphocytes of humans over age 100 had a significantly higher poly(ADP-ribosyl)ation capability than control cell lines from younger individuals.",
+            "score": 177.33750915527344
+        },
+        {
+            "docid": "13222629_15",
+            "document": "ADP-ribosylation . Poly-ADP-ribose polymerases (PARPs) can function in DNA repair of single strand breaks as well as double strand breaks. In single-strand break repair (base excision repair) the PARP can either facilitate removal of an oxidized sugar or strand cleavage. PARP1 binds the single-strand breaks and pulls any nearby base excision repair intermediates close. These intermediates include XRCC1 and APLF and they can be recruited directly or through the PBZ domain of the APLF. This leads to the synthesis of poly-ADP ribose. The PBZ domain is present in many proteins involved in DNA repair and allows for the binding of the PARP and thus ADP-ribosylation which recruits repair factors to interact at the break site. PARP2 is a secondary responder to DNA damage but serves to provide functional redundancy in DNA repair.",
+            "score": 175.3477783203125
+        },
+        {
+            "docid": "13222629_10",
+            "document": "ADP-ribosylation . During DNA damage or cellular stress PARPs are activated, leading to an increase in the amount of poly-ADP-ribose and a decrease in the amount of NAD+. For over a decade it was thought that PARP1 was the only poly-ADP-ribose polymerase in mammalian cells, therefore this enzyme has been the most studied. Caspases are a family of cysteine proteases that are known to play an essential role in programmed cell death. This protease cleaves PARP-1 into two fragments, leaving it completely inactive, to limit poly-ADP-ribose production. One of its fragments migrates from the nucleus to the cytoplasm and is thought to become a target of autoimmunity.",
+            "score": 165.82919311523438
+        },
+        {
+            "docid": "365558_29",
+            "document": "Nicotinamide adenine dinucleotide . The coenzyme NAD is also consumed in ADP-ribose transfer reactions. For example, enzymes called ADP-ribosyltransferases add the ADP-ribose moiety of this molecule to proteins, in a posttranslational modification called ADP-ribosylation. ADP-ribosylation involves either the addition of a single ADP-ribose moiety, in \"mono-ADP-ribosylation\", or the transferral of ADP-ribose to proteins in long branched chains, which is called \"poly(ADP-ribosyl)ation\". Mono-ADP-ribosylation was first identified as the mechanism of a group of bacterial toxins, notably cholera toxin, but it is also involved in normal cell signaling. Poly(ADP-ribosyl)ation is carried out by the poly(ADP-ribose) polymerases. The poly(ADP-ribose) structure is involved in the regulation of several cellular events and is most important in the cell nucleus, in processes such as DNA repair and telomere maintenance. In addition to these functions within the cell, a group of extracellular ADP-ribosyltransferases has recently been discovered, but their functions remain obscure. NAD may also be added onto cellular RNA as a 5'-terminal modification.",
+            "score": 160.50025939941406
+        },
+        {
+            "docid": "24369967_12",
+            "document": "PARP inhibitor . The PARP family of proteins in humans includes PARP1 and PARP2, which are DNA binding and repair proteins. When activated by DNA damage, these proteins recruit other proteins that do the actual work of repairing DNA. Under normal conditions, PARP1 and PARP2 are released from DNA once the repair process is underway. However, as this study shows, when they are bound to PARP inhibitors, PARP1 and PARP2 become trapped on DNA. The researchers showed that trapped PARP\u2013DNA complexes are more toxic to cells than the unrepaired single-strand DNA breaks that accumulate in the absence of PARP activity, indicating that PARP inhibitors act as PARP poisons. These findings suggest that there may be two classes of PARP inhibitors, catalytic inhibitors that act mainly to inhibit PARP enzyme activity and do not trap PARP proteins on DNA, and dual inhibitors that both block PARP enzyme activity and act as PARP poison.",
+            "score": 158.5564727783203
+        },
+        {
+            "docid": "13222629_11",
+            "document": "ADP-ribosylation . During caspase-independent apoptosis, also called parthanatos, poly-ADP-ribose accumulation can occur due to activation of PARPs or inactivation of poly(ADP-ribose) glycohydrolase, an enzyme that hydrolyses poly(ADP-ribose) to produce free ADP-ribose. Studies have shown poly-ADP-ribose drives the translocation of the apoptosis inducing factor protein to the nucleus where it will mediate DNA fragmentation. It has been suggested that if a failure of caspase activation under stress conditions were to occur, necroptosis would take place. Overactivation of PARPs has led to a necrotic cell death regulated by the tumor necrosis factor protein. Though the mechanism is not yet understood, PARP inhibitors have been shown to affect necroptosis.",
+            "score": 149.62733459472656
+        },
+        {
+            "docid": "13222629_21",
+            "document": "ADP-ribosylation . Susceptibility to carcinogenesis under PARP1 deficiency depends significantly on the type of DNA damage incurred. There are many implications that various PARPs are involved in preventing carcinogenesis. As stated previously, PARP1 and PARP2 are involved in BER and chromosomal stability. PARP3 is involved in centrosome regulation. Tankyrase is another ADP-ribose polymerase that is involved in telomere length regulation.",
+            "score": 147.89764404296875
+        },
+        {
+            "docid": "49628551_2",
+            "document": "Poly(adp-ribose) polymerase family member 14 . Poly(ADP-ribose) polymerase family member 14 is a protein that, in humans, is encoded by the PARP14 gene. Poly(ADP-ribosyl)ation is an immediate DNA damage-dependent post-translational modification of histones and other nuclear proteins that contributes to the survival of injured proliferating cells. PARP14 belongs to the superfamily of enzymes that perform this modification (Ame et al., 2004 [PubMed 15273990]).",
+            "score": 147.84092712402344
+        },
+        {
+            "docid": "15067094_3",
+            "document": "PARP2 . This gene encodes poly(ADP-ribosyl)transferase-like 2 protein, which contains a catalytic domain and is capable of catalyzing a poly(ADP-ribosyl)ation reaction. This protein has a catalytic domain which is homologous to that of poly (ADP-ribosyl) transferase, but lacks an N-terminal DNA binding domain which activates the C-terminal catalytic domain of poly (ADP-ribosyl) transferase. The basic residues within the N-terminal region of this protein may bear potential DNA-binding properties, and may be involved in the nuclear and/or nucleolar targeting of the protein. Two alternatively spliced transcript variants encoding distinct isoforms have been found.",
+            "score": 143.85218811035156
+        },
+        {
+            "docid": "854294_30",
+            "document": "DNA repair . Chromatin relaxation occurs rapidly at the site of a DNA damage. In one of the earliest steps, the stress-activated protein kinase, c-Jun N-terminal kinase (JNK), phosphorylates SIRT6 on serine 10 in response to double-strand breaks or other DNA damage. This post-translational modification facilitates the mobilization of SIRT6 to DNA damage sites, and is required for efficient recruitment of poly (ADP-ribose) polymerase 1 (PARP1) to DNA break sites and for efficient repair of DSBs. PARP1 protein starts to appear at DNA damage sites in less than a second, with half maximum accumulation within 1.6 seconds after the damage occurs. PARP1 synthesizes polymeric adenosine diphosphate ribose (poly (ADP-ribose) or PAR) chains on itself. Next the chromatin remodeler ALC1 quickly attaches to the product of PARP1 action, a poly-ADP ribose chain, and ALC1 completes arrival at the DNA damage within 10 seconds of the occurrence of the damage. About half of the maximum chromatin relaxation, presumably due to action of ALC1, occurs by 10 seconds. This then allows recruitment of the DNA repair enzyme MRE11, to initiate DNA repair, within 13 seconds.",
+            "score": 141.06649780273438
+        },
+        {
+            "docid": "14061080_14",
+            "document": "ETS1 . As shown by Legrand et al., ETS1 protein interacts with PARP1 protein. ETS1 activates PARP1, causing poly ADP-ribosylation of PARP1 itself and of other proteins, even in the absence of nicked DNA. PARP1 (without self- poly ADP-ribosylation), in turn, is needed for activation of the transactivating activity of ETS1 on a tested promoter. Active PARP1 subsequently causes poly ADP-ribosylation of ETS1, and this appears to promote ETS1 ubiquitination and proteasomal degradation, preventing excessive activity of ETS1.",
+            "score": 137.84510803222656
+        },
+        {
+            "docid": "13222629_16",
+            "document": "ADP-ribosylation . There are many mechanisms for the repair of damaged double stranded DNA. PARP1 may function as a synapsis factor in alternative non-homologous end joining. Additionally, It has been proposed that PARP1 is required to slow replication forks following DNA damage and promotes homologous recombination at replication forks that may be dysfunctional. It is possible that PARP1 and PARP3 work together in repair of double-stranded DNA and it has been shown that PARP3 is critical for double-stranded break resolution. There are two hypotheses by which PARP1 and PARP3 coincide. The first hypothesis states that the two ADP-ribosyltransferases serve to function for each other's inactivity. If PARP3 is lost, this results in single-strand breaks, and thus the recruitment of PARP1. A second hypothesis suggests that the two enzyme work together; PARP3 catalyzes mono-ADP ribosylation and short poly-ADP ribosylation and serves to activate PARP1.",
+            "score": 137.5780792236328
+        },
+        {
+            "docid": "640637_5",
+            "document": "Aplysia . In neurons that mediate several forms of long-term memory in \"Aplysia\", the DNA repair enzyme poly ADP ribose polymerase 1 (PARP-1) is activated. In virtually all eukaryotic cells tested, the addition of polyADP-ribosyl groups to proteins (polyADP-ribosylation) occurs as a response to DNA damage. Thus the finding of activation of PARP-1 during learning and its requirement for long-term memory was surprising. Cohen-Aromon et al. suggested that fast and transient decondensation of chromatin structure by polyADP-ribosylation enables the transcription needed to form long-term memory without strand-breaks in DNA. Subsequent to these findings in \"Aplysia\", further research was done with mice and it was found that polyADP-ribosylation is also required for long-term memory formation in mammals.",
+            "score": 136.79541015625
+        },
+        {
+            "docid": "31599765_9",
+            "document": "Simon Boulton . Boulton\u2019s PhD supervisor, Stephen P. Jackson, has said that it is Boulton's distinctive combination of approaches that has allowed Boulton to make seminal contributions to DNA repair, genome instability, and cancer. Among Boulton's achievements is the discovery that the gene RTEL1 serves as an anti-recombinase that affects genome stability and cancer and counteracts toxic recombination. In addition, he and his team discovered the PBZ motif and determined that ALC1 (Amplified in Liver Cancer 1) is a poly(ADP-ribose)-activated chromatin-remodelling enzyme required for DNA repair, and that poly (ADP-ribosyl)ation (PAR) is a post-translational modification of proteins that play an important role in mediating protein interactions and the recruitment of specific protein targets.",
+            "score": 131.8764190673828
+        },
+        {
+            "docid": "13222629_17",
+            "document": "ADP-ribosylation . The PARPs have many protein targets at the site of DNA damage. KU protein and DNA-PKcs are both double-stranded break repair components with unknown sites of ADP-ribosylation. Histones are another protein target of the PARPs. All core histones and linker histone H1 are ADP-ribosylated following DNA damage. The function of these modifications is still unknown, but it has been proposed that ADP-ribosylation modulates higher-order chromatin structure in efforts to facilitate more accessible sites for repair factors to migrate to the DNA damage.",
+            "score": 131.22735595703125
+        },
+        {
+            "docid": "2631477_12",
+            "document": "Homologous recombination . Chromatin relaxation occurs rapidly at the site of a DNA damage. In one of the earliest steps, the stress-activated protein kinase, c-Jun N-terminal kinase (JNK), phosphorylates SIRT6 on serine 10 in response to double-strand breaks or other DNA damage. This post-translational modification facilitates the mobilization of SIRT6 to DNA damage sites, and is required for efficient recruitment of poly (ADP-ribose) polymerase 1 (PARP1) to DNA break sites and for efficient repair of DSBs. PARP1 protein starts to appear at DNA damage sites in less than a second, with half maximum accumulation within 1.6 seconds after the damage occurs. Next the chromatin remodeler Alc1 quickly attaches to the product of PARP1 action, a poly-ADP ribose chain, and Alc1 completes arrival at the DNA damage within 10 seconds of the occurrence of the damage. About half of the maximum chromatin relaxation, presumably due to action of Alc1, occurs by 10 seconds. This then allows recruitment of the DNA repair enzyme MRE11, to initiate DNA repair, within 13 seconds.",
+            "score": 131.13795471191406
+        },
+        {
+            "docid": "13222629_13",
+            "document": "ADP-ribosylation . The organization of nucleosomes is key to regulation of gene expression: the spacing and organization of nucleosomes changes what regions of DNA are available for transcription machinery to bind and transcribe DNA. PARP1, a poly-ADP ribose polymerase, has been shown to affect chromatin structure and promote changes in the organization of nucleosomes through modification of histones.  PARPs have been shown to affect transcription factor structure and cause recruitment of many transcription factors to form complexes at DNA and elicit transcription.Mono ADP-ribosyltransferases are also shown to affect transcription factor binding at promoters. For example, PARP14, a mono ADP-ribosyltransferase, has been shown to affect STAT transcription factor binding.",
+            "score": 130.1006317138672
+        },
+        {
+            "docid": "13222629_8",
+            "document": "ADP-ribosylation . Poly-(ADP-ribose) polymerases (PARPs) are found mostly in eukaryotes and catalyze the transfer of multiple ADP-ribose molecules to target proteins. As with mono-ADP ribosylation, the source of ADP-ribose is NAD. PARPs use a catalytic triad of His-Tyr-Glu to facilitate binding of NAD and positioning of the end of the existing poly-ADP ribose chain on the target protein; the Glu facilitates catalysis and formation of a (1->2) O-glycosidic linkage between two ribose molecules.  There are several other enzymes that recognize poly-ADP ribose chains, hydrolyse them or form branches; over 800 proteins have been annotated to contain the loosely defined poly ADP-ribose binding motif; therefore, in addition to this modification altering target protein conformation and structure, it may also be used as a tag to recruit other proteins or for regulation of the target protein.",
+            "score": 129.50856018066406
+        },
+        {
+            "docid": "14088822_2",
+            "document": "PARP1 . Poly [ADP-ribose] polymerase 1 (PARP-1) also known as NAD ADP-ribosyltransferase 1 or poly[ADP-ribose] synthase 1 is an enzyme that in humans is encoded by the \"PARP1\" gene. It is one of the PARP family of enzymes.",
+            "score": 128.02822875976562
+        },
+        {
+            "docid": "1959815_16",
+            "document": "Poly (ADP-ribose) polymerase . PARP-mediated post-translational modification of proteins such as CTCF can affect the amount of DNA methylation at CpG dinucleotides. This regulates the insulator features of CTCF can differentially mark the copy of DNA inherited from either the maternal or the paternal DNA through the process known as genomic imprinting. PARP has also been proposed to affect the amount of DNA methylation by directly binding to the DNA methyltransferase DNMT-1 after attaching poly ADP-ribose chains to itself after interaction with CTCF and affecting DNMT1's enzymatic activity .",
+            "score": 127.25960540771484
+        },
+        {
+            "docid": "15348899_7",
+            "document": "Sirtuin 6 . As normal human fibroblasts replicate and progress towards replicative senescence the capability to undergo homologous recombinational repair (HRR) declines. However, over-expression of SIRT6 in \u201cmiddle-aged\u201d and pre-senescent cells strongly stimulates HRR. This effect depends on the mono-ADP ribosylation activity of poly(ADP-ribose) polymerase (PARP1). SIRT6 also rescues the decline in base excision repair of aged human fibroblasts in a PARP1 dependent manner. These findings suggest that SIRT6 expression may slow the aging process by facilitating DNA repair (see DNA damage theory of aging).",
+            "score": 127.24237823486328
+        },
+        {
+            "docid": "32114911_4",
+            "document": "Macro domain . ADP-ribosylation of proteins is an important post-translational modification that occurs in a variety of biological processes, including DNA repair, regulation of transcription, chromatin biology, maintenance of genomic stability, telomere dynamics, cell differentiation and proliferation, necrosis and apoptosis, and long-term memory formation. The Macro domain recognises the ADP-ribose nucleotide and in some cases poly-ADP-ribose, and is thus a high-affinity ADP-ribose-binding module found in a number of otherwise unrelated proteins. ADP-ribosylation of DNA is relatively uncommon and has only been described for a small number of toxins that include pierisin, scabin and DarT. The Macro domain from the antitoxin DarG of the toxin-antitoxin system DarTG, both binds and removes the ADP-ribose modification added to DNA by the toxin DarT. The Macro domain from human, macroH2A1.1, binds an NAD metabolite O-acetyl-ADP-ribose.",
+            "score": 125.78337097167969
+        },
+        {
+            "docid": "195007_26",
+            "document": "Centenarian . Lymphoblastoid cell lines established from blood samples of centenarians have significantly higher activity of the DNA repair protein PARP (Poly ADP ribose polymerase) than cell lines from younger (20 to 70 years old) individuals. The lymphocytic cells of centenarians have characteristics typical of cells from young people, both in their capability of priming the mechanism of repair after HO sublethal oxidative DNA damage and in their PARP capacity. PARP activity measured in the permeabilized mononuclear leukocyte blood cells of thirteen mammalian species correlated with maximum lifespan of the species. These findings suggest that PARP mediated DNA repair activity contributes to the longevity of centenarians, consistent with the DNA damage theory of aging.",
+            "score": 124.7101058959961
+        },
+        {
+            "docid": "14772180_8",
+            "document": "TEAD1 . TEAD proteins require cofactors to induce the transcription of target genes. TEAD1 interacts with all members of the SRC family of steroid receptor coactivators. In HeLa cells TEAD1 and SRC induce gene expression, TEAD1 interacts with PARP (Poly-ADP ribose polymerase) to regulate smooth muscle \u03b1-actin expression. PARP can also ADP-ribosylate the TEAD proteins and make the chromatin context favorable to transcription through histone modification, SRF (Serum response factor) and TEAD1 together regulate gene expression.",
+            "score": 123.59380340576172
+        },
+        {
+            "docid": "48712402_7",
+            "document": "Parthanatos . Poly(ADP-ribose) polymerase-1 (PARP-1) is a nuclear enzyme that is found universally in all eukaryotes and is encoded by the PARP-1 gene. It belongs to the PARP family, which is a group of catalysts that transfer ADP-ribose units from NAD (nicotinamide dinucleotide) to protein targets, thus creating branched or linear polymers. The major domains of PARP-1 impart the ability to fulfill its functions. These protein sections include the DNA-binding domain on the N-terminus (allows PARP-1 to detect DNA breaks), the automodification domain (has a BRCA1 C terminus motif which is key for protein-protein interactions), and a catalytic site with the NAD+-fold (characteristic of mono-ADP ribosylating toxins).",
+            "score": 122.39326477050781
+        },
+        {
+            "docid": "1959815_2",
+            "document": "Poly (ADP-ribose) polymerase . Poly (ADP-ribose) polymerase (PARP) is a family of proteins involved in a number of cellular processes such as DNA repair, genomic stability, and programmed cell death.",
+            "score": 122.05793762207031
+        },
+        {
+            "docid": "13222629_5",
+            "document": "ADP-ribosylation . It was initially thought that ADP-ribosylation was a post translational modification involved solely in gene regulation. However, as more enzymes with the ability to ADP-ribosylate proteins were discovered, the multifunctional nature of ADP-ribosylation became apparent. The first mammalian enzyme with poly-ADP-ribose transferase activity was discovered during the late 1980s. For the next 15 years, it was thought to be the only enzyme capable of adding a chain of ADP-ribose in mammalian cells. During the late 1980s, ADP-ribosyl cyclases, which catalyze the addition of cyclic-ADP-ribose groups to proteins, were discovered. Finally, sirtuins, a family of enzymes that also possess NAD+-dependent deacylation activity, were discovered to also possess mono-ADP-ribosyl transferase activity.",
+            "score": 120.96245574951172
+        },
+        {
+            "docid": "1959815_17",
+            "document": "Poly (ADP-ribose) polymerase . PARP is inactivated by caspase cleavage. It is believed that normal inactivation occurs in systems where DNA damage is extensive. In these cases, more energy would be invested in repairing damage than is feasible, so that energy is instead retrieved for other cells in the tissue through programmed cell death. Besides degradation, there is recent evidence about reversible downregulation mechanisms for PARP, among these an \"autoregulatory loop\", which is driven by PARP1 itself and modulated by the YY1 transcription factor.",
+            "score": 120.93682861328125
+        },
+        {
+            "docid": "196206_11",
+            "document": "Longevity . Lymphoblastoid cell lines established from blood samples of centenarians have significantly higher activity of the DNA repair protein PARP (Poly ADP ribose polymerase) than cell lines from younger (20 to 70 year old) individuals. The lymphocytic cells of centenarians have characteristics typical of cells from young people, both in their capability of priming the mechanism of repair after HO sublethal oxidative DNA damage and in their PARP gene expression. These findings suggest that elevated PARP gene expression contributes to the longevity of centenarians, consistent with the DNA damage theory of aging.",
+            "score": 120.4358901977539
+        },
+        {
+            "docid": "17062920_33",
+            "document": "DNA damage theory of aging . Lymphoblastoid cell lines established from blood samples of humans who lived past 100 years (centenarians) have significantly higher activity of the DNA repair protein Poly (ADP-ribose) polymerase (PARP) than cell lines from younger individuals (20 to 70 years old). The lymphocytic cells of centenarians have characteristics typical of cells from young people, both in their capability of priming the mechanism of repair after HO sublethal oxidative DNA damage and in their PARP capacity.",
+            "score": 119.77734375
+        },
+        {
+            "docid": "1959815_15",
+            "document": "Poly (ADP-ribose) polymerase . PARP can be activated in cells experiencing stress and/or DNA damage. Activated PARP can deplete the ATP of a cell in an attempt to repair the damaged DNA. ATP depletion in a cell leads to lysis and cell death (necrosis). PARP also has the ability to induce programmed cell death, via the production of PAR, which stimulates mitochondria to release AIF. This mechanism appears to be caspase-independent. Cleavage of Parp, by enzymes such as caspases or cathepsins, typically inactivates Parp. The size of the cleavage fragments can give insight into which enzyme was responsible for the cleavage, and can be useful in determining which cell death pathway has been activated.",
+            "score": 118.86557006835938
+        },
+        {
+            "docid": "14088822_14",
+            "document": "PARP1 . PARP1 appears to be resveratrol's primary functional target through its interaction with the tyrosyl tRNA synthetase (TyrRS). Tyrosyl tRNA synthetase translocates to the nucleus under stress conditions stimulating NAD-dependent auto-poly-ADP-ribosylation of PARP1, thereby altering the functions of PARP1 from a chromatin architectural protein to a DNA damage responder and transcription regulator.",
+            "score": 117.81658935546875
+        }
+    ]
+}

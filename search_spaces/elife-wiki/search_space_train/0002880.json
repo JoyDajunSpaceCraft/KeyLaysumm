@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "285534_15",
+            "document": "Supercooling . In order to survive extreme low temperatures in certain environments, some animals use the phenomenon of supercooling that allow them to remain unfrozen and avoid cell damage and death. There are many techniques that aid in maintaining a liquid state, such as the production of antifreeze proteins, or AFPs, which bind to ice crystals to prevent water molecules from binding and spreading the growth of ice. The winter flounder is one such fish that utilizes these proteins to survive in its frigid environment. Noncolligative proteins are secreted by the liver into the bloodstream. Other animals use colligative antifreezes, which increases the concentration of solutes in their bodily fluids, thus lowering their freezing point. Fish that rely on supercooling for survival must also live well below the water surface, because if they came into contact with ice nuclei they would freeze immediately. Animals that undergo supercooling to survive must also remove ice-nucleating agents from their bodies because they act as a starting point for freezing. Supercooling is also common in insects, reptiles, and other ectotherms, with insects being able to survive in the coldest environments out of any supercooling animals.",
+            "score": 302.9728786945343
+        },
+        {
+            "docid": "423387_24",
+            "document": "Antifreeze protein . Normally, ice crystals grown in solution only exhibit the basal (0001) and prism faces (1010), and appear as round and flat discs. However, it appears the presence of AFPs exposes other faces. It now appears the ice surface 2021 is the preferred binding surface, at least for AFP type I. Through studies on type I AFP, ice and AFP were initially thought to interact through hydrogen bonding (Raymond and DeVries, 1977). However, when parts of the protein thought to facilitate this hydrogen bonding were mutated, the hypothesized decrease in antifreeze activity was not observed. Recent data suggest hydrophobic interactions could be the main contributor. It is difficult to discern the exact mechanism of binding because of the complex water-ice interface. Currently, attempts to uncover the precise mechanism are being made through use of molecular modelling programs (molecular dynamics or the Monte Carlo method).",
+            "score": 258.3990914821625
+        },
+        {
+            "docid": "423387_2",
+            "document": "Antifreeze protein . Antifreeze proteins (AFPs) or ice structuring proteins (ISPs) refer to a class of polypeptides produced by certain vertebrates, plants, fungi and bacteria that permit their survival in subzero environments. AFPs bind to small ice crystals to inhibit growth and recrystallization of ice that would otherwise be fatal. There is also increasing evidence that AFPs interact with mammalian cell membranes to protect them from cold damage. This work suggests the involvement of AFPs in cold acclimatization.",
+            "score": 264.27999234199524
+        },
+        {
+            "docid": "5177332_4",
+            "document": "Beta helix . Both pectate lyase and P22 tailspike protein contain right-handed helices; left-handed versions have been observed in enzymes such as UDP-N-acetylglucosamine acyltransferase and archaeal carbonic anhydrase. Other proteins that contain beta helices include the antifreeze proteins from the beetle \"Tenebrio molitor\" (right-handed) and from the spruce budworm, \"Choristoneura fumiferana\" (left-handed), where regularly spaced threonines on the \u03b2-helices bind to the surface of ice crystals and inhibit their growth.",
+            "score": 243.00631380081177
+        },
+        {
+            "docid": "38050156_7",
+            "document": "RiAFP . The primary structure of RiAFP (the sequence may be found here) determined by Mass Spectroscopy, Edman degradation and by constructing a partial cDNA sequence and PCR have shown that a TxTxTxT internal repeat exists . Sequence logos constructed from the RiAFP internal repeats, have been particularly helpful in the determination of the consensus sequence of these repeats. The TxTxTxT domains are irregularly spaced within the protein and have been shown to be conserved from the TxT binding motif of other AFPs. The hydroxyl moiety of the T residues fits well, when spaced as they are in the internal repeats, with the hydroxyl moieties of externally facing water molecules in the forming ice lattice. This mimics the formation of the growth cone at a nucleation site in the absence of AFPs. Thus, the binding of RiAFP inhibits the growth of the crystal in the basal and prism planes of the ice.",
+            "score": 160.04122042655945
+        },
+        {
+            "docid": "423387_4",
+            "document": "Antifreeze protein . AFPs create a difference between the melting point and freezing point known as thermal hysteresis. The addition of AFPs at the interface between solid ice and liquid water inhibits the thermodynamically favored growth of the ice crystal. Ice growth is kinetically inhibited by the AFPs covering the water-accessible surfaces of ice.",
+            "score": 243.68473434448242
+        },
+        {
+            "docid": "423387_15",
+            "document": "Antifreeze protein . Type III AFPs are found in Antarctic eelpout. They exhibit similar overall hydrophobicity at ice binding surfaces to type I AFPs. They are approximately 6kD in size. Type III AFPs likely evolved from a sialic acid synthase gene present in Antarctic eelpout. Through a gene duplication event, this gene\u2014which has been shown to exhibit some ice-binding activity of its own\u2014evolved into an effective AFP gene.",
+            "score": 192.88535332679749
+        },
+        {
+            "docid": "423387_25",
+            "document": "Antifreeze protein . According to the structure and function study on the antifreeze protein from \"Pseudopleuronectes americanus\", the antifreeze mechanism of the type-I AFP molecule was shown to be due to the binding to an ice nucleation structure in a zipper-like fashion through hydrogen bonding of the hydroxyl groups of its four Thr residues to the oxygens along the formula_1 direction in ice lattice, subsequently stopping or retarding the growth of ice pyramidal planes so as to depress the freeze point.",
+            "score": 256.7100455760956
+        },
+        {
+            "docid": "11043051_13",
+            "document": "Insect winter ecology . Though not all freeze-avoidant insects produce polyols, all hibernating insects produce thermal hysteresis factors (THFs). For example, the haemolymph of the mealworm beetle \"Tenebrio molitor\" contains a family of such proteins. A seasonal photoperiodic timing mechanism is responsible for increasing the antifreeze protein levels with concentrations reaching their highest in the winter. In the pyrochroid beetle, \"Dendroides canadensis\", a short photoperiod of 8 hours light and 16 hours of darkness, results in the highest levels of THFs, which corresponds with the shortening of daylight hours associated with winter. These antifreeze proteins are thought to stabilize SCPs by binding directly to the surface structures of the ice crystals themselves, diminishing crystal size and growth. Therefore, instead of acting to change the biochemistry of the bodily fluids as seen with cryoprotectants, THFs act directly with the ice crystals by adsorbing to the developing crystals to inhibit their growth and reduce the chance of lethal freezing occurring.",
+            "score": 259.597083568573
+        },
+        {
+            "docid": "42934_3",
+            "document": "Cryostasis (clathrate hydrates) . Living tissues cooled below the freezing point of water are damaged by the dehydration of the cells as ice is formed between the cells. The mechanism of freezing damage in living biological tissues has been elucidated by Renfret (1968) (Renfret A.P. Cryobiology: some fundamentals in surgical context. In: Cryosurgery. Rand R.W., Rinfret A.P., von Lode H., Eds. Springfield, IL: Charles C. Thomas, 1968) and by Mazur (1984): ice formation begins in the intercellular spaces. The vapor pressure of the ice is lower than the vapor pressure of the solute water in the surrounding cells and as heat is removed at the freezing point of the solutions, the ice crystals grow between the cells, extracting water from them. As the ice crystals grow, the volume of the cells shrinks, and the cells are crushed between the ice crystals. Additionally, as the cells shrink, the solutes inside the cells are concentrated in the remaining water, increasing the intracellular ionic strength and interfering with the organization of the proteins and other organized intercellular structures. Eventually, the solute concentration inside the cells reaches the eutectic and freezes. The final state of frozen tissues is pure ice in the former extracellular spaces, and inside the cell membranes a mixture of concentrated cellular components in ice and bound water. In general, this process is not reversible to the point of restoring the tissues to life.",
+            "score": 170.40508592128754
+        },
+        {
+            "docid": "55941384_5",
+            "document": "Cucujus clavipes . The cold temperature in the temperate and polar USA and Canada makes survival challenging for an organism like \"C. clavipes\". These beetles have had evolved physiological adaptations to persist. Many studies of insects and some invertebrates have indicated a correlation between dehydration and the organism\u2019s ability to prevent freezing. \"C. clavipes\" has evolved to have this ability of going through extreme dehydration, producing anti-freeze proteins (AFPs) and anti-freeze glycolipids (AFGL), entering into a diapause, producing a multimolar concentration glycerundol, and purging the gut in order to remove potential ice nucleators. Absence of freezing indicates that their AFPs can inhibit ice nucleators to vary in low temperatures and may inhibit homogenous nucleation resulting in vitrification. Another study reported that if temperatures were held constant, then \"C. clavipes\" individuals with the highest water content had the highest probability of freezing, and individuals with the lowest water content had the lowest probability of freezing.  AFPs decrease the temperature at which an ice crystal grows, defined as the hysteretic freezing point, by an average of 2\u20135\u00a0\u00b0C below the melting point in insects, which can be as much as 13\u00a0\u00b0C in \"C. clavipes\" in winter when the insect is dehydrated and the AFPs concentrated. The Alpha S1 and S2 caesin precursor proteins are thought to have roles in the inhibition of formation of ice nucleators in \"C. clavipes\". The beetle can also be freeze tolerant during a given year based on previous determinations of freeze tolerance in former years and that a strong correlation exists between its supercooling point (SCP) and the lower lethal temperature.",
+            "score": 192.33356165885925
+        },
+        {
+            "docid": "2065110_5",
+            "document": "Ice algae . To survive in the harsh sea ice environment, organisms must be able to endure extreme variations in salinity, temperature, and solar radiation. Algae living in brine channels can secrete osmolytes, such as dimethylsulfoniopropionate (DMSP), which allows them to survive the high salinities in the channels after ice formation in the winter, as well as low salinities when the relatively fresh meltwater flushes the channels in the spring and summer. Some sea ice algae species secrete ice-binding proteins (IBP) as a gelatinous extracellular polymeric substance (EPS) to protect cell membranes from damage from ice crystal growth and freeze thaw cycles. EPS alters the microstructure of the ice and creates further habitat for future blooms. Surface-dwelling algae produce special pigments to prevent damage from harsh ultraviolet radiation. Higher concentrations of xanthophyll pigments act as a sunscreen that protects ice algae from photodamage when they are exposed to damaging levels of ultraviolet radiation upon transition from ice to the water column during the spring. Algae under thick ice have been reported to show some of the most extreme low light adaptations ever observed. Extreme efficiency in light utilization allows sea ice algae to build up biomass rapidly when light conditions improve at the onset of spring.",
+            "score": 166.06660175323486
+        },
+        {
+            "docid": "1158875_3",
+            "document": "Protein skimmer . Protein skimming removes certain organic compounds, including proteins and amino acids found in food particles, by using the polarity of the protein itself. Due to their intrinsic charge, water-borne proteins are either repelled or attracted by the air/water interface and these molecules can be described as hydrophobic (such as fats or oils) or hydrophilic (such as salt, sugar, ammonia, most amino acids, and most inorganic compounds). However, some larger organic molecules can have both hydrophobic and hydrophilic portions. These molecules are called amphipathic or amphiphilic. Commercial protein skimmers work by generating a large air/water interface, specifically by injecting large numbers of bubbles into the water column. In general, the smaller the bubbles the more effective the protein skimming is because the surface area of small bubbles occupying the same volume is much greater than the same volume of larger bubbles. Large numbers of small bubbles present an enormous air/water interface for hydrophobic organic molecules and amphipathic organic molecules to collect on the bubble surface (the air/water interface). Water movement hastens diffusion of organic molecules, which effectively brings more organic molecules to the air/water interface and lets the organic molecules accumulate on the surface of the air bubbles. This process continues until the interface is saturated, unless the bubble is removed from the water or it bursts, in which case the accumulated molecules release back into the water column. However, it is important to note that further exposure of a saturated air bubble to organic molecules may continue to result in changes as compounds that bind more strongly may replace those molecules with a weaker binding that have already accumulated on the interface. Although some aquarists believe that increasing the contact time (or dwell time as it is sometimes called) is always good, it is incorrect to claim that it is always better to increase the contact time between bubbles and the aquarium water. As the bubbles increase near the top of the protein skimmer water column, they become denser and the water begins to drain and create the foam that will carry the organic molecules to the skimmate collection cup or to a separate skimmate waste collector and the organic molecules, and any inorganic molecules that may have become bound to the organic molecules, will be exported from the water system.",
+            "score": 158.8081660270691
+        },
+        {
+            "docid": "38050156_5",
+            "document": "RiAFP . The aforementioned effect of AFPs on ice crystal nucleation is lost at the thermal hysteresis point. At a certain low temperature, the maximum convexity of the ice nucleation site is reached. Any further cooling will actually result in a \"spreading\" of the nucleation site away from this convex region, causing rapid, uncontrollable nucleation of the ice crystal. The temperature at which this phenomenon occurs is the thermal hysteresis point.<br> The \"adsorption-inhibition hypothesis\" is further supported by the observation that antifreeze activity increases with increasing AFP concentration \u2013 the more AFPs adsorb onto the forming ice crystal, the more 'crowded' these proteins become, making ice crystal nucleation less favourable.",
+            "score": 207.3520176410675
+        },
+        {
+            "docid": "27383541_6",
+            "document": "2-Methyl-2,4-pentanediol . In the laboratory it is a common precipitant and cryoprotectant in protein crystallography. Since hexylene glycol is compatible with polar and nonpolar molecules, it competes with the solvent in a crystallography experiment causing the protein to precipitate. Hexylene glycol is so effective in protein crystallography because its amphiphilic nature and small, flexible structure allows it to bind to many different locations on a protein secondary structure including alpha helices and beta sheets. When hexylene glycol binds to these different locations, water is removed and the protein crystals anneal, which prevents ice formation during cryocrystallography techniques. Incorporation of hexylene glycol into solution has been known to improve the resolution of X-ray diffraction making protein structures easily identifiable. Additionally hexylene glycol is not a strong denaturing agent and thus does not significantly alter the structure of a protein during the crystallography procedure.",
+            "score": 177.92155981063843
+        },
+        {
+            "docid": "423387_36",
+            "document": "Antifreeze protein . A 2010 study demonstrated the stability of superheated water ice crystals in an AFP solution, showing while the proteins can inhibit freezing, they can also inhibit melting.",
+            "score": 237.61156249046326
+        },
+        {
+            "docid": "36065243_19",
+            "document": "Surface chemistry of cooking . The value of each individual interaction may be small but when there are millions of interactions the overall force can be noticeable. The presence of water reduces the force of these attractions in three ways. The water puts physical distance between the oil or pan and the proteins on the surface of the meat. This increases the formula_2 value in the equation. Water also has a high permittivity value (formula_3). Both of these increase the value of the denominator and reduce the value of the force that is possible. Water is also a polar molecule which means, in certain cases, it can bind to the denatured proteins. Water binding to the proteins on the surface of the meat has no effect on how the meat cooks.",
+            "score": 145.73126101493835
+        },
+        {
+            "docid": "49980572_8",
+            "document": "Antarctic fishes . Antarctic notothenioids are able to survive the freezing temperatures of -1.86\u00a0\u00b0C with the use of antifreeze glycoproteins. Antifreeze glycoproteins bind to ice that enters the body through ingestion of food, water and from their environment to prevent the organism freezing internally. AFGPs evolved from pancreatic trypsinogen gene for survival as Antarctic waters began to cool. They consist of repeating amino acids alanine-alanine-threonine to effectively bind to ice molecules and render them as non-threatening to survival.",
+            "score": 207.52048802375793
+        },
+        {
+            "docid": "1128738_4",
+            "document": "Ice sculpture . Sculpting ice presents a number of difficulties due to the variability and volatility of the material. Ice may be sculpted in a wide range of temperatures and the characteristics of the ice will change according to its temperature as well as the surrounding temperatures. Sculptures are generally carved from blocks of ice and these blocks must be carefully selected to be suitable for the sculptor's purposes and should be free of undesired impurities. Typically, ideal carving ice is made from pure, clean water. However, clear, transparent ice is a result of the freezing process and not necessarily related to the purity of the water. Clouded ice is often the result of finely trapped air molecules that tend to bind to the impurities while naturally freezing. Mechanically clear ice is usually made as the result of controlling the freezing process by the circulation of the water in the freezing chamber. This process hopes to eliminate any trapped air from binding to the impurities in the freezing process. Certain machines and processes allow for slow freezing and the removal of impurities and therefore are able to produce the clear blocks of ice that are favored by ice carvers. However, not all blocks that are carved are clear ice. White ice blocks look like snow and are sometimes carved. Colored ice blocks are produced by adding dyes to the ice and can be carved as well. In some instances, clear ice and colored ice are combined to create a desired effect.",
+            "score": 130.01008129119873
+        },
+        {
+            "docid": "423387_9",
+            "document": "Antifreeze protein . Freeze tolerant: These species are able to survive body fluid freezing. Some freeze tolerant species are thought to use AFPs as cryoprotectants to prevent the damage of freezing, but not freezing altogether. The exact mechanism is still unknown. However, it is thought AFPs may inhibit recrystallization and stabilize cell membranes to prevent damage by ice. They may work in conjunction with protein ice nucleators (PINs) to control the rate of ice propagation following freezing.",
+            "score": 216.2918610572815
+        },
+        {
+            "docid": "14327878_4",
+            "document": "Ocean pout . In June 2006, the Unilever company announced that it would research the potential use of genetically modified yeast to grow antifreeze proteins based on a gene from the ocean pout, and use proteins extracted from the yeast to improve the consistency and storage properties of ice cream. Incorporating these ice-structuring proteins means that a lower cream content, and thus a lower calorie content, ice cream can be manufactured without the risk of ice crystal formation.",
+            "score": 213.60545086860657
+        },
+        {
+            "docid": "198824_10",
+            "document": "Freezing . Many living organisms are able to tolerate prolonged periods of time at temperatures below the freezing point of water. Most living organisms accumulate cryoprotectants such as anti-nucleating proteins, polyols, and glucose to protect themselves against frost damage by sharp ice crystals. Most plants, in particular, can safely reach temperatures of \u22124\u00a0\u00b0C to \u221212\u00a0\u00b0C. Certain bacteria, notably \"Pseudomonas syringae\", produce specialized proteins that serve as potent ice nucleators, which they use to force ice formation on the surface of various fruits and plants at about \u22122\u00a0\u00b0C. The freezing causes injuries in the epithelia and makes the nutrients in the underlying plant tissues available to the bacteria.",
+            "score": 178.244567155838
+        },
+        {
+            "docid": "48212_27",
+            "document": "Ice cream . Ice cream is a colloidal emulsion having dispersed phase as fat globules. It is an emulsion which is in the end made into foam by incorporating air cells which is frozen to form dispersed ice cells. In the composition of ice cream ice crystals are of most importance as they give a desirable mouth feel. Ice cream is composed of water, ice, milk fat, milk protein, sugar and air. Water and fat have highest proportions by weight creating an emulsion. The triacylglycerols in fat are non polar and will adhere to itself by van der Waals interactions. Water is polar thus, emulsifiers are needed for dispersion of fat. Also ice cream has a colloidal phase of foam which helps in light texture. Milk proteins such as casein and whey protein present in ice cream are amphiphilic, can adsorb water and form micelles which will contribute to consistency. Sucrose which is disaccharide is usually used as a sweetening agent. Lactose which is sugar present in milk will cause freezing point depression. Thus, on freezing some water will be unfrozen and will not give hard texture.",
+            "score": 190.57277023792267
+        },
+        {
+            "docid": "29049566_2",
+            "document": "Bacterial ice-nucleation proteins . Bacterial ice-nucleation proteins is a family of proteins that enable Gram-negative bacteria to promote nucleation of ice at relatively high temperatures (above -5C). These proteins are localised at the outer membrane surface and can cause frost damage to many plants. The primary structure of the proteins contains a highly repetitive domain that dominates the sequence. The domain comprises a number of 48-residue repeats, which themselves contain 3 blocks of 16 residues, the first 8 of which are identical. It is thought that the repetitive domain may be responsible for aligning water molecules in the seed crystal.",
+            "score": 196.53047108650208
+        },
+        {
+            "docid": "13205506_6",
+            "document": "Grease ice . Sea ice growth in turbulent water differs from sea ice growth in calm water. In turbulent water, the ice crystals accumulate at the surface, forming a grease-ice layer composed of individual ice crystals and small irregular clumps of ice crystals. In calm water conditions, nilas, a thick elastic crust, forms at the surface, which thickens as water molecules freeze to the ice-water interface.",
+            "score": 163.76877331733704
+        },
+        {
+            "docid": "413102_20",
+            "document": "Folding@home . Following detailed simulations from Folding@home of small cells known as vesicles, in 2007, the Pande lab introduced a new computing method to measure the topology of its structural changes during fusion. In 2009, researchers used Folding@home to study mutations of influenza hemagglutinin, a protein that attaches a virus to its host cell and assists with viral entry. Mutations to hemagglutinin affect how well the protein binds to a host's cell surface receptor molecules, which determines how infective the virus strain is to the host organism. Knowledge of the effects of hemagglutinin mutations assists in the development of antiviral drugs. As of 2012, Folding@home continues to simulate the folding and interactions of hemagglutinin, complementing experimental studies at the University of Virginia.",
+            "score": 144.5887575149536
+        },
+        {
+            "docid": "690861_11",
+            "document": "Flash freezing . The surface environment does not play a decisive role in the formation of ice and snow. The density fluctuations inside drops result in that the possible freezing regions cover the middle and the surface regions. The freezing from the surface or from within may be random. However, in the strange world of water, tiny amounts of liquid water theoretically still are present, even as temperatures go below minus 48 C (minus 55 F) and almost all the water has turned solid, either into crystalline ice or amorphous water. Below minus 48 C (minus 55 F), ice is crystallizing too fast for any property of the remaining liquid to be measured.The freezing speed directly influences the nucleation process and ice crystal size. A supercooled liquid will stay in a liquid state below the normal freezing point when it has little opportunity for nucleation; that is, if it is pure enough and has a smooth enough container. Once agitated it will rapidly become a solid. During the final stage of freezing, an ice drop develops a pointy tip, which is not observed for most other liquids, arises because water expands as it freezes. Once the liquid is completely frozen, the sharp tip of the drop attracts water vapor in the air, much like a sharp metal lightning rod attracts electrical charges. The water vapor collects on the tip and a tree of small ice crystals starts to grow. An opposite effect has been shown to preferentially extract water molecules from the sharp edge of potato wedges in the oven.",
+            "score": 158.1687968969345
+        },
+        {
+            "docid": "208265_32",
+            "document": "Rideau Canal . Two types of ice can form on the Rideau Canal Skateway, which are \u201cwhite ice\u201d and \u201cclear ice\u201d. White ice has a milky appearance with air bubbles, and is formed when snow and water mix and then freeze. White ice can also be formed by mechanically flooding the ice surface with water to increase the thickness of the ice cap. The other type of ice is called \u201cclear ice\u201d, which has a colourless appearance and is formed when ice crystals build up below the frozen surface in cold temperatures. If snow accumulates on the ice it can negatively impact the conditions for skating. Snow depresses the ice surface and slows down the formation of ice crystals beneath the surface.",
+            "score": 152.43739438056946
+        },
+        {
+            "docid": "36922522_10",
+            "document": "Ice segregation . A key phenomenon for understanding ice segregation in soil or porous rock (also referred to as an ice lens due to its shape) is premelting, which is the development of a liquid film on surfaces and interfaces at temperatures significantly below their bulk melting temperature. The term premelting is used to describe the reduction in the melting temperature (below 0\u00a0\u00b0C) which results from the surface curvature of porous media confining water (the Gibbs-Thomson effect). Premelted water exists as a thin layer on the surface of ice. Under premelting conditions, ice and water can coexist at temperatures below -10\u00a0\u00b0C in a porous medium. The Gibbs-Thomson effect results in water migrating down a thermal gradient (from higher temperatures to lower temperatures); Dash states, \u201c\u2026material is carried to colder regions\u2026\u201d This can also be viewed energetically as favoring larger ice particles over smaller (Ostwald ripening). As a result, when conditions exist for ice segregation (ice lens formation) water flows toward the segregated ice and freezes on the surface, thickening the segregated ice layer.",
+            "score": 135.41870713233948
+        },
+        {
+            "docid": "25340494_10",
+            "document": "Ice lens . A key phenomenon for understanding ice segregation in soil or porous rock (also referred to as an ice lens due to its shape) is premelting, which is the development of a liquid film on surfaces and interfaces at temperatures significantly below their bulk melting temperature. The term premelting is used to describe the reduction in the melting temperature (below 0\u00a0\u00b0C) which results from the surface curvature of water that's confined in a porous medium (the Gibbs-Thomson effect). Premelted water exists as a thin layer on the surface of ice. Under premelting conditions, ice and water can coexist at temperatures below -10\u00a0\u00b0C in a porous medium. The Gibbs-Thomson effect results in water migrating down a thermal gradient (from higher temperatures to lower temperatures); Dash states, \u201c\u2026material is carried to colder regions\u2026\u201d This can also be viewed energetically as favoring larger ice particles over smaller (Ostwald ripening). As a result, when conditions exist for ice segregation (ice lens formation) water flows toward the segregated ice and freezes on the surface, thickening the segregated ice layer.",
+            "score": 135.41870713233948
+        },
+        {
+            "docid": "343225_16",
+            "document": "Sea ice . In calm water, the first sea ice to form on the surface is a skim of separate crystals which initially are in the form of tiny discs, floating flat on the surface and of diameter less than . Each disc has its c-axis vertical and grows outwards laterally. At a certain point such a disc shape becomes unstable, and the growing isolated crystals take on a hexagonal, stellar form, with long fragile arms stretching out over the surface. These crystals also have their c-axis vertical. The dendritic arms are very fragile, and soon break off, leaving a mixture of discs and arm fragments. With any kind of turbulence in the water, these fragments break up further into random-shaped small crystals which form a suspension of increasing density in the surface water, an ice type called frazil or grease ice. In quiet conditions the frazil crystals soon freeze together to form a continuous thin sheet of young ice; in its early stages, when it is still transparent \u2014 that is the ice called \"nilas\". Once nilas has formed, a quite different growth process occurs, in which water freezes on to the bottom of the existing ice sheet, a process called \"congelation\" growth. This growth process yields first-year ice.",
+            "score": 159.60089004039764
+        },
+        {
+            "docid": "11011552_4",
+            "document": "Cellular communication (biology) . Reception occurs when the target cell (any cell with a receptor protein specific to the signal molecule) detects a signal, usually in the form of a small, water-soluble molecule, via binding to a receptor protein. Reception is the target cell's detection of a signal via binding of a signaling molecule, or ligand. Receptor proteins span the cell\u2019s plasma membrane and provide specific sites for water-soluble signaling molecules to bind to. These trans-membrane receptors are able to transmit information from outside the cell to the inside because they change conformation when a specific ligand binds to it. By looking at three major types of receptors, (G protein coupled receptors, receptor tyrosine kinases, and ion channel receptors) scientists are able to see how trans-membrane receptors contribute to the complexity of cells and the work that these cells do. Cell surface receptors play an essential role in the biological systems of single- and multi-cellular organisms and malfunction or damage to these proteins is associated with cancer, heart disease, and asthma.",
+            "score": 150.57008576393127
+        }
+    ],
+    "r": [
+        {
+            "docid": "285534_15",
+            "document": "Supercooling . In order to survive extreme low temperatures in certain environments, some animals use the phenomenon of supercooling that allow them to remain unfrozen and avoid cell damage and death. There are many techniques that aid in maintaining a liquid state, such as the production of antifreeze proteins, or AFPs, which bind to ice crystals to prevent water molecules from binding and spreading the growth of ice. The winter flounder is one such fish that utilizes these proteins to survive in its frigid environment. Noncolligative proteins are secreted by the liver into the bloodstream. Other animals use colligative antifreezes, which increases the concentration of solutes in their bodily fluids, thus lowering their freezing point. Fish that rely on supercooling for survival must also live well below the water surface, because if they came into contact with ice nuclei they would freeze immediately. Animals that undergo supercooling to survive must also remove ice-nucleating agents from their bodies because they act as a starting point for freezing. Supercooling is also common in insects, reptiles, and other ectotherms, with insects being able to survive in the coldest environments out of any supercooling animals.",
+            "score": 302.9728698730469
+        },
+        {
+            "docid": "423387_2",
+            "document": "Antifreeze protein . Antifreeze proteins (AFPs) or ice structuring proteins (ISPs) refer to a class of polypeptides produced by certain vertebrates, plants, fungi and bacteria that permit their survival in subzero environments. AFPs bind to small ice crystals to inhibit growth and recrystallization of ice that would otherwise be fatal. There is also increasing evidence that AFPs interact with mammalian cell membranes to protect them from cold damage. This work suggests the involvement of AFPs in cold acclimatization.",
+            "score": 264.2799987792969
+        },
+        {
+            "docid": "11043051_13",
+            "document": "Insect winter ecology . Though not all freeze-avoidant insects produce polyols, all hibernating insects produce thermal hysteresis factors (THFs). For example, the haemolymph of the mealworm beetle \"Tenebrio molitor\" contains a family of such proteins. A seasonal photoperiodic timing mechanism is responsible for increasing the antifreeze protein levels with concentrations reaching their highest in the winter. In the pyrochroid beetle, \"Dendroides canadensis\", a short photoperiod of 8 hours light and 16 hours of darkness, results in the highest levels of THFs, which corresponds with the shortening of daylight hours associated with winter. These antifreeze proteins are thought to stabilize SCPs by binding directly to the surface structures of the ice crystals themselves, diminishing crystal size and growth. Therefore, instead of acting to change the biochemistry of the bodily fluids as seen with cryoprotectants, THFs act directly with the ice crystals by adsorbing to the developing crystals to inhibit their growth and reduce the chance of lethal freezing occurring.",
+            "score": 259.5970764160156
+        },
+        {
+            "docid": "423387_24",
+            "document": "Antifreeze protein . Normally, ice crystals grown in solution only exhibit the basal (0001) and prism faces (1010), and appear as round and flat discs. However, it appears the presence of AFPs exposes other faces. It now appears the ice surface 2021 is the preferred binding surface, at least for AFP type I. Through studies on type I AFP, ice and AFP were initially thought to interact through hydrogen bonding (Raymond and DeVries, 1977). However, when parts of the protein thought to facilitate this hydrogen bonding were mutated, the hypothesized decrease in antifreeze activity was not observed. Recent data suggest hydrophobic interactions could be the main contributor. It is difficult to discern the exact mechanism of binding because of the complex water-ice interface. Currently, attempts to uncover the precise mechanism are being made through use of molecular modelling programs (molecular dynamics or the Monte Carlo method).",
+            "score": 258.39910888671875
+        },
+        {
+            "docid": "423387_25",
+            "document": "Antifreeze protein . According to the structure and function study on the antifreeze protein from \"Pseudopleuronectes americanus\", the antifreeze mechanism of the type-I AFP molecule was shown to be due to the binding to an ice nucleation structure in a zipper-like fashion through hydrogen bonding of the hydroxyl groups of its four Thr residues to the oxygens along the formula_1 direction in ice lattice, subsequently stopping or retarding the growth of ice pyramidal planes so as to depress the freeze point.",
+            "score": 256.7100524902344
+        },
+        {
+            "docid": "37930465_43",
+            "document": "Fish physiology . To cope with low temperatures, some fish have developed the ability to remain functional even when the water temperature is below freezing; some use natural antifreeze or antifreeze proteins to resist ice crystal formation in their tissues.",
+            "score": 251.70123291015625
+        },
+        {
+            "docid": "7044_68",
+            "document": "Beetle . All insects are poikilothermic, so the ability of a few beetles to live in extreme environments depends on their resilience to unusually high or low temperatures. The bark beetle \"Pityogenes chalcographus\" can survive whilst overwintering beneath tree bark; the Alaskan beetle \"Cucujus clavipes puniceus\" is able to withstand ; its larvae may survive . At these low temperatures, the formation of ice crystals in internal fluids is the biggest threat to survival to beetles, but this is prevented through the production of antifreeze proteins that stop water molecules from grouping together. The low temperatures experienced by \"Cucujus clavipes\" can be survived through their deliberate dehydration in conjunction with the antifreeze proteins. This concentrates the antifreezes several fold. The hemolymph of the mealworm beetle \"Tenebrio molitor\" contains several antifreeze proteins. The Alaskan beetle \"Upis ceramboides\" can survive \u221260\u00a0\u00b0C: its cryoprotectants are xylomannan, a molecule consisting of a sugar bound to a fatty acid, and the sugar-alcohol, threitol.",
+            "score": 249.4995880126953
+        },
+        {
+            "docid": "423387_4",
+            "document": "Antifreeze protein . AFPs create a difference between the melting point and freezing point known as thermal hysteresis. The addition of AFPs at the interface between solid ice and liquid water inhibits the thermodynamically favored growth of the ice crystal. Ice growth is kinetically inhibited by the AFPs covering the water-accessible surfaces of ice.",
+            "score": 243.6847381591797
+        },
+        {
+            "docid": "423387_5",
+            "document": "Antifreeze protein . Thermal hysteresis is easily measured in the lab with a nanolitre osmometer. Organisms differ in their values of thermal hysteresis. The maximum level of thermal hysteresis shown by fish AFP is approximately -1.5\u00a0\u00b0C (29.3\u00a0\u00b0F). However, insect antifreeze proteins are 10\u201330 times more active than fish proteins. This difference probably reflects the lower temperatures encountered by insects on land. In contrast, aquatic organisms are exposed only to -1 to -2\u00a0\u00b0C below freezing. During the extreme winter months, the spruce budworm resists freezing at temperatures approaching -30\u00a0\u00b0C. The Alaskan beetle \"Upis ceramboides\" can survive in a temperature of -60\u00a0\u00b0C by using antifreeze agents that are not proteins.",
+            "score": 243.33676147460938
+        },
+        {
+            "docid": "5177332_4",
+            "document": "Beta helix . Both pectate lyase and P22 tailspike protein contain right-handed helices; left-handed versions have been observed in enzymes such as UDP-N-acetylglucosamine acyltransferase and archaeal carbonic anhydrase. Other proteins that contain beta helices include the antifreeze proteins from the beetle \"Tenebrio molitor\" (right-handed) and from the spruce budworm, \"Choristoneura fumiferana\" (left-handed), where regularly spaced threonines on the \u03b2-helices bind to the surface of ice crystals and inhibit their growth.",
+            "score": 243.00631713867188
+        },
+        {
+            "docid": "423387_36",
+            "document": "Antifreeze protein . A 2010 study demonstrated the stability of superheated water ice crystals in an AFP solution, showing while the proteins can inhibit freezing, they can also inhibit melting.",
+            "score": 237.611572265625
+        },
+        {
+            "docid": "378661_8",
+            "document": "Thermoregulation . To cope with low temperatures, some fish have developed the ability to remain functional even when the water temperature is below freezing; some use natural antifreeze or antifreeze proteins to resist ice crystal formation in their tissues. Amphibians and reptiles cope with heat loss by evaporative cooling and behavioral adaptations. An example of behavioral adaptation is that of a lizard lying in the sun on a hot rock in order to heat through conduction.",
+            "score": 236.0641632080078
+        },
+        {
+            "docid": "38050156_2",
+            "document": "RiAFP . RiAFP refers to an antifreeze protein (AFP) produced by the \"Rhagium inquisitor\" longhorned beetle. It is a type V antifreeze protein with a molecular weight of 12.8 kDa; this type of AFP is noted for its hyperactivity. \"R. inquisitor\" is a freeze-avoidant species, meaning that, due to its AFP, \"R. inquisitor\" prevents its body fluids from freezing altogether. This contrasts with freeze-tolerant species, whose AFPs simply depress levels of ice crystal formation in low temperatures. Whereas most insect antifreeze proteins contain cysteines at least every sixth residue, as well as varying numbers of 12- or 13-mer repeats of 8.3-12.5kDa, RiAFP is notable for containing only one disulfide bridge. This property of RiAFP makes it particularly attractive for recombinant expression and biotechnological applications.",
+            "score": 233.93858337402344
+        },
+        {
+            "docid": "4246939_6",
+            "document": "Notothenioidei . Notothenioids have evolved a variety of interesting physiological and biochemical adaptations that either permit survival in, or are possible only because of, the generally cold, stable seawater temperatures of the Southern Ocean. Many notothenioid fish are able to survive in the freezing, ice-laden waters of the Southern Ocean because of the presence of an antifreeze glycoprotein in blood and body fluids. Although many of the Antarctic species have antifreeze proteins in their body fluids, not all of them do. Some subpolar species either produce no or very little antifreeze, and antifreeze concentrations in some species are very low in young, larval fish.",
+            "score": 233.27166748046875
+        },
+        {
+            "docid": "423387_28",
+            "document": "Antifreeze protein . Recent attempts have been made to relabel antifreeze proteins as ice structuring proteins to more accurately represent their function and to dispose of any assumed negative relation between AFPs and automotive antifreeze, ethylene glycol. These two things are completely separate entities, and show loose similarity only in their function.",
+            "score": 227.6388397216797
+        },
+        {
+            "docid": "594990_7",
+            "document": "Psychrophile . Antifreeze proteins are also synthesized to keep psychrophiles' internal space liquid, and to protect their DNA when temperatures drop below water's freezing point. By doing so, the protein prevents any ice formation or recrystallization process from occurring.",
+            "score": 225.9632568359375
+        },
+        {
+            "docid": "423387_27",
+            "document": "Antifreeze protein . In the 1950s, Norwegian scientist Scholander set out to explain how Arctic fish can survive in water colder than the freezing point of their blood. His experiments led him to believe there was \u201cantifreeze\u201d in the blood of Arctic fish. Then in the late 1960s, animal biologist Arthur DeVries was able to isolate the antifreeze protein through his investigation of Antarctic fish. These proteins were later called antifreeze glycoproteins (AFGPs) or antifreeze glycopeptides to distinguish them from newly discovered nonglycoprotein biological antifreeze agents (AFPs). DeVries worked with Robert Feeney (1970) to characterize the chemical and physical properties of antifreeze proteins. In 1992, Griffith \"et al.\" documented their discovery of AFP in winter rye leaves. Around the same time, Urrutia, Duman and Knight (1992) documented thermal hysteresis protein in angiosperms. The next year, Duman and Olsen noted AFPs had also been discovered in over 23 species of angiosperms, including ones eaten by humans. They reported their presence in fungi and bacteria as well.",
+            "score": 223.8240966796875
+        },
+        {
+            "docid": "25520575_2",
+            "document": "Xylomannan . Xylomannan is an antifreeze molecule, found in the freeze-tolerant Alaskan beetle \"Upis ceramboides\". Unlike antifreeze proteins, xylomannan is not a protein. Instead, it is a combination of a sugar (saccharide) and a fatty acid that is found in cell membranes. As such is expected to work in a different manner than AFPs. It is believed to work by incorporating itself directly into the cell membrane and preventing the freezing of water molecules within the cell.",
+            "score": 223.17337036132812
+        },
+        {
+            "docid": "44706193_3",
+            "document": "Freezing tolerance . Within the apoplast, antifreeze proteins localize the growth of ice crystals by ice nucleators in order to prevent physical damage to tissues and to promote supercooling within freezing-sensitive tissues and cells. Osmotic stress, including dehydration, high salinity, as well as treatment with abscisic acid, can also enhance freezing tolerance.",
+            "score": 221.94505310058594
+        },
+        {
+            "docid": "423387_19",
+            "document": "Antifreeze protein . There are two types of insect antifreeze proteins, \"Tenebrio\" and \"Dendroides\" AFPs which are both in different insect families. They are similar to one another, both being hyperactive (i.e. greater thermal hysteresis value) and consist of varying numbers of 12- or 13-mer repeats of approximately 8.3 to 12.5 kD. Throughout the length of the protein, at least every sixth residue is a cysteine. It has recently been discovered that even highly truncated insect AFP (e.g. peptide consisting of just two or three coils) may exhibit ice structuring and thermal hysteresis activities.",
+            "score": 219.60540771484375
+        },
+        {
+            "docid": "423387_3",
+            "document": "Antifreeze protein . Unlike the widely used automotive antifreeze, ethylene glycol, AFPs do not lower freezing point in proportion to concentration. Rather, they work in a noncolligative manner. This phenomenon allows them to act as an antifreeze at concentrations 1/300th to 1/500th of those of other dissolved solutes. Their low concentration minimizes their effect on osmotic pressure. The unusual properties of AFPs are attributed to their selective affinity for specific crystalline ice forms and the resulting blockade of the ice-nucleation process.",
+            "score": 217.0402069091797
+        },
+        {
+            "docid": "423387_9",
+            "document": "Antifreeze protein . Freeze tolerant: These species are able to survive body fluid freezing. Some freeze tolerant species are thought to use AFPs as cryoprotectants to prevent the damage of freezing, but not freezing altogether. The exact mechanism is still unknown. However, it is thought AFPs may inhibit recrystallization and stabilize cell membranes to prevent damage by ice. They may work in conjunction with protein ice nucleators (PINs) to control the rate of ice propagation following freezing.",
+            "score": 216.2918701171875
+        },
+        {
+            "docid": "17322938_8",
+            "document": "Eurytherm . While some organisms are eurythermic due to their ability to regulate internal body temperature, like humans, others have wildly different methods of extreme temperature tolerance. Tardigrades are able to enter an anhydrobiotic state, often called a tun, in order to both prevent dessication and endure extreme temperatures. In this state, tardigrades decrease their bodily water to about 1\u20133% wt./wt. Although this state allows certain tardigrades to endure temperatures at the extremes of \u2013273\u00b0 and 150\u00a0\u00b0C at the extremes, tardigrades in their hydrated state are able to withstand temperatures as low as \u2013196\u00a0\u00b0C. This displayed extremotolerance has led scientists to speculate that tardigrades could theoretically survive on Mars, where temperatures regularly fluctuate between \u2013123\u00b0 and 25\u00a0\u00b0C, as well as even possibly the near absolute zero of interplanetary space. The tardigrade's ability to withstand extremely cold temperatures as a tun is a form of cryptobiosis called cryobiosis. Although the high temperature endurance of tardigrades has been significantly less studied, their cryobiotic response to low temperatures has been well-documented. Tardigrades are able to withstand such cold temperatures not by avoiding freezing using antifreeze proteins as a freeze avoidance organism would, but rather by tolerating ice formation in the extracellular body water, activated by ice nucleating proteins.",
+            "score": 214.50860595703125
+        },
+        {
+            "docid": "14327878_4",
+            "document": "Ocean pout . In June 2006, the Unilever company announced that it would research the potential use of genetically modified yeast to grow antifreeze proteins based on a gene from the ocean pout, and use proteins extracted from the yeast to improve the consistency and storage properties of ice cream. Incorporating these ice-structuring proteins means that a lower cream content, and thus a lower calorie content, ice cream can be manufactured without the risk of ice crystal formation.",
+            "score": 213.60545349121094
+        },
+        {
+            "docid": "423387_8",
+            "document": "Antifreeze protein . Freeze avoidant: These species are able to prevent their body fluids from freezing altogether. Generally, the AFP function may be overcome at extremely cold temperatures, leading to rapid ice growth and death.",
+            "score": 212.96189880371094
+        },
+        {
+            "docid": "23681458_16",
+            "document": "Recrystallization (chemistry) . For ice, recrystallization refers to the growth of larger crystals at the expense of smaller ones. Some biological antifreeze proteins have been shown to inhibit this process, and the effect may be relevant in freezing-tolerant organisms.",
+            "score": 212.93638610839844
+        },
+        {
+            "docid": "2528127_2",
+            "document": "Cryoprotectant . A cryoprotectant is a substance used to protect biological tissue from freezing damage (i.e. that due to ice formation). Arctic and Antarctic insects, fish and amphibians create cryoprotectants (antifreeze compounds and antifreeze proteins) in their bodies to minimize freezing damage during cold winter periods. Cryoprotectants are also used to preserve living materials in the study of biology and to preserve food products.",
+            "score": 211.43887329101562
+        },
+        {
+            "docid": "35598338_7",
+            "document": "Neofunctionalization . The evolution of the antifreeze protein in the Antarctic zoarcid fish provides a prime example of Neofunctionalization after gene duplication. In the case of the Antarctic zoarcid fish type III antifreeze protein gene diverged from a parologus copy of sialic acid synthase (SAS) gene. The ancestral SAS gene was found to have both sialic acid synthase and rudimentary ice-binding functionalities. After duplication one of the paralogs began to accumulate mutations that lead to the replacement of SAS domains of the gene allowing for further development and optimization of the antifreeze functionality. The new gene is now capable of noncolligative freezing-point depression, and thus is neofunctionalized. This specialization allows Antarctic zoarcid fish to survive in the frigid temperatures of the Antarctic Seas.",
+            "score": 211.33578491210938
+        },
+        {
+            "docid": "423387_30",
+            "document": "Antifreeze protein . Unilever has obtained UK approval to use a genetically modified yeast to produce antifreeze proteins from fish, for use in ice cream production.",
+            "score": 208.82887268066406
+        },
+        {
+            "docid": "26125779_5",
+            "document": "Hair ice . In 2015, German and Swiss scientists identified the fungus \"Exidiopsis effusa\" as key to the formation of hair ice. The fungus was found on every hair ice sample examined by the researchers, and disabling the fungus with fungicide or hot water prevented hair ice formation. The fungus shapes the ice into fine hairs through an uncertain mechanism and likely stabilizes it by providing a recrystallization inhibitor similar to antifreeze proteins.",
+            "score": 208.59547424316406
+        },
+        {
+            "docid": "49980572_8",
+            "document": "Antarctic fishes . Antarctic notothenioids are able to survive the freezing temperatures of -1.86\u00a0\u00b0C with the use of antifreeze glycoproteins. Antifreeze glycoproteins bind to ice that enters the body through ingestion of food, water and from their environment to prevent the organism freezing internally. AFGPs evolved from pancreatic trypsinogen gene for survival as Antarctic waters began to cool. They consist of repeating amino acids alanine-alanine-threonine to effectively bind to ice molecules and render them as non-threatening to survival.",
+            "score": 207.52049255371094
+        },
+        {
+            "docid": "38050156_5",
+            "document": "RiAFP . The aforementioned effect of AFPs on ice crystal nucleation is lost at the thermal hysteresis point. At a certain low temperature, the maximum convexity of the ice nucleation site is reached. Any further cooling will actually result in a \"spreading\" of the nucleation site away from this convex region, causing rapid, uncontrollable nucleation of the ice crystal. The temperature at which this phenomenon occurs is the thermal hysteresis point.<br> The \"adsorption-inhibition hypothesis\" is further supported by the observation that antifreeze activity increases with increasing AFP concentration \u2013 the more AFPs adsorb onto the forming ice crystal, the more 'crowded' these proteins become, making ice crystal nucleation less favourable.",
+            "score": 207.35202026367188
+        }
+    ]
+}

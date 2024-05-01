@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "14178795_6",
+            "document": "SOX2 . NPM1, a transcriptional regulator involved in cell proliferation, individually forms complexes with Sox2, Oct4 and Nanog in embryonic stem cells. These three pluripotency factors contribute to a complex molecular network that regulates a number of genes controlling pluripotency. Sox2 binds to DNA cooperatively with Oct4 at non-palindromic sequences to activate transcription of key pluripotency factors. Surprisingly, regulation of Oct4-Sox2 enhancers can occur without Sox2, likely due to expression of other Sox proteins. However, a group of researchers concluded that the primary role of Sox2 in embryonic stem cells is controlling Oct4 expression, and they both perpetuate their own expression when expressed concurrently.",
+            "score": 143.66423177719116
+        },
+        {
+            "docid": "1210030_8",
+            "document": "Oct-4 . The transcription factors Oct-4, Sox2 and Nanog are part of a complex regulatory network with Oct-4 and Sox2 capable of directly regulating Nanog by binding to its promoter, and are essential for maintaining the self-renewing undifferentiated state of the inner cell mass of the blastocyst, embryonic stem cell lines (which are cell lines derived from the inner cell mass), and induced pluripotent stem cells. While differential up- and down-regulation of Oct-4 and Sox2 has been shown to promote differentiation, down-regulation of Nanog must occur for differentiation to proceed.",
+            "score": 156.5764238834381
+        },
+        {
+            "docid": "12994729_5",
+            "document": "FOXP1 . It was shown that the embryonic stem cell (ESC)-specific isoform of FOXP1 stimulates the expression of transcription factor genes required for pluripotency, including OCT4, NANOG, NR5A2, and GDF3, while concomitantly repressing genes required for ESC differentiation. This isoform also promotes the maintenance of ESC pluripotency and contributes to efficient reprogramming of somatic cells into induced pluripotent stem cells. These results reveal a pivotal role for an Alternative splicing event in the regulation of pluripotency through the control of critical ESC-specific transcriptional programs.",
+            "score": 163.41119861602783
+        },
+        {
+            "docid": "14875776_13",
+            "document": "XIST . Pluripotent stem cells express transcription factors Nanog, Oct4 and Sox2 that seem to play a role in repressing Xist. In the absence of Tsix in pluripotent cells, Xist is repressed, where a mechanism has been proposed that these transcription factors cause splicing to occur at intron 1 at the binding site of these factors on the Xist gene, which inhibits Xist expression A study was conducted where Nanog or Oct4 transcription factors were depleted in pluripotent cells, which resulted in the upregulation of Xist. From this study, it is proposed that Nanog and Oct4 are involved in the repression of Xist expression.",
+            "score": 145.02769565582275
+        },
+        {
+            "docid": "152611_20",
+            "document": "Cellular differentiation . Three transcription factors, OCT4, SOX2, and NANOG \u2013 the first two of which are used in induced pluripotent stem cell (iPSC) reprogramming, along with Klf4 and c-Myc \u2013 are highly expressed in undifferentiated embryonic stem cells and are necessary for the maintenance of their pluripotency. It is thought that they achieve this through alterations in chromatin structure, such as histone modification and DNA methylation, to restrict or permit the transcription of target genes. While highly expressed, their levels require a precise balance to maintain pluripotency, perturbation of which will promote differentiation towards different lineages based on how the gene expression levels change. Differential regulation of Oct-4 and SOX2 levels have been shown to precede germ layer fate selection. Increased levels of Oct4 and decreased levels of Sox2 promote a mesendodermal fate, with Oct4 actively suppressing genes associated with a neural ectodermal fate. Similarly, Increased levels of Sox2 and decreased levels of Oct4 promote differentiation towards a neural ectodermal fate, with Sox2 inhibiting differentiation towards a mesendodermal fate. Regardless of the lineage cells differentiate down, suppression of NANOG has been identified as a necessary prerequisite for differentiation.",
+            "score": 142.73203361034393
+        },
+        {
+            "docid": "2672374_5",
+            "document": "Homeobox protein NANOG . NANOG is a transcription factor in embryonic stem cells (ESCs) and is thought to be a key factor in maintaining pluripotency. NANOG is thought to function in concert with other factors such as POU5F1 (Oct-4) and SOX2 to establish ESC identity. These cells offer an important area of study because of their ability to maintain pluripotency. In other words, these cells have the ability to become virtually any cell of any of the three germ layers (endoderm, ectoderm, mesoderm). It is for this reason that understanding the mechanisms that maintain a cell's pluripotency is critical for researchers to understand how stem cells work; and may lead to future advances in treating degenerative diseases.",
+            "score": 169.77964687347412
+        },
+        {
+            "docid": "15065584_17",
+            "document": "JADE1 . The biological role of JADE1 has not been elucidated. Limited number of publications addresses this question using mice models. The most comprehensive study which was published in 2003, identified mice orthologue of human JADE1, Jade1, and investigated Jade1 expression during mice embryogenesis. Searching for developmentally regulated genes the authors used gene trap screen analysis and identified mouse Jade1 as gene strongly regulated during embryogenesis. Insertion of the vector into the third intron of the Jade1 gene lead to the production of a 47-amino-acid truncated protein. The gene trap insertional mutation resulted in Jade1-beta-galactosidase reporter fusion product and Jade1 null allele. While the homozygotes for the gene trap integration did not produce strong developmental phenotype, the fusion product revealed Jade1 gene spatial-temporal expression in mouse embryonic cells and tissues of developing embryo up to 15.5-d.p.c. In addition the study reports experimental and in silico comparative analysis of Jade1 mRNA transcripts, Jade1 gene structure and analysis of Jade1 protein orthologues from mouse human and zebra fish. Jade1 expression was detected in extraembryonic ectoderm and trophoblast, which are placental components important for vasculogenesis, as well as in sites enriched with multipotent or tissue-specific progenitors, including neural progenitors(2). The dynamics of Jade1 reporter expression in these areas indicates the involvement in the determination and elongation of anterior posterior axis, an important point of the study). The potential role for human JADE1 in the renewal of embryonic stem cell and embryonal carcinoma cell cultures was suggested in another screening study which showed that, in cultured stem cells activation of stem cell transcription factor OCT4 pathway upregulated JADE1 gene expression along with stem cell factors NANOG, PHC1, USP44 and SOX2. Role of JADE1 in epithelial cell proliferation was addressed in a murine model of acute kidney injury and regeneration. Expression patterns and dynamics of HBO1-JADE1S/L were examined in regenerating tubular epithelial cells. Ischemia and reperfusion injury resulted in an initial decrease in JADE1S, JADE1L, and HBO1 protein levels, which returned to the baseline during renal recovery. Expression levels of HBO1 and JADE1S recovered as cell proliferation rate reached maximum, whereas JADE1L recovered after bulk proliferation had diminished. The temporal expression of JADE1 correlated with the acetylation of histone H4 (H4K5 and H4K12) but not that of histone H3 (H4K14), suggesting that the JADE1-HBO1 complex specifically marks H4 during epithelial cell proliferation. The results of the study implicate JADE1-HBO1 complex in acute kidney injury and suggest distinct roles for JADE1 isoforms during epithelial cell recovery.",
+            "score": 139.2886185646057
+        },
+        {
+            "docid": "16458889_9",
+            "document": "Rex1 . The Nanog protein has been found to be a transcriptional activator for the \"Rex-1\" promoter, playing a key role in sustaining \"Rex1\" expression. Knockdown of Nanog in embryonic stem cells results in a reduction of \"Rex-1\" expression, while forced expression of Nanog stimulates \"Rex-1\" expression. Nanog regulates the transcription of Rex1 through 2 strong transactivation domains on the C-terminus which are required to activate the Rex1 promoter.",
+            "score": 133.90628600120544
+        },
+        {
+            "docid": "152611_23",
+            "document": "Cellular differentiation . Regulation of gene expression is further achieved through DNA methylation, in which the DNA methyltransferase-mediated methylation of cytosine residues in CpG dinucleotides maintains heritable repression by controlling DNA accessibility. The majority of CpG sites in embryonic stem cells are unmethylated and appear to be associated with H3K4me3-carrying nucleosomes. Upon differentiation, a small number of genes, including OCT4 and NANOG, are methylated and their promoters repressed to prevent their further expression. Consistently, DNA methylation-deficient embryonic stem cells rapidly enter apoptosis upon in vitro differentiation.",
+            "score": 102.7157267332077
+        },
+        {
+            "docid": "56635755_13",
+            "document": "KIAA1551 . NANOG was predicted to interact with KIAA1551 based on an affinity capture-MS, which linked NANOG to proteins involved with the cell cycle. This study used affinity purification combined with high accuracy mass spectrometry to find specific protein interactions. NANOG was also found to be an essential transcription factor in embryonic stem cells, specifically involved in gene expression to affect cell fate.",
+            "score": 142.7880403995514
+        },
+        {
+            "docid": "46677656_6",
+            "document": "Super-enhancer . As currently defined, the term \u201csuper-enhancer\u201d was introduced by Young\u2019s lab to describe regions identified in mouse embryonic stem cells (ESCs). These particularly large, potent enhancer regions were found to control the genes that establish the embryonic stem cell identity, including Oct-4, Sox2, Nanog, Klf4, and Esrrb. Perturbation of the super-enhancers associated with these genes showed a range of effects on their target genes\u2019 expression. Super-enhancers have been since identified near cell identity-regulators in a range of mouse and human tissues.",
+            "score": 108.34277844429016
+        },
+        {
+            "docid": "27783_29",
+            "document": "Stem cell . However, reprogramming allows for the creation of pluripotent cells, induced pluripotent stem cells, from adult cells. It is important to note that these are not adult stem cells, but adult cells (e.g. epithelial cells) reprogrammed to give rise to cells with pluripotent capabilities. Using genetic reprogramming with protein transcription factors, pluripotent stem cells with ESC-like capabilities have been derived. The first demonstration of Induced Pluripotent Stem Cells was conducted by Shinya Yamanaka and his colleagues at Kyoto University. They used the transcription factors Oct3/4, Sox2, c-Myc, and Klf4 to reprogram mouse fibroblast cells into pluripotent cells. Subsequent work used these factors to induce pluripotency in human fibroblast cells. Junying Yu, James Thomson, and their colleagues at the University of Wisconsin\u2013Madison used a different set of factors, Oct4, Sox2, Nanog and Lin28, and carried out their experiments using cells from human foreskin. However, they were able to replicate Yamanaka's finding that inducing pluripotency in human cells was possible.",
+            "score": 138.80075001716614
+        },
+        {
+            "docid": "27783_22",
+            "document": "Stem cell . Most adult stem cells are lineage-restricted (multipotent) and are generally referred to by their tissue origin (mesenchymal stem cell, adipose-derived stem cell, endothelial stem cell, dental pulp stem cell, etc.). Muse cells (multi-lineage differentiating stress enduring cells) are a recently discovered pluripotent stem cell type found in multiple adult tissues, including adipose, dermal fibroblasts, and bone marrow. While rare, muse cells are identifiable by their expression of SSEA-3, a marker for undifferentiated stem cells, and general mesenchymal stem cells markers such as CD105. When subjected to single cell suspension culture, the cells will generate clusters that are similar to embryoid bodies in morphology as well as gene expression, including canonical pluripotency markers Oct4, Sox2, and Nanog.",
+            "score": 120.55099105834961
+        },
+        {
+            "docid": "2672374_14",
+            "document": "Homeobox protein NANOG . Professor Ian Chambers (currently of the MRC Centre for Regenerative Medicine, The University of Edinburgh, UK) who isolated the mouse Nanog gene said: \"Nanog seems to be a master gene that makes embryonic stem cells grow in the laboratory. In effect this makes stem cells immortal. Being Scottish, I therefore chose the name after the T\u00edr na n\u00d3g legend.\"",
+            "score": 118.41700267791748
+        },
+        {
+            "docid": "2672374_2",
+            "document": "Homeobox protein NANOG . NANOG (pron. nanOg) is a transcription factor critically involved with self-renewal of undifferentiated embryonic stem cells. In humans, this protein is encoded by the \"NANOG\" gene.",
+            "score": 131.62350511550903
+        },
+        {
+            "docid": "49357008_3",
+            "document": "Master regulator . Most genes considered master regulators code for transcription factor proteins, which in turn alter the expression of downstream genes in the pathway. Canonical examples of master regulators include Oct-4 (also called POU5F1), SOX2, and NANOG, all transcription factors involved in maintaining pluripotency in stem cells. Master regulators involved in development and morphogenesis can also appear as oncogenes relevant to tumorigenesis and metastasis, as with the Twist transcription factor.",
+            "score": 122.4674665927887
+        },
+        {
+            "docid": "14797599_6",
+            "document": "SALL4 . In mouse embryos, SALL4 expression is detectable as early as the two-cell stage. Its expression persists through 8- and 16-cell stages to the blastocyst, where it is found in some cells of the trophectoderm and inner cell mass (ICM), from which mouse ESCs are derived. SALL4 is an important factor for maintaining the \u201cstemness\u201d of ESCs of both mouse and human origin, since loss of Sall4 leads to differentiation of these pluripotent cells down the trophectoderm lineage. This is possibly due to down-regulation of \"Pou5f1\" (encoding Oct4) expression and up-regulation of caudal-type homeobox 2 (\"Cdx2\") gene expression. Sall4 is part of the transcriptional regulatory network that includes other pluripotent factors such as Oct4, Nanog, and Sox2 Because of its important role in early development, genetically mutated mice without functioning SALL4 die early on at the peri-implantation stage, while heterozygous mice have neural, kidney, heart defects and limb abnormalities.",
+            "score": 125.82005214691162
+        },
+        {
+            "docid": "2672374_9",
+            "document": "Homeobox protein NANOG . The NANOG protein has been found to be a transcriptional activator for the Rex1 promoter, playing a key role in sustaining Rex1 expression. Knockdown of NANOG in embryonic stem cells results in a reduction of Rex1 expression, while forced expression of NANOG stimulates Rex1 expression.",
+            "score": 131.85046529769897
+        },
+        {
+            "docid": "27783_17",
+            "document": "Stem cell . A human embryonic stem cell is also defined by the expression of several transcription factors and cell surface proteins. The transcription factors Oct-4, Nanog, and Sox2 form the core regulatory network that ensures the suppression of genes that lead to differentiation and the maintenance of pluripotency. The cell surface antigens most commonly used to identify hES cells are the glycolipids stage specific embryonic antigen 3 and 4 and the keratan sulfate antigens Tra-1-60 and Tra-1-81. By using human embryonic stem cells to produce specialized cells like nerve cells or heart cells in the lab, scientists can gain access to adult human cells without taking tissue from patients. They can then study these specialized adult cells in detail to try and catch complications of diseases, or to study cells reactions to potentially new drugs. The molecular definition of a stem cell includes many more proteins and continues to be a topic of research.",
+            "score": 127.91538619995117
+        },
+        {
+            "docid": "12223532_12",
+            "document": "Induced pluripotent stem cell . These second-generation iPSCs were derived from mouse fibroblasts by retroviral-mediated expression of the same four transcription factors (Oct4, Sox2, cMyc, Klf4). However, instead of using Fbx15 to select for pluripotent cells, the researchers used Nanog, a gene that is functionally important in ESCs. By using this different strategy, the researchers created iPSCs that were functionally identical to ESCs.",
+            "score": 126.70251631736755
+        },
+        {
+            "docid": "36471184_5",
+            "document": "Mir-720 microRNA precursor family . miR-720 was shown to target the pluripotency factor Nanog and to upregulate DNMTs. miR-720 controlled stem cell phenotype, proliferation, and differentiation of human dental pulp cells. Dental pulp includes mesenchymal (stem) cells, blood vessels, blood and peripheral nerves. Repression of the pluripotency factor Nanog and upregulation of DNMTs in dental pulp cells by miR-720 initiated odontoblastic differentiation. Therefore, it was suggested that odontoblastic differentiation of dental pulp stem cells required miR-720 that repressed Nanog and induced Dnmt3a and Dnmt3b.",
+            "score": 144.27975916862488
+        },
+        {
+            "docid": "3342582_6",
+            "document": "Leukemia inhibitory factor . LIF is often added to stem cell culture media as an alternative to feeder cell culture, due to the limitation that feeder cells present by only producing LIF on their cell surfaces. Feeder cells lacking the lif gene do not effectively support stem cells. LIF promotes self-renewal by recruiting signal transducer and activator of transcription 3 (Stat3). Stat3 is recruited to the activated LIF receptor and phosphorylated by Janus Kinase. It bears noting that LIF and Stat3 are not sufficient to inhibit stem cell differentiation, as cells will differentiate upon removal of serum. During the reversibility phase of differentiation from naive pluripotency, it is possible to revert cells back to naive pluripotency through the addition of LIF. Removal of LIF pushes stem cells toward differentiation, however genetic manipulation of embryonic stem cells allows for LIF independent growth, notably overexpression of the gene Nanog.",
+            "score": 116.56018996238708
+        },
+        {
+            "docid": "4771320_8",
+            "document": "Inner cell mass . Blastomeres isolated from the ICM of mammalian embryos and grown in culture are known as embryonic stem (ES) cells. These pluripotent cells, when grown in a carefully coordinated media, can give rise to all three germ layers (ectoderm, endoderm, and mesoderm) of the adult body. For example, the transcription factor LIF4 is required for mouse ES cells to be maintained in vitro. Blastomeres are dissociated from an isolated ICM in an early blastocyst, and their transcriptional code governed by \"Oct4\", \"Sox2\", and \"Nanog\" helps maintain an undifferentiated state.",
+            "score": 113.41720509529114
+        },
+        {
+            "docid": "14178795_5",
+            "document": "SOX2 . LIF (Leukemia inhibitory factor) signaling, which maintains pluripotency in mouse embryonic stem cells, activates Sox2 downstream of the JAK-STAT signaling pathway and subsequent activation of Klf4 (a member of the family of Kruppel-like factors). Oct-4, Sox2 and Nanog positively regulate transcription of all pluripotency circuitry proteins in the LIF pathway.",
+            "score": 130.10774445533752
+        },
+        {
+            "docid": "1210030_9",
+            "document": "Oct-4 . Oct-4 is one of the transcription factors used to create induced pluripotent stem cells, together with Sox2, Klf4 and often c-Myc in mouse, demonstrating its capacity to induce an embryonic stem cell-like state. These factors are often referred to as \"Yamanaka reprogramming factors\". This reprogramming effect has also been seen with the Thomson reprogramming factors, reverting human fibroblast cells to iPSCs through Oct-4, along with Sox2, Nanog, and Lin28. The use of Thomson reprogramming factors avoids the need to overexpress c-Myc, an oncogene. It was later determined that only two of these four factors, Oct4 and Klf4, were sufficient to reprogram mouse adult neural stem cells. Finally it was shown that a single factor, Oct-4 was sufficient for this transformation.",
+            "score": 116.74316596984863
+        },
+        {
+            "docid": "25902271_7",
+            "document": "Mesenchymal\u2013epithelial transition . A number of different cellular processes must take place in order for somatic cells to undergo reprogramming into induced pluripotent stem cells (iPS cells). iPS cell reprogramming, also known as somatic cell reprogramming, can be achieved by ectopic expression of Oct4, Klf4, Sox2, and c-Myc (OKSM). Upon induction, mouse fibroblasts must undergo MET to successfully begin the initiation phase of reprogramming. Epithelial-associated genes such as E-cadherin/Cdh1, Cldns \u22123, \u22124, \u22127, \u221211, Occludin (Ocln), Epithelial cell adhesion molecule (Epcam), and Crumbs homolog 3 (Crb3), were all upregulated before Nanog, a key transcription factor in maintaining pluripotency, was turned on. Additionally, mesenchymal-associated genes such as Snail, Slug, Zeb \u22121, \u22122, and N-cadherin were downregulated within the first 5 days post-OKSM induction. Addition of exogenous TGF-\u03b21, which blocks MET, decreased iPS reprogramming efficiency significantly. These findings are all consistent with previous observations that embryonic stem cells resemble epithelial cells and express E-cadherin.",
+            "score": 106.13608014583588
+        },
+        {
+            "docid": "42652198_6",
+            "document": "Cord lining . The amniotic layer of the umbilical cord lining has been shown to contain a large population of epithelial stem cells (EpSC). These cord lining EpSC exhibit classical pluripotent stem cell markers such as SSEA-4, Oct-4, SOX2 and Nanog. They also express p63, a specific marker of epithelial progenitor cells. In-vitro organotypic culture of cord lining EpSC using the air-liquid interface method resulted in stratified epithelium being formed with expression of various forms of cytokeratins. Furthermore, due to their similarity in terms of phenotypic expression of keratins compared to normal human epidermal keratinocytes, cord lining EpSC have the potential to be an alternative source of cells for skin repair and regeneration.",
+            "score": 110.20224118232727
+        },
+        {
+            "docid": "34347729_5",
+            "document": "Endogenous cardiac stem cell . Briefly, eCSCs have been first identified through the expression of c-kit, the receptor of the stem cell factor and the absence of common hematopoietic markers, like CD45. Afterwards, different membrane markers (Sca-1, Abcg-2, Flk-1) and transcription factors (Isl-1, Nkx2.5, GATA4) have been employed to identify and characterize these cells in the embryonic and adult life. eCSCs are clonogenic, self-renewing and multipotent in vitro and in vivo, capable of generating the 3 major cell types of the myocardium: myocytes, smooth muscle and endothelial vascular cells. They express several markers of stemness (i.e. Oct3/4, Bmi-1, Nanog) and have significant regenerative potential in vivo. When cloned in suspension they form cardiospheres, which when cultured in a myogenic differentiation medium, attach and differentiate into beating cardiomyocytes.",
+            "score": 102.0199373960495
+        },
+        {
+            "docid": "1137227_14",
+            "document": "DNA methylation . Whereas DNA methylation is not necessary \"per se\" for transcriptional silencing, it is thought nonetheless to represent a \u201clocked\u201d state that definitely inactivates transcription. In particular, DNA methylation appears critical for the maintenance of mono-allelic silencing in the context of genomic imprinting and X chromosome inactivation. In these cases, expressed and silent alleles differ by their methylation status, and loss of DNA methylation results in loss of imprinting and re-expression of Xist in somatic cells. During embryonic development, few genes change their methylation status, at the important exception of many genes specifically expressed in the germline. DNA methylation appears absolutely required in differentiated cells, as knockout of any of the three competent DNA methyltransferase results in embryonic or post-partum lethality. By contrast, DNA methylation is dispensable in undifferentiated cell types, such as the inner cell mass of the blastocyst, primordial germ cells or embryonic stem cells. Since DNA methylation appears to directly regulate only a limited number of genes, how precisely DNA methylation absence causes the death of differentiated cells remain an open question.",
+            "score": 110.72576117515564
+        },
+        {
+            "docid": "12223532_13",
+            "document": "Induced pluripotent stem cell . Reprogramming of human cells to iPSCs was reported in November 2006 by two independent research groups: Shinya Yamanaka of Kyoto University, Japan, who pioneered the original iPSC method, and James Thomson of University of Wisconsin-Madison who was the first to derive human embryonic stem cells. With the same principle used in mouse reprogramming, Yamanaka's group successfully transformed human fibroblasts into iPSCs with the same four pivotal genes, OCT4, SOX2, KLF4, and C-MYC, using a retroviral system, while Thomson and colleagues used a different set of factors, OCT4, SOX2, NANOG, and LIN28, using a lentiviral system.",
+            "score": 112.52257895469666
+        },
+        {
+            "docid": "2672374_10",
+            "document": "Homeobox protein NANOG . Besides the effects of NANOG in the embryonic stages of life, ectopic expression of NANOG in the adult stem cells can restore the proliferation and differentiation potential that is lost due to organismal aging or cellular senescence.",
+            "score": 120.06998252868652
+        },
+        {
+            "docid": "36315057_26",
+            "document": "Induced stem cells . Teratoma formation by pluripotent stem cells may be caused by low activity of PTEN enzyme, reported to promote the survival of a small population (0.1\u20135% of total population) of highly tumorigenic, aggressive, teratoma-initiating embryonic-like carcinoma cells during differentiation. The survival of these teratoma-initiating cells is associated with failed repression of Nanog as well as a propensity for increased glucose and cholesterol metabolism. These teratoma-initiating cells also expressed a lower ratio of p53/p21 when compared to non-tumorigenic cells. In connection with the above safety problems, the use iPSC for cell therapy is still limited. However, they can be used for a variety of other purposes - including the modeling of disease, screening (selective selection) of drugs, toxicity testing of various drugs.",
+            "score": 125.67390251159668
+        }
+    ],
+    "r": [
+        {
+            "docid": "2672374_5",
+            "document": "Homeobox protein NANOG . NANOG is a transcription factor in embryonic stem cells (ESCs) and is thought to be a key factor in maintaining pluripotency. NANOG is thought to function in concert with other factors such as POU5F1 (Oct-4) and SOX2 to establish ESC identity. These cells offer an important area of study because of their ability to maintain pluripotency. In other words, these cells have the ability to become virtually any cell of any of the three germ layers (endoderm, ectoderm, mesoderm). It is for this reason that understanding the mechanisms that maintain a cell's pluripotency is critical for researchers to understand how stem cells work; and may lead to future advances in treating degenerative diseases.",
+            "score": 169.77964782714844
+        },
+        {
+            "docid": "12994729_5",
+            "document": "FOXP1 . It was shown that the embryonic stem cell (ESC)-specific isoform of FOXP1 stimulates the expression of transcription factor genes required for pluripotency, including OCT4, NANOG, NR5A2, and GDF3, while concomitantly repressing genes required for ESC differentiation. This isoform also promotes the maintenance of ESC pluripotency and contributes to efficient reprogramming of somatic cells into induced pluripotent stem cells. These results reveal a pivotal role for an Alternative splicing event in the regulation of pluripotency through the control of critical ESC-specific transcriptional programs.",
+            "score": 163.41119384765625
+        },
+        {
+            "docid": "1210030_8",
+            "document": "Oct-4 . The transcription factors Oct-4, Sox2 and Nanog are part of a complex regulatory network with Oct-4 and Sox2 capable of directly regulating Nanog by binding to its promoter, and are essential for maintaining the self-renewing undifferentiated state of the inner cell mass of the blastocyst, embryonic stem cell lines (which are cell lines derived from the inner cell mass), and induced pluripotent stem cells. While differential up- and down-regulation of Oct-4 and Sox2 has been shown to promote differentiation, down-regulation of Nanog must occur for differentiation to proceed.",
+            "score": 156.57643127441406
+        },
+        {
+            "docid": "14875776_13",
+            "document": "XIST . Pluripotent stem cells express transcription factors Nanog, Oct4 and Sox2 that seem to play a role in repressing Xist. In the absence of Tsix in pluripotent cells, Xist is repressed, where a mechanism has been proposed that these transcription factors cause splicing to occur at intron 1 at the binding site of these factors on the Xist gene, which inhibits Xist expression A study was conducted where Nanog or Oct4 transcription factors were depleted in pluripotent cells, which resulted in the upregulation of Xist. From this study, it is proposed that Nanog and Oct4 are involved in the repression of Xist expression.",
+            "score": 145.02769470214844
+        },
+        {
+            "docid": "36471184_5",
+            "document": "Mir-720 microRNA precursor family . miR-720 was shown to target the pluripotency factor Nanog and to upregulate DNMTs. miR-720 controlled stem cell phenotype, proliferation, and differentiation of human dental pulp cells. Dental pulp includes mesenchymal (stem) cells, blood vessels, blood and peripheral nerves. Repression of the pluripotency factor Nanog and upregulation of DNMTs in dental pulp cells by miR-720 initiated odontoblastic differentiation. Therefore, it was suggested that odontoblastic differentiation of dental pulp stem cells required miR-720 that repressed Nanog and induced Dnmt3a and Dnmt3b.",
+            "score": 144.27975463867188
+        },
+        {
+            "docid": "14178795_6",
+            "document": "SOX2 . NPM1, a transcriptional regulator involved in cell proliferation, individually forms complexes with Sox2, Oct4 and Nanog in embryonic stem cells. These three pluripotency factors contribute to a complex molecular network that regulates a number of genes controlling pluripotency. Sox2 binds to DNA cooperatively with Oct4 at non-palindromic sequences to activate transcription of key pluripotency factors. Surprisingly, regulation of Oct4-Sox2 enhancers can occur without Sox2, likely due to expression of other Sox proteins. However, a group of researchers concluded that the primary role of Sox2 in embryonic stem cells is controlling Oct4 expression, and they both perpetuate their own expression when expressed concurrently.",
+            "score": 143.6642303466797
+        },
+        {
+            "docid": "56635755_13",
+            "document": "KIAA1551 . NANOG was predicted to interact with KIAA1551 based on an affinity capture-MS, which linked NANOG to proteins involved with the cell cycle. This study used affinity purification combined with high accuracy mass spectrometry to find specific protein interactions. NANOG was also found to be an essential transcription factor in embryonic stem cells, specifically involved in gene expression to affect cell fate.",
+            "score": 142.7880401611328
+        },
+        {
+            "docid": "152611_20",
+            "document": "Cellular differentiation . Three transcription factors, OCT4, SOX2, and NANOG \u2013 the first two of which are used in induced pluripotent stem cell (iPSC) reprogramming, along with Klf4 and c-Myc \u2013 are highly expressed in undifferentiated embryonic stem cells and are necessary for the maintenance of their pluripotency. It is thought that they achieve this through alterations in chromatin structure, such as histone modification and DNA methylation, to restrict or permit the transcription of target genes. While highly expressed, their levels require a precise balance to maintain pluripotency, perturbation of which will promote differentiation towards different lineages based on how the gene expression levels change. Differential regulation of Oct-4 and SOX2 levels have been shown to precede germ layer fate selection. Increased levels of Oct4 and decreased levels of Sox2 promote a mesendodermal fate, with Oct4 actively suppressing genes associated with a neural ectodermal fate. Similarly, Increased levels of Sox2 and decreased levels of Oct4 promote differentiation towards a neural ectodermal fate, with Sox2 inhibiting differentiation towards a mesendodermal fate. Regardless of the lineage cells differentiate down, suppression of NANOG has been identified as a necessary prerequisite for differentiation.",
+            "score": 142.73204040527344
+        },
+        {
+            "docid": "15065584_17",
+            "document": "JADE1 . The biological role of JADE1 has not been elucidated. Limited number of publications addresses this question using mice models. The most comprehensive study which was published in 2003, identified mice orthologue of human JADE1, Jade1, and investigated Jade1 expression during mice embryogenesis. Searching for developmentally regulated genes the authors used gene trap screen analysis and identified mouse Jade1 as gene strongly regulated during embryogenesis. Insertion of the vector into the third intron of the Jade1 gene lead to the production of a 47-amino-acid truncated protein. The gene trap insertional mutation resulted in Jade1-beta-galactosidase reporter fusion product and Jade1 null allele. While the homozygotes for the gene trap integration did not produce strong developmental phenotype, the fusion product revealed Jade1 gene spatial-temporal expression in mouse embryonic cells and tissues of developing embryo up to 15.5-d.p.c. In addition the study reports experimental and in silico comparative analysis of Jade1 mRNA transcripts, Jade1 gene structure and analysis of Jade1 protein orthologues from mouse human and zebra fish. Jade1 expression was detected in extraembryonic ectoderm and trophoblast, which are placental components important for vasculogenesis, as well as in sites enriched with multipotent or tissue-specific progenitors, including neural progenitors(2). The dynamics of Jade1 reporter expression in these areas indicates the involvement in the determination and elongation of anterior posterior axis, an important point of the study). The potential role for human JADE1 in the renewal of embryonic stem cell and embryonal carcinoma cell cultures was suggested in another screening study which showed that, in cultured stem cells activation of stem cell transcription factor OCT4 pathway upregulated JADE1 gene expression along with stem cell factors NANOG, PHC1, USP44 and SOX2. Role of JADE1 in epithelial cell proliferation was addressed in a murine model of acute kidney injury and regeneration. Expression patterns and dynamics of HBO1-JADE1S/L were examined in regenerating tubular epithelial cells. Ischemia and reperfusion injury resulted in an initial decrease in JADE1S, JADE1L, and HBO1 protein levels, which returned to the baseline during renal recovery. Expression levels of HBO1 and JADE1S recovered as cell proliferation rate reached maximum, whereas JADE1L recovered after bulk proliferation had diminished. The temporal expression of JADE1 correlated with the acetylation of histone H4 (H4K5 and H4K12) but not that of histone H3 (H4K14), suggesting that the JADE1-HBO1 complex specifically marks H4 during epithelial cell proliferation. The results of the study implicate JADE1-HBO1 complex in acute kidney injury and suggest distinct roles for JADE1 isoforms during epithelial cell recovery.",
+            "score": 139.2886199951172
+        },
+        {
+            "docid": "27783_29",
+            "document": "Stem cell . However, reprogramming allows for the creation of pluripotent cells, induced pluripotent stem cells, from adult cells. It is important to note that these are not adult stem cells, but adult cells (e.g. epithelial cells) reprogrammed to give rise to cells with pluripotent capabilities. Using genetic reprogramming with protein transcription factors, pluripotent stem cells with ESC-like capabilities have been derived. The first demonstration of Induced Pluripotent Stem Cells was conducted by Shinya Yamanaka and his colleagues at Kyoto University. They used the transcription factors Oct3/4, Sox2, c-Myc, and Klf4 to reprogram mouse fibroblast cells into pluripotent cells. Subsequent work used these factors to induce pluripotency in human fibroblast cells. Junying Yu, James Thomson, and their colleagues at the University of Wisconsin\u2013Madison used a different set of factors, Oct4, Sox2, Nanog and Lin28, and carried out their experiments using cells from human foreskin. However, they were able to replicate Yamanaka's finding that inducing pluripotency in human cells was possible.",
+            "score": 138.80075073242188
+        },
+        {
+            "docid": "16458889_9",
+            "document": "Rex1 . The Nanog protein has been found to be a transcriptional activator for the \"Rex-1\" promoter, playing a key role in sustaining \"Rex1\" expression. Knockdown of Nanog in embryonic stem cells results in a reduction of \"Rex-1\" expression, while forced expression of Nanog stimulates \"Rex-1\" expression. Nanog regulates the transcription of Rex1 through 2 strong transactivation domains on the C-terminus which are required to activate the Rex1 promoter.",
+            "score": 133.9062957763672
+        },
+        {
+            "docid": "2672374_9",
+            "document": "Homeobox protein NANOG . The NANOG protein has been found to be a transcriptional activator for the Rex1 promoter, playing a key role in sustaining Rex1 expression. Knockdown of NANOG in embryonic stem cells results in a reduction of Rex1 expression, while forced expression of NANOG stimulates Rex1 expression.",
+            "score": 131.8504638671875
+        },
+        {
+            "docid": "2672374_2",
+            "document": "Homeobox protein NANOG . NANOG (pron. nanOg) is a transcription factor critically involved with self-renewal of undifferentiated embryonic stem cells. In humans, this protein is encoded by the \"NANOG\" gene.",
+            "score": 131.62350463867188
+        },
+        {
+            "docid": "14178795_5",
+            "document": "SOX2 . LIF (Leukemia inhibitory factor) signaling, which maintains pluripotency in mouse embryonic stem cells, activates Sox2 downstream of the JAK-STAT signaling pathway and subsequent activation of Klf4 (a member of the family of Kruppel-like factors). Oct-4, Sox2 and Nanog positively regulate transcription of all pluripotency circuitry proteins in the LIF pathway.",
+            "score": 130.1077423095703
+        },
+        {
+            "docid": "39280875_22",
+            "document": "QSER1 . Interaction between homeobox protein NANOG and Tet methylcytosine dioxygenase 1 (TET1) has been shown to be important in establishing pluripotency during the generation of induced pluripotent stem cells. QSER1 protein was shown to interact with both NANOG and TET1.",
+            "score": 130.0343017578125
+        },
+        {
+            "docid": "27783_17",
+            "document": "Stem cell . A human embryonic stem cell is also defined by the expression of several transcription factors and cell surface proteins. The transcription factors Oct-4, Nanog, and Sox2 form the core regulatory network that ensures the suppression of genes that lead to differentiation and the maintenance of pluripotency. The cell surface antigens most commonly used to identify hES cells are the glycolipids stage specific embryonic antigen 3 and 4 and the keratan sulfate antigens Tra-1-60 and Tra-1-81. By using human embryonic stem cells to produce specialized cells like nerve cells or heart cells in the lab, scientists can gain access to adult human cells without taking tissue from patients. They can then study these specialized adult cells in detail to try and catch complications of diseases, or to study cells reactions to potentially new drugs. The molecular definition of a stem cell includes many more proteins and continues to be a topic of research.",
+            "score": 127.9153823852539
+        },
+        {
+            "docid": "25068575_3",
+            "document": "Wellcome Trust Centre for Stem Cell Research . The Centre is funded by the Wellcome Trust and the Medical Research Council.  The main areas of study include pluripotent and neural stem cells, as well as epidermal stem cells. Key advances in stem cell science at the centre include the elucidation of the role of the nanog protein in pluripotency and work on inhibiting cellular differentiation. It also conducts human embryo work as approved by the Human Fertilisation and Embryology Authority.",
+            "score": 127.52008056640625
+        },
+        {
+            "docid": "12223532_12",
+            "document": "Induced pluripotent stem cell . These second-generation iPSCs were derived from mouse fibroblasts by retroviral-mediated expression of the same four transcription factors (Oct4, Sox2, cMyc, Klf4). However, instead of using Fbx15 to select for pluripotent cells, the researchers used Nanog, a gene that is functionally important in ESCs. By using this different strategy, the researchers created iPSCs that were functionally identical to ESCs.",
+            "score": 126.7025146484375
+        },
+        {
+            "docid": "40787754_23",
+            "document": "Muse cell . In 2009, a study showed that only SSEA-3+ cells generate induced pluripotent stem (iPS) cells in human fibroblasts. In 2011, it was suggested that iPS cells are generated only from Muse cells. When the technique for generation of iPS cells was applied to both Muse and non-Muse cells, iPS cells were successfully generated only from Muse cells. In contrast, non-Muse cells did not show elevation in Sox2 and Nanog, master genes of pluripotent stem cells, even after receiving the four Yamanaka factors. These results support the elite model of iPS cell generation rather than the stochastic model. Divergent from their Muse cell origin, iPS cells showed tumorigenecity. Since Muse cells are originally pluripotent without tumorigenic activity, what the Yamanaka factors newly conferred to Muse cells was not 'pluripotency' but tumorigenic activity. These results collectively suggest that only preexisting cells with promising pluripotency can be programmed into iPS cells.",
+            "score": 126.5683822631836
+        },
+        {
+            "docid": "14797599_6",
+            "document": "SALL4 . In mouse embryos, SALL4 expression is detectable as early as the two-cell stage. Its expression persists through 8- and 16-cell stages to the blastocyst, where it is found in some cells of the trophectoderm and inner cell mass (ICM), from which mouse ESCs are derived. SALL4 is an important factor for maintaining the \u201cstemness\u201d of ESCs of both mouse and human origin, since loss of Sall4 leads to differentiation of these pluripotent cells down the trophectoderm lineage. This is possibly due to down-regulation of \"Pou5f1\" (encoding Oct4) expression and up-regulation of caudal-type homeobox 2 (\"Cdx2\") gene expression. Sall4 is part of the transcriptional regulatory network that includes other pluripotent factors such as Oct4, Nanog, and Sox2 Because of its important role in early development, genetically mutated mice without functioning SALL4 die early on at the peri-implantation stage, while heterozygous mice have neural, kidney, heart defects and limb abnormalities.",
+            "score": 125.82005310058594
+        },
+        {
+            "docid": "36315057_26",
+            "document": "Induced stem cells . Teratoma formation by pluripotent stem cells may be caused by low activity of PTEN enzyme, reported to promote the survival of a small population (0.1\u20135% of total population) of highly tumorigenic, aggressive, teratoma-initiating embryonic-like carcinoma cells during differentiation. The survival of these teratoma-initiating cells is associated with failed repression of Nanog as well as a propensity for increased glucose and cholesterol metabolism. These teratoma-initiating cells also expressed a lower ratio of p53/p21 when compared to non-tumorigenic cells. In connection with the above safety problems, the use iPSC for cell therapy is still limited. However, they can be used for a variety of other purposes - including the modeling of disease, screening (selective selection) of drugs, toxicity testing of various drugs.",
+            "score": 125.67390441894531
+        },
+        {
+            "docid": "49357008_3",
+            "document": "Master regulator . Most genes considered master regulators code for transcription factor proteins, which in turn alter the expression of downstream genes in the pathway. Canonical examples of master regulators include Oct-4 (also called POU5F1), SOX2, and NANOG, all transcription factors involved in maintaining pluripotency in stem cells. Master regulators involved in development and morphogenesis can also appear as oncogenes relevant to tumorigenesis and metastasis, as with the Twist transcription factor.",
+            "score": 122.46746826171875
+        },
+        {
+            "docid": "1686272_45",
+            "document": "Chemical biology . Small molecules that modulate stem-cell behavior are commonly identified in high-throughput screens. Libraries of compounds are screened for the induction of a desired phenotypic change in cultured stem-cells. This is usually observed through activation or repression of a fluorescent reporter or by detection of specific cell surface markers by FACS or immunohistochemistry. Hits are then structurally optimized for activity by the synthesis and screening of secondary libraries. The cellular targets of the small molecule can then be identified by affinity chromatography, mass spectrometry, or DNA microarray.  A trademark of pluripotent stem-cells, such as embryonic stem-cells (ESCs), is the ability to self-renew indefinitely. The conventional use of feeder cells and various exogenous growth factors in the culture of ESCs presents a problem in that the resulting highly variable culture conditions make the long-term expansion of un-differentiated ESCs challenging. Ideally, chemically defined culture conditions could be developed to maintain ESCs in a pluripotent state indefinitely. Toward this goal, the Schultz and Ding labs at the Scripps Research Institute identified a small molecule that can preserve the long-term self-renewal of ESCs in the absence of feeder cells and other exogenous growth factors. This novel molecule, called pluripotin, was found to simultaneously inhibit multiple differentiation inducing pathways. The utility of stem-cells is in their ability to differentiate into all cell types that make up an organism. Differentiation can be achieved in vitro by favoring development toward a particular cell type through the addition of lineage specific growth factors, but this process is typically non-specific and generates low yields of the desired phenotype. Alternatively, inducing differentiation by small molecules is advantageous in that it allows for the development of completely chemically defined conditions for the generation of one specific cell type. A small molecule, neuropathiazol, has been identified which can specifically direct differentiation of multipotent neural stem cells into neurons. Neuropathiazol is so potent that neurons develop even in conditions that normally favor the formation of glial cells, a powerful demonstration of controlling differentiation by chemical means. Because of the ethical issues surrounding ESC research, the generation of pluripotent cells by reprogramming existing somatic cells into a more \"stem-like\" state is a promising alternative to the use of standard ESCs. By genetic approaches, this has recently been achieved in the creation of ESCs by somatic cell nuclear transfer and the generation of induced pluripotent stem-cells by viral transduction of specific genes. From a therapeutic perspective, reprogramming by chemical means would be safer than genetic methods because induced stem-cells would be free of potentially dangerous transgenes. Several examples of small molecules that can de-differentiate somatic cells have been identified. In one report, lineage-committed myoblasts were treated with a compound, named reversine, and observed to revert to a more stem-like phenotype. These cells were then shown to be capable of differentiating into osteoblasts and adipocytes under appropriate conditions. Stem-cell therapies are currently the most promising treatment for many degenerative diseases. Chemical approaches to stem-cell biology support the development of cell-based therapies by enhancing stem-cell growth, maintenance, and differentiation in vitro. Small molecules that have been shown to modulate stem-cell fate are potential therapeutic candidates and provide a natural lean-in to pre-clinical drug development. Small molecule drugs could promote endogenous stem-cells to differentiate, replacing previously damaged tissues and thereby enhancing the body's own regenerative ability. Further investigation of molecules that modulate stem-cell behavior will only unveil new therapeutic targets.",
+            "score": 121.6722412109375
+        },
+        {
+            "docid": "27783_22",
+            "document": "Stem cell . Most adult stem cells are lineage-restricted (multipotent) and are generally referred to by their tissue origin (mesenchymal stem cell, adipose-derived stem cell, endothelial stem cell, dental pulp stem cell, etc.). Muse cells (multi-lineage differentiating stress enduring cells) are a recently discovered pluripotent stem cell type found in multiple adult tissues, including adipose, dermal fibroblasts, and bone marrow. While rare, muse cells are identifiable by their expression of SSEA-3, a marker for undifferentiated stem cells, and general mesenchymal stem cells markers such as CD105. When subjected to single cell suspension culture, the cells will generate clusters that are similar to embryoid bodies in morphology as well as gene expression, including canonical pluripotency markers Oct4, Sox2, and Nanog.",
+            "score": 120.55099487304688
+        },
+        {
+            "docid": "26982208_12",
+            "document": "Cell potency . Recent findings with respect to epiblasts before and after implantation have produced proposals for classifying pluripotency into two distinct phases: \"naive\" and \"primed\". The baseline stem cells commonly used in science that are referred as Embryonic stem cells (ESCs) are derived from a pre-implantation epiblast; such epiblast is able to generate the entire fetus, and one epiblast cell is able to contribute to all cell lineages if injected into another blastocyst. On the other hand, several marked differences can be observed between the pre- and post-implantation epiblasts, such as their difference in morphology, in which the epiblast after implantation changes its morphology into a cup-like shape called the \"egg cylinder\" as well as chromosomal alteration in which one of the X-chromosomes undergoes random inactivation in the early stage of the egg cylinder, known as X-inactivation. During this development, the egg cylinder epiblast cells are systematically targeted by Fibroblast growth factors, Wnt signaling, and other inductive factors via the surrounding yolk sac and the trophoblast tissue, such that they become instructively specific according to the spatial organization. Another major difference that was observed, with respect to cell potency, is that post-implantation epiblast stem cells are unable to contribute to blastocyst chimeras, which distinguishes them from other known pluripotent stem cells. Cell lines derived from such post-implantation epiblasts are referred to as epiblast-derived stem cells which were first derived in laboratory in 2007; despite their nomenclature, that both ESCs and EpiSCs are derived from epiblasts, just at difference phases of development, and that pluripotency is still intact in the post-implantation epiblast, as demonstrated by the conserved expression of Nanog, Fut4, and Oct-4 in EpiSCs, until somitogenesis and can be reversed midway through induced expression of Oct-4.",
+            "score": 120.19161987304688
+        },
+        {
+            "docid": "2672374_10",
+            "document": "Homeobox protein NANOG . Besides the effects of NANOG in the embryonic stages of life, ectopic expression of NANOG in the adult stem cells can restore the proliferation and differentiation potential that is lost due to organismal aging or cellular senescence.",
+            "score": 120.06999206542969
+        },
+        {
+            "docid": "4363576_7",
+            "document": "Cre-Lox recombination . Shortly thereafter, researchers in the laboratory of Prof. Klaus Rajewsky reported the production of pluripotent embryonic stem cells bearing a targeted loxP-flanked (floxed) DNA polymerase gene. Combining these advances in collaboration, the laboratories of Drs. Marth and Rajewsky reported in 1994 that Cre-lox recombination could be used for conditional gene targeting in developing T-cells in mice. They observed ~50% of the DNA polymerase beta gene was deleted in T cells based on DNA blotting. It was unclear whether only one allele in each T-cell or 50% of T cells had 100% deletion in both alleles. Researchers have since reported more efficient Cre-Lox conditional gene mutagenesis in the developing T cells by the Marth laboratory in 1995. Incomplete deletion by Cre recombinase is not uncommon in cells when two copies of floxed sequences need to be targeted due to efficiency problems, which is discussed in the Efficiency of Action section below.",
+            "score": 119.43183135986328
+        },
+        {
+            "docid": "2672374_14",
+            "document": "Homeobox protein NANOG . Professor Ian Chambers (currently of the MRC Centre for Regenerative Medicine, The University of Edinburgh, UK) who isolated the mouse Nanog gene said: \"Nanog seems to be a master gene that makes embryonic stem cells grow in the laboratory. In effect this makes stem cells immortal. Being Scottish, I therefore chose the name after the T\u00edr na n\u00d3g legend.\"",
+            "score": 118.41699981689453
+        },
+        {
+            "docid": "1210030_9",
+            "document": "Oct-4 . Oct-4 is one of the transcription factors used to create induced pluripotent stem cells, together with Sox2, Klf4 and often c-Myc in mouse, demonstrating its capacity to induce an embryonic stem cell-like state. These factors are often referred to as \"Yamanaka reprogramming factors\". This reprogramming effect has also been seen with the Thomson reprogramming factors, reverting human fibroblast cells to iPSCs through Oct-4, along with Sox2, Nanog, and Lin28. The use of Thomson reprogramming factors avoids the need to overexpress c-Myc, an oncogene. It was later determined that only two of these four factors, Oct4 and Klf4, were sufficient to reprogram mouse adult neural stem cells. Finally it was shown that a single factor, Oct-4 was sufficient for this transformation.",
+            "score": 116.7431640625
+        },
+        {
+            "docid": "3342582_6",
+            "document": "Leukemia inhibitory factor . LIF is often added to stem cell culture media as an alternative to feeder cell culture, due to the limitation that feeder cells present by only producing LIF on their cell surfaces. Feeder cells lacking the lif gene do not effectively support stem cells. LIF promotes self-renewal by recruiting signal transducer and activator of transcription 3 (Stat3). Stat3 is recruited to the activated LIF receptor and phosphorylated by Janus Kinase. It bears noting that LIF and Stat3 are not sufficient to inhibit stem cell differentiation, as cells will differentiate upon removal of serum. During the reversibility phase of differentiation from naive pluripotency, it is possible to revert cells back to naive pluripotency through the addition of LIF. Removal of LIF pushes stem cells toward differentiation, however genetic manipulation of embryonic stem cells allows for LIF independent growth, notably overexpression of the gene Nanog.",
+            "score": 116.56018829345703
+        },
+        {
+            "docid": "5940893_2",
+            "document": "Amniotic epithelial cell . An amniotic epithelial cell is a form of stem cell extracted from the lining of the inner membrane of the placenta. Amniotic epithelial cells start to develop around 8 days post fertilization. These cells are known to have some of the same markers as embryonic stem cells, more specifically, Oct-4 and nanog. These transcription factors are the basis of the pluripotency of stem cells. Amniotic epithelial cells have the ability to develop into any of the three germ layers: endoderm, mesoderm, and ectoderm. They can develop into several organ tissues specific to these germ layers including heart, brain, and liver. The pluripotency of the human amniotic epithelial cells makes them useful in treating and fighting diseases and disorders of the nervous system as well as other tissues of the human body. Artificial heart valves and working tracheas, as well as muscle, fat, bone, heart, neural and liver cells have all been engineered using amniotic stem cells. Tissues obtained from amniotic cell lines show promise for patients suffering from congenital diseases or malformations of the heart, liver, lungs, kidneys, and cerebral tissue.",
+            "score": 114.55406188964844
+        },
+        {
+            "docid": "4771320_8",
+            "document": "Inner cell mass . Blastomeres isolated from the ICM of mammalian embryos and grown in culture are known as embryonic stem (ES) cells. These pluripotent cells, when grown in a carefully coordinated media, can give rise to all three germ layers (ectoderm, endoderm, and mesoderm) of the adult body. For example, the transcription factor LIF4 is required for mouse ES cells to be maintained in vitro. Blastomeres are dissociated from an isolated ICM in an early blastocyst, and their transcriptional code governed by \"Oct4\", \"Sox2\", and \"Nanog\" helps maintain an undifferentiated state.",
+            "score": 113.4172134399414
+        }
+    ]
+}

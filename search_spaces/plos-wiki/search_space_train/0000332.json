@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "41213514_4",
+            "document": "Pharmacology of antidepressants . The delayed onset of clinical effects from antidepressants indicates involvement of adaptive changes in antidepressant effects. Rodent studies have consistently shown upregulation of the 3, 5-cyclic adenosine monophosphate (cAMP) system induced by different types of chronic but not acute antidepressant treatment, including serotonin and norepinephrine uptake inhibitors, monoamine oxidase inhibitors, tricyclic antidepressants, lithium and electroconvulsions. cAMP is synthesized from adenosine 5-triphosphate (ATP) by adenylyl cyclase and metabolized by cyclic nucleotide phosphodiesterases (PDEs).",
+            "score": 13.599669456481934
+        },
+        {
+            "docid": "14777493_6",
+            "document": "NDUFA13 . The homologous protein to NDUFA13, GRIM-19, may play a role in Chron's disease (CD), an inflammatory bowel disease (IBD) characterized by chronic inflammation of the intestinal epithelium. Its expression is decreased in the inflamed mucosa of patients with these diseases. Nucleotide-binding oligomerization domain-containing protein 2 (NOD2), also known as caspase recruitment domain-containing protein 15 (CARD15) or inflammatory bowel disease protein 1 (IBD1), functions as a mammalian cytosolic pathogen recognition molecule and plays an anti-bacterial role by limiting survival of intracellular invasive bacteria. GRIM-19 acts as a downstream anti-bacterial effector in CARD15-mediated innate mucosal responses by regulating intestinal epithelial cell responses to microbes. Following NOD2-mediated recognition of bacterial muramyl dipeptide, GRIM-19 is required for NF-\u03baB activation, a key component in regulating the immune response to infection.",
+            "score": 27.398839712142944
+        },
+        {
+            "docid": "33032376_4",
+            "document": "Lung microbiota . The airway epithelium together with alveolar macrophages and dendritic cells play a major role in the initial recognition of bacterial products getting into the lower airways with the air. Since some of these products are potent proinflammatory stimuli it is extremely important for the immune system to distinguish between pathogens and non-pathogenic commensals. This prevents the development of constant inflammation and forms tolerance against harmless microbiota.  This process becomes much more intriguing when taking into account that commensals often share their surface molecules with pathogens. Epithelial cells are equipped with very sensitive recognition tools - toll like receptors (TLRs), nucleotide-binding oligomerization domain (NOD)-like receptors (NLRs) and retinoic acid-inducible gene (RIG)-I-like receptors (RLRs) which recognize a broad variety of microbial structural components. After recognition of pathogenic bacteria proinflammatory pathways are activated and cellular components of the adaptive and innate immunity are recruited to the infection site. One key regulator in this process is the NF-\u03baB which translocates from the cytoplasm into the nucleus and activates pro-inflammatory genes in epithelial cells and macrophages. The DNA-binding protein complex recognizes a discrete nucleotide sequence (5\u2019-GGG ACT TTC T-3\u2019) in the upstream region of a variety of response genes. The activation of NF-\u03baB by a number of stimuli: bacterial cell walls or inflammatory cytokines results in its translocation to the nucleus.",
+            "score": 10.577884435653687
+        },
+        {
+            "docid": "50704695_7",
+            "document": "Specialized pro-resolving mediators . The production and activities of the SPM suggest a new view of inflammation wherein the initial response to foreign organisms, tissue injury, or other insults involves numerous soluble cell signaling molecules that not only recruit various cell types to promote inflammation but concurrently cause these cells to produce SPM which feed back on their parent and other cells to dampen their pro-inflammatory activity and to promote repair. Resolution of an inflammatory response is thus an active rather than self-limiting process which is set into motion at least in part by the initiating pro-inflammatory mediators (e.g. prostaglandin E2 and prostaglandin D2) which instruct relevant cells to produce SPM and to assume a more anti-inflammatory phenotype. Resolution of the normal inflammatory response, then, may involve switching production of pro-inflammatory to anti-inflammatory PUFA metabolites. Excessive inflammatory responses to insult as well as many pathological inflammatory responses that contribute to diverse diseases such as atherosclerosis, diabetes, Alzheimer's disease, Inflammatory bowel disease, etc. (see Inflammation#Inflammatory disorders) may reflect, in part, a failure in this class switching. Diseases caused or worsened by non-adaptive inflammatory responses may by amenable to treatment with SPM or synthetic SPM which, unlike natural SPM, resist in vivo metabolic inactivation. The SPM possess overlapping activities which work to resolve inflammation. SPMs (typically more than one for each listed action) have the following anti-inflammatory activities on the indicated cell types as defined in animal and human model studies:",
+            "score": 22.515926957130432
+        },
+        {
+            "docid": "8948754_2",
+            "document": "Pyroptosis . Pyroptosis is a highly inflammatory form of programmed cell death that occurs most frequently upon infection with intracellular pathogens and is likely to form part of the antimicrobial response. In this process, immune cells recognize foreign danger signals within themselves, release pro-inflammatory cytokines, swell, burst and die. The released cytokines attract other immune cells to fight the infection and contribute to inflammation in the tissue. Pyroptosis promotes the rapid clearance of various bacterial and viral infections by removing intracellular replication niches and enhancing the host's defensive responses. However, in pathogenic chronic diseases, the inflammatory response does not eradicate the primary stimulus, as would normally occur in most cases of infection or injury, and thus a chronic form of inflammation ensues that ultimately contributes to tissue damage. Some examples of pyroptosis include \"Salmonella\"-infected macrophages and abortively HIV-infected T helper cells.",
+            "score": 36.15740990638733
+        },
+        {
+            "docid": "37922599_3",
+            "document": "Asthma-related microbes . According to Hertzen (2002), a common characteristic of asthmatic patients is to have epithelial cells that respond to injury by enhancing the capability of producing proinflammatory and profibrogenic cytokines, instead of repairing the injured epithelial layer. As a result, inflammation and associated healing process leads to scar formation and tissue remodelling, which are symptoms that can be found in almost all asthmatics patients. Thus, asthma is a chronic inflammatory disorder of the airways. Asthma is divided into two subgroups: atopic (extrinsic) and non-atopic (intrinsic). The atopic subgroup is closely associated with family history of the disease, whereas the non-atopic subgroup has its onset in adulthood and it is not caused by inheritance. It is known that non-atopic asthma has a more severe clinical course than atopic asthma. Non-atopic asthma may be caused by chronic viral, bacterial infections, or colonization with pathogenic bacteria.",
+            "score": 21.671526670455933
+        },
+        {
+            "docid": "14725633_13",
+            "document": "PSMB9 . The clinical relevance of the PSMB9 protein can be found mostly in the areas of infectious diseases, autoimmune diseases and oncology. For instance, it has been verified that mRNA coding for PSMB9 (together with CFD, MAGED1, PRDX4 and FCGR3B) is differentially expressed between patients who developed clinical symptoms associated with the mild disease type of Dengue fever, and patients who showed clinical symptoms associated with severe Dengue. The study suggests that this gene expression panel may serve as biomarkers of clinical prognosis in Dengue hemorrhagic fever. Further studies also indicate a role for PMSB9, in a panel with 9 other genes (Zbp1, Mx2, Irf7, Lfi47, Tapbp, Timp1, Trafd1, Tap2) in the development of influenza vaccines, and in the diagnosis of autoimmune disease Sjogren syndrome in conjunction with 18 other genes (EPSTI1, IFI44,IFI44L, IFIT1, IFIT2, IFIT3, MX1, OAS1, SAMD9L, STAT1, HERC5, EV12B, CD53, SELL, HLA-DQA1, PTPRC, B2M, and TAP2). With regards to oncology, PSMB9 in conjunction with other genes that are involved with immune response processes (TAP1, PSMB8, PSMB9, HLA-DQB1, HLA-DQB2, HLA-DMA, and HLA-DOA) may form a comprehensive assessment of the clinical outcome in epithelial ovarian carcinoma tumor methylation assessments. The study suggest that an epigenetically mediated immune response is a predictor of recurrence and, possibly, treatment response for high-grade serous epithelial ovarian carcinomas.",
+            "score": 22.593480110168457
+        },
+        {
+            "docid": "215199_2",
+            "document": "Otitis media . Otitis media is a group of inflammatory diseases of the middle ear. The two main types are acute otitis media (AOM) and otitis media with effusion (OME). AOM is an infection of abrupt onset that usually presents with ear pain. In young children this may result in pulling at the ear, increased crying, and poor sleep. Decreased eating and a fever may also be present. OME is typically not associated with symptoms. Occasionally a feeling of fullness is described. It is defined as the presence of non-infectious fluid in the middle ear for more than three months. Chronic suppurative otitis media (CSOM) is middle ear inflammation of greater than two weeks that results in episodes of discharge from the ear. It may be a complication of acute otitis media. Pain is rarely present. All three may be associated with hearing loss. The hearing loss in OME, due to its chronic nature, may affect a child's ability to learn. The cause of AOM is related to childhood anatomy and immune function. Either bacteria or viruses may be involved. Risk factors include exposure to smoke, use of pacifiers, and attending daycare. It occurs more commonly among Indigenous peoples and those who have Down syndrome. OME frequently occurs following AOM and may be related to viral upper respiratory infections, irritants such as smoke, or allergies. Looking at the eardrum is important for making the correct diagnosis. Signs of AOM include bulging or a lack of movement of the tympanic membrane from a puff of air. New discharge not related to otitis externa also indicates the diagnosis. A number of measures decrease the risk of otitis media including pneumococcal and influenza vaccination, breastfeeding, and avoiding tobacco smoke. The use of pain medications for AOM is important. This may include paracetamol (acetaminophen), ibuprofen, benzocaine ear drops, or opioids. In AOM, antibiotics may speed recovery but may result in side effects. Antibiotics are often recommended in those with severe disease or under two years old. In those with less severe disease they may only be recommended in those who do not improve after two or three days. The initial antibiotic of choice is typically amoxicillin. In those with frequent infections tympanostomy tubes may decrease recurrence. In children with otitis media with effusion antibiotics may increase resolution of symptoms, but may cause diarrhoea, vomiting and skin rash. Worldwide AOM affect about 11% of people a year (about 325 to 710\u00a0million cases). Half the cases involve children less than five years of age and it is more common among males. Of those affected about 4.8% or 31\u00a0million develop chronic suppurative otitis media. Before the age of ten OME affects about 80% of children at some point. Otitis media resulted in 3,200 deaths in 2015 \u2013 down from 4,900 deaths in 1990.",
+            "score": 56.25648486614227
+        },
+        {
+            "docid": "26952725_3",
+            "document": "Piclamilast . Piclamilast functions through the selective inhibition of the four PDE4 isoforms (PDE4A-D). It shows no inhibition of the other PDEs. The PDE4 isoforms are especially important to inflammatory and immunomodulatory cells. They are the most common PDE in inflammatory cells such as mast cells, neutrophils, basophils, eosinophils, T lymphocytes, macrophages, and structural cells such as sensory nerves and epithelial cells. PDE4 hydrolyzes cyclic adenosine monophosphate (cAMP) to inactive adenosine monophosphate (AMP). Inhibition of PDE4 blocks hydrolysis of cAMP thereby increasing levels of cAMP within cells. cAMP suppresses the activity of immune and inflammatory cells. PDE4 inhibition in an induced chronic lung disease murine model was shown to have anti-inflammatory properties, attenuate pulmonary fibrin deposition and vascular alveolar leakage, and prolong survival in hyperoxia-induced neonatal lung injury. A study of PDE4 inhibition in a murine model of allergic asthma showed that piclamilast significantly improves the pulmonary function, airway inflammation and goblet cell hyperplasia.",
+            "score": 10.12197494506836
+        },
+        {
+            "docid": "929532_9",
+            "document": "Haemophilus influenzae . Clinical diagnosis of \"H. influenzae\" is typically performed by bacterial culture or latex particle agglutinations. Diagnosis is considered confirmed when the organism is isolated from a sterile body site. In this respect, \"H. influenzae\" cultured from the nasopharyngeal cavity or sputum would not indicate \"H. influenzae\" disease, because these sites are colonized in disease-free individuals. However, \"H. influenzae\" isolated from cerebrospinal fluid or blood would indicate \"H. influenzae\" infection.",
+            "score": 23.633708715438843
+        },
+        {
+            "docid": "5507044_3",
+            "document": "Cyclic nucleotide phosphodiesterase . The systematic for this enzyme is 3',5'-cyclic-nucleotide 5'-nucleotidohydrolase. Other names in use include cyclic 3',5'-mononucleotide phosphodiesterase, PDE, cyclic 3',5'-nucleotide phosphodiesterase, cyclic 3',5'-phosphodiesterase, 3',5'-nucleotide phosphodiesterase, 3':5'-cyclic nucleotide 5'-nucleotidohydrolase, 3',5'-cyclonucleotide phosphodiesterase, 3', 5'-cyclic nucleoside monophosphate phosphodiesterase, 3': 5'-monophosphate phosphodiesterase (cyclic CMP), cytidine 3':5'-monophosphate phosphodiesterase (cyclic CMP), cyclic 3',5-nucleotide monophosphate phosphodiesterase, nucleoside 3',5'-cyclic phosphate diesterase, nucleoside-3',5-monophosphate phosphodiesterase)",
+            "score": 0.0
+        },
+        {
+            "docid": "15464966_23",
+            "document": "Pathogenic bacteria . Of the 59 species listed in the table with their clinical characteristics, 11 species (or 19%) are known to be capable of natural genetic transformation. Natural transformation is a bacterial adaptation for transferring DNA from one cell to another. This process includes the uptake of exogenous DNA from a donor cell by a recipient cell and its incorporation into the recipient cell\u2019s genome by recombination. Transformation appears to be an adaptation for repairing damage in the recipient cell\u2019s DNA. Among pathogenic bacteria, transformation capability likely serves as an adaptation that facilitates survival and infectivity. The pathogenic bacteria able to carry out natural genetic transformation (of those listed in the table) are \"Campylobacter jejuni\", \"Enterococcus faecalis\", \"Haemophilus influenzae\", \"Helicobacter pylori\", \"Klebsiella pneumoniae\", \"Legionella pneumophila\", \"Neisseria gonorrhoeae\", \"Neisseria meningitides\", \"Staphylococcus aureus\", \"Streptococcus pneumoniae\" and \"Vibrio cholerae\".",
+            "score": 24.872132062911987
+        },
+        {
+            "docid": "10995185_25",
+            "document": "Arachidonate 5-lipoxygenase . Studies implicate ALOX5 in contributing to innate immunity by contributing to the mounting inflammatory responses to a wide range of acute (e.g. pathogen invasion, trauma, and burns [see Inflammation#Causes); however, ALOX5 also contributes to the development and progression of excessive and chronic inflammatory responses such as rheumatoid arthritis, atherosclerosis, inflammatory bowel disease, and autoimmune diseases (see Inflammation#Inflammatory disorders). These dual functions probably reflect ALOX5's ability to form the: a) potent chemotactic factor, LTB4, and possibly also weaker chemotactic factor, 5\"S\"-HETE, which serve to attract and otherwise activate inflammation-inducing cells such as circulating leukocytes and tissue macrophages and dendritic cells and b) lipoxin and resolvin subfamily of SPMs which tend to inhibit these cells as well as the overall inflammatory responses.",
+            "score": 13.61803650856018
+        },
+        {
+            "docid": "407814_24",
+            "document": "Hygiene hypothesis . An alternative explanation is that the developing immune system must receive stimuli (from infectious agents, symbiotic bacteria, or parasites) to adequately develop regulatory T cells. Without that stimuli it becomes more susceptible to autoimmune diseases and allergic diseases, because of insufficiently repressed T1 and T2 responses, respectively. For example, all chronic inflammatory disorders show evidence of failed immunoregulation. Secondly, helminths, non-pathogenic ambient pseudocommensal bacteria or certain gut commensals and probiotics, drive immunoregulation. They block or treat models of all chronic inflammatory conditions. Thirdly, some such organisms (or molecules that they secrete), specifically expand populations of regulatory T cells (Treg), or cause dendritic cells to switch to regulatory forms that preferentially drive immunoregulation. Finally, when multiple sclerosis patients become infected with helminths, the disease stops progressing and circulating myelin-recognising regulatory T cells appear in the peripheral blood. This indicates that helminths act as adjuvants for regulatory T cells. This observation led to clinical trials.",
+            "score": 23.776362895965576
+        },
+        {
+            "docid": "1552187_31",
+            "document": "Microglia . Microglia are the primary immune cells of the Central Nervous System, similar to peripheral macrophages. They respond to pathogens and injury by changing morphology and migrating to the site of infection/injury, where they destroy pathogens and remove damaged cells. As part of their response they secrete cytokines, chemokines, prostaglandins, and reactive oxygen species, which help to direct the immune response. Additionally, they are instrumental in the resolution of the inflammatory response, through the production of anti-inflammatory cytokines. Microglia have also been extensively studied for their harmful roles in neurodegenerative diseases, such as Alzheimer\u2019s disease, Parkinson\u2019s disease, Multiple sclerosis, as well as cardiac diseases, glaucoma, and viral and bacterial infections.",
+            "score": 13.024580955505371
+        },
+        {
+            "docid": "24801892_4",
+            "document": "Folate targeting . The FR is an emerging therapeutic target for diagnosis and treatment of cancer and chronic inflammatory diseases. Expression of the FR is selectively upregulated on certain malignant cells and activated macrophages. Overexpression of the FR on these types of cells is clinically significant because they designate areas where the physiological symptoms of disease are most extensive. The malignant cells indicate the presence of tumors associated with ovarian, lung, breast, kidney, brain, endometrial, and colon cancer. Macrophages become activated in chronic diseases such as rheumatoid arthritis, Crohn\u2019s disease, ulcerative colitis, psoriasis, atherosclerosis, diabetes, and most other inflammatory diseases.",
+            "score": 20.016404151916504
+        },
+        {
+            "docid": "11062043_3",
+            "document": "Porphyromonas gingivalis . It is found in the oral cavity, where it is implicated in certain forms of periodontal disease, as well as in the upper gastrointestinal tract, the respiratory tract, and the colon. It has also been isolated from women with bacterial vaginosis. Collagen degradation observed in chronic periodontal disease results in part from the collagenase enzymes of this species. It has been shown in an \"in vitro\" study that \"P. gingivalis\" can invade human gingival fibroblasts and can survive in them in the presence of considerable concentrations of antibiotics. \"P. gingivalis\" also invades gingival epithelial cells in high numbers, in which cases both bacteria and epithelial cells survive for extended periods of time.  High levels of specific antibodies can be detected in patients harboring \"P. gingivalis\".",
+            "score": 12.467518091201782
+        },
+        {
+            "docid": "26677077_3",
+            "document": "Phosphodiesterase-4 inhibitor . The prototypical PDE4 inhibitor is rolipram. PDE4 inhibitors are known to possess procognitive (including long-term memory-improving), wakefulness-promoting, neuroprotective, and anti-inflammatory effects. Consequently, PDE4 inhibitors have been investigated as treatments for a diverse group of different diseases, including central nervous system disorders such as major depressive disorder (clinical depression), anxiety disorders, schizophrenia, Parkinson's disease, Alzheimer's disease, multiple sclerosis, attention deficit-hyperactivity disorder, Huntington's disease, stroke, autism and inflammatory conditions such as chronic obstructive pulmonary disease (COPD), asthma and rheumatoid arthritis. PDE4D inhibition, along with PDE4A inhibition also appears to be responsible for the antidepressant effects of PDE4 inhibitors. Similarly PDE4B inhibition appears to be required for the antipsychotic effects of PDE4 inhibitors, in line with this view PDE4B polymorphisms and altered gene expression in the central nervous system have been associated with schizophrenia and bipolar disorder in a postmortem study. PDE4 also regulates the D/PKA/DARPP-32 signalling cascade in the frontal cortex, which may contribute to the antipsychotic and procognitive effects of PDE4 inhibitors. Whereas PDE4C is expressed primarily in the periphery and hence may be partly responsible for the peripheral effects of PDE4 inhibitors (e.g. their anti-inflammatory effects). PDE4 inhibition is also known to attenuate ethanol seeking and consumption in rats, hence suggesting its possible utility in the treatment of alcohol dependence. A few different lines of evidence suggests the therapeutic utility in the treatment of brain tumours.",
+            "score": 16.075511693954468
+        },
+        {
+            "docid": "24776305_2",
+            "document": "8-Bromoadenosine 3',5'-cyclic monophosphate . 8-Bromoadenosine 3',5'-cyclic adenosine monophosphate (8-Br-cAMP) is a brominated derivative of cyclic adenosine monophosphate (cAMP). 8-Br-cAMP is an activator of cyclic AMP-dependent protein kinase, and it is long-acting because it is resistant to degradation by cyclic AMP phosphodiesterase.",
+            "score": 0.0
+        },
+        {
+            "docid": "8948754_14",
+            "document": "Pyroptosis . In a healthy cell, caspase-1 activation helps to fight infection caused by \"Salmonella\" and \"Shigella\" via introducing cell death to restrict pathogen growth. When the \u2018danger' signal is sensed, the quiescent cells will be activated to undergo pyroptosis and produce inflammatory cytokines IL-1\u03b2 and IL-18. IL-18 will stimulate IFN\u03b3 production and initiates the development of T1 responses. (T1 responses tend to release cytokines that direct an immediate removal of the pathogen). The cell activation results in an increase in cytokine levels, which will augment the consequences of inflammation and this, in turn, contributes to the development of the adaptive response as infection progresses. The ultimate resolution will clear pathogens.",
+            "score": 9.948341608047485
+        },
+        {
+            "docid": "731225_8",
+            "document": "Resistin . In further support of its inflammatory profile, resistin has been shown to increase transcriptional events, leading to an increased expression of several pro-inflammatory cytokines including (but not limited to) interleukin-1 (IL-1), interleukin-6 (IL-6), interleukin-12 (IL-12), and tumor necrosis factor-\u03b1 (TNF-\u03b1) in an NF-\u03baB-mediated (nuclear factor kappa-light-chain-enhancer of activated B cells-mediated) fashion. It has also been demonstrated that resistin upregulates intercellular adhesion molecule-1 (ICAM1) vascular cell-adhesion molecule-1 (VCAM1) and chemokine (C-C motif) ligand 2 (CCL2), all of which are occupied in chemotactic pathways involved in leukocyte recruitment to sites of infection. Resistin itself can be upregulated by interleukins and also by microbial antigens such as lipopolysaccharide, which are recognized by leukocytes. Taken together, because resistin is reputed to contribute to insulin resistance, results such as those mentioned suggest that resistin may be a link in the well-known association between inflammation and insulin resistance. In accordance, it is expected that, if resistin does indeed serve as a link between obesity and T2DM while at the same time contributing to the inflammatory response, then we should also observe proportional increases in chronic inflammation in association with obesity and insulin resistance. In fact, recent data have shown that this possibility is indeed the case by demonstrating positive correlations between obesity, insulin resistance, and chronic inflammation, which is believed to be directed in part by resistin signaling. This idea has recently been challenged by a study showing that increased levels of resistin in people with chronic kidney disease are associated with lowered renal function and inflammation, but not with insulin resistance. Notwithstanding, regarding resistin and the inflammatory response, we can conclude that resistin does indeed bear features of a pro-inflammatory cytokine, and could act as a key node in inflammatory diseases with or without associated insulin resistance.",
+            "score": 17.832560300827026
+        },
+        {
+            "docid": "52791986_2",
+            "document": "Bacterial phylodynamics . Bacterial phylodynamics is the study of immunology, epidemiology, and phylogenetics of bacterial pathogens to better understand the evolutionary role of these pathogens. Phylodynamic analysis includes analyzing genetic diversity, natural selection, and population dynamics of infectious disease pathogen phylogenies during pandemics and studying intra-host evolution of viruses. Phylodynamics combines the study of phylogenetic analysis, ecological, and evolutionary processes to better understand of the mechanisms that drive spatiotemportal incidence and phylogenetic patterns of bacterial pathogens. Bacterial phylodynamics uses genome-wide single-nucleotide polymorphisms (SNP) in order to better understand the evolutionary mechanism of bacterial pathogens. Many phylodynamic studies have been performed on viruses, specifically RNA viruses (see Viral phylodynamics) which have high mutation rates. The field of bacterial phylodynamics has increased substantially due to the advancement of next-generation sequencing and the amount of data available.",
+            "score": 25.988600254058838
+        },
+        {
+            "docid": "6988_2",
+            "document": "Cyclic adenosine monophosphate . Cyclic adenosine monophosphate (cAMP, cyclic AMP, or 3',5'-cyclic adenosine monophosphate) is a second messenger important in many biological processes. cAMP is a derivative of adenosine triphosphate (ATP) and used for intracellular signal transduction in many different organisms, conveying the cAMP-dependent pathway. It should not be confused with 5'-AMP-activated protein kinase (AMP-activated protein kinase).",
+            "score": 9.251866340637207
+        },
+        {
+            "docid": "14873639_6",
+            "document": "Cathepsin Z . This gene is expressed ubiquitously in cancer cell lines and primary tumors and, like other members of this family, may be involved in tumorigenesis.For instance, cathepsin Z promotes invasion and migration via a noncatalytic mechanism, suggesting multiple modes of cell invasion may be involved in cancer malignancy. Cathepsin Z is also reported to have a protective, but not proteolytic, function in inflammatory gastric disease. It is reported in another study that cathepsin Z may be responsible for dopamine neuron death and thus involved in the pathogenic cascade event. Single-nucleotide polymorphism in CTSZ is found associated with tuberculosis susceptibility, indicating that the pathways involving this protein could yield novel therapies for tuberculosis.",
+            "score": 8.293005228042603
+        },
+        {
+            "docid": "31678753_2",
+            "document": "Paracytophagy . Paracytophagy () is the cellular process whereby a cell engulfs a protrusion which extends from a neighboring cell. This protrusion may contain material which is actively transferred between the cells. The process of paracytophagy was first described as a crucial step during cell-to-cell spread of the intracellular bacterial pathogen \"Listeria monocytogenes\", and is also commonly observed in \"Shigella flexneri\". Paracytophagy allows these intracellular pathogens to spread directly from cell to cell, thus escaping immune detection and destruction. Studies of this process have contributed significantly to our understanding of the role of the actin cytoskeleton in eukaryotic cells.",
+            "score": 19.486672163009644
+        },
+        {
+            "docid": "39632259_3",
+            "document": "Skin immunity . The skin acts as a barrier, a kind of sheath, made of several layers of cells and their related glands. The skin is a dynamic organ that contains different cells which contains elements of the innate and the adaptive immune system which are activated when the tissue is under attack by invading pathogens. Shortly after infection, the immune adaptive response is induced by dendritic cells (Langerhans cells) present in the epidermis; they are responsible for the capture, processing, and presentation of antigens to T lymphocytes in local lymphoid organs. As a result, T lymphocytes express the CLA molecule. Lymphocytes move to the epidermis where they reside as memory T cells, they will thus be activated and will trigger an inflammatory response. Dysregulation of these mechanisms is associated with inflammatory diseases of the skin.",
+            "score": 13.746031761169434
+        },
+        {
+            "docid": "44025941_7",
+            "document": "Claire V. Broome . At the CDC, Broome contributed to the understanding of several diseases of high public interest including Legionnaires' Disease, pneumococcal vaccine evaluation, meningococcal disease and Toxic Shock Syndrome. Notable accomplishments included development of a new method for observational measurement of the effectiveness of the pneumoccal polysaccharide vaccine (the \"indirect cohort\" or \"Broome\" method), which has been used since then to assess serotype specific effectiveness, duration of effectiveness, and effectiveness in groups with underlying disease; designed observational and field trials to evaluate vaccine performance, including sequential case control studies to define duration of meningococcal polysaccharide vaccine effectiveness in Burkina Faso; a cluster randomized trial of Group B meningococcal vaccine efficacy in Cuba; and \"Haemophilus influenzae\" type b conjugate vaccine impact on pneumonia in the Gambia; creation of funded population based active surveillance sites for 5 invasive bacterial pathogens (the forerunner of domestic Emerging Infections Programs); and demonstration that epidemic and sporadic listeriosis was a food-borne disease.",
+            "score": 26.50476312637329
+        },
+        {
+            "docid": "14162110_11",
+            "document": "Prostaglandin EP4 receptor . EP receptors are highly expressed in the small intestine and colon. Mice lacking this receptor or treated with a selective EP antagonist proved to be far more susceptible to the development of dextran sodium sulphate (DSS)-induced colitis and to be protected from developing the colitis by pre-treatment with EP-selective agonists (ONO-AE1-734 and AGN205203). The DDS-inflicted lesions were associated with defective colon mucosa barrier function along with the overexpression of genes mediating inflammatory responses and under-expression of genes involved in mucosal repair and remodeling. EP thus appears to serve anti-inflammatory and protective functions in the colon and agonists of this receptor may be useful for treating inflammatory bowel diseases such as ulcerative colitis. Activation of EP stimulates duodenum epithelial cells to secrete bicarbonate (HCO3-) in mice and humans; this response neutralizes the acidic fluid flowing from the stomach thereby contributing to the process of intestinal ulcer healing. Activators of this receptor therefore may useful as anti-ulcer drugs.",
+            "score": 10.24470043182373
+        },
+        {
+            "docid": "21606890_14",
+            "document": "Lidia Rudnicka . Clinical observations made by Rudnicka and her co-workers indicate the rationality of long-term low-dose antibiotic therapy in chronic inflammatory skin diseases: SLE and psoriasis.",
+            "score": 10.937325477600098
+        },
+        {
+            "docid": "27580_6",
+            "document": "Statistical unit . In some cases, the observed units may not form a sample from any meaningful population, but rather constitute a convenience sample, or may represent the entire population of interest. In this situation, we may study the units descriptively, or we may study their dynamics over time. But it typically does not make sense to talk about generalizing to a larger population of such units. Studies involving countries or business firms are often of this type. Clinical trials also typically use convenience samples, however the aim is often to make inferences about the efficacy of treatments in other patients, and given the inclusion and exclusion criteria for some clinical trials, the sample may not be representative of the majority of patients with the condition or disease.",
+            "score": 14.648997783660889
+        },
+        {
+            "docid": "3335116_11",
+            "document": "Human iron metabolism . Although this mechanism is an elegant response to short-term bacterial infection, it can cause problems when inflammation goes on for longer. Since the liver produces hepcidin in response to inflammatory cytokines, hepcidin levels can increase as the result of non-bacterial sources of inflammation, like viral infection, cancer, auto-immune diseases or other chronic diseases. When this occurs, the sequestration of iron appears to be the major cause of the syndrome of anemia of chronic disease, in which not enough iron is available to produce enough hemoglobin-containing red blood cells.",
+            "score": 21.77485704421997
+        },
+        {
+            "docid": "22977267_3",
+            "document": "Streptamer . T cells play an important role in the adaptive immune system. They are capable of orchestrating, regulating and coordinating complex immune responses. A wide array of clinically relevant aspects are associated with the function or malfunction of T-cells: Autoimmune diseases, control of viral or bacterial pathogens, development of cancer or graft versus host responses. Over the past years, various methods (ELISPOT assay, intracellular cytokine staining, secretion assay) have been developed for the identification of T cells, but only major histocompatibility complex (MHC) procedures allow identification and purification of antigen-specific T cells independent of their functional status.",
+            "score": 30.49133825302124
+        }
+    ],
+    "r": [
+        {
+            "docid": "54306415_7",
+            "document": "Phasevarion . Switching of \"mod\" genes is selected for under certain disease states or within specific host niches: for example, the non-typeable \"Haemophilus influenzae\" (NTHi) \"modA2\" ON state is selected for within the middle ear during manifestation of experimental otitis media. A switch from \"modA2\" OFF to \"modA2\" ON results in more severe middle ear disease in a model of otitis media than in a situation where switching from \"modA2\" OFF to \"modA2\" ON does not occur. Phase-variation of the \"modA2\" allele also results in NTHi populations with distinct advantages under oxidative stress and increased resistance to neutrophil killing. In \"M. catarrhalis\", the \"modM3\" allele is associated with strains isolated from the middle ear of children. In \"S. pneumoniae\", selection of particular SpnD39III alleles (allele A) occurs when \"S. pneumoniae\" is present in blood, which implies that SpnD39III-A regulates genes that give a selective advantage in this \"in vivo\" niche. No selection for any SpnD39III allele was seen when S. pneumoniae was present in the nasopharynx.",
+            "score": 71.12018585205078
+        },
+        {
+            "docid": "929532_4",
+            "document": "Haemophilus influenzae . In 1930, two major categories of \"H. influenzae\" were defined: the unencapsulated strains and the encapsulated strains. Encapsulated strains were classified on the basis of their distinct capsular antigens. The six generally recognized types of encapsulated \"H. influenzae\" are: a, b, c, d, e, and f. Genetic diversity among unencapsulated strains is greater than within the encapsulated group. Unencapsulated strains are termed nontypable (NTHi) because they lack capsular serotypes; however, they can be classified by multilocus sequence typing. The pathogenesis of \"H. influenzae\" infections is not completely understood, although the presence of the capsule in encapsulated type b (Hib), a serotype causing conditions such as epiglottitis, is known to be a major factor in virulence. Their capsule allows them to resist phagocytosis and complement-mediated lysis in the nonimmune host. The unencapsulated strains are almost always less invasive; they can, however, produce an inflammatory response in humans, which can lead to many symptoms. Vaccination with Hib conjugate vaccine is effective in preventing Hib infection, but does not prevent infection with NTHi strains.",
+            "score": 57.88848876953125
+        },
+        {
+            "docid": "215199_2",
+            "document": "Otitis media . Otitis media is a group of inflammatory diseases of the middle ear. The two main types are acute otitis media (AOM) and otitis media with effusion (OME). AOM is an infection of abrupt onset that usually presents with ear pain. In young children this may result in pulling at the ear, increased crying, and poor sleep. Decreased eating and a fever may also be present. OME is typically not associated with symptoms. Occasionally a feeling of fullness is described. It is defined as the presence of non-infectious fluid in the middle ear for more than three months. Chronic suppurative otitis media (CSOM) is middle ear inflammation of greater than two weeks that results in episodes of discharge from the ear. It may be a complication of acute otitis media. Pain is rarely present. All three may be associated with hearing loss. The hearing loss in OME, due to its chronic nature, may affect a child's ability to learn. The cause of AOM is related to childhood anatomy and immune function. Either bacteria or viruses may be involved. Risk factors include exposure to smoke, use of pacifiers, and attending daycare. It occurs more commonly among Indigenous peoples and those who have Down syndrome. OME frequently occurs following AOM and may be related to viral upper respiratory infections, irritants such as smoke, or allergies. Looking at the eardrum is important for making the correct diagnosis. Signs of AOM include bulging or a lack of movement of the tympanic membrane from a puff of air. New discharge not related to otitis externa also indicates the diagnosis. A number of measures decrease the risk of otitis media including pneumococcal and influenza vaccination, breastfeeding, and avoiding tobacco smoke. The use of pain medications for AOM is important. This may include paracetamol (acetaminophen), ibuprofen, benzocaine ear drops, or opioids. In AOM, antibiotics may speed recovery but may result in side effects. Antibiotics are often recommended in those with severe disease or under two years old. In those with less severe disease they may only be recommended in those who do not improve after two or three days. The initial antibiotic of choice is typically amoxicillin. In those with frequent infections tympanostomy tubes may decrease recurrence. In children with otitis media with effusion antibiotics may increase resolution of symptoms, but may cause diarrhoea, vomiting and skin rash. Worldwide AOM affect about 11% of people a year (about 325 to 710\u00a0million cases). Half the cases involve children less than five years of age and it is more common among males. Of those affected about 4.8% or 31\u00a0million develop chronic suppurative otitis media. Before the age of ten OME affects about 80% of children at some point. Otitis media resulted in 3,200 deaths in 2015 \u2013 down from 4,900 deaths in 1990.",
+            "score": 56.25648498535156
+        },
+        {
+            "docid": "28598_15",
+            "document": "Sinusitis . Acute sinusitis is usually precipitated by an earlier upper respiratory tract infection, generally of viral origin, mostly caused by rhinoviruses, coronaviruses, and influenza viruses, others caused by adenoviruses, human parainfluenza viruses, human respiratory syncytial virus, enteroviruses other than rhinoviruses, and metapneumovirus. If the infection is of bacterial origin, the most common three causative agents are \"Streptococcus pneumoniae\", \"Haemophilus influenzae\", and \"Moraxella catarrhalis\". Until recently, \"Haemophilus influenzae\" was the most common bacterial agent to cause sinus infections. However, introduction of the \"H. influenza\" type B (Hib) vaccine has dramatically decreased \"H. influenza\" type B infections and now non-typable \"H. influenza\" (NTHI) are predominantly seen in clinics. Other sinusitis-causing bacterial pathogens include \"Staphylococcus aureus\" and other streptococci species, anaerobic bacteria and, less commonly, gram negative bacteria. Viral sinusitis typically lasts for 7 to 10 days, whereas bacterial sinusitis is more persistent. Approximately 0.5% to 2% of viral sinusitis results in subsequent bacterial sinusitis. It is thought that nasal irritation from nose blowing leads to the secondary bacterial infection.",
+            "score": 54.16265106201172
+        },
+        {
+            "docid": "30206738_28",
+            "document": "Chronic obstructive pulmonary disease . Most cases of COPD are potentially preventable through decreasing exposure to smoke and improving air quality. Annual influenza vaccinations in those with COPD reduce exacerbations, hospitalizations and death. Pneumococcal vaccination may also be beneficial. The non-typable \"Haemophilus influenzae\" vaccine (NTHi) when taken by mouth does not appear to reduce exacerbations in people with COPD. Eating a diet high in beta-carotene may help but taking supplements does not seem to.",
+            "score": 46.35515213012695
+        },
+        {
+            "docid": "215199_10",
+            "document": "Otitis media . To confirm the diagnosis, middle-ear effusion and inflammation of the eardrum have to be identified; signs of these are fullness, bulging, cloudiness and redness of the eardrum. It is important to attempt to differentiate between acute otitis media and otitis media with effusion (OME), as antibiotics are not recommended for OME. It has been suggested that bulging of the tympanic membrane is the best sign to differentiate AOM from OME, with a bulging of the membrane suggesting AOM rather than OME.",
+            "score": 45.038333892822266
+        },
+        {
+            "docid": "3119439_18",
+            "document": "Olympus OM-2 . The OM-2S used the OM-4 shutter mechanism but without the 1/2000 sec top speed, using instead 1/1000 as the maximum. It did, however, retain its mechanical Bulb setting as well as 1/60 second speed for use when batteries were depleted. This addressed a failing of the older all-electronic OM-2 models which were unusable without batteries. Additionally, a basic level of weather-sealing was provided as a new feature in the OM-2 line. While the older OM-2 models could routinely withstand harsh conditions, they were never advertised as having any environmental protection features.",
+            "score": 40.514404296875
+        },
+        {
+            "docid": "10102552_4",
+            "document": "Legenden om Ljusets rike . Legenden om Ljusets rike is a follow-up to two previous set of novels written by Margit Sandemo: Directly to the H\u00e4xm\u00e4staren and indirectly to The Legend of the Ice People, and it is the conclusion-volume of the set of novels-trilogy that consist of these novels. Part of the characters of the Legenden om Ljusets rike are the same as in the novels H\u00e4xm\u00e4staren and Sagan om Isfolket; part of them are completely new. Mainly, new characters are children of the principal characters of the two above-mentioned novels.",
+            "score": 40.22837448120117
+        },
+        {
+            "docid": "215199_14",
+            "document": "Otitis media . Otitis media with effusion (OME), also known as serous otitis media (SOM) or secretory otitis media (SOM), and colloquially referred to as 'glue ear,' is fluid accumulation that can occur in the middle ear and mastoid air cells due to negative pressure produced by dysfunction of the Eustachian tube. This can be associated with a viral URI or bacterial infection such as otitis media. An effusion can cause conductive hearing loss if it interferes with the transmission of vibrations of middle ear bones to the vestibulocochlear nerve complex that are created by sound waves.",
+            "score": 39.81819152832031
+        },
+        {
+            "docid": "3119439_6",
+            "document": "Olympus OM-2 . The model series appeared in the following order: OM-2, OM-2 MD, OM-2n MD and thereafter the heavily revised OM-2S/OM-2 Spot Program, which was, essentially, a new mechanism within a similar body.",
+            "score": 39.36477279663086
+        },
+        {
+            "docid": "3028928_24",
+            "document": "Olympus OM system . The OM Series lenses had the aperture control ring located at the front of the lens barrel. This was done to move it away from the shutter speed control, which was a ring on the camera body concentric with the lens mount. OM lenses also featured a depth-of-field preview button on the lens, in contrast to most other SLR camera systems, in which the button was placed on the camera body. The OM lens was designed to sit 46\u00a0mm (measured from the lens mounting ring, or flange) from the film plane. The combination of on-lens aperture control and the generous 'flange-distance' make OM lenses adaptable (with limited functionality) to a variety of other camera systems \u2013 including Canon EOS models \u2013 by using a mount-specific adapter.",
+            "score": 39.312774658203125
+        },
+        {
+            "docid": "26769241_32",
+            "document": "Gladstone Institutes . Warner C. Greene\u2014Provided insight into the precise mechanisms of how HIV attacks the human immune system, and how small fibrils found in semen enhance the ability of HIV to infect cells\u2014paving the way for the development of new ways to prevent the spread of the virus. Identifying pyroptosis as the predominant mechanism that causes the two signature pathogenic events in HIV infection\u2013\u2013CD4 T-cell depletion and chronic inflammation. Identifying pyroptosis may provides novel therapeutic opportunities targeting caspase-1, which controls the pyroptotic cell death pathway. Specifically, these findings could open the door to an entirely new class of \u201canti-AIDS\u201d therapies that act by targeting the host rather than the virus.",
+            "score": 38.7965087890625
+        },
+        {
+            "docid": "6498821_2",
+            "document": "Olympus OM-3 . The Olympus OM-3 is a manual camera without automatic exposure modes, and an entirely mechanical shutter. Introduced in 1983, the OM-3 was the first of a new series of professional camera bodies designed to update the OM-1 and OM-2. These new bodies, which continued with the more popular OM-4, included a number of refinements over their predecessors. Perhaps the most significant changes made were to the metering system. The OM-3 and OM-4 featured multi-spot metering in addition to the centre-weighted metering on the earlier bodies. This allowed the user to take a number of spot meter readings, all of which were used by the camera to calculate the correct exposure. The system also featured \"highlight\" and \"shadow\" buttons which allowed the photographer to identify parts of a scene that should be exposed as white or black respectively. The metering system used a liquid crystal display in place of the older match needle design of the OM-1 and OM-2.",
+            "score": 38.79256820678711
+        },
+        {
+            "docid": "46246898_2",
+            "document": "OM X-series . The OM X-series was a light to medium-duty truck model produced by the Italian manufacturer OM in 1972. While being superficially similar to the OM Lupetto, Leoncino, Daino, and Tigrotto, it was an all-new design - except for using the same doors as the earlier \"zoological\" series. The X-series was sold under a variety of other names as well, depending on the market. All but the two lightest models were replaced by the new Z-series in 1976, a design which briefly used OM badging but ended up being marketed exclusively as an Iveco.",
+            "score": 38.697059631347656
+        },
+        {
+            "docid": "30865763_10",
+            "document": "OM Festival . After the final Om Festival in 2004, several members of Sumkidz, along with many individuals from the larger Om Community, formed the OM Reunion Project (ORP) and began to organize a more intimate and less structured summer solstice gathering. The first such gathering was held in 2005 (called \"Re:union\"), followed by \"In:tent\" in 2006, \"Re:treat\" in 2007, \"In:sight\" in 2008, \"Re:Leaf\" in 2009, \"In:fuse\" in 2010, and \"Re:Generate\" in 2011 and, as of 2013, is simply called \"Solstice\". The festival runs for one week, Monday through Monday, on the week which includes the summer solstice. The Om Reunion Project is an intentional community event and goes beyond a \"party\". All participants must register for the gathering in advance and are responsible for making the gathering happen. Every attendee is required to volunteer, and everyone is encouraged to share their skills, whether it be music, dance, art, food, education or anything else. While, on many levels, ORP has created a differently focused community, it has also pushed away former Om attendees and participants that do not place the same importance on these grass-roots values. Regardless, ORP has encouraged new participants and community willing to pour their creative and intentional energies into the new gathering. ORP continues to grow and evolve each summer solstice in the spirit of the former Om Festival and provides an inspiring and educational retreat for many 'Omies' old and new. Information about this year's festival is available at www.omreunionproject.org",
+            "score": 38.655757904052734
+        },
+        {
+            "docid": "3399300_14",
+            "document": "Olympus OM-4 . In 1986, a special ultra-durable version of the OM-4 with champagne-colored titanium top and bottom plates, upgraded electronic circuitry and improved weatherproofing, called the OM-4Ti (OM-4T in the USA), was released, with a US list price of $770. The OM-4Ti also introduced a new electronic flash-control system. Normally focal-plane shutters are limited in their maximum flash synchronization speed, because of the way they provide fast shutter speeds \u2013 timing the second shutter curtain to close more quickly after the first shutter curtain opens. This causes a narrowing of the slit \"wiping\" the exposure on the film. In effect, a horizontal focal-plane shutter made of cloth is only fully open and usable for flash exposure up to 1/60s. Any faster and a typical one-millisecond flash burst would only partially expose the film - the part open to the slit. The OM-4Ti overcame this problem by having the new Olympus F280 Full Synchro flash pulse its light continuously over 40 milliseconds, long enough to illuminate the slit as it crossed the entire focal plane, even at shutter speeds as fast as 1/2000s. There is, however, a concomitant loss of flash range.  A black-finished version of the OM-4T came out in 1990, listing for $1250 (the natural finished body remained available for $1200).",
+            "score": 38.41183853149414
+        },
+        {
+            "docid": "215199_15",
+            "document": "Otitis media . Early-onset OME is associated with feeding of infants while lying down, early entry into group child care, parental smoking, lack, or too short a period of breastfeeding and greater amounts of time spent in group child care, particularly those with a large number of children. These risk factors increase the incidence and duration of OME during the first two years of life.",
+            "score": 38.21720886230469
+        },
+        {
+            "docid": "12328438_14",
+            "document": "Auditory processing disorder . In the 1980s and 1990s, there was considerable interest in the role of chronic Otitis media (middle ear disease or 'glue ear') in causing APD and related language and literacy problems. Otitis media with effusion is a very common childhood disease that causes a fluctuating conductive hearing loss, and there was concern this may disrupt auditory development if it occurred during a sensitive period. Consistent with this, in a sample of young children with chronic ear infections recruited from a hospital otolargyngology department, increased rates of auditory difficulties were found later in childhood. However, this kind of study will suffer from sampling bias because children with otitis media will be more likely to be referred to hospital departments if they are experiencing developmental difficulties. Compared with hospital studies, epidemiological studies, which assesses a whole population for otitis media and then evaluate outcomes, have found much weaker evidence for long-term impacts of otitis media on language outcomes.",
+            "score": 37.76359939575195
+        },
+        {
+            "docid": "1262373_8",
+            "document": "Myringotomy . There are numerous indications for tympanostomy in the pediatric age group, the most frequent including chronic otitis media with effusion (OME) which is unresponsive to antibiotics, and recurrent otitis media. Adult indications differ somewhat and include Eustachian tube dysfunction with recurrent signs and symptoms, including fluctuating hearing loss, vertigo, tinnitus, and a severe retraction pocket in the tympanic membrane. Recurrent episodes of barotrauma, especially with flying, diving, or hyperbaric chamber treatment, may merit consideration.",
+            "score": 37.429847717285156
+        },
+        {
+            "docid": "3119439_17",
+            "document": "Olympus OM-2 . The OM-2SP \"Spot Program\" (OM-2S in the USA) was a thorough overhaul of the OM-2 innards to make the model more competitive. It has more commonality with the OM-4 than the previous OM-2, a fact which simplified production for Olympus which had, by the time of the OM-2S launch, released the OM-4 and the OM-3 models. It was manufactured from 1984 to 1988.",
+            "score": 37.331058502197266
+        },
+        {
+            "docid": "14544783_4",
+            "document": "Hanne Sandstad . She represented the sports club NTHI.",
+            "score": 37.2750358581543
+        },
+        {
+            "docid": "31592505_18",
+            "document": "Fiat Trattori . In the early 1960s, under the OM brand the company produced the OM 512, OM 513 and OM 615 models in a number of variants, and in the 1970s these were followed by the OM 750 and OM 850 models.",
+            "score": 37.232421875
+        },
+        {
+            "docid": "1150577_7",
+            "document": "Olympus E-1 . Olympus initially gave away free adapters to connect OM lenses to the new Four Thirds System mount. This adapter allowed a wide range of OM lenses to be used with the new Olympus DSLRs. The adapter is no longer given away for free, but is still available for purchase from authorised Olympus resellers.",
+            "score": 37.14168167114258
+        },
+        {
+            "docid": "18191614_6",
+            "document": "Torunn Fossli S\u00e6thre . She represented the sports club NTHI.",
+            "score": 37.05419921875
+        },
+        {
+            "docid": "3119439_13",
+            "document": "Olympus OM-2 . The \"n\" model had a new, re-contoured advance lever which had smoother, rounded edges as opposed to the OM-2 and OM-2MD's advance lever's slimmer and sharper edges.",
+            "score": 36.72237014770508
+        },
+        {
+            "docid": "54893031_8",
+            "document": "Mercedes-Benz LP-series (cubic) . When the heavier range was facelifted in 1970, the middleweights received mechanical upgrades and new weight ratings, but the appearance remained mostly the same. Some more powerful engines were also introduced, as in the LP\u00a01519's 8720\u00a0cc OM\u00a0360 with . The heavy-duty models were the first to be introduced, in late 1963. They have GVWs between . Their cabin is similar to that of the later middleweight trucks, although the oval headlamps were mounted in the bumper beneath the body. They were fairly spartanly equipped, in praticular the absence of a suspended seat. Mercedes-Benz countered with a suspended cabin, but this was often not enough to provide driver comfort in practice. Much of the technology was adapted from the preceding L/LP series, including the OM\u00a0326 diesel straight-six. In 1964 this was replaced with the all-new OM\u00a0346 direct injection diesel, an engine that ran smoother and was more durable (after some early problems). Outputs soon crept up to and then to to meet new regulations which took effect on 1 May 1965. An overall weight of for tractor-trailers coupled with the minimum 6\u00a0PS/tonne (max 373\u00a0lb/hp) made this necessary.",
+            "score": 36.56878662109375
+        },
+        {
+            "docid": "3028928_3",
+            "document": "Olympus OM system . The system was introduced by Olympus in 1972, more than a decade after Nikon, Canon, and other manufacturers had established their own SLR ranges. The range was designed by Yoshihisa Maitani, chief designer for Olympus, and his staff. The nucleus of the system was a series of compact bodies divided into an advanced series and a later consumer-oriented series. The first model was the all-mechanical M-1 which, after pressure from Leica (which already had an M1 model), was renamed OM-1. At the same time the M system was renamed OM System. The camera included a full-aperture TTL Cadmium-sulphide (CdS) exposure meter, and a bayonet lens mount of relatively large diameter. By the end of the 1970s it was joined by the semi-automatic OM-2 and consumer-oriented OM-10. Olympus continued the naming pattern with the 'professional' OM-3 and OM-4, and the consumer-level OM-20, OM-30 and OM-40. The cameras were accompanied by a series of Zuiko-branded lenses, as well as a generous selection of accessories. The majority of OM bodies and lenses were manual-focus only; the OM-707 of 1986 was the only true autofocus model.",
+            "score": 36.56871032714844
+        },
+        {
+            "docid": "215199_35",
+            "document": "Otitis media . The decision to treat is usually made after a combination of physical exam and laboratory diagnosis, with additional testing including audiometry, tympanogram, temporal bone CT and MRI. Decongestants, glucocorticoids, and topical antibiotics are generally not effective as treatment for non-infectious, or serous, causes of mastoid effusion. Moreover, it is recommended against using antihistamines and decongestants in children with OME. In less severe cases or those without significant hearing impairment, the effusion can resolve spontaneously or with more conservative measures such as autoinflation. In more severe cases, tympanostomy tubes can be inserted, possibly with adjuvant adenoidectomy as it shows a significant benefit as far as the resolution of middle ear effusion in children with OME is concerned.",
+            "score": 36.53913116455078
+        },
+        {
+            "docid": "3399300_3",
+            "document": "Olympus OM-4 . The OM-4 was the successor to the OM-2N and represented the highest evolution of the Olympus OM-series SLRs (introduced in 1972). Other Olympus OM top models were the OM-1, OM-2, OM-1N, OM-2N, OM-2 Spot Program, OM-3 and OM-3Ti. They all used the same body configuration, but with developing aluminum alloy chassis, electronics, feature levels, and external controls and cosmetics.",
+            "score": 36.32499694824219
+        },
+        {
+            "docid": "9173111_14",
+            "document": "FGED Society . MAGE-OM (MicroArray Gene Expression Object Model) is a data exchange and data modeling standard for use in encoding  data from microarray experiments for the purpose of export and import into software tools and databases via XML files. MAGE-OM is a platform-independent model implemented in the XML-based MAGE-ML format.",
+            "score": 36.171791076660156
+        },
+        {
+            "docid": "8948754_2",
+            "document": "Pyroptosis . Pyroptosis is a highly inflammatory form of programmed cell death that occurs most frequently upon infection with intracellular pathogens and is likely to form part of the antimicrobial response. In this process, immune cells recognize foreign danger signals within themselves, release pro-inflammatory cytokines, swell, burst and die. The released cytokines attract other immune cells to fight the infection and contribute to inflammation in the tissue. Pyroptosis promotes the rapid clearance of various bacterial and viral infections by removing intracellular replication niches and enhancing the host's defensive responses. However, in pathogenic chronic diseases, the inflammatory response does not eradicate the primary stimulus, as would normally occur in most cases of infection or injury, and thus a chronic form of inflammation ensues that ultimately contributes to tissue damage. Some examples of pyroptosis include \"Salmonella\"-infected macrophages and abortively HIV-infected T helper cells.",
+            "score": 36.15740966796875
+        },
+        {
+            "docid": "2986886_6",
+            "document": "Goal-oriented Requirements Language . At present, GRL is supported by a general-purpose organization modelling tool - OME (Organization Modeling Environment). OME provides support to various modelling frameworks by loading the framework and its functional modules dynamically.",
+            "score": 36.11616516113281
+        }
+    ]
+}

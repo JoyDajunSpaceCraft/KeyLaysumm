@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "21282070_39",
+            "document": "Taste . Taste is a form of chemoreception which occurs in the specialised taste receptors in the mouth. To date, there are five different types of taste receptors known: salt, sweet, sour, bitter, and umami. Each receptor has a different manner of sensory transduction: that is, of detecting the presence of a certain compound and starting an action potential which alerts the brain. It is a matter of debate whether each taste cell is tuned to one specific tastant or to several; Smith and Margolskee claim that \"gustatory neurons typically respond to more than one kind of stimulus, [a]lthough each neuron responds most strongly to one tastant\". Researchers believe that the brain interprets complex tastes by examining patterns from a large set of neuron responses. This enables the body to make \"keep or spit out\" decisions when there is more than one tastant present. \"No single neuron type alone is capable of discriminating among stimuli or different qualities, because a given cell can respond the same way to disparate stimuli.\" As well, serotonin is thought to act as an intermediary hormone which communicates with taste cells within a taste bud, mediating the signals being sent to the brain. Receptor molecules are found on the top of microvilli of the taste cells.",
+            "score": 195.3547043800354
+        },
+        {
+            "docid": "11891204_14",
+            "document": "Gustducin . However, the loss of the \u03b1-gustducin gene did not completely remove the ability of the knock-out mice to taste bitter food, indicating that \u03b1-gustducin is not the only mechanism for tasting bitter food. It was thought at the time that an alternative mechanism of bitter taste detection could be associated with the \u03b2\u03b3 subunit of gustducin. This theory was later validated when it was discovered that both peripheral and central gustatory neurons typically respond to more than one type of taste stimulant, although a neuron typically would favor one specific stimulant over others. This suggests that, while many neurons favor bitter taste stimuli, neurons that favor other stimuli such as sweet and umami may be capable of detecting bitter stimuli in the absence of bitter stimulant receptors, as with the knock-out mice.",
+            "score": 160.8539538383484
+        },
+        {
+            "docid": "29049734_3",
+            "document": "Nematode chemoreceptor . Animals recognise a wide variety of chemicals using their senses of taste and smell. The nematode \"Caenorhabditis elegans\" has only 14 types of chemosensory neuron, yet is able to respond to dozens of chemicals because each neuron detects several stimuli. More than 40 highly divergent transmembrane proteins that could contribute to this functional diversity have been described. Most of the candidate receptor genes are in clusters of similar genes; 11 of these appear to be expressed in small subsets of chemosensory neurons. A single type of neuron can potentially express at least 4 different receptor genes. Some of these might encode receptors for water-soluble attractants, repellents and pheromones, which are divergent members of the G-protein-coupled receptor family. Sequences of the Sra family of C.elegans receptor-like proteins contain 6-7 hydrophobic, putative transmembrane, regions. These can be distinguished from other 7TM proteins (especially those known to couple G-proteins) by their own characteristic TM signatures.",
+            "score": 118.64364457130432
+        },
+        {
+            "docid": "34591824_2",
+            "document": "BitterDB . Basic taste qualities like sour, salty, sweet, bitter and umami serve specific functions in identifying food components found in the diet of humans and animals, and are recognized by proteins in the oral cavity. Recognition of bitter taste and aversion to it are thought to protect the organism against the ingestion of poisonous food compounds, which are often bitter. Bitter taste receptors are expressed not only in the mouth but also in extraoral tissues. BitterDB database, available at http://bitterdb.agri.huji.ac.il/bitterdb/, includes over 670 compounds that were reported to taste bitter to humans. The compounds can be searched by name, chemical structure, similarity to other bitter compounds, association with a particular human bitter taste receptor, and so on. The database also contains information on mutations in bitter taste receptors that were shown to influence receptor activation by bitter compounds.",
+            "score": 200.74939584732056
+        },
+        {
+            "docid": "11891204_22",
+            "document": "Gustducin . Of the five basic tastes, three (sweet, bitter and umami tastes) are mediated by receptors from the G protein-coupled receptor family. Mammalian bitter taste receptors (T2Rs) are encoded by a gene family of only a few dozen members. It is believed that bitter taste receptors evolved as a mechanism to avoid ingesting poisonous and harmful substances. If this is the case, one might expect different species to develop different bitter taste receptors based on dietary and geographical constraints. With the exception of T2R1 (which lies on chromosome 5) all human bitter taste receptor genes can be found clustered on chromosome 7 and chromosome 12. Analyzing the relationships between bitter taste receptor genes show that the genes on the same chromosome are more closely related to each other than genes on different chromosomes. Furthermore, the genes on chromosome 12 have higher sequence similarity than the genes found on chromosome 7. This indicats that these genes evolved via tandem gene duplications and that chromosome 12, as a result of its higher sequence similarity between its genes, went through these tandem duplications more recently than the genes on chromosome 7.",
+            "score": 184.31590747833252
+        },
+        {
+            "docid": "1781797_17",
+            "document": "Sweetness . To depolarize the cell, and ultimately generate a response, the body uses different cells in the taste bud that each express a receptor for the perception of sweet, sour, salty, bitter or umami. Downstream of the taste receptor, the taste cells for sweet, bitter and umami share the same intracellular signalling pathway. Incoming sweet molecules bind to their receptors, which causes a conformational change in the molecule. This change activates the G-protein, gustducin, which in turn activates phospholipase C to generate inositol trisphosphate (IP), this subsequently opens the IP-receptor and induces calcium release from the endoplasmic reticulum. This increase in intracellular calcium activates the TRPM5 channel and induces cellular depolarization. The ATP release channel CALHM1 gets activated by the depolarization and releases ATP neurotransmitter which activates the afferent neurons innervating the taste bud.",
+            "score": 192.2641396522522
+        },
+        {
+            "docid": "21282070_59",
+            "document": "Taste . Recent research reveals a potential taste receptor called the CD36 receptor. CD36 was targeted as a possible lipid taste receptor because it binds to fat molecules (more specifically, long-chain fatty acids), and it has been localized to taste bud cells (specifically, the circumvallate and foliate papillae). There is a debate over whether we can truly taste fats, and supporters of our ability to taste free fatty acids (FFAs) have based the argument on a few main points: there is an evolutionary advantage to oral fat detection; a potential fat receptor has been located on taste bud cells; fatty acids evoke specific responses that activate gustatory neurons, similar to other currently accepted tastes; and, there is a physiological response to the presence of oral fat. Although CD36 has been studied primarily in mice, research examining human subjects' ability to taste fats found that those with high levels of CD36 expression were more sensitive to tasting fat than were those with low levels of CD36 expression; this study points to a clear association between CD36 receptor quantity and the ability to taste fat.",
+            "score": 169.1271369457245
+        },
+        {
+            "docid": "21282070_28",
+            "document": "Taste . Research has shown that TAS2Rs (taste receptors, type 2, also known as T2Rs) such as TAS2R38 coupled to the G protein gustducin are responsible for the human ability to taste bitter substances. They are identified not only by their ability to taste for certain \"bitter\" ligands, but also by the morphology of the receptor itself (surface bound, monomeric). The TAS2R family in humans is thought to comprise about 25 different taste receptors, some of which can recognize a wide variety of bitter-tasting compounds. Over 670 bitter-tasting compounds have been identified, on a bitter database, of which over 200 have been assigned to one or more specific receptors. Recently it is speculated that the selective constraints on the TAS2R family have been weakened due to the relatively high rate of mutation and pseudogenization. Researchers use two synthetic substances, phenylthiocarbamide (PTC) and 6-n-propylthiouracil (PROP) to study the genetics of bitter perception. These two substances taste bitter to some people, but are virtually tasteless to others. Among the tasters, some are so-called \"supertasters\" to whom PTC and PROP are extremely bitter. The variation in sensitivity is determined by two common alleles at the TAS2R38 locus. This genetic variation in the ability to taste a substance has been a source of great interest to those who study genetics.",
+            "score": 200.98482859134674
+        },
+        {
+            "docid": "2121098_9",
+            "document": "Aftertaste . In the context of aftertaste, the combination of both receptor-dependent and receptor-independent processes have been proposed to explain the signal transduction mechanisms for foods with distinct aftertastes, particularly those that are bitter. The receptor-dependent process is the same as what was described above. However, the receptor-independent process involves the diffusion of bitter, amphiphilic chemicals like quinine across the taste receptor cell membranes. Once inside the taste receptor cell, these compounds have been observed to activate intracellular G-proteins and other proteins that are involved in signaling pathways routed to the brain. The bitter compounds thus activate both the taste receptors on the cell surface, as well as the signaling pathway proteins in the intracellular space. Intracellular signaling may be slower than taste cell receptor activation since more time is necessary for the bitter compounds to diffuse across the cell membrane and interact with intracellular proteins. This delayed activation of intracellular signaling proteins in response to the bitter compounds, in addition to the extracellular receptor signaling is proposed to be related to the lingering aftertaste associated with bitter foods. The combination of both mechanisms leads to an overall longer response of the taste receptor cells to the bitter foods, and aftertaste perception subsequently occurs.",
+            "score": 259.8157249689102
+        },
+        {
+            "docid": "14567084_3",
+            "document": "TAS2R1 . This gene encodes a member of a family of candidate taste receptors that are members of the G protein-coupled receptor superfamily and that are specifically expressed by taste receptor cells of the tongue and palate epithelia. This intronless taste receptor gene encodes a 7-transmembrane receptor protein, functioning as a bitter taste receptor. This gene is mapped to chromosome 5p15, the location of a genetic locus (PROP) that controls the detection of the bitter compound 6-n-propyl-2-thiouracil.",
+            "score": 193.7328097820282
+        },
+        {
+            "docid": "11890889_12",
+            "document": "Taste receptor . The TAS2R proteins function as bitter taste receptors. There are 43 human \"TAS2R\" genes, each of which (excluding the five pseudogenes) lacks introns and codes for a GPCR protein. These proteins, as opposed to TAS1R proteins, have short extracellular domains and are located in circumvallate papillae, palate, foliate papillae, and epiglottis taste buds, with reduced expression in fungiform papillae. Though it is certain that multiple TAS2Rs are expressed in one taste receptor cell, it is still debated whether mammals can distinguish between the tastes of different bitter ligands. Some overlap must occur, however, as there are far more bitter compounds than there are TAS2R genes. Common bitter ligands include cycloheximide, denatonium, PROP (6-\"n\"-propyl-2-thiouracil), PTC (phenylthiocarbamide), and \u03b2-glucopyranosides.",
+            "score": 185.42103338241577
+        },
+        {
+            "docid": "301076_2",
+            "document": "Taste bud . Taste buds contain the taste receptor cells, which are also known as gustatory cells. The taste receptors are located around the small structures known as papillae found on the upper surface of the tongue, soft palate, upper esophagus, the cheek and epiglottis. These structures are involved in detecting the five elements of taste perception: salty, sour, bitter, sweet and umami; through the combination of these elements we detect \"flavors.\" A popular myth assigns these different tastes to different regions of the tongue; in reality these tastes can be detected by any area of the tongue. Via small openings in the tongue epithelium, called taste pores, parts of the food dissolved in saliva come into contact with the taste receptors. These are located on top of the taste receptor cells that constitute the taste buds. The taste receptor cells send information detected by clusters of various receptors and ion channels to the gustatory areas of the brain via the seventh, ninth and tenth cranial nerves.",
+            "score": 226.95464444160461
+        },
+        {
+            "docid": "14567146_3",
+            "document": "TAS2R8 . This gene product belongs to the family of candidate taste receptors that are members of the G-protein-coupled receptor superfamily. These proteins are specifically expressed in the taste receptor cells of the tongue and palate epithelia. They are organized in the genome in clusters and are genetically linked to loci that influence bitter perception in mice and humans. In functional expression studies, they respond to bitter tastants. This gene maps to the taste receptor gene cluster on chromosome 12p13.",
+            "score": 165.03329992294312
+        },
+        {
+            "docid": "14567166_3",
+            "document": "TAS2R10 . This gene product belongs to the family of candidate taste receptors that are members of the G-protein-coupled receptor superfamily. These proteins are specifically expressed in the taste receptor cells of the tongue and palate epithelia. They are organized in the genome in clusters and are genetically linked to loci that influence bitter perception in mice and humans. In functional expression studies, they respond to bitter tastants. This gene maps to the taste receptor gene cluster on chromosome 12p13.",
+            "score": 165.03329992294312
+        },
+        {
+            "docid": "14567154_3",
+            "document": "TAS2R9 . This gene product belongs to the family of candidate taste receptors that are members of the G-protein-coupled receptor superfamily. These proteins are specifically expressed in the taste receptor cells of the tongue and palate epithelia. They are organized in the genome in clusters and are genetically linked to loci that influence bitter perception in mice and humans. In functional expression studies, they respond to bitter tastants. This gene maps to the taste receptor gene cluster on chromosome 12p13.",
+            "score": 165.03329992294312
+        },
+        {
+            "docid": "14567175_3",
+            "document": "TAS2R13 . This gene product belongs to the family of candidate taste receptors that are members of the G-protein-coupled receptor superfamily. These proteins are specifically expressed in the taste receptor cells of the tongue and palate epithelia. They are organized in the genome in clusters and are genetically linked to loci that influence bitter perception in mice and humans. In functional expression studies, they respond to bitter tastants. This gene maps to the taste receptor gene cluster on chromosome 12p13.",
+            "score": 165.03329992294312
+        },
+        {
+            "docid": "14567198_3",
+            "document": "TAS2R7 . This gene product belongs to the family of candidate taste receptors that are members of the G-protein-coupled receptor superfamily. These proteins are specifically expressed in the taste receptor cells of the tongue and palate epithelia. They are organized in the genome in clusters and are genetically linked to loci that influence bitter perception in mice and humans. In functional expression studies, they respond to bitter tastants. This gene maps to the taste receptor gene cluster on chromosome 12p13.",
+            "score": 165.03329992294312
+        },
+        {
+            "docid": "21944_33",
+            "document": "Nervous system . According to a rule called Dale's principle, which has only a few known exceptions, a neuron releases the same neurotransmitters at all of its synapses. This does not mean, though, that a neuron exerts the same effect on all of its targets, because the effect of a synapse depends not on the neurotransmitter, but on the receptors that it activates. Because different targets can (and frequently do) use different types of receptors, it is possible for a neuron to have excitatory effects on one set of target cells, inhibitory effects on others, and complex modulatory effects on others still. Nevertheless, it happens that the two most widely used neurotransmitters, glutamate and GABA, each have largely consistent effects. Glutamate has several widely occurring types of receptors, but all of them are excitatory or modulatory. Similarly, GABA has several widely occurring receptor types, but all of them are inhibitory. Because of this consistency, glutamatergic cells are frequently referred to as \"excitatory neurons\", and GABAergic cells as \"inhibitory neurons\". Strictly speaking, this is an abuse of terminology\u2014it is the receptors that are excitatory and inhibitory, not the neurons\u2014but it is commonly seen even in scholarly publications.",
+            "score": 117.09273767471313
+        },
+        {
+            "docid": "14567193_3",
+            "document": "TAS2R5 . This gene encodes a bitter taste receptor; bitter taste receptors are members of the G protein-coupled receptor superfamily and are specifically expressed by taste receptor cells of the tongue and palate epithelia. Each of these apparently intronless taste receptor genes encodes a 7-transmembrane receptor protein, functioning as a bitter taste receptor. This gene is clustered with another 3 candidate taste receptor genes on chromosome 7 and is genetically linked to loci that influence bitter perception.",
+            "score": 184.70628762245178
+        },
+        {
+            "docid": "2400044_25",
+            "document": "Cabbage looper . Cabbage loopers possess olfactory receptor neurons on their antennae for detecting pheromones. The neurons are specifically located on two sensory structures called sensilla that differ in length and pore density. Male loopers have two types of neurons, and depending on which sensilla that are present, the neurons will detect female pheromones at varying sensitivities to each of the six pheromones. The neurons are most sensitive to the main component of the female pheromone blend, cis-7-dodecenyl acetate, and the male inhibitory signal, cis-7-dodecenol. The presence of cis-7-dodecenyl acetate is crucial for male response to female pheromones, as it is 80% of the entire blend. In fact, the base region of the antennae, where receptor neurons for this pheromone are located, has more sensory structures compared to the ends. The base region is also less likely to experience damage, showing the importance of detecting the pheromone. It is not clear why male neuron detects the inhibitory compound, as there is no evidence showing that females produce this compound. One possibility is that its presence in the female pheromone blend may be too small to be detected by scientific equipment. The inhibitory signal only elicits a response when delivered alongside female pheromones to avoid mixing signals from other species, suggesting that while it cannot be detected in the female pheromone blend, it has an important role in female detection.",
+            "score": 105.6324313879013
+        },
+        {
+            "docid": "23416874_15",
+            "document": "Sense . Smell or olfaction (adjectival form: olfactory) is the other \"chemical\" sense. Unlike taste, there are hundreds of olfactory receptors (388 according to one source), each binding to a particular molecular feature. Odor molecules possess a variety of features and, thus, excite specific receptors more or less strongly. This combination of excitatory signals from different receptors makes up what we perceive as the molecule's smell. In the brain, olfaction is processed by the olfactory system. Olfactory receptor neurons in the nose differ from most other neurons in that they die and regenerate on a regular basis. The inability to smell is called anosmia. Some neurons in the nose are specialized to detect pheromones.",
+            "score": 126.82698559761047
+        },
+        {
+            "docid": "14438412_11",
+            "document": "Cannabinoid receptor type 2 . Further investigation into the expression patterns of the CB receptors revealed that CB receptor gene transcripts are also expressed in the brain, though not as densely as the CB receptor and located on different cells. Unlike the CB receptor, in the brain, CB receptors are found primarily on microglia. The CB receptor is expressed in some neurons within the central nervous system (e.g.; the brainstem), but the expression is very low. CB2Rs are expressed on some rat retinal cell types. Functional CB receptors are expressed in neurons of the ventral tegmental area and the hippocampus, arguing for a widespread expression and functional relevance in the CNS and in particular in neuronal signal transmission.",
+            "score": 109.14437985420227
+        },
+        {
+            "docid": "28954785_4",
+            "document": "Vomeronasal receptor . The V1 receptors share between 50 and 90% sequence identity but have little similarity to other families of G protein-coupled receptors. They appear to be distantly related to the mammalian T2R bitter taste receptors and the rhodopsin-like GPCRs. In rat, the family comprises 30\u201340\u00a0genes. These are expressed in the apical regions of the VNO, in neurons expressing Gi2. Coupling of the receptors to this protein mediates inositol trisphosphate signaling. A number of human V1 receptor homologues have also been found. The majority of these human sequences are pseudogenes, but an apparently functional receptor has been identified that is expressed in the human olfactory system.",
+            "score": 128.14858508110046
+        },
+        {
+            "docid": "21244265_37",
+            "document": "Olfaction . Early scientific study of olfaction includes the extensive doctoral dissertation of Eleanor Gamble, published in 1898, which compared olfactory to other stimulus modalities, and implied that smell had a lower intensity discrimination. As the Epicurean and atomistic Roman philosopher Lucretius (1stcentury BCE) speculated, different odors are attributed to different shapes and sizes of \"atoms\" (odor molecules in the modern understanding) that stimulate the olfactory organ . A modern demonstration of that theory was the cloning of olfactory receptor proteins by Linda B. Buck and Richard Axel (who were awarded the Nobel Prize in 2004), and subsequent pairing of odor molecules to specific receptor proteins. Each odor receptor molecule recognizes only a particular molecular feature or class of odor molecules. Mammals have about a thousand genes that code for odor reception. Of the genes that code for odor receptors, only a portion are functional. Humans have far fewer active odor receptor genes than other primates and other mammals. In mammals, each olfactory receptor neuron expresses only one functional odor receptor. Odor receptor nerve cells function like a key\u2013lock system: if the airborne molecules of a certain chemical can fit into the lock, the nerve cell will respond. There are, at present, a number of competing theories regarding the mechanism of odor coding and perception. According to the shape theory, each receptor detects a feature of the odor molecule. The weak-shape theory, known as the odotope theory, suggests that different receptors detect only small pieces of molecules, and these minimal inputs are combined to form a larger olfactory perception (similar to the way visual perception is built up of smaller, information-poor sensations, combined and refined to create a detailed overall perception). According to a new study, researchers have found that a functional relationship exists between molecular volume of odorants and the olfactory neural response.<ref name=\"10.1101/013516\"></ref> An alternative theory, the vibration theory proposed by Luca Turin, posits that odor receptors detect the frequencies of vibrations of odor molecules in the infrared range by quantum tunnelling. However, the behavioral predictions of this theory have been called into question. There is no theory yet that explains olfactory perception completely.",
+            "score": 155.81989800930023
+        },
+        {
+            "docid": "49827542_3",
+            "document": "Insect olfaction . The two organs insects primarily use for detecting odors are the antennae and specialized mouth parts called the maxillary palps. However, a recent study has demonstrated the olfactory role of ovipositor in fig wasps. Inside of these olfactory organs there are neurons called olfactory receptor neurons which, as the name implies, house receptors for scent molecules in their cell membrane.The majority of olfactory receptor neurons typically reside in the antenna. These neurons can be very abundant, for example Drosophila flies have 2,600 olfactory sensory neurons.",
+            "score": 111.58454465866089
+        },
+        {
+            "docid": "34591824_3",
+            "document": "BitterDB . BitterDB currently contains more than 670 compounds that were cited in the literature as bitter. For each compound, the database offers information regarding its molecular properties, references for the compound\u2019s bitterness, including additional information about the bitterness category of the compound (e.g. a \u2018bitter-sweet\u2019 or \u2018slightly bitter\u2019 annotation), different compound identifiers (smiles, CAS registry number, IUPAC systematic name), an indication whether the compound is derived from a natural source or is synthetic, a link to the compound\u2019s PubChem entry and different file formats for downloading (sdf, image, smiles). Over 200 bitter compounds have been experimentally linked to their corresponding human bitter taste receptors. For those compounds, BitterDB provides additional information, including links to the publications indicating these ligand\u2013receptor interactions, the effective concentration for receptor activation and/or the EC50 value and links to the associated bitter taste receptors entries in the BitterDB.",
+            "score": 193.9630080461502
+        },
+        {
+            "docid": "14567184_3",
+            "document": "TAS2R14 . This gene product belongs to the family of candidate taste receptors that are members of the G-protein-coupled receptor superfamily. These proteins are specifically expressed in the taste receptor cells of the tongue and palate epithelia. They are organized in the genome in clusters and are genetically linked to loci that influence bitter perception in mice and humans. In functional expression studies, TAS2R14 responds to (\u2212)-\u03b1-thujone, the primary neurotoxic agent in absinthe, and picrotoxin, a poison found in fishberries. This gene maps to the taste receptor gene cluster on chromosome 12p13.",
+            "score": 150.04576921463013
+        },
+        {
+            "docid": "14567115_3",
+            "document": "TAS2R3 . This gene encodes a member of a family of candidate taste receptors that are members of the G protein-coupled receptor superfamily and that are specifically expressed by taste receptor cells of the tongue and palate epithelia. These apparently intronless taste receptor genes encode a 7-transmembrane receptor protein, functioning as a bitter taste receptor. This gene is clustered with another 3 candidate taste receptor genes in chromosome 7 and is genetically linked to loci that influence bitter perception.",
+            "score": 172.23473739624023
+        },
+        {
+            "docid": "37957946_6",
+            "document": "De novo protein synthesis theory of memory formation . A line of research investigates long term potentiation (LTP), a process that describes how a memory can be consolidated between two neurons, or brain cells, ultimately by creating a circuit within the brain that can encode a memory. To initiate a learning circuit between two neurons, one prominent study described using tetanus stimulations to depolarize one neuron by 30mV, which, in turn, activated its NMDA glutamate receptors (Nowak, Bregestovski, Ascher, Herbert, & Prochiantz, 1984). The activation of these receptors resulted in Ca flooding the cell, initiating a cascade of secondary messengers. The cascade of resulting reactions, brought about by secondary messengers, terminates with the activation of cAMP response binding element protein (CREB), which acts as a transcription factor for various genes and initiates their expression (Hawkins, Kandel, & Bailey, 2006). Some proponents argue that the genes stimulate changes in communication between neurons, which underlie the encoding of memory; others suggest that the genes are byproducts of the LTP signaling pathway and are not directly involved in LTP. However, following the cascade of secondary messengers, no one would dispute that more AMPA receptors appear in the postsynaptic terminal (Hayashi et al., 2000). Higher numbers of AMPA receptors, taken together with the aforementioned events, allow for increased firing potential in the postsynaptic cell, which creates an improved learning circuit between these two neurons (Hayashi et al., 2000). Because of the specific, activity-dependent nature of LTP, it is an ideal model for a neural correlate of memory, as postulated by numerous studies; together, these studies show that the abolishment of LTP prevents the formation of memory at the neuronal level (Hawkins, Kandel, & Bailey, 2006).",
+            "score": 123.09039545059204
+        },
+        {
+            "docid": "569650_29",
+            "document": "Stimulus modality . In mammals, taste stimuli are encountered by axonless receptor cells located in taste buds on the tongue and pharynx. Receptor cells disseminate onto different neurons and convey the message of a particular taste in a single medullar nucleus. This pheromone detection system deals with taste stimuli. The pheromone detection system is distinct from the normal taste system, and is designed like the olfactory system.",
+            "score": 144.62806844711304
+        },
+        {
+            "docid": "14567225_4",
+            "document": "TAS1R2 . The TAS1R2+3 receptor has been shown to respond to natural sugars sucrose and fructose, and to the artificial sweeteners saccharin, acesulfame potassium, dulcin, and guanidinoacetic acid. Research initially suggested that rat receptors did not respond to many other natural and artificial sugars, such as glucose and aspartame, leading to the conclusion that there must be more than one type of sweet taste receptor. Contradictory evidence, however, suggested that cells expressing the human TAS1R2+3 receptor showed sensitivity to both aspartame and glucose but cells expressing the rat TAS1R2+3 receptor were only slightly activated by glucose and showed no aspartame activation. These results are inconclusive about the existence of another sweet taste receptor, but show that the TAS1R2+3 receptors are responsible for a wide variety of different sweet tastes.",
+            "score": 158.67642211914062
+        },
+        {
+            "docid": "35716479_3",
+            "document": "Lsy-6 microRNA . ASEL and ASER are a pair of bilateral taste receptor neurons thought to be responsible for the asymmetrical pattern of chemoreceptor gene expression in \"C. elegans\". These two gustatory neurons are bilaterally symmetric morphologically, as well as with regards to their connectivity, position and gene expression patterns. However, they are left-right asymmetric in their expression of specific signalling molecules. The ASE neuron is extremely sensitive to the correct dosage of \"cog-1\", an Nkx-type homeobox gene, and extra copies of this gene will readily produce left/right asymmetry defects.",
+            "score": 83.49347114562988
+        }
+    ],
+    "r": [
+        {
+            "docid": "2121098_9",
+            "document": "Aftertaste . In the context of aftertaste, the combination of both receptor-dependent and receptor-independent processes have been proposed to explain the signal transduction mechanisms for foods with distinct aftertastes, particularly those that are bitter. The receptor-dependent process is the same as what was described above. However, the receptor-independent process involves the diffusion of bitter, amphiphilic chemicals like quinine across the taste receptor cell membranes. Once inside the taste receptor cell, these compounds have been observed to activate intracellular G-proteins and other proteins that are involved in signaling pathways routed to the brain. The bitter compounds thus activate both the taste receptors on the cell surface, as well as the signaling pathway proteins in the intracellular space. Intracellular signaling may be slower than taste cell receptor activation since more time is necessary for the bitter compounds to diffuse across the cell membrane and interact with intracellular proteins. This delayed activation of intracellular signaling proteins in response to the bitter compounds, in addition to the extracellular receptor signaling is proposed to be related to the lingering aftertaste associated with bitter foods. The combination of both mechanisms leads to an overall longer response of the taste receptor cells to the bitter foods, and aftertaste perception subsequently occurs.",
+            "score": 259.81573486328125
+        },
+        {
+            "docid": "301076_2",
+            "document": "Taste bud . Taste buds contain the taste receptor cells, which are also known as gustatory cells. The taste receptors are located around the small structures known as papillae found on the upper surface of the tongue, soft palate, upper esophagus, the cheek and epiglottis. These structures are involved in detecting the five elements of taste perception: salty, sour, bitter, sweet and umami; through the combination of these elements we detect \"flavors.\" A popular myth assigns these different tastes to different regions of the tongue; in reality these tastes can be detected by any area of the tongue. Via small openings in the tongue epithelium, called taste pores, parts of the food dissolved in saliva come into contact with the taste receptors. These are located on top of the taste receptor cells that constitute the taste buds. The taste receptor cells send information detected by clusters of various receptors and ion channels to the gustatory areas of the brain via the seventh, ninth and tenth cranial nerves.",
+            "score": 226.95465087890625
+        },
+        {
+            "docid": "11890889_10",
+            "document": "Taste receptor . The standard bitter, sweet, or umami taste receptor is a G protein-coupled receptor with seven transmembrane domains. Ligand binding at the taste receptors activate second messenger cascades to depolarize the taste cell. Gustducin is the most common taste G\u03b1 subunit, having a major role in TAS2R bitter taste reception. Gustducin is a homologue for transducin, a G-protein involved in vision transduction. Additionally, taste receptors share the use of the TRPM5 ion channel, as well as a phospholipase PLC\u03b22. The TAS1R1+TAS1R3 heterodimer receptor functions as the savory receptor, responding to L-amino acid binding, especially L-glutamate. The umami taste is most frequently associated with the food additive monosodium glutamate (MSG) and can be enhanced through the binding of inosine monophosphate (IMP) and guanosine monophosphate (GMP) molecules. TAS1R1+3 expressing cells are found mostly in the fungiform papillae at the tip and edges of the tongue and palate taste receptor cells in the roof of the mouth. These cells are shown to synapse upon the chorda tympani nerves to send their signals to the brain, although some activation of the glossopharyngeal nerve has been found.",
+            "score": 215.0449981689453
+        },
+        {
+            "docid": "6766895_22",
+            "document": "Topographic map (neuroanatomy) . The peripheral taste system likely maintains a specific relationship between taste bud cells selectively responsive to one taste quality and the ganglion cells signaling that particular quality. This explains the response specificity of some individual taste nerve, particularly because sweet, amino acid, and bitter receptors are expressed in distinct populations of taste cells. Although anatomical evidence for such an exclusive relationship is lacking at the level of single receptor and ganglion cells, the relationship between single buds and their innervating ganglion cells is tractable neuroanatomically. In taste, attempts to identify a spatial representation of taste receptors or taste qualities have revealed only an indistinct functional topography in the brain. Nevertheless, taste ganglion cells must distribute peripheral fibers to particular receptor cell types and disseminate impulses centrally in a structurally organized manner.",
+            "score": 214.09707641601562
+        },
+        {
+            "docid": "42193218_20",
+            "document": "Human digestive system . Taste is a form of chemoreception that takes place in the specialised taste receptors, contained in structures called taste buds in the mouth. Taste buds are mainly on the upper surface (dorsum) of the tongue. The function of taste perception is vital to help prevent harmful or rotten foods from being consumed. There are also taste buds on the epiglottis and upper part of the esophagus. The taste buds are innervated by a branch of the facial nerve the chorda tympani, and the glossopharyngeal nerve. Taste messages are sent via these cranial nerves to the brain. The brain can distinguish between the chemical qualities of the food. The five basic tastes are referred to as those of saltiness, sourness, bitterness, sweetness, and umami. The detection of saltiness and sourness enables the control of salt and acid balance. The detection of bitterness warns of poisons\u2014many of a plant's defences are of poisonous compounds that are bitter. Sweetness guides to those foods that will supply energy; the initial breakdown of the energy-giving carbohydrates by salivary amylase creates the taste of sweetness since simple sugars are the first result. The taste of umami is thought to signal protein-rich food. Sour tastes are acidic which is often found in bad food. The brain has to decide very quickly whether the food should be eaten or not. It was the findings in 1991, describing the first olfactory receptors that helped to prompt the research into taste. The olfactory receptors are located on cell surfaces in the nose which bind to chemicals enabling the detection of smells. It is assumed that signals from taste receptors work together with those from the nose, to form an idea of complex food flavours.",
+            "score": 213.47764587402344
+        },
+        {
+            "docid": "569399_12",
+            "document": "Stimulus (physiology) . Taste records flavoring of food and other materials that pass across the tongue and through the mouth. Gustatory cells are located on the surface of the tongue and adjacent portions of the pharynx and larynx. Gustatory cells form on taste buds, specialized epithelial cells, and are generally turned over every ten days. From each cell, protrudes microvilli, sometimes called taste hairs, through also the taste pore and into the oral cavity. Dissolved chemicals interact with these receptor cells; different tastes bind to specific receptors. Salt and sour receptors are chemically gated ion channels, which depolarize the cell. Sweet, bitter, and umami receptors are called gustducins, specialized G protein coupled receptors. Both divisions of receptor cells release neurotransmitters to afferent fibers causing action potential firing.",
+            "score": 204.16751098632812
+        },
+        {
+            "docid": "21282070_28",
+            "document": "Taste . Research has shown that TAS2Rs (taste receptors, type 2, also known as T2Rs) such as TAS2R38 coupled to the G protein gustducin are responsible for the human ability to taste bitter substances. They are identified not only by their ability to taste for certain \"bitter\" ligands, but also by the morphology of the receptor itself (surface bound, monomeric). The TAS2R family in humans is thought to comprise about 25 different taste receptors, some of which can recognize a wide variety of bitter-tasting compounds. Over 670 bitter-tasting compounds have been identified, on a bitter database, of which over 200 have been assigned to one or more specific receptors. Recently it is speculated that the selective constraints on the TAS2R family have been weakened due to the relatively high rate of mutation and pseudogenization. Researchers use two synthetic substances, phenylthiocarbamide (PTC) and 6-n-propylthiouracil (PROP) to study the genetics of bitter perception. These two substances taste bitter to some people, but are virtually tasteless to others. Among the tasters, some are so-called \"supertasters\" to whom PTC and PROP are extremely bitter. The variation in sensitivity is determined by two common alleles at the TAS2R38 locus. This genetic variation in the ability to taste a substance has been a source of great interest to those who study genetics.",
+            "score": 200.98483276367188
+        },
+        {
+            "docid": "34591824_2",
+            "document": "BitterDB . Basic taste qualities like sour, salty, sweet, bitter and umami serve specific functions in identifying food components found in the diet of humans and animals, and are recognized by proteins in the oral cavity. Recognition of bitter taste and aversion to it are thought to protect the organism against the ingestion of poisonous food compounds, which are often bitter. Bitter taste receptors are expressed not only in the mouth but also in extraoral tissues. BitterDB database, available at http://bitterdb.agri.huji.ac.il/bitterdb/, includes over 670 compounds that were reported to taste bitter to humans. The compounds can be searched by name, chemical structure, similarity to other bitter compounds, association with a particular human bitter taste receptor, and so on. The database also contains information on mutations in bitter taste receptors that were shown to influence receptor activation by bitter compounds.",
+            "score": 200.74940490722656
+        },
+        {
+            "docid": "14315108_14",
+            "document": "Dysosmia . Flavor is perceived by the combination of the sense of taste, sense of smell, and the trigeminal nerve (CN V). The gustatory system is responsible for differentiation between sweet, sour, salty, bitter, and umami. The olfactory system recognizes the odorants as they pass to the olfactory epithelium via a retronasal pathway. This explains why we can identify a variety of flavors in spite of only having five types of taste receptors. The trigeminal nerve senses texture, pain, and temperature of food. For example, the cooling effect of menthol or the burning sensation of spicy food.",
+            "score": 200.00205993652344
+        },
+        {
+            "docid": "21282070_88",
+            "document": "Taste . The receptors for the basic tastes of bitter, sweet and savory have been identified. They are G protein-coupled receptors. The cells that detect sourness have been identified as a subpopulation that express the protein PKD2L1. The responses are mediated by an influx of protons into the cells but the receptor for sour is still unknown. The receptor for amiloride-sensitive attractive salty taste in mice has been shown to be a sodium channel. There is some evidence for a sixth taste that senses fatty substances.",
+            "score": 197.9624786376953
+        },
+        {
+            "docid": "55999_34",
+            "document": "Tongue . The tongue is equipped with many taste buds on its dorsal surface, and each taste bud is equipped with taste receptor cells that can sense particular classes of tastes. Distinct types of taste receptor cells respectively detect substances that are sweet, bitter, salty, sour, spicy, or taste of umami. Umami receptor cells are the least understood and accordingly are the type most intensively under research.",
+            "score": 196.4940185546875
+        },
+        {
+            "docid": "25140_45",
+            "document": "Perception . Taste (or, the more formal term, \"gustation\") is the ability to perceive the flavor of substances including, but not limited to, food. Humans receive tastes through sensory organs called \"taste buds\", or \"gustatory calyculi\", concentrated on the upper surface of the tongue. The human tongue has 100 to 150 taste receptor cells on each of its roughly ten thousand taste buds. There are five primary tastes: sweetness, bitterness, sourness, saltiness, and umami. Other tastes can be mimicked by combining these basic tastes. The recognition and awareness of umami is a relatively recent development in Western cuisine. The basic tastes contribute only partially to the sensation and flavor of food in the mouth\u00a0\u2014 other factors include smell, detected by the olfactory epithelium of the nose; texture, detected through a variety of mechanoreceptors, muscle nerves, etc.; and temperature, detected by thermoreceptors. All basic tastes are classified as either \"appetitive\" or \"aversive\", depending upon whether the things they sense are harmful or beneficial.",
+            "score": 195.51638793945312
+        },
+        {
+            "docid": "21282070_39",
+            "document": "Taste . Taste is a form of chemoreception which occurs in the specialised taste receptors in the mouth. To date, there are five different types of taste receptors known: salt, sweet, sour, bitter, and umami. Each receptor has a different manner of sensory transduction: that is, of detecting the presence of a certain compound and starting an action potential which alerts the brain. It is a matter of debate whether each taste cell is tuned to one specific tastant or to several; Smith and Margolskee claim that \"gustatory neurons typically respond to more than one kind of stimulus, [a]lthough each neuron responds most strongly to one tastant\". Researchers believe that the brain interprets complex tastes by examining patterns from a large set of neuron responses. This enables the body to make \"keep or spit out\" decisions when there is more than one tastant present. \"No single neuron type alone is capable of discriminating among stimuli or different qualities, because a given cell can respond the same way to disparate stimuli.\" As well, serotonin is thought to act as an intermediary hormone which communicates with taste cells within a taste bud, mediating the signals being sent to the brain. Receptor molecules are found on the top of microvilli of the taste cells.",
+            "score": 195.35470581054688
+        },
+        {
+            "docid": "34591824_3",
+            "document": "BitterDB . BitterDB currently contains more than 670 compounds that were cited in the literature as bitter. For each compound, the database offers information regarding its molecular properties, references for the compound\u2019s bitterness, including additional information about the bitterness category of the compound (e.g. a \u2018bitter-sweet\u2019 or \u2018slightly bitter\u2019 annotation), different compound identifiers (smiles, CAS registry number, IUPAC systematic name), an indication whether the compound is derived from a natural source or is synthetic, a link to the compound\u2019s PubChem entry and different file formats for downloading (sdf, image, smiles). Over 200 bitter compounds have been experimentally linked to their corresponding human bitter taste receptors. For those compounds, BitterDB provides additional information, including links to the publications indicating these ligand\u2013receptor interactions, the effective concentration for receptor activation and/or the EC50 value and links to the associated bitter taste receptors entries in the BitterDB.",
+            "score": 193.9630126953125
+        },
+        {
+            "docid": "14567084_3",
+            "document": "TAS2R1 . This gene encodes a member of a family of candidate taste receptors that are members of the G protein-coupled receptor superfamily and that are specifically expressed by taste receptor cells of the tongue and palate epithelia. This intronless taste receptor gene encodes a 7-transmembrane receptor protein, functioning as a bitter taste receptor. This gene is mapped to chromosome 5p15, the location of a genetic locus (PROP) that controls the detection of the bitter compound 6-n-propyl-2-thiouracil.",
+            "score": 193.73281860351562
+        },
+        {
+            "docid": "1781797_17",
+            "document": "Sweetness . To depolarize the cell, and ultimately generate a response, the body uses different cells in the taste bud that each express a receptor for the perception of sweet, sour, salty, bitter or umami. Downstream of the taste receptor, the taste cells for sweet, bitter and umami share the same intracellular signalling pathway. Incoming sweet molecules bind to their receptors, which causes a conformational change in the molecule. This change activates the G-protein, gustducin, which in turn activates phospholipase C to generate inositol trisphosphate (IP), this subsequently opens the IP-receptor and induces calcium release from the endoplasmic reticulum. This increase in intracellular calcium activates the TRPM5 channel and induces cellular depolarization. The ATP release channel CALHM1 gets activated by the depolarization and releases ATP neurotransmitter which activates the afferent neurons innervating the taste bud.",
+            "score": 192.26414489746094
+        },
+        {
+            "docid": "2961628_15",
+            "document": "Special senses . Taste is the sensation produced when a substance in the mouth reacts chemically with taste receptor cells located on taste buds in the oral cavity, mostly on the tongue. Taste, along with smell (olfaction) and trigeminal nerve stimulation (registering texture, pain, and temperature), determines flavors of food or other substances. Humans have taste receptors on taste buds (gustatory calyculi) and other areas including the upper surface of the tongue and the epiglottis. The gustatory cortex is responsible for the perception of taste.",
+            "score": 190.80723571777344
+        },
+        {
+            "docid": "11890889_13",
+            "document": "Taste receptor . Signal transduction of bitter stimuli is accomplished via the \u03b1-subunit of gustducin. This G protein subunit activates a taste phosphodiesterase and decreases cyclic nucleotide levels. Further steps in the transduction pathway are still unknown. The \u03b2\u03b3-subunit of gustducin also mediates taste by activating IP (inositol triphosphate) and DAG (diglyceride). These second messengers may open gated ion channels or may cause release of internal calcium. Though all TAS2Rs are located in gustducin-containing cells, knockout of gustducin does not completely abolish sensitivity to bitter compounds, suggesting a redundant mechanism for bitter tasting (unsurprising given that a bitter taste generally signals the presence of a toxin). One proposed mechanism for gustducin-independent bitter tasting is via ion channel interaction by specific bitter ligands, similar to the ion channel interaction which occurs in the tasting of sour and salty stimuli.",
+            "score": 188.4302978515625
+        },
+        {
+            "docid": "14567237_6",
+            "document": "TAS1R3 . TAS1R1+3 expressing cells are found in fungiform papillae at the tip and edges of the tongue and palate taste receptor cells in the roof of the mouth. These cells are shown to synapse upon the chorda tympani nerves to send their signals to the brain. TAS1R2+3 expressing cells are found in circumvallate papillae and foliate papillae near the back of the tongue and palate taste receptor cells in the roof of the mouth. These cells are shown to synapse upon the glossopharyngeal nerves to send their signals to the brain. TAS1R and TAS2R (bitter) channels are not expressed together in any taste buds.",
+            "score": 188.17469787597656
+        },
+        {
+            "docid": "205156_10",
+            "document": "Dysgeusia . The sense of taste is based on the detection of chemicals by specialized taste cells in the mouth. The mouth, throat, larynx, and esophagus all have taste buds, which are replaced every ten days. Each taste bud contains receptor cells. Afferent nerves make contact with the receptor cells at the base of the taste bud. A single taste bud is innervated by several afferent nerves, while a single efferent fiber innervates several taste buds. Fungiform papillae are present on the anterior portion of the tongue while circumvallate papillae and foliate papillae are found on the posterior portion of the tongue. The salivary glands are responsible for keeping the taste buds moist with saliva.",
+            "score": 186.2933807373047
+        },
+        {
+            "docid": "11890889_12",
+            "document": "Taste receptor . The TAS2R proteins function as bitter taste receptors. There are 43 human \"TAS2R\" genes, each of which (excluding the five pseudogenes) lacks introns and codes for a GPCR protein. These proteins, as opposed to TAS1R proteins, have short extracellular domains and are located in circumvallate papillae, palate, foliate papillae, and epiglottis taste buds, with reduced expression in fungiform papillae. Though it is certain that multiple TAS2Rs are expressed in one taste receptor cell, it is still debated whether mammals can distinguish between the tastes of different bitter ligands. Some overlap must occur, however, as there are far more bitter compounds than there are TAS2R genes. Common bitter ligands include cycloheximide, denatonium, PROP (6-\"n\"-propyl-2-thiouracil), PTC (phenylthiocarbamide), and \u03b2-glucopyranosides.",
+            "score": 185.42103576660156
+        },
+        {
+            "docid": "14567193_3",
+            "document": "TAS2R5 . This gene encodes a bitter taste receptor; bitter taste receptors are members of the G protein-coupled receptor superfamily and are specifically expressed by taste receptor cells of the tongue and palate epithelia. Each of these apparently intronless taste receptor genes encodes a 7-transmembrane receptor protein, functioning as a bitter taste receptor. This gene is clustered with another 3 candidate taste receptor genes on chromosome 7 and is genetically linked to loci that influence bitter perception.",
+            "score": 184.70628356933594
+        },
+        {
+            "docid": "11891204_22",
+            "document": "Gustducin . Of the five basic tastes, three (sweet, bitter and umami tastes) are mediated by receptors from the G protein-coupled receptor family. Mammalian bitter taste receptors (T2Rs) are encoded by a gene family of only a few dozen members. It is believed that bitter taste receptors evolved as a mechanism to avoid ingesting poisonous and harmful substances. If this is the case, one might expect different species to develop different bitter taste receptors based on dietary and geographical constraints. With the exception of T2R1 (which lies on chromosome 5) all human bitter taste receptor genes can be found clustered on chromosome 7 and chromosome 12. Analyzing the relationships between bitter taste receptor genes show that the genes on the same chromosome are more closely related to each other than genes on different chromosomes. Furthermore, the genes on chromosome 12 have higher sequence similarity than the genes found on chromosome 7. This indicats that these genes evolved via tandem gene duplications and that chromosome 12, as a result of its higher sequence similarity between its genes, went through these tandem duplications more recently than the genes on chromosome 7.",
+            "score": 184.31590270996094
+        },
+        {
+            "docid": "14567218_7",
+            "document": "TAS1R1 . TAS1R1+3 expressing cells are found mostly in the fungiform papillae at the tip and edges of the tongue and palate taste receptor cells in the roof of the mouth. These cells are shown to synapse upon the chorda tympani nerves to send their signals to the brain, although some activation of the glossopharyngeal nerve has been found. TAS1R and TAS2R (bitter) channels are not expressed together in taste buds.",
+            "score": 181.82447814941406
+        },
+        {
+            "docid": "21282070_3",
+            "document": "Taste . Taste is the sensation produced when a substance in the mouth reacts chemically with taste receptor cells located on taste buds in the oral cavity, mostly on the tongue. Taste, along with smell (olfaction) and trigeminal nerve stimulation (registering texture, pain, and temperature), determines flavors of food or other substances. Humans have taste receptors on taste buds (gustatory calyculi) and other areas including the upper surface of the tongue and the epiglottis. The gustatory cortex is responsible for the perception of taste.",
+            "score": 181.71328735351562
+        },
+        {
+            "docid": "2961628_17",
+            "document": "Special senses . The sensation of taste includes five established basic tastes: sweetness, sourness, saltiness, bitterness, and umami. Scientific experiments have proven that these five tastes exist and are distinct from one another. Taste buds are able to differentiate among different tastes through detecting interaction with different molecules or ions. Sweet, umami, and bitter tastes are triggered by the binding of molecules to G protein-coupled receptors on the cell membranes of taste buds. Saltiness and sourness are perceived when alkali metal or hydrogen ions enter taste buds, respectively.",
+            "score": 178.8474884033203
+        },
+        {
+            "docid": "44419326_4",
+            "document": "Bitter taste evolution . Members of the T2R family encode alpha subunits of G-protein-coupled receptors, which are involved in intracellular taste transduction, not only on the taste buds but also in the pancreas and gastrointestinal tract. The mechanism of transduction is shown by exposure of the endocrine and gastrointestinal cells containing the receptors to bitter compounds, most famously phenylthiocarbamide (PTC). Exposure to PTC causes an intracellular cascade as evidenced by a large and rapid increase in intracellular calcium ions.",
+            "score": 176.08607482910156
+        },
+        {
+            "docid": "2121098_14",
+            "document": "Aftertaste . Low-calorie artificial sweeteners like saccharin and acesulfame-K are known for their bitter aftertastes. Recently, GIV3727 (4-(2,2,3-trimethylcyclopentyl) butanoic acid), a chemical that blocks saccharin and acesulfame-K activation of multiple bitter taste receptors has been developed. In the study, the addition of the bitter taste receptor antagonist GIV3727 to the saccharin and acesulfame-K solutions resulted in significantly lower taste intensity ratings when compared to the solutions that were not treated with GIV3727. This suggests that GIV3727 inhibits the normal functions of the bitter taste receptors because saccharin and acesulfame-K's bitter aftertastes were not observed. The ability to inhibit activation of the bitter taste receptors can have far-reaching effects if the bitter aftertastes of not only these two artificial sweeteners but also other foods, beverages, and even pharmaceuticals can be minimized.",
+            "score": 174.62574768066406
+        },
+        {
+            "docid": "11890889_6",
+            "document": "Taste receptor . The gustatory system consists of taste receptor cells in taste buds. Taste buds, in turn, are contained in structures called papillae. There are three types of papillae involved in taste: fungiform papillae, foliate papillae, and circumvallate papillae. (The fourth type - filiform papillae do not contain taste buds). Beyond the papillae, taste receptors are also in the palate and early parts of the digestive system like the larynx and upper esophagus. There are three cranial nerves that innervate the tongue; the vagus nerve, glossopharyngeal nerve, and the facial nerve. The glossopharyngeal nerve and the chorda tympani branch of the facial nerve innervate the TAS1R and TAS2R taste receptors.",
+            "score": 173.67776489257812
+        },
+        {
+            "docid": "4512803_5",
+            "document": "Receptor activated solely by a synthetic ligand . Strader and colleagues designed the first GPCR which could be activated only by a synthetic compound and the concept for RASSLs was first published in 1998. and has gradually been gaining momentum. The first international RASSL meeting was scheduled for April 6, 2006. A simple example of the use of a RASSL system in behavioral genetics was illustrated by Mueller et al. (2005) where they showed that expressing a RASSL receptor in sweet taste cells of the mouse tongue led to a strong preference for oral consumption of the synthetic ligand, whereas expressing the RASSL in bitter taste cells caused dramatic taste aversion for the same compound.",
+            "score": 172.6985321044922
+        },
+        {
+            "docid": "14567115_3",
+            "document": "TAS2R3 . This gene encodes a member of a family of candidate taste receptors that are members of the G protein-coupled receptor superfamily and that are specifically expressed by taste receptor cells of the tongue and palate epithelia. These apparently intronless taste receptor genes encode a 7-transmembrane receptor protein, functioning as a bitter taste receptor. This gene is clustered with another 3 candidate taste receptor genes in chromosome 7 and is genetically linked to loci that influence bitter perception.",
+            "score": 172.2347412109375
+        },
+        {
+            "docid": "14567225_6",
+            "document": "TAS1R2 . TAS1R2+3 expressing cells are found in circumvallate papillae and foliate papillae near the back of the tongue and palate taste receptor cells in the roof of the mouth. These cells are shown to synapse upon the chorda tympani and glossopharyngeal nerves to send their signals to the brain. TAS1R and TAS2R (bitter) channels are not expressed together in taste buds.",
+            "score": 171.4897918701172
+        }
+    ]
+}

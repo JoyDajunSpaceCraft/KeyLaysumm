@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "27141816_8",
+            "document": "IBus (London) . The essential part of the system relies on GPS satellite data that roughly determine the location of a bus down to 100 metres. Data collected from GPS is passed into a Kalman filter, and other data including velocity and temperature is calculated on the bus and transmitted every 30 seconds via GPRS. With the bus network map, this helps the Central System to make a \"best guess\" of the bus position and depicts the overall image derived from the data provided by all buses, even in areas with poor GPS reception. The Central System can update the countdown signs as before that now has a more accurate prediction derived from all this data. Knowing the location of the bus, controllers have the means to regulate the service more efficiently, and priority can be given to a bus at traffic lights.",
+            "score": 55.92519783973694
+        },
+        {
+            "docid": "55442989_6",
+            "document": "Wells effect . Subsequent research has led to the proposal of an \"ease-of-simulation\" mechanism being responsible for the effect. Niedermeier, Kerr, and Mess\u00e9 (1999) argued that jurors in Wells's experiments ruled in favor of the Blue Bus Company when they had an easier time imagining that the Gray Bus Company was responsible for the accident. They replicated the Wells Effect but also included manipulations that were meant to make it easier to imagine that a gray bus was responsible. For instance, their \"partial-match/simulation case\" was similar to Wells's \"tire tracks-belief case\", except the witness was cross-examined by the defense and admitted that it was possible that a gray bus caused the accident. The researchers also probed participants with new questions meant to measure the ease of this mental simulation (e.g., \"on an 11-point scale, how easy it was to imagine that a Grey Bus Company bus ran over the dog\"). In these experiments, participants were less likely to make a judgment against the Blue Bus Company in cases where they had an easier time imagining that a gray bus was responsible for the accident, even though they reported an identical probability that a blue bus was responsible.",
+            "score": 54.33870494365692
+        },
+        {
+            "docid": "46491547_4",
+            "document": "Value cache encoding . In this protocol, we employ a small cache (called value cache, or VC for short) at each side of the off-chip data bus. These value caches keep track of the data values that have recently been transmitted over the bus. The entries in these caches are constructed in such a way that the contents of both the value caches are the same all the time. When a data value needs to be transmitted over the bus, we first check whether it is in the value cache of the sender (whether it is memory or cache). If it is, we transmit only the index of the data (i.e., its value cache address, or index) instead of the actual data value and, the other side (receiver) can determine the data value by using this index and its value cache.To transmit the data in the value cache using only 1 bit switching activity, the size of value cache is limited to the width of the data bus. That is, with a 32-bit bus, the VC could have only 32 entries. Since the value caches employed by our power protocol are very small, the width of the index value is much smaller than the width of the actual data value. Consequently, fewer off-chip bus lines need to be activated for transmission Our approach tries to achieve the first option by exploiting the locality of the data values communicated over the off-chip data bus. However, once the width of the data (that needs to be transmitted) has been reduced, we can also expect a reduction (in general) on the average bit switching activity per transfer. In addition, this switching activity can be further reduced by using well-known bus encoding schemes in conjunction with our strategy",
+            "score": 69.38825476169586
+        },
+        {
+            "docid": "33225666_5",
+            "document": "Kallar Kahar school bus accident . It has been reported that although the bus had a capacity for only 70 passengers it was carrying at least 110 people. Reports suggest the overloaded capacity of the bus may have caused the driver to lose full control of the vehicle and subsequently experience a brake failure. The driver apparently informed the teachers first when the brakes began to fail. The information spread panic and one teacher jumped and landed out of the bus. The vice-principal advised passengers on the bus to remain calm and be prepared to jump out. However, the bus overturned before the passengers could move. According to one student who survived the accident, most of the children were looking towards the teacher who was lying on the road when the bus overturned. The children who were standing while the bus crashed experienced the heaviest casualties. News correspondents reported that the bus was travelling on one of the steepest parts of the motorway. Pakistan has one of the worst records in traffic accidents and conduct, blamed on poor road infrastructure and faulty vehicles.",
+            "score": 65.44315946102142
+        },
+        {
+            "docid": "55442989_4",
+            "document": "Wells effect . The experiments were based on variants of the hypothetical Blue Bus Case, which first appeared in the legal literature to describe the unsuitability of naked statistics in trial. In Wells's studies, participants were asked to rule on a case in which a woman had watched her dog get struck by a bus and killed, but was unable to identify the bus. One group of participants (in the \"rate of traffic case\") was presented with evidence that the Blue Bus Company was responsible for 80% of the traffic on the road, and the competing Gray Bus Company was responsible for the other 20%; a second group (in the \"weight attendant case\") was presented with the testimony of a weight attendant who made a record indicating that a Blue Bus was on the road at a time corresponding to the accident, and that of a second witness who testified that this record was known to be incorrect 20% of the time. When asked to guess the probability that the Blue Bus Company was responsible for the accident, participants from both groups correctly reported an average 80% chance. However, when asked to make a determination of guilt in the case, those in the first group made a judgment against the Blue Bus Company only 8.2% of the time, while those in the second group found the Blue Bus Company liable in 67.1% of the cases.",
+            "score": 54.229806900024414
+        },
+        {
+            "docid": "5103831_3",
+            "document": "CPU multiplier . The internal frequency of microprocessors is usually based on FSB frequency. To calculate internal frequency the CPU multiplies bus frequency by a number called the clock multiplier. For calculation, the CPU uses actual bus frequency, and not effective bus frequency. To determine the actual bus frequency for processors that use dual-data rate (DDR) buses (AMD Athlon and Duron) and quad-data rate buses (all Intel microprocessors starting from Pentium 4) the effective bus speed should be divided by 2 for AMD or 4 for Intel.",
+            "score": 48.408369302749634
+        },
+        {
+            "docid": "1441618_9",
+            "document": "MIL-STD-1553 . A MIL-STD-1553 multiplex data bus system consists of a Bus Controller (BC) controlling multiple Remote Terminals (RT) all connected together by a data bus providing a single data path between the Bus Controller and all the associated Remote Terminals. There may also be one or more Bus Monitors (BM); however, Bus Monitors are specifically not allowed to take part in data transfers, and are only used to capture or record data for analysis, etc. In redundant bus implementations, several data buses are used to provide more than one data path, i.e. dual redundant data bus, tri-redundant data bus, etc. All transmissions onto the data bus are accessible to the BC and all connected RTs. Messages consist of one or more 16-bit words (command, data, or status). The 16 bits comprising each word are transmitted using Manchester code, where each bit is transmitted as a 0.5 \u03bcs high and 0.5 \u03bcs low for a logical 1 or a low-high sequence for a logical 0. Each word is preceded by a 3 \u03bcs sync pulse (1.5 \u03bcs low plus 1.5 \u03bcs high for data words and the opposite for command and status words, which cannot occur in the Manchester code) and followed by an odd parity bit. Practically each word could be considered as a 20-bit word: 3 bit for sync, 16 bit for payload and 1 bit for odd parity control. The words within a message are transmitted contiguously and there has to be a minimum of a 4 \u03bcs gap between messages. However, this inter-message gap can be, and often is, much larger than 4 \u03bcs, even up to 1 ms with some older Bus Controllers. Devices have to start transmitting their response to a valid command within 4\u201312 \u03bcs and are considered to not have received a command or message if no response has started within 14 \u03bcs.",
+            "score": 62.31151008605957
+        },
+        {
+            "docid": "8504_43",
+            "document": "Dublin . Dublin is served by a network of nearly 200 bus routes which cover the city and suburbs. The majority of these are controlled by Dublin Bus, but a number of smaller companies also operate. Fares are generally calculated on a stage system based on distance travelled. There are several different levels of fares, which apply on most services. A \"Real Time Passenger Information\" system was introduced at Dublin Bus bus stops in 2012. Electronically displayed signs relay information about the time of the next bus' arrival based on its GPS determined position. The National Transport Authority is responsible for integration of bus and rail services in Dublin and has been involved in introducing a pre-paid smart card, called a Leap card, which can be used on all of Dublin\u2019s public transport services.",
+            "score": 57.10086941719055
+        },
+        {
+            "docid": "16945685_7",
+            "document": "Delhi\u2013Lahore Bus . The Delhi-Lahore bus is jointly operated by the Delhi Transport Corporation and the Pakistan Tourism Development Corporation. The bus service is operated from Ambedkar Stadium Bus Terminal near Delhi Gate in Delhi and the Lahore-Delhi Bus Terminal at Gulberg-III near Liberty Market in Lahore. For journey to Lahore, there is a DTC Bus every Monday, Wednesday and Friday and a PTDC Bus every Tuesday, Thursday and Saturday. As regards the return trip to Delhi, the DTC Bus leaves Lahore every Tuesday, Thursday and Saturday whereas the PTDC Bus leaves Lahore every Monday, Wednesday and Friday. The DTC charges 2400 for adults ($40 approx.), and 833 ($13.2 approx.) for minors. Children under age of 2 travel free. The PTDC charges Rs. 4000 ($65 approx.)for adult ticket since 1 November 2014 (the price before was Rs. 2000).",
+            "score": 49.25789654254913
+        },
+        {
+            "docid": "33495208_5",
+            "document": "Shared bus and cycle lane . As of 2003, mixed bus/cycle lanes accounted for 118\u00a0km of the 260\u00a0km of cycling facilities in Paris. The French city of Bordeaux has 40\u00a0km of shared bus cycle lanes. It is reported that in the city of Bristol, a showcase bus priority corridor, where road space was re-allocated along a 14\u00a0km stretch also resulted in more space for cyclists and had the effect of increasing cycling. The reverse effect has also been suggested. A review carried out in London reports that cycling levels fell across Kew bridge following the removal of a bus lane, despite a general increase in cycling in the city.  In addition, it is arguably easier, politically speaking, to argue for funding of joint facilities rather than the additional expense of both segregated cycling facilities and bus-only lanes.",
+            "score": 46.62332797050476
+        },
+        {
+            "docid": "11997021_8",
+            "document": "Intel Tera-Scale . In early 2005, Intel originally encountered the problem of memory bandwidth. As more cores are added, the memory bandwidth remains the same due to size constrictions, effectively bottle necking the CPU. Fortunately, they were able to overcome the problem by a process called die stacking. This is a process in which the CPU die, flash, and DRAM would be stacked on top of each other significantly raising the possible memory bus widths. Another challenge that Intel encountered were the physical limitations of electrical buses. A bus bandwidth is the CPU's connection to the outside world and with the current bus bandwidth, it would be unable to keep up with the teraFLOPs performance resulting from tera-scale processors. Intel's research into Silicon Photonics has produced a functional optical bus that can offer superior signaling speed and power efficiency compared to the current buses. These optical buses are an ideal solution to the bus bandwidth limitation for tera-scale processors.",
+            "score": 46.93958258628845
+        },
+        {
+            "docid": "376507_2",
+            "document": "Bus contention . Bus contention, in computer design, is an undesirable state of the bus in which more than one device on the bus attempts to place values on the bus at the same time. Most bus architectures require their devices to follow an arbitration protocol carefully designed to make the likelihood of contention negligible. However, when devices on the bus have logic errors, manufacturing defects, or are driven beyond their design speeds, arbitration may break down and contention may result. Contention may also arise on systems which have a programmable memory mapping when illegal values are written to the registers controlling the mapping.",
+            "score": 62.97809600830078
+        },
+        {
+            "docid": "145162_51",
+            "document": "Parallel computing . A symmetric multiprocessor (SMP) is a computer system with multiple identical processors that share memory and connect via a bus. Bus contention prevents bus architectures from scaling. As a result, SMPs generally do not comprise more than 32\u00a0processors. Because of the small size of the processors and the significant reduction in the requirements for bus bandwidth achieved by large caches, such symmetric multiprocessors are extremely cost-effective, provided that a sufficient amount of memory bandwidth exists.",
+            "score": 40.61526668071747
+        },
+        {
+            "docid": "140456_12",
+            "document": "Micro Channel architecture . The basic data rate of the Micro Channel was increased from ISA's 8\u00a0MHz to 10\u00a0MHz. This may have been a modest increase in terms of clock rate, but the greater bus width, coupled with a dedicated bus controller that utilized burst mode transfers, meant that effective throughput was up to five times higher than ISA. For faster transfers the address bus could be reused for data, further increasing the effective width of the bus. Around 40 MB/s of throughput was observed (the theoretical maximum for MCA was 66 MB/s), although some higher throughput functions of the Micro Channel bus were not initially supported on cards operating on an Intel platform.",
+            "score": 57.28289222717285
+        },
+        {
+            "docid": "46266097_5",
+            "document": "Bus encoding . The dynamic power dissipated by an electronic circuit is directly proportional to the activity factor and the load capacitance as seen by the output of the logic gate. In case of a bus, the load capacitance is usually high since bus needs to be connected to multiple modules and routed longer and the activity factor is also high. Due to higher value of load capacitance and activity factor, in a typical system, bus power consumption can contribute up to 50% of the total power consumption. Bus encoding aims to reduce this power by reducing the amount of activity (number of toggles) in the bus lines. While the kind of bus encoding to be used for a particular system can be best determined when the target application and environmental constraints about the system are known apriori, described below are some bus encoding techniques which can help reduce bus power for most systems. Hence bus encoding is important for any electronic system design.",
+            "score": 65.54905343055725
+        },
+        {
+            "docid": "39516017_4",
+            "document": "Loyang Bus Depot . Announced by LTA on 29 May 2013, the bus depot will be the second depot that LTA is developing and funding, as part of the review of the enhanced structural assistance that Government is providing the bus industry announced in Committee of Supply (COS) 2012. The depot is intended to accommodate the additional buses that it is bringing in over the next few years. The operator\u2019s existing bus depots and bus park are reaching full capacity, and the new facility is necessary to support the higher number of buses as the overall bus capacity is progressively increased under the Bus Service Enhancement Programme (BSEP).",
+            "score": 51.158145904541016
+        },
+        {
+            "docid": "376507_5",
+            "document": "Bus contention . Most small-scale computer systems are carefully designed to avoid bus contention on the system bus. They use a single device, called bus arbiter, that controls which device is allowed to drive the bus at each instant, so bus contention never happens in normal operation.",
+            "score": 53.41434335708618
+        },
+        {
+            "docid": "15877303_14",
+            "document": "Bus transport in the United Kingdom . In 1980 the new Thatcher government embarked on a programme of deregulation and privatisation of bus services. The National Bus Company and Scottish Transport Group divided some of their larger subsidiaries into more saleable units. In 1986, under the Transport Act 1985, all bus services apart from those in London and Northern Ireland were deregulated. The NBC's and STG's subsidiaries were then sold, in most cases to their management and employees.",
+            "score": 53.137826442718506
+        },
+        {
+            "docid": "2988582_4",
+            "document": "Bus analyzer . The bus analyzer monitors and captures the bus communication data, decodes and analyses it and displays the data and analysis reports to the user. It is essentially a logic analyzer with some additional knowledge of the underlying bus traffic characteristics. One of the key differences between a bus analyzer and a logic analyzer is notably its ability to filter and extract only relevant traffic that occurs on the analyzed bus. Some advanced logic analyzers present data storage qualification options that also allow to filter bus traffic, enabling bus analyzer-like features.",
+            "score": 47.043477296829224
+        },
+        {
+            "docid": "2886487_2",
+            "document": "Control bus . In computer architecture, a control bus is part of the system bus, used by CPUs for communicating with other devices within the computer. While the address bus carries the information about the device with which the CPU is communicating and the data bus carries the actual data being processed, the control bus carries commands from the CPU and returns status signals from the devices. For example, if the data is being read or written to the device the appropriate line (read or write) will be active (logic one).",
+            "score": 73.16674542427063
+        },
+        {
+            "docid": "1113557_7",
+            "document": "System bus . Even in very simple systems, at various times the data bus is driven by the program memory, by RAM, and by I/O devices. To prevent bus contention on the data bus, at any one instant only one device drives the data bus. In very simple systems, only the data bus is required to be a bidirectional bus. In very simple systems, the memory address register always drives the address bus, the control unit always drives the control bus, and an address decoder selects which particular device is allowed to drive the data bus during this bus cycle. In very simple systems, every instruction cycle starts with a READ memory cycle where program memory drives the instruction onto the data bus while the instruction register latches that instruction from the data bus. Some instructions continue with a WRITE memory cycle where the memory data register drives data onto the data bus into the chosen RAM or I/O device. Other instructions continue with another READ memory cycle where the chosen RAM, program memory, or I/O device drives data onto the data bus while the memory data register latches that data from the data bus.",
+            "score": 59.805577516555786
+        },
+        {
+            "docid": "22913797_10",
+            "document": "Selectrix . If a Selectrix bus address is used to control turnouts, signals or other accessories, one SX bus address can control maximum 8 items. In this case one bit with its two values (0 and 1) in an SX address can correspond to two turnout or signal positions. A typical Selectrix system bus with its 112 bus addresses can therefore control up to 896 switches. Most central units are equipped with at least two data buses, SX0 and SX1. In a multi-bus system, the first data bus, SX0, is commonly used for controlling locomotives only while SX1 and subsequent buses are reserved for accessories.",
+            "score": 64.26184892654419
+        },
+        {
+            "docid": "56965816_27",
+            "document": "2017 New York City transit crisis . Improvements were also proposed for the bus system. These improvements included adding more bus lanes in New York City, which allow buses to use an exclusive bus lane without being blocked by other traffic. Traffic signal preemption, which changes traffic lights based on whether a bus is approaching, was also suggested for 1,000 traffic signals by 2020. In October 2017, de Blasio's administration announced that the city would add 21 Select Bus Service routes through 2027, adding to the existing 15-route system. The Select Bus Service lines implemented several methods to speed up service: passengers paid fares at booths on the sidewalk rather than aboard buses using all-door boarding, and the buses themselves used exclusive bus lanes. In April 2018, the MTA published a Bus Action Plan detailing 28 suggestions to improve the bus system. The improvements included expanding all-door boarding to all bus routes; simplifying bus routes; adding more dedicated bus lanes; enforcing bus lane rules; redesigning borough bus maps; purchasing more electric buses; and adding real-time boarding information to buses. The MTA also planned to test out a double-decker bus on the redesigned Staten Island bus routes.",
+            "score": 50.493266582489014
+        },
+        {
+            "docid": "34899006_3",
+            "document": "MDZ Shield . On average, fatal injuries occur outside the school bus at a rate of four times those occurring inside the bus; besides being struck and killed by other vehicles, the greatest number of child fatalities occur by the right rear tire of the student\u2019s own bus. Since the 1970-1971 school year, the Kansas State Department of Education has compiled an annual \"National School Bus Loading and Unloading Survey\", detailing fatalities occurring in the danger zone surrounding school buses on which an MDZ Shield is not present. According to the reports, from the 2004-2005 through 2010-2011 school years, there have been 48 fatalities involving the school bus while loading and unloading. Of those, half were caused by the right rear wheels. Of all fatalities involving the rear wheels, 83% took place on the right side of the bus. The reports have shown that in a majority of cases involving the wheels, children first incur injuries by coming in contact with the tire before being propelled underneath the bus wheels. In addition to the 10 feet surrounding the school bus, there is typically an approximately 2 foot vertical gap in front of the rear wheels between the undercarriage and the ground, in which a child is at increased risk of coming in contact with the tire.",
+            "score": 53.707375288009644
+        },
+        {
+            "docid": "45199965_15",
+            "document": "Energy proportional computing . Nevertheless, DVFS has been recently proposed for the DDR3 memory bus interface independently by two research groups in 2011 to scale memory power with throughput. Because the memory bus voltage and frequency are independent of internal DRAM timings and voltages, scaling this interface should have no effect on memory cell integrity. Furthermore, David et al. claim their approach improves energy proportionality because the memory bus consumes a lot of static power that is independent of the bus utilization.",
+            "score": 50.84736919403076
+        },
+        {
+            "docid": "25170074_9",
+            "document": "M4 bus lane . A Whitehall source was quoted as saying that the business-case for removing the bus-lane showed time savings for all current non-bus lane users during the morning peak period and evening peak with no significant change in journey times for existing bus lane users'. During his speech to the Conservative Party conference Philip Hammond explained that removing the bus lane would result in 'shortening average journey times; reducing congestion; restoring a sense of fairness. Seven Freedom of information requests were made the following day to various organisations (see below).",
+            "score": 42.62668704986572
+        },
+        {
+            "docid": "6631_12",
+            "document": "Bus (computing) . Buses can be parallel buses, which carry data words in parallel on multiple wires, or serial buses, which carry data in bit-serial form. The addition of extra power and control connections, differential drivers, and data connections in each direction usually means that most serial buses have more conductors than the minimum of one used in 1-Wire and UNI/O. As data rates increase, the problems of timing skew, power consumption, electromagnetic interference and crosstalk across parallel buses become more and more difficult to circumvent. One partial solution to this problem has been to double pump the bus. Often, a serial bus can be operated at higher overall data rates than a parallel bus, despite having fewer electrical connections, because a serial bus inherently has no timing skew or crosstalk. USB, FireWire, and Serial ATA are examples of this. Multidrop connections do not work well for fast serial buses, so most modern serial buses use daisy-chain or hub designs.",
+            "score": 52.30964016914368
+        },
+        {
+            "docid": "143320_2",
+            "document": "PCI Express . PCI Express (Peripheral Component Interconnect Express), officially abbreviated as PCIe or PCI-e, is a high-speed serial computer expansion bus standard, designed to replace the older PCI, PCI-X, and AGP bus standards. PCIe has numerous improvements over the older standards, including higher maximum system bus throughput, lower I/O pin count and smaller physical footprint, better performance scaling for bus devices, a more detailed error detection and reporting mechanism (Advanced Error Reporting, AER), and native hot-swap functionality. More recent revisions of the PCIe standard provide hardware support for I/O virtualization.",
+            "score": 48.4956750869751
+        },
+        {
+            "docid": "19637633_53",
+            "document": "MTA Regional Bus Operations . Buses running off-schedule are also common in the MTA Regional Bus system, with almost one in four buses running either too early or too late to maintain a constant spacing between buses. This is prevalent even on Select Bus Service bus rapid transit routes, where 20% of bus trips do not adhere to their schedules. Some routes suffer from bus bunching. Routes affected by bus bunching may not have any buses in a certain direction for prolonged periods of time, and then several buses will show up within a short time period. In 2017, nearly twelve percent of routes were considered to be bunched on a regular basis, compared to 9.4% in 2015. This phenomenon most affects bus routes within Brooklyn Community Board 5 in East Brooklyn, where 15% of buses are subject to bunching.",
+            "score": 47.66489219665527
+        },
+        {
+            "docid": "75031_2",
+            "document": "Local bus . In computer architecture, a local bus is a computer bus that connects directly, or almost directly, from the CPU to one or more slots on the expansion bus. The significance of direct connection to the CPU is avoiding the bottleneck created by the expansion bus, thus providing fast throughput. There are several local buses built into various types of computers to increase the speed of data transfer. Local buses for expanded memory and video boards are the most common.",
+            "score": 52.03705143928528
+        },
+        {
+            "docid": "1113557_2",
+            "document": "System bus . A system bus is a single computer bus that connects the major components of a computer system, combining the functions of a data bus to carry information, an address bus to determine where it should be sent, and a control bus to determine its operation. The technique was developed to reduce costs and improve modularity, and although popular in the 1970s and 1980s, more modern computers use a variety of separate buses adapted to more specific needs.",
+            "score": 64.5753481388092
+        },
+        {
+            "docid": "1300347_9",
+            "document": "Q-Bus . \"Asynchronous signaling\" means that the bus has no fixed cycle time; the duration of any particular data transfer cycle on the bus is determined solely by the master and slave devices participating in the current data cycle. These devices use \"handshake\" signals to control the timing of the data cycle. Timeout logic within the master device limits the maximum allowed length of any given bus cycle.",
+            "score": 55.30931377410889
+        }
+    ],
+    "r": [
+        {
+            "docid": "2886487_2",
+            "document": "Control bus . In computer architecture, a control bus is part of the system bus, used by CPUs for communicating with other devices within the computer. While the address bus carries the information about the device with which the CPU is communicating and the data bus carries the actual data being processed, the control bus carries commands from the CPU and returns status signals from the devices. For example, if the data is being read or written to the device the appropriate line (read or write) will be active (logic one).",
+            "score": 73.166748046875
+        },
+        {
+            "docid": "4308043_7",
+            "document": "Walking bus . The walking school bus can help to reduce childhood obesity rates in the United States by increasing active transportation to school. The American Public Health Association cites that participation in active transportation to school has reduced by a third in the last 40 years. The reduction in active transportation has coincided with an increase in childhood obesity rates. The Centers for Disease Control and Prevention (CDC) reports the prevalence of obesity among children has doubled and among adolescents has quadrupled in the past 30 years. In 2012, 18% of children and 21% of adolescents were obese.",
+            "score": 69.70954132080078
+        },
+        {
+            "docid": "46491547_4",
+            "document": "Value cache encoding . In this protocol, we employ a small cache (called value cache, or VC for short) at each side of the off-chip data bus. These value caches keep track of the data values that have recently been transmitted over the bus. The entries in these caches are constructed in such a way that the contents of both the value caches are the same all the time. When a data value needs to be transmitted over the bus, we first check whether it is in the value cache of the sender (whether it is memory or cache). If it is, we transmit only the index of the data (i.e., its value cache address, or index) instead of the actual data value and, the other side (receiver) can determine the data value by using this index and its value cache.To transmit the data in the value cache using only 1 bit switching activity, the size of value cache is limited to the width of the data bus. That is, with a 32-bit bus, the VC could have only 32 entries. Since the value caches employed by our power protocol are very small, the width of the index value is much smaller than the width of the actual data value. Consequently, fewer off-chip bus lines need to be activated for transmission Our approach tries to achieve the first option by exploiting the locality of the data values communicated over the off-chip data bus. However, once the width of the data (that needs to be transmitted) has been reduced, we can also expect a reduction (in general) on the average bit switching activity per transfer. In addition, this switching activity can be further reduced by using well-known bus encoding schemes in conjunction with our strategy",
+            "score": 69.38825225830078
+        },
+        {
+            "docid": "633072_44",
+            "document": "School bus . In both public and private education systems, outside of school buses in regular route service, there are two other uses that involve school buses. An \"activity bus\" is a school bus used for providing transportation for students. Instead of being used in route service (home to school), the intended use of an activity bus is for transporting students solely for extracurricular activities. Depending on individual state and provincial regulations, the bus used for this purpose can either be a regular yellow school bus or a dedicated unit for this purpose. Dedicated activity buses, while not painted yellow, are fitted with the similar interiors as well as the same traffic control devices for dropping off students (at other schools).",
+            "score": 68.85912322998047
+        },
+        {
+            "docid": "1441618_31",
+            "document": "MIL-STD-1553 . Alternatively, a BM is used in conjunction with a Backup Bus Controller. This allows the Backup Bus Controller to \"hit the ground running\", if it is called upon to become the active Bus Controller.",
+            "score": 66.6036605834961
+        },
+        {
+            "docid": "23182523_29",
+            "document": "Mobile DDR . Since the clock frequency is higher and the minimum burst length longer than earlier standards, control signals can be more highly multiplexed without the command/address bus becoming a bottleneck. LPDDR4 multiplexes the control and address lines onto a 6-bit single data rate CA bus. Commands require 2 clock cycles, and operations encoding an address (e.g. activate row, read or write column) require two commands. For example, to request a read from an idle chip requires four commands taking 8 clock cycles: Activate-1, Activate-2, Read, CAS-2.",
+            "score": 65.70259094238281
+        },
+        {
+            "docid": "46266097_5",
+            "document": "Bus encoding . The dynamic power dissipated by an electronic circuit is directly proportional to the activity factor and the load capacitance as seen by the output of the logic gate. In case of a bus, the load capacitance is usually high since bus needs to be connected to multiple modules and routed longer and the activity factor is also high. Due to higher value of load capacitance and activity factor, in a typical system, bus power consumption can contribute up to 50% of the total power consumption. Bus encoding aims to reduce this power by reducing the amount of activity (number of toggles) in the bus lines. While the kind of bus encoding to be used for a particular system can be best determined when the target application and environmental constraints about the system are known apriori, described below are some bus encoding techniques which can help reduce bus power for most systems. Hence bus encoding is important for any electronic system design.",
+            "score": 65.54905700683594
+        },
+        {
+            "docid": "33225666_5",
+            "document": "Kallar Kahar school bus accident . It has been reported that although the bus had a capacity for only 70 passengers it was carrying at least 110 people. Reports suggest the overloaded capacity of the bus may have caused the driver to lose full control of the vehicle and subsequently experience a brake failure. The driver apparently informed the teachers first when the brakes began to fail. The information spread panic and one teacher jumped and landed out of the bus. The vice-principal advised passengers on the bus to remain calm and be prepared to jump out. However, the bus overturned before the passengers could move. According to one student who survived the accident, most of the children were looking towards the teacher who was lying on the road when the bus overturned. The children who were standing while the bus crashed experienced the heaviest casualties. News correspondents reported that the bus was travelling on one of the steepest parts of the motorway. Pakistan has one of the worst records in traffic accidents and conduct, blamed on poor road infrastructure and faulty vehicles.",
+            "score": 65.44316101074219
+        },
+        {
+            "docid": "338059_4",
+            "document": "Council-controlled organisation . In the past, the erstwhile for-profit LATEs were seen as the local government equivalent of state-owned enterprises (SOEs). Many of these, which included bus companies, diagnostic laboratories, public works divisions and property investment companies, were privatised. For-profit council organisations are now termed \"council-controlled trading organisations\" under the Act. Council-controlled organisations pay tax to central government, unlike the internal activities of councils which are tax-free.",
+            "score": 65.2347183227539
+        },
+        {
+            "docid": "1113557_2",
+            "document": "System bus . A system bus is a single computer bus that connects the major components of a computer system, combining the functions of a data bus to carry information, an address bus to determine where it should be sent, and a control bus to determine its operation. The technique was developed to reduce costs and improve modularity, and although popular in the 1970s and 1980s, more modern computers use a variety of separate buses adapted to more specific needs.",
+            "score": 64.57534790039062
+        },
+        {
+            "docid": "22913797_10",
+            "document": "Selectrix . If a Selectrix bus address is used to control turnouts, signals or other accessories, one SX bus address can control maximum 8 items. In this case one bit with its two values (0 and 1) in an SX address can correspond to two turnout or signal positions. A typical Selectrix system bus with its 112 bus addresses can therefore control up to 896 switches. Most central units are equipped with at least two data buses, SX0 and SX1. In a multi-bus system, the first data bus, SX0, is commonly used for controlling locomotives only while SX1 and subsequent buses are reserved for accessories.",
+            "score": 64.26184844970703
+        },
+        {
+            "docid": "20301_18",
+            "document": "Motorola 6800 . The Motorola 6800 and the Intel 8080 were designed at the same time and were similar in function. The 8080 was an extension and enhancement of the Intel 8008, which in turn was an LSI implementation of the TTL-based CPU design used in the Datapoint 2200. The 6800 architecture was modeled after the DEC PDP-11 processor. Both the 8080 and the 6800 were TTL compatible, had an 8-bit bidirectional data bus, a 16-bit stack pointer, a 16-bit address bus that could address 64\u00a0kB of memory, and came in a 40-pin DIP package. The 6800 had two accumulators and a 16-bit index register. The direct addressing mode allowed fast access to the first 256\u00a0bytes of memory. I/O devices were addressed as memory so there were no special I/O instructions. The 8080 had more internal registers and instructions for dedicated I/O ports. When the 8080 was reset, the program counter was cleared and the processor started at memory location 0000. The 6800 loaded the program counter from the highest address and started at the memory location stored there. The 6800 had a three-state control that would disable the address bus to allow another device direct memory access. A disk controller could therefore transfer data into memory with no load on the processor. It was even possible to have two 6800 processors access the same memory. However, in practice systems of such complexity usually required the use of external bus transceivers to drive the system bus; in such circuits the on-processor bus control was disabled entirely in favor of using the similar capabilities of the bus transceiver. In contrast, the 6802 dispensed with this on-chip control entirely in order to free up pins for other functions in the same 40-pin package as the 6800, but this functionality could still be achieved using an external bus transceiver.",
+            "score": 63.21689224243164
+        },
+        {
+            "docid": "376507_2",
+            "document": "Bus contention . Bus contention, in computer design, is an undesirable state of the bus in which more than one device on the bus attempts to place values on the bus at the same time. Most bus architectures require their devices to follow an arbitration protocol carefully designed to make the likelihood of contention negligible. However, when devices on the bus have logic errors, manufacturing defects, or are driven beyond their design speeds, arbitration may break down and contention may result. Contention may also arise on systems which have a programmable memory mapping when illegal values are written to the registers controlling the mapping.",
+            "score": 62.97809600830078
+        },
+        {
+            "docid": "46430997_11",
+            "document": "Cypress-Fairbanks Independent School District . In 2009, in the midst of budget deficits caused by decreased state funding, the board voted to only have school bus services for a resident who lives more than two miles from his or her school, as opposed to having service for residents living more than one mile away. Activity (late) bus service was also discontinued for most CFISD schools. Bus service continued and was expanded to accommodate student mothers, delivering mothers and their children to schools and district funded daycares on campus. If a student has to cross a major street then bus service is available even if the student lives within 2 miles of the school. Starting in the beginning of 2013-2014 school year, activity (late) bus service are back for most CFISD schools and in the 2014 CFISD Bond, the board voted to bring back school bus services for residents living more than one mile away starting in the 2014-2015 school year.",
+            "score": 62.82595443725586
+        },
+        {
+            "docid": "45133349_2",
+            "document": "Cameroon bus attack . The Cameroon bus attack occurred on January 3, 2015 after Boko Haram attacked a bus in northern Cameroon. At least 15 people were killed in the attack.",
+            "score": 62.686134338378906
+        },
+        {
+            "docid": "1441618_9",
+            "document": "MIL-STD-1553 . A MIL-STD-1553 multiplex data bus system consists of a Bus Controller (BC) controlling multiple Remote Terminals (RT) all connected together by a data bus providing a single data path between the Bus Controller and all the associated Remote Terminals. There may also be one or more Bus Monitors (BM); however, Bus Monitors are specifically not allowed to take part in data transfers, and are only used to capture or record data for analysis, etc. In redundant bus implementations, several data buses are used to provide more than one data path, i.e. dual redundant data bus, tri-redundant data bus, etc. All transmissions onto the data bus are accessible to the BC and all connected RTs. Messages consist of one or more 16-bit words (command, data, or status). The 16 bits comprising each word are transmitted using Manchester code, where each bit is transmitted as a 0.5 \u03bcs high and 0.5 \u03bcs low for a logical 1 or a low-high sequence for a logical 0. Each word is preceded by a 3 \u03bcs sync pulse (1.5 \u03bcs low plus 1.5 \u03bcs high for data words and the opposite for command and status words, which cannot occur in the Manchester code) and followed by an odd parity bit. Practically each word could be considered as a 20-bit word: 3 bit for sync, 16 bit for payload and 1 bit for odd parity control. The words within a message are transmitted contiguously and there has to be a minimum of a 4 \u03bcs gap between messages. However, this inter-message gap can be, and often is, much larger than 4 \u03bcs, even up to 1 ms with some older Bus Controllers. Devices have to start transmitting their response to a valid command within 4\u201312 \u03bcs and are considered to not have received a command or message if no response has started within 14 \u03bcs.",
+            "score": 62.31150817871094
+        },
+        {
+            "docid": "35585977_2",
+            "document": "C-SPAN Bus program . The C-SPAN Bus Program is an umbrella term for the activity surrounding several vehicles that have been used by C-SPAN since 1993, starting with the C-SPAN School Bus. The inspiration for the bus program was at least partly taken from Douglas Brinkley's book \"The Majic Bus: An American Odyssey\", which described Prof. Brinkley's experiences taking groups of college students on tours of historic sites around the U.S. The first C-SPAN school bus began its service in 1993, and a second bus was introduced in 1996. In 2010, the C-SPAN Digital Bus and the first Local Content Vehicle debuted, and the original two buses were retired.",
+            "score": 62.31070327758789
+        },
+        {
+            "docid": "5684937_3",
+            "document": "Instrument control . In the late 1960s the first bus used for communication was developed by Hewlett-Packard and was called HP-IB (Hewlett-Packard Interface Bus). Since HP-IB was originally designed to only work with HP instruments, the need arose for a standard, high-speed interface for communication between instruments and controllers from a variety of vendors. This need was addressed in 1975 by the Institute of Electrical and Electronic Engineers (IEEE) published ANSI/IEEE Standard 488-1975, IEEE Standard Digital Interface for Programmable Instrumentation, which contained the electrical, mechanical, and functional specifications of an interfacing system. The standard was updated in 1987 and again in 1992 This bus is known by three different names, General Purpose Interface Bus (GPIB), Hewlett-Packard Interface Bus (HP-IB), and IEEE-488 Bus, and is used worldwide.",
+            "score": 62.08818054199219
+        },
+        {
+            "docid": "22913797_7",
+            "document": "Selectrix . Data signal of SX bus consists of the contents of all bus memory addresses transmitted sequentially and repeated at constant speed 13 times per second. SX bus has 128 addresses numbered from 0 to 127, each consisting of eight data bits (one byte). The first 112 addresses (0-111) are normally available for controlling the model railway. The remaining 15 addresses (112-127) are reserved for system's internal use. Some central units may use additional data bus addresses for their internal functions.",
+            "score": 62.07883834838867
+        },
+        {
+            "docid": "46266097_2",
+            "document": "Bus encoding . Bus encoding refers to converting/encoding a piece of data to another form before launching on the bus. While bus encoding can be used to serve various purposes like reducing the number of pins, compressing the data to be transmitted, reducing cross-talk between bit lines, etc., it is one of the popular techniques used in system design to reduce dynamic power consumed by the system bus. Bus encoding aims to reduce the hamming distance between 2 consecutive values on the bus. Since the activity is directly proportional to the hamming distance, bus encoding proves to be effective in reducing the overall activity factor thereby reducing the dynamic power consumption in the system.",
+            "score": 62.042518615722656
+        },
+        {
+            "docid": "1441618_28",
+            "document": "MIL-STD-1553 . Whilst there may be only one BC on the bus at any one time, the standard provides a mechanism for handover to a Backup Bus Controller (BBC) or (BUBC), using flags in the status word and Mode Codes. This may be used in normal operation where handover occurs because of some specific function, e.g. handover to or from a BC that is external to the aircraft, but connected to the bus. Procedures for handover in fault and failure conditions generally involve discrete connections between the main and backup BCs, and the backup monitoring the actions of the main BC during operation. For example, if there is a prolonged quiescence on the bus indicating that the active BC has failed, the next highest priority backup BC, indicated by the discrete connections, will take over and begin operating as the active BC.",
+            "score": 61.901065826416016
+        },
+        {
+            "docid": "2886487_6",
+            "document": "Control bus . Systems that have more than one bus master have additional control bus signals that control which bus master drives the address bus, avoiding bus contention on the address bus.",
+            "score": 61.82848358154297
+        },
+        {
+            "docid": "365415_4",
+            "document": "Zilog Z800 . The address bus was expanded to 24-bits to address 16 MB of memory. The chip was offered with either a 19-bit external bus for 512kB RAM, or a full 24-bit bus for 16MB RAM, the advantage to the smaller bus was a smaller 40-pin package. Like the Z80 before it, the Z800 retained the internal DRAM controller and clock, but added 256 bytes of RAM that could be used either as \"scratchpad\" RAM, or as a cache. When used in cache mode the programmer could configure it as a data or instruction cache, or both, and the internal memory controller then used it to reduce access to (slower) external memory.",
+            "score": 61.80002975463867
+        },
+        {
+            "docid": "40275977_9",
+            "document": "DC-BUS . As part of the SPARC European project conducted by Daimler, two DC-BUS communication networks were used between the truck and the trailer over the existing DC powerline. One network operated at a carrier frequency of 5\u00a0MHz for CAN redundant high speed data. The other network operated at 6.5\u00a0MHz for trailer backlights activation and control. It saved the existing lights cable between the truck and the trailer. The figure below describes the two networks saving the need for the expensive cable between the truck and the trailer. The experimental InnoTruck used the DC-BUS for its lights control.",
+            "score": 61.49876022338867
+        },
+        {
+            "docid": "1441618_12",
+            "document": "MIL-STD-1553 . This means that during a transfer, all communication is started by the Bus Controller, and a terminal device cannot start a data transfer on its own. In the case of an RT to RT transfer the sequence is as follows: An application or function in the subsystem behind the RT interface (e.g. RT1) writes the data that is to be transmitted into a specific (transmit) sub-address (data buffer). The time at which this data is written to the sub-address is not necessarily linked to the time of the transaction, though the interfaces ensure that partially updated data is not transmitted. The Bus controller commands the RT that is the destination of the data (e.g. RT2) to receive the data at a specified (receive) data sub-address and then commands RT1 to transmit from the transmit sub-address specified in the command. RT1 transmits a Status word, indicating its current status, and the data. The Bus Controller receives RT1's status word, and sees that the transmit command has been received and actioned without a problem. RT2 receives the data on the shared data bus and writes it into the designated receive sub-address and transmits its Status word. An application or function on the subsystem behind the receiving RT interface may then access the data. Again the timing of this read is not necessarily linked to that of the transfer. The Bus Controller receives RT2's status word and sees that the receive command and data have been received and actioned without a problem.",
+            "score": 61.087406158447266
+        },
+        {
+            "docid": "57717_22",
+            "document": "Direct memory access . A PCI architecture has no central DMA controller, unlike ISA. Instead, any PCI component can request control of the bus (\"become the bus master\") and request to read from and write to system memory. More precisely, a PCI component requests bus ownership from the PCI bus controller (usually the southbridge in a modern PC design), which will arbitrate if several devices request bus ownership simultaneously, since there can only be one bus master at one time. When the component is granted ownership, it will issue normal read and write commands on the PCI bus, which will be claimed by the bus controller and will be forwarded to the memory controller using a scheme which is specific to every chipset.",
+            "score": 60.817874908447266
+        },
+        {
+            "docid": "22913797_4",
+            "document": "Selectrix . Selectrix is based on the principle of using one single data bus for controlling everything in a model railway layout including rolling stock and accessories, and carrying feedback from various system components. The data bus is bi-directional and synchronized. This makes it possible to integrate many types of automatic functions in a model railway without a separate control computer and software using only a Selectrix central unit. Because the data packets are being sent out and received within a fixed timeframe, the system speed and reaction times are not dependent of the number of decoders to control, like is the case with other systems, most notably the National Model Railroad Association's Digital Command Control (NMRA-DCC). Selectrix is also very resistant against data communication errors between the central unit and decoders in locomotives or data bus.",
+            "score": 60.81034851074219
+        },
+        {
+            "docid": "57717_10",
+            "document": "Direct memory access . The \"cycle stealing mode\" is used in systems in which the CPU should not be disabled for the length of time needed for burst transfer modes. In the cycle stealing mode, the DMA controller obtains access to the system bus the same way as in burst mode, using \"BR (Bus Request)\" and \"BG (Bus Grant)\" signal s, which are the two signals controlling the interface between the CPU and the DMA controller. However, in cycle stealing mode, after one byte of data transfer, the control of the system bus is deasserted to the CPU via BG. It is then continually requested again via BR, transferring one byte of data per request, until the entire block of data has been transferred. By continually obtaining and releasing the control of the system bus, the DMA controller essentially interleaves instruction and data transfers. The CPU processes an instruction, then the DMA controller transfers one data value, and so on. On the one hand, the data block is not transferred as quickly in cycle stealing mode as in burst mode, but on the other hand the CPU is not idled for as long as in burst mode. Cycle stealing mode is useful for controllers that monitor data in real time.",
+            "score": 60.71546173095703
+        },
+        {
+            "docid": "4308043_14",
+            "document": "Walking bus . In a pilot, randomized controlled trial (RCT) in Houston, Texas, children that were assigned to a Walking School Bus group increased their weekly rate of active commuting by 38.0% over a five-week period, while children assigned to a no intervention group decreased their active commuting rate by a small margin.",
+            "score": 60.57394027709961
+        },
+        {
+            "docid": "45133349_1",
+            "document": "Cameroon bus attack . Cameroon bus attack",
+            "score": 60.49943161010742
+        },
+        {
+            "docid": "633072_45",
+            "document": "School bus . In the past, groups transporting children and adults that did not need (or afford) a large bus commonly used 15-passenger vans to handle their transportation. However, such vehicles were at a disadvantage by comparison in terms of meeting safety regulations. To provide an alternative to 15-passenger vans (called \"non-conforming vans\" because they do not meet any safety standards for school buses), bus manufacturers have designed vehicles as alternatives to 15-passenger vans. These are called Multi-Function School Activity Buses (MFSAB). The basic design of MFSABs differs from yellow school buses because of their intended use. As they are intended for point-to-point transportation instead of route service, MFSABs are not fitted with traffic control devices (i.e., red warning lights, stop arm) nor are they painted school bus yellow. MFSAB buses are typically based on Type A school buses, although manufacturers offer MFSAB configurations for full-size buses as well.",
+            "score": 60.199798583984375
+        },
+        {
+            "docid": "19523770_2",
+            "document": "Play bus . A play bus (or playbus or learning bus) is a bus used for providing a mobile facility for a variety of activities surrounding entertainment and education, usually for children of pre-school or school age.",
+            "score": 60.15714645385742
+        }
+    ]
+}

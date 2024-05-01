@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "14844367_11",
+            "document": "Follicular thyroid cancer . Approximately one-half of follicular thyroid carcinomas have mutations in the Ras subfamily of oncogenes, most notably HRAS, NRAS, and KRAS. Mutations in MINPP1 have likewise been observed, as well as germline PTEN gene mutations responsible for Cowden syndrome of which follicular thyroid cancer is a feature. Also, a chromosomal translocation specific for follicular thyroid carcinomas is one between paired box gene 8 (PAX-8), a gene important in thyroid development, and the gene encoding peroxisome proliferator-activated receptor \u03b3 1 (PPAR\u03b31), a nuclear hormone receptor contributing to terminal differentiation of cells. The PAX8-PPAR\u03b31 fusion is present in approximately one-third of follicular thyroid carcinomas, specifically those cancers with a t(2;3)(q13;p25) translocation, permitting juxtaposition of portions of both genes. Tumors tend carry either a RAS mutation or a PAX8-PPAR\u03b31 fusion, and only rarely are both genetic abnormalities present in the same case. Thus, follicular thyroid carcinomas seem to arise by two distinct and virtually nonoverlapping molecular pathways.",
+            "score": 67.195725440979
+        },
+        {
+            "docid": "14844373_7",
+            "document": "Medullary thyroid cancer . Mutations (DNA changes) in the RET proto-oncogene, located on chromosome 10, lead to the expression of a mutated receptor tyrosine kinase protein, termed RET (REarranged during Transfection). RET is involved in the regulation of cell growth and development and its germline mutation is responsible for nearly all cases of hereditary or familial medullary thyroid carcinoma. Its germline mutation may also be responsible for the development of hyperparathyroidism and pheochromocytoma. Hereditary medullary thyroid cancer is inherited as an autosomal dominant trait, meaning that each child of an affected parent has a 50% probability of inheriting the mutant RET proto-oncogene from the affected parent. DNA analysis makes it possible to identify children who carry the mutant gene; surgical removal of the thyroid in children who carry the mutant gene is curative if the entire thyroid gland is removed at an early age, before there is spread of the tumor. The parathyroid tumors and pheochromocytomas are removed when they cause clinical symptomatology. Hereditary medullary thyroid carcinoma or multiple endocrine neoplasia (MEN2) accounts for approximately 25% of all medullary thyroid carcinomas.",
+            "score": 45.20789885520935
+        },
+        {
+            "docid": "14844373_3",
+            "document": "Medullary thyroid cancer . Approximately 25% of medullary thyroid cancer is genetic in nature, caused by a mutation in the RET proto-oncogene. This form is classified as familial MTC. When MTC occurs by itself it is termed sporadic MTC. When it coexists with tumors of the parathyroid gland and medullary component of the adrenal glands (pheochromocytoma) it is called multiple endocrine neoplasia type 2 (MEN2).It was first characterized in 1959.",
+            "score": 91.4996280670166
+        },
+        {
+            "docid": "14844373_8",
+            "document": "Medullary thyroid cancer . Seventy-five percent of medullary thyroid carcinoma occurs in individuals without an identifiable family history and is assigned the term \"sporadic\". Individuals who develop sporadic medullary thyroid carcinoma tend to be older and have more extensive disease at the time of initial presentation than those with a family history (screening is likely to be initiated at an early age in the hereditary form). Approximately 25-60% of sporadic medullary thyroid carcinomas have a somatic mutation (one that occurs within a single \"parafollicular\" cell) of the RET proto-oncogene. This mutation is presumed to be the initiating event, although there could be other as yet unidentified causes.",
+            "score": 39.18412947654724
+        },
+        {
+            "docid": "14818761_5",
+            "document": "ROS1 . Gene rearrangements involving the \"ROS1\" gene were first detected in glioblastoma tumors and cell lines. In 2007 a \"ROS1\" rearrangement was identified in a cell line derived from a lung adenocarcinoma patient. Since that discovery, multiple studies have demonstrated an incidence of approximately 1% in lung cancers, demonstrated oncogenicity, and showed that inhibition of tumor cells bearing \"ROS1\" gene fusions by crizotinib or other \"ROS1\" tyrosine kinase inhibitors was effective in vitro. Clinical data supports the use of crizotinib in lung cancer patients with \"ROS1\" gene fusions. Preclinical and clinical work suggests multiple potential mechanisms of drug resistance in \"ROS1\" + lung cancer, including kinase domain mutations in \"ROS1\" and bypass signaling via RAS and EGFR. Although the most preclinical and clinical studies of \"ROS1\" gene fusions have been performed in lung cancer, \"ROS1\" fusions have been detected in multiple other tumor histologies, including ovarian carcinoma, sarcoma, cholangiocarcinomas and others. Crizotinib or other \"ROS1\" inhibitors may be effective in other tumor histologies beyond lung cancer as demonstrated by a patient with an inflammatory myofibroblastic tumor harboring a \"ROS1\" fusion with a dramatic response to crizotinib.",
+            "score": 94.4058678150177
+        },
+        {
+            "docid": "37643916_8",
+            "document": "Targeted molecular therapy for neuroblastoma . Mutations in the anaplastic lymphoma kinase (ALK) oncogene can be inherited and are a major cause of neuroblastoma. These mutations occur in approximately 5-15% of neuroblastoma cases. ALK has recently been discovered as a molecular target of chemotherapy in the treament of neuroblastoma patients. Drugs that target ALK are referred to as ALK inhibitors. ALK is expressed on the surface of neuroblastoma tumor cells, making it easily accessible as a target for cancer treatment. In neuroblastoma patients who do not possess a mutated form of ALK, targeting the non-mutated form of ALK on a tumor cell can also be beneficial. This will cause the tumor to undergo apoptosis, which is programmed cell death. ALK inhibitors can also be used to treat another cause of neuroblastoma referred to as MYCN gene amplification. Amplification of the MYCN protein is a genetic mutation associated with neuroblastoma tumors. MYCN amplification is correlated with a specific mutation in ALK, referred to as the F1174L mutation. ALK inhibitors can target this mutation and suppress the MYCN protein in the tumor cell.",
+            "score": 125.86305260658264
+        },
+        {
+            "docid": "50325756_25",
+            "document": "Noninvasive follicular thyroid neoplasm with papillary-like nuclear features . This tumor shows a very high association with other follicular-pattern tumors, with RAS mutations the most commonly identified. However, PPAR\u03b3 and THADA gene fusions, and BRAF K601E mutations may be seen on occasion. BRAF V600E mutations and RET gene fusions that are commonly seen in classical type papillary carcinoma are not seen in this tumor.",
+            "score": 51.812060832977295
+        },
+        {
+            "docid": "14725514_7",
+            "document": "Anaplastic lymphoma kinase . The EML4-ALK fusion gene is responsible for approximately 3-5% of non-small-cell lung cancer(NSCLC). The vast majority of cases are adenocarcinomas. The standard test used to detect this gene in tumor samples is fluorescence in situ hybridization (FISH) by a US FDA approved kit. Recently Roche Ventana obtained approval in China and European Union countries to test this mutation by immunohistochemistry. Other techniques like reverse-transcriptase PCR (RT-PCR) can also be used to detect lung cancers with an ALK gene fusion but not recommended. ALK lung cancers are found in patients of all ages, although on average these patients tend to be younger. ALK lung cancers are more common in light cigarette smokers or nonsmokers, but a significant number of patients with this disease are current or former cigarette smokers. EML4-ALK-rearrangement in NSCLC is exclusive and not found in EGFR- or KRAS-mutated tumors.",
+            "score": 152.4435498714447
+        },
+        {
+            "docid": "7737653_3",
+            "document": "Oncogenomics . Cancer is a genetic disease caused by accumulation of DNA mutations and epigenetic alterations leading to unrestrained cell proliferation and neoplasm formation. The goal of oncogenomics is to identify new oncogenes or tumor suppressor genes that may provide new insights into cancer diagnosis, predicting clinical outcome of cancers and new targets for cancer therapies. The success of targeted cancer therapies such as Gleevec, Herceptin and Avastin raised the hope for oncogenomics to elucidate new targets for cancer treatment. Besides understanding the underlying genetic mechanisms that initiate or drive cancer progression, oncogenomics targets personalized cancer treatment. Cancer develops due to DNA mutations and epigenetic alterations that accumulate randomly. Identifying and targeting the mutations in an individual patient may lead to increased treatment efficacy.",
+            "score": 48.139710426330566
+        },
+        {
+            "docid": "311446_7",
+            "document": "Hirschsprung's disease . The RET proto-oncogene accounts for the highest proportion of both familial and sporadic cases, with a wide range of mutations scattered along its entire coding region. A proto-oncogene is a gene that can cause cancer if it is mutated or over-expressed.",
+            "score": 25.816385746002197
+        },
+        {
+            "docid": "18450_17",
+            "document": "Lung cancer . Mutations in the \"K-ras\" proto-oncogene cause roughly 10\u201330% of lung adenocarcinomas. Nearly 4% of non-small-cell lung carcinomas involve an EML4-ALK tyrosine kinase fusion gene.",
+            "score": 96.6740403175354
+        },
+        {
+            "docid": "10499868_2",
+            "document": "RET proto-oncogene . The RET proto-oncogene encodes a receptor tyrosine kinase for members of the glial cell line-derived neurotrophic factor (GDNF) family of extracellular signalling molecules. \"RET\" loss of function mutations are associated with the development of Hirschsprung's disease, while gain of function mutations are associated with the development of various types of human cancer, including medullary thyroid carcinoma, multiple endocrine neoplasias type 2A and 2B, pheochromocytoma and parathyroid hyperplasia.",
+            "score": 36.92314052581787
+        },
+        {
+            "docid": "27625889_3",
+            "document": "Crizotinib . Crizotinib has an aminopyridine structure, and functions as a protein kinase inhibitor by competitive binding within the ATP-binding pocket of target kinases. About 4% of patients with non-small cell lung carcinoma have a chromosomal rearrangement that generates a fusion gene between \"EML4\" ('echinoderm microtubule-associated protein-like 4') and \"ALK\" ('anaplastic lymphoma kinase'), which results in constitutive kinase activity that contributes to carcinogenesis and seems to drive the malignant phenotype. The kinase activity of the fusion protein is inhibited by crizotinib. Patients with this gene fusion are typically younger non-smokers who do not have mutations in either the \"epidermal growth factor receptor\" gene (EGFR) or in the \"K-Ras\" gene. The number of new cases of \"ALK\"-fusion NSLC is about 9,000 per year in the U.S. and about 45,000 worldwide.",
+            "score": 155.9908493757248
+        },
+        {
+            "docid": "4906140_13",
+            "document": "Papillary thyroid cancer . Chromosomal translocations involving the RET proto-oncogene (encoding a tyrosine kinase receptor that plays essential roles in the development of neuroendocrine cells) located on chromosome 10q11 occur in approximately a fifth of papillary thyroid cancers. The fusion oncoproteins generated are termed RET/PTC proteins (ret/papillary thyroid carcinoma), and constitutively activate RET and the downstream MAPK/ERK pathway. The frequency of ret/PTC translocations is significantly higher in papillary cancers arising in children and after radiation exposure. The gene NTRK1 (encoding the TrkA receptor), located on chromosome 1q, is similarly translocated in approximately 5 percent to 10 percent of papillary thyroid cancers.",
+            "score": 41.939799070358276
+        },
+        {
+            "docid": "31546778_16",
+            "document": "EML4-ALK positive lung cancer . Treatment with crizotinib achieves 60% response rate. However, crizotinib showed no improvement on overall survival compared to chemotherapy. This may be due to the fact that there was a 70% crossover rate to crizotinib in patients treated initially with chemotherapy. Also, patients who tested negative for EML4/ALK fusion had a response rate to crizotinib of up to 35%. \"EML4-ALK\" gene fusions occur almost exclusively in carcinomas arising in non-smokers. About 4% of non-small-cell lung carcinomas involve an EML4-ALK tyrosine kinase fusion gene. 4\u20136% of lung adenocarcinomas involve the fusion gene.",
+            "score": 140.90316557884216
+        },
+        {
+            "docid": "22689_3",
+            "document": "Oncogene . Most normal cells will undergo a programmed form of rapid cell death (apoptosis) when critical functions are altered and malfunctioning. Activated oncogenes can cause those cells designated for apoptosis to survive and proliferate instead. Most oncogenes began as proto-oncogenes, normal genes involved in cell growth and proliferation or inhibition of apoptosis. If normal genes promoting cellular growth, through mutation, are up-regulated, (gain of function mutation) they will predispose the cell to cancer and are thus termed oncogenes. Usually multiple oncogenes, along with mutated apoptotic and/or tumor suppressor genes will all act in concert to cause cancer. Since the 1970s, dozens of oncogenes have been identified in human cancer. Many cancer drugs target the proteins encoded by oncogenes.",
+            "score": 29.957080125808716
+        },
+        {
+            "docid": "277088_8",
+            "document": "Pheochromocytoma . Pheochromocytoma is a tumor of the multiple endocrine neoplasia syndrome, type IIA and type IIB (also known as MEN IIA and MEN IIB, respectively). The other component neoplasms of that syndrome include parathyroid adenomas, and medullary thyroid cancer. Mutations in the autosomal RET proto-oncogene drives these malignancies. Common mutations in the RET oncogene may also account for medullary sponge kidney as well.",
+            "score": 29.810027360916138
+        },
+        {
+            "docid": "14753919_7",
+            "document": "PAX8 . PAX8 is considered a \"master regulator transcription factor\". As a master regulator, it is possible that it regulates expression of genes other than thyroid-specific. Several known tumor suppressor genes like TP53 and WT1 have been identified as transcriptional targets in human astrocytoma cells. Over 90% of thyroid tumors arise from follicular thyroid cells. A fusion protein, \"PAX8-PPAR-\u03b3\", is implicated in some follicular thyroid carcinomas and follicular-variant papillary thyroid carcinoma. The mechanism for this transformation is not well understood, but there are several proposed possibilities.  The PAX 8 gene has some association with follicular thyroid tumors. \"PAX8/PPARy\" rearrangement account for 30-40% of conventional type follicular carcinomas and less than 5% of oncocytic carcinomas (aka Hurthle-Cell Neoplasms). Tumors expressing the \"PAX8/PPARy\" are usually present in at a young age, small in size, present in a solid/nested growth pattern and frequently involve vascular invasion. It has been observed that \"PAX8/PPAR y\"-positive tumors rarely express \"RAS\" mutations in combination. This suggests that follicular carcinomas develop in two distinct pathways either with \"PAX8/PPAR y\" or \"RAS\".",
+            "score": 56.49487829208374
+        },
+        {
+            "docid": "35746225_2",
+            "document": "Cancer epigenetics . Cancer epigenetics is the study of epigenetic modifications to the DNA of cancer cells that do not involve a change in the nucleotide sequence. Epigenetic alterations may be just as important, or even more important, than genetic mutations in a cell's transformation to cancer. In cancers, loss of expression of genes occurs about 10 times more frequently by transcription silencing (caused by epigenetic promoter hypermethylation of CpG islands) than by mutations. As Vogelstein et al. point out, in a colorectal cancer there are usually about 3 to 6 driver mutations and 33 to 66 hitchhiker or passenger mutations. However, in colon tumors compared to adjacent normal-appearing colonic mucosa, there are about 600 to 800 heavily methylated CpG islands in promoters of genes in the tumors while these CpG islands are not methylated in the adjacent mucosa. Manipulation of epigenetic alterations holds great promise for cancer prevention, detection, and therapy. In different types of cancer, a variety of epigenetic mechanisms can be perturbed, such as silencing of tumor suppressor genes and activation of oncogenes by altered CpG island methylation patterns, histone modifications, and dysregulation of DNA binding proteins. Several medications which have epigenetic impact are now used in several of these diseases.",
+            "score": 51.66734337806702
+        },
+        {
+            "docid": "28985895_5",
+            "document": "Crenolanib . Activating mutations in PDGFRA have been detected in 5-12% of Gastrointestinal stromal tumor. Fusion of PDGFRA has been found to be responsible for hematological malignances like hypereosinophilic syndrome. The amplification of chromosome 4q12, the site of the PDGFRA gene, has been identified in 13-29% of adult gliomas and in 29% to 36% of diffuse intrinsic pontine gliomas (DIPG), a subset of high-grade gliomas (HGG) in pediatric patients. Activation of PDGFRB, a third member of the type III RTK family, has been implicated in the development of chronic myelomonocytic leukemia due to the fusion of PDGFRB with the TEL gene. Furthermore, PDGFB translocation to the COL1A1 gene locus has been identified to be responsible for dermatofibrosarcoma protuberans (DFSP). In cancer cells, PDGFR promotes tumor development and migration via proto-oncogenic downstream mediators like AKT and MEK. In stromal fibroblasts, PDGFR\u03b1 activation leads to local tissue invasion, production and secretion of VEGF, and elevated intratumoral interstitial pressure. In stromal pericytes, PDGFR\u03b2 activation mediates vascular stability. Thus, either FLT3 or PDGF/PDGFR pathway is the primary driver of oncogenesis in the above malignancies and can be targeted by crenolanib therapy.",
+            "score": 49.36337208747864
+        },
+        {
+            "docid": "53264736_4",
+            "document": "Nuria Lopez Bigas . L\u00f3pez-Bigas' lab has contributed to the identification of genes that drive abnormal growth of malignant cells, known as cancer driver genes. During tumorigenesis, positive selection of mutations that activate the tumorigenic potential of oncogenes occur. Her lab has developed computational methodologies to detect these signals of positive selection in the pattern of somatic mutations observed in tumors. They developed pioneer methods to identify cancer driver genes through the creation of IntOGen. This web platform supports cancer researchers by providing a systematic analysis of oncogene data across various sequencing projects to aid in clinical decision-making. The lab is also involved in advancing precision medicine by using targetable gene alterations to help determine therapeutic options for cancer patients. They have developed an approach that uses bioinformatic resources to identify therapeutically actionable genomic alterations in tumors, which is accessible through another online database called the Cancer Genome Interpreter.",
+            "score": 58.614410400390625
+        },
+        {
+            "docid": "42629819_3",
+            "document": "Ceritinib . Ceritinib is a selective and potent inhibitor of anaplastic lymphoma kinase (ALK). In normal physiology, ALK functions as a key step in the development and function of nervous system tissue. However, chromosomal translocation and fusion give rise to an oncogenic form of ALK that has been implicated in progression of NSCLC. Ceritinib thus acts to inhibit this mutated enzyme and stop cell proliferation, ultimately halting cancer progression. . Because ceritinib is considered a targeted cancer therapy, an FDA-approved test is required to determine which patients are candidates for ceritinib. This test, developed by Roche, is the VENTANA ALK (D5F3) CDx Assay and is used to identify ALK-positive NSCLC patients who would benefit from ceritinib treatment.",
+            "score": 117.78001832962036
+        },
+        {
+            "docid": "10499868_12",
+            "document": "RET proto-oncogene . Chromosomal rearrangements that generate a fusion gene, resulting in the juxtaposition of the C-terminal region of the RET protein with an N-terminal portion of another protein, can also lead to constitutive activation of the RET kinase. These types of mutations are associated with papillary thyroid carcinoma (PTC), and the fusion oncoproteins generated are termed RET/PTC proteins.",
+            "score": 58.17698550224304
+        },
+        {
+            "docid": "31546778_9",
+            "document": "EML4-ALK positive lung cancer . Crizotinib is a targeted therapy (FDA approved in 2011), manufactured by Pfizer and marketed under the brand name Xalkori and Crizalk that targets the EML4/ALK fusion gene.",
+            "score": 118.22198009490967
+        },
+        {
+            "docid": "50245532_5",
+            "document": "Entrectinib . The expression of such gene fusions in a tumor can create a phenomenon termed \u2018oncogene addiction\u2019 in which the tumor becomes dependent on signaling by the aberrant kinase pathway, thus rendering its survival and continued proliferation exquisitely sensitive to targeted inhibition with small molecule tyrosine kinase inhibitor drugs. Expression of the proteins encoded by these tyrosine kinase fusion genes can, in most cases, be shown to function independently as oncogenic drivers, capable of activating critical downstream pathways involved in the malignant phenotype, resulting in transformation of cells \"in vitro\". Some of the most important kinases that have been shown to undergo rearrangement in human cancers include the anaplastic lymphoma kinase (ALK), ROS1 kinase, and the neurotrophic receptor tyrosine kinases (NTRKs).",
+            "score": 105.78620672225952
+        },
+        {
+            "docid": "36777018_4",
+            "document": "Causes of cancer . Many of these syndromes are caused by mutations in tumor suppressor genes that regulate cell growth. Other common mutations alter the function of DNA repair genes, oncogenes and genes involved in the production of blood vessels. Certain inherited mutations in the genes \"BRCA1\" and \"BRCA2\" with a more than 75% risk of breast cancer and ovarian cancer. Some of the inherited genetic disorders that can cause colorectal cancer include familial adenomatous polyposis and hereditary non-polyposis colon cancer; however, these represent less than 5% of colon cancer cases. In many cases, genetic testing can be used to identify mutated genes or chromosomes that are passed through generations.",
+            "score": 37.0005898475647
+        },
+        {
+            "docid": "14467422_9",
+            "document": "Mesoblastic nephroma . It has been suggested that mesoblastic nephroma patients with lymph node involvement or recurrent disease might benefit by adding the ALK inhibitor, crizotinib, or a tyrosine kinase inhibitor, either larotrectinib or entrectinib, to surgical, radiation, and/or chemotherapy treatment regimens. These drugs inhibit NTRK3's tyrosine kinase activity. Crizotinib has proven useful in treating certain cases of acute lymphoblastic leukemia that are associated with the \"ETV6-NTRK3\" fusion gene while larotrectinib and entrectinib have been useful in treating various cancers (e.g. a metastatic sarcoma, papillary thyroid cancer, non-small-cell lung carcinoma, gastrointestinal stromal tumor, mammary analog secretory carcinoma, and colorectal cancer) that are driven by mutated, overly active tyrosine kinases. Relevant to this issue, a 16-month-old girl with infantile fibrosarcoma harboring the \"ETV6\u2013NTRK3\" fusion gene was successfully treated with larotrectinib. The success of these drugs, however, will likely depend on the relative malignancy-promoting roles of ETV6-NTRK3 protein's tyrosine kinase activity, the lose of ETV6-related transcription activity accompanying formation of ETV6-NTRK3 protein, and the various trisomy chromosomes that populate mesoblastic nephroma.",
+            "score": 111.72653341293335
+        },
+        {
+            "docid": "10499868_11",
+            "document": "RET proto-oncogene . Activating point mutations in RET can give rise to the hereditary cancer syndrome known as multiple endocrine neoplasia type 2 (MEN 2). There are three subtypes based on clinical presentation: MEN 2A, MEN 2B, and familial medullary thyroid carcinoma (FMTC). There is a high degree of correlation between the position of the point mutation and the phenotype of the disease.",
+            "score": 31.65440559387207
+        },
+        {
+            "docid": "5955888_30",
+            "document": "Non-small-cell lung carcinoma . Up to 7% of NSCLC patients have EML4-ALK translocations or mutations in the ROS1 gene; these patients may benefit from ALK inhibitors which are now approved for this subset of patients. Crizotinib gained FDA approval in August 2011 and is an inhibitor of several kinases, specifically ALK, ROS1 and MET. Crizotinib has been shown in clinical studies to have response rates of ~60% if patients are shown to have ALK positive disease. Several studies have also shown that ALK mutations and EGFR activating mutations are typically mutually exclusive. Thus, it is not recommended for patients who fail crizotinib to be switched to an EGFR-targeted drug such as erlotinib.",
+            "score": 108.30138826370239
+        },
+        {
+            "docid": "44690654_29",
+            "document": "Circulating tumor DNA . In a targeted approach, sequencing of ctDNA can be directed towards a genetic panel constructed based on mutational hotspots for the cancer of interest. This is especially important for informing treatment in situations where mutations are identified in druggable targets. Personalizing targeted analysis of ctDNA to each patient is also possible by combining liquid biopsies with standard primary tissue biopsies. Whole genome or whole exome sequencing of the primary tumor biopsy allows for discovery of genetic mutations specific to a patient\u2019s tumor, and can be used for subsequent targeted sequencing of the patient\u2019s ctDNA. The highest sensitivity of ctDNA detection is accomplished through targeted sequencing of specific single nucleotide polymorphisms (SNPs). Commonly mutated genes, such as oncogenes, which typically have hotspot mutations, are good candidates for targeted sequencing approaches. Conversely, most tumor suppressor genes have a wide array of possible loss of function mutations throughout the gene, and as such are not suitable for targeted sequencing.",
+            "score": 53.44471073150635
+        },
+        {
+            "docid": "26608024_14",
+            "document": "Treatment of lung cancer . Crizotinib shows benefit in a subset of non-small cell lung cancer that is characterized by the EML4-ALK fusion oncogene, and is approved by the FDA. EML4-ALK is found in some relatively young, never or light smokers with adenocarcinoma.",
+            "score": 110.00632858276367
+        },
+        {
+            "docid": "22191575_27",
+            "document": "Thyroid cancer . Fortunately for those with metastatic thyroid cancer, the last 5 years has brought about a renaissance in thyroid cancer treatment. The identification of some of the molecular or DNA abnormalities for thyroid cancer has led to the development of therapies that target these molecular defects. The first of these agents to negotiate the approval process is vandetanib, a tyrosine kinase inhibitor that targets the RET proto-oncogene, 2 subtypes of the vascular endothelial growth factor receptor, and the epidermal growth factor receptor. More of these compounds are under investigation and are likely to make it through the approval process. For differentiated thyroid carcinoma, strategies are evolving to use selected types of targeted therapy to increase radioactive iodine uptake in papillary thyroid carcinomas that have lost the ability to concentrate iodide. This strategy would make it possible to use radioactive iodine therapy to treat \"resistant\" thyroid cancers. Other targeted therapies are being evaluated, making it possible that life will be extended over the next 5\u201310 years for those with stage III and IV thyroid cancer.",
+            "score": 55.16261184215546
+        }
+    ],
+    "r": [
+        {
+            "docid": "27625889_3",
+            "document": "Crizotinib . Crizotinib has an aminopyridine structure, and functions as a protein kinase inhibitor by competitive binding within the ATP-binding pocket of target kinases. About 4% of patients with non-small cell lung carcinoma have a chromosomal rearrangement that generates a fusion gene between \"EML4\" ('echinoderm microtubule-associated protein-like 4') and \"ALK\" ('anaplastic lymphoma kinase'), which results in constitutive kinase activity that contributes to carcinogenesis and seems to drive the malignant phenotype. The kinase activity of the fusion protein is inhibited by crizotinib. Patients with this gene fusion are typically younger non-smokers who do not have mutations in either the \"epidermal growth factor receptor\" gene (EGFR) or in the \"K-Ras\" gene. The number of new cases of \"ALK\"-fusion NSLC is about 9,000 per year in the U.S. and about 45,000 worldwide.",
+            "score": 155.9908447265625
+        },
+        {
+            "docid": "14725514_7",
+            "document": "Anaplastic lymphoma kinase . The EML4-ALK fusion gene is responsible for approximately 3-5% of non-small-cell lung cancer(NSCLC). The vast majority of cases are adenocarcinomas. The standard test used to detect this gene in tumor samples is fluorescence in situ hybridization (FISH) by a US FDA approved kit. Recently Roche Ventana obtained approval in China and European Union countries to test this mutation by immunohistochemistry. Other techniques like reverse-transcriptase PCR (RT-PCR) can also be used to detect lung cancers with an ALK gene fusion but not recommended. ALK lung cancers are found in patients of all ages, although on average these patients tend to be younger. ALK lung cancers are more common in light cigarette smokers or nonsmokers, but a significant number of patients with this disease are current or former cigarette smokers. EML4-ALK-rearrangement in NSCLC is exclusive and not found in EGFR- or KRAS-mutated tumors.",
+            "score": 152.44354248046875
+        },
+        {
+            "docid": "31546778_2",
+            "document": "EML4-ALK positive lung cancer . EML4-ALK positive lung cancer is a medical term that refers to a primary malignant lung tumor whose cells contain a characteristic abnormal configuration of DNA wherein the \"echinoderm microtubule-associated protein-like 4\" (\"EML4\") gene is fused to the \"anaplastic lymphoma kinase\" (\"ALK\") gene. This abnormal gene fusion leads to the production of a protein (EML4-ALK) that appears, in many cases, to promote and maintain the malignant behavior of the cancer cells.",
+            "score": 150.85250854492188
+        },
+        {
+            "docid": "31546778_16",
+            "document": "EML4-ALK positive lung cancer . Treatment with crizotinib achieves 60% response rate. However, crizotinib showed no improvement on overall survival compared to chemotherapy. This may be due to the fact that there was a 70% crossover rate to crizotinib in patients treated initially with chemotherapy. Also, patients who tested negative for EML4/ALK fusion had a response rate to crizotinib of up to 35%. \"EML4-ALK\" gene fusions occur almost exclusively in carcinomas arising in non-smokers. About 4% of non-small-cell lung carcinomas involve an EML4-ALK tyrosine kinase fusion gene. 4\u20136% of lung adenocarcinomas involve the fusion gene.",
+            "score": 140.90316772460938
+        },
+        {
+            "docid": "24310754_14",
+            "document": "Chromogenic in situ hybridization . CISH is also used for detection of chromosomal rearrangements and fusions, such as the fusion of ALK tyrosine kinase domain with the promoter and 5\u2019 region of EML4 in lung cancer. ALK-positive tumors are a clinically relevant subgroup as they can be very effectively treated with the ALK inhibitor crizotinib.",
+            "score": 138.73863220214844
+        },
+        {
+            "docid": "27625889_7",
+            "document": "Crizotinib . On August 26, 2011, the U.S. Food and Drug Administration approved crizotinib (Xalkori) to treat certain late-stage (locally advanced or metastatic) non-small cell lung cancers that express the abnormal anaplastic lymphoma kinase (ALK) gene. Approval required a companion molecular test for the EML4-ALK fusion. In March 2016, the U.S. Food and Drug Administration approved crizotinib in ROS1-positive non-small cell lung cancer.",
+            "score": 126.09381103515625
+        },
+        {
+            "docid": "37643916_8",
+            "document": "Targeted molecular therapy for neuroblastoma . Mutations in the anaplastic lymphoma kinase (ALK) oncogene can be inherited and are a major cause of neuroblastoma. These mutations occur in approximately 5-15% of neuroblastoma cases. ALK has recently been discovered as a molecular target of chemotherapy in the treament of neuroblastoma patients. Drugs that target ALK are referred to as ALK inhibitors. ALK is expressed on the surface of neuroblastoma tumor cells, making it easily accessible as a target for cancer treatment. In neuroblastoma patients who do not possess a mutated form of ALK, targeting the non-mutated form of ALK on a tumor cell can also be beneficial. This will cause the tumor to undergo apoptosis, which is programmed cell death. ALK inhibitors can also be used to treat another cause of neuroblastoma referred to as MYCN gene amplification. Amplification of the MYCN protein is a genetic mutation associated with neuroblastoma tumors. MYCN amplification is correlated with a specific mutation in ALK, referred to as the F1174L mutation. ALK inhibitors can target this mutation and suppress the MYCN protein in the tumor cell.",
+            "score": 125.86305236816406
+        },
+        {
+            "docid": "14725514_6",
+            "document": "Anaplastic lymphoma kinase . The 2;5 chromosomal translocation is associated with approximately 60% anaplastic large-cell lymphomas (ALCLs). The translocation creates a fusion gene consisting of the ALK (anaplastic lymphoma kinase) gene and the nucleophosmin (NPM) gene: the 3' half of ALK, derived from chromosome 2 and coding for the catalytic domain, is fused to the 5' portion of NPM from chromosome 5. The product of the NPM-ALK fusion gene is oncogenic. In a smaller fraction of ALCL patients, the 3' half of ALK is fused to the 5' sequence of TPM3 gene, encoding for tropomyosin 3. In rare cases, ALK is fused to other 5' fusion partners, such as TFG, ATIC, CLTC1, TPM4, MSN, ALO17, MYH9.",
+            "score": 118.99005126953125
+        },
+        {
+            "docid": "31546778_9",
+            "document": "EML4-ALK positive lung cancer . Crizotinib is a targeted therapy (FDA approved in 2011), manufactured by Pfizer and marketed under the brand name Xalkori and Crizalk that targets the EML4/ALK fusion gene.",
+            "score": 118.22197723388672
+        },
+        {
+            "docid": "42629819_3",
+            "document": "Ceritinib . Ceritinib is a selective and potent inhibitor of anaplastic lymphoma kinase (ALK). In normal physiology, ALK functions as a key step in the development and function of nervous system tissue. However, chromosomal translocation and fusion give rise to an oncogenic form of ALK that has been implicated in progression of NSCLC. Ceritinib thus acts to inhibit this mutated enzyme and stop cell proliferation, ultimately halting cancer progression. . Because ceritinib is considered a targeted cancer therapy, an FDA-approved test is required to determine which patients are candidates for ceritinib. This test, developed by Roche, is the VENTANA ALK (D5F3) CDx Assay and is used to identify ALK-positive NSCLC patients who would benefit from ceritinib treatment.",
+            "score": 117.78001403808594
+        },
+        {
+            "docid": "31546778_8",
+            "document": "EML4-ALK positive lung cancer . There is a companion diagnostic test to detect the EML4-ALK fusion protein.",
+            "score": 114.6380386352539
+        },
+        {
+            "docid": "46180311_5",
+            "document": "ALK+ large B-cell lymphoma . Upregulation of ALK is mainly due to chromosomal translocation t(2;17), resulting in a fusion gene of CLTC with ALK, but can rarely be due to t(2;5), fusing NPM1 with ALK; the later is the usual finding in anaplastic large cell lymphoma (ALCL). The t(2;17) translocation occurs in less than 1% of cases of ALK+ ALCL, but has been identified in inflammatory myofibroblastic tumors.",
+            "score": 114.0905532836914
+        },
+        {
+            "docid": "14467422_9",
+            "document": "Mesoblastic nephroma . It has been suggested that mesoblastic nephroma patients with lymph node involvement or recurrent disease might benefit by adding the ALK inhibitor, crizotinib, or a tyrosine kinase inhibitor, either larotrectinib or entrectinib, to surgical, radiation, and/or chemotherapy treatment regimens. These drugs inhibit NTRK3's tyrosine kinase activity. Crizotinib has proven useful in treating certain cases of acute lymphoblastic leukemia that are associated with the \"ETV6-NTRK3\" fusion gene while larotrectinib and entrectinib have been useful in treating various cancers (e.g. a metastatic sarcoma, papillary thyroid cancer, non-small-cell lung carcinoma, gastrointestinal stromal tumor, mammary analog secretory carcinoma, and colorectal cancer) that are driven by mutated, overly active tyrosine kinases. Relevant to this issue, a 16-month-old girl with infantile fibrosarcoma harboring the \"ETV6\u2013NTRK3\" fusion gene was successfully treated with larotrectinib. The success of these drugs, however, will likely depend on the relative malignancy-promoting roles of ETV6-NTRK3 protein's tyrosine kinase activity, the lose of ETV6-related transcription activity accompanying formation of ETV6-NTRK3 protein, and the various trisomy chromosomes that populate mesoblastic nephroma.",
+            "score": 111.72653198242188
+        },
+        {
+            "docid": "26608024_14",
+            "document": "Treatment of lung cancer . Crizotinib shows benefit in a subset of non-small cell lung cancer that is characterized by the EML4-ALK fusion oncogene, and is approved by the FDA. EML4-ALK is found in some relatively young, never or light smokers with adenocarcinoma.",
+            "score": 110.00633239746094
+        },
+        {
+            "docid": "29027213_7",
+            "document": "ALK inhibitor . NPM-ALK is a different variation/fusion of ALK that drives anaplastic large-cell lymphomas (ALCLs) and is the target of other ALK inhibitors.",
+            "score": 109.92471313476562
+        },
+        {
+            "docid": "31546778_3",
+            "document": "EML4-ALK positive lung cancer . The transforming \"EML4-ALK\" fusion gene was first reported in non-small cell lung carcinoma (NSCLC) in 2007.",
+            "score": 108.39839172363281
+        },
+        {
+            "docid": "5955888_30",
+            "document": "Non-small-cell lung carcinoma . Up to 7% of NSCLC patients have EML4-ALK translocations or mutations in the ROS1 gene; these patients may benefit from ALK inhibitors which are now approved for this subset of patients. Crizotinib gained FDA approval in August 2011 and is an inhibitor of several kinases, specifically ALK, ROS1 and MET. Crizotinib has been shown in clinical studies to have response rates of ~60% if patients are shown to have ALK positive disease. Several studies have also shown that ALK mutations and EGFR activating mutations are typically mutually exclusive. Thus, it is not recommended for patients who fail crizotinib to be switched to an EGFR-targeted drug such as erlotinib.",
+            "score": 108.30138397216797
+        },
+        {
+            "docid": "31546778_4",
+            "document": "EML4-ALK positive lung cancer . Most lung carcinomas containing the \"EML4-ALK\" gene fusion are adenocarcinomas.",
+            "score": 106.90699768066406
+        },
+        {
+            "docid": "29027213_2",
+            "document": "ALK inhibitor . ALK inhibitors are potential anti-cancer drugs that act on tumours with variations of anaplastic lymphoma kinase (ALK) such as an EML4-ALK translocation.",
+            "score": 106.45147705078125
+        },
+        {
+            "docid": "50245532_5",
+            "document": "Entrectinib . The expression of such gene fusions in a tumor can create a phenomenon termed \u2018oncogene addiction\u2019 in which the tumor becomes dependent on signaling by the aberrant kinase pathway, thus rendering its survival and continued proliferation exquisitely sensitive to targeted inhibition with small molecule tyrosine kinase inhibitor drugs. Expression of the proteins encoded by these tyrosine kinase fusion genes can, in most cases, be shown to function independently as oncogenic drivers, capable of activating critical downstream pathways involved in the malignant phenotype, resulting in transformation of cells \"in vitro\". Some of the most important kinases that have been shown to undergo rearrangement in human cancers include the anaplastic lymphoma kinase (ALK), ROS1 kinase, and the neurotrophic receptor tyrosine kinases (NTRKs).",
+            "score": 105.78620910644531
+        },
+        {
+            "docid": "14818761_8",
+            "document": "ROS1 . \"ROS1\" expression was found in approximately 2% of NSCLC patients, and its expression was limited to those patients with \"ROS1\" gene fusions. Similar findings were reported in a separate analysis of 447 NSCLC samples, of which 1.2% were found to be positive for \"ROS1\" rearrangement; this study also confirmed the activity of the ALK/\"ROS1\" /cMET inhibitor crizotinib in \"ROS1\" -positive tumors. \"ROS1\" fusions were also identified in approximately 2% of adenocarcinomas and 1% of glioblastoma samples in an assessment of kinase fusions across different cancers.",
+            "score": 103.43681335449219
+        },
+        {
+            "docid": "50245532_9",
+            "document": "Entrectinib . The preliminary results seen with entrectinib in the phase I studies of patients with NTRK/ROS1/ALK fusions have led to the initiation of an open-label, multicenter, global, phase II basket study to examine the use of entrectinib in patients having tumors with these gene rearrangements. The study will enroll any patient with a solid tumor having evidence of an NTRK/ROS1/ALK fusion, assuming the patient meets all other entry criteria. Examples of such tumor types include NSCLC, mCRC, salivary gland cancer, sarcoma, melanoma, thyroid cancer, glioblastoma, astrocytoma, cholangiocarcinoma, lymphoma and others.",
+            "score": 103.13558197021484
+        },
+        {
+            "docid": "26166874_3",
+            "document": "ETV6-NTRK3 gene fusion . Because cancers associated with the expression of the ETV6-NTRK3 fusion protein are known or suspected of being a direct consequence of overly active ETV6-NTRK3's tyrosine kinase, it has been proposed that tyrosine kinase inhibitors with specificity for NTRK3 may be of therapeutic usefulness in these cancers. Entrectinib is a pan-NTRK as well as an ALK and ROS1 tyrosine kinase inhibitor has been found useful in treating a single patient with \"ETV6-NRTK3\" fusion gene-associated mammary analogue secretory carcinoma and has lend support to the clinical development of NTRK3-directed tyrosine kinase inhibitors to treat ETV6-NTRK3 fusion protein associated malignancies. Three clinical trials are in the recruitment phase for determining the efficacy of treating a wide range of solid tumors associated with mutated overactive tyrosine kinase proteins, including the ETV6-TRK3 protein, with larotrectinib, a non-selective inhibitor of NTRK1, NTRK2, and NTRK3 tyrosine kinases.",
+            "score": 102.95806121826172
+        },
+        {
+            "docid": "37643916_2",
+            "document": "Targeted molecular therapy for neuroblastoma . Targeted molecular therapy for neuroblastoma involves treatment aimed at molecular targets that have a unique expression in this form of cancer. Neuroblastoma, the second most common pediatric malignant tumor, often involves treatment through intensive chemotherapy. A number of molecular targets have been identified for the treatment of high-risk forms of this disease. Aiming treatment in this way provides a more selective way to treat the disease, decreasing the risk for toxicities that are associated with the typical treatment regimen. Treatment using these targets can supplement or replace some of the intensive chemotherapy that is used for neuroblastoma. These molecular targets of this disease include GD2, ALK, and CD133. GD2 is a target of immunotherapy, and is the most fully developed of these treatment methods, but is also associated with toxicities. ALK has more recently been discovered, and drugs in development for this target are proving to be successful in neuroblastoma treatment. The role of CD133 in neuroblastoma has also been more recently discovered and is an effective target for treatment of this disease. High-risk cases of neuroblastoma are difficult to treat, even through intensive chemotherapy. For this reason, molecular targets have been identified and are being developed for treatment in patients who have more difficulty responding to treatment. There are a number of genetic factors that can be used to identify high-risk patients. In neuroblastoma cells, there can be amplification of genomic DNA regions, loss of genomic DNA regions, and genetic abnormalities. All of these factors can contribute to an advanced disease state in high-risk patients.",
+            "score": 102.81312561035156
+        },
+        {
+            "docid": "32614566_5",
+            "document": "Brigatinib . ALK was first identified as a chromosomal rearrangement in anaplastic large cell lymphoma (ALCL). Genetic studies indicate that abnormal expression of ALK is a key driver of certain types of non-small cell lung cancer (NSCLC) and neuroblastomas, as well as ALCL. Since ALK is generally not expressed in normal adult tissues, it represents a highly promising molecular target for cancer therapy.",
+            "score": 102.72016143798828
+        },
+        {
+            "docid": "31546778_7",
+            "document": "EML4-ALK positive lung cancer . A 2011 consensus recommendation from 37 Canadian lung cancer specialists found that, as of June 2011, there was insufficient evidence to recommend routine screening of lung cancer specimens for \"EML4-ALK\" fusions, but that may soon change.",
+            "score": 102.5853042602539
+        },
+        {
+            "docid": "42629819_7",
+            "document": "Ceritinib . Researchers first identified the ALK fusion gene in 1994. Several years later, Novartis Pharmaceuticals Corporation, began working towards development of targeted ALK inhibitors. In April 2014, the FDA granted accelerated approval for ceritinib when used for ALK-positive NSCLC patients who have progressed on or are intolerant to crizotinib (Xalkori\u00ae, Pfizer, Inc.). This rapid approval was determined from a multi-center clinical trial in which 163 patients who had disease progression or were intolerant to crizotinib received oral ceritinib 750 mg once daily. This trial demonstrated an objective response rate (ORR) of 44% and a median duration of response (DOR) of 7.1 months, both of which were favorable compared to the worsening or failed use of crizotinib.",
+            "score": 102.52240753173828
+        },
+        {
+            "docid": "26912024_7",
+            "document": "Adenocarcinoma of the lung . Targeted therapies: ALK and ROS1 fusions proteins are both sensitive to treatment with the new ALK tyrosine kinase inhibitors (see the Atlas of Genetics and Cytogenetics in Oncology and Haematology,).",
+            "score": 98.97542572021484
+        },
+        {
+            "docid": "14818761_7",
+            "document": "ROS1 . In patients with NSCLC, approximately 2% are positive for a \"ROS1\" gene rearrangement, and these rearrangements are mutually exclusive of \"ALK\" rearrangement. \"ROS1\" fusion-positive patients tend to be younger, with a median age of 49.8 years, and never-smokers, with a diagnosis of adenocarcinoma. There is a higher representation of Asian ethnicity and patients with Stage IV disease. \"ROS1\" rearrangements are estimated to be roughly half as common as \"ALK\"-rearranged NSCLCs. Similar to \"ALK\"-rearranged, \"ROS1\"-rearranged NSCLC have younger age of onset and a non-smoking history. A benefit of a small-molecule ALK, \"ROS1\" , and cMET inhibitor, crizotinib, was also shown in this patient group.",
+            "score": 98.91693115234375
+        },
+        {
+            "docid": "31546778_10",
+            "document": "EML4-ALK positive lung cancer . Ceritinib is a second generation targeted therapy (FDA approved in 2014), manufactured by Novartis and sold under the brand name Zykadia that also targets the EML4 fusion gene, but as a second generation drug it has a smaller molecule that allows superior penetration of the Blood Brain Barrier (BBB) over Crizotinib and is more capable of protecting the Central Nervous System (CNS).",
+            "score": 96.81196594238281
+        },
+        {
+            "docid": "18450_17",
+            "document": "Lung cancer . Mutations in the \"K-ras\" proto-oncogene cause roughly 10\u201330% of lung adenocarcinomas. Nearly 4% of non-small-cell lung carcinomas involve an EML4-ALK tyrosine kinase fusion gene.",
+            "score": 96.67404174804688
+        },
+        {
+            "docid": "14818761_5",
+            "document": "ROS1 . Gene rearrangements involving the \"ROS1\" gene were first detected in glioblastoma tumors and cell lines. In 2007 a \"ROS1\" rearrangement was identified in a cell line derived from a lung adenocarcinoma patient. Since that discovery, multiple studies have demonstrated an incidence of approximately 1% in lung cancers, demonstrated oncogenicity, and showed that inhibition of tumor cells bearing \"ROS1\" gene fusions by crizotinib or other \"ROS1\" tyrosine kinase inhibitors was effective in vitro. Clinical data supports the use of crizotinib in lung cancer patients with \"ROS1\" gene fusions. Preclinical and clinical work suggests multiple potential mechanisms of drug resistance in \"ROS1\" + lung cancer, including kinase domain mutations in \"ROS1\" and bypass signaling via RAS and EGFR. Although the most preclinical and clinical studies of \"ROS1\" gene fusions have been performed in lung cancer, \"ROS1\" fusions have been detected in multiple other tumor histologies, including ovarian carcinoma, sarcoma, cholangiocarcinomas and others. Crizotinib or other \"ROS1\" inhibitors may be effective in other tumor histologies beyond lung cancer as demonstrated by a patient with an inflammatory myofibroblastic tumor harboring a \"ROS1\" fusion with a dramatic response to crizotinib.",
+            "score": 94.40586853027344
+        }
+    ]
+}

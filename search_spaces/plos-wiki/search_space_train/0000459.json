@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "3523925_2",
+            "document": "Burkholderia pseudomallei . Burkholderia pseudomallei (also known as Pseudomonas pseudomallei) is a Gram-negative, bipolar, aerobic, motile rod-shaped bacterium. It is a soil-dwelling bacterium endemic in tropical and subtropical regions worldwide, particularly in Thailand and northern Australia. It infects humans and animals and causes the disease melioidosis. It is also capable of infecting plants.",
+            "score": 142.60814476013184
+        },
+        {
+            "docid": "46925036_2",
+            "document": "Environmental DNA . Environmental DNA or eDNA is DNA that is collected from a variety of environmental samples such as soil, seawater, or even air rather than directly sampled from an individual organism. As various organisms interact with the environment, DNA is expelled and accumulates in their surroundings. Example sources of eDNA include, but are not limited to, feces, mucus, gametes, shed skin, carcasses and hair. Such samples can be analyzed by high-throughput DNA sequencing methods, known as metagenomics, for rapid measurement and monitoring of biodiversity. In order to better differentiate between organisms within a sample, DNA metabarcoding is used in which the sample is analyzed and uses previously studied DNA libraries to determine what organisms are present (e.g. BLAST). The analysis of eDNA has great potential, not only for monitoring common species, but to genetically detect and identify other extant species that could influence conservation efforts. This method allows for biomonitoring without requiring collection of the living organism, creating the ability to study organisms that are invasive, elusive, or endangered without introducing anthropogenic stress on the organism. Access to this genetic information makes a critical contribution to the understanding of population size, species distribution, and population dynamics for species not well documented. The integrity of eDNA samples is dependent upon its preservation within the environment. Soil, permafrost, freshwater and seawater are well-studied macro environments from which eDNA samples have been extracted, each of which include many more conditioned subenvironments. Because of its versatility, eDNA is applied in many subenvironments such as freshwater sampling, seawater sampling, terrestrial soil sampling (tundra permafrost), aquatic soil sampling (river, lake, pond, and ocean sediment), or other environments where normal sampling procedures can become problematic.",
+            "score": 59.3315908908844
+        },
+        {
+            "docid": "19456032_30",
+            "document": "Microbiota . The Earth Microbiome Project (EMP) is an initiative to collect natural samples and analyze the microbial community around the globe. Microbes are highly abundant, diverse and have an important role in the ecological system. Yet , it was estimated that the total global environmental DNA sequencing effort had produced less than 1 percent of the total DNA found in a liter of seawater or a gram of soil, and the specific interactions between microbes are largely unknown. The EMP aims to process as many as 200,000 samples in different biomes, generating a complete database of microbes on earth to characterize environments and ecosystems by microbial composition and interaction. Using these data, new ecological and evolutionary theories can be proposed and tested.",
+            "score": 41.69017696380615
+        },
+        {
+            "docid": "471444_33",
+            "document": "Melioidosis . \"B. pseudomallei\" is normally found in soil and surface water; a history of contact with soil or surface water is, therefore, almost invariable in patients with melioidosis; that said, the majority of patients who do have contact with infected soil suffer no ill effects. Even within an area, the distribution of \"B.\u00a0pseudomallei\" within the soil can be extremely patchy, and competition with other \"Burkholderia\" species has been suggested as a possible reason. Contaminated ground water was implicated in one outbreak in northern Australia. Also implicated are severe weather events such as flooding tsunamis and typhoons.",
+            "score": 135.49765515327454
+        },
+        {
+            "docid": "3523925_6",
+            "document": "Burkholderia pseudomallei . The classic textbook description of \"B.\u00a0pseudomallei\" in clinical samples is of an intracellular, bipolar-staining, Gram-negative rod, but this is of little value in identifying the organism from clinical samples. Some suggest the Wayson stain is useful for this purpose, but this has been shown not to be the case.",
+            "score": 100.32382154464722
+        },
+        {
+            "docid": "471444_2",
+            "document": "Melioidosis . Melioidosis is an infectious disease caused by a Gram-negative bacterium, \"Burkholderia pseudomallei\", found in soil and water. It is of public health importance in endemic areas, particularly in northeast Thailand, Vietnam, and northern Australia. It exists in acute and chronic forms. Signs and symptoms may include pain in chest, bones, or joints; cough; skin infections, lung nodules, and pneumonia.",
+            "score": 131.15396237373352
+        },
+        {
+            "docid": "11092471_2",
+            "document": "Burkholderia thailandensis . Burkholderia thailandensis is a nonfermenting motile, Gram-negative bacillus that occurs naturally in soil. It is closely related to \"Burkholderia pseudomallei,\" but unlike \"B. pseudomallei\", it only rarely causes disease in humans or animals. The lethal inoculum is approximately 1000 times higher than for \"B.\u00a0pseudomallei\". It is usually distinguished from \"B. pseudomallei\" by its ability to assimilate arabinose. Other differences between these species include lipopolysaccharide composition, colony morphology, and differences in metabolism.",
+            "score": 119.28488767147064
+        },
+        {
+            "docid": "3523925_7",
+            "document": "Burkholderia pseudomallei . Laboratory identification of \"B. pseudomallei\" can be difficult, especially in Western countries where it is rarely seen. The large, wrinkled colonies look like environmental contaminants, so are often discarded as being of no clinical significance. Colony morphology is very variable and a single strain may display multiple colony types, so inexperienced laboratory staff may mistakenly believe the growth is not pure. The organism grows more slowly than other bacteria that may be present in clinical specimens, and in specimens from nonsterile sites, is easily overgrown. Nonsterile specimens should, therefore, be cultured in selective media (e.g., Ashdown's or \"B. cepacia\" medium). For heavily contaminated samples, such as faeces, a modified version of Ashdown's that includes norfloxacin, amoxicillin, and polymyxin B has been proposed. In blood culture, the BacT/ALERT MB system (normally used for culturing mycobacteria) by bioM\u00e9rieux has been shown to have superior yields compared to conventional blood culture media.",
+            "score": 86.86686277389526
+        },
+        {
+            "docid": "3523925_5",
+            "document": "Burkholderia pseudomallei . \"B. pseudomallei\" is not fastidious and grows on a large variety of culture media (blood agar, MacConkey agar, EMB, etc.). Ashdown's medium (or \"Burkholderia cepacia\" medium) may be used for selective isolation. Cultures typically become positive in 24 to 48 hours (this rapid growth rate differentiates the organism from \"B. mallei\", which typically takes a minimum of 72 hours to grow). Colonies are wrinkled, have a metallic appearance, and possess an earthy odour. On Gram staining, the organism is a Gram-negative rod with a characteristic \"safety pin\" appearance (bipolar staining). On sensitivity testing, the organism appears highly resistant (it is innately resistant to a large number of antibiotics including colistin and gentamicin) and that again differentiates it from \"B. mallei\", which is in contrast, exquisitely sensitive to a large number of antibiotics. For environmental specimens only, differentiation from the nonpathogenic \"B. thailandensis\" using an arabinose test is necessary (\"B. thailandensis\" is never isolated from clinical specimens). The laboratory identification of \"B. pseudomallei\" has been described in the literature.",
+            "score": 108.35650825500488
+        },
+        {
+            "docid": "40978256_13",
+            "document": "Petroleum microbiology . Many analytical techniques require expensive treatment of soil samples and/or expensive equipment to detect the presence of pollutants. Bacterial biosensor systems offer the potential for cheap, robust detection systems that are selective and highly sensitive. One developed system uses \"Pseudomonas fluorescens\" HK44 to quantitatively assay for naphthalene using bioluminescence.",
+            "score": 33.446391344070435
+        },
+        {
+            "docid": "485024_22",
+            "document": "Statistics New Zealand . Statistical techniques such as sampling and weighting can reduce data gathering expenses while surveying, although it requires careful attention by statisticians. For example, census counts are rather straightforward in a statistical sense since it is a straight count of bodies, purchases, opinions, actions. But it is expensive to interview everybody. And there are many non-census topics requiring further study which the agency is asked to do. One way to reduce costs is by selecting smaller samples which hopefully represent the population being studied. This is a highly cost-effective way to get accurate information. Choosing a good sample sometimes requires complex statistical work to make sure the sample is, indeed, truly representative of the population under study. If conditions do not permit representative sampling but known benchmark statistics are known (possibly from earlier census data), it's still possible to generate accurate information by \"weighting the data\" to \"distort it back\", so to speak, to compensate for the distortion caused by the unrepresentative sample. For example, suppose an area of Wellington has a known percentage of women\u2014say 53% -- which is believed to be accurate from a previous census count; a study is done a few years later; a sample is chosen; questionnaires are processed; but of the returning questionnaires, 57% are women. It's possible statistically to give men slightly greater weight to account for the discrepancy, and the result is more accurate data. The agency discusses different methodologies on its website. A statement explains why weighting is sometimes necessary: \"Statistics New Zealand is improving the methodology used for the 2001 Household Economic Survey through the use of integrated weighting. This is a relatively recently developed method of adjusting the statistical output of a survey to match population benchmarks. In particular, it takes account of undercoverage in the survey of specified population groups. Integrated weighting improves the robustness and accuracy of survey estimates. It also reduces the effect of bias in estimates resulting from undercoverage, as well as reducing the level of sampling error for benchmark variables.\" All statistical work presents opportunities for error, but it's possible to reduce error to manageable amounts. A statement reads: \"An important aim of our ongoing work is to understand, manage, control and report on all known sources of error... which simply reflect the inherent variability that exists among the units we are seeking to measure... This variability manifests itself in \"sampling error\" when we use samples for cost-effectiveness reasons to estimate characteristics about a population. Sampling errors are relatively easy to measure... Other sources reflect process, measurement and inference errors, and are referred to as \"non-sampling error\". It is not possible to eliminate all sources of error. However, our continued efforts at understanding and managing variability and error ensure we are exercising a high level of control on all known sources of error.\"",
+            "score": 38.07240009307861
+        },
+        {
+            "docid": "30337278_7",
+            "document": "Clelia Giacobini . In 1965, as a result of more investigations, it was defined a first methodology: 1) inspection \"in situ\" and collection of samples; 2) microscopic examination of samples in the laboratory; 3) cultural isolation of drawings; 4) identification of the organisms. In 1967 she made public the results of further studies involving the definition of the five most typical phenomena of microbial spoilage on the frescoes. In 1970 the laboratory began to develop new and more refined technical and analytical methods, represented mainly by the application of scanning electron microscope, which already allowed the immediate diagnosis of the alteration and the chance to study all microorganisms in their natural environment. Later in the seventies, the workshop arranged to review the phenomenology of alterations in the appearance of biodeterioration, deepening our understanding of nutritional and environmental factors that favor the attack of biological agents.",
+            "score": 34.05178880691528
+        },
+        {
+            "docid": "3523925_8",
+            "document": "Burkholderia pseudomallei . Even when the isolate is recognised to be significant, commonly used identification systems may misidentify the organism as \"Chromobacterium violaceum\" or other nonfermenting, Gram-negative bacilli such as \"Burkholderia cepacia\" or \"Pseudomonas aeruginosa\". Again, because the disease is rarely seen in Western countries, identification of \"B. pseudomallei\" in cultures may not actually trigger alarms in physicians unfamiliar with the disease. Routine biochemical methods for identification of bacteria vary widely in their identification of this organism: the API 20NE system accurately identifies \"B. pseudomallei\" in 99% of cases, as does the automated Vitek 1 system, but the automated Vitek 2 system only identifies 19% of isolates.",
+            "score": 109.47570824623108
+        },
+        {
+            "docid": "1408929_8",
+            "document": "Metagenomics . Recovery of DNA sequences longer than a few thousand base pairs from environmental samples was very difficult until recent advances in molecular biological techniques allowed the construction of libraries in bacterial artificial chromosomes (BACs), which provided better vectors for molecular cloning. Advances in bioinformatics, refinements of DNA amplification, and the proliferation of computational power have greatly aided the analysis of DNA sequences recovered from environmental samples, allowing the adaptation of shotgun sequencing to metagenomic samples (known also as whole metagenome shotgun or WMGS sequencing). The approach, used to sequence many cultured microorganisms and the human genome, randomly shears DNA, sequences many short sequences, and reconstructs them into a consensus sequence. Shotgun sequencing reveals genes present in environmental samples. Historically, clone libraries were used to facilitate this sequencing. However, with advances in high throughput sequencing technologies, the cloning step is no longer necessary and greater yields of sequencing data can be obtained without this labour-intensive bottleneck step. Shotgun metagenomics provides information both about which organisms are present and what metabolic processes are possible in the community. Because the collection of DNA from an environment is largely uncontrolled, the most abundant organisms in an environmental sample are most highly represented in the resulting sequence data. To achieve the high coverage needed to fully resolve the genomes of under-represented community members, large samples, often prohibitively so, are needed. On the other hand, the random nature of shotgun sequencing ensures that many of these organisms, which would otherwise go unnoticed using traditional culturing techniques, will be represented by at least some small sequence segments.",
+            "score": 40.52672588825226
+        },
+        {
+            "docid": "25400387_13",
+            "document": "Indoor bioaerosol . Molecular biological methods for bioaerosol are significantly faster and more sensitive than conventional culture-based methods, and they are also able to reveal a larger diversity of microbes. Targeting the variation in the 16S rRNA gene, a microarray (PhyloChip) was used to conduct comprehensive identification of both bacterial and archaeal organisms in bioaerosols. New U.S. EPA methods have been developed to utilise qPCR to characterise indoor environment for fungal spores. In a study by Lange \"et al\"., FISH method successfully identified eubacteria in samples of complex native bioaerosols in swine barns. Nonetheless, molecular biological tools have limitations. Since PCR methods target DNA, viability of cells could not be confirmed in some cases. When qPCR technique is used for bioaerosol detection, standard curves need to be developed to calibrate final results. One study indicated that \u201ccurves used for quantification by qPCR needs to be prepared using the same environmental matrix and procedures as handling of the environmental sample in question\u201d and that \u201creliance on the standard curves generated with cultured bacterial suspension (a traditional approach) may lead to substantial underestimation of microorganism quantities in environmental samples\u201d. Microarray techniques also face the challenge of natural sequence diversity and potential cross-hybridisation in complex environmental bioaerosols).",
+            "score": 55.6210412979126
+        },
+        {
+            "docid": "24522_28",
+            "document": "Power law . Another graphical method for the identification of power-law probability distributions using random samples has been proposed. This methodology consists of plotting a \"bundle for the log-transformed sample\". Originally proposed as a tool to explore the existence of moments and the moment generation function using random samples, the bundle methodology is based on residual quantile functions (RQFs), also called residual percentile functions, which provide a full characterization of the tail behavior of many well-known probability distributions, including power-law distributions, distributions with other types of heavy tails, and even non-heavy-tailed distributions. Bundle plots do not have the disadvantages of Pareto Q-Q plots, mean residual life plots and log\u2013log plots mentioned above (they are robust to outliers, allow visually identifying power laws with small values of formula_19, and do not demand the collection of much data). In addition, other types of tail behavior can be identified using bundle plots.",
+            "score": 16.38161337375641
+        },
+        {
+            "docid": "25312112_5",
+            "document": "RNAs present in environmental samples . RNAs that were identified in environmental sequence samples include the IMES-1, IMES-3, IMES-4, Whalefall-1, \"potC\", Termite-\"flg\" and Gut-1 RNA motifs. These RNA structures have not been detected in the genome of any known species. The IMES-2 RNA motif, GOLLD RNA motif and manA RNA motif were discovered using environmental DNA or RNA sequence samples, and are present in a small number of known species. Additional non-coding RNAs are predicted in marine environments, although no specific conserved secondary structures have been published for these other candidates. Other conserved RNA structures were originally detected using environmental sequence data, e.g., the glnA RNA motif, but were subsequently detected in numerous cultivated species of bacteria.",
+            "score": 45.744601011276245
+        },
+        {
+            "docid": "24522_24",
+            "document": "Power law . Although more sophisticated and robust methods have been proposed, the most frequently used graphical methods of identifying power-law probability distributions using random samples are Pareto quantile-quantile plots (or Pareto Q-Q plots), mean residual life plots and log\u2013log plots. Another, more robust graphical method uses bundles of residual quantile functions. (Please keep in mind that power-law distributions are also called Pareto-type distributions.) It is assumed here that a random sample is obtained from a probability distribution, and that we want to know if the tail of the distribution follows a power law (in other words, we want to know if the distribution has a \"Pareto tail\"). Here, the random sample is called \"the data\".",
+            "score": 27.968446254730225
+        },
+        {
+            "docid": "22228846_37",
+            "document": "Environmental monitoring . In simple random sampling, particular sampling units (for example, locations and/or times) are selected using random numbers, and all possible selections of a given number of units are equally likely. For example, a simple random sample of a set of drums can be taken by numbering all the drums and randomly selecting numbers from that list or by sampling an area by using pairs of random coordinates. This method is easy to understand, and the equations for determining sample size are relatively straightforward. An example is shown in Figure 2-2. This figure illustrates a possible simple random sample for a square area of soil. Simple random sampling is most useful when the population of interest is relatively homogeneous; i.e., no major patterns of contamination or \u201chot spots\u201d are expected. The main advantages of this design are: In some cases, implementation of a simple random sample can be more difficult than some other types of designs (for example, grid samples) because of the difficulty of precisely identifying random geographic locations. Additionally, simple random sampling can be more costly than other plans if difficulties in obtaining samples due to location causes an expenditure of extra effort.",
+            "score": 36.23884892463684
+        },
+        {
+            "docid": "1940140_30",
+            "document": "Total organic carbon . There are two types of conductivity detectors, direct and membrane. Direct conductivity provides an all-encompassing approach of measuring CO. This detection method uses no carrier gas, is good at the parts per billion (ppb) ranges, but has a very limited analytical range. Membrane conductivity relies upon the filtering of the CO prior to measuring it with a conductivity cell. Both methods analyze sample conductivity before and after oxidization, attributing this differential measurement to the TOC of the sample. During the sample oxidization phase, CO (directly related to the TOC in the sample) and other gases are formed. The dissolved CO forms a weak acid, thereby changing the conductivity of the original sample proportionately to the TOC in the sample. Conductivity analyses assume that only CO is present within the solution. As long as this holds true, then the TOC calculation by this differential measurement is valid. However, depending on the chemical species present in the sample and their individual products of oxidation, they may present either a positive or a negative interference to the actual TOC value, resulting in analytical error. Some of the interfering chemical species include Cl, HCO, SO, SO, ClO, and H. Small changes in pH and temperature fluctuations also contribute to inaccuracy. Membrane conductivity analyzers have improved upon the direct conductivity approach by incorporating the use of hydrophobic gas permeation membranes to allow a more \u201cselective\u201d passage of the dissolved CO gas and nothing else. This provides a more precise and accurate measurement of the organics that were converted to CO.",
+            "score": 29.988465070724487
+        },
+        {
+            "docid": "9535016_2",
+            "document": "Acinetobacter baumannii . Acinetobacter baumannii is a typically short, almost round, rod-shaped (coccobacillus) Gram-negative bacterium. It can be an opportunistic pathogen in humans, affecting people with compromised immune systems, and is becoming increasingly important as a hospital-derived (nosocomial) infection. While other species of the genus \"Acinetobacter\" are often found in soil samples (leading to the common misconception that \"A. baumannii\" is a soil organism, too), it is almost exclusively isolated from hospital environments. Although occasionally it has been found in environmental soil and water samples, its natural habitat is still not known.",
+            "score": 54.4648163318634
+        },
+        {
+            "docid": "22228846_40",
+            "document": "Environmental monitoring . Ranked set sampling is an innovative design that can be highly useful and cost efficient in obtaining better estimates of mean concentration levels in soil and other environmental media by explicitly incorporating the professional judgment of a field investigator or a field screening measurement method to pick specific sampling locations in the field. Ranked set sampling uses a two-phase sampling design that identifies sets of field locations, utilizes inexpensive measurements to rank locations within each set, and then selects one location from each set for sampling. In ranked set sampling, m sets (each of size r) of field locations are identified using simple random sampling. The locations are ranked independently within each set using professional judgment or inexpensive, fast, or surrogate measurements. One sampling unit from each set is then selected (based on the observed ranks) for subsequent measurement using a more accurate and reliable (hence, more expensive) method for the contaminant of interest. Relative to simple random sampling, this design results in more representative samples and so leads to more precise estimates of the population parameters. Ranked set sampling is useful when the cost of locating and ranking locations in the field is low compared to laboratory measurements. It is also appropriate when an inexpensive auxiliary variable (based on expert knowledge or measurement) is available to rank population units with respect to the variable of interest. To use this design effectively, it is important that the ranking method and analytical method are strongly correlated.",
+            "score": 43.87258458137512
+        },
+        {
+            "docid": "39311563_11",
+            "document": "Caspase 11 . Caspase-11 appears to provide immune defense against bacteria that enter or access the host cell cytosol. Caspase-11 has been shown to be activated by \"Burkholderia pseudomallei\", Gram-negative bacteria found in the soil of southeast Asia that cause severe melioidosis. Caspase-11 has been shown \"in vitro\" to be activated by \"Shigella flexneri\" infection, while a guinea pig model of \"Shigella\" infection has been shown to activate the human homolog of caspase-11, caspase-4. For bacteria that do not typically access the host cytosol, caspase-11 is activated with delayed kinetics if Gram-negative bacteria aberrantly escape the vacuole and enter into the cytoplasm.",
+            "score": 98.93645572662354
+        },
+        {
+            "docid": "847357_8",
+            "document": "Holy water . Holy water fonts have been identified as a potential source of bacterial and viral infection. In the late 19th century, bacteriologists found staphylococci, streptococci, coli bacilli, Loeffler's bacillus, and other bacteria in samples of holy water taken from a church in Sassari, Italy. In a study performed in 1995, 13 samples were taken when a burn patient acquired a bacterial infection after exposure to holy water. The samples in that study were shown to have a \"wide range of bacterial species\", some of which could cause infection in humans. During the swine flu epidemic of 2009, Bishop John Steinbock of Fresno, California recommended that \"holy water should not be in the fonts\" due to fear of spreading infections. Also in response to the swine flu, an automatic, motion-detecting holy water dispenser was invented and installed in an Italian church in 2009.",
+            "score": 38.32836055755615
+        },
+        {
+            "docid": "29601304_7",
+            "document": "ANOVA on ranks . Ranking is one of many procedures used to transform data that do not meet the assumptions of normality. Conover and Iman provided a review of the four main types of rank transformations (RT). One method replaces each original data value by its rank (from 1 for the smallest to \"N\" for the largest). This rank-based procedure has been recommended as being robust to non-normal errors, resistant to outliers, and highly efficient for many distributions. It may result in a known statistic (e.g., in the two independent samples layout ranking results in the Wilcoxon rank-sum / Mann\u2013Whitney U test), and provides the desired robustness and increased statistical power that is sought. For example, Monte Carlo studies have shown that the rank transformation in the two independent samples t-test layout can be successfully extended to the one-way independent samples ANOVA, as well as the two independent samples multivariate Hotelling's \"T\" layouts Commercial statistical software packages (e.g., SAS) followed with recommendations to data analysts to run their data sets through a ranking procedure (e.g., PROC RANK) prior to conducting standard analyses using parametric procedures.",
+            "score": 23.381441593170166
+        },
+        {
+            "docid": "65623_9",
+            "document": "Creatinine . Studies indicate creatinine can be effective at killing bacteria of many species in both the Gram positive and Gram negative as well as diverse antibiotic resistant bacterial strains. Creatinine appears not to affect growth of fungi and yeast; this can be used to isolate slower growing fungi free from the normal bacterial populations found in most environmental samples. The mechanism by which creatinine kills bacteria is not presently known. A recent report also suggests that creatinine may have immunosuppressive properties.",
+            "score": 41.596296072006226
+        },
+        {
+            "docid": "3524301_2",
+            "document": "Burkholderia mallei . Burkholderia mallei is a Gram-negative, bipolar, aerobic bacterium, a human and animal pathogen of genus \"Burkholderia\" causing glanders; the Latin name of this disease (\"malleus\") gave its name to the species causing it. It is closely related to \"B.\u00a0pseudomallei,\" and by multilocus sequence typing it is a subspecies of \"B.\u00a0pseudomallei.\" \"B.\u00a0mallei\" evolved from \"B.\u00a0pseudomallei\" by selective reduction and deletions from the \"B.\u00a0pseudomallei\" genome. Unlike closely related \"Burkholderia pseudomallei\" and other genus members, the bacterium is nonmotile; its shape is something between a rod and a coccus measuring some 1.5\u20133.0 \u03bcm in length and 0.5\u20131.0 \u03bcm in diameter with rounded ends.",
+            "score": 116.89667582511902
+        },
+        {
+            "docid": "25312976_2",
+            "document": "IMES-1 RNA motif . The IMES-1 RNA motif is a conserved RNA structure that was identified in marine environmental sequences by two studies based on metagenomics and bioinformatics, the first analyzing metatranscriptome (RNA) data and the second using metagenome (DNA) data. These RNAs are present in environmental sequences, and as of 2009 are not known to be present in any cultivated species. However, the species that use these RNAs are most closely related to known alphaproteobacteria and gammaproteobacteria. IMES-1 RNAs make up a significant portion of marine RNA transcripts and are exceptionally abundant in that over five times as many IMES-1 RNAs were found as ribosomes in RNAs sampled from the Pacific Ocean. Only two bacterial RNAs are known (6S RNA and transfer RNA) to be more highly transcribed than ribosomes. IMES-1 RNAs were also detected in abundance in Block Island Sound in the Atlantic Ocean.",
+            "score": 37.512521266937256
+        },
+        {
+            "docid": "1408929_5",
+            "document": "Metagenomics . Early molecular work in the field was conducted by Norman R. Pace and colleagues, who used PCR to explore the diversity of ribosomal RNA sequences. The insights gained from these breakthrough studies led Pace to propose the idea of cloning DNA directly from environmental samples as early as 1985. This led to the first report of isolating and cloning bulk DNA from an environmental sample, published by Pace and colleagues in 1991 while Pace was in the Department of Biology at Indiana University. Considerable efforts ensured that these were not PCR false positives and supported the existence of a complex community of unexplored species. Although this methodology was limited to exploring highly conserved, non-protein coding genes, it did support early microbial morphology-based observations that diversity was far more complex than was known by culturing methods. Soon after that, Healy reported the metagenomic isolation of functional genes from \"zoolibraries\" constructed from a complex culture of environmental organisms grown in the laboratory on dried grasses in 1995. After leaving the Pace laboratory, Edward DeLong continued in the field and has published work that has largely laid the groundwork for environmental phylogenies based on signature 16S sequences, beginning with his group's construction of libraries from marine samples.",
+            "score": 42.41010880470276
+        },
+        {
+            "docid": "42203814_16",
+            "document": "Zoophthora . In indirect sampling methods, fungal tissue is isolated from indirect sources, such as soil or plant material. Approaches to indirect sampling vary, but many methods use whole insects or insect tissues as \u201cbait\u201d. When fungal propagules from an environmental sample infect the \u201cbait\u201d organism, the infected insect can be surface-sterilized, placed in conditions favorable for fungal growth, and monitored for the emergence of fungal propagules from host parts.",
+            "score": 40.89126229286194
+        },
+        {
+            "docid": "25312112_2",
+            "document": "RNAs present in environmental samples . A wide variety of non-coding RNAs have been identified in various species of organisms known to science. However, RNAs have also been identified in \"metagenomics\" sequences derived from samples of DNA or RNA extracted from the environment, which contain unknown species. Initial work in this area detected homologs of known bacterial RNAs in such metagenome samples. Many of these RNA sequences were distinct from sequences within cultivated bacteria, and provide the potential for additional information on the RNA classes to which they belong.",
+            "score": 46.84146070480347
+        },
+        {
+            "docid": "22228846_39",
+            "document": "Environmental monitoring . In systematic and grid sampling, samples are taken at regularly spaced intervals over space or time. An initial location or time is chosen at random, and then the remaining sampling locations are defined so that all locations are at regular intervals over an area (grid) or time (systematic). Examples Systematic Grid Sampling - Square Grid Systematic Grid Sampling - Triangular Grids of systematic grids include square, rectangular, triangular, or radial grids. Cressie, 1993. In random systematic sampling, an initial sampling location (or time) is chosen at random and the remaining sampling sites are specified so that they are located according to a regular pattern. Random systematic sampling is used to search for hot spots and to infer means, percentiles, or other parameters and is also useful for estimating spatial patterns or trends over time. This design provides a practical and easy method for designating sample locations and ensures uniform coverage of a site, unit, or process.",
+            "score": 29.4335298538208
+        }
+    ],
+    "r": [
+        {
+            "docid": "3523925_2",
+            "document": "Burkholderia pseudomallei . Burkholderia pseudomallei (also known as Pseudomonas pseudomallei) is a Gram-negative, bipolar, aerobic, motile rod-shaped bacterium. It is a soil-dwelling bacterium endemic in tropical and subtropical regions worldwide, particularly in Thailand and northern Australia. It infects humans and animals and causes the disease melioidosis. It is also capable of infecting plants.",
+            "score": 142.608154296875
+        },
+        {
+            "docid": "471444_33",
+            "document": "Melioidosis . \"B. pseudomallei\" is normally found in soil and surface water; a history of contact with soil or surface water is, therefore, almost invariable in patients with melioidosis; that said, the majority of patients who do have contact with infected soil suffer no ill effects. Even within an area, the distribution of \"B.\u00a0pseudomallei\" within the soil can be extremely patchy, and competition with other \"Burkholderia\" species has been suggested as a possible reason. Contaminated ground water was implicated in one outbreak in northern Australia. Also implicated are severe weather events such as flooding tsunamis and typhoons.",
+            "score": 135.49765014648438
+        },
+        {
+            "docid": "471444_2",
+            "document": "Melioidosis . Melioidosis is an infectious disease caused by a Gram-negative bacterium, \"Burkholderia pseudomallei\", found in soil and water. It is of public health importance in endemic areas, particularly in northeast Thailand, Vietnam, and northern Australia. It exists in acute and chronic forms. Signs and symptoms may include pain in chest, bones, or joints; cough; skin infections, lung nodules, and pneumonia.",
+            "score": 131.15396118164062
+        },
+        {
+            "docid": "471444_29",
+            "document": "Melioidosis . Interest in melioidosis has been expressed because it has the potential to be developed as a biological weapon. It is classed by the US Centers for Disease Control (CDC) as a category B agent. \"B. pseudomallei\", like \"B. mallei\" which causes glanders, was studied by the US as a potential biological warfare agent, but never weaponized. The Soviet Union was reported to have also experimented with \"B. pseudomallei\" as a biological warfare agent.",
+            "score": 123.78350067138672
+        },
+        {
+            "docid": "3523925_12",
+            "document": "Burkholderia pseudomallei . \"B. pseudomallei\" infection in humans is called melioidosis; its mortality is 20 to 50% even with treatment.",
+            "score": 122.29044342041016
+        },
+        {
+            "docid": "11092471_2",
+            "document": "Burkholderia thailandensis . Burkholderia thailandensis is a nonfermenting motile, Gram-negative bacillus that occurs naturally in soil. It is closely related to \"Burkholderia pseudomallei,\" but unlike \"B. pseudomallei\", it only rarely causes disease in humans or animals. The lethal inoculum is approximately 1000 times higher than for \"B.\u00a0pseudomallei\". It is usually distinguished from \"B. pseudomallei\" by its ability to assimilate arabinose. Other differences between these species include lipopolysaccharide composition, colony morphology, and differences in metabolism.",
+            "score": 119.2848892211914
+        },
+        {
+            "docid": "471444_15",
+            "document": "Melioidosis . Many commercial kits for identifying bacteria may misidentify \"B. pseudomallei\" (\"see\" \"Burkholderia pseudomallei\" for a more detailed discussion of this topic).",
+            "score": 117.74647521972656
+        },
+        {
+            "docid": "3524301_2",
+            "document": "Burkholderia mallei . Burkholderia mallei is a Gram-negative, bipolar, aerobic bacterium, a human and animal pathogen of genus \"Burkholderia\" causing glanders; the Latin name of this disease (\"malleus\") gave its name to the species causing it. It is closely related to \"B.\u00a0pseudomallei,\" and by multilocus sequence typing it is a subspecies of \"B.\u00a0pseudomallei.\" \"B.\u00a0mallei\" evolved from \"B.\u00a0pseudomallei\" by selective reduction and deletions from the \"B.\u00a0pseudomallei\" genome. Unlike closely related \"Burkholderia pseudomallei\" and other genus members, the bacterium is nonmotile; its shape is something between a rod and a coccus measuring some 1.5\u20133.0 \u03bcm in length and 0.5\u20131.0 \u03bcm in diameter with rounded ends.",
+            "score": 116.89667510986328
+        },
+        {
+            "docid": "471444_3",
+            "document": "Melioidosis . \"B. pseudomallei\" was previously classed as part of the genus \"Pseudomonas\"; until 1992, it was known as \"Pseudomonas pseudomallei\". It is phylogenetically related closely to \"Burkholderia mallei\" which causes glanders, an infection primarily of horses, donkeys, and mules. The name melioidosis is derived from the Greek \"melis\" (\u03bc\u03b7\u03bb\u03b9\u03c2) meaning \"a distemper of asses\" with the suffixes -oid meaning \"similar to\" and -osis meaning \"a condition\", that is, a condition similar to glanders.",
+            "score": 115.95790100097656
+        },
+        {
+            "docid": "471444_14",
+            "document": "Melioidosis . Ashdown's medium, a selective medium containing gentamicin, may be required for cultures taken from nonsterile sites. \"Burkholderia cepacia\" medium may be a useful alternative selective medium in nonendemic areas, where Ashdown's is not available. A new medium derived from Ashdown, known as Francis medium, may help differentiate \"B. pseudomallei\" from \"B. cepacia\" and may help in the early diagnosis of melioidosis, but has not yet been extensively clinically validated.",
+            "score": 110.46302032470703
+        },
+        {
+            "docid": "3523925_8",
+            "document": "Burkholderia pseudomallei . Even when the isolate is recognised to be significant, commonly used identification systems may misidentify the organism as \"Chromobacterium violaceum\" or other nonfermenting, Gram-negative bacilli such as \"Burkholderia cepacia\" or \"Pseudomonas aeruginosa\". Again, because the disease is rarely seen in Western countries, identification of \"B. pseudomallei\" in cultures may not actually trigger alarms in physicians unfamiliar with the disease. Routine biochemical methods for identification of bacteria vary widely in their identification of this organism: the API 20NE system accurately identifies \"B. pseudomallei\" in 99% of cases, as does the automated Vitek 1 system, but the automated Vitek 2 system only identifies 19% of isolates.",
+            "score": 109.4757080078125
+        },
+        {
+            "docid": "3523925_5",
+            "document": "Burkholderia pseudomallei . \"B. pseudomallei\" is not fastidious and grows on a large variety of culture media (blood agar, MacConkey agar, EMB, etc.). Ashdown's medium (or \"Burkholderia cepacia\" medium) may be used for selective isolation. Cultures typically become positive in 24 to 48 hours (this rapid growth rate differentiates the organism from \"B. mallei\", which typically takes a minimum of 72 hours to grow). Colonies are wrinkled, have a metallic appearance, and possess an earthy odour. On Gram staining, the organism is a Gram-negative rod with a characteristic \"safety pin\" appearance (bipolar staining). On sensitivity testing, the organism appears highly resistant (it is innately resistant to a large number of antibiotics including colistin and gentamicin) and that again differentiates it from \"B. mallei\", which is in contrast, exquisitely sensitive to a large number of antibiotics. For environmental specimens only, differentiation from the nonpathogenic \"B. thailandensis\" using an arabinose test is necessary (\"B. thailandensis\" is never isolated from clinical specimens). The laboratory identification of \"B. pseudomallei\" has been described in the literature.",
+            "score": 108.35650634765625
+        },
+        {
+            "docid": "3523925_15",
+            "document": "Burkholderia pseudomallei . \"B. pseudomallei\" is an opportunistic pathogen. An environmental organism, it has no requirement to pass through an animal host to replicate. From the point of view of the bacterium, human infection is a developmental \"dead end\".",
+            "score": 107.92779541015625
+        },
+        {
+            "docid": "1283668_2",
+            "document": "Burkholderia . Burkholderia is a genus of Proteobacteria whose pathogenic members include the Burkholderia cepacia complex which attacks humans and \"Burkholderia mallei\", responsible for glanders, a disease that occurs mostly in horses and related animals; \"Burkholderia pseudomallei\", causative agent of melioidosis; and \"Burkholderia cepacia\", an important pathogen of pulmonary infections in people with cystic fibrosis (CF).",
+            "score": 107.60264587402344
+        },
+        {
+            "docid": "471444_35",
+            "document": "Melioidosis . The single most important risk factor for developing melioidosis is diabetes mellitus, followed by hazardous alcohol use, chronic kidney disease, and chronic lung disease. Other risk factors include thalassaemia, occupation (rice paddy farmers), and cystic fibrosis. The mode of infection is believed to be through either a break in the skin, or the inhalation of aerosolized \"B. pseudomallei\" cells. Person-to-person spread has been described, but is extremely unusual. HIV infection does not predispose to melioidosis.",
+            "score": 106.71929931640625
+        },
+        {
+            "docid": "471444_13",
+            "document": "Melioidosis . A complete screen (blood culture, sputum culture, urine culture, throat swab, and culture of any aspirated pus) should be performed on all patients with suspected melioidosis (culture on blood agar as well as Ashdown's medium). A definitive diagnosis is made by growing \"B. pseudomallei\" from any site. A throat swab is not sensitive, but is 100% specific if positive, and compares favourably with sputum culture. The sensitivity of urine culture is increased if a centrifuged specimen is cultured, and any bacterial growth should be reported (not just growth above 10 organisms/ml which is the usual cutoff). Very occasionally, bone marrow culture may be positive in patients who have negative blood cultures for \"B.\u00a0pseudomallei\", but these are not usually recommended. A common error made by clinicians unfamiliar with melioidosis is to send a specimen from only the affected site (which is the usual procedure for most other infections) instead of sending a full screen.",
+            "score": 105.51822662353516
+        },
+        {
+            "docid": "3524301_5",
+            "document": "Burkholderia mallei . \"B. mallei\" is very closely related to \"B. pseudomallei\", being 99% identical in conserved genes when compared to \"B. pseudomallei\". \"B. malllei\" has about 1.4 Mb less DNA than \"B. pseudomallei\". \"B. mallei\" may have actually evolved from a strain of \"B. pseudomallei\" after the latter had infected an animal. The bacterium would have lost the genes that were not necessary for living in an animal host. This suggestion has found support from studies that compare strains of \"B. mallei\" to \"B. pseudomallei\" and indicate that their two respective genomes are very similar. The genes that allowed the bacterium to survive in a soil environment, like genes that gave \"B. mallei\" the capacity to protect against bactericidals, antibiotics, and antifungals, were likely deleted. Thus, the reason that \"B. mallei\" is not found outside of a host is because it lacks the genes necessary for survival in the soil. Genome comparisons also seem to indicate that the \"B. mallei\" is still evolving and adapting to an intracellular lifestyle.",
+            "score": 103.34530639648438
+        },
+        {
+            "docid": "3523925_13",
+            "document": "Burkholderia pseudomallei . The antibiotic of choice is ceftazidime. While various antibiotics are active \"in vitro\" (e.g., chloramphenicol, doxycycline, co-trimoxazole), they have been proven to be inferior \"in vivo\" for the treatment of acute melioidosis. Disc diffusion tests are unreliable when looking for co-trimoxazole resistance in \"B.\u00a0pseudomallei\" (they greatly overestimate resistance) and Etests or agar dilution tests should be used in preference. The actions of co-trimoxazole and doxycycline are antagonistic, which suggests these two drugs ought not to be used together.",
+            "score": 103.31614685058594
+        },
+        {
+            "docid": "471444_30",
+            "document": "Melioidosis . Melioidosis is endemic in parts of southeast Asia (including Thailand, Laos, Singapore, Brunei, Malaysia, Burma and Vietnam), China, Taiwan and northern Australia. Flooding can increase its extent, including flooding in central Australia. Multiple cases have also been described in Hong Kong and Brunei India, and sporadic cases in Central and South America, the Middle East, the Pacific and several African countries. Although only one case of melioidosis has ever been reported in Bangladesh, at least five cases have been imported to the UK from that country. Recent news reports indicate \"B.\u00a0pseudomallei\" has been isolated from soil in Bangladesh, but this remains to be verified scientifically. This suggests that melioidosis is endemic to Bangladesh and that a problem of underdiagnosis or under-reporting exists there. most likely due to a lack of adequate laboratory facilities in affected rural areas. A high isolation frequency (percentage of positive soil samples) was found in east Saravan in rural Lao PDR distant from the Mekong River, thought by the investigators to be the highest geometric mean concentration in the world (about 464 (25-10,850 CFU/g soil).",
+            "score": 103.04161071777344
+        },
+        {
+            "docid": "3523925_6",
+            "document": "Burkholderia pseudomallei . The classic textbook description of \"B.\u00a0pseudomallei\" in clinical samples is of an intracellular, bipolar-staining, Gram-negative rod, but this is of little value in identifying the organism from clinical samples. Some suggest the Wayson stain is useful for this purpose, but this has been shown not to be the case.",
+            "score": 100.32382202148438
+        },
+        {
+            "docid": "39311563_11",
+            "document": "Caspase 11 . Caspase-11 appears to provide immune defense against bacteria that enter or access the host cell cytosol. Caspase-11 has been shown to be activated by \"Burkholderia pseudomallei\", Gram-negative bacteria found in the soil of southeast Asia that cause severe melioidosis. Caspase-11 has been shown \"in vitro\" to be activated by \"Shigella flexneri\" infection, while a guinea pig model of \"Shigella\" infection has been shown to activate the human homolog of caspase-11, caspase-4. For bacteria that do not typically access the host cytosol, caspase-11 is activated with delayed kinetics if Gram-negative bacteria aberrantly escape the vacuole and enter into the cytoplasm.",
+            "score": 98.93645477294922
+        },
+        {
+            "docid": "1721387_2",
+            "document": "Alfred Whitmore . Major Alfred Whitmore (1876\u20131946) was an English pathologist who, together with C.S. Krishnaswami, identified \"Burkholderia pseudomallei\", the causative agent of melioidosis (also known as \"Whitmore's disease\") in opium addicts in Rangoon in 1911. He differentiated it from \"Burkholderia mallei\", the causative agent of glanders, by clinical and microbiological features.",
+            "score": 98.46849822998047
+        },
+        {
+            "docid": "12591438_2",
+            "document": "Ashdown's medium . Ashdown's medium is a selective culture medium for the isolation and characterisation of \"Burkholderia pseudomallei\" (the bacterium that causes melioidosis).",
+            "score": 98.26972961425781
+        },
+        {
+            "docid": "471444_19",
+            "document": "Melioidosis . Person-to-person transmission is exceedingly unusual; and patients with melioidosis should not be considered contagious. Lab workers should handle \"B. pseudomallei\" under BSL-3 isolation conditions, as laboratory-acquired melioidosis has been described.",
+            "score": 98.17001342773438
+        },
+        {
+            "docid": "1408980_2",
+            "document": "Burkholderiaceae . The Burkholderiaceae are a family of bacteria included in the order Burkholderiales. It includes some pathogenic species, such as \"Burkholderia mallei\" (glanders) and \"Burkholderia pseudomallei\" (melioidosis).",
+            "score": 94.94917297363281
+        },
+        {
+            "docid": "12903590_5",
+            "document": "HLA-DR16 . DRB1*1602: Juvenile rheumatoid arthritis, rheumatic heart disease, Takayasu arteritis, systemic sclerosis (SSc) & anti-DNA topoisomerase I (anti-topo I) antibody, melioidosis (Burkholderia pseudomallei infection)",
+            "score": 93.25060272216797
+        },
+        {
+            "docid": "471444_34",
+            "document": "Melioidosis . Based on whole genome sequencing, humans may play a role in moving \"B.\u00a0pseudomallei\" from place to place.",
+            "score": 92.75372314453125
+        },
+        {
+            "docid": "3523925_19",
+            "document": "Burkholderia pseudomallei . No vaccine is currently available, but a number of vaccine candidates have been suggested. Aspartate-\u03b2-semialdehyde dehydrogenase (\"asd\") gene deletion mutants are auxotrophic for diaminopimelate (DAP) in rich media and auxotrophic for DAP, lysine, methionine, and threonine in minimal media. The \u0394\"asd\" bacterium (bacterium with the \"asd\" gene removed) protects against inhalational melioidosis in mice.",
+            "score": 92.0283432006836
+        },
+        {
+            "docid": "3524301_8",
+            "document": "Burkholderia mallei . No standardized system exists for differentiating between \"B. mallei\" and \"B. pseudomallei\". The methods that have been used to differentiate and identify one strain from the other include ribotyping, pulsed-field gel electrophoresis, multilocus enzyme electrophoresis, random amplified polymorphic DNA analysis, and multilocus sequence typing. Comparing the DNA of \"B. mallei\" and \"B. pseudomallei\" must be done at the 23S rDNA level, however, since no identifiable difference is found between the two species at the 16S rDNA level.",
+            "score": 90.99693298339844
+        },
+        {
+            "docid": "3523925_11",
+            "document": "Burkholderia pseudomallei . \"B. pseudomallei\" is susceptible to numerous disinfectants, including benzalkonium chloride, iodine, mercuric chloride, potassium permanganate, 1% sodium hypochlorite, 70% ethanol, 2% glutaraldehyde, and to a lesser extent, phenolic preparations. \"B. pseudomallei\" is effectively killed by the commercial disinfectants, Perasafe and Virkon. The microorganism can also be destroyed by heating to above 74\u00a0\u00b0C for 10 min or by ultraviolet irradiation. \"B.\u00a0pseudomallei\" is not reliably disinfected by chlorine.",
+            "score": 90.0389175415039
+        },
+        {
+            "docid": "471444_21",
+            "document": "Melioidosis . After exposure to \"B. pseudomallei\" (particularly following a laboratory accident) combined treatment with co-trimoxazole and doxycycline is recommended. Trovafloxacin and grepafloxacin have been shown to be effective in animal models.",
+            "score": 89.9804458618164
+        },
+        {
+            "docid": "480641_7",
+            "document": "Glanders . Due to the high mortality rate in humans and the small number of organisms required to establish infection, \"B. mallei\" is regarded as a potential biological warfare or bioterrorism agent, as is the closely related organism, \"B. pseudomallei\", the causative agent of melioidosis. During World War I, glanders was believed to have been spread deliberately by German agents to infect large numbers of Russian horses and mules on the Eastern Front. Other agents attempted to introduce the disease in the United States and Argentina. This had an effect on troop and supply convoys, as well as on artillery movement, which were dependent on horses and mules. Human cases in Russia increased with the infections during and after WWI. The Japanese deliberately infected horses, civilians, and prisoners of war with \"B. mallei\" at the Unit 731 Pingfang (China) Institute and Unit 100 facilities during World War II.",
+            "score": 89.5223159790039
+        }
+    ]
+}

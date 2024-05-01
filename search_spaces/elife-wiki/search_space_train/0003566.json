@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "9888040_20",
+            "document": "Visna virus . The viral \"tat\" gene encodes a 94-amino acid protein. Tat is the most enigmatic of the proteins of the visna virus. Most studies have indicated that Tat is a transcription factor necessary for viral transcription from the LTRs. Tat contains both a suppressor domain and a powerful acidic activator domain on the N-terminus. It has been suggested that Tat interacts with the cellular AP-1 transcription factors Fos and Jun to bind to the TATA-binding protein and activate transcription. However, other studies have suggested that the visna virus \"Tat\" protein is not a trans-activator for transcription but instead exhibits a function involved in cell cycle arrest, making it more closely related to the HIV-1 Vpr protein than Tat.",
+            "score": 219.85328602790833
+        },
+        {
+            "docid": "20938024_7",
+            "document": "Tat (HIV) . Tat protein also associates with RNA polymerase II complexes during early transcription elongation after the promoter clearance and before the synthesis of full-length TAR RNA transcript. This interaction of Tat with RNA polymerase II elongation complexes is P-TEFb-independent. There are two Tat binding sites on each transcription elongation complex; one is located on TAR RNA and the other one on RNA polymerase II near the exit site for nascent mRNA transcripts which suggests that two Tat molecules are involved in performing various functions during a single round of HIV-1 mRNA synthesis.",
+            "score": 309.08418345451355
+        },
+        {
+            "docid": "20938024_6",
+            "document": "Tat (HIV) . Like other lentiviruses, HIV-1 encodes a trans-activating regulatory protein (Tat), which is essential for efficient transcription of the viral genome. Tat acts by binding to an RNA stem-loop structure, the trans-activating response element (TAR), found at the 5\u2032 ends of nascent HIV-1 transcripts. In binding to TAR, Tat alters the properties of the transcription complex, recruits the positive transcription elongation complex (P-TEFb) of cellular CDK9 and cyclin T1, and hence increases the production of full-length viral RNA.",
+            "score": 282.6464157104492
+        },
+        {
+            "docid": "10093384_3",
+            "document": "P-TEFb . P-TEFb was identified and purified as a factor needed for the generation of long run-off transcripts using an in vitro transcription system derived from Drosophila cells. It is a cyclin dependent kinase containing the catalytic subunit, Cdk9, and a regulatory subunit, cyclin T in Drosophila. In humans there are multiple forms of P-TEFb which contain Cdk9 and one of several cyclin subunits, cyclin T1, T2, and K. P-TEFb associates with other factors including the bromodomain protein BRD4, and is found associated with a large complex of proteins called the super elongation complex. Importantly, for the AIDS virus, HIV, P-TEFb is targeted by the HIV Tat protein which bypasses normal cellular P-TEFb control and directly brings P-TEFb to the promoter proximal paused polymerase in the HIV genome.",
+            "score": 299.8302102088928
+        },
+        {
+            "docid": "20938024_2",
+            "document": "Tat (HIV) . In molecular biology, Tat is a protein that is encoded for by the \"tat\" gene in HIV-1. Tat is a regulatory protein that drastically enhances the efficiency of viral transcription. Tat stands for \"Trans-Activator of Transcription\". The protein consists of between 86 and 101 amino acids depending on the subtype. Tat vastly increases the level of transcription of the HIV dsDNA. Before Tat is present, a small number of RNA transcripts will be made, which allow the Tat protein to be produced. Tat then binds to cellular factors and mediates their phosphorylation, resulting in increased transcription of all HIV genes, providing a positive feedback cycle. This in turn allows HIV to have an explosive response once a threshold amount of Tat is produced, a useful tool for defeating the body's response.",
+            "score": 219.74223613739014
+        },
+        {
+            "docid": "12303217_3",
+            "document": "Cyclin-dependent kinase 9 . The protein encoded by this gene is a member of the cyclin-dependent kinase (CDK) family. CDK family members are highly similar to the gene products of S. cerevisiae cdc28, and S. pombe cdc2, and known as important cell cycle regulators. This kinase was found to be a component of the multiprotein complex TAK/P-TEFb, which is an elongation factor for RNA polymerase II-directed transcription and functions by phosphorylating the C-terminal domain of the largest subunit of RNA polymerase II. This protein forms a complex with and is regulated by its regulatory subunit cyclin T or cyclin K. HIV-1 Tat protein was found to interact with this protein and cyclin T, which suggested a possible involvement of this protein in AIDS.",
+            "score": 288.15260434150696
+        },
+        {
+            "docid": "14162129_9",
+            "document": "PURA . In the brain Pur-alpha plays a role in diseases involving glial cells, cells that support nerve cells, as well as diseases involving nerve cells. These diseases include neuro-AIDS. Pur-alpha binds to a regulatory RNA element, called TAR, in the HIV-1 genome. This activates the expression of Tat, a transcriptional activator of its own gene. Pur-alpha binds TAR, allowing Tat to bind an adjacent TAR site to stimulate transcription. Pur-alpha then binds to the Tat protein itself. Pur-alpha also binds Cyclin T1, a regulatory partner of Cdk9 protein kinase, necessary for Tat activity. Cyclin T1/Cdk9 phosphorylates a region of RNA polymerase II. Such phosphorylation of the polymerase enhances its ability to complete RNA synthesis and stimulates replication of the HIV-1 RNA genome.",
+            "score": 213.08326053619385
+        },
+        {
+            "docid": "14799947_3",
+            "document": "Cyclin T2 . The protein encoded by this gene belongs to the highly conserved cyclin family, whose members are characterized by a dramatic periodicity in protein abundance through the cell cycle. Cyclins function as regulators of CDK kinases. Different cyclins exhibit distinct expression and degradation patterns which contribute to the temporal coordination of each mitotic event. This cyclin and its kinase partner CDK9 were found to be subunits of the transcription elongation factor p-TEFb. The p-TEFb complex containing this cyclin was reported to interact with, and act as a negative regulator of human immunodeficiency virus type 1 (HIV-1) Tat protein. Two alternatively spliced transcript variants, which encode distinct isoforms, have been described.",
+            "score": 256.091801404953
+        },
+        {
+            "docid": "14777746_3",
+            "document": "60S ribosomal protein L3 . Ribosomes, the complexes that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L3P family of ribosomal proteins and it is located in the cytoplasm. The protein can bind to the HIV-1 TAR mRNA, and it has been suggested that the protein contributes to tat-mediated transactivation. This gene is co-transcribed with several small nucleolar RNA genes, which are located in several of this gene's introns. Alternate transcriptional splice variants, encoding different isoforms, have been characterized. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome.",
+            "score": 213.52698004245758
+        },
+        {
+            "docid": "14026571_3",
+            "document": "Cyclin T1 . The protein encoded by this gene belongs to the highly conserved cyclin family, whose members are characterized by a dramatic periodicity in protein abundance through the cell cycle. Cyclins function as regulators of CDK kinases. Different cyclins exhibit distinct expression and degradation patterns that contribute to the temporal coordination of each mitotic event. This cyclin tightly associates with CDK9 kinase, and was found to be a major subunit of the transcription elongation factor p-TEFb. The kinase complex containing this cyclin and the elongation factor can interact with, and act as a cofactor of human immunodeficiency virus type 1 (HIV-1) Tat protein, and was shown to be both necessary and sufficient for full activation of viral transcription. This cyclin and its kinase partner were also found to be involved in the phosphorylation and regulation of the carboxy-terminal domain (CTD) of the largest RNA polymerase II subunit.",
+            "score": 272.65237379074097
+        },
+        {
+            "docid": "14774820_3",
+            "document": "TAF11 . Initiation of transcription by RNA polymerase II requires the activities of more than 70 polypeptides. The protein that coordinates these activities is transcription factor IID (TFIID), which binds to the core promoter to position the polymerase properly, serves as the scaffold for assembly of the remainder of the transcription complex, and acts as a channel for regulatory signals. TFIID is composed of the TATA-binding protein (TBP) and a group of evolutionarily conserved proteins known as TBP-associated factors or TAFs. TAFs may participate in basal transcription, serve as coactivators, function in promoter recognition or modify general transcription factors (GTFs) to facilitate complex assembly and transcription initiation. This gene encodes a small subunit of TFIID that is present in all TFIID complexes and interacts with TBP. This subunit also interacts with another small subunit, TAF13, to form a heterodimer with a structure similar to the histone core structure. In molecular biology, TAFII28 refers to the TATA box binding protein associated factor. Together with the TATA-binding protein and other TAFs it forms the general transcription factor, TFIID. They together participate in the assembly of the transcription preinitiation complex. The conserved region is found at the C terminus of most member proteins.",
+            "score": 235.38793087005615
+        },
+        {
+            "docid": "14725639_3",
+            "document": "PSMC2 . The gene \"PSMC2\" encodes one of the ATPase subunits, a member of the triple-A family of ATPases which have a chaperone-like activity. This subunit has been shown to interact with several of the basal transcription factors so, in addition to participation in proteasome functions, this subunit may participate in the regulation of transcription. This subunit may also compete with PSMC3 for binding to the HIV tat protein to regulate the interaction between the viral protein and the transcription complex. The human \"PSMC2\" gene has 13 exons and locates at chromosome band 7q22.1-q22.3.",
+            "score": 202.2896089553833
+        },
+        {
+            "docid": "15030948_4",
+            "document": "TRIM32 . The protein localizes to cytoplasmic bodies. The protein has also been localized to the nucleus, where it interacts with the activation domain of the HIV-1 Tat protein. The Tat protein activates transcription of HIV-1 genes.",
+            "score": 157.5911567211151
+        },
+        {
+            "docid": "3233135_5",
+            "document": "TATA-binding protein . TBP is a subunit of the eukaryotic transcription factor TFIID. TFIID is the first protein to bind to DNA during the formation of the pre-initiation transcription complex of RNA polymerase II (RNA Pol II). Binding of TFIID to the TATA box in the promoter region of the gene initiates the recruitment of other factors required for RNA Pol II to begin transcription. Some of the other recruited transcription factors include TFIIA, TFIIB, and TFIIF. Each of these transcription factors is formed from the interaction of many protein subunits, indicating that transcription is a heavily regulated process.",
+            "score": 245.25503993034363
+        },
+        {
+            "docid": "14170_10",
+            "document": "HIV . The RNA genome consists of at least seven structural landmarks (LTR, TAR, RRE, PE, SLIP, CRS, and INS), and nine genes (\"gag\", \"pol\", and \"env\", \"tat\", \"rev\", \"nef\", \"vif\", \"vpr\", \"vpu\", and sometimes a tenth \"tev\", which is a fusion of \"tat\", \"env\" and \"rev\"), encoding 19 proteins. Three of these genes, \"gag\", \"pol\", and \"env\", contain information needed to make the structural proteins for new virus particles. For example, \"env\" codes for a protein called gp160 that is cut in two by a cellular protease to form gp120 and gp41. The six remaining genes, \"tat\", \"rev\", \"nef\", \"vif\", \"vpr\", and \"vpu\" (or \"vpx\" in the case of HIV-2), are regulatory genes for proteins that control the ability of HIV to infect cells, produce new copies of virus (replicate), or cause disease.",
+            "score": 188.67678892612457
+        },
+        {
+            "docid": "3113700_2",
+            "document": "Catabolite activator protein . Catabolite activator protein (CAP; also known as cAMP receptor protein, CRP) is a trans-acting transcriptional activator that exists as a homodimer in solution. Each subunit of CAP is composed of a ligand-binding domain at the N-terminus (CAP, residues 1-138) and a DNA-binding domain at the C-terminus (DBD, residues 139-209). Two cAMP (cyclic AMP) molecules bind dimeric CAP with negative cooperativity. Cyclic AMP functions as an allosteric effector by increasing CAP's affinity for DNA. CAP binds a DNA region upstream from the DNA binding site of RNA Polymerase. CAP activates transcription through protein-protein interactions with the \u03b1-subunit of RNA Polymerase. This protein-protein interaction is responsible for (i) catalyzing the formation of the RNAP-promoter closed complex; and (ii) isomerization of the RNAP-promoter complex to the open confirmation. CAP's interaction with RNA polymerase causes bending of the DNA near the transcription start site, thus effectively catalyzing the transcription initiation process. CAP's name is derived from its ability to affect transcription of genes involved in many catabolic pathways. For example, when the amount of glucose transported into the cell is low, a cascade of events results in the increase of cytosolic cAMP levels. This increase in cAMP levels is sensed by CAP, which goes on to activate the transcription of many other catabolic genes.",
+            "score": 210.49763226509094
+        },
+        {
+            "docid": "29962775_11",
+            "document": "Protein phosphatase 1 . Regulation of HIV-1 transcription by Protein Phosphatase 1 (PP1). It has been recognized that protein phosphatase-1 (PP1) serves as an important regulator of HIV-1 transcription. Researchers at Howard University showed that Tat protein targets PP1 to the nucleus and the consequent interaction is important for HIV-1 transcription. The protein also contributes to ebolavirus pathogenesis by dephosphorylating the viral transcription activator VP30, allowing it to produce viral mRNAs. Inhibition of PP1 prevents VP30 dephosphorylation, thus preventing manufacture of viral mRNA, and thus viral protein. The viral L polymerase is, however, still capable of replicating viral genomes without VP30 dephosphorylation by PP1.",
+            "score": 151.67752158641815
+        },
+        {
+            "docid": "25428989_6",
+            "document": "Homeotic selector gene . Homeotic selector genes encode regulatory DNA-binding proteins which are all related through a highly conserved DNA binding sequences called the homeobox (from which the \"Hox Complex\" name is derived from). Although each all of the DNA-binding complexes are conserved, each para-segment still has an individual identity. The proteins do not bind directly to the DNA, rather, they interact with other regulatory proteins which are already bound to DNA-binding complexes. Different interactions determine which DNA binding sites are recognized and subsequently activated or repressed. Homeotic selector proteins combine in different combinations with regulatory proteins to give each parasegment its identity.  Certain signals set up the spatial pattern of expression of the Hox complex early in development. The Hox complex acts like a stamp, giving cells in each segment a long term positional value. The cell memory of a given positional value depends on two inputs, the first being the ability of many Hox proteins to autoactivate their own transcription, and the second derived from two large groups of transcriptional regulators: The Polycomb group and the Trithorax group. A defect in either of these regulators results in a pattern which is initially correct but is not maintained at later embryonic stages. The Polycomb and Trithorax regulators act in opposite ways. The Trithorax group maintains Hox transcription after transcription is already activated. The Polycomb group forms stable complexes that bind to the chromatin of Hox genes, and keep it in a repressed state at sites where Hox genes are not active.",
+            "score": 204.61559760570526
+        },
+        {
+            "docid": "14138517_3",
+            "document": "PSMC3 . The gene \"PSMC3\" encodes one of the ATPase subunits, a member of the triple-A family of ATPases that have chaperone-like activity. This subunit may compete with PSMC2 for binding to the HIV tat protein to regulate the interaction between the viral protein and the transcription complex. A pseudogene has been identified on chromosome 9. The human \"PSMC3\" gene has 12 exons and locates at chromosome band 11p11.2.",
+            "score": 181.9772572517395
+        },
+        {
+            "docid": "14795926_3",
+            "document": "TARBP2 . HIV-1, the causative agent of acquired immunodeficiency syndrome (AIDS), contains an RNA genome that produces a chromosomally integrated DNA during the replicative cycle. Activation of HIV-1 gene expression by the transactivator Tat is dependent on an RNA regulatory element (TAR) located downstream of the transcription initiation site. The protein encoded by this gene binds between the bulge and the loop of the HIV-1 TAR RNA regulatory element and activates HIV-1 gene expression in synergy with the viral Tat protein. Alternative splicing results in multiple transcript variants encoding different isoforms. This gene also has a pseudogene.",
+            "score": 204.36718440055847
+        },
+        {
+            "docid": "14170_11",
+            "document": "HIV . The two Tat proteins (p16 and p14) are transcriptional transactivators for the LTR promoter acting by binding the TAR RNA element. The TAR may also be processed into microRNAs that regulate the apoptosis genes ERCC1 and IER3. The Rev protein (p19) is involved in shuttling RNAs from the nucleus and the cytoplasm by binding to the RRE RNA element. The Vif protein (p23) prevents the action of APOBEC3G (a cellular protein that deaminates Cytidine to Uridine in the single stranded viral DNA and/or interferes with reverse transcription). The Vpr protein (p14) arrests cell division at G2/M. The Nef protein (p27) down-regulates CD4 (the major viral receptor), as well as the MHC class I and class II molecules.",
+            "score": 187.8303680419922
+        },
+        {
+            "docid": "14436014_3",
+            "document": "TAF1 . Initiation of transcription by RNA polymerase II requires the activities of more than 70 polypeptides. The protein that coordinates these activities is the basal transcription factor TFIID, which binds to the core promoter to position the polymerase properly, serves as the scaffold for assembly of the remainder of the transcription complex, and acts as a channel for regulatory signals. TFIID is composed of the TATA-binding protein (TBP) and a group of evolutionarily conserved proteins known as TBP-associated factors or TAFs. TAFs may participate in basal transcription, serve as coactivators, function in promoter recognition or modify general transcription factors (GTFs) to facilitate complex assembly and transcription initiation. This gene encodes the largest subunit of TFIID. This subunit binds to core promoter sequences encompassing the transcription start site. It also binds to activators and other transcriptional regulators, and these interactions affect the rate of transcription initiation. This subunit contains two independent protein kinase domains at the N and C-terminals, but also possesses acetyltransferase activity and can act as a ubiquitin-activating/conjugating enzyme. Two transcripts encoding different isoforms have been identified for this gene. Histones are often acetylated to open DNA for transcription. TAF1 contains two bromodomains, which each can bind one of two acetyllysine residues at position 5 and 12 in the H4 tail, to stabilize the TBP-TATA box complex.",
+            "score": 219.38455069065094
+        },
+        {
+            "docid": "9927027_3",
+            "document": "CREB-binding protein . This gene is ubiquitously expressed and is involved in the transcriptional coactivation of many different transcription factors. First isolated as a nuclear protein that binds to cAMP-response element-binding protein (CREB), this gene is now known to play critical roles in embryonic development, growth control, and homeostasis by coupling chromatin remodeling to transcription factor recognition. The protein encoded by this gene has intrinsic histone acetyltransferase activity and also acts as a scaffold to stabilize additional protein interactions with the transcription complex. This protein acetylates both histone and non-histone proteins. This protein shares regions of very high-sequence similarity with protein EP300 in its bromodomain, cysteine-histidine-rich regions, and histone acetyltransferase domain. Recent results suggest that novel CBP-mediated post-translational N-glycosylation activity alters the conformation of CBP-interacting proteins, leading to regulation of gene expression, cell growth and differentiation,",
+            "score": 200.47076606750488
+        },
+        {
+            "docid": "356382_3",
+            "document": "Gene regulatory network . The regulator can be DNA, RNA, protein and complexes of these. The interaction can be direct or indirect (through transcribed RNA or translated protein). In general, each mRNA molecule goes on to make a specific protein (or set of proteins). In some cases this protein will be structural, and will accumulate at the cell membrane or within the cell to give it particular structural properties. In other cases the protein will be an enzyme, i.e., a micro-machine that catalyses a certain reaction, such as the breakdown of a food source or toxin. Some proteins though serve only to activate other genes, and these are the transcription factors that are the main players in regulatory networks or cascades. By binding to the promoter region at the start of other genes they turn them on, initiating the production of another protein, and so on. Some transcription factors are inhibitory.",
+            "score": 216.06153178215027
+        },
+        {
+            "docid": "45052650_8",
+            "document": "Gene gating . Spt-Ada-Gcn5 acetyltransferase (SAGA) is a histone modifying transcriptional co-activator that is composed of 21 proteins and exhibits histone acetyltransferase (HAT) and deubiquitinating (DUB) activity. In yeast the SAGA complex serves to activate the transcription of approximately 10% of the genome, and this active gene/SAGA complex is then able to interact with the TREX-2 complex, a NPC-associated mRNA export complex. Numerous proteins involved in the formation of mRNA interact with the NPC, with the majority of these protein-protein interactions occurring between the SAGA complex and the TREX-2 complex at the NPC. Correct transcription and subsequent export of mRNA is largely dependent on this interaction. A common protein subunit of both the SAGA and TREX-2 complexes, Sus1, binds to the upstream activating sequence via SAGA, which then serves as the attachment point to the TREX-2 complex. The interacting surfaces between Sus1 and the TREX-2 complex are facilitated by the protein subunits Mex67 and Yra1 of the TREX-2 complex, as evidenced by co-immunoprecipitation experiments. The TREX-2 complex is bound to the NPC complex by the nucleoporin Nup1. All TREX-2 subunits are necessary for the successful formation and export of an mRNA transcript at the nuclear membrane for genes activated by the SAGA complex, and data suggest that SAGA and TREX-2 act in concert to recruit Sus1 to genes to be transcribed. Other investigations have shown that several SAGA subunits interact with the NPC protein Mlp1, providing another link between the NPC and the SAGA/active gene complex.",
+            "score": 181.93049836158752
+        },
+        {
+            "docid": "14723122_3",
+            "document": "KAT5 . The protein encoded by this gene belongs to the MYST family of histone acetyl transferases (HATs) and was originally isolated as an HIV-1 TAT-interactive protein. HATs play important roles in regulating chromatin remodeling, transcription and other nuclear processes by acetylating histone and nonhistone proteins. This protein is a histone acetylase that has a role in DNA repair and apoptosis and is thought to play an important role in signal transduction. Alternative splicing of this gene results in multiple transcript variants.",
+            "score": 155.42964553833008
+        },
+        {
+            "docid": "14760477_3",
+            "document": "TAF4 . Initiation of transcription by RNA polymerase II requires the activities of more than 70 polypeptides. The protein that coordinates these activities is transcription factor IID (TFIID), which binds to the core promoter to position the polymerase properly, serves as the scaffold for assembly of the remainder of the transcription complex, and acts as a channel for regulatory signals. TFIID is composed of the TATA-binding protein (TBP) and a group of evolutionarily conserved proteins known as TBP-associated factors or TAFs. TAFs may participate in basal transcription, serve as coactivators, function in promoter recognition or modify general transcription factors (GTFs) to facilitate complex assembly and transcription initiation. This gene encodes one of the larger subunits of TFIID that has been shown to potentiate transcriptional activation by retinoic acid, thyroid hormone and vitamin D receptors. In addition, this subunit interacts with the transcription factor CREB, which has a glutamine-rich activation domain, and binds to other proteins containing glutamine-rich regions. Aberrant binding to this subunit by proteins with expanded polyglutamine regions has been suggested as one of the pathogenetic mechanisms underlying a group of neurodegenerative disorders referred to as polyglutamine diseases.",
+            "score": 215.55411386489868
+        },
+        {
+            "docid": "14876023_3",
+            "document": "RFXANK . Major histocompatibility (MHC) class II molecules are transmembrane proteins that have a central role in development and control of the immune system. The protein encoded by this gene, along with regulatory factor X-associated protein and regulatory factor-5, forms a complex that binds to the X box motif of certain MHC class II gene promoters and activates their transcription. Once bound to the promoter, this complex associates with the non-DNA-binding factor MHC class II transactivator, which controls the cell type specificity and inducibility of MHC class II gene expression. This protein contains ankyrin repeats involved in protein-protein interactions. Mutations in this gene have been linked to bare lymphocyte syndrome type II, complementation group B. Two transcript variants encoding different isoforms have been described for this gene, with only one isoform showing activation activity.",
+            "score": 198.7187076807022
+        },
+        {
+            "docid": "20938024_10",
+            "document": "Tat (HIV) . The basic region of HIV-Tat protein is suggested to form an alpha helix. The basic region is involved in RNA (TAR, trans-activation response element) binding and Tat proteins thus belong to the family of arginine-rich motif (ARM) RNA binding proteins.",
+            "score": 179.229474067688
+        },
+        {
+            "docid": "55694123_6",
+            "document": "Avian paramyxovirus 2 . Paramyxoviruses only encode one RNA polymerase and it is believed that replication takes place in the cytoplasm of the cell, with no involvement or entry into the host cell nucleus. Little is understood as to how the polymerase assists in both viral replication and transcription and how these processes can be regulated. The encoded polymerase consists of two proteins, a large subunit responsible for RNA synthesis and capping, and the encoded protein phosphoprotein (P) which acts as a cofactor. As described, the viral genome includes intergenic regions between the viral genes with specific start and stop signals. The polymerase recognizes these cis-acting elements within the viral genome and initiates transcription. Transcription first begins at the 3' end of the genome at a 40-55 nucleotide long promoter region. The polymerase produces subgenomic RNAs by transcribing each gene, releasing the produced RNA and then locating the next gene for transcription by the cis-acting elements present in the genome. The signal at which the polymerase releases the transcribed RNA of a single gene is believed to contain a Poly U tract, leading to the capping of a poly(A) tail to the transcribed RNA. In contrast to producing viral mRNA for viral protein synthesis, when replicating the viral genome, the polymerase does not start and stop at the indicated cis-acting elements between each gene. Instead, the polymerase elongates the RNA along the entire length of the genome. Described above is one model for the hypothesized viral replication and protein production of paramyxoviruses, however, other models exist that suggest the polymerase initiates replication and transcription at different areas in the genome.",
+            "score": 204.41301822662354
+        },
+        {
+            "docid": "4109042_20",
+            "document": "Cell signaling . A more complex signal transduction pathway is shown in Figure 3. This pathway involves changes of protein\u2013protein interactions inside the cell, induced by an external signal. Many growth factors bind to receptors at the cell surface and stimulate cells to progress through the cell cycle and divide. Several of these receptors are kinases that start to phosphorylate themselves and other proteins when binding to a ligand. This phosphorylation can generate a binding site for a different protein and thus induce protein\u2013protein interaction. In Figure 3, the ligand (called epidermal growth factor (EGF)) binds to the receptor (called EGFR). This activates the receptor to phosphorylate itself. The phosphorylated receptor binds to an adaptor protein (GRB2), which couples the signal to further downstream signaling processes. For example, one of the signal transduction pathways that are activated is called the mitogen-activated protein kinase (MAPK) pathway. The signal transduction component labeled as \"MAPK\" in the pathway was originally called \"ERK,\" so the pathway is called the MAPK/ERK pathway. The MAPK protein is an enzyme, a protein kinase that can attach phosphate to target proteins such as the transcription factor MYC and, thus, alter gene transcription and, ultimately, cell cycle progression. Many cellular proteins are activated downstream of the growth factor receptors (such as EGFR) that initiate this signal transduction pathway.",
+            "score": 202.37451469898224
+        },
+        {
+            "docid": "14723679_3",
+            "document": "MED1 . The activation of gene transcription is a multistep process that is triggered by factors that recognize transcriptional enhancer sites in DNA. These factors work with co-activators to direct transcriptional initiation by the RNA polymerase II apparatus. The mediator of RNA polymerase II transcription subunit 1 protein is a subunit of the CRSP (cofactor required for SP1 activation) complex, which, along with TFIID, is required for efficient activation by SP1. This protein is also a component of other multisubunit complexes [e.g., thyroid hormone receptor-(TR-) associated proteins that interact with TR and facilitate TR function on DNA templates in conjunction with initiation factors and cofactors]. It also regulates p53-dependent apoptosis and it is essential for adipogenesis. This protein is known to have the ability to self-oligomerize.",
+            "score": 212.780668258667
+        }
+    ],
+    "r": [
+        {
+            "docid": "20938024_7",
+            "document": "Tat (HIV) . Tat protein also associates with RNA polymerase II complexes during early transcription elongation after the promoter clearance and before the synthesis of full-length TAR RNA transcript. This interaction of Tat with RNA polymerase II elongation complexes is P-TEFb-independent. There are two Tat binding sites on each transcription elongation complex; one is located on TAR RNA and the other one on RNA polymerase II near the exit site for nascent mRNA transcripts which suggests that two Tat molecules are involved in performing various functions during a single round of HIV-1 mRNA synthesis.",
+            "score": 309.0841979980469
+        },
+        {
+            "docid": "10093384_3",
+            "document": "P-TEFb . P-TEFb was identified and purified as a factor needed for the generation of long run-off transcripts using an in vitro transcription system derived from Drosophila cells. It is a cyclin dependent kinase containing the catalytic subunit, Cdk9, and a regulatory subunit, cyclin T in Drosophila. In humans there are multiple forms of P-TEFb which contain Cdk9 and one of several cyclin subunits, cyclin T1, T2, and K. P-TEFb associates with other factors including the bromodomain protein BRD4, and is found associated with a large complex of proteins called the super elongation complex. Importantly, for the AIDS virus, HIV, P-TEFb is targeted by the HIV Tat protein which bypasses normal cellular P-TEFb control and directly brings P-TEFb to the promoter proximal paused polymerase in the HIV genome.",
+            "score": 299.8302307128906
+        },
+        {
+            "docid": "12303217_3",
+            "document": "Cyclin-dependent kinase 9 . The protein encoded by this gene is a member of the cyclin-dependent kinase (CDK) family. CDK family members are highly similar to the gene products of S. cerevisiae cdc28, and S. pombe cdc2, and known as important cell cycle regulators. This kinase was found to be a component of the multiprotein complex TAK/P-TEFb, which is an elongation factor for RNA polymerase II-directed transcription and functions by phosphorylating the C-terminal domain of the largest subunit of RNA polymerase II. This protein forms a complex with and is regulated by its regulatory subunit cyclin T or cyclin K. HIV-1 Tat protein was found to interact with this protein and cyclin T, which suggested a possible involvement of this protein in AIDS.",
+            "score": 288.152587890625
+        },
+        {
+            "docid": "20938024_6",
+            "document": "Tat (HIV) . Like other lentiviruses, HIV-1 encodes a trans-activating regulatory protein (Tat), which is essential for efficient transcription of the viral genome. Tat acts by binding to an RNA stem-loop structure, the trans-activating response element (TAR), found at the 5\u2032 ends of nascent HIV-1 transcripts. In binding to TAR, Tat alters the properties of the transcription complex, recruits the positive transcription elongation complex (P-TEFb) of cellular CDK9 and cyclin T1, and hence increases the production of full-length viral RNA.",
+            "score": 282.64642333984375
+        },
+        {
+            "docid": "9955145_20",
+            "document": "Eukaryotic transcription . Among the proteins recruited to polymerase are elongation factors, thus called because they stimulate transcription elongation. There are different classes of elongation factors. Some factors can increase the overall rate of transcribing, some can help the polymerase through transient pausing sites, and some can assist the polymerase to transcribe through chromatin. One of the elongation factors, P-TEFb, is particularly important. P-TEFb phosphorylates the second residue (Ser-2) of the CTD repeats (YSPTSPS) of the bound Pol II. P-TEFb also phosphorylates and activates SPT5 and TAT-SF1. SPT5 is a universal transcription factor that helps recruit 5'-capping enzyme to Pol II with a CTD phosphorylated at Ser-5. TAF-SF1 recruits components of the RNA splicing machinery to the Ser-2 phosphorylated CTD. P-TEFb also helps suppress transient pausing of polymerase when it encounters certain sequences immediately following initiation.",
+            "score": 275.97589111328125
+        },
+        {
+            "docid": "9955145_35",
+            "document": "Eukaryotic transcription . The elongation phase starts once assembly of the elongation complex has been completed, and progresses until a termination sequence is encountered. The post-initiation movement of RNA polymerase is the target of another class of important regulatory mechanisms. For example, the transcriptional activator Tat affects elongation rather than initiation during its regulation of HIV transcription. In fact, many eukaryotic genes are regulated by releasing a block to transcription elongation called promoter-proximal pausing. Pausing can influence chromatin structure at promoters to facilitate gene activity and lead to rapid or synchronous transcriptional responses when cells are exposed to an activation signal. Pausing is associated with the binding of two negative elongation factors, DSIF (SPT4/SPT5) and NELF, to the elongation complex. Other factors can also influence the stability and duration of the paused polymerase. Pause release is triggered by the recruitment of the P-TEFb kinase.",
+            "score": 273.0802307128906
+        },
+        {
+            "docid": "14026571_3",
+            "document": "Cyclin T1 . The protein encoded by this gene belongs to the highly conserved cyclin family, whose members are characterized by a dramatic periodicity in protein abundance through the cell cycle. Cyclins function as regulators of CDK kinases. Different cyclins exhibit distinct expression and degradation patterns that contribute to the temporal coordination of each mitotic event. This cyclin tightly associates with CDK9 kinase, and was found to be a major subunit of the transcription elongation factor p-TEFb. The kinase complex containing this cyclin and the elongation factor can interact with, and act as a cofactor of human immunodeficiency virus type 1 (HIV-1) Tat protein, and was shown to be both necessary and sufficient for full activation of viral transcription. This cyclin and its kinase partner were also found to be involved in the phosphorylation and regulation of the carboxy-terminal domain (CTD) of the largest RNA polymerase II subunit.",
+            "score": 272.6523742675781
+        },
+        {
+            "docid": "9955145_26",
+            "document": "Eukaryotic transcription . As Pol II reaches the end of a gene, two protein complexes carried by the CTD, CPSF (cleavage and polyadenylation specificity factor) and CSTF (cleavage stimulation factor), recognize the poly-A signal in the transcribed RNA. Poly-A-bound CPSF and CSTF recruit other proteins to carry out RNA cleavage and then polyadenylation. Poly-A polymerase adds approximately 200 adenines to the cleaved 3\u2019 end of the RNA without a template. The long poly-A tail is unique to transcripts made by Pol II. In the process of terminating transcription by Pol I and Pol II, the elongation complex does not dissolve immediately after the RNA is cleaved. The polymerase continues to move along the template, generating a second RNA molecule associated with the elongation complex. Two models have been proposed to explain how termination is achieved at last. The allosteric model states that when transcription proceeds through the termination sequence, it causes disassembly of elongation factors and/or an assembly of termination factors that cause conformational changes of the elongation complex. The torpedo model suggests that a 5' to 3' exonuclease degrades the second RNA as it emerges from the elongation complex. Polymerase is released as the highly processive exonuclease overtakes it. It is proposed that an emerging view will express a merge of these two models.",
+            "score": 265.9328918457031
+        },
+        {
+            "docid": "1226356_8",
+            "document": "Primary transcript . Activation of RNA polymerase activity to produce primary transcripts is often controlled by sequences of DNA called enhancers. Transcription factors, proteins that bind to DNA elements to either activate or repress transcription, bind to enhancers and recruit enzymes that alter nucleosome components, causing DNA to be either more or less accessible to RNA polymerase. The unique combinations of either activating or inhibiting transcription factors that bind to enhancer DNA regions determine whether or not the gene that enhancer interacts with is activated for transcription or not. Activation of transcription depends on whether or not the transcription elongation complex, itself consisting of a variety of transcription factors, can induce RNA polymerase to dissociate from the Mediator complex that connects an enhancer region to the promoter.",
+            "score": 260.79986572265625
+        },
+        {
+            "docid": "14765441_3",
+            "document": "RDBP . The protein encoded by this gene is part of a complex termed negative elongation factor (NELF) which represses RNA polymerase II transcript elongation. This protein bears similarity to nuclear RNA-binding proteins; however, it has not been demonstrated that this protein binds RNA. The protein contains a tract of alternating basic and acidic residues, largely arginine (R) and aspartic acid (D). The gene localizes to the major histocompatibility complex (MHC) class III region on chromosome 6.",
+            "score": 259.84918212890625
+        },
+        {
+            "docid": "1885649_16",
+            "document": "RNA polymerase II . RNA Polymerase II exists in two forms unphosphorylated and phosphorylated, IIA and IIO respectively. The transition between the two forms facilitates different functions for transcription. The phosphorylation of CTD is catalyzed by one of the six general transcription factors, TFIIH. TFIIH serves two purposes: one is to unwind the DNA at the transcription start site and the other is to phosphorylate. The form polymerase IIA joins the preinitiation complex, this is suggested because IIA binds with higher affinity to the TBP (TATA-box binding protein), the subunit of the general transcription factor TFIID, than polymerase IIO form. The form polymerase IIO facilitates the elongation of the RNA chain. The method for the elongation initiation is done by the phosphorylation of Serine at position 5 (ser5), via TFIIH. The newly phosphorylated Ser5 recruits enzymes to cap the 5' end of the newly synthesized RNA and the \"3' processing factors to poly(A) sites\". Once the second Serine is phosphorylated, Ser2, elongation is activated. In order to terminate elongation dephosphorylation must occur. Once the domain is completely dephosphorylated the RNAP II enzyme is \"recycled\" and catalyzes the same process with another initiation site.",
+            "score": 257.7861328125
+        },
+        {
+            "docid": "14799947_3",
+            "document": "Cyclin T2 . The protein encoded by this gene belongs to the highly conserved cyclin family, whose members are characterized by a dramatic periodicity in protein abundance through the cell cycle. Cyclins function as regulators of CDK kinases. Different cyclins exhibit distinct expression and degradation patterns which contribute to the temporal coordination of each mitotic event. This cyclin and its kinase partner CDK9 were found to be subunits of the transcription elongation factor p-TEFb. The p-TEFb complex containing this cyclin was reported to interact with, and act as a negative regulator of human immunodeficiency virus type 1 (HIV-1) Tat protein. Two alternatively spliced transcript variants, which encode distinct isoforms, have been described.",
+            "score": 256.091796875
+        },
+        {
+            "docid": "11420649_4",
+            "document": "7SK RNA . The major function of the 7SK snRNP is control of the P-TEFb, a factor that regulates the elongation phase of transcription. The kinase activity of P-TEFb is inhibited when the factor is in the 7SK snRNP. P-TEFb can be released from the 7SK snRNP by either the HIV transactivator Tat or the bromodomain containing protein BRD4. This release leads to a conformational change in 7SK RNA and the ejection of HEXIM. hnRNPs stabilize the complex lacking P-TEFb and HEXIM. After P-TEFb functions on specific genes it is re-sequestered in the 7SK snRNP by an unknown mechanism. The 7SK snRNP has been characterized in both human and Drosophila.  Detailed review.",
+            "score": 249.82342529296875
+        },
+        {
+            "docid": "3233135_5",
+            "document": "TATA-binding protein . TBP is a subunit of the eukaryotic transcription factor TFIID. TFIID is the first protein to bind to DNA during the formation of the pre-initiation transcription complex of RNA polymerase II (RNA Pol II). Binding of TFIID to the TATA box in the promoter region of the gene initiates the recruitment of other factors required for RNA Pol II to begin transcription. Some of the other recruited transcription factors include TFIIA, TFIIB, and TFIIF. Each of these transcription factors is formed from the interaction of many protein subunits, indicating that transcription is a heavily regulated process.",
+            "score": 245.2550506591797
+        },
+        {
+            "docid": "398124_10",
+            "document": "Transcriptional regulation . Once a polymerase is successfully bound to a DNA template, it often requires the assistance of other proteins in order to leave the stable promoter complex and begin elongating the nascent RNA strand. This process is called promoter escape, and is another step at which regulatory elements can act to accelerate or slow the transcription process. Similarly, protein and nucleic acid factors can associate with the elongation complex and modulate the rate at which the polymerase moves along the DNA template.",
+            "score": 241.94537353515625
+        },
+        {
+            "docid": "11420649_3",
+            "document": "7SK RNA . An early study indicated that 7SK in cells is associated with a number of proteins and probing of the secondary structure suggested a model for base pairing between different regions of the RNA. A breakthrough in the function of the 7SK snRNP came with the finding that the positive transcription elongation factor P-TEFb was a component of the complex. 7SK associates with and inhibits the cyclin dependent kinase activity of P-TEFb through the action of the RNA binding proteins HEXIM1 or HEXIM2. The gamma phosphate at the 5' end of 7SK is methylated by the methylphosphate capping enzyme MEPCE which is a constitutive component of the 7SK snRNP. A La related protein LARP7 is also found associated with 7SK, presumably in part through its interaction with the 3' end of the RNA. Reduction of either MEPCE or LARP7 by siRNA mediated knockdown leads to destabilization of 7SK in vivo. A subset of 7SK snRNPs lack P-TEFb and HEXIM, but contains hnRNPs instead.",
+            "score": 241.89451599121094
+        },
+        {
+            "docid": "15227236_3",
+            "document": "MED26 . MED26 is a transcription elongation factor that increases the overall transcription rate of RNA polymerase II by reactivating transcription elongation complexes that have arrested transcription. It does this through recruiting ELL/EAF- and P-TEFb- containing complexes to promoters via a direct interaction with the N-terminal domain (NTD). The MED26 NTD also binds TFIID, and TFIID and elongation complexes interact with MED26 through overlapping binding sites.",
+            "score": 238.86273193359375
+        },
+        {
+            "docid": "14164857_3",
+            "document": "TCEB1 . This gene encodes the protein elongin C, which is a subunit of the transcription factor B (SIII) complex. The SIII complex is composed of elongins A/A2, B and C. It activates elongation by RNA polymerase II by suppressing transient pausing of the polymerase at many sites within transcription units. Elongin A functions as the transcriptionally active component of the SIII complex, whereas elongins B and C are regulatory subunits. Elongin A2 is specifically expressed in the testis, and capable of forming a stable complex with elongins B and C. The von Hippel-Lindau tumor suppressor protein binds to elongins B and C, and thereby inhibits transcription elongation.",
+            "score": 237.79978942871094
+        },
+        {
+            "docid": "14166184_3",
+            "document": "TCEB2 . This gene encodes the protein elongin B, which is a subunit of the transcription factor B (SIII) complex. The SIII complex is composed of elongins A/A2, B and C. It activates elongation by RNA polymerase II by suppressing transient pausing of the polymerase at many sites within transcription units. Elongin A functions as the transcriptionally active component of the SIII complex, whereas elongins B and C are regulatory subunits. Elongin A2 is specifically expressed in the testis, and capable of forming a stable complex with elongins B and C. The von Hippel-Lindau tumor suppressor protein binds to elongins B and C, and thereby inhibits transcription elongation. Two alternatively spliced transcript variants encoding different isoforms have been described for this gene.",
+            "score": 237.41090393066406
+        },
+        {
+            "docid": "32644454_2",
+            "document": "EAF family . In molecular biology, the EAF family of proteins act as transcriptional transactivators of ELL and ELL2 RNA Polymerase II (Pol II) transcriptional elongation factors . EAF proteins form a stable heterodimer complex with ELL proteins to facilitate the binding of RNA polymerase II to activate transcription elongation. ELL and EAF1 are components of Cajal bodies, which have a role in leukemogenesis. EAF1 also has the capacity to interact with ELL1 and ELL2. The N terminus of approx 120 of EAF1 has a region of high serine, aspartic acid, and glutamic acid residues.",
+            "score": 236.9985809326172
+        },
+        {
+            "docid": "14774820_3",
+            "document": "TAF11 . Initiation of transcription by RNA polymerase II requires the activities of more than 70 polypeptides. The protein that coordinates these activities is transcription factor IID (TFIID), which binds to the core promoter to position the polymerase properly, serves as the scaffold for assembly of the remainder of the transcription complex, and acts as a channel for regulatory signals. TFIID is composed of the TATA-binding protein (TBP) and a group of evolutionarily conserved proteins known as TBP-associated factors or TAFs. TAFs may participate in basal transcription, serve as coactivators, function in promoter recognition or modify general transcription factors (GTFs) to facilitate complex assembly and transcription initiation. This gene encodes a small subunit of TFIID that is present in all TFIID complexes and interacts with TBP. This subunit also interacts with another small subunit, TAF13, to form a heterodimer with a structure similar to the histone core structure. In molecular biology, TAFII28 refers to the TATA box binding protein associated factor. Together with the TATA-binding protein and other TAFs it forms the general transcription factor, TFIID. They together participate in the assembly of the transcription preinitiation complex. The conserved region is found at the C terminus of most member proteins.",
+            "score": 235.387939453125
+        },
+        {
+            "docid": "14815526_3",
+            "document": "TCEA2 . The protein encoded by this gene is found in the nucleus, where it functions as an SII class transcription elongation factor. Elongation factors in this class are responsible for releasing RNA polymerase II ternary complexes from transcriptional arrest at template-encoded arresting sites. The encoded protein has been shown to interact with general transcription factor IIB, a basal transcription factor. Two transcript variants encoding different isoforms have been found for this gene.",
+            "score": 231.72544860839844
+        },
+        {
+            "docid": "497747_5",
+            "document": "Terminator (genetics) . Intrinsic transcription terminators or Rho-independent terminators require the formation of a self-annealing hairpin structure on the elongating transcript, which results in the disruption of the mRNA-DNA-RNA polymerase ternary complex. The terminator sequence in DNA contains a 20 basepair GC-rich region of dyad symmetry followed by a short poly-T tract or \"T stretch\" which is transcribed to form the terminating hairpin and a 7\u20139 nucleotide \"U tract\" respectively. The mechanism of termination is hypothesized to occur through a combination of direct promotion of dissociation through allosteric effects of hairpin binding interactions with the RNA polymerase and \"competitive kinetics\". The hairpin formation causes RNA polymerase stalling and destabilization, leading to a greater likelihood that dissociation of the complex will occur at that location due to an increased time spent paused at that site and reduced stability of the complex. Additionally, the elongation protein factor NusA interacts with the RNA polymerase and the hairpin structure to stimulate transcriptional termination.",
+            "score": 230.23199462890625
+        },
+        {
+            "docid": "1138554_16",
+            "document": "SR protein . RNA polymerase II moves from initiation to elongation once P-TEFb kinase phosphorylates Ser5 and Ser2 on RNA polymerase II. SR proteins interact with CDK9, the kinase component of P-TEFb leading to the phosphorylation of Ser2. SR proteins bind to the phosphorylated Ser2 on the CTD. The positioning of SR proteins on the RNA polymerase II allows the SR proteins to \"see\" the new RNA transcript first. SR proteins then moves from the RNA polymerase II to the pre-mRNA transcript.",
+            "score": 230.18992614746094
+        },
+        {
+            "docid": "14146370_3",
+            "document": "SKP1A . This gene encodes a protein that is a member of the SCF ubiquitin ligase protein complex. It binds to F-box proteins (proteins containing an F-box motif), such as cyclin F, S-phase kinase-associated protein 2, and other regulatory proteins involved in ubiquitin dependent proteolysis. The encoded protein also collaborates with a network of proteins to control beta-catenin levels and affects the activity level of beta-catenin dependent TCF transcription factors. Studies have also characterized the protein as an RNA polymerase II elongation factor. Alternative splicing of this gene results in two transcript variants. A related pseudogene has been identified on chromosome 7.",
+            "score": 229.40379333496094
+        },
+        {
+            "docid": "3233135_2",
+            "document": "TATA-binding protein . The TATA-binding protein (TBP) is a general transcription factor that binds specifically to a DNA sequence called the TATA box. This DNA sequence is found about 30 base pairs upstream of the transcription start site in some eukaryotic gene promoters. TBP, along with a variety of TBP-associated factors, make up the TFIID, a general transcription factor that in turn makes up part of the RNA polymerase II preinitiation complex. As one of the few proteins in the preinitiation complex that binds DNA in a sequence-specific manner, it helps position RNA polymerase II over the transcription start site of the gene. However, it is estimated that only 10\u201320% of human promoters have TATA boxes. Therefore, TBP is probably not the only protein involved in positioning RNA polymerase II.",
+            "score": 227.4619903564453
+        },
+        {
+            "docid": "9955145_22",
+            "document": "Eukaryotic transcription . Transcription elongation is not a smooth ride along the DNA railway. For proofreading, the polymerase is made to back-up, erase some of the RNA it has already made and have another go at transcription. In general, RNA polymerase does not transcribe through a gene at a constant pace. Rather it pauses periodically at certain sequences, sometimes for long periods of time before resuming transcription. In extreme cases, for example, when the polymerase encounters a damaged nucleotide, it comes to a complete halt. More often, an elongating polymerase is stalled near the promoter. Promoter-proximal pausing during early elongation is a commonly used mechanism for regulating genes poised to be expressed rapidly or in a coordinated fashion. Pausing is mediated by a complex called NELF (negative elongation factor) in collaboration with DSIF (DRB-sensitivity-inducing factor containing SPT4/SPT5). The blockage is released once the polymerase receives an activation signal, such as the phosphorylation of Ser-2 of CTD tail by P-TEFb. Other elongation factors such as ELL and TFIIS stimulate the rate of elongation by limiting the length of time that polymerase pauses.",
+            "score": 226.3085174560547
+        },
+        {
+            "docid": "9955145_3",
+            "document": "Eukaryotic transcription . Transcription is the process of copying genetic information stored in a DNA strand into a transportable complementary strand of RNA. Eukaryotic transcription takes place in the nucleus of the cell and proceeds in three sequential stages: initiation, elongation, and termination. The transcriptional machinery that catalyzes this complex reaction has at its core three multi-subunit RNA polymerases. RNA polymerase I is responsible for transcribing RNA that codes for genes that become structural components of the ribosome. Protein coding genes are transcribed into messenger RNAs (mRNAs) that carry the information from DNA to the site of protein synthesis. Although mRNAs possess great diversity, they are not the most abundant RNA species made in the cell. The so-called non-coding RNAs account for the large majority of the transcriptional output of a cell. These non-coding RNAs perform a variety of important cellular functions.",
+            "score": 224.94534301757812
+        },
+        {
+            "docid": "11420649_2",
+            "document": "7SK RNA . In molecular biology 7SK is an abundant small nuclear RNA found in metazoans. It plays a role in regulating transcription by controlling the positive transcription elongation factor P-TEFb. 7SK is found in a small nuclear ribonucleoprotein complex (snRNP) with a number of other proteins that regulate the stability and function of the complex.",
+            "score": 224.4812774658203
+        },
+        {
+            "docid": "9516673_4",
+            "document": "RNA activation . The molecular mechanism of RNAa is not fully understood. Similar to RNAi, it has been shown that mammalian RNAa requires members of the Ago clade of Argonaute proteins, particularly Ago2, but possesses kinetics distinct from RNAi. In contrast to RNAi, promoter-targeted agRNAs induce prolonged activation of gene expression associated with epigenetic changes. It is currently suggested that saRNAs are first loaded and processed by an Ago protein to form an Ago-RNA complex which is then guided by the RNA to its promoter target. The target can be a non-coding transcript overlapping the promoter or the chromosomal DNA. The RNA-loaded Ago then recruits other proteins such as RHA, also known as nuclear DNA helicase II, and CTR9 to form an RNA-induced transcriptional activation (RITA) complex. RITA can directly interacts with RNAP II to stimulate transcription initiation and productive transcription elongation which is related to increased ubiquitination of H2B.. In C. elegans, Turner et al. recently identified a conserved miRNA (lin-4 microRNA) which acts endogenously to activate gene expression .",
+            "score": 224.23410034179688
+        },
+        {
+            "docid": "26378_10",
+            "document": "Rift Valley fever . Although many components of the RVFV\u2019s RNA play an important role in the virus\u2019 pathology, the nonstructural protein encoded on the S segment (NSs) is the only component that has been found to directly affect the host. NSs is hostile and combative against the hosts interferon (IFNs) antiviral response. IFNs are essential in order for the immune system to fight off viral infections in a host. This inhibitory mechanism is believed to be due to a number of reasons, the first being, competitive inhibition of the formation of the transcription factor. On this transcription factor, NSs interacts with and binds to a subunit that is needed for RNA polymerase I and II. This interaction cause competitive inhibition with another transcription factor component and prevents the assembly process of the transcription factor complex, which results in the suppression of the host antiviral response. Transcription suppression is believed to be another mechanism of this inhibitory process. This occurs when an area of NSs interacts with and binds to the host\u2019s protein, SAP30 and forms a complex. This complex causes histone acetylation to regress, which is needed for transcriptional activation of the IFN promoter. This causes IFN expression to be obstructed. Lastly, NSs has also been known to affect regular activity of double-stranded RNA-dependent protein kinase R.. This protein is involved in cellular antiviral responses in the host. When RVFV is able to enter the hosts DNA, NSs forms a filamentous structure in the nucleus. This allows the virus to interact with specific areas of the hosts DNA that relates to segregation defects and induction of chromosome continuity. This increases host infectivity and decreases the host\u2019s antiviral response.",
+            "score": 223.72488403320312
+        },
+        {
+            "docid": "4021238_2",
+            "document": "Transcription factor II D . Transcription factor II D (TFD) is one of several general transcription factors that make up the RNA polymerase II preinitiation complex. RNA polymerase II holoenzyme is a form of eukaryotic RNA polymerase II that is recruited to the promoters of protein-coding genes in living cells. It consists of RNA polymerase II, a subset of general transcription factors, and regulatory proteins known as SRB proteins. Before the start of transcription, the transcription Factor II D (TFIID) complex binds to the TATA box in the core promoter of the gene.",
+            "score": 223.62132263183594
+        }
+    ]
+}

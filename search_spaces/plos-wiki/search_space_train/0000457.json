@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "10213576_16",
+            "document": "Stem-cell niche . As the \"Drosophila\" female ages, the stem cell niche undergoes age-dependent loss of GSC presence and activity. These losses are thought to be caused in part by degradation of the important signaling factors from the niche that maintains GSCs and their activity. Progressive decline in GSC activity contributes to the observed reduction in fecundity of \"Drosophila melanogaster\" at old age; this decline in GSC activity can be partially attributed to a reduction of signaling pathway activity in the GSC niche. It has been found that there is a reduction in Dpp and Gbb signaling through aging. In addition to a reduction in niche signaling pathway activity, GSCs age cell-autonomously. In addition to studying the decline of signals coming from the niche, GSCs age intrinsically; there is age-dependent reduction of adhesion of GSCs to the cap cells and there is accumulation of Reactive Oxygen species (ROS) resulting in cellular damage which contributes to GSC aging. There is an observed reduction in the number of cap cells and the physical attachment of GSCs to cap cells through aging. \"Shg\" is expressed at significantly lower levels in an old GSC niche in comparison to a young one.",
+            "score": 167.0018470287323
+        },
+        {
+            "docid": "10213576_14",
+            "document": "Stem-cell niche . Both diet and insulin-like signaling directly control GSC proliferation in \"Drosophila melanogaster\". Increasing levels of \"Drosophila\" insulin-like peptide (DILP) through diet results in increased GSC proliferation. Up-regulation of DILPs in aged GSCs and their niche results in increased maintenance and proliferation. It has also been shown that DILPs regulate cap cell quantities and regulate the physical attachment of GSCs to cap cells.",
+            "score": 150.56855535507202
+        },
+        {
+            "docid": "10213576_17",
+            "document": "Stem-cell niche . Males of \"Drosophila melanogaster\" each have two testes \u2013 long, tubular, coiled structures \u2013 and at the anterior most tip of each lies the GSC niche. The testis GSC niche is built around a population of non-mitotic hub cells (a.k.a. niche cells), to which two populations of stem cells adhere: the GSCs and the somatic stem cells (SSCs, a.k.a. somatic cyst stem cells/cyst stem cells). Each GSC is enclosed by a pair of SSCs, though each stem cell type is still in contact with the hub cells. In this way, the stem cell niche consists of these three cell types, as not only do the hub cells regulate GSC and SSC behaviour, but the stem cells also regulate the activity of each other. The Drosophila testis GSC niche has proven a valuable model system for examining a wide range of cellular processes and signalling pathways.",
+            "score": 140.49512672424316
+        },
+        {
+            "docid": "10213576_19",
+            "document": "Stem-cell niche . The two main molecular signalling pathways regulating stem cell behaviour in the testis GSC niche are the Jak-STAT and BMP signalling pathways. Jak-STAT signalling originates in the hub cells, where the ligand Upd is secreted to the GSCs and SSCs. This leads to activation of the \"Drosophila\" STAT, Stat92E, a transcription factor which effects GSC adhesion to the hub cells, and SSC self-renewal via Zfh-1. Jak-STAT signalling also influences the activation of BMP signalling, via the ligands Dpp and Gbb. These ligands are secreted into the GSCs from the SSCs and hub cells, activate BMP signalling, and suppress the expression of Bam, a differentiation factor. Outside of the niche, gonialblasts no longer receive BMP ligands, and are free to begin their differentiation program. Other important signalling pathways include the MAPK and Hedgehog, which regulate germline enclosure and somatic cell self-renewal, respectively.",
+            "score": 140.52202916145325
+        },
+        {
+            "docid": "10213576_10",
+            "document": "Stem-cell niche . Germline stem cells (GSCs) are found in organisms that continuously produce sperm and eggs until they are sterile. These specialized stem cells reside in the GSC niche, the initial site for gamete production, which is composed of the GSCs, somatic stem cells, and other somatic cells. In particular, the GSC niche is well studied in the genetic model organism \"Drosophila melanogaster\" and has provided an extensive understanding of the molecular basis of stem cell regulation.",
+            "score": 117.18836069107056
+        },
+        {
+            "docid": "10213576_11",
+            "document": "Stem-cell niche . In \"Drosophila melanogaster\", the GSC niche resides in the anterior-most region of each ovariole, known as the germarium. The GSC niche consists of necessary somatic cells-terminal filament cells, cap cells, escort cells, and other stem cells which function to maintain the GSCs. The GSC niche holds on average 2\u20133 GSCs, which are directly attached to somatic cap cells and Escort stem cells, which send maintenance signals directly to the GSCs. GSCs are easily identified through histological staining against vasa protein (to identify germ cells) and 1B1 protein (to outline cell structures and a germline specific fusome structure). Their physical attachment to the cap cells is necessary for their maintenance and activity. A GSC will divide asymmetrically to produce one daughter cystoblast, which then undergoes 4 rounds of incomplete mitosis as it progresses down the ovariole (through the process of oogenesis) eventually emerging as a mature egg chamber; the fusome found in the GSCs functions in cyst formation and may regulate asymmetrical cell divisions of the GSCs. Because of the abundant genetic tools available for use in \"Drosophila melanogaster\" and the ease of detecting GSCs through histological stainings, researchers have uncovered several molecular pathways controlling GSC maintenance and activity.",
+            "score": 137.9731090068817
+        },
+        {
+            "docid": "7115286_13",
+            "document": "Asymmetric cell division . In addition to the aforementioned Drosophila neuronal example, it was proposed that the macrosensory organs of the Drosophila, specifically the glial cells, also arise from a similar set of asymmetric division from a single progenitor cell via regulation of the Notch signaling pathway and transcription factors. An example of how extrinsic factors bring about this phenomenon is the physical displacement of one of the daughter cells out of the original stem cell niche, exposing it to signalling molecules such as chondroitin sulfate. In this manner, the daughter cell is forced to interact with the heavily sulfated molecules, which stimulate it to differentiate while the other daughter cell remains in the original niche in a quiescent state.",
+            "score": 116.97139954566956
+        },
+        {
+            "docid": "14581958_15",
+            "document": "LGR5 . The cancer stem cell hypothesis states that a dedicated small population of cancerous stem cells that manages to evade anti-cancer therapy maintains benign and malignant tumours. This explains recurring malignancies even after surgical removal of the tumours. LGR5 stem cells were identified to fuel stem cell activity in murine intestinal adenomas via erroneous activation of the pro-cell cycle Wnt signalling pathway as a result of successive mutations, such as formation of adenoma via Adenomatous polyposis coli (APC) mutation. Studies on LGR5 in colorectal cancer revealed a rather perplexing mechanism: loss of LGR5 actually increased tumourigenicity and invasion whereas overexpression results a reduction in tumourigenicity and clonogenicity. This implies that LGR5 is not an oncogene but a tumor suppressor gene, and that its main role is delimiting stem cell expansion in their respective niches. Varying expression profile of LGR5 was also observed in different stages of gastrointestinal cancers, which suggests that the histoanatomical distribution of LGR5 stem cells determine how the cancer advances. Densitometry results of LGR5 expression by western blotting in the different cell lines showed that high LGR5 expression levels were apparent in BHK, AGS, VERO and NIH3T3 cell lines compared with the other cell lines.",
+            "score": 76.43649983406067
+        },
+        {
+            "docid": "27783_34",
+            "document": "Stem cell . An alternative theory is that stem cells remain undifferentiated due to environmental cues in their particular niche. Stem cells differentiate when they leave that niche or no longer receive those signals. Studies in \"Drosophila\" germarium have identified the signals decapentaplegic and adherens junctions that prevent germarium stem cells from differentiating.",
+            "score": 90.10562348365784
+        },
+        {
+            "docid": "10213576_32",
+            "document": "Stem-cell niche . In accordance with the hierarchy model of tumours, the Cancer Stem Cells (CSC) are maintained by biochemical and physical contextual signals emanating from the microenvironment, called the cancer stem cell niche. The CSC niche is very similar to normal stem cells niche (Embryonic Stem Cell (ESC), Adult Stem Cell ASC) in function (maintaining of self-renewal, undifferentiated state and ability to differentiate) and in signalling pathways (Activin/Noda, Akt/PTEN, JAK/STAT, PI3-K, TGF-\u03b2, Wnt and BMP). It is hypothesized that CSCs arise form aberrant signalling of the microenvironment and participates not only in providing survival signals to CSCs but also in metastasis by induction of Epithelial-Mesenchymal Transition (EMT).",
+            "score": 95.71535730361938
+        },
+        {
+            "docid": "4109042_8",
+            "document": "Cell signaling . The notch signaling mechanism is an example of juxtacrine signaling (also known as contact-dependent signaling) in which two adjacent cells must make physical contact in order to communicate. This requirement for direct contact allows for very precise control of cell differentiation during embryonic development. In the worm \"Caenorhabditis elegans\", two cells of the developing gonad each have an equal chance of terminally differentiating or becoming a uterine precursor cell that continues to divide. The choice of which cell continues to divide is controlled by competition of cell surface signals. One cell will happen to produce more of a cell surface protein that activates the Notch receptor on the adjacent cell. This activates a feedback loop or system that reduces Notch expression in the cell that will differentiate and that increases Notch on the surface of the cell that continues as a stem cell.",
+            "score": 114.56770396232605
+        },
+        {
+            "docid": "36053717_8",
+            "document": "Endogenous regeneration . The largest NSC population in the brain is found in the SVZ. The SVZ is considered a micro-environment called a \"stem cell niche\" that retains the NSC's capacity of self-renewing and multipotency. Basic fibroblast growth factor (FGF2), hepatocyte growth factor (HGF), Notch-1, sonic hedgehog (SHH), noggin, ciliary neurotrophic factor (CNTF), and a soluble carbohydrate-binding protein, Galectin-1, are reported as factors that maintain such properties of NSC in stem cell niche. Like stem cells in SGZ, progenitor cells in SVZ also differentiate into neurons and form an intermediate cell called a transiently amplifying cell (TAC). A recent study revealed that beta-catenin signaling, Wnt \u03b2-catenin, regulates the differentiation of TAC.",
+            "score": 105.72966623306274
+        },
+        {
+            "docid": "10213576_13",
+            "document": "Stem-cell niche . The GSCs are physically attached to the cap cells by Drosophila E-cadherin (DE-cadherin) adherens junctions and if this physical attachment is lost GSCs will differentiate and lose their identity as a stem cell. The gene encoding DE-cadherin, \"shotgun\" (\"shg\"), and a gene encoding Beta-catenin ortholog, \"armadillo\", control this physical attachment. A GTPase molecule, rab11, is involved in cell trafficking of DE-cadherins. Knocking out \"rab11\" in GSCs results in detachment of GSCs from the cap cells and premature differentiation of GSCs. Additionally, \"zero population growth\" (\"zpg\"), encoding a germline-specific gap junction is required for germ cell differentiation.",
+            "score": 110.56707501411438
+        },
+        {
+            "docid": "24762_21",
+            "document": "P53 . In adult stem cells, p53 regulation is important for maintenance of stemness in adult stem cell niches. Mechanical signals such as hypoxia affect levels of p53 in these niche cells through the hypoxia inducible factors, HIF-1\u03b1 and HIF-2\u03b1. While HIF-1\u03b1 stabilizes p53, HIF-2\u03b1 suppresses it. Suppression of p53 plays important roles in cancer stem cell phenotype, induced pluripotent stem cells and other stem cell roles and behaviors, such as blastema formation. Cells with decreased levels of p53 have been shown to reprogram into stem cells with a much greater efficiency than normal cells. Papers suggest that the lack of cell cycle arrest and apoptosis gives more cells the chance to be reprogrammed. Decreased levels of p53 were also shown to be a crucial aspect of blastema formation in the legs of salamanders. p53 regulation is very important in acting as a barrier between stem cells and a differentiated stem cell state, as well as a barrier between stem cells being functional and being cancerous.",
+            "score": 86.8969407081604
+        },
+        {
+            "docid": "10213576_15",
+            "document": "Stem-cell niche . There are two possible mechanisms for stem cell renewal, symmetrical GSC division or de-differentiation of cystoblasts. Normally, GSCs will divide asymmetrically to produce one daughter cystoblast, but it has been proposed that symmetrical division could result in the two daughter cells remaining GSCs. If GSCs are ablated to create an empty niche and the cap cells are still present and sending maintenance signals, differentiated cystoblasts can be recruited to the niche and de-differentiate into functional GSCs.",
+            "score": 130.4593744277954
+        },
+        {
+            "docid": "10213576_2",
+            "document": "Stem-cell niche . Stem-cell niche refers to a microenvironment, within the specific anatomic location where stem cells are found, which interacts with stem cells to regulate cell fate. The word 'niche' can be in reference to the \"in vivo\" or \"in vitro\" stem-cell microenvironment. During embryonic development, various niche factors act on embryonic stem cells to alter gene expression, and induce their proliferation or differentiation for the development of the fetus. Within the human body, stem-cell niches maintain adult stem cells in a quiescent state, but after tissue injury, the surrounding micro-environment actively signals to stem cells to promote either self-renewal or differentiation to form new tissues. Several factors are important to regulate stem-cell characteristics within the niche: cell\u2013cell interactions between stem cells, as well as interactions between stem cells and neighbouring differentiated cells, interactions between stem cells and adhesion molecules, extracellular matrix components, the oxygen tension, growth factors, cytokines, and the physicochemical nature of the environment including the pH, ionic strength (e.g. Ca concentration) and metabolites, like ATP, are also important. The stem cells and niche may induce each other during development and reciprocally signal to maintain each other during adulthood.",
+            "score": 99.53361392021179
+        },
+        {
+            "docid": "10213576_28",
+            "document": "Stem-cell niche . The hair follicle stem cell niche is one of the more closely studied niches thanks to its relative accessibility and role in important diseases such as melanoma. The bulge area at the junction of arrector pili muscle to the hair follicle sheath has been shown to host the skin stem cells which can contribute to all epithelial skin layers. There cells are maintained by signaling in concert with niche cells \u2013 signals include paracrine (e.g. sonic hedgehog), autocrine and juxtacrine signals. The bulge region of the hair follicle relies on these signals to maintain the stemness of the cells. Fate mapping or cell lineage tracing has shown that Keratin 15 positive stem cells' progeny participate in all epithelial lineages. The follicle undergoes cyclic regeneration in which these stem cells migrate to various regions and differentiate into the appropriate epithelial cell type. Some important singals in the hair follicle stem cell niche produced by the mesenchymal dermal papilla or the bulge include BMP, TGF-\u03b2 and Fibroblast growth factor (FGF) ligands and Wnt inhibitors. While, Wnt signaling pathways and \u03b2-catenin are important for stem cell maintenance, over-expression of \u03b2-catenin in hair follicles induces improper hair growth. Therefore, these signals such as Wnt inhibitors produced by surrounding cells are important to maintain and facilitate the stem cell niche.",
+            "score": 100.28873825073242
+        },
+        {
+            "docid": "7115286_14",
+            "document": "Asymmetric cell division . In normal stem and progenitor cells, asymmetric cell division balances proliferation and self-renewal with cell-cycle exit and differentiation. Disruption of asymmetric cell division leads to aberrant self-renewal and impairs differentiation, and could therefore constitute an early step in the tumorogenic transformation of stem and progenitor cells. In normal non-tumor stem cells, a number of genes have been described which are responsible for pluripotency, such as Bmi-1, Wnt and Notch. These genes have been discovered also in the case of cancer stem cells, and shows that their aberrant expression is essential for the formation of tumor cell mass. For example, it has been shown that gastrointestinal cancers contain rare subpopulation of cancer stem cells which are capable to divide asymmetrically. The asymmetric division in these cells is regulated by cancer niche (microenvironment) and Wnt pathway. Blocking the Wnt pathway with IWP2 (WNT antagonist) or siRNA-TCF4 resulted in high suppression of asymmetric cell division.",
+            "score": 73.64621567726135
+        },
+        {
+            "docid": "14761897_9",
+            "document": "HES1 . HES1 also plays an important role in the Notch signaling pathway. In the absence of Notch signaling, RBPJ inhibits the expression of HES1. After Notch signals have been processed within the cell, however, the plasma membrane releases the intracellular domain of Notch, which moves to the nucleus where it associates with RBPJ. The binding causes a conformational change which leads co-repressors to disassociate and allows co-activators to bind. The new activating complex then prompts HES1 expression. Notch signaling activates HES1 expression. HES1 has been shown to target at least Notch ligands: \"Dll1\", \"Jagged1 (Jag1)\", and Neurogenin-2. \"Dll1\", as with other Notch ligands, has been shown to induce neural differentiation, and HES1 binding of Dll1 blocks neural differentiation and leads to the maintenance of the neural stem cells and neural progenitor cells. Notch signaling also occurs in the intestinal crypt cells. Hyperactivated Notch causes a reduction in the number of secretory cell types (i.e. goblet cells, enteroendocrine cells, and Paneth cells). Deletion of the Notch pathway by removing the Notch expression controller, \"Rbpsuh\", causes the production of nearly only goblet cells.",
+            "score": 114.8544774055481
+        },
+        {
+            "docid": "10213576_34",
+            "document": "Stem-cell niche . Hypoxia plays an important role in the regulation of cancer stem cell niches and EMT through the promotion of HIFs. These HIFs help maintain cancer stem cell niches by regulating important stemness genes such as Oct4, Nanog, SOX2, Klf4, and cMyc. HIFs also regulate important tumor suppressor genes such as p53 and genes that promote metastasis. Interestingly, while HIFs increase the survival of cells by decreases the effects of oxidative stress, they have also been shown to decrease factors such as RAD51 and H2AX that maintain genomic stability. In the hypoxic condition there is an increase of intracellular Reactive Oxygen Species (ROS) which also promote CSCs survival via stress response. ROS stabilizes HIF-1\u03b1 which promotes the Met proto-oncogene, which drives metastasis or motogenic escape in melanoma cells. All of these factors contribute to a cancer stem cell phenotype which is why it is often referred to as a hypoxic stem cell niche. Hypoxic environments are often found in tumors where the cells are dividing faster that angiogenesis can occur. It is important to study hypoxia as an aspect of cancer because hypoxic environments have been shown to be resistant to radiation therapy. Radiation has been shown to increase the amounts of HIF-1. EMT induction by hypoxia though interactions between HIF-1\u03b1 and ROS is crucial for metastasis in cancers such as melanoma. It has been found that many genes associated with melanoma are regulated by hypoxia such as MXI1, FN1, and NME1.",
+            "score": 76.56026768684387
+        },
+        {
+            "docid": "26153433_8",
+            "document": "Utpal Banerjee . Banerjee\u2019s research focuses on the maintenance of blood stem cells, specifically hematopoietic stem cells that are maintained within a microenvironment where signals from a niche are important for the maintenance of quiescence within a precursor population. Lack of such a niche-derived signal will cause loss of \u201cstemness,\u201d resulting in increased proliferation and eventual differentiation. His research examines this phenomenon in the Drosophila hematopoietic organ using genetic technologies available in this model organism.",
+            "score": 87.08439111709595
+        },
+        {
+            "docid": "10213576_33",
+            "document": "Stem-cell niche . Hypoxic condition in stem cell niches (ESC, ASC or CSC) is necessary for maintaining stem cells in an undifferentiated state and also for minimizing DNA damage via oxidation. The maintaining of the hypoxic state is under control of Hypoxia-Inducible transcription Factors (HIFs). HIFs contribute to tumour progression, cell survival and metastasis by regulation of target genes as VEGF, GLUT-1, ADAM-1, Oct4 and Notch.",
+            "score": 92.57421779632568
+        },
+        {
+            "docid": "25260360_9",
+            "document": "Gliogenesis . Recently, an alternative mechanism to regulate differentiation has been proposed in addition to inhibition through growth factors. Changes in local sensitivity of neural stem cells have been shown to modulate the differentiation capacity of growth factors. Over developmental time, neural stem cells lose the ability to respond to growth factors that influence differentiation as intrinsic changes occur to receptor structure and function of these cells. It has been shown Notch receptors require 50-fold higher concentrations of ligand effectors to initiate differentiation responses similar to that of developmentally earlier neural stem cells. Decrease in sensitivity of Notch receptors reduces the activity of Notch-signaling required for gliogenesis to occur. Consequently, neural stem cells have developed a general mechanism limiting further differentiation after intense specialization during the early developmental periods.",
+            "score": 89.40879273414612
+        },
+        {
+            "docid": "10213576_12",
+            "document": "Stem-cell niche . The Bone Morphogenetic Protein (BMP) ligands Decapentaplegic (Dpp) and Glass-bottom-boat (Gbb) ligand are directly signaled to the GSCs, and are essential for GSC maintenance and self-renewal. BMP signaling in the niche functions to directly repress expression of \"Bag-of-marbles\"(\"Bam\") in GSCs, which is up-regulated in developing cystoblast cells. Loss of function of \"dp p\" in the niche results in de-repression of Bam in GSCs, resulting in rapid differentiation of the GSCs. Along with BMP signaling, cap cells also signal other molecules to GSCs: Yb and Piwi. Both of these molecules are required non-autonomously to the GSCs for proliferation-\"piwi\" is also required autonomously in the GSCs for proliferation. Interestingly, in the germarium, BMP signaling has a short-range effect, therefore the physical attachment of GSCs to cap cells is important for maintenance and activity.",
+            "score": 143.00661945343018
+        },
+        {
+            "docid": "10213576_45",
+            "document": "Stem-cell niche . It is evident that biophysio-chemical characteristics of ECM such as composition, shape, topography, stiffness, and mechanical strength can control the stem cell behavior. These ECM factors are equally important when stem cells are grown in vitro. Given a choice between niche cell-stem cell interaction and ECM-stem cell interaction, mimicking ECM is preferred as that can be precisely controlled by scaffold fabrication techniques, processing parameters or post-fabrication modifications. In order to mimic, it is essential to understand natural properties of ECM and their role in stem cell fate processes. Various studies involving different types of scaffolds that regulate stem cells fate by mimicking these ECM properties have been done.)",
+            "score": 79.25435590744019
+        },
+        {
+            "docid": "46669355_11",
+            "document": "Polycomb Group Proteins and Cancer . PcG proteins are also key players in the maintenance of adult stem cell populations. Several PcG proteins have been implicated in the regulation of the self-renewal capacity of specific stem cell types. For example, overexpression of the EZH2 prevents haematopoietic stem cell exhaustion and can block the differentiation of muscle myoblasts. Stem cells are also tightly regulated by their respective cellular microenvironment or niche; PcG function can be inhibited by the JNK signaling pathway, which is inactivated in response to wounding. PcG suppression leads to an increased frequency of transdetermination, a process in which precursor cells switch their predetermined identity.",
+            "score": 85.99266600608826
+        },
+        {
+            "docid": "30078841_10",
+            "document": "Siddhartha Mukherjee . A trained haematologist and oncologist, Mukherjee's research focuses on the links between normal stem cells and cancer cells. Through his findings, he had shown the roles of cells in cancer therapy. He has been investigating the microenvironment (\"niche\") of stem cells, particularly on blood-forming stem cells (called haematopoietic stem cells ). Blood-forming stem cells are present in the bone marrow in very specific microenvironments. Osteoblasts, cells that form bone, are one of the principal components this environment. These cells regulate the process of blood cell formation and development by providing them with signals to divide, remain quiescent, or maintain their stem cell properties. Distortion in the development of these cells results in severe blood cancers, such as myelodysplastic syndrome and leukemia. Mukherjee's research has been recognised through many grants from the National Institutes of Health and from private foundations.",
+            "score": 78.6059672832489
+        },
+        {
+            "docid": "26153433_9",
+            "document": "Utpal Banerjee . Results from Banerjee\u2019s lab have shown that the \u201cstemness\u201d of t hese cells is maintained through the combined action of a Niche Signal, that is generated by Hedgehog (Hh), a local signal generated by Wingless/Wnt and a reverse signal from the differentiated cells to the stem cells. His team has termed this combined action the Equilibrium Signal. Several important concepts underlying Drosophila blood development have allowed them to propose this system as an appropriate genetic model for vertebrate hematopoiesis, and these molecular mechanisms are being explored in the laboratory.",
+            "score": 91.5097279548645
+        },
+        {
+            "docid": "41111089_5",
+            "document": "Epigenetic regulation of neurogenesis . DNA methylation's critical nature to corticogenesis has been shown through knockout experiments in mice. When DNMT3b and DNMT1 were ablated separately in mouse embryos they died due to impairment of neural tube development. DNMT3a silencing did not cause embryonic lethality, but did result in a severe detriment in postnatal neurogenesis. This is largely due to the timing in which these epigenetic mechanisms are active. DNMT3b is expressed in early neural progenitor cells and decrease as neural development proceeds and DNMT3a is barely detectable up until embryonic day 10 (E.10). However, at E.10, DNMT3a expression increases significantly from E13.5 and well into adulthood. In the postnatal forebrain, DNMT3a is expressed in the subventricular zone (SVZ) and the hippocampal dentate gyrus, the primary locations for adult neurogenesis. The loss of DNMT3a in post natal neural progenitor cells leads to the down-regulation of neuronic genes such as \"Dlx2\", \"Neurog2\", and \"Sp8\"; but upregulation of genes involved in astroglial and oligodendroglial differentiation, indicating a role in the cell-fate switch from neurogenesis to gliogenesis. DNA demethylation, as well as methylation, of certain genes allows for neurogenesis to proceed in a time dependent manner. One such gene is \"Hes5\", hypermethylated in E7.5 Embryos but completely demethylated by E9.5, which is one of the target genes in the Notch Signaling pathway. GCM1 and GCM2 demethylate the \"Hes5\" promoter, allowing it to respond to NOTCH signaling and initiating the generation of neural stem cells. Another example is the \"Gfap\" gene which is required for astrocyte differentiation. The ability to differentiate into glial cells is repressed in neural stem cells with a neuronal cell fate. This repression is due largely to an irresponsiveness of neural stem cells towards astrocyte-inducing stimulations. The neural stem cells are non-responsive due to hypermethylated DNA in the promoter regions of astrocyte genes such as \"Gfap\". The STAT3 binding site in the promoter region of \"Gfap\" is hypermethylated at E11.5 and barely so at E14.5, at which point it is able to receive astrocyte inducing stimulations and begin cytokine-inducible astrocyte differentiation.",
+            "score": 90.85984826087952
+        },
+        {
+            "docid": "10213576_6",
+            "document": "Stem-cell niche . A \"Nature\" Insight review defines niche as follows: Though the concept of stem cell niche was prevailing in vertebrates, the first characterization of stem cell niche in vivo was worked out in \"Drosophila\" germinal development.",
+            "score": 66.7134461402893
+        },
+        {
+            "docid": "42606579_2",
+            "document": "Hematopoietic stem cell niche . Many human blood cells, such as red blood cells (RBCs), immune cells, and even platelets all originate from the same progenitor cell, the hematopoietic stem cell (HSC). As these cells are short-lived, there needs to be a steady turnover of new blood cells and the maintenance of an HSC pool. This is broadly termed hematopoiesis. This event requires a special environment, termed the hematopoietic stem cell niche, which provides the protection and signals necessary to carry out the differentiation of cells from HSC progenitors. This niche relocates from the yolk sac to eventually rest in the bone marrow of mammals. Many pathological states can arise from disturbances in this niche environment, highlighting its importance in maintaining hematopoiesis.",
+            "score": 86.78340792655945
+        },
+        {
+            "docid": "57185687_5",
+            "document": "Breast cancer stem cell . The tumor niche is which these BCSCs reside supports their growth and self-renewal. This microenvironment provides these cells with a physical anchoring site, a process mediated by adhesion molecules, components of the extracellular matrix (ECM) and factors secreted by stromal cells. For example, interactions between hyaluronic acid (HA) and CD44 stimulate the activation of other pathways that promote tumor malignancy such as Nanog, HER2 and NF-\u03ba\u03b2. The activation of these pathways result in increased proliferation, invasion and migration of BCSCs. As a result, primary breast cancer tumors quickly form metastases in distant sites. Both the epithelial-to-mesenchymal transition (EMT) and the mesenchymal-to-epithelial transition (MET) are key components of driving this metastasis process. As one may expect, BCSCs undergo both of these processes as they escape from the primary tumor site, enter the bloodstream and home to a new organ site to initiate tumor growth. Over the course of this process, there is an upregulation of growth factors, which in turn activate and deactivate mesenchymal and epithelial transcription factors. The combination of these factors provides the signaling cues needed by BCSCs to survive, grow and proliferate.  Pathways that play key roles in embryonic development and adult tissue homeostasis have also been implicated in driving the phenotype of BCSCs. Dysregulation of the Notch and Hedgehog pathways, which regulate normal stem cell differentiation and self-renewal, is one such example. Both of these pathways have been shown to be upregulated in breast cancer. Furthermore, some early work has shown that activation of these pathways can also be correlated to the resistance of BCSCs to therapy.",
+            "score": 80.77433037757874
+        }
+    ],
+    "r": [
+        {
+            "docid": "10213576_16",
+            "document": "Stem-cell niche . As the \"Drosophila\" female ages, the stem cell niche undergoes age-dependent loss of GSC presence and activity. These losses are thought to be caused in part by degradation of the important signaling factors from the niche that maintains GSCs and their activity. Progressive decline in GSC activity contributes to the observed reduction in fecundity of \"Drosophila melanogaster\" at old age; this decline in GSC activity can be partially attributed to a reduction of signaling pathway activity in the GSC niche. It has been found that there is a reduction in Dpp and Gbb signaling through aging. In addition to a reduction in niche signaling pathway activity, GSCs age cell-autonomously. In addition to studying the decline of signals coming from the niche, GSCs age intrinsically; there is age-dependent reduction of adhesion of GSCs to the cap cells and there is accumulation of Reactive Oxygen species (ROS) resulting in cellular damage which contributes to GSC aging. There is an observed reduction in the number of cap cells and the physical attachment of GSCs to cap cells through aging. \"Shg\" is expressed at significantly lower levels in an old GSC niche in comparison to a young one.",
+            "score": 167.00184631347656
+        },
+        {
+            "docid": "10213576_14",
+            "document": "Stem-cell niche . Both diet and insulin-like signaling directly control GSC proliferation in \"Drosophila melanogaster\". Increasing levels of \"Drosophila\" insulin-like peptide (DILP) through diet results in increased GSC proliferation. Up-regulation of DILPs in aged GSCs and their niche results in increased maintenance and proliferation. It has also been shown that DILPs regulate cap cell quantities and regulate the physical attachment of GSCs to cap cells.",
+            "score": 150.5685577392578
+        },
+        {
+            "docid": "10213576_12",
+            "document": "Stem-cell niche . The Bone Morphogenetic Protein (BMP) ligands Decapentaplegic (Dpp) and Glass-bottom-boat (Gbb) ligand are directly signaled to the GSCs, and are essential for GSC maintenance and self-renewal. BMP signaling in the niche functions to directly repress expression of \"Bag-of-marbles\"(\"Bam\") in GSCs, which is up-regulated in developing cystoblast cells. Loss of function of \"dp p\" in the niche results in de-repression of Bam in GSCs, resulting in rapid differentiation of the GSCs. Along with BMP signaling, cap cells also signal other molecules to GSCs: Yb and Piwi. Both of these molecules are required non-autonomously to the GSCs for proliferation-\"piwi\" is also required autonomously in the GSCs for proliferation. Interestingly, in the germarium, BMP signaling has a short-range effect, therefore the physical attachment of GSCs to cap cells is important for maintenance and activity.",
+            "score": 143.00662231445312
+        },
+        {
+            "docid": "10213576_19",
+            "document": "Stem-cell niche . The two main molecular signalling pathways regulating stem cell behaviour in the testis GSC niche are the Jak-STAT and BMP signalling pathways. Jak-STAT signalling originates in the hub cells, where the ligand Upd is secreted to the GSCs and SSCs. This leads to activation of the \"Drosophila\" STAT, Stat92E, a transcription factor which effects GSC adhesion to the hub cells, and SSC self-renewal via Zfh-1. Jak-STAT signalling also influences the activation of BMP signalling, via the ligands Dpp and Gbb. These ligands are secreted into the GSCs from the SSCs and hub cells, activate BMP signalling, and suppress the expression of Bam, a differentiation factor. Outside of the niche, gonialblasts no longer receive BMP ligands, and are free to begin their differentiation program. Other important signalling pathways include the MAPK and Hedgehog, which regulate germline enclosure and somatic cell self-renewal, respectively.",
+            "score": 140.52203369140625
+        },
+        {
+            "docid": "10213576_17",
+            "document": "Stem-cell niche . Males of \"Drosophila melanogaster\" each have two testes \u2013 long, tubular, coiled structures \u2013 and at the anterior most tip of each lies the GSC niche. The testis GSC niche is built around a population of non-mitotic hub cells (a.k.a. niche cells), to which two populations of stem cells adhere: the GSCs and the somatic stem cells (SSCs, a.k.a. somatic cyst stem cells/cyst stem cells). Each GSC is enclosed by a pair of SSCs, though each stem cell type is still in contact with the hub cells. In this way, the stem cell niche consists of these three cell types, as not only do the hub cells regulate GSC and SSC behaviour, but the stem cells also regulate the activity of each other. The Drosophila testis GSC niche has proven a valuable model system for examining a wide range of cellular processes and signalling pathways.",
+            "score": 140.49513244628906
+        },
+        {
+            "docid": "10213576_11",
+            "document": "Stem-cell niche . In \"Drosophila melanogaster\", the GSC niche resides in the anterior-most region of each ovariole, known as the germarium. The GSC niche consists of necessary somatic cells-terminal filament cells, cap cells, escort cells, and other stem cells which function to maintain the GSCs. The GSC niche holds on average 2\u20133 GSCs, which are directly attached to somatic cap cells and Escort stem cells, which send maintenance signals directly to the GSCs. GSCs are easily identified through histological staining against vasa protein (to identify germ cells) and 1B1 protein (to outline cell structures and a germline specific fusome structure). Their physical attachment to the cap cells is necessary for their maintenance and activity. A GSC will divide asymmetrically to produce one daughter cystoblast, which then undergoes 4 rounds of incomplete mitosis as it progresses down the ovariole (through the process of oogenesis) eventually emerging as a mature egg chamber; the fusome found in the GSCs functions in cyst formation and may regulate asymmetrical cell divisions of the GSCs. Because of the abundant genetic tools available for use in \"Drosophila melanogaster\" and the ease of detecting GSCs through histological stainings, researchers have uncovered several molecular pathways controlling GSC maintenance and activity.",
+            "score": 137.97311401367188
+        },
+        {
+            "docid": "10213576_15",
+            "document": "Stem-cell niche . There are two possible mechanisms for stem cell renewal, symmetrical GSC division or de-differentiation of cystoblasts. Normally, GSCs will divide asymmetrically to produce one daughter cystoblast, but it has been proposed that symmetrical division could result in the two daughter cells remaining GSCs. If GSCs are ablated to create an empty niche and the cap cells are still present and sending maintenance signals, differentiated cystoblasts can be recruited to the niche and de-differentiate into functional GSCs.",
+            "score": 130.45936584472656
+        },
+        {
+            "docid": "10213576_10",
+            "document": "Stem-cell niche . Germline stem cells (GSCs) are found in organisms that continuously produce sperm and eggs until they are sterile. These specialized stem cells reside in the GSC niche, the initial site for gamete production, which is composed of the GSCs, somatic stem cells, and other somatic cells. In particular, the GSC niche is well studied in the genetic model organism \"Drosophila melanogaster\" and has provided an extensive understanding of the molecular basis of stem cell regulation.",
+            "score": 117.18836212158203
+        },
+        {
+            "docid": "7115286_13",
+            "document": "Asymmetric cell division . In addition to the aforementioned Drosophila neuronal example, it was proposed that the macrosensory organs of the Drosophila, specifically the glial cells, also arise from a similar set of asymmetric division from a single progenitor cell via regulation of the Notch signaling pathway and transcription factors. An example of how extrinsic factors bring about this phenomenon is the physical displacement of one of the daughter cells out of the original stem cell niche, exposing it to signalling molecules such as chondroitin sulfate. In this manner, the daughter cell is forced to interact with the heavily sulfated molecules, which stimulate it to differentiate while the other daughter cell remains in the original niche in a quiescent state.",
+            "score": 116.97139739990234
+        },
+        {
+            "docid": "14761897_9",
+            "document": "HES1 . HES1 also plays an important role in the Notch signaling pathway. In the absence of Notch signaling, RBPJ inhibits the expression of HES1. After Notch signals have been processed within the cell, however, the plasma membrane releases the intracellular domain of Notch, which moves to the nucleus where it associates with RBPJ. The binding causes a conformational change which leads co-repressors to disassociate and allows co-activators to bind. The new activating complex then prompts HES1 expression. Notch signaling activates HES1 expression. HES1 has been shown to target at least Notch ligands: \"Dll1\", \"Jagged1 (Jag1)\", and Neurogenin-2. \"Dll1\", as with other Notch ligands, has been shown to induce neural differentiation, and HES1 binding of Dll1 blocks neural differentiation and leads to the maintenance of the neural stem cells and neural progenitor cells. Notch signaling also occurs in the intestinal crypt cells. Hyperactivated Notch causes a reduction in the number of secretory cell types (i.e. goblet cells, enteroendocrine cells, and Paneth cells). Deletion of the Notch pathway by removing the Notch expression controller, \"Rbpsuh\", causes the production of nearly only goblet cells.",
+            "score": 114.85447692871094
+        },
+        {
+            "docid": "4109042_8",
+            "document": "Cell signaling . The notch signaling mechanism is an example of juxtacrine signaling (also known as contact-dependent signaling) in which two adjacent cells must make physical contact in order to communicate. This requirement for direct contact allows for very precise control of cell differentiation during embryonic development. In the worm \"Caenorhabditis elegans\", two cells of the developing gonad each have an equal chance of terminally differentiating or becoming a uterine precursor cell that continues to divide. The choice of which cell continues to divide is controlled by competition of cell surface signals. One cell will happen to produce more of a cell surface protein that activates the Notch receptor on the adjacent cell. This activates a feedback loop or system that reduces Notch expression in the cell that will differentiate and that increases Notch on the surface of the cell that continues as a stem cell.",
+            "score": 114.56770324707031
+        },
+        {
+            "docid": "1107334_10",
+            "document": "Notch signaling pathway . The Notch signaling pathway is important for cell-cell communication, which involves gene regulation mechanisms that control multiple cell differentiation processes during embryonic and adult life. Notch signaling also has a role in the following processes:",
+            "score": 113.16364288330078
+        },
+        {
+            "docid": "10213576_13",
+            "document": "Stem-cell niche . The GSCs are physically attached to the cap cells by Drosophila E-cadherin (DE-cadherin) adherens junctions and if this physical attachment is lost GSCs will differentiate and lose their identity as a stem cell. The gene encoding DE-cadherin, \"shotgun\" (\"shg\"), and a gene encoding Beta-catenin ortholog, \"armadillo\", control this physical attachment. A GTPase molecule, rab11, is involved in cell trafficking of DE-cadherins. Knocking out \"rab11\" in GSCs results in detachment of GSCs from the cap cells and premature differentiation of GSCs. Additionally, \"zero population growth\" (\"zpg\"), encoding a germline-specific gap junction is required for germ cell differentiation.",
+            "score": 110.56707763671875
+        },
+        {
+            "docid": "4109042_19",
+            "document": "Cell signaling . In the case of Notch-mediated signaling, the signal transduction mechanism can be relatively simple. As shown in Figure 2, activation of Notch can cause the Notch protein to be altered by a protease. Part of the Notch protein is released from the cell surface membrane and takes part in gene regulation. Cell signaling research involves studying the spatial and temporal dynamics of both receptors and the components of signaling pathways that are activated by receptors in various cell types.",
+            "score": 110.43069458007812
+        },
+        {
+            "docid": "24009708_9",
+            "document": "Notch proteins . Notch family members play a role in a variety of developmental processes by controlling cell fate decisions. The Notch signaling network is an evolutionarily conserved intercellular signaling pathway that regulates interactions between physically adjacent cells. In Drosophila, notch interaction with its cell-bound ligands (delta, serrate) establishes an intercellular signaling pathway that plays a key role in development.This protein functions as a receptor for membrane bound ligands, and may play multiple roles during development. A deficiency can be associated with bicuspid aortic valve.",
+            "score": 110.20484924316406
+        },
+        {
+            "docid": "1107334_30",
+            "document": "Notch signaling pathway . The Notch pathway is essential for maintaining NPCs in the developing brain. Activation of the pathway is sufficient to maintain NPCs in a proliferating state, whereas loss-of-function mutations in the critical components of the pathway cause precocious neuronal differentiation and NPC depletion. Modulators of the Notch signal, e.g., the Numb protein are able to antagonize Notch effects, resulting in the halting of cell cycle and differentiation of NPCs. Conversely, the fibroblast growth factor pathway promotes Notch signaling to keep stem cells of the cerebral cortex in the proliferative state, amounting to a mechanism regulating cortical surface area growth and, potentially, gyrification. In this way, Notch signaling controls NPC self-renewal as well as cell fate specification.",
+            "score": 109.9881362915039
+        },
+        {
+            "docid": "14181897_11",
+            "document": "NUMB (gene) . Numb acts as an antagonist for Notch by causing its selective endocytosis and degradation. Another mechanism proposed for how this is accomplished in \"Drosophila\" involves a protein called Sanpodo. Sanpodo is a protein that associates with both Notch and Numb. It is located at the plasma membrane and is necessary for Notch activation, promoting Notch cleavage and NICD signaling in the nucleus. Numb converts Sanpodo from an activator to an inhibitor of Notch signaling, magnifying the differences in Notch signaling between different daughter cells. In daughter cells containing Numb, Sanpodo allows Numb to inhibit Notch. In daughter cells with no Numb, Sanpodo potentiates Notch signaling. Sanpodo therefore allows cells to maintain Notch signaling at a below- or above-threshold level.",
+            "score": 108.19641876220703
+        },
+        {
+            "docid": "14146898_5",
+            "document": "Neurogenic locus notch homolog protein 4 . Notch protein family members play a role in a variety of developmental processes by controlling cell fate decisions. The Notch signaling pathway is an evolutionarily conserved intercellular signaling pathway that regulates interactions between physically adjacent cells",
+            "score": 107.34419250488281
+        },
+        {
+            "docid": "14021320_3",
+            "document": "Notch 1 . This gene encodes a member of the Notch family. Members of this Type 1 transmembrane protein family share structural characteristics including an extracellular domain consisting of multiple epidermal growth factor-like (EGF) repeats, and an intracellular domain consisting of multiple, different domain types. Notch family members play a role in a variety of developmental processes by controlling cell fate decisions. The Notch signaling network is an evolutionarily conserved intercellular signaling pathway that regulates interactions between physically adjacent cells. In Drosophila, notch interaction with its cell-bound ligands (delta, serrate) establishes an intercellular signaling pathway that plays a key role in development. Homologues of the notch-ligands have also been identified in humans, but precise interactions between these ligands and the human notch homologues remain to be determined. This protein is cleaved in the trans-Golgi network, and presented on the cell surface as a heterodimer. This protein functions as a receptor for membrane bound ligands, and may play multiple roles during development.",
+            "score": 106.26383209228516
+        },
+        {
+            "docid": "14162069_4",
+            "document": "Notch 2 . Notch 2 is a member of the notch family. Members of this Type 1 transmembrane protein family share structural characteristics including an extracellular domain consisting of multiple epidermal growth factor-like (EGF) repeats, and an intracellular domain consisting of multiple, different domain types. Notch family members play a role in a variety of developmental processes by controlling cell fate decisions. The Notch signaling network is an evolutionarily conserved intercellular signaling pathway that regulates interactions between physically adjacent cells. In \"Drosophilia\", notch interaction with its cell-bound ligands (delta, serrate) establishes an intercellular signaling pathway that plays a key role in development. Homologues of the notch-ligands have also been identified in human, but precise interactions between these ligands and the human notch homologues remain to be determined. This protein is cleaved in the trans-Golgi network, and presented on the cell surface as a heterodimer. This protein functions as a receptor for membrane bound ligands, and may play a role in vascular, renal and hepatic development.",
+            "score": 106.13362884521484
+        },
+        {
+            "docid": "36053717_8",
+            "document": "Endogenous regeneration . The largest NSC population in the brain is found in the SVZ. The SVZ is considered a micro-environment called a \"stem cell niche\" that retains the NSC's capacity of self-renewing and multipotency. Basic fibroblast growth factor (FGF2), hepatocyte growth factor (HGF), Notch-1, sonic hedgehog (SHH), noggin, ciliary neurotrophic factor (CNTF), and a soluble carbohydrate-binding protein, Galectin-1, are reported as factors that maintain such properties of NSC in stem cell niche. Like stem cells in SGZ, progenitor cells in SVZ also differentiate into neurons and form an intermediate cell called a transiently amplifying cell (TAC). A recent study revealed that beta-catenin signaling, Wnt \u03b2-catenin, regulates the differentiation of TAC.",
+            "score": 105.72966003417969
+        },
+        {
+            "docid": "1107334_42",
+            "document": "Notch signaling pathway . The formation of the pancreas from endoderm begins in early development. The expression of elements of the Notch signaling pathway have been found in the developing pancreas, suggesting that Notch signaling is important in pancreatic development. Evidence suggests Notch signaling regulates the progressive recruitment of endocrine cell types from a common precursor, acting through two possible mechanisms. One is the \"lateral inhibition\", which specifies some cells for a primary fate but others for a secondary fate among cells that have the potential to adopt the same fate. Lateral inhibition is required for many types of cell fate determination. Here, it could explain the dispersed distribution of endocrine cells within pancreatic epithelium. A second mechanism is \"suppressive maintenance\", which explains the role of Notch signaling in pancreas differentiation. Fibroblast growth factor10 is thought to be important in this activity, but the details are unclear.",
+            "score": 104.9579086303711
+        },
+        {
+            "docid": "1107334_43",
+            "document": "Notch signaling pathway . The role of Notch signaling in the regulation of gut development has been indicated in several reports. Mutations in elements of the Notch signaling pathway affect the earliest intestinal cell fate decisions during zebrafish development. Transcriptional analysis and gain of function experiments revealed that Notch signaling targets Hes1 in the intestine and regulates a binary cell fate decision between adsorptive and secretory cell fates.",
+            "score": 104.81430053710938
+        },
+        {
+            "docid": "15655794_7",
+            "document": "DmX gene . Rabconnectin-3A forms a stable complex with rabconnectin-3B. The rabconnectin-3 complex is involved in regulating Notch signalling, although its exact function is unclear. Notch signalling is an important pathway involved in cell-cell communication. The pathway regulates the proliferation, differentiation, and death of cells. Signals are transduced by the cell-surface receptor Notch. During Notch synthesis there are three independent cleavage events. The third cleavage event in Notch synthesis is carried out by \u03b3-secretase. This process requires the proton pump V-ATPase which is regulated by the rabconnectin-3 complex. When Rbcn-3A or Rbcn-3B are absent, Notch synthesis is disrupted between the second and third cleavage events, and Notch is subsequently prevented from entering the nucleus.",
+            "score": 104.51834869384766
+        },
+        {
+            "docid": "1107334_7",
+            "document": "Notch signaling pathway . The receptor is normally triggered via direct cell-to-cell contact, in which the transmembrane proteins of the cells in direct contact form the ligands that bind the notch receptor. The Notch binding allows groups of cells to organize themselves such that, if one cell expresses a given trait, this may be switched off in neighbouring cells by the intercellular notch signal. In this way, groups of cells influence one another to make large structures. Thus, lateral inhibition mechanisms are key to Notch signaling. \"lin-12\" and \"Notch\" mediate binary cell fate decisions, and lateral inhibition involves feedback mechanisms to amplify initial differences.",
+            "score": 103.69988250732422
+        },
+        {
+            "docid": "1107334_20",
+            "document": "Notch signaling pathway . Once the notch extracellular domain interacts with a ligand, an ADAM-family metalloprotease called ADAM10, cleaves the notch protein just outside the membrane. This releases the extracellular portion of notch (NECD), which continues to interact with the ligand. The ligand plus the notch extracellular domain is then endocytosed by the ligand-expressing cell. There may be signaling effects in the ligand-expressing cell after endocytosis; this part of notch signaling is a topic of active research. After this first cleavage, an enzyme called \u03b3-secretase (which is implicated in Alzheimer's disease) cleaves the remaining part of the notch protein just inside the inner leaflet of the cell membrane of the notch-expressing cell. This releases the intracellular domain of the notch protein (NICD), which then moves to the nucleus, where it can regulate gene expression by activating the transcription factor CSL. It was originally thought that these CSL proteins suppressed Notch target transcription. However, further research showed that, when the intracellular domain binds to the complex, it switches from a repressor to an activator of transcription. Other proteins also participate in the intracellular portion of the notch signaling cascade.",
+            "score": 102.89781188964844
+        },
+        {
+            "docid": "1107334_40",
+            "document": "Notch signaling pathway . Notch signaling may be used to control the sprouting pattern of blood vessels during angiogenesis. When cells within a patent vessel are exposed to VEGF signaling, only a restricted number of them initiate the angiogenic process. Vegf is able to induce DLL4 expression. In turn, DLL4 expressing cells down-regulate Vegf receptors in neighboring cells through activation of Notch, thereby preventing their migration into the developing sprout. Likewise, during the sprouting process itself, the migratory behavior of connector cells must be limited to retain a patent connection to the original blood vessel.",
+            "score": 101.78812408447266
+        },
+        {
+            "docid": "578144_7",
+            "document": "Hidradenitis suppurativa . Some cases have been found to result from mutations in the NCSTN, PSEN1, or PSENEN gene. The genes produce proteins that are all components of a complex called gamma- (\u03b3-) secretase. This complex cuts apart (cleaves) many different proteins, which is an important step in several chemical signaling pathways. One of these pathways, known as Notch signaling, is essential for the normal maturation and division of hair follicle cells and other types of skin cells. Notch signaling is also involved in normal immune system function. Studies suggest that mutations in the NCSTN, PSEN1, or PSENEN gene impair Notch signaling in hair follicles. Although little is known about the mechanism, abnormal Notch signaling appears to promote the development of nodules and lead to inflammation in the skin.",
+            "score": 100.96485900878906
+        },
+        {
+            "docid": "4109042_14",
+            "document": "Cell signaling . Cells receive information from their neighbors through a class of proteins known as receptors. Notch is a cell surface protein that functions as a receptor. Animals have a small set of genes that code for signaling proteins that interact specifically with Notch receptors and stimulate a response in cells that express Notch on their surface. Molecules that activate (or, in some cases, inhibit) receptors can be classified as hormones, neurotransmitters, cytokines, and growth factors, in general called receptor ligands. Ligand receptor interactions such as that of the Notch receptor interaction, are known to be the main interactions responsible for cell signaling mechanisms and communication.",
+            "score": 100.31261444091797
+        },
+        {
+            "docid": "10213576_28",
+            "document": "Stem-cell niche . The hair follicle stem cell niche is one of the more closely studied niches thanks to its relative accessibility and role in important diseases such as melanoma. The bulge area at the junction of arrector pili muscle to the hair follicle sheath has been shown to host the skin stem cells which can contribute to all epithelial skin layers. There cells are maintained by signaling in concert with niche cells \u2013 signals include paracrine (e.g. sonic hedgehog), autocrine and juxtacrine signals. The bulge region of the hair follicle relies on these signals to maintain the stemness of the cells. Fate mapping or cell lineage tracing has shown that Keratin 15 positive stem cells' progeny participate in all epithelial lineages. The follicle undergoes cyclic regeneration in which these stem cells migrate to various regions and differentiate into the appropriate epithelial cell type. Some important singals in the hair follicle stem cell niche produced by the mesenchymal dermal papilla or the bulge include BMP, TGF-\u03b2 and Fibroblast growth factor (FGF) ligands and Wnt inhibitors. While, Wnt signaling pathways and \u03b2-catenin are important for stem cell maintenance, over-expression of \u03b2-catenin in hair follicles induces improper hair growth. Therefore, these signals such as Wnt inhibitors produced by surrounding cells are important to maintain and facilitate the stem cell niche.",
+            "score": 100.28874206542969
+        },
+        {
+            "docid": "10213576_18",
+            "document": "Stem-cell niche . The process of spermatogenesis begins when the GSCs divide asymmetrically, producing a GSC that maintains hub contact, and a gonialblast that exits the niche. The SSCs divide with their GSC partner, and their non-mitotic progeny, the somatic cyst cells (SCCs, a.k.a. cyst cells) will enclose the gonialblast. The gonialblast then undergoes four rounds of synchronous, transit-amplifying divisions with incomplete cytokinesis to produce a sixteen-cell spermatogonial cyst. This spermatogonial cyst then differentiates and grows into a spermatocyte, which will eventually undergo meiosis and produce sperm.",
+            "score": 99.93008422851562
+        },
+        {
+            "docid": "14181897_20",
+            "document": "NUMB (gene) . In approximately half of all human mammary carcinomas, Numb-mediated suppression of Notch signaling is lost due to Numb ubiquitination, tagging it for proteasomal degradation. Numb acts as an oncogene suppressor, inhibiting tumor cell proliferation through suppression of Notch signaling. Increased Notch signaling is observed in tumors where Numb activity has been lost and retrovirally mediated transient overexpression of Numb protein in these tumors restored basal levels of Notch signaling and significantly reduced their colony-forming abilities. Thus, the biological antagonism between Notch and Numb signaling that controls the proliferative/differentiative balance of many cell lineages appears to play a role in human breast carcinogenesis and perhaps other types of tumorigenesis. Pharmalogical inhibition of Notch signaling or enhancement of Numb signaling could be a source of treatment for cancer patients in the future.",
+            "score": 99.76240539550781
+        }
+    ]
+}

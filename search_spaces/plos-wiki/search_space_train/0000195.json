@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "56731305_6",
+            "document": "RNA-targeting small molecule drugs . The use of aminoglycosides, while an early start to RNA-targeting, came with some challenges. These molecules were only modestly selective and showed unfavorable toxicity levels at relevant therapeutic concentrations. As another strategy for targeting RNA, antisense oligonucleotides were developed which have been pushed forward through the clinic for several diseases. By this principle, if one can identify an RNA involved in disease then the sequence can be used to design a complimentary antisense oligonucleotide, and that agent can be introduced into cells to treat the disease. But, this approach in its basic form has been met with several challenges. The most obvious are their large size and propensity to degradation by nucleases. In order for cellular RNA to be effective it must enter the cells intact. While backbone modifications to antisense oligonucleotides in order to prevent nuclease degradation have been shown to work, this approach is still somewhat limited. Small molecules may present a better way to target RNA and subsequently DNA because they can be designed to be more \u201cdrug-like\u201d and have a better chance of reaching their target, most by oral administration. For this reason, there is an emerging interest in designing and discovering small molecules to target RNA secondary and tertiary structures to ultimately treat new diseases.",
+            "score": 100.86639034748077
+        },
+        {
+            "docid": "22217265_13",
+            "document": "Nucleic acid structure determination . Selective 2\u2032-hydroxyl acylation analyzed by primer extension, or SHAPE, takes advantage of reagents that preferentially modify the backbone of RNA in structurally flexible regions. Reagents such as N-methylisotoic anhydride (NMIA) and 1-methyl-7-nitroisatoic anhydride (1M7) react with the 2'-hydroxyl group to form adducts on the 2'-hydroxyl of the RNA backbone. Compared to the chemicals used in other RNA probing techniques, these reagents have the advantage of being largely unbiased to base identity, while remaining very sensitive to conformational dynamics. Nucleotides which are constrained (usually by base-pairing) show less adduct formation than nucleotides which are unpaired. Adduct formation is quantified for each nucleotide in a given RNA by extension of a complementary DNA primer with reverse transcriptase and comparison of the resulting fragments with those from an unmodified control. SHAPE therefore reports on RNA structure at the individual nucleotide level. This data can be used as input to generate highly accurate secondary structure models. SHAPE has been used to analyze diverse RNA structures, including that of an entire HIV-1 genome. The best approach is to use a combination of chemical probing reagents and experimental data. In SHAPE-Seq SHAPE is extended by bar-code based multiplexing combined with RNA-Seq and can be performed in a high-throughput fashion.",
+            "score": 99.24813508987427
+        },
+        {
+            "docid": "2313597_7",
+            "document": "In situ hybridization . An alternative technology, branched DNA assay, can be used for RNA (mRNA, lncRNA, and miRNA ) \"in situ\" hybridization assays with single molecule sensitivity without the use of radioactivity. This approach (e.g., ViewRNA assays) can be used to visualize up to four targets in one assay, and it uses patented probe design and bDNA signal amplification to generate sensitive and specific signals. Samples (cells, tissues, and CTCs) are fixed, then treated to allow RNA target accessibility (RNA un-masking). Target-specific probes hybridize to each target RNA. Subsequent signal amplification is predicated on specific hybridization of adjacent probes (individual oligonucleotides [oligos] that bind side by side on RNA targets). A typical target-specific probe will contain 40 oligonucleotides, resulting in 20 oligo pairs that bind side-by-side on the target for detection of mRNA and lncRNA, and 2 oligos or a single pair for miRNA detection. Signal amplification is achieved via a series of sequential hybridization steps. A pre-amplifier molecule hybridizes to each oligo pair on the target-specific RNA, then multiple amplifier molecules hybridize to each pre-amplifier. Next, multiple label probe oligonucleotides (conjugated to alkaline phosphatase or directly to fluorophores) hybridize to each amplifier molecule. A fully assembled signal amplification structure \u201cTree\u201d has 400 binding sites for the label probes. When all target-specific probes bind to the target mRNA transcript, an 8,000 fold signal amplification occurs for that one transcript. Separate but compatible signal amplification systems enable the multiplex assays. The signal can be visualized using a fluorescence or brightfield microscope.",
+            "score": 90.11244070529938
+        },
+        {
+            "docid": "56731305_11",
+            "document": "RNA-targeting small molecule drugs . Aside from studies involved r(CUG) repeats, other complex RNA structures have also been targeted. Pearson and coworkers discovered that a cationic porphyrin (TMPyP4) bound a G-quadruplex r(GC) and inhibited the binding of proteins to r(GC). Work by Disney and Petrucelli rationally identified small molecules that can target this repeat and affect disease biology in model cellular systems and also in patient-derive iNeurons. Further studies by Rothstein and colleagues determined that TMPyP4 could suppress r(GC)-mediated neurodegeneration in a \"Drosophila\" model. Additionally targets have been rationally identified by using a powerful seqecune-based design approach termed informal to identify dozens of bioactive small molecules that target disease causing non-coding RNA termed INFORNA. This study important showed for the first time that small molecules appear to have selectivities that are competitive with oligonucleotides with cell-permeable and medicinally optimizable small molecules. Additionally, compounds have been shown to be bioactive in diverse disease settings that ranged from breast cancer. and hepatocellular carcinoma. More recently, the Disney group further used their prediction database INFORNA to design Targaprimir-96 to target miRNA precursors in animal models of cancer, the first small molecules to do so. This compound has a nanomolar affinity for the miRNA hairpin precursor selectively over other sequences. Targaprimir-96 was further tested in cells and in mice, inhibiting tumor growth in a xenograft mouse model of triple negative breast cancer upon i.p. injection. RNA-targeting small molecule drug discovery has greatly benefitted from the available cellular models for disease. The use of cell culture in early development has become a requirement for assessing the basic efficacy of a drug candidate. Thus, more research groups have implemented these techniques in their programs. In a leading example, Al-Hashimi and coworkers identified six small molecules with high affinity for TAR of HIV-1 through a computational approach. They docked a library of small molecules onto RNA dynamic structures generated by NMR and Molecular Dynamics (MD) simulations. The hit molecules inhibited the Tat\u2014TAR interaction \"in vitro\". They arrived at lead molecule, netilmicin, that had the best selectivity for HIV-1 TAR and inhibited HIV-1 replication in cells with a low IC50. The Disney group has studied aminoglycoside derivatives in 2009 for their ability to inhibit interactions between repeat RNA and proteins. Using their prediction database INFORNA, they discovered that a compound could bind to 1 x 1 UU internal loops on an N-methyl peptide backbone. They confirmed that like other compounds that target DM1 r(CUG), they could inhibit the complex between r(CUG)-MBNL1, disrupt nuclear foci, and increase nucleocytoplasmic transport of the gene in patient-derived DM1 fibroblasts. In that study the Disney group also described several approaches to validate the RNA targets of small molecules. In the first approach termed chemical cross-linking and isolation by pull down (Chem-CLIP) and chemical cross-linking and isolation by pull down to map binding sites (Chem-CLIP-Map).",
+            "score": 91.67407047748566
+        },
+        {
+            "docid": "16806609_33",
+            "document": "Circulating tumor cell . The captured CTCs on the filter membrane of a ScreenCell isolation device, are transferred to a 24-well cell culture plate for enumeration/characterization using ViewRNA ISH Cell Assay. A target-specific probe set containing 20 oligonucleotide pairs hybridizes to the target RNA. An oligo pair hybridization event is essential for support of the signal amplification structure, which is assembled by a series of sequential hybridization steps. Each fully assembled amplification structure is contained within 40\u221250 bp of target RNA with the capacity for 400-fold signal amplification. Therefore, a typical target-specific probe set (containing 20 oligo pairs) can generate 8,000-fold signal amplification at the location of the target RNA.",
+            "score": 88.18033528327942
+        },
+        {
+            "docid": "56731305_3",
+            "document": "RNA-targeting small molecule drugs . Recent discoveries implicating RNA in the pathogenesis of several forms of cancer and neuromuscular diseases have created a paradigm shift in drug discovery. This work combined with advances in structural characterization techniques such as NMR spectroscopy and X-ray crystallography together with computational modeling, has pushed forward the realization that RNA is a dynamic yet viable drug target. Traditionally, RNA was thought to be a mediator between DNA sequence-encoded instructions and functional protein. However, recent reports have shown that there are a large number of non-coding RNAs (ncRNAs) that are not translated into protein. Whereas 85% of the human genome is transcribed into RNA only 3% of the transcripts code for functional protein. Although, ncRNAs do affect gene expression levels by a variety of mechanisms. Further, RNA can adopt discrete secondary or tertiary structures which play a pivotal role in many biological processes and disease pathology. For these reasons, RNA is being recognized as an attractive drug target for small molecules.",
+            "score": 89.38129150867462
+        },
+        {
+            "docid": "56731305_12",
+            "document": "RNA-targeting small molecule drugs . These studies showed in cells that small molecules can direct target disease-causing r(CUG) repeats in DM1 and that impressively the compound can discriminate against other RNAs with shorter repeats and also between the mutant and wild type allele of the DMPK mRNA that contains r(CUG) disease-causing repeats. In an additional approach, dubbed small\u2013molecule nucleic acid profiling by cleavage applied to RNA (Ribo-SNAP) showed that small molecules can be used to cleave RNA targets in cells and also importantly demonstrated that designer small molecules target precisely disease causing RNA repeats and discriminate against RNAs that are not disease causing but have short repeats of r(CUG). Thus, targeting RNA structure with small molecules can have important selectively discrimination implications in cells.",
+            "score": 85.62475442886353
+        },
+        {
+            "docid": "32168948_13",
+            "document": "Sepp Hochreiter . Sepp Hochreiter's research group is member of the SEQC/MAQC-III consortium, coordinated by the US Food and Drug Administration. This consortium examined Illumina HiSeq, Life Technologies SOLiD and Roche 454 platforms at multiple laboratory sites regarding RNA sequencing (RNA-seq) performance. Within this project standard approaches to assess, report and compare the technical performance of genome-scale differential gene expression experiments have been defined. For analyzing the structural variation of the DNA, Sepp Hochreiter's research group proposed \"cn.MOPS: mixture of Poissons for discovering copy number variations in next-generation data with a low false discovery rate\" for detecting copy number variations in next generation sequencing data. cn.MOPS estimates the local DNA copy number, is suited for both whole genome sequencing and exom sequencing, and can be applied to diploid and haploid genomes but also to polyploid genomes. For identifying differential expressed transcripts in RNA-seq (RNA sequencing) data, Sepp Hochreiter's group suggested \"DEXUS: Identifying Differential Expression in RNA-Seq Studies with Unknown Conditions\". In contrast to other RNA-seq methods, DEXUS can detect differential expression in RNA-seq data for which the sample conditions are unknown and for which biological replicates are not available. In the group of Sepp Hochreiter, sequencing data was analyzed to gain insights into chromatin remodeling. The reorganization of the cell's chromatin structure was determined via next-generation sequencing of resting and activated T cells. The analyses of these T cell chromatin sequencing data identified GC-rich long nucleosome-free regions that are hot spots of chromatin remodeling. For targeted next-generation-sequencing panels in clinical diagnostics, in particular for cancer,  Hochreiter's group developed panelcn.MOPS.",
+            "score": 89.49157178401947
+        },
+        {
+            "docid": "14875776_8",
+            "document": "XIST . The Xist RNA directly binds to the inactive X-chromosome through a chromatin binding region of the RNA transcript. The Xist chromatin binding region was first elucidated in female mouse fibroblastic cells. The primary chromatin binding region was shown to localize to the C-repeat region. The chromatin-binding region was functionally mapped and evaluated by using an approach for studying noncoding RNA function in living cells called peptide nucleic acid (PNA) interference mapping. In the reported experiments, a single 19-bp antisense cell-permeating PNA targeted against a particular region of Xist RNA caused the disruption of the Xi. The association of the Xi with macro-histone H2A is also disturbed by PNA interference mapping.",
+            "score": 164.5470654964447
+        },
+        {
+            "docid": "26069817_7",
+            "document": "Riboregulator . Ribozyme riboregulators regulate the ability of a catalytic RNA molecule to cleave a target nucleic acid sequence. In ribozyme riboregulators, a hammerhead ribozyme RNA molecule is activated or inactivated depending on the change of the secondary structure induced by hybridizing a signal molecule such as a cognate DNA or RNA sequence. In 2008, Win & Smolke designed a ribozyme regulator that could function in yeast cells that carried out Boolean operations similar to the earlier translational riboregulators, including AND, NAND, NOR, and OR gates.",
+            "score": 70.67319178581238
+        },
+        {
+            "docid": "54112223_21",
+            "document": "Transcriptomics technologies . RNA-Seq refers to the combination of a high-throughput sequencing methodology with computational methods to capture and quantify transcripts present in an RNA extract. The nucleotide sequences generated are typically around 100 bp in length, but can range from 30 bp to over 10,000 bp depending on the sequencing method used. RNA-Seq leverages deep sampling of the transcriptome with many short fragments from a transcriptome to allow computational reconstruction of the original RNA transcript by aligning reads to a reference genome or to each other (de novo assembly). Both low-abundance and high-abundance RNAs can be quantified in an RNA-Seq experiment (dynamic range of 5 orders of magnitude)\u2014a key advantage over microarray transcriptomes. In addition, input RNA amounts are much lower for RNA-Seq (nanogram quantity) compared to microarrays (microgram quantity), which allows finer examination of cellular structures down to the single-cell level when combined with linear amplification of cDNA. Theoretically, there is no upper limit of quantification in RNA-Seq, and background noise is very low for 100 bp reads in non-repetitive regions.",
+            "score": 85.44282829761505
+        },
+        {
+            "docid": "2313597_3",
+            "document": "In situ hybridization . In situ hybridization is used to reveal the location of specific nucleic acid sequences on chromosomes or in tissues, a crucial step for understanding the organization, regulation, and function of genes. The key techniques currently in use include: in situ hybridization to mRNA with oligonucleotide and RNA probes (both radio-labelled and hapten-labelled); analysis with light and electron microscopes; whole mount in situ hybridization; double detection of RNAs and RNA plus protein; and fluorescent in situ hybridization to detect chromosomal sequences. DNA ISH can be used to determine the structure of chromosomes. Fluorescent DNA ISH (FISH) can, for example, be used in medical diagnostics to assess chromosomal integrity. RNA ISH (RNA \"in situ\" hybridization) is used to measure and localize RNAs (mRNAs, lncRNAs, and miRNAs) within tissue sections, cells, whole mounts, and circulating tumor cells (CTCs). \"In situ\" hybridization was invented by Mary-Lou Pardue and Joseph G. Gall.",
+            "score": 95.14282250404358
+        },
+        {
+            "docid": "22217265_6",
+            "document": "Nucleic acid structure determination . While methods for each type of probing differ in steps, the probing of secondary structure involves certain steps in order to determine the structure. The first step involved is submitting the structural RNA to the probe of interest and incubating over a certain amount of time to allow the reaction to occur. The RNA is then transcribed using reverse transcriptase PCR, where this results in different lengths of bands due to the modification of the RNA at specific sites, which causes the reverse transcriptase to fall off. These bands are then run on a gel with sequencing data determined from RNA sequencing.",
+            "score": 81.77613008022308
+        },
+        {
+            "docid": "9458068_26",
+            "document": "RNA silencing . Artificial introduction of long dsRNAs or siRNAs has been adopted as a tool to inactivate gene expression, both in cultured cells and in living organisms. Structural and functional resolution of small RNAs as the effectors of RNA silencing has had a direct impact on experimental biology. For example, dsRNA may be synthesized to have a specific sequence complementary to a gene of interest. Once introduced into a cell or biological system, it is recognized as exogenous genetic material and activates the corresponding RNA silencing pathway. This mechanism can be used to effect decreases in gene expression with respect to the target, useful for investigating loss of function for genes relative to a phenotype. That is, studying the phenotypic and/or physiologic effects of expression decreases can reveal the role of a gene product. The observable effects can be nuanced, such that some methods can distinguish between \u201cknockdown\u201d (decrease expression) and \u201cknockout\u201d (eliminate expression) of a gene. RNA interference technologies have been noted recently as one of the most widely utilized techniques in functional genomics. Screens developed using small RNAs have been used to identify genes involved in fundamental processes such as cell division, apoptosis and fat regulation.",
+            "score": 88.61264085769653
+        },
+        {
+            "docid": "55481097_13",
+            "document": "RNA origami . RNA origami is a new concept and has great potential for applications in nanomedicine and synthetic biology. The method was developed to allow new creations of large RNA nanostructures that create defined scaffolds for combining RNA based functionalities. Because of the infancy of RNA origami, many of its potential applications are still in the process of discovery. Its structures are able to provide a stable basis to allow functionality for RNA components. These structures include riboswitches, ribozymes, interaction sites, and aptamers. Aptamer structures allow the binding of small molecules which gives possibilities for construction of future RNA based nanodevices. RNA origami is further useful in areas such as cell recognition and binding for diagnosis. Additionally, targeted delivery and blood-brain barrier passing have been studied. Perhaps the most important future application for RNA origami is building scaffolds to arrange other microscopic proteins and allow them to work with one another.",
+            "score": 104.19111776351929
+        },
+        {
+            "docid": "441300_9",
+            "document": "Cold Spring Harbor Laboratory . Cell biology and genomics RNA interference (RNAi) and small-RNA biology; DNA replication; RNA splicing; signal transduction; genome structure; non-coding RNAs; deep sequencing; single-cell sequencing and analytics; chromatin dynamics; structural biology; advanced proteomics; mass spectrometry; advanced microscopy.",
+            "score": 80.47507762908936
+        },
+        {
+            "docid": "39868915_8",
+            "document": "Gunther Hartmann . The next scientific focus was on immune sensing of RNA in the cytosol of cells. It turned out that this sensing pathway is related to RNA interference (siRNA, microRNA). In RNA interference, the helicase DICER cleaves longer double-stranded RNA molecules into shorter siRNA or microRNA which are then integrated into the RISC complex. The antisense strand within this RISC complex is responsible for the sequence specificity of silencing of the corresponding target mRNA. In more primitive organisms such as worms RNA interference is used to destroy foreign nucleic acids. This defense mechanism can be regarded as a specific form of a nucleic acid-based immune system in which the newly generated siRNAs function as immune effector molecules. In higher organisms such as vertebrates, this DICER-based defense system is replaced by another defense mechanism. Two helicases related to DICER, RIG-I and MDA5, take over the challenge to detect foreign RNA in the cytosol of cells. However, unlike the helicase DICER, upon recognition of foreign RNA RIG-I and MDA5 trigger a broad spectrum of antiviral activities in the cell including type I IFN. Hartmann and colleagues identified the specific RNA ligand structure detected by RIG-I: RNA with a blunt end and a 5\u00b4-triphosphate. In a subsequent publication, his group elucidated how the molecular structure of the binding pocket of RIG-I precludes binding of N1-2\u2032O methylated RNA, thus preventing recognition of endogenous mRNA by the innate immune system.",
+            "score": 88.56010031700134
+        },
+        {
+            "docid": "11421042_2",
+            "document": "Pyrococcus C/D box small nucleolar RNA . \"Pyrococcus\" C/D box small nucleolar RNA are non-coding RNA (ncRNA) molecules identified in the archaeal genus \"Pyrococcus\" which function in the modification of ribosomal RNA (rRNA) and transfer RNA (tRNA). This type of modifying RNA is usually located in the nucleolus of the eukaryotic cell, which is a major site of ribosomal RNA and snRNA biogenesis, but there is no corresponding visible structure in archaeal cells. This group of ncRNAs are known as small nucleolar RNAs (snoRNA) and also often referred to as a guide RNAs because they direct associated protein enzymes to add a modification to specific nucleotides in target RNAs. C/D box RNAs guide the addition of a methyl group (-CH) to the 2'-O position in the RNA backbone.",
+            "score": 88.51259362697601
+        },
+        {
+            "docid": "1582688_13",
+            "document": "Coronaviridae . In common with the genomes of all other RNA viruses, coronavirus genomes contain cis-acting RNA elements that ensure the specific replication of viral RNA by a virally encoded RNA-dependent RNA polymerase. The embedded cis-acting elements devoted to coronavirus replication constitute a small fraction of the total genome, but this is, it is presumed, a reflection of the fact that coronaviruses have the largest genomes of all RNA viruses. The boundaries of cis-acting elements essential to replication are fairly well-defined, and an increasingly well-resolved picture of the RNA secondary structures of these regions is emerging. However, we are in only the early stages of understanding how these cis-acting structures and sequences interact with the viral replicase and host cell components, and much remains to be done before we understand the precise mechanistic roles of such elements in RNA synthesis.",
+            "score": 92.67253398895264
+        },
+        {
+            "docid": "22217265_14",
+            "document": "Nucleic acid structure determination . Light-Activated Structural Examination of RNA (LASER) probing utilizes UV light to active nicotinoyl azide (NAz), generating nitrenium cation, which reacts with guanosine and adenosine of RNA at C-8 position through a barrierless Friedel-Crafts reaction. This chemical probing method is light-controllable, and probes solvent accessbility of nucleobase, which has been shown to footprint RNA binding proteins inside cells. LASER can be used to probe RNA 3D structure, such as RNA domains protected by three-dimentional RNA motifs.",
+            "score": 86.91382789611816
+        },
+        {
+            "docid": "299329_28",
+            "document": "Probabilistic context-free grammar . Different implementation of these approaches exist. For example, Pfold is used in secondary structure prediction from a group of related RNA sequences, covariance models are used in searching databases for homologous sequences and RNA annotation and classification, RNApromo, CMFinder and TEISER are used in finding stable structural motifs in RNAs.",
+            "score": 73.2193374633789
+        },
+        {
+            "docid": "11763579_18",
+            "document": "Microvesicles . Other than lipids and proteins, microvesicles are enriched with nucleic acids (e.g., messenger RNA (mRNA) and microRNA (miRNA). The identification of RNA molecules in microvesicles supports the hypothesis that they are a biological vehicle for the transfer of nucleic acids and subsequently modulate the target cell's protein synthesis. Messenger RNA transported from one cell to another through microvesicles can be translated into proteins, conferring new function to the target cell. The discovery that microvesicles may shuttle specific mRNA and miRNA suggests that this may be a new mechanism of genetic exchange between cells. Exosomes produced by cells exposed to oxidative stress can mediate protective signals, reducing oxidative stress in recipient cells, a process which is proposed to depend on exosomal RNA transfer. These RNAs are specifically targeted to microvesicles, in some cases containing detectable levels of RNA that is not found in significant amounts in the donor cell.",
+            "score": 76.92195749282837
+        },
+        {
+            "docid": "14875776_6",
+            "document": "XIST . The human Xist RNA gene is located on the long (q) arm of the X chromosome. The Xist RNA gene consists of conserved repeats within its structure and is also largely localized in the nucleus. The Xist RNA gene consists of an A region, which contains 8 repeats separated by U-rich spacers. The A region appears to contain two long stem-loop structures that each include four repeats. An ortholog of the Xist RNA gene in humans has been identified in mice. This ortholog is a 15 kb Xist RNA gene that is also localized in the nucleus. However, the ortholog does not consist of conserved repeats. The gene also consists of an Xist Inactivation Center (XIC), which plays a major role in X inactivation.",
+            "score": 181.21181464195251
+        },
+        {
+            "docid": "11243952_2",
+            "document": "Tryptophan operon leader . The Tryptophan operon leader is an RNA element found at the 5' of some bacterial tryptophan operons. The leader sequence can assume two different secondary structures known as the terminator and the anti-terminator structure. The leader also codes for very short peptide sequence that is rich in tryptophan. The terminator structure is recognised as a termination signal for RNA polymerase and the operon is not transcribed. This structure forms when the cell has an excess of tryptophan and ribosome movement over the leader transcript is not impeded. When there is a deficiency of the charged tryptophanyl tRNA the ribosome translating the leader peptide stalls and the antiterminator structure can form. This allows RNA polymerase to transcribe the operon.",
+            "score": 75.88892352581024
+        },
+        {
+            "docid": "460071_9",
+            "document": "Picornavirus . Genomic RNAs of picornaviruses possess multiple RNA elements and they are required for both negative and plus strand RNA synthesis. The cis acting replication(cre) element is required for replication. The stem-loop-structure that contains the cre is independent of position but changes with location between virus types when it has been identified. Also, the 3\u2019 end elements of viral RNA are significant and efficient for RNA replication of picornaviruses. The 3\u2019 end of picornavirus contains poly(A) tract which be required for infectivity. On the other hand, RNA synthesis is hypothesized to occur in this region.3\u2019 end NCR of poliovirus is not necessary for negative-strands synthesis. However, it is important element for positive\u2014strand synthesis. Additionally,5\u2019 end NCR that contain secondary structural elements is required for RNA replication and poliovirus translation initiation(IRES). Internal Ribosome Entry Site (IRES) are RNA structures that allow cap independent initiation of translation, and are able to initiate translation in the middle of a messenger RNA. The viral particle binds to cell surface receptors. Cell surface receptors are characterized for each serotype of picornaviruses. For example, poliovirus receptor is glycoprotein CD155 which is special receptor for human and some other primate species. For this reason, poliovirus couldn\u2019t be made in many laboratories until transgenic mice having a CD155 receptor on their cell surface were developed in the 1990s. These animals can be infected and used for studies of replication and pathogenesis. Binding causes a conformational change in the viral capsid proteins, and myristic acid are released. These acids form a pore in the cell membrane through which RNA is injected . Once inside the cell, the RNA un-coats and the (+) strand RNA genome is replicated through a double-stranded RNA intermediate that is formed using viral RDRP (RNA-Dependent RNA polymerase). Translation by host cell ribosomes is not initiated by a 5' G cap as usual, but rather is initiated by an IRES (Internal Ribosome Entry Site). The viral lifecycle is very rapid with the whole process of replication being completed on average within 8 hours. However, as little as 30 minutes after initial infection, cell protein synthesis declines to almost zero output \u2013 essentially the macromolecular synthesis of cell proteins is shut off. Over the next 1\u20132 hours there is a loss of margination of chromatin and homogeneity in the nucleus, before the viral proteins start to be synthesized and a vacuole appears in the cytoplasm close to the nucleus that gradually starts to spread as the time after infection reaches around 3 hours. After this time the cell plasma membrane becomes permeable, at 4\u20136 hours the virus particles assemble, and can sometimes be seen in the cytoplasm. At around 8 hours the cell is effectively dead and lyses to release the viral particles.",
+            "score": 93.2186484336853
+        },
+        {
+            "docid": "42067613_12",
+            "document": "Single cell sequencing . Single-cell RNA sequencing (scRNA-seq) provides the expression profile of individual cells. Through gene clustering analyses, rare cell types within a cell population can be identified, thereby making characterization of the subpopulation structure of a heterogeneous cell population possible.  While tumor heterogeneity can be attributed to accumulated mutations, even genetically identical cells, under the same environment, display high variability of gene and protein expression levels. However, RNA with low copy number, which may exert important functions in the cells, is usually undetectable or regarded as noise in traditional cell-averaging methods. Single-cell RNA sequencing on a large number of single cells can identify such uncommon RNA and also reveal the copy-number distribution of the whole mRNA population in individual cells. Knowledge about the shape of distribution can be used to understand the mechanisms of transcription regulation, such as in the methods of Perturb-seq.",
+            "score": 97.59231102466583
+        },
+        {
+            "docid": "11422263_9",
+            "document": "Spot 42 RNA . It was for some years unclear if the function of Spot 42 was mediated through the 109 nucleotide RNA itself or if the function was mediated through the 14 amino acids long peptide which is hypothetically encoded from within the sRNA sequence. This was based on the observation that Spot42 contains structural features similar to other non-coding RNAs found in \"E. coli\" (such as 6S RNA and lambda bacteriophage), as well as features that are typically found in mRNAs (i.e., polypurine sequence followed by AUG, 14 amino acids and an UGA terminator). Using a filter binding assay and other methods showed that Spot 42 is not an mRNA. In this approach the affinity between Spot42 and the 70S ribosome was tested. Here, Spot 42 showed very inefficient binding to purified 70S ribosomes, which lead to the conclusion that the function of Spot 42 is mediated by the RNA itself. B\u00e6kkedal and Haugen made a Spot42 consensus secondary structure based on all known \"spf\" sequences at the time (2015) and found that the spot42 gene is highly conserved across the 5 orders it is identified. The secondary structure has highly conserved nucleotide positions that have the potenital to participatie in binding with known mRNA targets.",
+            "score": 84.27746391296387
+        },
+        {
+            "docid": "11421154_2",
+            "document": "Leucine operon leader . The Leucine operon leader is an RNA element found upstream of the first gene in the Leucine biosynthetic operon. The leader sequence can assume two different secondary structures known as the terminator and the anti-terminator structure. The leader also codes for very short peptide sequence that is rich in leucine amino acid. The terminator structure is recognised as a termination signal for RNA polymerase and the operon is not transcribed. This structure forms when the cell has an excess of leucine and ribosome movement over the leader transcript is not impeded. When there is a deficiency of the charged leucyl tRNA the ribosome translating the leader peptide stalls and the antiterminator structure can form. This allows RNA polymerase to transcribe the operon. At least 6 amino acid operons are known to be regulated by attenuation.",
+            "score": 77.21050274372101
+        },
+        {
+            "docid": "28615_10",
+            "document": "Sequencing . RNA is less stable in the cell, and also more prone to nuclease attack experimentally. As RNA is generated by transcription from DNA, the information is already present in the cell's DNA. However, it is sometimes desirable to sequence RNA molecules. While sequencing DNA gives a genetic profile of an organism, sequencing RNA reflects only the sequences that are actively expressed in the cells. To sequence RNA, the usual method is first to reverse transcribe the RNA extracted from the sample to generate cDNA fragments. This can then be sequenced as described above. The bulk of RNA expressed in cells are ribosomal RNAs or small RNAs, detrimental for cellular translation, but often not the focus of a study. This fraction can fortunately be removed \"in vitro\", however, to enrich for the messenger RNA, also included, that usually is of interest. Derived from the exons these mRNAs are to be later translated to proteins that support particular cellular functions. The expression profile therefore indicates cellular activity, particularly desired in the studies of diseases, cellular behaviour, responses to reagents or stimuli. Eukaryotic RNA molecules are not necessarily co-linear with their DNA template, as introns are excised. This gives a certain complexity to map the read sequences back to the genome and thereby identify their origin. For more information on the capabilities of next-generation sequencing applied to whole transcriptomes see: RNA-Seq and MicroRNA Sequencing.",
+            "score": 79.06949520111084
+        },
+        {
+            "docid": "33663886_2",
+            "document": "ChiRP-Seq . ChiRP-Seq (Chromatin Isolation by RNA purification) is a high-throughput sequencing method to discover regions of the genome which are bound by a specific RNA (or by a ribonucleoprotein containing the RNA of interest).  Recent studies have shown that a significant proportion of some genomes (including mouse and human genomes) synthesize RNA that apparently do not code for proteins. The function of most of these non-coding RNA still has to be ascertained. Various genomic methods are being developed to map the functional association of these novel RNA to distinct regions of the genome to gain a better understanding of their function. ChiRP-Seq is one of these new methods which uses the massively parallel sequencing capability of 2nd generation sequencers to catalog the binding sites of these novel RNA molecules on a genome.",
+            "score": 87.88839530944824
+        },
+        {
+            "docid": "46181852_26",
+            "document": "Negative-sense single-stranded RNA virus . The process of encapsidation is a concomitant process with viral replication, likely at the site of the viral RNA replication process. Another unique feature of NSVs is that the sequestered bases are stacked to form a motif similar to half of the A-form double helix of RNA. The stacking arrangement allows for maximized packaging of the RNA in the capsid. The base stacking may actually contribute to the overall stability of the nucleocapsid, and is dependent on the RNA sequence (i.e. poly(rA) is the most stable). An interesting finding is that specific sequences in the sequestered RNA genome may regulate viral functions. For translational termination, there is a U7 track at the end of each coding region, causing this to be the least stable region. This therefore promotes dissociation of the transcription complex. A unique aspect of NSVs is the conserved (3H+5H) motif, which has been identified to constitute the RNA cavity through secondary structure elements of the N protein.",
+            "score": 79.39453601837158
+        },
+        {
+            "docid": "209459_37",
+            "document": "Alternative splicing . CLIP (Cross-linking and immunoprecipitation) uses UV radiation to link proteins to RNA molecules in a tissue during splicing. A trans-acting splicing regulatory protein of interest is then precipitated using specific antibodies. When the RNA attached to that protein is isolated and cloned, it reveals the target sequences for that protein. Another method for identifying RNA-binding proteins and mapping their binding to pre-mRNA transcripts is \"Microarray Evaluation of Genomic Aptamers by shift (MEGAshift)\".net This method involves an adaptation of the \"Systematic Evolution of Ligands by Exponential Enrichment (SELEX)\" method together with a microarray-based readout. Use of the MEGAshift method has provided insights into the regulation of alternative splicing by allowing for the identification of sequences in pre-mRNA transcripts surrounding alternatively spliced exons that mediate binding to different splicing factors, such as ASF/SF2 and PTB. This approach has also been used to aid in determining the relationship between RNA secondary structure and the binding of splicing factors.",
+            "score": 76.79097521305084
+        }
+    ],
+    "r": [
+        {
+            "docid": "14875776_6",
+            "document": "XIST . The human Xist RNA gene is located on the long (q) arm of the X chromosome. The Xist RNA gene consists of conserved repeats within its structure and is also largely localized in the nucleus. The Xist RNA gene consists of an A region, which contains 8 repeats separated by U-rich spacers. The A region appears to contain two long stem-loop structures that each include four repeats. An ortholog of the Xist RNA gene in humans has been identified in mice. This ortholog is a 15 kb Xist RNA gene that is also localized in the nucleus. However, the ortholog does not consist of conserved repeats. The gene also consists of an Xist Inactivation Center (XIC), which plays a major role in X inactivation.",
+            "score": 181.21182250976562
+        },
+        {
+            "docid": "46697210_15",
+            "document": "Epigenetics of human development . Inactivation of one of the X chromosomes is initiated by a long non coding RNA called Xist. This lncRNA is expressed on the same chromosome it represses, known as working in cis. Recent research has shown that a repeat element in the RNA of Xist causes PRC2 to bind to the RNA. Another part of the RNA binds to the X-chromosome positioning PRC2 such that it can methylate various regions on the X-chromosome. This methylation causes other factors like histone deacetylases (HDACs) to bind to the chromosome and propagate heterochromatin formation, even into active gene regions. This heterochromatin greatly reduces, if not completely silences gene expression of the Barr body. Xist will be continuously created to maintain a condensed and silenced Barr body.",
+            "score": 167.24188232421875
+        },
+        {
+            "docid": "46697210_32",
+            "document": "Epigenetics of human development . In human cells with more than one X chromosome, two long non-coding RNAs are produced: Tsix is produced by one X chromosome, and Xist is produced by all of the other X chromosomes. Tsix is a long non-coding RNA that prevents repression of an X chromosome, while Xist is a long non-coding RNA that acts to repress and condense an entire X chromosome. The actions of Xist serve to create a Barr body in the cell.",
+            "score": 166.5455780029297
+        },
+        {
+            "docid": "1502660_23",
+            "document": "X-inactivation . Prior to inactivation, both X chromosomes weakly express Xist RNA from the Xist gene. During the inactivation process, the future Xa ceases to express Xist, whereas the future Xi dramatically increases Xist RNA production. On the future Xi, the Xist RNA progressively coats the chromosome, spreading out from the XIC; the Xist RNA does not localize to the Xa. The silencing of genes along the Xi occurs soon after coating by Xist RNA.",
+            "score": 164.67861938476562
+        },
+        {
+            "docid": "14875776_8",
+            "document": "XIST . The Xist RNA directly binds to the inactive X-chromosome through a chromatin binding region of the RNA transcript. The Xist chromatin binding region was first elucidated in female mouse fibroblastic cells. The primary chromatin binding region was shown to localize to the C-repeat region. The chromatin-binding region was functionally mapped and evaluated by using an approach for studying noncoding RNA function in living cells called peptide nucleic acid (PNA) interference mapping. In the reported experiments, a single 19-bp antisense cell-permeating PNA targeted against a particular region of Xist RNA caused the disruption of the Xi. The association of the Xi with macro-histone H2A is also disturbed by PNA interference mapping.",
+            "score": 164.5470733642578
+        },
+        {
+            "docid": "14875776_2",
+            "document": "XIST . Xist (X-inactive specific transcript) is an RNA gene on the X chromosome of the placental mammals that acts as a major effector of the X inactivation process. It is a component of the \"Xic\" \u2013 X-chromosome inactivation centre \u2013 along with two other RNA genes (\"Jpx\" and \"Ftx\") and two protein genes (\"Tsx\" and \"Cnbp2\"). The Xist RNA, a large (17 kb in humans) transcript, is expressed on the inactive chromosome and not on the active one. It is processed in a similar way to mRNAs, through splicing and polyadenylation. However, it remains untranslated. It has been suggested that this RNA gene evolved at least partly from a protein coding gene that became a pseudogene. The inactive X chromosome is coated with this transcript, which is essential for the inactivation. X chromosomes lacking Xist will not be inactivated, while duplication of the Xist gene on another chromosome causes inactivation of that chromosome.",
+            "score": 164.2790985107422
+        },
+        {
+            "docid": "1502660_22",
+            "document": "X-inactivation . The X-inactive specific transcript (Xist) gene encodes a large non-coding RNA that is responsible for mediating the specific silencing of the X chromosome from which it is transcribed. The inactive X chromosome is coated by Xist RNA, whereas the Xa is not (See Figure to the right). X chromosomes that lack the Xist gene cannot be inactivated. Artificially placing and expressing the Xist gene on another chromosome leads to silencing of that chromosome.",
+            "score": 161.9568328857422
+        },
+        {
+            "docid": "1502660_24",
+            "document": "X-inactivation . Like Xist, the Tsix gene encodes a large RNA which is not believed to encode a protein. The Tsix RNA is transcribed antisense to Xist, meaning that the Tsix gene overlaps the Xist gene and is transcribed on the opposite strand of DNA from the Xist gene. Tsix is a negative regulator of Xist; X chromosomes lacking Tsix expression (and thus having high levels of Xist transcription) are inactivated much more frequently than normal chromosomes.",
+            "score": 161.85177612304688
+        },
+        {
+            "docid": "196493_29",
+            "document": "Non-coding RNA . Xist (X-inactive-specific transcript) is a long ncRNA gene on the X chromosome of the placental mammals that acts as major effector of the X chromosome inactivation process forming Barr bodies. An antisense RNA, Tsix, is a negative regulator of Xist. X chromosomes lacking Tsix expression (and thus having high levels of Xist transcription) are inactivated more frequently than normal chromosomes. In drosophilids, which also use an XY sex-determination system, the roX (RNA on the X) RNAs are involved in dosage compensation. Both Xist and roX operate by epigenetic regulation of transcription through the recruitment of histone-modifying enzymes.",
+            "score": 161.39889526367188
+        },
+        {
+            "docid": "38973115_2",
+            "document": "Tsix . Tsix is a non-coding RNA gene that is antisense to the Xist RNA. Tsix binds Xist during X chromosome inactivation. The name Tsix comes from the reverse of Xist, which stands for X-inactive specific transcript.",
+            "score": 152.6049346923828
+        },
+        {
+            "docid": "57662296_3",
+            "document": "Neil Brockdorff . X inactivation is an important model for understanding how epigenetic mechanisms, for example modification of DNA and histone proteins around which DNA is packaged, contribute to gene regulation in developmental biology. In earlier work Brockdorff demonstrated that an unusual functional RNA molecule, XIST, controls the X inactivation process. Building on this finding he has elucidated key steps in XIST gene regulation during early development, and has defined major pathways through which XIST RNA induces chromosome wide gene silencing.",
+            "score": 151.05813598632812
+        },
+        {
+            "docid": "14875776_12",
+            "document": "XIST . A dsRNA and RNAi pathway have been also proposed to play a role in regulation of the Xist Promoter. Dicer is an RNAi enzyme and it is believed to cleave the duplex of Xist and Tsix at the beginning of X inactivation, to small ~30 nucleotide RNAs, which have been termed xiRNAs, These xiRNAs are believed to be involved in repressing Xist on the probable active X chromosome based upon studies. A study was conducted where normal endogenous Dicer levels were decreased to 5%, which led to an increase in Xist expression in undifferentiated cells, thus supporting the role of xiRNAs in Xist repression. The role and mechanism of xiRNAs is still under examination and debate.",
+            "score": 150.4776611328125
+        },
+        {
+            "docid": "16770101_30",
+            "document": "Long non-coding RNA . The inactivation of a X-chromosome in female placental mammals is directed by one of the earliest and best characterized long ncRNAs, Xist. The expression of Xist from the future inactive X-chromosome, and its subsequent coating of the inactive X-chromosome, occurs during early embryonic stem cell differentiation. Xist expression is followed by irreversible layers of chromatin modifications that include the loss of the histone (H3K9) acetylation and H3K4 methylation that are associated with active chromatin, and the induction of repressive chromatin modifications including H4 hypoacetylation, H3K27 trimethylation, H3K9 hypermethylation and H4K20 monomethylation as well as H2AK119 monoubiquitylation. These modifications coincide with the transcriptional silencing of the X-linked genes. Xist RNA also localises the histone variant macroH2A to the inactive X\u2013chromosome. There are additional ncRNAs that are also present at the Xist loci, including an antisense transcript Tsix, which is expressed from the future active chromosome and able to repress Xist expression by the generation of endogenous siRNA. Together these ncRNAs ensure that only one X-chromosome is active in female mammals.",
+            "score": 148.6708221435547
+        },
+        {
+            "docid": "32954437_2",
+            "document": "Ftx (gene) . In molecular biology, FTX transcript, XIST regulator (non-protein coding), also known as FTX (Five prime to Xist), is a long non-coding RNA. In humans, it is located on the X chromosome. It was identified during sequence analysis of the X inactivation centre, surrounding the XIST gene. FTX contains several microRNAs within its introns. It upregulates expression of XIST, and inhibits DNA methylation of the XIST promoter.",
+            "score": 148.20556640625
+        },
+        {
+            "docid": "46697210_27",
+            "document": "Epigenetics of human development . Although PRC2 seems to have a very simple mechanism and works on many genes and chromosomes across the genome, it often has very specific binding regions and has been observed to localize to specific genes to cause their repression. Recent research shows that it probably does this through the binding of long non coding RNAs (lncRNAs). Xist and Hox genes have both been studied extensively and display this mechanism very well. The lncRNA that the complex binds does not necessarily need to hybridize to the target region in order to silence it, as evidenced by the PRC2-lncRNA complex working on regions other than the region from which this complex was produced. However, the three-dimensional configuration of the RNA often gives the complex specific localization to regions where the RNA is created to bind.",
+            "score": 147.35992431640625
+        },
+        {
+            "docid": "41719778_18",
+            "document": "Epitranscriptome . mA is not only found on mRNAs, various non-coding RNAs also contain this mark. For instance, XIST, the lncRNA that initiates X-inactivation, is enriched in mA. These mA are recognized and bound by the YTH domain protein YTHDC1. XIST mediated silencing of the X chromosome is negatively affected when XIST is not modified with mA.",
+            "score": 146.96234130859375
+        },
+        {
+            "docid": "9917150_5",
+            "document": "Lamin B receptor . Lamin B receptor has been shown to interact with CBX3 and CBX5. LBR also interacts with long non-coding RNA XIST in mouse cells and potentially assist the spreading XIST across X chromosome.",
+            "score": 145.322998046875
+        },
+        {
+            "docid": "50285278_5",
+            "document": "Polycomb recruitment in X chromosome inactivation . Biochemical studies have also shown that \"in vitro\" PRC2 binds the A-repeat (RepA) of Xist RNA directly and with very high affinity (dissociation constants of 10-100 nanomolar), supporting Xist-mediated recruitment of PRC2 to the X chromosome. However it is not clear whether such interactions occurs \"in vivo\" under physiological conditions. Failure to turn up PRC2 proteins in function screens may be due to cells not being able to survive or compete without PRC2 or incomplete screens. Two super resolution microscopy analyses have presented different views from each other. One showed that Xist and PRC2 are spatially separated, while another showed that Xist and PRC2 are tightly linked. It is possible that several mechanisms recruit PRC2 in parallel, including direct Xist-mediated recruitment, adaptor proteins, chromatin changes, RNA pol II exclusion, or PRC1 recruitment. For instance, PRC2 recruitment is linked to PRC1-mediated H2A119 ubiquitination in differentiating embryonic stem cells (ESCs). where PRC1 recruitment is mediated by hnrnpK and Xist repB . In fully differentiated cells, PRC2 recruitment seems to be dependent on Xist RepA (ref). It is possible that alternative and complementary pathways work to establish PRC2 recruitment on the X in different experimental systems and during different stages of development.",
+            "score": 145.07095336914062
+        },
+        {
+            "docid": "32984408_2",
+            "document": "Jpx (gene) . In molecular biology, JPX transcript, XIST activator (non-protein coding), also known as Jpx, is a long non-coding RNA. In humans, it is located on the X chromosome. It was identified during sequence analysis of the X inactivation centre, surrounding the Xist gene. Jpx upregulates expression of Xist.",
+            "score": 143.5952911376953
+        },
+        {
+            "docid": "50285278_4",
+            "document": "Polycomb recruitment in X chromosome inactivation . XCI is usually divided in two phases, the establishment phase when gene silencing is reversible, and maintenance phase when gene silencing becomes irreversible. During the establishment phase of X Chromosome Inactivation (XCI), Xist RNA, the master regulator of this process, spreads \"in cis\" along the future inactive X (Xi) and recruits repressive chromatin-remodelling complexes. Among these, Xist recruits proteins of the Polycomb repressive complexes. Whether Xist directly recruits Polycomb repressive complex 2 (PRC2) to the chromatin or this recruitment is the consequence of Xist-mediated changes on the chromatin has been object of intense debate. Some studies showed that PRC2 components are not associated with Xist RNA or do not interact functionally. However another study has shown by means of mass spectrometry analysis, that two subunits of PRC2 may interact with Xist, although these proteins are also found in other complexes and are not unique components of the PRC2 complex.",
+            "score": 141.63958740234375
+        },
+        {
+            "docid": "1502660_26",
+            "document": "X-inactivation . Rep A is a long non coding RNA that works with another long non coding RNA, Xist, for X inactivation. Rep A inhibits the function of Tsix, the antisense of Xist, in conjunction with eliminating expression of Xite. It promotes methylation of the Tsix region by attracting PRC2 and thus inactivating one of the X chromosomes.",
+            "score": 141.10104370117188
+        },
+        {
+            "docid": "14875776_9",
+            "document": "XIST . The Xist RNA gene lies within the X-Inactivation Centre (XIC), which plays a major role in Xist expression and X inactivation. The XIC is located on the q arm of the X chromosome (Xq13). XIC regulates Xist in cis X inactivation, where Tsix, an antisense of Xist, downregulates the expression of Xist. The Xist promoter of XIC is the master regulator of X inactivation. X inactivation plays a key role in dosage compensation.",
+            "score": 139.20101928710938
+        },
+        {
+            "docid": "38973115_5",
+            "document": "Tsix . In mice and some other mammals, the maternal X chromosome is always active and the paternal X chromosome is always silenced, in a process called genomic imprinting. Xist inactivates the paternal X chromosome in female mice by condensing the chromatin, via histone methylation among other mechanisms that are currently being studied. Tsix binds complementary Xist RNA and render it non-functional. After binding it, Xist is made inactive through dicer. Thus, Xist does not condense chromatin on the maternal chromosome, letting it remain active. This does not occur on the paternal chromosome, and Xist proceeds to inactivate that chromosome. Tsix also functions to silence transcription of Xist through epigenetic regulation.",
+            "score": 139.1052703857422
+        },
+        {
+            "docid": "46669355_24",
+            "document": "Polycomb Group Proteins and Cancer . After the coating of Xist, the Polycomb group proteins bind to the future inactive X chromosome. Xist first triggers inactivation with Xist RNA binding in cis across the chromosome. Proteins then bind the Xist RNA, modifying the histones. PRC2 inserts a histone 3 lysine 27 trimethylation mark, indicative of inactive chromatin. This Xist RNA is also probably bound by EHMT2 which inserts a histone 3 lysine 9 trimethylation mark, another indicator of repression. EeD (embryonic ectoderm development: a core subunit of PRC2) specifically recognizes and binds to the repressive trimethylated lysine marks, contributing to the affinity of PRC2 for nucleosomes. PRC2 recruits DNMT3, which can add the 5 methyl DNA mark to CpG islands. Histone 3 lysine 27 trimethylation is then bound by PRC1 to trigger H2A ubiqination. Condensation continues with these marks as histone 3 lysine 4 is demethylated and histone 3 lysine 9 is deacetylated. These marks promote heterochromatin formation. Analysis of the spread of X chromosome inactivation into autosomal material in one study showed that genes that were subject to (or escaped from) X chromosome inactivation clustered within topologically associating domains, and these genes were more likely to be found in regions that have PRC2 and histone 3 lysine 27 trimethylation marks normally on non-rearranged chromosomes. MACROH2A is a replacement for histone H2A that also supports heterochromatin formation. In particular, one subtype of MACROH2A, macroH2A1.2, is concentrated in the inactive X chromosome in adult females. In fact, in some mammals macroH2A1 appears to be the earliest marker of the inactive X chromosome and is the only change that has been shown to occur during the period when transcriptional silencing is initiated.",
+            "score": 138.7884521484375
+        },
+        {
+            "docid": "14875776_4",
+            "document": "XIST . The functional role of the Xist transcript was definitively demonstrated in mouse female ES cells using a novel antisense technology, called peptide nucleic acid (PNA) interference mapping. In the reported experiments, a single 19-bp antisense cell-permeating PNA targeted against a particular region of Xist RNA prevented the formation of Xi and inhibited cis-silencing of X-linked genes. The association of the Xi with macro-histone H2A is also disturbed by PNA interference mapping.",
+            "score": 138.62489318847656
+        },
+        {
+            "docid": "1502660_25",
+            "document": "X-inactivation . Like Xist, prior to inactivation, both X chromosomes weakly express Tsix RNA from the Tsix gene. Upon the onset of X-inactivation, the future Xi ceases to express Tsix RNA (and increases Xist expression), whereas Xa continues to express Tsix for several days.",
+            "score": 136.8444366455078
+        },
+        {
+            "docid": "616901_9",
+            "document": "Polyadenylation . Many eukaryotic non-coding RNAs are always polyadenylated at the end of transcription. There are small RNAs where the poly(A) tail is seen only in intermediary forms and not in the mature RNA as the ends are removed during processing, the notable ones being microRNAs. But, for many long noncoding RNAs\u00a0\u2013 a seemingly large group of regulatory RNAs that, for example, includes the RNA Xist, which mediates X chromosome inactivation\u00a0\u2013 a poly(A) tail is part of the mature RNA.",
+            "score": 135.03213500976562
+        },
+        {
+            "docid": "14875776_7",
+            "document": "XIST . The Xist RNA contains a region of conservation called the repeat A (repA) region that contains up to nine repeated elements. It was initially suggested that repA repeats could fold back on themselves to form local intra-repeat stem-loop structures. Later work using in vitro biochemical structure probing proposed several inter-repeat stem-loop structures. A recent study using in vivo biochemical probing and comparative sequence analysis proposed a revision of the repA structure model that includes both intra-repeat and inter-repeat folding found in previous models as well as novel features (see Figure). In addition to its agreement with the in vivo data, this revised model is highly conserved in rodents and mammals (including humans) suggesting functional importance for repA structure. Although the exact function of the repA region is uncertain, it was shown that the entire region is needed for efficient binding to the Suz12 protein.",
+            "score": 131.63653564453125
+        },
+        {
+            "docid": "31202359_2",
+            "document": "LncRNAdb . In bioinformatics, lncRNAdb is a biological database of Long non-coding RNAs The database focusses on those RNAs which have been experimentally characterised with a biological function.The database currently holds over 290 lncRNAs from around 60 species. Example lncRNAs in the database are HOTAIR and Xist.",
+            "score": 131.36354064941406
+        },
+        {
+            "docid": "11422409_4",
+            "document": "Vault RNA . Vault RNA was first identified as part of the vault ribonucleoprotein complex in 1986. Since the first discovery of non-coding RNA in the mid 60\u2019s, there had been considerable interest in the field. The fruition of this interest was apparent in the 80\u2019s during a string of non-coding RNA discoveries, such as Ribosomal RNA, snoRNA, Xist, and vault RNA.",
+            "score": 130.91896057128906
+        },
+        {
+            "docid": "196493_2",
+            "document": "Non-coding RNA . A non-coding RNA (ncRNA) is an RNA molecule that is not translated into a protein. The DNA sequence from which a functional non-coding RNA is transcribed is often called an RNA gene. Abundant and functionally important types of non-coding RNAs include transfer RNAs (tRNAs) and ribosomal RNAs (rRNAs), as well as small RNAs such as microRNAs, siRNAs, piRNAs, snoRNAs, snRNAs, exRNAs, scaRNAs and the long ncRNAs such as Xist and HOTAIR.",
+            "score": 130.81295776367188
+        },
+        {
+            "docid": "53812159_3",
+            "document": "Jeannie T. Lee . Lee joined the faculty at Harvard in 1997 and devoted her studies to sex chromosome dynamics during development and disease. Among her major achievements include identifying the X inactivation center, discovering Tsix antisense RNA, determining Xist's mechanism of action, and demonstrating that RNA is a regulator of Polycomb repressive complex 2. Upon conferring the Lurie Prize to Lee, Dr. Charles A. Sanders of the Foundation for the National Institutes of Health remarked: \u201cDr. Lee\u2019s work has revolutionized the field of epigenetics. Her research has led to groundbreaking contributions, and we now have a better understanding of the unique role that long non-coding RNAs play in gene expression, which could lead to the development of new therapeutics.\u201d",
+            "score": 130.75909423828125
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "2948815_2",
+            "document": "Amyloid precursor protein secretase . Secretases are enzymes that \"snip\" pieces off a longer protein that is embedded in the cell membrane. Among other roles in the cell, secretases act on the amyloid precursor protein (APP) to cleave the protein into three fragments. Sequential cleavage by \u03b2-secretase (BACE) and \u03b3-secretase produces the amyloid-\u03b2 peptide fragment that aggregates into clumps called \"plaques\" in the brains of Alzheimer's disease patients. If \u03b1-secretase acts on APP first instead of BACE, no amyloid-\u03b2 is formed because \u03b1-secretase recognizes a target protein sequence closer to the cell surface than BACE. The non-pathogenic middle fragment formed by an \u03b1/\u03b3 cleavage sequence is called P3.",
+            "score": 224.10004115104675
+        },
+        {
+            "docid": "28667803_6",
+            "document": "Protein pigeon homolog . The activating function of GSAP can be inhibited by the anticancer drug imatinib (Gleevec) which in turn prevents \u03b3-secretase from converting APP into plaque forming \u03b2-amyloid without affecting the other functions of \u03b3-secretase. Imatinib itself does not get into the brain so imatinib could not be used as an AD therapeutic. However it may be possible to identify imatinib-like drugs that do get into the brain. Hence GSAP represents a potential therapeutic target for the treatment of Alzheimer's disease (AD).",
+            "score": 157.36121249198914
+        },
+        {
+            "docid": "7731934_2",
+            "document": "Gamma secretase . Gamma secretase is a multi-subunit protease complex, itself an integral membrane protein, that cleaves single-pass transmembrane proteins at residues within the transmembrane domain. Proteases of this type are known as intramembrane proteases. The most well-known substrate of gamma secretase is amyloid precursor protein, a large integral membrane protein that, when cleaved by both gamma and beta secretase, produces a short 42 amino acid peptide called amyloid beta whose abnormally folded fibrillar form is the primary component of amyloid plaques found in the brains of Alzheimer's disease patients. Gamma secretase is also critical in the related processing of several other type I integral membrane proteins, such as Notch, ErbB4, E-cadherin, N-cadherin, ephrin-B2, or CD44.",
+            "score": 246.17035162448883
+        },
+        {
+            "docid": "28972840_19",
+            "document": "Clinical neurochemistry . Alzheimer's Disease is the most common cause of severe memory impairment and is caused by senile plaques, neurofibrillary tangles, dystrophic neuritis, and neuronal loss. It is thought that Alzheimer's disease may be due to unnecessary protein accumulation of \u03b2 Amyloid. In fact, Senile plaques are dense, protein deposits composed of amyloid \u03b2 peptide. The two types of senile plaques are diffuse plaques and neuritic plaques, and differ in morphology. In addition to the amyloid, the microtubule-associated Tau protein has also been in involved with Alzheimer's Disease and a variety of other neurodegenerative diseases. Inherited forms of Alzheimer's have been linked to mutation in the APP genes or presenilins which regulate APP processing. Because cholinergic neurons of the nucleus basalis are significantly altered during Alzheimer's progression, cholinergic agents such as choline and lecithin were hypothesized to augment the progression. However, these attempts were unsuccessful and the only clinically useful drugs used in the United States are cholinesterase inhibitors, which prolong the time before choline degradation. Although aNMDA receptor antagonists and anti-inflammatory drugs were tested in a clinical environment, more promising clinical trials are underway to targeting the A\u03b2 with the immune system.",
+            "score": 114.22735393047333
+        },
+        {
+            "docid": "14151941_7",
+            "document": "ABCC1 . The ATP-binding cassette protein ABCC1 has received attention in the last decade due to its possible connection with Alzheimer\u2019s disease. One of the more prominent signs of Alzheimer's disease is the accumulation of \u03b2-amyloid proteins in the brain. As these proteins accumulate, they begin to form plaques that interfere with signaling between cells of the nervous system found within the brain. Due to its presence in the choroid plexus and blood-brain barrier and its ability to transport multiple kinds of molecules out of cells, ABCC1 has been a point of interest in many Alzheimer's disease studies. The transporter protein has been shown to decrease \u03b2-amyloid accumulation by nearly 80 percent when activated, leading researchers to further investigation on its use in future treatments of Alzheimer's and other neurological disorders.",
+            "score": 136.45398926734924
+        },
+        {
+            "docid": "1958222_2",
+            "document": "Amyloid beta . Amyloid beta (A\u03b2 or Abeta) denotes peptides of 36\u201343 amino acids that are crucially involved in Alzheimer's disease as the main component of the amyloid plaques found in the brains of Alzheimer patients. The peptides derive from the amyloid precursor protein (APP), which is cleaved by beta secretase and gamma secretase to yield A\u03b2. A\u03b2 molecules can aggregate to form flexible soluble oligomers which may exist in several forms. It is now believed that certain misfolded oligomers (known as \"seeds\") can induce other A\u03b2 molecules to also take the misfolded oligomeric form, leading to a chain reaction akin to a prion infection. The oligomers are toxic to nerve cells. The other protein implicated in Alzheimer's disease, tau protein, also forms such prion-like misfolded oligomers, and there is some evidence that misfolded A\u03b2 can induce tau to misfold.",
+            "score": 223.6846306324005
+        },
+        {
+            "docid": "18914017_30",
+            "document": "Alzheimer's disease . Alzheimer's disease has been identified as a protein misfolding disease (proteopathy), caused by plaque accumulation of abnormally folded amyloid beta protein, and tau protein in the brain. Plaques are made up of small peptides, 39\u201343\u00a0amino acids in length, called amyloid beta (A). A is a fragment from the larger amyloid precursor protein (APP). APP is a transmembrane protein that penetrates through the neuron's membrane. APP is critical to neuron growth, survival, and post-injury repair. In Alzheimer's disease, gamma secretase and beta secretase act together in a proteolytic process which causes APP to be divided into smaller fragments. One of these fragments gives rise to fibrils of amyloid beta, which then form clumps that deposit outside neurons in dense formations known as senile plaques.",
+            "score": 218.65103220939636
+        },
+        {
+            "docid": "28667803_7",
+            "document": "Protein pigeon homolog . The drug semagacestat in contrast to imatinib, works by directly inhibiting the \u03b3-secretase. While semagacestat reduces \u03b2-amyloid plaque formation in AD patients, \u03b3-secretase is also needed to make other important proteins. The failure of semagacestat to improve the cognitive function of AD patients may be due to its non-selective blockade of \u03b3-secretase. The more selective blockade of \u03b3-secretase provided by inhibiting GSAP may make GSAP a more efficacious and safer drug target than \u03b3-secretase.",
+            "score": 158.34113144874573
+        },
+        {
+            "docid": "41116283_14",
+            "document": "Cholinergic neuron . Although degeneration of basal forebrain cholinergic cells has been observed in many other dementias, Alzheimer's has two distinctive histological hallmarks: Beta amyloid plaques and neurofibrillary tangles. The Beta amyloid plaques are high-molecular weight fibrils and are major components of the senile Alzheimer's disease brain. There appears to be a vast, intrinsic microvascular pathology of the brain in these cases, which suggests a link between Beta amyloid production, impairments in cerebrovascular function, and basal forebrain cholinergic deficits in AD. It appears that Beta amyloid (1-42) mediates its cytotoxic action by affecting key proteins that play a role in apoptosis induction. There is also evidence that shows beta amyloid proteins actually bind to cholinergic neurons and physically inhibit ChAT activity in cultures treated with oligomers of beta amyloid. The other histological hallmarks, neurofibrillary tangles, are the intracellular inclusions formed by aggregates of hyperphosphorylated tau protein. This is found only in select populations of patients with Alzheimer's. This tau protein has specific pathology, and has been found both in patients with mild cognitive impairment (a forerunner of Alzheimer's) and Alzheimer's itself. The neurofibrillary tangles seem to increase within the basal forebrain cholinergic complex with old age and at a more accelerated pace in patients with Alzheimer's.",
+            "score": 111.39831900596619
+        },
+        {
+            "docid": "29850197_4",
+            "document": "Alzheimer's disease biomarkers . Various enzymatic digestion including \u03b2- and \u03b3- secretase will cleave amyloid precursor protein (APP) into various types of amyloid \u03b2 protein. Most \u03b2-secretase activity originates from an integral membrane aspartyle protease encoded by the \u03b2-site APP-cleaving enzyme 1 gene (BACE1). According to research led by Dr. Zetterberg, he used a sensitive and specific BACE1 assay to assess CSF BACE1 activity in AD. As a result, increased BACE1 expression and enzymatic activity has been detected in subjects with AD. It was concluded that elevated BACE 1 activity may contribute to the amyloidgenic process in Alzheimer's disease. CSF BACE1 activity can be a potential candidate biomarker to monitor amyloidogenic APP metabolism in the CNS.",
+            "score": 172.01834535598755
+        },
+        {
+            "docid": "2415986_10",
+            "document": "Milnacipran . Recently, levomilnacipran, the levorotatory enantiomer of milnacipran, has been found to act as an inhibitor of beta-site amyloid precursor protein cleaving enzyme-1 (BACE-1), which is responsible for \u03b2-amyloid plaque formation, and hence may be a potentially useful drug in the treatment of Alzheimer's disease. Other BACE-1 inhibitors, such as CTS-21166 (ASP1720), MK-8931, and AZD3293 are currently in clinical trials for the treatment of Alzheimer's disease.",
+            "score": 114.43832182884216
+        },
+        {
+            "docid": "1107334_20",
+            "document": "Notch signaling pathway . Once the notch extracellular domain interacts with a ligand, an ADAM-family metalloprotease called ADAM10, cleaves the notch protein just outside the membrane. This releases the extracellular portion of notch (NECD), which continues to interact with the ligand. The ligand plus the notch extracellular domain is then endocytosed by the ligand-expressing cell. There may be signaling effects in the ligand-expressing cell after endocytosis; this part of notch signaling is a topic of active research. After this first cleavage, an enzyme called \u03b3-secretase (which is implicated in Alzheimer's disease) cleaves the remaining part of the notch protein just inside the inner leaflet of the cell membrane of the notch-expressing cell. This releases the intracellular domain of the notch protein (NICD), which then moves to the nucleus, where it can regulate gene expression by activating the transcription factor CSL. It was originally thought that these CSL proteins suppressed Notch target transcription. However, further research showed that, when the intracellular domain binds to the complex, it switches from a repressor to an activator of transcription. Other proteins also participate in the intracellular portion of the notch signaling cascade.",
+            "score": 131.6971915960312
+        },
+        {
+            "docid": "14194866_3",
+            "document": "PSEN2 . Alzheimer's disease (AD) patients with an inherited form of the disease carry mutations in the presenilin proteins (PSEN1; PSEN2) or the amyloid precursor protein (APP). These disease-linked mutations result in increased production of the longer form of amyloid-beta (main component of amyloid deposits found in AD brains). Presenilins are postulated to regulate APP processing through their effects on gamma-secretase, an enzyme that cleaves APP. Also, it is thought that the presenilins are involved in the cleavage of the Notch receptor, such that they either directly regulate gamma-secretase activity or themselves are protease enzymes. Two alternative transcripts of PSEN2 have been identified.",
+            "score": 227.00537776947021
+        },
+        {
+            "docid": "1958222_13",
+            "document": "Amyloid beta . A\u03b2 is formed after sequential cleavage of the amyloid precursor protein (APP), a transmembrane glycoprotein of undetermined function. APP can be cleaved by the proteolytic enzymes \u03b1-, \u03b2- and \u03b3-secretase; A\u03b2 protein is generated by successive action of the \u03b2 and \u03b3 secretases. The \u03b3 secretase, which produces the C-terminal end of the A\u03b2 peptide, cleaves within the transmembrane region of APP and can generate a number of isoforms of 30-51 amino acid residues in length. The most common isoforms are A\u03b2 and A\u03b2; the longer form is typically produced by cleavage that occurs in the endoplasmic reticulum, while the shorter form is produced by cleavage in the trans-Golgi network. The A\u03b2 form is the more common of the two, but A\u03b2 is the more fibrillogenic and is thus associated with disease states. Mutations in APP associated with early-onset Alzheimer's have been noted to increase the relative production of A\u03b2, and thus one suggested avenue of Alzheimer's therapy involves modulating the activity of \u03b2 and \u03b3 secretases to produce mainly A\u03b2.",
+            "score": 179.23337936401367
+        },
+        {
+            "docid": "14874176_5",
+            "document": "HIGD1A . Since HIGD1A promotes cell survival under hypoxia, the protein protects organs like the heart and brain from hypoxia-related diseases. In particular, HIGD1A localization to the nucleus correlates with the severity of stress in ischemic heart disease, hypoxic-ischemic encephalopathy, and cancer, and thus may serve as a biomarker for these diseases. Moreover, HIGD1A is involved in inflammatory diseases, such as atherosclerosis and rheumatoid arthritis, through its role in macrophage survival. Similarly, HIGD1A could become a key target for treating Alzheimer\u2019s disease by inhibiting \u03b3-secretase, and by extension, amyloid beta production. Notably, HIGD1A inhibits \u03b3-secretase without interfering with Notch cleavage, thus minimizing detrimental side effects from targeting this protein.",
+            "score": 142.72161650657654
+        },
+        {
+            "docid": "26370510_7",
+            "document": "Levomilnacipran . Levomilnacipran has recently been found to act as an inhibitor of beta-site amyloid precursor protein cleaving enzyme-1 (BACE-1), which is responsible for \u03b2-amyloid plaque formation, and hence may be a potentially useful drug in the treatment of Alzheimer's disease.",
+            "score": 114.66471910476685
+        },
+        {
+            "docid": "10233756_16",
+            "document": "Low-density lipoprotein receptor-related protein 8 . Alzheimer's disease is the most common form of dementia, and studies have shown that manipulation of pathways involving LRP8/ApoER2 can lead to the disease. Certain alleles, such as apoe, app, ps1 and ps2, may lead to being genetically predisposed to the disease. A decrease in LRP8 expression is observed in patients with Alzheimer\u2019s disease. An example of a decrease in expression of LRP8 is when gamma secretase cleaves LRP8 as well as the ligand amyloid precursor protein (APP). The degradation products control transcription factors, which lead to the expression of a tau protein. The cascade dysfunction caused by the altered gene expression may be implicated with Alzheimer\u2019s disease.",
+            "score": 151.68129706382751
+        },
+        {
+            "docid": "9784471_2",
+            "document": "Alpha secretase . Alpha secretases are a family of proteolytic enzymes that cleave amyloid precursor protein (APP) in its transmembrane region. Specifically, alpha secretases cleave within the fragment that gives rise to the Alzheimer's disease-associated peptide amyloid beta when APP is instead processed by beta secretase and gamma secretase. The alpha-secretase pathway is the predominant APP processing pathway. Thus, alpha-secretase cleavage precludes amyloid beta formation and is considered to be part of the non-amyloidogenic pathway in APP processing. Alpha secretases are members of the ADAM ('a disintegrin and metalloprotease domain') family, which are expressed on the surfaces of cells and anchored in the cell membrane. Several such proteins, notably ADAM10, have been identified as possessing alpha-secretase activity. Upon cleavage by alpha secretases, APP releases its extracellular domain - a fragment known as APPs\u03b1 - into the extracellular environment in a process known as \"ectodomain shedding\".",
+            "score": 237.6310397386551
+        },
+        {
+            "docid": "2635128_9",
+            "document": "Molecular tweezers . The molecular tweezers, but not the clips, efficiently inhibit the formation of toxic oligomers and aggregates by amyloidogenic proteins associated with different diseases. Examples include the proteins involved in Alzheimer's disease \u2013 amyloid \u03b2-protein (A\u03b2) and tau; \u03b1-synuclein, which is thought to cause Parkinson\u2019s disease and other synucleinopathies and is involved in spinal-cord injury; mutant huntingtin, which causes Huntington's disease; islet amyloid polypeptide (amylin), which kills pancreatic \u03b2-cells in type-2 diabetes; transthyretin (TTR), which causes familial amyloid polyneuropathy, familial amyloid cardiomyopathy, and senile systemic amyloidosis; aggregation-prone mutants of the tumor-suppressor protein p53; and semen proteins whose aggregation enhances HIV infection. Importantly, the molecular tweezers have been found to be effective and safe not only in the test tube but also in animal models of different diseases, suggesting that they may be developed as drugs against diseases caused by abnormal protein aggregation, all of which currently have no cure. They were also shown to destroy the membranes of enveloped viruses, such as HIV, herpes, and hepatitis C, which makes them good candidates for development of microbicides.",
+            "score": 97.01222252845764
+        },
+        {
+            "docid": "7201415_2",
+            "document": "Biochemistry of Alzheimer's disease . The biochemistry of Alzheimer's disease (AD), one of the most common causes of adult dementia, is not yet very well understood. AD has been identified as a possible protein misfolding disease due to the accumulation of abnormally folded amyloid beta protein in the brains of Alzheimer's patients. Amyloid beta, also written A\u03b2, is a short peptide that is an abnormal proteolytic byproduct of the transmembrane protein amyloid precursor protein (APP), whose function is unclear but thought to be involved in neuronal development. The presenilins are components of proteolytic complex involved in APP processing and degradation.",
+            "score": 131.45999479293823
+        },
+        {
+            "docid": "53829489_23",
+            "document": "Giovanna Mallucci . She added: \u201cWe know that trazodone is safe to use in humans, so a clinical trial is now possible to test whether the protective effects of the drug we see on brain cells in mice with neurodegeneration also applies to people in the early stages of Alzheimer\u2019s disease and other dementias. We could know in 2-3 years whether this approach can slow down disease progression, which would be a very exciting first step in treating these disorders. \u201cInterestingly, trazodone has been used to treat the symptoms of patients in later stages of dementia, so we know it is safe for this group. We now need to find out whether giving the drug to patients at an early stage could help arrest or slow down the disease through its effects on this pathway.\u201d It is known that misfolded proteins build up in the brains of those with neurodegenerative diseases and are a major factor in dementias such as Alzheimer\u2019s and Parkinson\u2019s as well as prion disease.",
+            "score": 80.2450612783432
+        },
+        {
+            "docid": "1958222_8",
+            "document": "Amyloid beta . Brain A\u03b2 is elevated in patients with sporadic Alzheimer's disease. A\u03b2 is the main constituent of brain parenchymal and vascular amyloid; it contributes to cerebrovascular lesions and is neurotoxic. It is unresolved how A\u03b2 accumulates in the central nervous system and subsequently initiates the disease of cells. Some researchers have found that the A\u03b2 oligomers induce some of the symptoms of Alzheimer's Disease by competing with insulin for binding sites on the insulin receptor, thus impairing glucose metabolism in the brain. Significant efforts have been focused on the mechanisms responsible for A\u03b2 production, including the proteolytic enzymes gamma- and \u03b2-secretases which generate A\u03b2 from its precursor protein, APP (amyloid precursor protein). A\u03b2 circulates in plasma, cerebrospinal fluid (CSF) and brain interstitial fluid (ISF) mainly as soluble A\u03b240 Senile plaques contain both A\u03b240 and A\u03b242, while vascular amyloid is predominantly the shorter A\u03b240. Several sequences of A\u03b2 were found in both lesions. Generation of A\u03b2 in the central nervous system may take place in the neuronal axonal membranes after APP-mediated axonal transport of \u03b2-secretase and presenilin-1.",
+            "score": 189.58201336860657
+        },
+        {
+            "docid": "40860632_2",
+            "document": "P3 peptide . p3 peptide also known as amyloid \u03b2- peptide (A\u03b2) is the peptide resulting from the \u03b1- and \u03b3-secretase cleavage from the amyloid precursor protein (APP). It is known to be the major constituent of diffuse plaques observed in Alzheimer's disease (AD) brains and pre-amyloid plaques in people affected of Down syndrome. However, p3 peptide's role in these diseases is not truly known yet.",
+            "score": 148.8049852848053
+        },
+        {
+            "docid": "40761197_2",
+            "document": "GSK2606414 . GSK2606414 is a drug which is the first selective inhibitor discovered for the enzyme protein kinase R (PKR)-like endoplasmic reticulum kinase (PERK), which is involved in various processes relating to cancer and neurodegenerative disorders. GSK2606414 was found to be a potent and selective inhibitor of PERK, with good oral bioavailability and blood-brain barrier penetration. PERK mediates the unfolded protein response pathway which is involved in the initiation of protein synthesis, and this pathway has been implicated in the neurotoxicity of various diseases including prion and Alzheimer's diseases. Treatment with GSK2606414 was found to be neuroprotective in mice against damage caused by prions, and prevented the development of cognitive deficits and other clinical manifestations of prion disease. Extension of lifespan in treated mice was, however, not recorded. However, side effects such as weight loss and elevated blood glucose levels were also observed, likely due to unwanted inhibition of PERK in the pancreas gland, where it is involved in regulating insulin production.",
+            "score": 84.72681963443756
+        },
+        {
+            "docid": "10233756_17",
+            "document": "Low-density lipoprotein receptor-related protein 8 . The presence of amyloid beta (A\u03b2) protein deposits in neuronal extracellular space is one of the hallmarks of Alzheimer\u2019s disease. The role of ApoER2 in Alzheimer\u2019s disease is relevant, yet incompletely understood. New evidence suggests ApoER2 plays a major role in the regulation of amyloid-\u03b2 formation in the brain. The amyloid-\u03b2 peptide is derived from the cleavage of APP by gamma secretase. ApoER2 works to reduce APP trafficking by altering break down. This interaction decreases APP endocytosis leading to an increase in amyloid-\u03b2 production. In addition, the expression of ApoER2 within intracellular compartments leads to increased gamma secretase activity, a protease which works to cleave APP into A\u03b2.",
+            "score": 207.09299111366272
+        },
+        {
+            "docid": "4464817_30",
+            "document": "Neurodegeneration . Alzheimer's disease has been \"hypothesized\" to be a protein misfolding disease (proteopathy), caused by accumulation of abnormally folded A-beta and tau proteins in the brain. Plaques are made up of small peptides, 39\u201343\u00a0amino acids in length, called beta-amyloid (also written as A-beta or A\u03b2). Beta-amyloid is a fragment from a larger protein called amyloid precursor protein (APP), a transmembrane protein that penetrates through the neuron's membrane. APP is critical to neuron growth, survival and post-injury repair. In Alzheimer's disease, an unknown process causes APP to be divided into smaller fragments by enzymes through proteolysis. One of these fragments gives rise to fibrils of beta-amyloid, which form clumps that deposit outside neurons in dense formations known as senile plaques.",
+            "score": 150.9131088256836
+        },
+        {
+            "docid": "24648049_34",
+            "document": "Self-assembling peptide . By examining the behaviours of the molecular \u2018switch\u2019 peptides more information about interactions between proteins and more significantly the pathogenesis of some protein conformational diseases can be obtained. These diseases include Scarpie, Kuru, Huntington\u2019s, Parkinson\u2019s and Alzheimers\u2019s diseases. Surfactant peptides can be used as targeting delivery systems for genes, drugs and RNAi. Research has already shown that cationic dipeptides NH-Phe-Phe-NH nanovesicles, which are about 100\u00a0nm in diameter, can be absorbed into cells through endocytosis and deliver oligonucleotides into the cell; this is one example of how peptide nanostructure can in used in gene and drug delivery.It is also envisaged that water-soluble molecules and biological molecules would be able to be delivered to cells in this way. Self-assemblying LEGO peptides can form biologically compatible scaffolds for tissue repair and engineering. this area is of great potential as a large number of diseases cannot be cured by small molecule drugs; a cell-based therapy approach is needed and peptides could potentially play a huge role in this. Cyclic peptide nanotubes formed from self-assembly are able to act as ion channels, which forms pores through the cell membrane and causes cellular osmotic collapse. Peptide can be designed to preferentially form on bacterial cell membranes and thus these tubes are able to perform as antibacterial and cytotoxin agents.",
+            "score": 108.92072117328644
+        },
+        {
+            "docid": "654526_5",
+            "document": "\u00c9lan . In neurology, \u00c9lan is focused on building upon its research and experience in the area of neuropathologies such as Alzheimer\u2019s disease, where the company\u2019s efforts include programs focused on small molecule inhibitors of beta secretase and gamma secretase, enzymes whose actions are thought to affect the accumulation of the amyloid plaques found in the brains of patients with Alzheimer\u2019s disease. An example of such a molecule is semagacestat. \u00c9lan is also studying other neurodegenerative diseases, such as Parkinson's disease. \u00c9lan, in collaboration with Wyeth, is currently conducting a Phase III clinical trial for bapineuzumab, an experimental humanized monoclonal antibody with a targeted indication of immunotherapeutic treatment of mild to moderate Alzheimer\u2019s disease. This humanized monoclonal antibody is designed and engineered to clear the neurotoxic beta-amyloid peptide that accumulates in the brains of patients with Alzheimer\u2019s disease. Although initial results from an earlier Phase II clinical trial presented in July 2008 were inconclusive, \u00c9lan is hopeful that bapineuzumab will prove successful in the treatment of this disease.",
+            "score": 206.13670980930328
+        },
+        {
+            "docid": "2218004_5",
+            "document": "Senile plaques . In the formation of senile plaques, A\u03b2 is cleaved from the amyloid precursor protein. Although three enzymes can process APP, only \u03b2-(beta) and \u03b3-(gamma) secretase are directly involved in the formation of senile plaques. \u03b2-secretase (BACE) is a protease enzyme that cleaves proteins and peptides. This protease cleaves APP to further expose the carboxyl terminal fragments of A\u03b2. After the bulk of APP is released by this process, \u03b3-secretase cleaves the remaining carboxyl fragments on the transmembrane domain. The sequential actions of \u03b3-secretase following BACE activity results in A\u03b2 protein fragments (amyloid beta) that are released into the extracellular space. Eventually, the accumulation of amyloid beta outside of neuronal synapses forms an aggregate mass of plaque that pushes aside fine ramifications and connections of brain cells.",
+            "score": 242.3602695465088
+        },
+        {
+            "docid": "8786437_8",
+            "document": "Derepression . Alzheimer\u2019s is a neurodegenerative disease involving progressive memory loss and other declines in brain function. One common cause of familial Alzheimer\u2019s is mutation in the \"PSEN1\" gene. This gene encodes a protein that cleaves certain intracellular peptides which, once free in the cytoplasm, promote CBPdegradation. Mutations in \"PSEN1\" decrease its production or ability to cleave proteins. This derepresses the CBP proteins, and allows them to perform their function of upregulating transcription of their target genes.",
+            "score": 77.0725314617157
+        },
+        {
+            "docid": "16507549_3",
+            "document": "Alzheimer's disease research . There are different approaches. One approach is to reduce amyloid beta, for example with bapineuzumab, an antibody in phase III studies for patients in mild to moderate stage; semagacestat, a \u03b3-secretase inhibitor, MPC-7869; and acc-001 or CAD106, vaccines against amyloid beta. Other approaches are neuroprotective agents, like AL-108 (phase II completed); or metal-protein interaction attenuation, as is the case of PBT2 (phase II completed). Yet another approach is to use general cognitive enhancers, as may be the case for memantine, a pharmaceutical approved in the United States and European Union to treat symptoms of moderate-to-severe AD. In animals, ultrasound has been used for penetrating the blood-brain barrier and activating microglial cells to eliminate amyloid beta and restored memory function. Finally, there are basic investigations on the origin and mechanisms of Alzheimer's disease.",
+            "score": 158.91332042217255
+        },
+        {
+            "docid": "413102_8",
+            "document": "Folding@home . Protein misfolding can result in a variety of diseases including Alzheimer's disease, cancer, Creutzfeldt\u2013Jakob disease, cystic fibrosis, Huntington's disease, sickle-cell anemia, and type\u00a0II diabetes. Cellular infection by viruses such as HIV and influenza also involve folding events on cell membranes. Once protein misfolding is better understood, therapies can be developed that augment cells' natural ability to regulate protein folding. Such therapies include the use of engineered molecules to alter the production of a given protein, help destroy a misfolded protein, or assist in the folding process. The combination of computational molecular modeling and experimental analysis has the possibility to fundamentally shape the future of molecular medicine and the rational design of therapeutics, such as expediting and lowering the costs of drug discovery. The goal of the first five years of Folding@home was to make advances in understanding folding, while the current goal is to understand misfolding and related disease, especially Alzheimer's.",
+            "score": 100.54255497455597
+        }
+    ],
+    "r": [
+        {
+            "docid": "7732070_6",
+            "document": "Presenilin . Most cases of Alzheimer's disease are not hereditary. However, there is a small subset of cases that have an earlier age of onset and have a strong genetic element. In patients suffering from Alzheimer's disease (autosomal dominant hereditary), mutations in the presenilin proteins (PSEN1; PSEN2) or the amyloid precursor protein (APP) can be found. The majority of these cases carry mutant presenilin genes. An important part of the disease process in Alzheimer's disease is the accumulation of Amyloid beta (A\u03b2) protein. To form A\u03b2, APP must be cut by two enzymes, beta secretases and gamma secretase. Presenilin is the sub-component of gamma secretase that is responsible for the cutting of APP.",
+            "score": 247.04754638671875
+        },
+        {
+            "docid": "7731934_2",
+            "document": "Gamma secretase . Gamma secretase is a multi-subunit protease complex, itself an integral membrane protein, that cleaves single-pass transmembrane proteins at residues within the transmembrane domain. Proteases of this type are known as intramembrane proteases. The most well-known substrate of gamma secretase is amyloid precursor protein, a large integral membrane protein that, when cleaved by both gamma and beta secretase, produces a short 42 amino acid peptide called amyloid beta whose abnormally folded fibrillar form is the primary component of amyloid plaques found in the brains of Alzheimer's disease patients. Gamma secretase is also critical in the related processing of several other type I integral membrane proteins, such as Notch, ErbB4, E-cadherin, N-cadherin, ephrin-B2, or CD44.",
+            "score": 246.17034912109375
+        },
+        {
+            "docid": "2218004_5",
+            "document": "Senile plaques . In the formation of senile plaques, A\u03b2 is cleaved from the amyloid precursor protein. Although three enzymes can process APP, only \u03b2-(beta) and \u03b3-(gamma) secretase are directly involved in the formation of senile plaques. \u03b2-secretase (BACE) is a protease enzyme that cleaves proteins and peptides. This protease cleaves APP to further expose the carboxyl terminal fragments of A\u03b2. After the bulk of APP is released by this process, \u03b3-secretase cleaves the remaining carboxyl fragments on the transmembrane domain. The sequential actions of \u03b3-secretase following BACE activity results in A\u03b2 protein fragments (amyloid beta) that are released into the extracellular space. Eventually, the accumulation of amyloid beta outside of neuronal synapses forms an aggregate mass of plaque that pushes aside fine ramifications and connections of brain cells.",
+            "score": 242.3602752685547
+        },
+        {
+            "docid": "9784471_2",
+            "document": "Alpha secretase . Alpha secretases are a family of proteolytic enzymes that cleave amyloid precursor protein (APP) in its transmembrane region. Specifically, alpha secretases cleave within the fragment that gives rise to the Alzheimer's disease-associated peptide amyloid beta when APP is instead processed by beta secretase and gamma secretase. The alpha-secretase pathway is the predominant APP processing pathway. Thus, alpha-secretase cleavage precludes amyloid beta formation and is considered to be part of the non-amyloidogenic pathway in APP processing. Alpha secretases are members of the ADAM ('a disintegrin and metalloprotease domain') family, which are expressed on the surfaces of cells and anchored in the cell membrane. Several such proteins, notably ADAM10, have been identified as possessing alpha-secretase activity. Upon cleavage by alpha secretases, APP releases its extracellular domain - a fragment known as APPs\u03b1 - into the extracellular environment in a process known as \"ectodomain shedding\".",
+            "score": 237.63104248046875
+        },
+        {
+            "docid": "7731934_7",
+            "document": "Gamma secretase . Gamma secretase is an internal protease that cleaves within the membrane-spanning domain of its substrate proteins, including amyloid precursor protein (APP) and Notch. Substrate recognition occurs via nicastrin ectodomain binding to the N-terminus of the target, which is then passed via a poorly understood process between the two presenilin fragments to a water-containing active site where the catalytic aspartate residue is located. The active site must contain water to carry out hydrolysis within a hydrophobic environment in the interior of the cell membrane, although it is not well understood how water and proton exchange is effected, and as yet no X-ray crystallography structure of gamma secretase is available. Low-resolution electron microscopy reconstructions have allowed the visualization of the hypothesized internal pores of about 2 nanometres. In 2014, a three-dimensional structure of an intact human gamma-secretase complex was determined by cryo-electron microscopy single-particle analysis at 4.5 angstrom resolution and in 2015 an atomic-resolution (3.4 angstrom) cryo-EM structure was reported.",
+            "score": 233.0740509033203
+        },
+        {
+            "docid": "14194866_3",
+            "document": "PSEN2 . Alzheimer's disease (AD) patients with an inherited form of the disease carry mutations in the presenilin proteins (PSEN1; PSEN2) or the amyloid precursor protein (APP). These disease-linked mutations result in increased production of the longer form of amyloid-beta (main component of amyloid deposits found in AD brains). Presenilins are postulated to regulate APP processing through their effects on gamma-secretase, an enzyme that cleaves APP. Also, it is thought that the presenilins are involved in the cleavage of the Notch receptor, such that they either directly regulate gamma-secretase activity or themselves are protease enzymes. Two alternative transcripts of PSEN2 have been identified.",
+            "score": 227.00537109375
+        },
+        {
+            "docid": "2948815_2",
+            "document": "Amyloid precursor protein secretase . Secretases are enzymes that \"snip\" pieces off a longer protein that is embedded in the cell membrane. Among other roles in the cell, secretases act on the amyloid precursor protein (APP) to cleave the protein into three fragments. Sequential cleavage by \u03b2-secretase (BACE) and \u03b3-secretase produces the amyloid-\u03b2 peptide fragment that aggregates into clumps called \"plaques\" in the brains of Alzheimer's disease patients. If \u03b1-secretase acts on APP first instead of BACE, no amyloid-\u03b2 is formed because \u03b1-secretase recognizes a target protein sequence closer to the cell surface than BACE. The non-pathogenic middle fragment formed by an \u03b1/\u03b3 cleavage sequence is called P3.",
+            "score": 224.10003662109375
+        },
+        {
+            "docid": "1958222_2",
+            "document": "Amyloid beta . Amyloid beta (A\u03b2 or Abeta) denotes peptides of 36\u201343 amino acids that are crucially involved in Alzheimer's disease as the main component of the amyloid plaques found in the brains of Alzheimer patients. The peptides derive from the amyloid precursor protein (APP), which is cleaved by beta secretase and gamma secretase to yield A\u03b2. A\u03b2 molecules can aggregate to form flexible soluble oligomers which may exist in several forms. It is now believed that certain misfolded oligomers (known as \"seeds\") can induce other A\u03b2 molecules to also take the misfolded oligomeric form, leading to a chain reaction akin to a prion infection. The oligomers are toxic to nerve cells. The other protein implicated in Alzheimer's disease, tau protein, also forms such prion-like misfolded oligomers, and there is some evidence that misfolded A\u03b2 can induce tau to misfold.",
+            "score": 223.68463134765625
+        },
+        {
+            "docid": "18914017_30",
+            "document": "Alzheimer's disease . Alzheimer's disease has been identified as a protein misfolding disease (proteopathy), caused by plaque accumulation of abnormally folded amyloid beta protein, and tau protein in the brain. Plaques are made up of small peptides, 39\u201343\u00a0amino acids in length, called amyloid beta (A). A is a fragment from the larger amyloid precursor protein (APP). APP is a transmembrane protein that penetrates through the neuron's membrane. APP is critical to neuron growth, survival, and post-injury repair. In Alzheimer's disease, gamma secretase and beta secretase act together in a proteolytic process which causes APP to be divided into smaller fragments. One of these fragments gives rise to fibrils of amyloid beta, which then form clumps that deposit outside neurons in dense formations known as senile plaques.",
+            "score": 218.65103149414062
+        },
+        {
+            "docid": "10025647_2",
+            "document": "APH-1 . APH-1 (anterior pharynx-defective 1) is a protein gene product originally identified in the Notch signaling pathway in \"Caenorhabditis elegans\" as a regulator of the cell-surface localization of nicastrin. APH-1 homologs in other organisms, including humans, have since been identified as components of the gamma secretase complex along with the catalytic subunit presenilin and the regulatory subunits nicastrin and PEN-2. The gamma-secretase complex is a multimeric protease responsible for the intramembrane proteolysis of transmembrane proteins such as the Notch protein and amyloid precursor protein (APP). Gamma-secretase cleavage of APP is one of two proteolytic steps required to generate the peptide known as amyloid beta, whose misfolded form is implicated in the causation of Alzheimer's disease.</ref> All of the components of the gamma-secretase complex undergo extensive post-translational modification, especially proteolytic activation; APH-1 and PEN-2 are regarded as regulators of the maturation process of the catalytic component presenilin.</ref> APH-1 contains a conserved alpha helix interaction motif glycine-X-X-X-glycine (GXXXG) that is essential to both assembly of the gamma secretase complex and to the maturation of the components.</ref>",
+            "score": 213.95864868164062
+        },
+        {
+            "docid": "40860632_7",
+            "document": "P3 peptide . p3 peptide generates from the 17-40 or 17-42 sequence of the amyloid precursor protein (APP), which is a type I integral membrane protein concerned in neurons\u2019 synapses in many human tissues. Under normal physiological conditions, APP is processed with three different proteolytic enzymes: \u03b1-, \u03b2- and \u03b3-secretases. At first, APP molecule is cut by \u03b1-secretase or \u03b2-secretase, and it will produce two different molecules for each case. These products are respectively APPs\u03b1 or \u03b1-CTFs, when cut by \u03b1-secretase, or APPs\u03b2 and \u03b2-CTFs, when processed by \u03b2 secretase. APPs derivates are sent both to the extra-cell, while CTFs rest anchored to the plasmatic membrane. Then, \u03b2- and \u03b1-CTFs are processed by \u03b3-secretase, resulting the peptides p3 and A\u03b2 respectively and releasing in both cases a cytoplasmic peptide fragment known as the APP intracellular domain (AICD). Both p3 and A\u03b2 are sent to the extracellular medium.",
+            "score": 213.87147521972656
+        },
+        {
+            "docid": "16507549_11",
+            "document": "Alzheimer's disease research . Gamma secretase is a protein complex thought to be a fundamental building block in the development of the amyloid beta peptide. A gamma secretase inhibitor, semagacestat, failed to show any benefit to Alzheimer's disease patients in clinical trials.",
+            "score": 209.61502075195312
+        },
+        {
+            "docid": "10233756_17",
+            "document": "Low-density lipoprotein receptor-related protein 8 . The presence of amyloid beta (A\u03b2) protein deposits in neuronal extracellular space is one of the hallmarks of Alzheimer\u2019s disease. The role of ApoER2 in Alzheimer\u2019s disease is relevant, yet incompletely understood. New evidence suggests ApoER2 plays a major role in the regulation of amyloid-\u03b2 formation in the brain. The amyloid-\u03b2 peptide is derived from the cleavage of APP by gamma secretase. ApoER2 works to reduce APP trafficking by altering break down. This interaction decreases APP endocytosis leading to an increase in amyloid-\u03b2 production. In addition, the expression of ApoER2 within intracellular compartments leads to increased gamma secretase activity, a protease which works to cleave APP into A\u03b2.",
+            "score": 207.09300231933594
+        },
+        {
+            "docid": "654526_5",
+            "document": "\u00c9lan . In neurology, \u00c9lan is focused on building upon its research and experience in the area of neuropathologies such as Alzheimer\u2019s disease, where the company\u2019s efforts include programs focused on small molecule inhibitors of beta secretase and gamma secretase, enzymes whose actions are thought to affect the accumulation of the amyloid plaques found in the brains of patients with Alzheimer\u2019s disease. An example of such a molecule is semagacestat. \u00c9lan is also studying other neurodegenerative diseases, such as Parkinson's disease. \u00c9lan, in collaboration with Wyeth, is currently conducting a Phase III clinical trial for bapineuzumab, an experimental humanized monoclonal antibody with a targeted indication of immunotherapeutic treatment of mild to moderate Alzheimer\u2019s disease. This humanized monoclonal antibody is designed and engineered to clear the neurotoxic beta-amyloid peptide that accumulates in the brains of patients with Alzheimer\u2019s disease. Although initial results from an earlier Phase II clinical trial presented in July 2008 were inconclusive, \u00c9lan is hopeful that bapineuzumab will prove successful in the treatment of this disease.",
+            "score": 206.13670349121094
+        },
+        {
+            "docid": "7731934_5",
+            "document": "Gamma secretase . Recent research has shown that interaction of the gamma secretase complex with the \u03b3-secretase activating protein facilitates the gamma cleavage of amyloid precursor protein into \u03b2-amyloid.",
+            "score": 205.60704040527344
+        },
+        {
+            "docid": "9784471_3",
+            "document": "Alpha secretase . ADAM10 consists of two protein domains, a disintegrin domain and a prodomain; however, only the prodomain is required for APP processing. Other ADAM proteins, ADAM17 (also called TACE, \"tumor necrosis factor-\u03b1 converting enzyme\"), ADAM9, and ADAM19 have also been identified as alpha secretases; extracellular expression of mutant ADAM9 (also known as MDC9 or meltrin gamma) lacking the membrane anchor domain has been suggested as one of many possible means of Alzheimer's prevention and treatment exploiting the alpha secretase pathway. Two distinct modalities of alpha-secretase activity have been observed in cells; constitutive activity occurs mainly at the cell surface and is independent of regulatory mechanisms inside the cell, while regulated activity occurs mainly in the golgi and is dependent on the activity of protein kinase C. Alpha-secretase activity in the golgi is thought to compete directly with the beta-secretase pathway for APP substrates during membrane protein maturation. Cell-surface cleavage by alpha secretase is very rapid after APP reaches the cell surface.",
+            "score": 205.1927032470703
+        },
+        {
+            "docid": "9869709_3",
+            "document": "Nicastrin . Nicastrin (abbreviated NCT) is a protein that is part of the gamma secretase protein complex, which is one of the proteases involved in processing amyloid precursor protein (APP) to the short Alzheimer's disease-associated peptide amyloid beta. The other proteins in the complex are PSEN1 (presenilin-1), which is the catalytically active component of the complex, APH-1 (anterior pharynx-defective 1), and PEN-2 (presenilin enhancer 2). Nicastrin itself is not catalytically active, but instead promotes the maturation and proper trafficking of the other proteins in the complex, all of which undergo significant post-translational modification before becoming active in the cell. Nicastrin has also been identified as a regulator of neprilysin, an enzyme involved in the degradation of amyloid beta fragment.",
+            "score": 204.38307189941406
+        },
+        {
+            "docid": "7731934_8",
+            "document": "Gamma secretase . The gamma secretase complex is unusual among proteases in having a \"sloppy\" cleavage site at the C-terminal site in amyloid beta generation; gamma secretase can cleave APP in any of multiple sites to generate a peptide of variable length, most typically from 39 to 42 amino acids long, with A\u03b240 the most common isoform and A\u03b242 the most susceptible to conformational changes leading to amyloid fibrillogenesis. Certain mutations in both APP and in both types of human presenilin are associated with increased A\u03b242 production and the early-onset genetic form of familial Alzheimer's disease. Although older data suggested that different forms of the gamma secretase complex could be differentially responsible for generating different amyloid beta isoforms, current evidence indicates that the C-terminus of amyloid beta is produced by a series of single-residue cleavages by the same gamma secretase complex. Earlier cleavage sites produce peptides of length 46 (zeta-cleavage) and 49 (epsilon-cleavage).",
+            "score": 204.18296813964844
+        },
+        {
+            "docid": "1961275_7",
+            "document": "Amyloid precursor protein . APP undergoes extensive post-translational modification including glycosylation, phosphorylation, sialylation, and tyrosine sulfation, as well as many types of proteolytic processing to generate peptide fragments. It is commonly cleaved by proteases in the secretase family; alpha secretase and beta secretase both remove nearly the entire extracellular domain to release membrane-anchored carboxy-terminal fragments that may be associated with apoptosis. Cleavage by gamma secretase within the membrane-spanning domain after beta-secretase cleavage generates the amyloid-beta fragment; gamma secretase is a large multi-subunit complex whose components have not yet been fully characterized, but include presenilin, whose gene has been identified as a major genetic risk factor for Alzheimer's.",
+            "score": 200.5296630859375
+        },
+        {
+            "docid": "1961275_8",
+            "document": "Amyloid precursor protein . The amyloidogenic processing of APP has been linked to its presence in lipid rafts. When APP molecules occupy a lipid raft region of membrane, they are more accessible to and differentially cleaved by beta secretase, whereas APP molecules outside a raft are differentially cleaved by the non-amyloidogenic alpha secretase. Gamma secretase activity has also been associated with lipid rafts. The role of cholesterol in lipid raft maintenance has been cited as a likely explanation for observations that high cholesterol and apolipoprotein E genotype are major risk factors for Alzheimer's disease.",
+            "score": 195.9333038330078
+        },
+        {
+            "docid": "42777505_8",
+            "document": "Protectin D1 . Among others, Alzheimer's disease is characterized by the reduced concentration of PD1 and by the increased concentration of the amyloid-\u03b2 peptide (A\u03b242) that is responsible for the formation of senile plaques and also induces inflammation and apoptosis in neuronal tissues. A\u03b242 is generated by the enzymatic cleavage of the \u03b2-amyloid precursor protein (\u03b2\u0391PP) through \u03b2- and \u03b3- secretases. Like other pro-inflammatory mediators, A\u03b242 induces inflammation through the activation of the pro-inflammatory enzyme COX-2 and the release of prostaglandins. Moreover, the release of A\u03b242 down-regulates the anti-apoptotic proteins Bcl-2 and Bcl-x and up-regulates the pro-apoptotic proteins Bax and Bad that ultimately lead to the formation of the apoptosome. PD1 in human neuronal glial cells (HNG) has been shown to trigger the down-regulation of \u03b2\u0391PP, thus decreasing the A\u03b242 content in neuronal tissues and reducing inflammation and apoptosis. Specifically, PD1 in Alzheimer's disease models has been shown to respond to the increased concentration of the pro-inflammatory molecule A\u03b242 by binding and activating the peroxisome proliferator-activated receptor gamma (PPAR\u03b3) either directly or via other mechanisms. According to some models the activation of PPAR\u03b3 leads to increased ubiquitination and degradation of \u03b2APP, thus reducing the release of A\u03b242. Furthermore, PD1 inhibits the production of A\u03b242 peptide by down-regulating \u03b2-secretase-1 (BACE1), while up-regulating the \u03b1-secretase ADAM10 and the secreted amyloid precursor protein-\u03b1 (sAPP\u03b1). Overall, the above mechanism leads to the cleavage of \u03b2APP protein though a non-amyloidogenic pathway that halts the formation of A\u03b242 and prevents the premature neuronal degeneration.",
+            "score": 195.37025451660156
+        },
+        {
+            "docid": "4623078_4",
+            "document": "Beta-secretase 1 . Generation of the 40 or 42 amino acid-long amyloid-\u03b2 peptides that aggregate in the brain of Alzheimer's patients requires two sequential cleavages of the amyloid precursor protein (APP). Extracellular cleavage of APP by BACE1 creates a soluble extracellular fragment and a cell membrane-bound fragment referred to as C99. Cleavage of C99 within its transmembrane domain by \u03b3-secretase releases the intracellular domain of APP and produces amyloid-\u03b2. Since gamma-secretase cleaves APP closer to the cell membrane than BACE1 does, it removes a fragment of the amyloid-\u03b2 peptide. Initial cleavage of APP by \u03b1-secretase rather than BACE1 prevents eventual generation of amyloid-\u03b2.",
+            "score": 194.0240936279297
+        },
+        {
+            "docid": "1958222_8",
+            "document": "Amyloid beta . Brain A\u03b2 is elevated in patients with sporadic Alzheimer's disease. A\u03b2 is the main constituent of brain parenchymal and vascular amyloid; it contributes to cerebrovascular lesions and is neurotoxic. It is unresolved how A\u03b2 accumulates in the central nervous system and subsequently initiates the disease of cells. Some researchers have found that the A\u03b2 oligomers induce some of the symptoms of Alzheimer's Disease by competing with insulin for binding sites on the insulin receptor, thus impairing glucose metabolism in the brain. Significant efforts have been focused on the mechanisms responsible for A\u03b2 production, including the proteolytic enzymes gamma- and \u03b2-secretases which generate A\u03b2 from its precursor protein, APP (amyloid precursor protein). A\u03b2 circulates in plasma, cerebrospinal fluid (CSF) and brain interstitial fluid (ISF) mainly as soluble A\u03b240 Senile plaques contain both A\u03b240 and A\u03b242, while vascular amyloid is predominantly the shorter A\u03b240. Several sequences of A\u03b2 were found in both lesions. Generation of A\u03b2 in the central nervous system may take place in the neuronal axonal membranes after APP-mediated axonal transport of \u03b2-secretase and presenilin-1.",
+            "score": 189.58201599121094
+        },
+        {
+            "docid": "10026350_2",
+            "document": "PEN-2 . PEN-2 (presenilin enhancer 2) is a protein that is a regulatory component of the gamma secretase complex, a protease complex responsible for proteolysis of transmembrane proteins such as the Notch protein and amyloid precursor protein (APP). The gamma secretase complex consists of PEN-2, APH-1, nicastrin, and the catalytic subunit presenilin. PEN-2 is a 101-amino acid integral membrane protein likely with a topology such that both the N-terminus and the C-terminus face first the lumen of the endoplasmic reticulum and later the extracellular environment. Biochemical studies have shown that a conserved sequence motif D-Y-L-S-F at the C-terminus, as well as the overall length of the C-terminal tail, is required for the formation of an active gamma secretase complex.",
+            "score": 181.73129272460938
+        },
+        {
+            "docid": "13623044_2",
+            "document": "PSEN1 . Presenilin-1 (PS-1) is a presenilin protein that in humans is encoded by the \"PSEN1\" gene. Presenilin-1 is one of the four core proteins in the gamma secretase complex, which is considered to play an important role in generation of amyloid beta (A\u03b2) from amyloid precursor protein (APP). Accumulation of amyloid beta is associated with the onset of Alzheimer's disease.",
+            "score": 181.21922302246094
+        },
+        {
+            "docid": "561843_43",
+            "document": "Imatinib . \"In vitro\" studies identified that a modified version of imatinib can bind to gamma-secretase activating protein (GSAP). GSAP selectively increases the production and accumulation of neurotoxic beta-amyloid plaques, which suggests that molecules which target GSAP and are able to cross blood\u2013brain barrier are potential therapeutic agents for treating Alzheimer's disease. Another study suggests that imatinib may not need to cross the blood\u2013brain barrier to be effective at treating Alzheimer's, as the research indicates the production of beta-amyloid may begin in the liver. Tests on mice indicate that imatinib is effective at reducing beta-amyloid in the brain. It is not known whether reduction of beta-amyloid is a feasible way of treating Alzheimer's, as an anti-beta-amyloid vaccine has been shown to clear the brain of plaques without having any effect on Alzheimer symptoms.",
+            "score": 180.542236328125
+        },
+        {
+            "docid": "1958222_13",
+            "document": "Amyloid beta . A\u03b2 is formed after sequential cleavage of the amyloid precursor protein (APP), a transmembrane glycoprotein of undetermined function. APP can be cleaved by the proteolytic enzymes \u03b1-, \u03b2- and \u03b3-secretase; A\u03b2 protein is generated by successive action of the \u03b2 and \u03b3 secretases. The \u03b3 secretase, which produces the C-terminal end of the A\u03b2 peptide, cleaves within the transmembrane region of APP and can generate a number of isoforms of 30-51 amino acid residues in length. The most common isoforms are A\u03b2 and A\u03b2; the longer form is typically produced by cleavage that occurs in the endoplasmic reticulum, while the shorter form is produced by cleavage in the trans-Golgi network. The A\u03b2 form is the more common of the two, but A\u03b2 is the more fibrillogenic and is thus associated with disease states. Mutations in APP associated with early-onset Alzheimer's have been noted to increase the relative production of A\u03b2, and thus one suggested avenue of Alzheimer's therapy involves modulating the activity of \u03b2 and \u03b3 secretases to produce mainly A\u03b2.",
+            "score": 179.23338317871094
+        },
+        {
+            "docid": "7732070_7",
+            "document": "Presenilin . Gamma secretase can cut APP at several points within a small region of the protein, which results in A\u03b2 of various lengths. The lengths associated with Alzheimer's disease are 40 and 42 amino acids long. A\u03b2 42 is more likely to aggregate to form plaques in the brain than A\u03b2 40. Presenilin mutations lead to an increase in the ratio of A\u03b2 42 produced compared to A\u03b2 40, although the total quantity of A\u03b2 produced remains constant. This can come about by various effects of the mutations upon gamma secretase. Presenilins are also implicated in the processing of notch, an important developmental protein. Mice that have the PS1 gene knocked out die early in development from developmental abnormalities similar to those found when notch is disrupted.",
+            "score": 178.8406524658203
+        },
+        {
+            "docid": "28667803_5",
+            "document": "Protein pigeon homolog . \u03b3-secretase activating protein (GSAP) increases \u03b2-amyloid production through a mechanism involving its interactions with both \u03b3-secretase and its substrate, the amyloid precursor protein (APP). By binding to both the \u03b3-secretase enzyme and its APP substrate, GSAP increases the affinity and the selectivity of the enzyme for this particular substrate.",
+            "score": 178.376220703125
+        },
+        {
+            "docid": "7731934_3",
+            "document": "Gamma secretase . The gamma secretase complex consists of four individual proteins: PSEN1 (presenilin-1), nicastrin, APH-1 (anterior pharynx-defective 1), and PEN-2 (presenilin enhancer 2). Recent evidence suggests that a fifth protein, known as CD147, is a non-essential regulator of the complex whose absence increases activity. Presenilin, an aspartyl protease, is the catalytic subunit; mutations in the presenilin gene have been shown to be a major genetic risk factor for Alzheimer's disease. In humans, two forms of presenilin and two forms of APH-1 have been identified in the genome; one of the APH homologs can also be expressed in two isoforms via alternative splicing, leading to at least six different possible gamma secretase complexes that may have tissue- or cell type specificity.",
+            "score": 175.85281372070312
+        },
+        {
+            "docid": "9784471_5",
+            "document": "Alpha secretase . Related alpha-secretases, including ADAM10, have also been implicated in similar maturation events for other transmembrane proteins such as MHC class I proteins. Recent evidence suggests that some such proteins are first processed to ectodomains by alpha secretases and subsequently cleaved by another Alzheimer's-associated protease complex, gamma secretase in its presenilin-complexed form. The Notch pathway bears many similarities to APP processing and is also regulated in part by ADAM10.",
+            "score": 172.95574951171875
+        },
+        {
+            "docid": "11229905_7",
+            "document": "Insulin-degrading enzyme . Considerable interest in IDE has been stimulated due to the discovery that IDE can degrade amyloid beta (A\u03b2), a peptide implicated in the pathogenesis of Alzheimer's disease. The underlying cause or causes of the disease are unclear, though the primary neuropathology observed is the formation of amyloid plaques and neurofibrillary tangles. One hypothesized mechanism of disease, called the amyloid hypothesis, suggests that the causative agent is the hydrophobic peptide A\u03b2, which forms quaternary structures that, by an unclear mechanism, cause neuronal death. A\u03b2 is a byproduct generated as the result of proteolytic processing of the amyloid precursor protein (APP) by proteases referred to as the \u03b2 and \u03b3 secretases. The physiological role of this processing is unclear, though it may play a role in nervous system development.",
+            "score": 172.17568969726562
+        }
+    ]
+}

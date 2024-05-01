@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "26381377_17",
+            "document": "Nodal signaling pathway . Human anatomy is asymmetric with the heart located on the left side and the liver on the right. Asymmetry is a feature common to all vertebrates and even paired-symmetric organs such as lungs display asymmetries in the number of lobes. Evidence that nodal signaling is responsible for left-right specification comes from genetic analysis of organisms deficient in left-right specification. These genetic studies led to identification of mutations in components in the nodal signaling pathway such as ActRIIB, Criptic, and FoxH1 in mouse. These studies found that the left-right symmetry is created as a result of nodal antagonist expression on the right side of the embryo which is balanced by nodal upregulating itself on the other half of the embryo. The result is a nodal gradient that is high on the ventral side of the embryo and, through antagonist action, declines as a gradient to the midline.",
+            "score": 137.18939077854156
+        },
+        {
+            "docid": "344913_5",
+            "document": "Asymmetry . Asymmetry is an important and widespread trait, having evolved numerous times in many organisms and at many levels of organisation (ranging from individual cells, through organs, to entire body-shapes). Benefits of asymmetry sometimes have to do with improved spatial arrangements, such as the left human lung being smaller, and having one fewer lobes than the right lung to make room for the asymmetrical heart. In other examples, division of function between the right and left half may have been beneficial and has driven the asymmetry to become stronger. Such an explanation is usually given for mammal hand or paw preference (Handedness), an asymmetry in skill development in mammals. Training the neural pathways in a skill with one hand (or paw) may take less effort than doing the same with both hands.",
+            "score": 76.80879497528076
+        },
+        {
+            "docid": "674_14",
+            "document": "Anatomy . Nervous tissue is composed of many nerve cells known as neurons which transmit information. In some slow-moving radially symmetrical marine animals such as ctenophores and cnidarians (including sea anemones and jellyfish), the nerves form a nerve net, but in most animals they are organized longitudinally into bundles. In simple animals, receptor neurons in the body wall cause a local reaction to a stimulus. In more complex animals, specialized receptor cells such as chemoreceptors and photoreceptors are found in groups and send messages along neural networks to other parts of the organism. Neurons can be connected together in ganglia. In higher animals, specialized receptors are the basis of sense organs and there is a central nervous system (brain and spinal cord) and a peripheral nervous system. The latter consists of sensory nerves that transmit information from sense organs and motor nerves that influence target organs. The peripheral nervous system is divided into the somatic nervous system which conveys sensation and controls voluntary muscle, and the autonomic nervous system which involuntarily controls smooth muscle, certain glands and internal organs, including the stomach.",
+            "score": 98.66984462738037
+        },
+        {
+            "docid": "14754054_4",
+            "document": "PITX2 . Pitx2 is responsible for the establishment of the left-right axis, the asymmetrical development of the heart, lungs, and spleen, twisting of the gut and stomach, as well as the development of the eyes. Once activated Pitx2 will be locally expressed in the left lateral mesoderm, tubular heart, and early gut which leads to the asymmetrical development of organs and looping of the gut. When Pitx2 is deleted, the irregular morphogenesis of organs results on the left hand side. Pitx2 is left-laterally expressed controlling the morphology of the left visceral organs. Expression of Pitx2 is controlled by an intronic enhancer ASE and Nodal. It appears that while Nodal controls cranial expression of Pitx2, ASE controls left \u2013 right expression of Pitx2, which leads to the asymmetrical development of the left sided visceral organs, such as the spleen and liver. Collectively, Pitx2 first acts to prevent the apoptosis of the extraocular muscles followed by acting as the myogenic programmer of the extraocular muscle cells. There have also been studies showing different isoforms of the transcription factor: Pitx2a, Pitx2b, and Pitx2c, each with distinct and non-overlapping functions.",
+            "score": 127.75686764717102
+        },
+        {
+            "docid": "35286119_2",
+            "document": "Cerberus gene family . Cerberus is a signaling molecule whose main functions include contributing to the formation of the head, heart and left and right asymmetry of internal organs. This gene varies slightly from species to species, but its overall functions seem to be similar. Cerberus is secreted by the anterior visceral endoderm and blocks the action of BMP, Nodal and Wnt, secreted by the primitive node, which allows for the formation of a head region. This is accomplished by inhibiting the formation of mesoderm in this region. Xenopus Cerberus causes a protein to be secreted that is able to induce the formation of an ectopic head. Knockdown experiments have helped to explain Cerberus\u2019s role in both the formation of the head and left and right symmetry. These experiments have shown that Cerberus helps to keep Nodal from crossing to the right side of the developing embryo, allowing left and right asymmetry to form. This is why misexpression of Cerberus can cause the heart to fold in the opposite direction during development. When Cerberus is \u201cknocked down\u201d and BMP and Wnt are up regulated the head does not form. Other experiments using mice that this gene has been \u201cknocked out\u201d showed no head defects, which suggest that it is the combination of the up regulation of BMP and Wnt along with the absence of Cerberus that causes this defect.. For the heart, Cerberus is one of several factors that inhibits Nodal to initiate cardiomyogenic differentiation",
+            "score": 101.75175523757935
+        },
+        {
+            "docid": "3717_11",
+            "document": "Brain . Except for a few primitive organisms such as sponges (which have no nervous system) and cnidarians (which have a nervous system consisting of a diffuse nerve net), all living multicellular animals are bilaterians, meaning animals with a bilaterally symmetric body shape (that is, left and right sides that are approximate mirror images of each other). All bilaterians are thought to have descended from a common ancestor that appeared early in the Cambrian period, 485-540 million years ago, and it has been hypothesized that this common ancestor had the shape of a simple tubeworm with a segmented body. At a schematic level, that basic worm-shape continues to be reflected in the body and nervous system architecture of all modern bilaterians, including vertebrates. The fundamental bilateral body form is a tube with a hollow gut cavity running from the mouth to the anus, and a nerve cord with an enlargement (a ganglion) for each body segment, with an especially large ganglion at the front, called the brain. The brain is small and simple in some species, such as nematode worms; in other species, including vertebrates, it is the most complex organ in the body. Some types of worms, such as leeches, also have an enlarged ganglion at the back end of the nerve cord, known as a \"tail brain\".",
+            "score": 114.39498400688171
+        },
+        {
+            "docid": "15223_10",
+            "document": "Invertebrate . The body plans of most multicellular organisms exhibit some form of symmetry, whether radial, bilateral, or spherical. A minority, however, exhibit no symmetry. One example of asymmetric invertebrates include all gastropod species. This is easily seen in snails and sea snails, which have helical shells. Slugs appear externally symmetrical, but their pneumostome (breathing hole) is located on the right side. Other gastropods develop external asymmetry, such as Glaucus atlanticus that develops asymmetrical cerata as they mature. The origin of gastropod asymmetry is a subject of scientific debate.",
+            "score": 53.99388408660889
+        },
+        {
+            "docid": "25107_19",
+            "document": "Poliomyelitis . Approximately 19 percent of all paralytic polio cases have both bulbar and spinal symptoms; this subtype is called respiratory or bulbospinal polio. Here, the virus affects the upper part of the cervical spinal cord (cervical vertebrae C3 through C5), and paralysis of the diaphragm occurs. The critical nerves affected are the phrenic nerve (which drives the diaphragm to inflate the lungs) and those that drive the muscles needed for swallowing. By destroying these nerves, this form of polio affects breathing, making it difficult or impossible for the patient to breathe without the support of a ventilator. It can lead to paralysis of the arms and legs and may also affect swallowing and heart functions.",
+            "score": 207.731947183609
+        },
+        {
+            "docid": "36863_2",
+            "document": "Lung . The lungs are the primary organs of the respiratory system in humans and many other animals including a few fish and some snails. In mammals and most other vertebrates, two lungs are located near the backbone on either side of the heart. Their function in the respiratory system is to extract oxygen from the atmosphere and transfer it into the bloodstream, and to release carbon dioxide from the bloodstream into the atmosphere, in a process of gas exchange. Respiration is driven by different muscular systems in different species. Mammals, reptiles and birds use their different muscles to support and foster breathing. In early tetrapods, air was driven into the lungs by the pharyngeal muscles via buccal pumping, a mechanism still seen in amphibians. In humans, the main muscle of respiration that drives breathing is the diaphragm. The lungs also provide airflow that makes vocal sounds including human speech possible.",
+            "score": 137.0046465396881
+        },
+        {
+            "docid": "490620_42",
+            "document": "Human brain . The brain controls the rate of breathing, mainly by respiratory centres in the medulla and pons. The respiratory centres control respiration, by generating motor signals that are passed down the spinal cord, along the phrenic nerve to the diaphragm and other muscles of respiration. This is a mixed nerve that carries sensory information back to the centres. There are four respiratory centres, three with a more clearly defined function, and an apneustic centre with a less clear function. In the medulla a dorsal respiratory group causes the desire to breathe in and receives sensory information directly from the body. Also in the medulla, the ventral respiratory group influences breathing out during exertion. In the pons the pneumotaxic centre influences the duration of each breath, and the apneustic centre seems to have an influence on inhalation. The respiratory centres directly senses blood carbon dioxide and pH. Information about blood oxygen, carbon dioxide and pH levels are also sensed on the walls of arteries in the peripheral chemoreceptors of the aortic and carotid bodies. This information is passed via the vagus and glossopharyngeal nerves to the respiratory centres. High carbon dioxide, an acidic pH, or low oxygen stimulate the respiratory centres. The desire to breathe in is also affected by pulmonary stretch receptors in the lungs which, when activated, prevent the lungs from overinflating by transmitting information to the respiratory centres via the vagus nerve.",
+            "score": 155.22262036800385
+        },
+        {
+            "docid": "215038_14",
+            "document": "Enhancer (genetics) . Establishing body axes is a critical step in animal development. During mouse embryonic development, Nodal, a transforming growth factor-beta superfamily ligand, is a key gene involved in patterning both the anterior-posterior axis and the left-right axis of the early embryo. The \"Nodal\" gene contains two enhancers: the Proximal Epiblast Enhancer (PEE) and the Asymmetric Enhancer (ASE). The PEE is upstream of the Nodal gene and drives \"Nodal\" expression in the portion of the primitive streak that will differentiate into the node (also referred to as the primitive node). The PEE turns on Nodal expression in response to a combination of Wnt signaling plus a second, unknown signal; thus, a member of the LEF/TCF transcription factor family likely binds to a TCF binding site in the cells in the node. Diffusion of Nodal away from the node forms a gradient which then patterns the extending anterior-posterior axis of the embryo. The ASE is an intronic enhancer bound by the fork head domain transcription factor Fox1. Early in development, Fox1-driven Nodal expression establishes the visceral endoderm. Later in development, Fox1 binding to the ASE drives \"Nodal\" expression on the left side of the lateral plate mesoderm, thus establishing left-right asymmetry necessary for asymmetric organ development in the mesoderm.",
+            "score": 90.22978830337524
+        },
+        {
+            "docid": "14877860_8",
+            "document": "NODAL . Left-right (LR) asymmetry of visceral organs in vertebrates is also established through nodal signaling. Whereas Nodal is initially symmetrically expressed in the embryo, after gastrulation, Nodal becomes asymmetrically restricted to the left side of the organism. It is highly conserved among deuterostomes. An ortholog of Nodal was recently found in snails and was shown to be involved in left-right asymmetry as well.",
+            "score": 100.64777851104736
+        },
+        {
+            "docid": "5802781_5",
+            "document": "Lefty (protein) . There are many differences between the left and right sides, including heart and lung positioning. Mutations in these genes cause incorrect positioning of these organs (e.g., situs inversus), or in the case of constitutively inactive lefty, the embryo becomes entirely mesoderm and fails to pattern or develop. During vertebrate development, lefty proteins regulate left-right asymmetry by controlling the spatiotemporal influence of the NODAL protein. Lefty1 in the ventral midline prevents the Cerebrus (paracrine factor or \"Caronte\") signal from passing to the right side of the embryo. This spatiotemporal control is achieved by using two sources of excreted lefty. While lefty is produced in response to activated nodal signaling, it is also produced and secreted in the anterior visceral endoderm (AVE). The balance of lefty from the AVE and from Nodal Signaling results in the patterning of the embryo and left-right asymmetry.",
+            "score": 132.4403908252716
+        },
+        {
+            "docid": "41185140_5",
+            "document": "Phenotypic integration . Integration can be found at the genetic level due to gene linkage. Gene linkage involves multiple genes being inherited together during meiosis because they are close to each other on the same chromosome. Alleles at different loci can be inherited together if they are tightly linked. Large genetic correlations can only be upheld if the loci that influence different characters are tightly linked, or if high levels of inbreeding in the population occur. Even if selection favors the correlations, it will not be maintained unless those conditions are met. Selection will favor tight linkage because it is maintained better. Poorly linked genetic correlations will not last. Transposition allows the loci at different locations on the chromosome to move so that they can become close to each other and be inherited together. This is significant to understanding the relationship between phenotypic integration and evolution because it is one of the mechanisms of how multiple traits that are connected to each other to evolve and change together. For instance, the Papilio dardanus butterflies come in three different forms, each mimicking a different distasteful butterfly species. Multiple loci contribute to these different forms, and a butterfly with alleles for form A at one locus and B at another locus would have poor fitness. However, the multiple loci are tightly linked, so they are inherited together as a single allele. Through transposition, these multiple loci ended up close to each other. Mutations among these linked genes are the nonadaptive fuel which can create evolution. Evolution may also occur because the integration may have an adaptive advantage in a particular environment for an organism. It is also important to recognize that not only can the traits be inherited together, but inherited separately and selected together. Another important example of phenotypic integration evolving over time is the relationship between the neurocranium and the brain. Over the last 150 million years the number of bones in the brain has decreased while the size of the brain in mammals has changed. Integration between the brain and the skull has evolved over this time period to reduce the number of bones in the cranium, while increasing the size of the brain. This relationship between correlated traits has played an important role in the evolution of mammalian cranium structure and brain size. Finally, development is another crucial cause of phenotypic integration that has evolved over time. Cell-signaling pathways which utilize integration in the form of complex interactions among specific cells in the pathway are crucial to proper development in many organisms. The interactions among the cells in the pathway, and the interaction of the pathways with other pathways have evolved over time to create complex structures.",
+            "score": 50.38760793209076
+        },
+        {
+            "docid": "62902_3",
+            "document": "Stuart Kauffman . He is best known for arguing that the complexity of biological systems and organisms might result as much from self-organization and far-from-equilibrium dynamics as from Darwinian natural selection as discussed in his book \"Origins of Order\" (1993). In 1967 and 1969 he used random boolean networks to investigate generic self-organizing properties of gene regulatory networks., proposing that cell types are dynamical attractors in gene regulatory networks and that cell differentiation can be understood as transitions between attractors. Recent evidence suggests that cell types in humans and other organisms are attractors. In 1971 he suggested that a zygote may not be able to access all the cell type attractors in it gene regulatory network during development and that some of the developmentally inaccessible cell types might be cancer cell types. This suggested the possibility of \"cancer differentiation therapy\". He also proposed the self-organized emergence of collectively autocatalytic sets of polymers, specifically peptides, for the origin of molecular reproduction, which have found experimental support.",
+            "score": 34.95653462409973
+        },
+        {
+            "docid": "10121677_7",
+            "document": "Max Planck Institute for Medical Research . One of the future activities of the institute will be to investigate nerve cells and their connections in the cerebral cortex that are responsible for the reception and processing of signals from the sense organs, (i.e. smell, sight, and taste) with the use of molecular genetic, physiological and imaging techniques. Scientists are particularly interested in the nature of synapses, the contact points between nerve cells in the neural network. How information is stored and retrieved in synapses, how new synapses are formed, and how superfluous synapses are removed are all topics of investigation. Research will involve the development of new genetic engineering techniques, so that the activity of the key molecules involved in rapid information transmission between nerve cells by the synapses can be regulated. There are plans to miniaturise multiquantum microscopy and improve the level of penetration to measure activity in the cerebral cortex of freely moving mice.",
+            "score": 78.9482069015503
+        },
+        {
+            "docid": "152611_13",
+            "document": "Cellular differentiation . Other important mechanisms fall under the category of asymmetric cell divisions, divisions that give rise to daughter cells with distinct developmental fates. Asymmetric cell divisions can occur because of asymmetrically expressed maternal cytoplasmic determinants or because of signaling. In the former mechanism, distinct daughter cells are created during cytokinesis because of an uneven distribution of regulatory molecules in the parent cell; the distinct cytoplasm that each daughter cell inherits results in a distinct pattern of differentiation for each daughter cell. A well-studied example of pattern formation by asymmetric divisions is body axis patterning in Drosophila. RNA molecules are an important type of intracellular differentiation control signal. The molecular and genetic basis of asymmetric cell divisions has also been studied in green algae of the genus \"Volvox\", a model system for studying how unicellular organisms can evolve into multicellular organisms. In \"Volvox carteri\", the 16 cells in the anterior hemisphere of a 32-cell embryo divide asymmetrically, each producing one large and one small daughter cell. The size of the cell at the end of all cell divisions determines whether it becomes a specialized germ or somatic cell.",
+            "score": 35.056801080703735
+        },
+        {
+            "docid": "1209057_17",
+            "document": "Wnt signaling pathway . In early embryo development, the formation of the primary body axes is a crucial step in establishing the organism's overall body plan. The axes include the anteroposterior axis, dorsoventral axis, and right-left axis. Wnt signaling is implicated in the formation of the anteroposterior and dorsoventral (DV) axes. Wnt signaling activity in anterior-posterior development can be seen in mammals, fish and frogs. In mammals, the primitive streak and other surrounding tissues produce the morphogenic compounds Wnts, BMPs, FGFs, Nodal and retinoic acid to establish the posterior region during late gastrula. These proteins form concentration gradients. Areas of highest concentration establish the posterior region while areas of lowest concentration indicate the anterior region. In fish and frogs, \u03b2-catenin produced by canonical Wnt signaling causes the formation of organizing centers, which, alongside BMPs, elicit posterior formation. Wnt involvement in DV axis formation can be seen in the activity of the formation of the Spemann organizer, which establishes the dorsal region. Canonical Wnt signaling \u03b2-catenin production induces the formation of this organizer via the activation of the genes twin and siamois. Similarly, in avian gastrulation, cells of the Koller's sickle express different mesodermal marker genes that allow for the differential movement of cells during the formation of the primitive streak. Wnt signaling activated by FGFs is responsible for this movement.",
+            "score": 65.56185686588287
+        },
+        {
+            "docid": "249918_2",
+            "document": "Autonomic neuropathy . Autonomic neuropathy (also AN or AAN) is a form of polyneuropathy that affects the non-voluntary, non-sensory nervous system (i.e., the autonomic nervous system), affecting mostly the internal organs such as the bladder muscles, the cardiovascular system, the digestive tract, and the genital organs. These nerves are not under a person's conscious control and function automatically. Autonomic nerve fibers form large collections in the thorax, abdomen, and pelvis outside the spinal cord. They have connections with the spinal cord and ultimately the brain, however. Most commonly autonomic neuropathy is seen in persons with long-standing diabetes mellitus type 1 and 2. In most\u2014but not all\u2014cases, autonomic neuropathy occurs alongside other forms of neuropathy, such as sensory neuropathy.",
+            "score": 101.6842999458313
+        },
+        {
+            "docid": "7075199_4",
+            "document": "Ventral ramus of spinal nerve . In the thoracic region they remain distinct from each other and each innervates a narrow strip of muscle and skin along the sides, chest, ribs, and abdominal wall. These rami are called the intercostal nerves. In regions other than the thoracic, ventral rami converge with each other to form networks of nerves called nerve plexuses. Within each plexus, fibers from the various ventral rami branch and become redistributed so that each nerve exiting the plexus has fibers from several different spinal nerves. One advantage to having plexuses is that damage to a single spinal nerve will not completely paralyze a limb.",
+            "score": 132.329008102417
+        },
+        {
+            "docid": "36624_7",
+            "document": "Embryo . During organogenesis, molecular and cellular interactions between germ layers, combined with the cells' developmental potential, or competence to respond, prompt the further differentiation of organ-specific cell types. For example, in neurogenesis, a subpopulation of ectoderm cells is set aside to become the brain, spinal cord, and peripheral nerves. Modern developmental biology is extensively probing the molecular basis for every type of organogenesis, including angiogenesis (formation of new blood vessels from pre-existing ones), chondrogenesis (cartilage), myogenesis (muscle), osteogenesis (bone), and many others.",
+            "score": 101.74940824508667
+        },
+        {
+            "docid": "11233375_5",
+            "document": "Allan\u2013Herndon\u2013Dudley syndrome . Mutations in the \"SLC16A2\" gene cause Allan\u2013Herndon\u2013Dudley syndrome. The \"SLC16A2\" gene, also known as \"MCT8\", provides instructions for making a protein that plays a critical role in the development of the nervous system. This protein transports a particular hormone into nerve cells in the developing brain. This hormone, called triiodothyronine or T3, is produced by the thyroid. T3 appears to be critical for the normal formation and growth of nerve cells, as well as the development of junctions between nerve cells (synapses) where cell-to-cell communication occurs. T3 and other forms of thyroid hormone also help regulate the development of other organs and control the rate of chemical reactions in the body.",
+            "score": 56.597471714019775
+        },
+        {
+            "docid": "674207_5",
+            "document": "Torso . The organs, muscles, and other contents of the torso are supplied by nerves, which mainly originate as nerve roots from the thoracic and lumbar parts of the spinal cord. Some organs also receive a nerve supply from the vagus nerve. The sensation to the skin is provided by:",
+            "score": 104.27739119529724
+        },
+        {
+            "docid": "524233_7",
+            "document": "Brodmann area 45 . A strong correlation has been found between speech-language and the anatomically asymmetric pars triangularis. Foundas, et al. showed that language function can be localized to one region of the brain, as Paul Broca had done before them, but they also supported the idea that one side of the brain is more involved with language than the other. The human brain has two hemispheres, and each one looks similar to the other; that is, it looks like one hemisphere is a mirror image of the other. However, Foundas, et al. found that the pars triangularis in Broca's area is actually larger than the same region in the right side of the brain. This \"leftward asymmetry\" corresponded both in form and function, which means that the part of the brain that is active during language processing is larger. In almost all the test subjects, this was the left side. In fact, the only subject tested that had right-hemispheric language dominance was found to have a rightward asymmetry of the pars triangularis.",
+            "score": 88.96302330493927
+        },
+        {
+            "docid": "293763_2",
+            "document": "Phrenic nerve . The phrenic nerve is a nerve that originates in the neck (C3-C5) and passes down between the lung and heart to reach the diaphragm. It is important for breathing, as it passes motor information to the diaphragm and receives sensory information from it. There are two phrenic nerves, a left and a right one.",
+            "score": 217.46977376937866
+        },
+        {
+            "docid": "25096_2",
+            "document": "Peripheral nervous system . The peripheral nervous system (PNS) is one of the two components of the nervous system, the other part is the central nervous system (CNS). The PNS consists of the nerves and ganglia outside the brain and spinal cord. The main function of the PNS is to connect the CNS to the limbs and organs, essentially serving as a relay between the brain and spinal cord and the rest of the body. Unlike the CNS, the PNS is not protected by the vertebral column and skull, or by the blood\u2013brain barrier, which leaves it exposed to toxins and mechanical injuries. The peripheral nervous system is divided into the somatic nervous system and the autonomic nervous system. In the somatic nervous system, the cranial nerves are part of the PNS with the exception of the optic nerve (cranial nerve II), along with the retina. The second cranial nerve is not a true peripheral nerve but a tract of the diencephalon. Cranial nerve ganglia originated in the CNS. However, the remaining ten cranial nerve axons extend beyond the brain and are therefore considered part of the PNS. The autonomic nervous system is an involuntary control of smooth muscle and glands. The connection between CNS and organs allows the system to be in two different functional states: sympathetic and parasympathetic.",
+            "score": 102.61075747013092
+        },
+        {
+            "docid": "9156469_4",
+            "document": "Business networking . A business network is a type of business social network which is developed to help business people connect with other managers and entrepreneurs to further each other's business interests by forming mutually beneficial business relationships. Business networking is a way of leveraging your business and personal connections to help bring you regular supply of new business. There are several prominent business networking organizations that create models of networking events that, when followed, allow the business person to build new business relationships and generate business opportunities at the same time. A professional network service is an implementation of information technology in support of business networking. Chambers of Commerce and other business-oriented groups may also organize networking activities. There are multiple different types of networking groups though and the best type for each individuals varies depending on the business they are in and prospects they want to meet.",
+            "score": 28.846384167671204
+        },
+        {
+            "docid": "31570900_16",
+            "document": "Somatic embryogenesis . Carrot \"Daucus carota\" was the first and most understood species with regard to developmental pathways and molecular mechanisms. Time-lapse tracking by Toonen et al. (1994) showed that morphology of competent cells can vary based on shape and cytoplasm density. Five types of cells were identified from embryonic suspension: spherical cytoplasm-rich, spherical vacuolated, oval vacuolated, elongated vacuolated, and irregular shaped cells. Each type of cell multiplied with certain geometric symmetry. They developed into symmetrical, asymmetrical, and aberrantly-shaped cell clusters that eventually formed embryos at different frequencies. This indicates that organized growth polarity do not always exist in somatic embryogenesis.",
+            "score": 51.10218524932861
+        },
+        {
+            "docid": "21281976_2",
+            "document": "Somatosensory system . The somatosensory system is a part of the sensory nervous system. The somatosensory system is a complex system of sensory neurons and pathways that responds to changes at the surface or inside the body. The axons (as afferent nerve fibers), of sensory neurons connect with, or respond to, various receptor cells. These sensory receptor cells are activated by different stimuli such as heat and nociception, giving a functional name to the responding sensory neuron, such as a thermoreceptor which carries information about temperature changes. Other types include mechanoreceptors, chemoreceptors, and nociceptors and they send signals along a sensory nerve to the spinal cord where they may be processed by other sensory neurons and then relayed to the brain for further processing. Sensory receptors are found all over the body including the skin, epithelial tissues, muscles, bones and joints, internal organs, and the cardiovascular system.",
+            "score": 101.35802972316742
+        },
+        {
+            "docid": "674_10",
+            "document": "Anatomy . Unlike plant cells, animal cells have neither a cell wall nor chloroplasts. Vacuoles, when present, are more in number and much smaller than those in the plant cell. The body tissues are composed of numerous types of cell, including those found in muscles, nerves and skin. Each typically has a cell membrane formed of phospholipids, cytoplasm and a nucleus. All of the different cells of an animal are derived from the embryonic germ layers. Those simpler invertebrates which are formed from two germ layers of ectoderm and endoderm are called diploblastic and the more developed animals whose structures and organs are formed from three germ layers are called triploblastic. All of a triploblastic animal's tissues and organs are derived from the three germ layers of the embryo, the ectoderm, mesoderm and endoderm.",
+            "score": 67.24192559719086
+        },
+        {
+            "docid": "21944_3",
+            "document": "Nervous system . At the cellular level, the nervous system is defined by the presence of a special type of cell, called the neuron, also known as a \"nerve cell\". Neurons have special structures that allow them to send signals rapidly and precisely to other cells. They send these signals in the form of electrochemical waves traveling along thin fibers called axons, which cause chemicals called neurotransmitters to be released at junctions called synapses. A cell that receives a synaptic signal from a neuron may be excited, inhibited, or otherwise modulated. The connections between neurons can form neural pathways, neural circuits, and larger networks that generate an organism's perception of the world and determine its behavior. Along with neurons, the nervous system contains other specialized cells called glial cells (or simply glia), which provide structural and metabolic support.",
+            "score": 54.464563608169556
+        },
+        {
+            "docid": "21944_2",
+            "document": "Nervous system . The nervous system is the part of an animal that coordinates its actions by transmitting signals to and from different parts of its body. The nervous system detects environmental changes that impact the body, then works in tandem with the endocrine system to respond to such events. Nervous tissue first arose in wormlike organisms about 550 to 600 million years ago. In vertebrates it consists of two main parts, the central nervous system (CNS) and the peripheral nervous system (PNS). The CNS consists of the brain and spinal cord. The PNS consists mainly of nerves, which are enclosed bundles of the long fibers or axons, that connect the CNS to every other part of the body. Nerves that transmit signals from the brain are called \"motor\" or \"efferent\" nerves, while those nerves that transmit information from the body to the CNS are called \"sensory\" or \"afferent\". Spinal nerves serve both functions and are called \"mixed\" nerves. The PNS is divided into three separate subsystems, the somatic, autonomic, and enteric nervous systems. Somatic nerves mediate voluntary movement. The autonomic nervous system is further subdivided into the sympathetic and the parasympathetic nervous systems. The sympathetic nervous system is activated in cases of emergencies to mobilize energy, while the parasympathetic nervous system is activated when organisms are in a relaxed state. The enteric nervous system functions to control the gastrointestinal system. Both autonomic and enteric nervous systems function involuntarily. Nerves that exit from the cranium are called cranial nerves while those exiting from the spinal cord are called spinal nerves.",
+            "score": 99.11683881282806
+        }
+    ],
+    "r": [
+        {
+            "docid": "293763_2",
+            "document": "Phrenic nerve . The phrenic nerve is a nerve that originates in the neck (C3-C5) and passes down between the lung and heart to reach the diaphragm. It is important for breathing, as it passes motor information to the diaphragm and receives sensory information from it. There are two phrenic nerves, a left and a right one.",
+            "score": 217.4697723388672
+        },
+        {
+            "docid": "25107_19",
+            "document": "Poliomyelitis . Approximately 19 percent of all paralytic polio cases have both bulbar and spinal symptoms; this subtype is called respiratory or bulbospinal polio. Here, the virus affects the upper part of the cervical spinal cord (cervical vertebrae C3 through C5), and paralysis of the diaphragm occurs. The critical nerves affected are the phrenic nerve (which drives the diaphragm to inflate the lungs) and those that drive the muscles needed for swallowing. By destroying these nerves, this form of polio affects breathing, making it difficult or impossible for the patient to breathe without the support of a ventilator. It can lead to paralysis of the arms and legs and may also affect swallowing and heart functions.",
+            "score": 207.73194885253906
+        },
+        {
+            "docid": "31036492_14",
+            "document": "Canadian Spinal Research Organization . Quadriplegia - The nerves that supply feeling and movement to the arms and hands, as well as the nerves of the diaphragm come from the nerve roots in the cervical spinal cord (C1-C7) or neck region. If the spinal cord is injured in this area, movement and sensation may be interrupted to the arms and hands as well as the rest of the body, including muscles in the abdomen, chest and legs as well as bladder, bowel, and sexual function. If the injury is high enough that the diaphragm is affected, breathing problems will also occur; thus, quadriplegia is a condition that causes paralysis of both the upper and lower limbs.",
+            "score": 204.4742431640625
+        },
+        {
+            "docid": "1095574_7",
+            "document": "Side stitch . Most of the time, side stitches occur on the right side of the body. This may be because the largest organ in the abdominal cavity, the liver, is on that side. Certain athletes also report a pain in the tip of their shoulder blade. This is believed to be because this is a referred site of pain for the diaphragm via the phrenic nerve. When the side stitch is on the right side, published advice is to try to exhale when the left foot lands.",
+            "score": 202.05819702148438
+        },
+        {
+            "docid": "39325716_5",
+            "document": "Development of the digestive system . The diaphragm divides the body cavity into the thoracic and peritoneal cavities. It develops from four components: the septum transversum (central tendon), the pleuroperitoneal membranes, the dorsal mesentery of the esophagus, and muscular components from somites at cervical levels three to five (C3\u20135) of the body wall. Since the septum transversum is located initially opposite cervical segments of three to five, and since muscle cells for the diaphragm originate from somites at these segments, the phrenic nerve, which innervates the diaphragm, also arises from these segments of the spinal cord (C3, 4, and 5). The thoracic cavity is divided into the pericardial cavity and two pleural cavities for the lungs by the pleuropericardial membranes.",
+            "score": 198.9779815673828
+        },
+        {
+            "docid": "321567_18",
+            "document": "Thoracic diaphragm . Because the earliest element of the embryological diaphragm, the septum transversum, forms in the cervical region, the phrenic nerve that innervates the diaphragm originates from the cervical spinal cord (C3,4, and 5). As the septum transversum descends inferiorly, the phrenic nerve follows, accounting for its circuitous route from the upper cervical vertebrae, around the pericardium, finally to innervate the diaphragm.",
+            "score": 198.27432250976562
+        },
+        {
+            "docid": "321567_24",
+            "document": "Thoracic diaphragm . If either the phrenic nerve, cervical spine or brainstem is damaged, this will sever the nervous supply to the diaphragm. The most common damage to the phrenic nerve is by bronchial cancer, which usually only affects one side of the diaphragm. Other causes include Guillain\u2013Barr\u00e9 syndrome and systemic lupus erythematosus.",
+            "score": 195.7406463623047
+        },
+        {
+            "docid": "19275701_8",
+            "document": "Diaphragm pacing . According to the United States Medicare system, phrenic nerve stimulators are indicated for \"selected patients with partial or complete respiratory insufficiency\" and \"can be effective only if the patient has an intact phrenic nerve and diaphragm\". Common patient diagnoses for phrenic nerve pacing include patients with spinal cord injury, central sleep apnea (i.e., Ondine's curse), and diaphragm paralysis.",
+            "score": 195.43832397460938
+        },
+        {
+            "docid": "1966920_4",
+            "document": "Congenital diaphragmatic hernia . The Bochdalek hernia, also known as a postero-lateral diaphragmatic hernia, is the most common manifestation of CDH, accounting for more than 95% of cases. In this instance the diaphragm abnormality is characterized by a hole in the postero-lateral corner of the diaphragm which allows passage of the abdominal viscera into the chest cavity. The majority of Bochdalek hernias (80\u201385%) occur on the left side of the diaphragm, a large proportion of the remaining cases occur on the right side. To date, it carries a high mortality and an active area of clinical research.",
+            "score": 193.8270721435547
+        },
+        {
+            "docid": "2642830_4",
+            "document": "Hanger steak . Anatomically speaking, the hanger steak is the crura, or legs, of the diaphragm. The steak is said to \"hang\" from the diaphragm of the heifer or steer. The diaphragm is one muscle, commonly cut into two separate cuts of meat: the hanger steak, traditionally considered more flavorful, and the outer skirt steak, composed of tougher muscle from the dome of the diaphragm. The hanger is attached to the last rib and to the front of several of the lumbar vertebrae. The right side is larger and stronger than the left.",
+            "score": 193.73553466796875
+        },
+        {
+            "docid": "31622_4",
+            "document": "Transverse myelitis . If the upper cervical segment of the spinal cord is involved, all four limbs may be affected and there is risk of respiratory failure \u2013 the phrenic nerve which is formed by the cervical spinal nerves C3, C4, and C5 innervates the main muscle of respiration, the diaphragm.",
+            "score": 189.31546020507812
+        },
+        {
+            "docid": "23142359_3",
+            "document": "Neurally adjusted ventilatory assist . The act of taking a breath is controlled by the respiratory center of the brain, which decides the characteristics of each breath, timing and size. The respiratory center sends a signal along the phrenic nerve, excites the diaphragm muscle cells, leading to muscle contraction and descent of the diaphragm dome. As a result, the pressure in the airway drops, causing an inflow of air into the lungs.",
+            "score": 187.7378387451172
+        },
+        {
+            "docid": "19275701_7",
+            "document": "Diaphragm pacing . The basic principle behind a diaphragm pacing device (the U.S. Food and Drug Administration identifies the device as a \"diaphragmatic/phrenic nerve stimulator\") involves passing an electric current through electrodes that are attached internally. The diaphragm contracts, expanding the chest cavity, causing air to be sucked into the lungs (inspiration). When not stimulated, the diaphragm relaxes and air moves out of the lungs (expiration).",
+            "score": 187.59332275390625
+        },
+        {
+            "docid": "18838_38",
+            "document": "Mammal . The lungs of mammals are spongy and honeycombed. Breathing is mainly achieved with the diaphragm, which divides the thorax from the abdominal cavity, forming a dome convex to the thorax. Contraction of the diaphragm flattens the dome, increasing the volume of the lung cavity. Air enters through the oral and nasal cavities, and travels through the larynx, trachea and bronchi, and expands the alveoli. Relaxing the diaphragm has the opposite effect, decreasing the volume of the lung cavity, causing air to be pushed out of the lungs. During exercise, the abdominal wall contracts, increasing pressure on the diaphragm, which forces air out quicker and more forcefully. The rib cage is able to expand and contract the chest cavity through the action of other respiratory muscles. Consequently, air is sucked into or expelled out of the lungs, always moving down its pressure gradient. This type of lung is known as a bellows lung due to its resemblance to blacksmith bellows.",
+            "score": 183.43927001953125
+        },
+        {
+            "docid": "15250749_2",
+            "document": "Cervical spinal nerve 4 . Cervical spinal nerve 4, also called C4, is a spinal nerve of the cervical segment. It originates from the spinal cord above the 4th cervical vertebra (C4). It contributes nerve fibers to the phrenic nerve, the motor nerve to the thoracoabdominal diaphragm. It also provides motor nerves for the longus capitis, longus colli, anterior scalene, middle scalene, and levator scapulae muscles. C4 contributes some sensory fibers to the supraclavicular nerves, responsible for sensation from the skin above the clavicle.",
+            "score": 183.2555389404297
+        },
+        {
+            "docid": "9645723_3",
+            "document": "Muscles of respiration . The diaphragm is the major muscle responsible for breathing. It is a thin, dome-shaped muscle that separates the abdominal cavity from the thoracic cavity. During inhalation, the diaphragm contracts, so that its center moves caudally (downward) and its edges move rostrally (upward). This compresses the abdominal cavity, raises the ribs upward and outward and thus expands the thoracic cavity. This expansion draws air into the lungs. When the diaphragm relaxes, elastic recoil of the thoracic wall causes the thoracic cavity to contract, forcing air out of the lungs.",
+            "score": 182.5677947998047
+        },
+        {
+            "docid": "321567_4",
+            "document": "Thoracic diaphragm . The term \"diaphragm\" in anatomy can refer to other flat structures such as the urogenital diaphragm or pelvic diaphragm, but \"the diaphragm\" generally refers to the thoracic diaphragm. In humans, the diaphragm is slightly asymmetric\u2014its right half is higher up (superior) to the left half, since the large liver rests beneath the right half of the diaphragm. There is also a theory that the diaphragm is lower on the other side due to the presence of the heart.",
+            "score": 182.43333435058594
+        },
+        {
+            "docid": "293763_14",
+            "document": "Phrenic nerve . Pain arising from structures supplied by the phrenic nerve is often \"referred\" to other somatic regions served by spinal nerves C3-C5. For example, a subphrenic abscess beneath the right diaphragm might cause a patient to feel pain in the right shoulder.",
+            "score": 182.2134552001953
+        },
+        {
+            "docid": "15286222_7",
+            "document": "Critical illness polyneuropathy . Respiratory difficulties can be caused by atrophy of the muscles between the ribs (intercostals), atrophy of the diaphragm muscle, and degeneration of the nerve that stimulates the diaphragm (phrenic nerve). This can prolong the time the wean a person off of a breathing machine (mechanical ventilation) by as much as 7 \u2013 13 days.",
+            "score": 181.2147979736328
+        },
+        {
+            "docid": "5967256_4",
+            "document": "Esophageal hiatus . The esophageal hiatus is situated in the muscular part of the diaphragm at the level of the tenth thoracic vertebra, and is elliptical in shape. It is placed superior, anterior, and slightly left of the aortic hiatus, and transmits the esophagus, the vagus nerve, the left inferior phrenic vessels, and some small esophageal arteries from left gastric vessels. The right crus of the diaphragm loops around forming a sling around the esophagus. Upon inspiration, this sling would constrict the esophagus, forming a functional (not anatomical) sphincter that prevents stomach contents from refluxing up the esophagus when intra-abdominal pressure rises during inspiration.",
+            "score": 180.92733764648438
+        },
+        {
+            "docid": "46493387_3",
+            "document": "Avery Biomedical Devices . The Mark IV Breathing Pacemaker is a phrenic nerve stimulator, also called a diaphragm pacemaker. Phrenic nerve stimulation is a technique whereby a nerve stimulator provides electrical stimulation of the phrenic nerve to cause diaphragmatic contraction. It consists of surgically implanted receivers and electrodes mated to an external transmitter by antennas worn over the implanted receivers. An external battery-operated transmitter sends radiofrequency energy to the receiver through an antenna, which is placed on the skin overlying the receiver. The receiver converts this energy into an electric current that is directed to the phrenic nerve in order to stimulate the nerve, thereby causing contraction of the diaphragm. The surgery can be performed via either a cervical or thoracic approach. Phrenic pacing provides ventilatory support for patients with chronic respiratory insufficiency whose diaphragm, lungs, and phrenic nerves have residual function.",
+            "score": 179.5753173828125
+        },
+        {
+            "docid": "7869624_2",
+            "document": "Superior suprarenal artery . Each (left and right) superior suprarenal artery is a branch of the inferior phrenic artery on that side of the body. The left and right phrenic arteries supply the diaphragm, and come off the aorta.",
+            "score": 178.7276611328125
+        },
+        {
+            "docid": "293763_16",
+            "document": "Phrenic nerve . The phrenic nerve must be identified during thoracic surgery and preserved. To confirm the identity of the phrenic nerve, gently manipulate it to elicit a dartle (diaphragmatic startle) response. The right phrenic nerve may be crushed by the vena cava clamp during liver transplantation. Severing the phrenic nerve, or a phrenectomy, will paralyse that half of the diaphragm. Diaphragm paralysis is best demonstrated by sonography. Breathing will be made more difficult but will continue provided the other nerve is intact.",
+            "score": 175.30848693847656
+        },
+        {
+            "docid": "17025_6",
+            "document": "Kidney . In humans, the kidneys are located high in the abdominal cavity, one on each side of the spine, and lie in a retroperitoneal position at a slightly oblique angle. The asymmetry within the abdominal cavity, caused by the position of the liver, typically results in the right kidney being slightly lower and smaller than the left, and being placed slightly more to the middle than the left kidney. The left kidney is approximately at the vertebral level T12 to L3, and the right is slightly lower. The right kidney sits just below the diaphragm and posterior to the liver. The left sits below the diaphragm and posterior to the spleen. On top of each kidney is an adrenal gland. The upper parts of the kidneys are partially protected by the 11th and 12th ribs. Each kidney, with its adrenal gland is surrounded by two layers of fat: the perirenal fat present between renal fascia and renal capsule and pararenal fat superior to the renal fascia.",
+            "score": 173.70204162597656
+        },
+        {
+            "docid": "293763_17",
+            "document": "Phrenic nerve . The phrenic nerve arises from the neck (C3-C5) and innervates the diaphragm, which is much lower. Hence, patients suffering spinal cord injuries below the neck are still able to breathe effectively, despite any paralysis of the lower limbs.",
+            "score": 172.63189697265625
+        },
+        {
+            "docid": "243329_15",
+            "document": "Accessory nerve . One-sided weakness of the trapezius may indicate injury to the nerve on the same side of an injury to the spinal accessory nerve on the same side () of the body being assessed. Weakness in head-turning suggests injury to the contralateral spinal accessory nerve: a weak leftward turn is indicative of a weak right sternocleidomastoid muscle (and thus right spinal accessory nerve injury), while a weak rightward turn is indicative of a weak left sternocleidomastoid muscle (and thus left spinal accessory nerve).",
+            "score": 172.09852600097656
+        },
+        {
+            "docid": "25096_9",
+            "document": "Peripheral nervous system . The phrenic nerve is a nerve essential for our survival which arises from nerve roots C3, C4 and C5. It supplies the thoracic diaphragm, enabling breathing. If the spinal cord is transected above C3, then spontaneous breathing is not possible.",
+            "score": 171.50474548339844
+        },
+        {
+            "docid": "321567_14",
+            "document": "Thoracic diaphragm . The diaphragm is primarily innervated by the phrenic nerve which is formed from the cervical nerves C3, C4 and C5. While the central portion of the diaphragm sends sensory afferents via the phrenic nerve, the peripheral portions of the diaphragm send sensory afferents via the intercostal (T5\u2013T11) and subcostal nerves (T12).",
+            "score": 171.20892333984375
+        },
+        {
+            "docid": "44593_4",
+            "document": "Rib . In general, human ribs increase in length from ribs 1 through 7 and decrease in length again through rib 12. Along with this change in size, the ribs become progressively oblique (slanted) from ribs 1 through 9, then less slanted through rib 12.  The ribcage is separated from the lower abdomen by the thoracic diaphragm which controls breathing. When the diaphragm contracts, the thoracic cavity is expanded, reducing intra-thoracic pressure and drawing air into the lungs. This happens through one of two actions (or a mix of the two): when the lower ribs the diaphragm connects to are stabilized by muscles and the central tendon is mobile, when the muscle contracts the central tendon is drawn down, compressing the cavity underneath and expanding the thoracic cavity downward. When the central tendon is stabilized and the lower ribs are mobile, a contraction of the diaphragm elevates the ribs, which works in conjunction with other muscles to expand the thoracic indent upward.",
+            "score": 170.27345275878906
+        },
+        {
+            "docid": "2762064_6",
+            "document": "Abdominal internal oblique muscle . The internal oblique performs two major functions. Firstly as an accessory muscle of respiration, it acts as an antagonist (opponent) to the diaphragm, helping to reduce the volume of the chest cavity during exhalation. When the diaphragm contracts, it pulls the lower wall of the chest cavity down, increasing the volume of the lungs which then fill with air. Conversely, when the internal obliques contract they compress the organs of the abdomen, pushing them up into the diaphragm which intrudes back into the chest cavity reducing the volume of the air filled lungs, producing an exhalation.",
+            "score": 169.45314025878906
+        },
+        {
+            "docid": "20903424_6",
+            "document": "Breathing . The lungs are not capable of inflating themselves, and will expand only when there is an increase in the volume of the thoracic cavity. In humans, as in the other mammals, this is achieved primarily through the contraction of the diaphragm, but also by the contraction of the intercostal muscles which pull the rib cage upwards and outwards as shown in the diagrams on the left. During forceful inhalation (Figure on the right) the accessory muscles of inhalation, which connect the ribs and sternum to the cervical vertebrae and base of the skull, in many cases through an intermediary attachment to the clavicles, exaggerate the pump handle and bucket handle movements (see illustrations on the left), bringing about a greater change in the volume of the chest cavity. During exhalation (breathing out), at rest, all the muscles of inhalation relax, returning the chest and abdomen to a position called the \u201cresting position\u201d, which is determined by their anatomical elasticity. At this point the lungs contain the functional residual capacity of air, which, in the adult human, has a volume of about 2.5\u20133.0 liters.",
+            "score": 169.36790466308594
+        },
+        {
+            "docid": "57174_20",
+            "document": "Rib cage . Expansion of the thoracic cavity is driven in three planes; the vertical, the anteroposterior and the transverse. The vertical plane is extended by the help of the diaphragm contracting and the abdominal muscles relaxing to accommodate the downward pressure that is supplied to the abdominal viscera by the diaphragm contracting. A greater extension can be achieved by the diaphragm itself moving down, rather than simply the domes flattening. The second plane is the anteroposterior and this is expanded by a movement known as the 'pump handle.' The downward sloping nature of the upper ribs are as such because they enable this to occur. When the external intercostal muscles contract and lift the ribs, the upper ribs are able also to push the sternum up and out. This movement increases the anteroposterior diameter of the thoracic cavity, and hence aids breathing further. The third, transverse, plane is primarily expanded by the lower ribs (some say it is the 7th to 10th ribs in particular), with the diaphragm's central tendon acting as a fixed point. When the diaphragm contracts, the ribs are able to evert and produce what is known as the bucket handle movement, facilitated by gliding at the costovertebral joints. In this way, the transverse diameter is expanded and the lungs can fill.",
+            "score": 168.5802764892578
+        }
+    ]
+}

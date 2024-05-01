@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "31473595_5",
+            "document": "M. Ahmad Chaudhry . Ionizing radiation interferes with cellular functions at all levels of cell organization. The ionizing radiation-induced stress response is very complex and involves many cellular processes. Dr. Chaudry is investigating the involvement of small non-coding micro-RNA in the response of human cells exposed to ionizing radiation. Micro RNAs (miRNAs) are small non-protein-coding single-stranded RNAs of ~22 nucleotides that function as negative gene regulators. miRNA negatively regulate their targets either by binding with perfect or nearly perfect complementarity to protein coding mRNA sequences to induce the RNA-mediated interference (RNAi) pathway. Most miRNAs do not cleave their mRNA targets as a mechanism of gene regulation. These miRNAs bind to imperfect complementary sites within the 3\u2032 untranslated regions (UTRs) of their mRNA targets. In this case the target-gene repression occurs post-transcriptionally at the level of translation resulting in reduced protein levels but the mRNA levels remain unaffected. A single miRNA has the capability to bind to as many as 200 diverse gene targets ranging from transcription factors, secreted factors, receptors and transporters, thus potentially controlling the expression of about one-third of human mRNAs. Research has identified cell type specific modulation of several miRNA in gamma radiation and X-ray-treated human cells. Other studies from our laboratory showed that the expression of many miRNA markedly differ within the same cell line after exposure to either low or high doses of radiation. His work also identified radiation-induced modulation of miRNA in cells with altered DNA repair capability. These studies have provided evidence that miRNA are involved in the response to ionizing radiation exposure in human cells.",
+            "score": 43.88158345222473
+        },
+        {
+            "docid": "11421227_3",
+            "document": "Mir-17 microRNA precursor family . The paralogous miRNA gene clusters that give rise to miR-17 family microRNAs (miR-17~92, miR-106a~363, and miR-106b~25) have been implicated in a wide variety of malignancies and are sometimes referred to as oncomirs. The oncogenic potential of these non-protein encoding genes was first identified in mouse viral tumorigenesis screens. In humans, the activating mutations of miR-17~92 have been identified in non-Hodgkin's lymphoma, whereas the miRNA constituents of the clusters are overexpressed in a multiple cancer types. High level expression of miR-17 family members induces cell proliferation, whereas deletion of the miR-17~92 cluster, in mice, is lethal and causes lung and lymphoid cell developmental defects. In addition, in the nasopharyngeal carcinoma cell line, miR-20a and miR-20b has been shown to target the 3\u2019 UTR of vascular endothelial growth factor (VEGF) and repress the expression of VEGF, which is an important angiogenic factor.",
+            "score": 95.72063744068146
+        },
+        {
+            "docid": "35746225_15",
+            "document": "Cancer epigenetics . In mammals, microRNAs (miRNAs) regulate about 60% of the transcriptional activity of protein-encoding genes. Some miRNAs also undergo methylation-associated silencing in cancer cells. Let-7 and miR15/16 play important roles in down-regulating RAS and BCL2 oncogenes, and their silencing occurs in cancer cells. Decreased expression of miR-125b1, a miRNA that functions as a tumor suppressor, was observed in prostate, ovarian, breast and glial cell cancers. In vitro experiments have shown that miR-125b1 targets two genes, HER2/neu and ESR1, that are linked to breast cancer. DNA methylation, specifically hypermethylation, is one of the main ways that the miR-125b1 is epigenetically silenced. In patients with breast cancer, hypermethylation of CpG islands located proximal to the transcription start site was observed. Loss of CTCF binding and an increase in repressive histone marks, H3K9me3 and H3K27me3, correlates with DNA methylation and miR-125b1 silencing. Mechanistically, CTCF may function as a boundary element to stop the spread of DNA methylation. Results from experiments conducted by Soto-Reyes et al. indicate a negative effect of methylation on the function and expression of miR-125b1. Therefore, they concluded that DNA methylation has a part in silencing the gene. Furthermore, some miRNA's are epigenetically silenced early on in breast cancer, and therefore these miRNA's could potentially be useful as tumor markers. The epigenetic silencing of miRNA genes by aberrant DNA methylation is a frequent event in cancer cells; almost one third of miRNA promoters active in normal mammary cells were found hypermethylated in breast cancer cells - that is a several fold greater proportion than is usually observed for protein coding genes.  DNA damage appears to be the primary underlying cause of cancer. If DNA repair is deficient, DNA damage tends to accumulate. Such excess DNA damage can increase mutational errors during DNA replication due to error-prone translesion synthesis. Excess DNA damage can also increase epigenetic alterations due to errors during DNA repair. Such mutations and epigenetic alterations can give rise to cancer (see malignant neoplasms).",
+            "score": 64.62375104427338
+        },
+        {
+            "docid": "16908428_5",
+            "document": "Post-transcriptional regulation . MicroRNAs (miRNAs) appear to regulate the expression of more than 60% of protein coding genes of the human genome. If an miRNA is abundant it can behave as a \"switch\", turning some genes on or off. However, altered expression of many miRNAs only leads to a modest 1.5- to 4-fold change in protein expression of their target genes. Individual miRNAs often repress several hundred target genes. Repression usually occurs either through translational silencing of the mRNA or through degradation of the mRNA, via complementary binding, mostly to specific sequences in the 3' untranslated region of the target gene's mRNA. The mechanism of translational silencing or degradation of mRNA is implemented through the RNA-induced silencing complex (RISC).",
+            "score": 39.1223201751709
+        },
+        {
+            "docid": "7330456_16",
+            "document": "Argonaute . For the diseases that are involved with selective or elevated expression of particular identified genes, such as pancreatic cancer, the high sequence specificity of RNA interference might make it suitable to be a suitable treatment, particularly appropriate for combating cancers associated with mutated endogenous gene sequences. It has been reported several tiny non-coding RNAs(microRNAs) are related with human cancers, like miR-15a and miR-16a are frequently deleted and/or down-regulated in patients. Even though the biological functions of miRNAs are not fully understood, the roles for miRNAs in the coordination of cell proliferation and cell death during development and metabolism have been uncovered. It is trusted that the miRNAs can direct negative or positive regulation at different levels, which depends on the specific miRNAs and target base pair interaction and the cofactors that recognize them.",
+            "score": 77.50094437599182
+        },
+        {
+            "docid": "2195185_17",
+            "document": "ATM serine/threonine kinase . ATM functions during meiotic prophase. The wild-type ATM gene is expressed at a four-fold increased level in human testes compared to somatic cells (such as skin fibroblasts). In both mice and humans, ATM deficiency results in female and male infertility. Deficient ATM expression causes severe meiotic disruption during prophase I. In addition, impaired ATM-mediated DNA DSB repair has been identified as a likely cause of aging of mouse and human oocytes. Expression of the ATM gene, as well as other key DSB repair genes, declines with age in mouse and human oocytes and this decline is paralleled by an increase of DSBs in primordial follicles. These findings indicate that ATM-mediated homologous recombinational repair is a crucial function of meiosis.",
+            "score": 50.978026151657104
+        },
+        {
+            "docid": "240850_9",
+            "document": "Gene silencing . Three prime untranslated regions (3'UTRs) of messenger RNAs (mRNAs) often contain regulatory sequences that post-transcriptionally cause gene silencing. Such 3'-UTRs often contain both binding sites for microRNAs (miRNAs) as well as for regulatory proteins. By binding to specific sites within the 3'-UTR, a large number of specific miRNAs decrease gene expression of their particular target mRNAs by either inhibiting translation or directly causing degradation of the transcript, using a mechanism similar to RNA interference (see MicroRNA). The 3'-UTR also may have silencer regions that bind repressor proteins that inhibit the expression of an mRNA.",
+            "score": 48.08671998977661
+        },
+        {
+            "docid": "29188721_32",
+            "document": "RNA interference . Endogenously expressed miRNAs, including both intronic and intergenic miRNAs, are most important in translational repression and in the regulation of development, especially on the timing of morphogenesis and the maintenance of undifferentiated or incompletely differentiated cell types such as stem cells. The role of endogenously expressed miRNA in downregulating gene expression was first described in \"C. elegans\" in 1993. In plants this function was discovered when the \"JAW microRNA\" of \"Arabidopsis\" was shown to be involved in the regulation of several genes that control plant shape. In plants, the majority of genes regulated by miRNAs are transcription factors; thus miRNA activity is particularly wide-ranging and regulates entire gene networks during development by modulating the expression of key regulatory genes, including transcription factors as well as F-box proteins. In many organisms, including humans, miRNAs are linked to the formation of tumors and dysregulation of the cell cycle. Here, miRNAs can function as both oncogenes and tumor suppressors.",
+            "score": 57.74118232727051
+        },
+        {
+            "docid": "39791783_2",
+            "document": "MIR4640 . MicroRNA 4640 is a protein in humans that is encoded by the MIR4640 gene. microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop. [provided by RefSeq, Sep 2009].",
+            "score": 50.5776104927063
+        },
+        {
+            "docid": "553121_18",
+            "document": "Regulation of gene expression . Three prime untranslated regions (3'-UTRs) of messenger RNAs (mRNAs) often contain regulatory sequences that post-transcriptionally influence gene expression. Such 3'-UTRs often contain both binding sites for microRNAs (miRNAs) as well as for regulatory proteins. By binding to specific sites within the 3'-UTR, miRNAs can decrease gene expression of various mRNAs by either inhibiting translation or directly causing degradation of the transcript. The 3'-UTR also may have silencer regions that bind repressor proteins that inhibit the expression of a mRNA.",
+            "score": 40.715198278427124
+        },
+        {
+            "docid": "56907937_3",
+            "document": "MIR1250 (gene) . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop. [provided by RefSeq, Sep 2009].",
+            "score": 47.82947111129761
+        },
+        {
+            "docid": "57446192_3",
+            "document": "MIR885 (gene) . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop. [provided by RefSeq, Sep 2009].",
+            "score": 47.82947111129761
+        },
+        {
+            "docid": "50107487_3",
+            "document": "MIR96 (gene) . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 47.82947111129761
+        },
+        {
+            "docid": "47787628_3",
+            "document": "MIR660 . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "34520169_3",
+            "document": "MIR146A . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "45222955_3",
+            "document": "MIR133A1 . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "55573253_3",
+            "document": "MIR494 . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. This RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "49319300_3",
+            "document": "MIR361 . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "53432704_3",
+            "document": "MIR6079 . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "50675760_3",
+            "document": "MIR3173 . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "45222928_3",
+            "document": "MIR222 . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "45222871_3",
+            "document": "MIR34A . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "53245126_3",
+            "document": "MIR1271 . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "52490023_3",
+            "document": "MIR489 . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "52241840_3",
+            "document": "MIR4761 . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "54180980_3",
+            "document": "MIR503 . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "52302326_3",
+            "document": "MIR6087 . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 49.04160499572754
+        },
+        {
+            "docid": "1264722_13",
+            "document": "Malignant transformation . Epigenetic alterations are also carried out by another major regulatory element, the microRNAs. In mammals, microRNAs (miRNAs) regulate about 60% of the transcriptional activity of protein-encoding genes. Epigenetic silencing or epigenetic over-expression of miRNA genes, caused by aberrant DNA methylation of the promoter regions controlling their expression, is a frequent event in cancer cells. Almost one third of miRNA promoters active in normal mammary cells were found to be hypermethylated in breast cancer cells, and that is a several fold greater proportion of promoters with altered methylation than is usually observed for protein coding genes. Other microRNA promoters are hypomethylated in breast cancers, and, as a result, these microRNAs are over-expressed. Several of these over-expressed microRNAs have a major influence in progression to breast cancer. BRCA1 is normally expressed in the cells of breast and other tissue, where it helps repair damaged DNA, or destroy cells if DNA cannot be repaired. BRCA1 is involved in the repair of chromosomal damage with an important role in the error-free repair of DNA double-strand breaks. BRCA1 expression is reduced or undetectable in the majority of high grade, ductal breast cancers. Only about 3%-8% of all women with breast cancer carry a mutation in BRCA1 or BRCA2. \"BRCA1\" promoter hypermethylation was present in only 13% of unselected primary breast carcinomas. However, breast cancers were found to have an average of about 100-fold increase in miR-182, compared to normal breast tissue. In breast cancer cell lines, there is an inverse correlation of BRCA1 protein levels with miR-182 expression. Thus it appears that much of the reduction or absence of BRCA1 in high grade ductal breast cancers may be due to over-expressed miR-182. (For review see ref.) In addition to miR-182, a pair of almost identical microRNAs, miR-146a and miR-146b-5p, also repress BRCA1 expression. These two microRNAs are over-expressed in triple-negative tumors and their over-expression results in BRCA1 inactivation. Thus, miR-146a and/or miR-146b-5p may also contribute to reduced expression of BRCA1 in these triple-negative breast cancers.",
+            "score": 92.27211093902588
+        },
+        {
+            "docid": "29188721_11",
+            "document": "RNA interference . MicroRNAs (miRNAs) are genomically encoded non-coding RNAs that help regulate gene expression, particularly during development. The phenomenon of RNA interference, broadly defined, includes the endogenously induced gene silencing effects of miRNAs as well as silencing triggered by foreign dsRNA. Mature miRNAs are structurally similar to siRNAs produced from exogenous dsRNA, but before reaching maturity, miRNAs must first undergo extensive post-transcriptional modification. A miRNA is expressed from a much longer RNA-coding gene as a primary transcript known as a \"pri-miRNA\" which is processed, in the cell nucleus, to a 70-nucleotide stem-loop structure called a \"pre-miRNA\" by the microprocessor complex. This complex consists of an RNase III enzyme called Drosha and a dsRNA-binding protein DGCR8. The dsRNA portion of this pre-miRNA is bound and cleaved by Dicer to produce the mature miRNA molecule that can be integrated into the RISC complex; thus, miRNA and siRNA share the same downstream cellular machinery. First, viral encoded miRNA was described in EBV. Thereafter, an increasing number of microRNAs have been described in viruses. VIRmiRNA is a comprehensive catalogue covering viral microRNA, their targets and anti-viral miRNAs (see also VIRmiRNA resource: http://crdd.osdd.net/servers/virmirna/).",
+            "score": 57.523905873298645
+        },
+        {
+            "docid": "55665005_3",
+            "document": "MicroRNA 4727 . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop. [provided by RefSeq, Sep 2009].",
+            "score": 51.68843221664429
+        },
+        {
+            "docid": "55456124_3",
+            "document": "MicroRNA 548v . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop.",
+            "score": 51.68843221664429
+        },
+        {
+            "docid": "56095279_3",
+            "document": "Microrna 196b . microRNAs (miRNAs) are short (20-24 nt) non-coding RNAs that are involved in post-transcriptional regulation of gene expression in multicellular organisms by affecting both the stability and translation of mRNAs. miRNAs are transcribed by RNA polymerase II as part of capped and polyadenylated primary transcripts (pri-miRNAs) that can be either protein-coding or non-coding. The primary transcript is cleaved by the Drosha ribonuclease III enzyme to produce an approximately 70-nt stem-loop precursor miRNA (pre-miRNA), which is further cleaved by the cytoplasmic Dicer ribonuclease to generate the mature miRNA and antisense miRNA star (miRNA*) products. The mature miRNA is incorporated into a RNA-induced silencing complex (RISC), which recognizes target mRNAs through imperfect base pairing with the miRNA and most commonly results in translational inhibition or destabilization of the target mRNA. The RefSeq represents the predicted microRNA stem-loop. [provided by RefSeq, Sep 2009].",
+            "score": 51.68843221664429
+        }
+    ],
+    "r": [
+        {
+            "docid": "11421227_2",
+            "document": "Mir-17 microRNA precursor family . The miR-17 microRNA precursor family are a group of related small non-coding RNA genes called microRNAs that regulate gene expression. The microRNA precursor miR-17 family, includes miR-20a/b, miR-93, and miR-106a/b. With the exception of miR-93, these microRNAs are produced from several microRNA gene clusters, which apparently arose from a series of ancient evolutionary genetic duplication events, and also include members of the miR-19, and miR-25 families. These clusters are transcribed as long non-coding RNA transcripts that are processed to form ~70 nucleotide microRNA precursors, that are subsequently processed by the Dicer enzyme to give a ~22 nucleotide products. The mature microRNA products are thought to regulate expression levels of other genes through complementarity to the 3' UTR of specific target messenger RNA.",
+            "score": 112.49383544921875
+        },
+        {
+            "docid": "3042204_21",
+            "document": "Male infertility . The volume of the semen sample, approximate number of total sperm cells, sperm motility/forward progression, and % of sperm with normal morphology are measured. This is the most common type of fertility testing. Semen deficiencies are often labeled as follows: There are various combinations of these as well, e.g. \"Teratoasthenozoospermia\", which is reduced sperm morphology and motility. Low sperm counts are often associated with decreased sperm motility and increased abnormal morphology, thus the terms \"oligoasthenoteratozoospermia\" or \"oligospermia\" can be used as a catch-all.",
+            "score": 112.31985473632812
+        },
+        {
+            "docid": "11421188_2",
+            "document": "Mir-124 microRNA precursor family . The miR-124 microRNA precursor is a small non-coding RNA molecule that has been identified in flies (MI0000373), nematode worms (MI0000302), mouse (MI0000150) and human (MI0000443). The mature ~21 nucleotide microRNAs are processed from hairpin precursor sequences by the Dicer enzyme, and in this case originates from the 3' arm. miR-124 has been found to be the most abundant microRNA expressed in neuronal cells. Experiments to alter expression of miR-124 in neural cells did not appear to affect differentiation. However these results are controversial since other reports have described a role for miR-124 during neuronal differentiation.",
+            "score": 105.26990509033203
+        },
+        {
+            "docid": "11421247_2",
+            "document": "Mir-1 microRNA precursor family . The miR-1 microRNA precursor is a small micro RNA that regulates its target protein's expression in the cell. microRNAs are transcribed as ~70 nucleotide precursors and subsequently processed by the Dicer enzyme to give a ~22 nucleotide products. In this case the mature sequence comes from the 3' arm of the precursor. The mature products are thought to have regulatory roles through complementarity to mRNA. In humans there are two distinct microRNAs that share an identical mature sequence, these are called miR-1-1 and miR-1-2.",
+            "score": 103.54859924316406
+        },
+        {
+            "docid": "11421261_2",
+            "document": "Mir-24 microRNA precursor family . The miR-24 microRNA precursor is a small non-coding RNA molecule that regulates gene expression. microRNAs are transcribed as ~70 nucleotide precursors and subsequently processed by the Dicer enzyme to give a mature ~22 nucleotide product. In this case the mature sequence comes from the 3' arm of the precursor. The mature products are thought to have regulatory roles through complementarity to mRNA. miR-24 is conserved in various species, and is clustered with miR-23 and miR-27, on human chromosome 9 and 19. Recently, miR-24 has been shown to suppress expression of two crucial cell cycle control genes, E2F2 and Myc in hematopoietic differentiation and also to promote keratinocyte differentiation by repressing actin-cytoskeleton regulators PAK4, Tsk5 and ArhGAP19.",
+            "score": 101.6241455078125
+        },
+        {
+            "docid": "11421198_2",
+            "document": "Mir-130 microRNA precursor family . In molecular biology, miR-130 microRNA precursor is a small non-coding RNA that regulates gene expression. This microRNA has been identified in mouse (MI0000156, MI0000408), and in human (MI0000448, MI0000748). miR-130 appears to be vertebrate-specific miRNA and has now been predicted or experimentally confirmed in a range of vertebrate species (MIPF0000034). Mature microRNAs are processed from the precursor stem-loop by the Dicer enzyme. In this case, the mature sequence is excised from the 3' arm of the hairpin. It has been found that miR-130 is upregulated in a type of cancer called hepatocellular carcinoma. It has been shown that miR-130a is expressed in the hematopoietic stem/progenitor cell compartment but not in mature blood cells.",
+            "score": 99.7425765991211
+        },
+        {
+            "docid": "51778432_2",
+            "document": "Globozoospermia . Globozoospermia (also known as round-headed sperm syndrome) is a rare and severe form of monomorphic teratozoospermia. This means that the spermatozoa show the same abnormality, and over 85% of spermatozoa in sperm have this abnormality. Globozoospermia is responsible for less than 0.1% of male infertility. It characterised by round-headed spermatozoa without acrosome, an abnormal nuclear membrane and midpiece defects. Affected males therefore suffer from either reduced fertility or infertility. Studies suggest that globozoospermia can be either total (100% round-headed spermatozoa without acrosomes) or partial (20-60% round acrosomeless spermatozoa with normal sperm also identified in the sperm count,) however it is unclear whether these two forms are variations on the same syndrome, or actually different syndromes.",
+            "score": 99.2737045288086
+        },
+        {
+            "docid": "2324040_11",
+            "document": "Sperm . The postmeiotic phase of mouse spermatogenesis is very sensitive to environmental genotoxic agents, because as male germ cells form mature sperm they progressively lose the ability to repair DNA damage. Irradiation of male mice during late spermatogenesis can induce damage that persists for at least 7 days in the fertilizing sperm cells, and disruption of maternal DNA double-strand break repair pathways increases sperm cell-derived chromosomal aberrations. Treatment of male mice with melphalan, a bifunctional alkylating agent frequently employed in chemotherapy, induces DNA lesions during meiosis that may persist in an unrepaired state as germ cells progress though DNA repair-competent phases of spermatogenic development. Such unrepaired DNA damages in sperm cells, after fertilization, can lead to offspring with various abnormalities.",
+            "score": 98.55069732666016
+        },
+        {
+            "docid": "56451987_2",
+            "document": "CCDC181 . Coiled-coil domain-containing protein 181 (CCDC181) is a protein that in human is encoded by C1orf114, which is located at the Chromosome 1 at 1q24.2. The accession is Q5T1D7. Researches have recently revealed that CCDC 181 is a microtubule-binding protein that interacts with murine Hook1 in haploid male germ cells and localizes to the sperm tail and motile cilia. The disruption of Hook1 may lead to inappropriate function of spermatogenesis. The dysfunction may be related to the abnormal head shape of sperm or distinctive structural changes in flagella in sperm, and could be possible end up in male infertility. An increased rate of my gene has found in the haploid phase of male cell during meiosis, thus it is believed to relate to sperm cell and aid in spermatogenesis.",
+            "score": 98.14324188232422
+        },
+        {
+            "docid": "11420988_2",
+            "document": "Mir-9/mir-79 microRNA precursor family . The miR-9 microRNA (homologous to miR-79), is a short non-coding RNA gene involved in gene regulation. The mature ~21nt miRNAs are processed from hairpin precursor sequences by the Dicer enzyme. The dominant mature miRNA sequence is processed from the 5' arm of the mir-9 precursor, and from the 3' arm of the mir-79 precursor. The mature products are thought to have regulatory roles through complementarity to mRNA. In vertebrates, miR-9 is highly expressed in the brain, and is suggested to regulate neuronal differentiation. A number of specific targets of miR-9 have been proposed, including the transcription factor REST and its partner CoREST.",
+            "score": 97.97631072998047
+        },
+        {
+            "docid": "11421230_2",
+            "document": "Mir-181 microRNA precursor . In molecular biology miR-181 microRNA precursor is a small non-coding RNA molecule. MicroRNAs (miRNAs) are transcribed as ~70 nucleotide precursors and subsequently processed by the RNase-III type enzyme Dicer to give a ~22 nucleotide mature product. In this case the mature sequence comes from the 5' arm of the precursor. They target and modulate protein expression by inhibiting translation and / or inducing degradation of target messenger RNAs. This new class of genes has recently been shown to play a central role in malignant transformation. miRNA are downregulated in many tumors and thus appear to function as tumor suppressor genes. The mature products miR-181a, miR-181b, miR-181c or miR-181d are thought to have regulatory roles at posttranscriptional level, through complementarity to target mRNAs. miR-181 which has been predicted or experimentally confirmed in a wide number of vertebrate species as rat, zebrafish, and in the pufferfish (see below) (MIPF0000007).",
+            "score": 97.74744415283203
+        },
+        {
+            "docid": "36470616_2",
+            "document": "Mir-616 microRNA precursor family . mir-616 microRNA is a short non-coding RNA molecule belonging both to the family of microRNAs and to that of small interfering RNAs (siRNAs). MicroRNAs function to regulate the expression levels of other genes by several mechanisms, whilst siRNAs are involved primarily with the RNA interference (RNAi) pathway. miR-616 has been found to induce the specifically androgen-independent growth of prostate cancer cells.",
+            "score": 96.36829376220703
+        },
+        {
+            "docid": "11421227_3",
+            "document": "Mir-17 microRNA precursor family . The paralogous miRNA gene clusters that give rise to miR-17 family microRNAs (miR-17~92, miR-106a~363, and miR-106b~25) have been implicated in a wide variety of malignancies and are sometimes referred to as oncomirs. The oncogenic potential of these non-protein encoding genes was first identified in mouse viral tumorigenesis screens. In humans, the activating mutations of miR-17~92 have been identified in non-Hodgkin's lymphoma, whereas the miRNA constituents of the clusters are overexpressed in a multiple cancer types. High level expression of miR-17 family members induces cell proliferation, whereas deletion of the miR-17~92 cluster, in mice, is lethal and causes lung and lymphoid cell developmental defects. In addition, in the nasopharyngeal carcinoma cell line, miR-20a and miR-20b has been shown to target the 3\u2019 UTR of vascular endothelial growth factor (VEGF) and repress the expression of VEGF, which is an important angiogenic factor.",
+            "score": 95.72063446044922
+        },
+        {
+            "docid": "11421212_2",
+            "document": "Mir-15 microRNA precursor family . The miR-15 microRNA precursor family is made up of small non-coding RNA genes that regulate gene expression. The family includes the related mir-15a and mir-15b sequences, as well as miR-16-1, miR-16-2, miR-195 and miR-497. These six highly conserved miRNAs are clustered on three separate chromosomes. In humans miR-15a and miR-16 are clustered within 0.5 kilobases at chromosome position 13q14. This region has been found to be the most commonly affected in chronic lymphocytic leukaemia (CLL), with deletions of the entire region in more than half of cases. Both miR-15a and miR-16 are thus frequently deleted or down-regulated in CLL samples with 13q14 deletions; occurring in more than two thirds of CLL cases. The expression of miR-15a is associated with survival in triple negative breast cancer.",
+            "score": 95.61320495605469
+        },
+        {
+            "docid": "11421279_2",
+            "document": "Mir-30 microRNA precursor . miR-30 microRNA precursor is a small non-coding RNA that regulates gene expression. Animal microRNAs are transcribed as pri-miRNA (primary miRNA) of varying length which in turns are processed in the nucleus by Drosha into ~70 nucleotide stem-loop precursor called pre-miRNA (precursor miRNA) and subsequently processed by the Dicer enzyme to give a mature ~22 nucleotide product. In this case the mature sequence comes from both the 3' (miR-30) and 5' (mir-97-6) arms of the precursor. The products are thought to have regulatory roles through complementarity to mRNA.",
+            "score": 95.29911804199219
+        },
+        {
+            "docid": "36470584_2",
+            "document": "Mir-615 microRNA precursor family . mir-615 microRNA is a short non-coding RNA molecule belonging both to the family of microRNAs and to that of small interfering RNAs (siRNAs). MicroRNAs function to regulate the expression levels of other genes by several mechanisms, whilst siRNAs are involved primarily with the RNA interference (RNAi) pathway. siRNAs have been linked through some members to the regulation of cancer cell growth, specifically in prostate adenocarcinoma.",
+            "score": 95.23773193359375
+        },
+        {
+            "docid": "36470554_2",
+            "document": "Mir-612 microRNA precursor family . mir-612 microRNA is a short non-coding RNA molecule belonging both to the family of microRNAs and to that of small interfering RNAs (siRNAs). MicroRNAs function to regulate the expression levels of other genes by several mechanisms, whilst siRNAs are involved primarily with the RNA interference (RNAi) pathway. siRNAs have been linked through some members to the regulation of cancer cell growth, specifically in prostate adenocarcinoma.",
+            "score": 95.23773193359375
+        },
+        {
+            "docid": "36470637_2",
+            "document": "Mir-624 microRNA precursor family . mir-624 microRNA is a short non-coding RNA molecule belonging both to the family of microRNAs and to that of small interfering RNAs (siRNAs). MicroRNAs function to regulate the expression levels of other genes by several mechanisms, whilst siRNAs are involved primarily with the RNA interference (RNAi) pathway. siRNAs have been linked through some members to the regulation of cancer cell growth, specifically in prostate adenocarcinoma.",
+            "score": 95.23773193359375
+        },
+        {
+            "docid": "25861075_4",
+            "document": "Lin He . He's research focuses on the role that non-coding microRNAs play in the development and maintenance of tumors. Specifically, she has found that miR-34, a specific microRNA family, plays an essential role in blocking tumor cells from replicating in lung cancers, among others. Her current research is focused on understanding the mechanism that miR-34 plays in tumor suppression. Her lab is also studying the miR-17/92 family. Differential expression of this microRNA cluster has been observed in B-cell lymphomas, suggesting that miR-17/92 members are potential human oncogenes. He's work has appeared in \"Nature\", \"Nature Genetics\", and \"Science\".",
+            "score": 95.06544494628906
+        },
+        {
+            "docid": "22657007_2",
+            "document": "Mir-96 microRNA . miR-96 microRNA precursor is a small non-coding RNA that regulates gene expression. microRNAs are transcribed as ~80 nucleotide precursors and subsequently processed by the Dicer enzyme to give a ~23 nucleotide products. In this case the mature sequence comes from the 5' arm of the precursor.",
+            "score": 95.04666137695312
+        },
+        {
+            "docid": "18398577_18",
+            "document": "Somatic evolution in cancer . In addition to well studied epigenetic promoter methylation, more recently there have been substantial findings of epigenetic alterations in cancer due to changes in histone and chromatin architecture and alterations in the expression of microRNAs (microRNAs either cause degradation of messenger RNAs or block their translation) For instance, hypomethylation of the promoter for microRNA miR-155 increases expression of miR-155, and this increased miR-155 targets DNA repair genes MLH1, MSH2 and MSH6, causing each of them to have reduced expression.",
+            "score": 93.83016967773438
+        },
+        {
+            "docid": "11421235_2",
+            "document": "Mir-194 microRNA precursor family . In molecular biology, miR-194 microRNA precursor is a small non-coding RNA gene that regulated gene expression. Its expression has been verified in mouse (MI0000236, MI0000733) and in human (MI0000488, MI0000732). mir-194 appears to be a vertebrate-specific miRNA and has now been predicted or experimentally confirmed in a range of vertebrate species (MIPF0000055). The mature microRNA is processed from the longer hairpin precursor by the Dicer enzyme. In this case, the mature sequence is excised from the 5' arm of the hairpin.",
+            "score": 93.78385162353516
+        },
+        {
+            "docid": "11421195_2",
+            "document": "Mir-129 microRNA precursor family . The miR-129 microRNA precursor is a small non-coding RNA molecule that regulates gene expression. This microRNA was first experimentally characterised in mouse and homologues have since been discovered in several other species, such as humans, rats and zebrafish. The mature sequence is excised by the Dicer enzyme from the 5' arm of the hairpin. It was elucidated by Calin \"et al.\" that miR-129-1 is located in a fragile site region of the human genome near a specific site, FRA7H in chromosome 7q32, which is a site commonly deleted in many cancers. miR-129-2 is located in 11p11.2.",
+            "score": 93.75869750976562
+        },
+        {
+            "docid": "11421223_2",
+            "document": "Mir-16 microRNA precursor family . The miR-16 microRNA precursor family is a group of related small non-coding RNA genes that regulates gene expression. miR-16, miR-15, mir-195 and miR-457 are related microRNA precursor sequences from the mir-15 gene family (). This microRNA family appears to be vertebrate specific and its members have been predicted or experimentally validated in a wide range of vertebrate species (MIPF0000006).",
+            "score": 93.531982421875
+        },
+        {
+            "docid": "36371279_2",
+            "document": "Mir-449 microRNA precursor family . In molecular biology mir-449 microRNA is a short RNA molecule. MicroRNAs function to regulate the expression levels of other genes by several mechanisms.",
+            "score": 93.2845230102539
+        },
+        {
+            "docid": "11421205_2",
+            "document": "Mir-135 microRNA precursor family . The miR-135 microRNA precursor is a small non-coding RNA that is involved in regulating gene expression. It has been shown to be expressed in human, mouse and rat. miR-135 has now been predicted or experimentally confirmed in a wide range of vertebrate species (MIPF0000028). Precursor microRNAs are ~70 nucleotides in length and are processed by the Dicer enzyme to produce the shorter 21-24 nucleotide mature sequence. In this case the mature sequence is excised from the 5' arm of the hairpin.",
+            "score": 93.2362289428711
+        },
+        {
+            "docid": "11421181_2",
+            "document": "Mir-101 microRNA precursor family . miR-101 microRNA precursor is a small non-coding RNA that regulates gene expression. Expression of miR-101 has been validated in both human (MI0000103, MI0000739) and mouse (MI0000148). This microRNA appears to be specific to the vertebrates and has now been predicted or confirmed in a wide range of vertebrate species (MIPF0000046). The precursor microRNA is a stem-loop structure of about 70 nucleotides in length that is processed by the Dicer enzyme to form the 21-24 nucleotide mature microRNA. In this case the mature sequence is excised from the 3' arm of the hairpin.",
+            "score": 93.02494812011719
+        },
+        {
+            "docid": "18423357_7",
+            "document": "VDAC3 . As VDAC3 is a regulator of sperm motility, male mice missing VDAC3 result in infertility. Mutations in VDAC3 are also associated with Parkinson\u2019s disease, as VDAC3 has been observed to target Parkin to defective mitochondria to eliminate them by mitophagy. Failure to eliminate these mitochondria result in the accumulation of reactive oxygen species, the commonly attributed cause of Parkinson\u2019s disease. In addition, it has been found that VDAC3-null mice were born at the expected mendelian ratio. Mutant females were fertile, but males were not due to markedly reduced sperm motility. The majority of epididymal axonemes showed structural defects, most commonly loss of a single microtubule doublet at a conserved position within the axoneme. In testicular sperm, the defect was only rarely observed, suggesting that instability of a normally formed axoneme occurred during sperm maturation. In contrast, tracheal epithelial cilia showed no structural abnormalities, but there was a reduced number of ciliated cells. In skeletal muscle, mitochondria were abnormally shaped, and the activities of respiratory chain complex enzymes were reduced. Citrate synthase activity was unchanged, suggesting an absence of mitochondrial proliferation that commonly occurs in response to respiratory chain defects.",
+            "score": 92.81744384765625
+        },
+        {
+            "docid": "11421212_3",
+            "document": "Mir-15 microRNA precursor family . miR-15a/16-1 deletion has been shown to accelerate the proliferation of both human and mouse B-cells through modulation of the expression of genes controlling cell cycle progression. Studies have found the miR-15a/16-1 microRNA cluster to function as a tumour suppressor, with the oncogene BCL2 as its target. Specifically, miR-15a/16-1 downregulates BCL2 expression and is itself deleted or downregulated in tumour cells. There is a marked increase in BCL2 levels observed in advanced prostate tumour cases, which is inversely correlated with miR-15a/16-1 expression (and so corresponds to a decrease in miR-15a/16-1 levels). Inhibition of cell proliferation by the miR-15a/16-1 cluster occurs in both lymphoid and non-lymphoid tissue.",
+            "score": 92.67188262939453
+        },
+        {
+            "docid": "11421302_7",
+            "document": "Mir-7 microRNA precursor . Multiple roles and targets of miR-7 as well as its expression pattern were linked to regulatory mechanisms and pathogenesis in glioblastoma, breast cancer and other types of cancers, as well as in schizophrenia and visual abnormalities. Inhibition of the motility, invasiveness, anchorage-independent growth, and tumorigenic potential of highly invasive breast cancer cells through the introduction of miR-7 suggests a strong therapeutic potential of miR-7.",
+            "score": 92.36028289794922
+        },
+        {
+            "docid": "1264722_13",
+            "document": "Malignant transformation . Epigenetic alterations are also carried out by another major regulatory element, the microRNAs. In mammals, microRNAs (miRNAs) regulate about 60% of the transcriptional activity of protein-encoding genes. Epigenetic silencing or epigenetic over-expression of miRNA genes, caused by aberrant DNA methylation of the promoter regions controlling their expression, is a frequent event in cancer cells. Almost one third of miRNA promoters active in normal mammary cells were found to be hypermethylated in breast cancer cells, and that is a several fold greater proportion of promoters with altered methylation than is usually observed for protein coding genes. Other microRNA promoters are hypomethylated in breast cancers, and, as a result, these microRNAs are over-expressed. Several of these over-expressed microRNAs have a major influence in progression to breast cancer. BRCA1 is normally expressed in the cells of breast and other tissue, where it helps repair damaged DNA, or destroy cells if DNA cannot be repaired. BRCA1 is involved in the repair of chromosomal damage with an important role in the error-free repair of DNA double-strand breaks. BRCA1 expression is reduced or undetectable in the majority of high grade, ductal breast cancers. Only about 3%-8% of all women with breast cancer carry a mutation in BRCA1 or BRCA2. \"BRCA1\" promoter hypermethylation was present in only 13% of unselected primary breast carcinomas. However, breast cancers were found to have an average of about 100-fold increase in miR-182, compared to normal breast tissue. In breast cancer cell lines, there is an inverse correlation of BRCA1 protein levels with miR-182 expression. Thus it appears that much of the reduction or absence of BRCA1 in high grade ductal breast cancers may be due to over-expressed miR-182. (For review see ref.) In addition to miR-182, a pair of almost identical microRNAs, miR-146a and miR-146b-5p, also repress BRCA1 expression. These two microRNAs are over-expressed in triple-negative tumors and their over-expression results in BRCA1 inactivation. Thus, miR-146a and/or miR-146b-5p may also contribute to reduced expression of BRCA1 in these triple-negative breast cancers.",
+            "score": 92.27210998535156
+        },
+        {
+            "docid": "36470624_2",
+            "document": "Mir-618 microRNA precursor family . mir-618 microRNA is a short non-coding RNA molecule belonging both to the family of microRNAs and to that of small interfering RNAs (siRNAs). MicroRNAs function to regulate the expression levels of other genes by several mechanisms, whilst siRNAs are involved primarily with the RNA interference (RNAi) pathway.",
+            "score": 92.1927490234375
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "29359098_3",
+            "document": "Cafeteria roenbergensis virus . The virus was isolated from seawater samples collected from the Gulf of Mexico during 1989 to 1991, on a flagellate host that was misidentified as belonging to the genus \"Bodo\"; hence the original designation of the virus as BV-PW1. The virus was shown to be about 300\u00a0nm in diameter and have a complex internal structure, as well as evidence of a putative tail-like structure Further work on the virus indicated that the host was an isolate of the genus \"Cafeteria\" and that the genome had a G+C content of ~34%. Further analysis suggested that the helicase of the virus was phylogenetically related to those found in the family \"Asfarviridae\", and that the virus shared properties with members of the Nucleocytoplasmic large DNA viruses group. CroV has one of the largest genomes of all marine viruses known, consisting of ~730,000 base pairs of double-stranded DNA. Among its 544 predicted protein-coding genes are several that are usually restricted to cellular organisms, such as translation factors and enzymes for DNA repair and carbohydrate synthesis. CroV is distantly related to Mimivirus and belongs to a group of viruses known as Nucleocytoplasmic large DNA viruses. CroV is itself parasitized by a virophage named \"Mavirus\".",
+            "score": 236.89943492412567
+        },
+        {
+            "docid": "14596496_5",
+            "document": "Photosynthetic reaction centre protein family . Photosynthetic reaction centre genes from PSII (PsbA, PsbD) have been discovered within marine bacteriophage. Though it is widely accepted dogma that arbitrary pieces of DNA can be borne by phage between hosts (transduction), one would hardly expect to find transduced DNA within a large number of viruses. Transduction is presumed to be common in general, but for any single piece of DNA to be routinely transduced would be highly unexpected. Instead, conceptually, a gene routinely found in surveys of viral DNA would have to be a functional element of the virus itself (this does not imply that the gene would not be transferred among hosts - which the photosystem within viruses is - but instead that there is a viral function for the gene, that it is not merely hitchhiking with the virus). However, free viruses lack the machinery needed to support metabolism, let alone photosynthesis. As a result, photosystem genes are not likely to be a functional component of the virus like a capsid protein or tail fibre. Instead, it is expressed within an infected host cell. Most virus genes that are expressed in the host context are useful for hijacking the host machinery to produce viruses or for replication of the viral genome. These can include reverse transcriptases, integrases, nucleases or other enzymes. Photosystem components do not fit this mould either. The production of an active photosystem during viral infection provides active photosynthesis to dying cells. This is not viral altruism towards the host, however. The problem with viral infections tends to be that they disable the host relatively rapidly. As protein expression is shunted from the host genome to the viral genome, the photosystem degrades relatively rapidly (due in part to the interaction with light, which is highly corrosive), cutting off the supply of nutrients to the replicating virus. A solution to this problem is to add rapidly degraded photosystem genes to the virus, such that the nutrient flow is uninhibited and more viruses are produced. One would expect that this discovery will lead to other discoveries of a similar nature; that elements of the host metabolism key to viral production and easily damaged during infection are actively replaced or supported by the virus during infection.",
+            "score": 141.3274427652359
+        },
+        {
+            "docid": "18749796_5",
+            "document": "Virophage . Virophages need to have a co-infecting virus in order for them to replicate. The virophages do not have the necessary enzymes to replicate on their own. Virophages use the giant viral replication machinery to replicate their own genomes and continue their existence. The host range for virophages include giant viruses with double stranded DNA genomes. Virophages use the transcriptional machinery of these giant viruses for their own replication instead of the host's transcriptional machinery. For example, the discovery of the virophage associated with the Samba virus decreased the viruses concentration in the host while the virophage was replicating using the giant virus. The host amoeba also showed a partial recovery from the infection by the Samba virus.",
+            "score": 309.67085444927216
+        },
+        {
+            "docid": "29359098_4",
+            "document": "Cafeteria roenbergensis virus . Viral protein composition includes 141 encoded proteins that have been identified in CroV, a number believed to be in close proximity to the entirety of the virion proteome. The virus packages several distinct groups of proteins, including a presumably complete base excision repair (BER) pathway. This is the most extensive DNA repair machinery that has yet been observed in a virus. It is also the first virus to be found with a mechanosensitive ion channel protein, which may protect the genome from osmotic damage. Mature CroV consists of a 300\u00a0nm diameter outer protein shell with icosahedral symmetry, an underlying lipid membrane, and an inner core that contains the genome. Resolution of the virus structure by cryo-electron microscopy yielded an icosahedral virus capsid with a T number of 499 and a new model for capsid assembly for giant viruses.",
+            "score": 128.69466018676758
+        },
+        {
+            "docid": "24657274_7",
+            "document": "Mamavirus . While the mimiviridae were a surprise themselves, mamavirus contained an even bigger surprise. While looking at mamavirus under the electron microscope, Raoult discovered a second, small virus closely associated with mamavirus which was named Sputnik virophage, a satellite virus. Sputnik contains 21 genes and is tiny compared to mamavirus; however, it is quite powerful in its effects on mamavirus. Sputnik cannot replicate in acanthamoeba cells without a simultaneous infection by mamavirus (or mimivirus) so it infects the viral factory that mamavirus creates and hijacks it to replicate its own genome. This causes mamavirus to produce fewer viruses that are often deformed and less effective; there is also evidence of a partial thickening of the capsid. The fact that Sputnik can do this suggests that it is a viral parasite, and thus, was named the first virophage. A virophage is like bacteriophage viruses, which infects and sickens bacteria, but virophages infect viruses. Sputnik contains a circular double-stranded DNA of 18,343 base pairs, and is icosahedral in shape. Of the 21 genes it contains, eight encode proteins that have homologues. Of these eight, three are thought to be derived from mamavirus or mimivirus. This indicates that Sputnik can participate in gene-transfer processes and mediate lateral gene transfer between giant viruses.",
+            "score": 274.60328805446625
+        },
+        {
+            "docid": "714053_16",
+            "document": "Transduction (genetics) . Transduction with viral vectors can be used to insert or modify genes in mammalian cells. It is often used as a tool in basic research and is actively researched as a potential means for gene therapy. In these cases, a plasmid is constructed in which the genes to be transferred are flanked by viral sequences that are used by viral proteins to recognize and package the viral genome into viral particles. This plasmid is inserted (usually by transfection) into a producer cell together with other plasmids (DNA constructs) that carry the viral genes required for formation of infectious virions. In these producer cells, the viral proteins expressed by these packaging constructs bind the sequences on the DNA/RNA (depending on the type of viral vector) to be transferred and insert it into viral particles. For safety, none of the plasmids used contains all the sequences required for virus formation, so that simultaneous transfection of multiple plasmids is required to get infectious virions. Moreover, only the plasmid carrying the sequences to be transferred contains signals that allow the genetic materials to be packaged in virions, so that none of the genes encoding viral proteins are packaged. Viruses collected from these cells are then applied to the cells to be altered. The initial stages of these infections mimic infection with natural viruses and lead to expression of the genes transferred and (in the case of lentivirus/retrovirus vectors) insertion of the DNA to be transferred into the cellular genome. However, since the transferred genetic material does not encode any of the viral genes, these infections do not generate new viruses (the viruses are \"replication-deficient\").",
+            "score": 140.2385823726654
+        },
+        {
+            "docid": "19167679_83",
+            "document": "Virus . Some viruses replicate within archaea: these are double-stranded DNA viruses with unusual and sometimes unique shapes. These viruses have been studied in most detail in the thermophilic archaea, particularly the orders Sulfolobales and Thermoproteales. Defences against these viruses involve RNA interference from repetitive DNA sequences within archaean genomes that are related to the genes of the viruses. Most archaea have CRISPR\u2013Cas systems as an adaptive defence against viruses. These enable archaea to retain sections of viral DNA, which are then used to target and eliminate subsequent infections by the virus using a process similar to RNA interference.",
+            "score": 140.49475836753845
+        },
+        {
+            "docid": "19179592_40",
+            "document": "Archaea . Archaea can be infected by double-stranded DNA viruses that are unrelated to any other form of virus and have a variety of unusual shapes, including bottles, hooked rods, or teardrops. These viruses have been studied in most detail in thermophilics, particularly the orders Sulfolobales and Thermoproteales. Two groups of single-stranded DNA viruses that infect archaea have been recently isolated. One group is exemplified by the \"Halorubrum pleomorphic virus 1\" (\"Pleolipoviridae\") infecting halophilic archaea and the other one by the Aeropyrum coil-shaped virus (\"Spiraviridae\") infecting a hyperthermophilic (optimal growth at 90\u201395\u00a0\u00b0C) host. Notably, the latter virus has the largest currently reported ssDNA genome. Defenses against these viruses may involve RNA interference from repetitive DNA sequences that are related to the genes of the viruses.",
+            "score": 157.82630825042725
+        },
+        {
+            "docid": "3833671_9",
+            "document": "Influenzavirus C . Influenza viruses, like all viruses in the family Orthomyxoviridae, are enveloped RNA viruses with single stranded genomes. The antigens, matrix protein (M1) and nucleoprotein (NP), are used to determine if an influenza virus is type A, B, or C. The M1 protein is required for virus assembly and NP functions in transcription and replication. These viruses also contain proteins on the surface of the cell membrane called glycoproteins. Type A and B have two glycoproteins: hemagglutinin (HA) and neuraminidase (NA). Type C has only one glycoprotein: hemagglutinin-esterase fusion (HEF). These glycoproteins allow for attachment and fusion of viral and cellular membranes. Fusion of these membranes allows the viral proteins and genome to be released into the host cell, which then causes the infection. Type C is the only influenza virus to express the enzyme esterase. This enzyme is similar to the enzyme neuraminidase produced by type A and B in that they both function in destroying the host cell receptors. Glycoproteins may undergo mutations (antigenic drift) or reassortment in which a new HA or NA is produced (antigenic shift). Influenza virus C is only capable of antigenic drift whereas type A undergo antigenic shift, as well. When either of these processes occur, the antibodies formed by the immune system no longer protect against these altered glycoproteins. Because of this, viruses continually cause infections.",
+            "score": 119.3191409111023
+        },
+        {
+            "docid": "29359098_8",
+            "document": "Cafeteria roenbergensis virus . Viral reproduction occurs in large constructs known as large cytoplasmic factories or viral factories. This is the site where DNA replication, transcription, and particle assembly are thought to take place. These factories are also the primary targets of the virophage Mavirus, which utilizes CroV machinery to replicate. Mavirus is a 19,000 kb circular double stranded DNA virus. Maviral infection reduces host cell death by interfering with CroV infection and replication. Mavirus integrates into the genome of cells of \"Cafeteria roenbergensis\", and thereby confers immunity to the population.",
+            "score": 228.85227417945862
+        },
+        {
+            "docid": "42224368_5",
+            "document": "Synthetic virology . Live synthetic viruses have their entire genomes constructed from synthetic viral genes, which are then assembled using various methodologies to yield complete viral genomes. The first man-made infectious viruses generated without any natural template were of the Polio virus [1] and the \u03c6X174 bacteriophage [2]. With synthetic live viruses, it is not the viruses that are synthesized, but rather their DNA genome at first, both in the case of DNA and RNA viruses, since methodologies for large scale DNA synthesis are much more developed than those for RNA synthesis (for example, there is no RNA-equivalent for PCR). For many virus families the naked genome DNA (or RNA following transcription) is infectious when introduced into a cell. That is, their genome contains all the necessary information to produce new viable viruses. This technology is now being used to investigate novel vaccine strategies[3,4]. The ability to synthesize viruses has far-reaching consequences, since viruses can no longer be regarded as extinct, as long as the information of their genome sequence is known and permissive cells are available. As of March 2014, the full-length genome sequences of 3843 different viruses, including smallpox, are publicly available in an online database maintained by the National Institutes of Health.",
+            "score": 119.1323231458664
+        },
+        {
+            "docid": "46211521_6",
+            "document": "Bernard Moss . Moss is best known for research on the poxvirus family. He was one of the discoverers of the cap found in viral mRNAs. He has also studied virally encoded immune defense proteins, or proteins encoded by the genomes of large DNA viruses that reduce the ability of the host's immune system to respond to viral infection. He coined the term \"virokine\" to describe a class of these proteins that have high sequence identity to human cytokines. Most importantly, he developed a technology for exploiting the vaccinia virus as a mechanism for developing novel vaccines. A vaccine for rabies virus in current clinical use was developed using this technology.",
+            "score": 93.83650922775269
+        },
+        {
+            "docid": "453608_6",
+            "document": "Reoviridae . Viruses in the family Reoviridae have genomes consisting of segmented, double-stranded RNA (dsRNA). Because of this, replication occurs exclusively in the cytoplasm and the virus encodes several proteins which are needed for replication and conversion of the dsRNA genome into (+)-RNAs. The virus can enter the host cell via a receptor on the cell surface. The receptor is not known but is thought to include sialic acid and junctional adhesion molecules (JAMs). The virus is partially uncoated by proteases in the endolysosome, where the capsid is partially digested to allow further cell entry. The core particle then enters the cytoplasm by a yet unknown process where the genome is transcribed conservatively causing an excess of (+) sense strands, which are used as mRNA templates to synthesize (\u2212) sense strands. Viral particles begin to assemble in the cytoplasm 6\u20137 hours after infection. Translation takes place by leaky scanning, suppression of termination, and ribosomal skipping. The virus exits the host cell by monopartite non-tubule guided viral movement, cell to cell movement, and existing in occlusion bodies after cell death and remaining infectious until finding another host. Multiplicity reactivation (MR) is the process by which 2 or more virus genomes, each containing inactivating genome damage, can interact within an infected cell to form a viable virus genome. McClain and Spendlove demonstrated MR for three types of reovirus after exposure to ultraviolet irradiation. In their experiments, reovirus particles were exposed to doses of UV-light that would be lethal in single infections. However, when two or more inactivated viruses were allowed to infect individual host cells MR occurred and viable progeny were produced. As they stated, multiplicity reactivation by definition involves some type of repair. Michod et al. reviewed numerous examples of MR in different viruses, and suggested that MR is a common form of sexual interaction in viruses that provides the benefit of recombinational repair of genome damages.",
+            "score": 122.78877413272858
+        },
+        {
+            "docid": "19167679_29",
+            "document": "Virus . Viral genomes are \"circular\", as in the polyomaviruses, or \"linear\", as in the adenoviruses. The type of nucleic acid is irrelevant to the shape of the genome. Among RNA viruses and certain DNA viruses, the genome is often divided up into separate parts, in which case it is called segmented. For RNA viruses, each segment often codes for only one protein and they are usually found together in one capsid. All segments are not required to be in the same virion for the virus to be infectious, as demonstrated by brome mosaic virus and several other plant viruses.",
+            "score": 112.17750215530396
+        },
+        {
+            "docid": "1475873_17",
+            "document": "Plant virus . Plant viruses need to be transmitted by a vector, most often insects such as leafhoppers. One class of viruses, the Rhabdoviridae, has been proposed to actually be insect viruses that have evolved to replicate in plants. The chosen insect vector of a plant virus will often be the determining factor in that virus's host range: it can only infect plants that the insect vector feeds upon. This was shown in part when the old world white fly made it to the United States, where it transferred many plant viruses into new hosts. Depending on the way they are transmitted, plant viruses are classified as non-persistent, semi-persistent and persistent. In non-persistent transmission, viruses become attached to the distal tip of the stylet of the insect and on the next plant it feeds on, it inoculates it with the virus. Semi-persistent viral transmission involves the virus entering the foregut of the insect. Those viruses that manage to pass through the gut into the haemolymph and then to the salivary glands are known as persistent. There are two sub-classes of persistent viruses: propagative and circulative. Propagative viruses are able to replicate in both the plant and the insect (and may have originally been insect viruses), whereas circulative can not. Circulative viruses are protected inside aphids by the chaperone protein symbionin, produced by bacterial symbionts. Many plant viruses encode within their genome polypeptides with domains essential for transmission by insects. In non-persistent and semi-persistent viruses, these domains are in the coat protein and another protein known as the helper component. A bridging hypothesis has been proposed to explain how these proteins aid in insect-mediated viral transmission. The helper component will bind to the specific domain of the coat protein, and then the insect mouthparts \u2014 creating a bridge. In persistent propagative viruses, such as tomato spotted wilt virus (TSWV), there is often a lipid coat surrounding the proteins that is not seen in other classes of plant viruses. In the case of TSWV, 2 viral proteins are expressed in this lipid envelope. It has been proposed that the viruses bind via these proteins and are then taken into the insect cell by receptor-mediated endocytosis.",
+            "score": 101.07860481739044
+        },
+        {
+            "docid": "18749796_2",
+            "document": "Virophage . Virophages are small, double stranded DNA viral phages that require the co-infection of another virus. The co-infecting viruses are typically giant viruses. Virophages rely on the viral replication factory of the co-infecting giant virus for their own replication. One of the characteristics of virophages is that they have a parasitic relationship with the co-infecting virus. Their dependence upon the giant virus for replication often results in the deactivation of the giant viruses. The virophage may improve the recovery and survival of the host organism.",
+            "score": 296.78881096839905
+        },
+        {
+            "docid": "14268856_7",
+            "document": "Nucleocytoplasmic large DNA viruses . These viruses have double stranded DNA genomes that are about 372 kilobases long. Members of the family can have about 457 ORFs in its genome. The host organisms are amoeba. Once it infects, viral replication takes place in the cytoplasm. It was found that the genome of the family \"Marseilleviridae\" codes for about 28 different proteins.\u00a0The capsid of the marseillevirus is about 250\u00a0nm wide with a geometry shape of an icosahedral. The replication of this virus usually occurs near the nucleus once it infects the amoeba. Once the virus infects it can cause a shape change in the host\u2019s nucleus.",
+            "score": 121.25508046150208
+        },
+        {
+            "docid": "4585070_6",
+            "document": "Non-cellular life . The recent discovery of giant viruses (aka giruses, nucleocytoplasmic large DNA viruses, NCLDVs) has reignited this debate, since they are not only physically larger than previously known viruses, but also possess much more extensive genomes, including genes coding for aminoacyl tRNA synthetases, key proteins involved in translation, which were previously thought to be exclusive to cellular organisms. This raises the prospect that the giant viruses may have had extinct ancestors (or even undiscovered ones) capable of engaging in life processes (such as evolution and replication) independent of cells, and that modern viruses lost those abilities secondarily. The viral lineage including this ancestor would be ancient and may have originated alongside the earliest archaea or before the LUCA. If such a virus is discovered, or its past existence supported by further genetic evidence, most biologists agree that it would constitute a \"bona fide\" lifeform, and its descendants (at least the giant viruses, and possibly including all known viruses) could be phylogenetically classified in a fourth domain of life. Discovery of the pandoraviruses, with genomes are even larger than the other giant viruses and exhibiting particularly low homology with the three existing domains, further discredited the traditional view that viruses simply \"pick-pocketed\" all of their genes from cellular organisms, and further supported the \"complex ancestors\" hypothesis.",
+            "score": 139.44581997394562
+        },
+        {
+            "docid": "12891_22",
+            "document": "Gene therapy . In order to replicate, viruses introduce their genetic material into the host cell, tricking the host's cellular machinery into using it as blueprints for viral proteins. Retroviruses go a stage further by having their genetic material copied into the genome of the host cell. Scientists exploit this by substituting a virus's genetic material with therapeutic DNA. (The term 'DNA' may be an oversimplification, as some viruses contain RNA, and gene therapy could take this form as well.) A number of viruses have been used for human gene therapy, including retroviruses, adenoviruses, herpes simplex, vaccinia, and adeno-associated virus. Like the genetic material (DNA or RNA) in viruses, therapeutic DNA can be designed to simply serve as a temporary blueprint that is degraded naturally or (at least theoretically) to enter the host's genome, becoming a permanent part of the host's DNA in infected cells.",
+            "score": 141.63507652282715
+        },
+        {
+            "docid": "6245557_8",
+            "document": "Cafeteria roenbergensis . A giant virus, Cafeteria roenbergensis virus (CroV) infects and causes the lysis of \"C. roenbergensis\". The impact of CroV on natural populations of \"C. roenbergensis\" remains unknown; however, the virus has been found to be very host specific, and not infect other closely related organisms. Cafeteria roenbergensis is also infected by a second virus, the Mavirus virophage, which is only able to replicate in the presence of CroV. This virus interferes with the replication of CroV, which leads to the survival of \"C. roenbergensis\" cells. Mavirus is able to integrate into the genome of cells of \"C. roenbergensis\", and thereby confer immunity to the population",
+            "score": 240.15331482887268
+        },
+        {
+            "docid": "19167679_54",
+            "document": "Virus . The Baltimore classification of viruses is based on the mechanism of mRNA production. Viruses must generate mRNAs from their genomes to produce proteins and replicate themselves, but different mechanisms are used to achieve this in each virus family. Viral genomes may be single-stranded (ss) or double-stranded (ds), RNA or DNA, and may or may not use reverse transcriptase (RT). In addition, ssRNA viruses may be either sense (+) or antisense (\u2212). This classification places viruses into seven groups:",
+            "score": 102.7678120136261
+        },
+        {
+            "docid": "19167679_22",
+            "document": "Virus . A complete virus particle, known as a virion, consists of nucleic acid surrounded by a protective coat of protein called a capsid. These are formed from identical protein subunits called capsomeres. Viruses can have a lipid \"envelope\" derived from the host cell membrane. The capsid is made from proteins encoded by the viral genome and its shape serves as the basis for morphological distinction. Virally coded protein subunits will self-assemble to form a capsid, in general requiring the presence of the virus genome. Complex viruses code for proteins that assist in the construction of their capsid. Proteins associated with nucleic acid are known as nucleoproteins, and the association of viral capsid proteins with viral nucleic acid is called a nucleocapsid. The capsid and entire virus structure can be mechanically (physically) probed through atomic force microscopy. In general, there are four main morphological virus types:",
+            "score": 90.94303107261658
+        },
+        {
+            "docid": "7903516_8",
+            "document": "Phycodnaviridae . The genome structures of phycodnaviruses have considerable variation. The chlorovirus PBCV-1 has a linear 330 kb genome with non-permuted double-stranded DNA that is covalently closed by hairpin termini. Similarly, the EsV-1 phaeovirus has a linear double-stranded DNA genome with inverted repeats that have almost perfect homology. These inverted repeats could facilitate effective circularization of the genome and for a period of time it has been suspected that EsV-1 has a circular genome. The EhV-86 coccolithovirus is suggested to have both linear and circular genomes at different phases during DNA packaging. PCR amplification reveals random A/T overhangs, detection of DNA ligases and endonucleases hinting that a linear genome may be packaged and circularizes during DNA replication. The phycodnaviruses have compact genomes for replication efficiency with approximately one gene per 900 to 1000 bp of genome sequences. The EsV-1 phaeovirus is an exception with 231 protein encoding genes, which means it has one gene per approximately 1450 bp. In spite of the compact genomes typically found in viruses, \"Phycodnaviridae\" genomes have repetitive regions usually near the terminal ends and certain tandem repeats located throughout the genome. It is suggested that these repetitive sequences may play a role in gene recombination that allows the virus to exchange genetic information with other viruses or the host cell.",
+            "score": 110.37903356552124
+        },
+        {
+            "docid": "2354317_14",
+            "document": "Sulfolobus . Lysogenic viruses infect \"Sulfolobus\" for protection. The viruses cannot survive in the extremely acidic and hot conditions that \"Sulfolobus\" lives in, and so the viruses use \"Sulfolobus\" as protection against the harsh elements. This relationship allows the virus to replicate inside the archaea without being destroyed by the environment. The Sulfolobus viruses are temperate or permanent lysogens. Permanent lysogens differ from lysogenic bacteriophages in that the host cells are not lysed after the induction of Fuselloviridae production and eventually return to the lysogenic state. They are also unique in the sense that the genes encoding the structural proteins of the virus are constantly transcribed and DNA replication appears to be induced. The viruses infecting archaea like Sulfolobus have to use a strategy to escape prolonged direct exposure to the type of environment their host lives in, which may explain some of their unique properties.",
+            "score": 140.74317371845245
+        },
+        {
+            "docid": "14268856_8",
+            "document": "Nucleocytoplasmic large DNA viruses . This family contains some of the largest viruses ever discovered. They have linear double stranded DNA genomes with the length of 1,259,197 base pairs, which is larger than some small bacteria. Within in this genome 1,100 proteins are coded. 74.76% of the base pairs are represented by thymine and adenine. The \"Megaviridae\" virus can be found infecting acanthamoeba or other protozoan clades. \u00a0Once the virus infects the host, the replication cycle takes place in the cytoplasm. Within the genome, DNA repair enzymes can be found. These are used when the DNA is harmed such as when it is exposed to ionizing radiation or UV light.",
+            "score": 126.26979279518127
+        },
+        {
+            "docid": "14170_4",
+            "document": "HIV . HIV is a member of the genus \"Lentivirus\", part of the family \"Retroviridae\". Lentiviruses have many morphologies and biological properties in common. Many species are infected by lentiviruses, which are characteristically responsible for long-duration illnesses with a long incubation period. Lentiviruses are transmitted as single-stranded, positive-sense, enveloped RNA viruses. Upon entry into the target cell, the viral RNA genome is converted (reverse transcribed) into double-stranded DNA by a virally encoded enzyme, reverse transcriptase, that is transported along with the viral genome in the virus particle. The resulting viral DNA is then imported into the cell nucleus and integrated into the cellular DNA by a virally encoded enzyme, integrase, and host co-factors. Once integrated, the virus may become latent, allowing the virus and its host cell to avoid detection by the immune system, for an indiscriminate amount of time. The HIV virus can remain dormant in the human body for up to ten years after primary infection; during this period the virus does not cause symptoms. Alternatively, the integrated viral DNA may be transcribed, producing new RNA genomes and viral proteins, using host cell resources, that are packaged and released from the cell as new virus particles that will begin the replication cycle anew.",
+            "score": 116.85150003433228
+        },
+        {
+            "docid": "10147471_11",
+            "document": "Nibrin . HSV-1 infects more than 90% of adults over the age of 50. Alphaherpesviruses alone can cause the host to have mild symptoms, but these viruses can be associated with severe disease when they are transferred to a new species. Humans can even pass and also get an HSV-1 infection from other primate species. However, because of evolutionary differences between primate species, only some species can pass HSV-1 in an interspecies interaction. Also, though HSV-1 transmission from humans to other species primates can occur, there is no known sustained transmission chains that have resulted from constant transmission. A study found that Nbs1 is the most diverged in DNA sequence in the MRN complex between different primate species and that there is a high degree of species specificity, causing variability in promotion of the HSV-1 life cycle. The same study found that Nbs1 interacts with HSV-1's ICP0 proteins in an area of structural disorder of the nibrin. This suggests that in general, viruses commonly interact in intrinsically disordered domains in host proteins. It is possible that there are differences in the mammalian genomes that create unique environments for the viruses. Host proteins that are specific to the species might determine how the viruses must adapt to be able to ignite an infection in a new species. The evolution of increased disorder in nibrin benefits the host in decreasing ICP0 interaction and virus hijack. Nbs1 may not be the only host protein that evolves this way.",
+            "score": 123.61159777641296
+        },
+        {
+            "docid": "959283_3",
+            "document": "Satellite (biology) . Satellite viruses, which are most commonly associated with plants, but are also found in mammals, arthropods, and bacteria, have the components to make their own protein shell to enclose their genetic material, but rely on a helper virus to replicate. Most viruses have the capability to use host enzymes or their own replication machinery to independently replicate their own viral RNA. Satellite viruses in contrast, are completely dependent on a helper virus for replication. The symbiotic relationship between a satellite and a helper virus to catalyze the replication of a satellite viral genome is also dependent on the host to provide components like replicases to carry out replication. A satellite virus of mamavirus that inhibits the replication of its host has been termed a virophage. However, the usage of this term remains controversial due to the lack of fundamental differences between virophages and classical satellite viruses.",
+            "score": 184.79794192314148
+        },
+        {
+            "docid": "4774419_10",
+            "document": "Herpes simplex virus . Animal herpes viruses all share some common properties. The structure of herpes viruses consists of a relatively large double-stranded, linear DNA genome encased within an icosahedral protein cage called the capsid, which is wrapped in a lipid bilayer called the envelope. The envelope is joined to the capsid by means of a tegument. This complete particle is known as the virion. HSV-1 and HSV-2 each contain at least 74 genes (or open reading frames, ORFs) within their genomes, although speculation over gene crowding allows as many as 84 unique protein coding genes by 94 putative ORFs. These genes encode a variety of proteins involved in forming the capsid, tegument and envelope of the virus, as well as controlling the replication and infectivity of the virus. These genes and their functions are summarized in the table below.",
+            "score": 127.5879876613617
+        },
+        {
+            "docid": "44533208_21",
+            "document": "Carrot yellow-leaf virus . There is no research specifically on the cytopathic effect of CYLV, however there is a general pattern in the family Closteroviridae that might apply to this particular virus. Closteroviruses are usually phloem-limited, but some groups might infect parenchyma and mesophyll cells; therefore, closteroviruses are more often described simply as \"phloem-associated\" with regard to tissue tropism.  That is why symptoms are associated with phloem; the cytopathology is mainly caused by vesicles containing virus particles, which is also a form of diagnosis. Another important viral mechanism is the capacity to escape the host's immune system. In plants, a common strategy is the use of interference RNA or RNAi, which are short sequences homologous to the viral genome. When these short sequences bind to the genome, they prevent transcription into dsDNA, therefore controlling the infection. Some viruses have developed proteins called Silencing Suppressors in response to RNAi. The mechanism is unknown, but mutation in those proteins allow the plant to recover from the viral infection and prevents systemic infections.",
+            "score": 109.93602311611176
+        },
+        {
+            "docid": "416954_7",
+            "document": "Viral evolution . Viruses do not form fossils in the traditional sense, because they are much smaller than the finest colloidal fragments forming sedimentary rocks that fossilize plants and animals. However, the genomes of many organisms contain endogenous viral elements (EVEs). These DNA sequences are the remnants of ancient virus genes and genomes that ancestrally 'invaded' the host germline. For example, the genomes of most vertebrate species contain hundreds to thousands of sequences derived from ancient retroviruses. These sequences are a valuable source of retrospective evidence about the evolutionary history of viruses, and have given birth to the science of paleovirology.",
+            "score": 107.71256756782532
+        },
+        {
+            "docid": "19167679_82",
+            "document": "Virus . The major way bacteria defend themselves from bacteriophages is by producing enzymes that destroy foreign DNA. These enzymes, called restriction endonucleases, cut up the viral DNA that bacteriophages inject into bacterial cells. Bacteria also contain a system that uses CRISPR sequences to retain fragments of the genomes of viruses that the bacteria have come into contact with in the past, which allows them to block the virus's replication through a form of RNA interference. This genetic system provides bacteria with acquired immunity to infection.",
+            "score": 119.65039682388306
+        }
+    ],
+    "r": [
+        {
+            "docid": "18749796_5",
+            "document": "Virophage . Virophages need to have a co-infecting virus in order for them to replicate. The virophages do not have the necessary enzymes to replicate on their own. Virophages use the giant viral replication machinery to replicate their own genomes and continue their existence. The host range for virophages include giant viruses with double stranded DNA genomes. Virophages use the transcriptional machinery of these giant viruses for their own replication instead of the host's transcriptional machinery. For example, the discovery of the virophage associated with the Samba virus decreased the viruses concentration in the host while the virophage was replicating using the giant virus. The host amoeba also showed a partial recovery from the infection by the Samba virus.",
+            "score": 309.6708679199219
+        },
+        {
+            "docid": "18749796_2",
+            "document": "Virophage . Virophages are small, double stranded DNA viral phages that require the co-infection of another virus. The co-infecting viruses are typically giant viruses. Virophages rely on the viral replication factory of the co-infecting giant virus for their own replication. One of the characteristics of virophages is that they have a parasitic relationship with the co-infecting virus. Their dependence upon the giant virus for replication often results in the deactivation of the giant viruses. The virophage may improve the recovery and survival of the host organism.",
+            "score": 296.788818359375
+        },
+        {
+            "docid": "18749796_6",
+            "document": "Virophage . Virophages have small double stranded DNA genomes that are either circular or linear in shape. The size of these genomes can vary depending on the giant virus it infects. Most virophages have genomes around 17\u201330kbp. Their genome is protected by an icosahedral capsid measuring approximately 40\u201380\u00a0nm in length. In contrast, their co-infecting giant virus counterparts can have genomes as large as 1\u20132 megabasepairs (Mbp). Some of the largest genomes of virophages are similar to the genome size of an adenovirus. Unlike satellite viruses, virophages have a parasitic effect on their co-infecting virus. Virophages have been observed to render a giant virus inactive and thereby improve the condition of the host organism.",
+            "score": 275.0899658203125
+        },
+        {
+            "docid": "24657274_7",
+            "document": "Mamavirus . While the mimiviridae were a surprise themselves, mamavirus contained an even bigger surprise. While looking at mamavirus under the electron microscope, Raoult discovered a second, small virus closely associated with mamavirus which was named Sputnik virophage, a satellite virus. Sputnik contains 21 genes and is tiny compared to mamavirus; however, it is quite powerful in its effects on mamavirus. Sputnik cannot replicate in acanthamoeba cells without a simultaneous infection by mamavirus (or mimivirus) so it infects the viral factory that mamavirus creates and hijacks it to replicate its own genome. This causes mamavirus to produce fewer viruses that are often deformed and less effective; there is also evidence of a partial thickening of the capsid. The fact that Sputnik can do this suggests that it is a viral parasite, and thus, was named the first virophage. A virophage is like bacteriophage viruses, which infects and sickens bacteria, but virophages infect viruses. Sputnik contains a circular double-stranded DNA of 18,343 base pairs, and is icosahedral in shape. Of the 21 genes it contains, eight encode proteins that have homologues. Of these eight, three are thought to be derived from mamavirus or mimivirus. This indicates that Sputnik can participate in gene-transfer processes and mediate lateral gene transfer between giant viruses.",
+            "score": 274.6033020019531
+        },
+        {
+            "docid": "22588449_10",
+            "document": "Sputnik virophage . The presence of these genes homologous to the mimivirus in Sputnik suggests that gene transfer between Sputnik and the mimivirus can occur during the infection of \"Acanthamoeba\". Therefore, it is hypothesized that the virophage could be a source of vehicle mediating lateral gene transfer between giant viruses, which constitute a significant part of the DNA virus population in marine environments. Moreover, the presence of three APMV genes in Sputnik implies that gene transfer between a virophage and a giant virus is crucial to viral evolution.",
+            "score": 258.16656494140625
+        },
+        {
+            "docid": "18749796_3",
+            "document": "Virophage . The first virophage was discovered in a cooling tower in Paris, France. It was discovered with its co-infecting giant virus, Acanthamoeba castellanii mamavirus (ACMV). The virophage was named Sputnik and its replication relied entirely on the co-infection of ACMV and its cytoplasmic replication machinery. Sputnik was also discovered to have an inhibitory effect on ACMV and improved the survival of the host. The most current list of discovered virophages include Sputnik, Sputnik 2, Sputnik 3, Zamilon and Mavirus which were all found in eukaryotic hosts with their co-infecting giant viruses.",
+            "score": 253.4420928955078
+        },
+        {
+            "docid": "33526961_2",
+            "document": "Mavirus virophage . Mavirus virophage is a double stranded DNA virus that infects the marine phagotrophic flagellate \"Cafeteria roenbergensis\" in the presence of a second virus \u2014 Cafeteria roenbergensis virus. Mavirus can integrate into the genome of cells of C. roenbergensis, and thereby confer immunity to the population",
+            "score": 252.12437438964844
+        },
+        {
+            "docid": "51783867_7",
+            "document": "Polinton . The evolutionary relationships between polintons, double-stranded DNA viruses, and selfish genetic elements are complex. The first descriptions of polintons linked them by sequence relationship to linear plasmids, bacteriophages, and adenoviruses. More recently, relationships have been identified between polintons, virophages, and giant viruses. Polintons are increasingly thought to form one component of a complex genetic network linking selfish genetic elements in eukaryotic genomes with double-stranded DNA viruses. Through homology in at least one and usually several genes, polintons are evolutionarily linked to linear plasmids, virophages (especially Mavirus virophage, family \"Lavidaviridae\"), giant viruses (\"Megavirales\"), Ginger 1 transposons, Tlr1 transposons, transpovirons, eukaryotic viruses of the \"Adenoviridae\" family, and bacteriophages of the \"Tectiviridae\" family.",
+            "score": 250.31251525878906
+        },
+        {
+            "docid": "22588449_16",
+            "document": "Sputnik virophage . In March 2011, two additional virophages were described: the Mavirus virophage which preys on the giant \"Cafeteria roenbergensis\" virus, and the Organic Lake virophage (OLV), found in the salty Organic Lake in Antarctica, and which preys on phycodnaviruses that attack algae. Zamilon virophage was the first one found infecting a member of Mimiviridae group C (i. e. Mont1 virus), being able to grow also in Mimiviridae group B, but not group A.",
+            "score": 243.42071533203125
+        },
+        {
+            "docid": "6245557_8",
+            "document": "Cafeteria roenbergensis . A giant virus, Cafeteria roenbergensis virus (CroV) infects and causes the lysis of \"C. roenbergensis\". The impact of CroV on natural populations of \"C. roenbergensis\" remains unknown; however, the virus has been found to be very host specific, and not infect other closely related organisms. Cafeteria roenbergensis is also infected by a second virus, the Mavirus virophage, which is only able to replicate in the presence of CroV. This virus interferes with the replication of CroV, which leads to the survival of \"C. roenbergensis\" cells. Mavirus is able to integrate into the genome of cells of \"C. roenbergensis\", and thereby confer immunity to the population",
+            "score": 240.15330505371094
+        },
+        {
+            "docid": "18749796_4",
+            "document": "Virophage . A majority of these virophages are being discovered by analyzing metagenomic data sets. In metagenomic analysis, DNA data is sequenced and ran through multiple bioinformatic algorithms which, based on what is being analyzed, pull out certain important patterns and characteristics. In these data sets are giant viruses and virophages. They are separated by looking for sequences around 17 to 20 kilobasepairs (kbp) long and have similarities to already sequenced virophages. These virophages can have linear or circular double stranded DNA genomes. Virophages in culture have icosahedral capsid particles that measure around 40 to 80 nanometers long. Virophage particles are so small that electron microscopy must be used to view these particles. Through metagenomic sequence-based analyses, around 57 complete and partial virophage genomes have been identified.",
+            "score": 237.7291259765625
+        },
+        {
+            "docid": "29359098_3",
+            "document": "Cafeteria roenbergensis virus . The virus was isolated from seawater samples collected from the Gulf of Mexico during 1989 to 1991, on a flagellate host that was misidentified as belonging to the genus \"Bodo\"; hence the original designation of the virus as BV-PW1. The virus was shown to be about 300\u00a0nm in diameter and have a complex internal structure, as well as evidence of a putative tail-like structure Further work on the virus indicated that the host was an isolate of the genus \"Cafeteria\" and that the genome had a G+C content of ~34%. Further analysis suggested that the helicase of the virus was phylogenetically related to those found in the family \"Asfarviridae\", and that the virus shared properties with members of the Nucleocytoplasmic large DNA viruses group. CroV has one of the largest genomes of all marine viruses known, consisting of ~730,000 base pairs of double-stranded DNA. Among its 544 predicted protein-coding genes are several that are usually restricted to cellular organisms, such as translation factors and enzymes for DNA repair and carbohydrate synthesis. CroV is distantly related to Mimivirus and belongs to a group of viruses known as Nucleocytoplasmic large DNA viruses. CroV is itself parasitized by a virophage named \"Mavirus\".",
+            "score": 236.89944458007812
+        },
+        {
+            "docid": "22588449_17",
+            "document": "Sputnik virophage . All host viruses of the known virophages belong to the group of nucleocytoplasmic large DNA viruses. Studies have been done to show similarities among the various virophages. Homologous genes among virophages include putative FtsK-HerA family DNA packaging ATPase (ATPase), putative DNA helicase/primase (HEL/PRIM), putative cysteine protease (PRSC), putative MCP, and putative minor capsid protein (mCP). These genes are also referred to as conserved core genes although there is sometimes no or very little sequence similarity among these virophages.",
+            "score": 233.64791870117188
+        },
+        {
+            "docid": "29359098_8",
+            "document": "Cafeteria roenbergensis virus . Viral reproduction occurs in large constructs known as large cytoplasmic factories or viral factories. This is the site where DNA replication, transcription, and particle assembly are thought to take place. These factories are also the primary targets of the virophage Mavirus, which utilizes CroV machinery to replicate. Mavirus is a 19,000 kb circular double stranded DNA virus. Maviral infection reduces host cell death by interfering with CroV infection and replication. Mavirus integrates into the genome of cells of \"Cafeteria roenbergensis\", and thereby confers immunity to the population.",
+            "score": 228.85226440429688
+        },
+        {
+            "docid": "22588449_3",
+            "document": "Sputnik virophage . Viruses like Sputnik that depend on co-infection of the host cell by helper viruses are known as satellite viruses. At its discovery in a Paris water-cooling tower in 2008 Sputnik was the first known satellite virus that inhibited replication of its helper virus and thus acted as a parasite of that virus. In analogy to the term \"bacteriophage\" it was called a \"virophage\". However, the usage of this term and the relationship between virophages and classical satellite viruses remain controversial.",
+            "score": 227.50579833984375
+        },
+        {
+            "docid": "49517346_4",
+            "document": "Zamilon virophage . Zamilon was discovered in 2013, in \"Acanthamoeba polyphaga\" amoebae co-infected with the giant virus Mont1, isolated from a Tunisian soil sample. As of 2015, Zamilon is one of three virophages to have been isolated physically, the others being Sputnik and Mavirus; several other virophage DNAs have been discovered using metagenomics but have not been characterised physically. A related strain, named Zamilon 2, was discovered by metagenomic analysis of a North American poplar wood chip bioreactor in 2015. Another virophage, Rio Negro, is also closely related to Sputnik.",
+            "score": 226.16270446777344
+        },
+        {
+            "docid": "49517346_3",
+            "document": "Zamilon virophage . All known virophages are associated with helpers in the giant DNA virus family \"Mimiviridae\". Zamilon is restricted in its range of helper viruses; it can be supported by viruses from \"Mimivirus\"-like \"Mimiviridae\" lineages B and C, but not from lineage A. This appears to be a consequence of a rudimentary immune system of the helper virus, termed MIMIVIRE (mimivirus virophage resistance element), akin to the CRISPR-Cas pathway. Unlike the Sputnik virophage, Zamilon does not appear to impair the replication of its helper virus.",
+            "score": 225.79405212402344
+        },
+        {
+            "docid": "49517346_2",
+            "document": "Zamilon virophage . Zamilon is a virophage, a group of small DNA viruses that infect protists and require a helper virus to replicate; they are a type of satellite virus. Discovered in 2013 in Tunisia, infecting \"Acanthamoeba polyphaga\" amoebae, Zamilon most closely resembles Sputnik, the first virophage to be discovered. The name is Arabic for \"the neighbour\". Its spherical particle is 50\u201360\u00a0nm in diameter, and contains a circular double-stranded DNA genome of around 17\u00a0kb, which is predicted to encode 20 polypeptides. A related strain, Zamilon 2, has been identified in North America.",
+            "score": 221.35757446289062
+        },
+        {
+            "docid": "31498176_3",
+            "document": "Organic Lake . In 2011, a new species of virophage (a satellite virus that impairs the ability of its co-infective host virus to replicate) was discovered in Organic Lake, the Organic Lake virophage. It is a parasite of 'Organic Lake phycodnavirus', a large virus that infects algae and belongs to the nucleocytoplasmic large DNA viruses (NCLDV), but in fact may rather be a member of an extended family Mimiviridae (aka Megaviridae) than of the family Phycodnaviridae.",
+            "score": 217.77633666992188
+        },
+        {
+            "docid": "9500396_5",
+            "document": "Mobilome . In viruses, some categories of mobile genetic elements have been identified. They are virophages that depend for their replication, on the presence of particular giant viruses in the eukaryotic cells that they infect. Such virophages are major elements in the mobilomes of some Megavirales.",
+            "score": 211.63819885253906
+        },
+        {
+            "docid": "8777_10",
+            "document": "DNA virus . The virophages are a group of viruses that infect other viruses.",
+            "score": 207.5575408935547
+        },
+        {
+            "docid": "8777_17",
+            "document": "DNA virus . Species of the family \"Mimiviridae\" and the species \"Marseillevirus\", \"Megavirus\", \"Mavirus virophage\" and \"Sputnik virophage\" infect protozoa.",
+            "score": 203.78887939453125
+        },
+        {
+            "docid": "22588449_7",
+            "document": "Sputnik virophage . Sputnik has a circular double stranded DNA genome consisting of 18,343 base pairs. It contains genes able to infect all three domains of life: Eukarya, Archaea and Bacteria. Of the twenty-one predicted protein-coding genes, three are apparently derived from APMV itself, one is a homologue of an archaeal virus, and four others are homologues of proteins in bacteriophages and eukaryotic viruses. The fact that three of these genes are derived from APMV indicates that Sputnik is able to participate in gene-transfer processes and mediate lateral gene transfer between giant viruses. Thirteen are ORFans, that is they do not have any detectable homologues in current sequence databases. The Sputnik genome has a high AT-content (73%), similar to that of APMV. It contains 16 predicted hairpin loops, all but two of which fall between ORFs.",
+            "score": 202.4486083984375
+        },
+        {
+            "docid": "33526961_7",
+            "document": "Mavirus virophage . Mavirus virophage is the type species of the genus \"Mavirus\" in the family \"Lavidaviridae\", which has been established by the International Committee on Taxonomy of Viruses in 2016.",
+            "score": 201.50877380371094
+        },
+        {
+            "docid": "31933725_4",
+            "document": "Giant virus . Viral replication in giant viruses occurs within large circular virus factories located within the cytoplasm of the infected host cell. This is similar to the replication mechanism used by \"Poxviridae\", though whether this mechanism is employed by all giant viruses or only mimivirus and the related mamavirus has yet to be determined. These virion replication factories are themselves subject to infection by the virophage satellite viruses, which inhibit or impair the reproductive capabilities of the complementary virus.",
+            "score": 197.4757080078125
+        },
+        {
+            "docid": "22675583_10",
+            "document": "Mimiviridae . Within the genome of Lentille virus integrated genome of a virophage (Sputnik 2) and a transpoviron\u2014a mobile genetic element\u2014have been reported. Transpovirons are linear DNA elements of about 7 kilobases that encompass six to eight protein coding genes, two of which are homologous to virophage genes. Broad spectrum of mimiviridae virophage allows its isolation using a mimivirus reporter.",
+            "score": 195.71981811523438
+        },
+        {
+            "docid": "8777_19",
+            "document": "DNA virus . Species of the family \"Phycodnaviridae\" and the species \"Organic Lake virophage\" infect algae. These are the only known dsDNA viruses that infect plants.",
+            "score": 194.4901885986328
+        },
+        {
+            "docid": "49517346_9",
+            "document": "Zamilon virophage . Zamilon does not appear to inhibit the ability of its helper virus to replicate significantly, nor to lyse its host amoebae cells. Although the helper virus formed a high proportion of abnormal virions in the presence of Zamilon, these were also observed at a comparable level in the virophage's absence. This is again unlike Sputnik, which reduces its helper virus's infectivity, inhibits its lysis of amoeba, and is associated with the generation of an increased proportion of abnormal \"Mimiviridae\" virions. Bernard La Scola and colleagues, who isolated both Sputnik and Zamilon, state that, if confirmed, this \"would question the concept of virophage\", which has been considered to be differentiated from most other satellite viruses in having a deleterious effect on its helper virus.",
+            "score": 190.57931518554688
+        },
+        {
+            "docid": "18749796_7",
+            "document": "Virophage . The family \"Lavidaviridae\" with the two genera, \"Sputnikvirus\" and \"Mavirus\", has been established by the International Committee on Taxonomy of Viruses for classification of virophages.",
+            "score": 190.53485107421875
+        },
+        {
+            "docid": "22588449_8",
+            "document": "Sputnik virophage . Several other homologues such as those of a helicase-primase, a packaging ATPase, an insertion sequence transposase DNA-binding subunit, and a Zn-ribbon protein, were detected in the Global Ocean Survey environmental data set, suggesting that virophages could be a currently unknown family of viruses.",
+            "score": 190.0205535888672
+        },
+        {
+            "docid": "22588449_6",
+            "document": "Sputnik virophage . Mamavirus is formally known as \"Acanthamoeba polyphaga\" mimivirus (APMV) and is a close relative of the previously known mimivirus. The mimivirus is a giant in the viral world; it has more genes than many bacteria and performs functions that normally occur only in cellular organisms. The mamavirus is even larger than the mimivirus, but the two are very similar in that they form large viral factories and complex viral particles. There are conditions in which Sputnik cannot produce new virions within these viruses however. It has been observed that when Mimivirus is cultured with germ-free amoeba, bald virions are produced that lack the surface fibers that are characteristic of this virus. For reasons unknown, Sputnik is unable to replicate and produce new virions in these bald viruses. Virophage growth is deleterious to APMV and results in the production of abortive forms and abnormal capsid assembly of APMV. In one of the experiments done by inoculating \"Acanthamoeba polyphaga\" with water containing an original strain of APMV, it was discovered that several capsid layers accumulate asymmetrically on one side of the viral particle causing the virus to become ineffective. Sputnik decreased the yield of infective viral particle by 70% and also reduced the amoeba lysis by threefold at 24h.",
+            "score": 187.51512145996094
+        },
+        {
+            "docid": "33526961_4",
+            "document": "Mavirus virophage . The virophage was discovered by Matthias G. Fischer of the University of British Columbia while he was working on Cafeteria roenbergensis virus as part of his PhD.",
+            "score": 185.94239807128906
+        }
+    ]
+}

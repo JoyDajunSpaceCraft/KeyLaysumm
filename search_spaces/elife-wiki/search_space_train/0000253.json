@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "3113497_21",
+            "document": "Innate immune system . Natural killer cells (NK cells) are a component of the innate immune system that does not directly attack invading microbes. Rather, NK cells destroy compromised host cells, such as tumor cells or virus-infected cells, recognizing such cells by a condition known as \"missing self.\" This term describes cells with abnormally low levels of a cell-surface marker called MHC I (major histocompatibility complex) - a situation that can arise in viral infections of host cells. They were named \"natural killer\" because of the initial notion that they do not require activation in order to kill cells that are \"missing self.\" For many years, it was unclear how NK cell recognize tumor cells and infected cells. It is now known that the MHC makeup on the surface of those cells is altered and the NK cells become activated through recognition of \"missing self\". Normal body cells are not recognized and attacked by NK cells because they express intact self MHC antigens. Those MHC antigens are recognized by killer cell immunoglobulin receptors (KIR) that, in essence, put the brakes on NK cells. The NK-92 cell line does not express KIR and is developed for tumor therapy.",
+            "score": 296.666788816452
+        },
+        {
+            "docid": "56130550_2",
+            "document": "Adaptive NK cells . Adaptive natural killer (NK) cells is a sub-population of natural killer cells, a cell type of the innate immune system. Adaptive NK cells have been identified in both humans and mice.",
+            "score": 300.59863662719727
+        },
+        {
+            "docid": "14958_21",
+            "document": "Immune system . Natural killer cells, or NK cells, are lymphocytes and a component of the innate immune system which does not directly attack invading microbes. Rather, NK cells destroy compromised host cells, such as tumor cells or virus-infected cells, recognizing such cells by a condition known as \"missing self.\" This term describes cells with low levels of a cell-surface marker called MHC I (major histocompatibility complex) \u2013 a situation that can arise in viral infections of host cells. They were named \"natural killer\" because of the initial notion that they do not require activation in order to kill cells that are \"missing self.\" For many years it was unclear how NK cells recognize tumor cells and infected cells. It is now known that the MHC makeup on the surface of those cells is altered and the NK cells become activated through recognition of \"missing self\". Normal body cells are not recognized and attacked by NK cells because they express intact self MHC antigens. Those MHC antigens are recognized by killer cell immunoglobulin receptors (KIR) which essentially put the brakes on NK cells.",
+            "score": 302.6431715488434
+        },
+        {
+            "docid": "298999_5",
+            "document": "Lymphocyte . NK cells are a part of the innate immune system and play a major role in defending the host from both tumors and virally infected cells. NK cells distinguish infected cells and tumors from normal and uninfected cells by recognizing changes of a surface molecule called MHC (major histocompatibility complex) class I. NK cells are activated in response to a family of cytokines called interferons. Activated NK cells release cytotoxic (cell-killing) granules which then destroy the altered cells. They are named \"natural killer cells\" because they do not require prior activation in order to kill cells which are missing MHC class I.",
+            "score": 261.4653649330139
+        },
+        {
+            "docid": "9691351_4",
+            "document": "KLRD1 . Natural killer (NK) cells are a distinct lineage of lymphocytes that mediate cytotoxic activity and secrete cytokines upon immune stimulation. Several genes of the C-type lectin superfamily, including members of the NKG2 family, are expressed by NK cells and may be involved in the regulation of NK cell function. KLRD1 (CD94) is an antigen preferentially expressed on NK cells and is classified as a type II membrane protein because it has an external C terminus. KLRD1 has two alternatively spliced variants that differ in the presence or absence of exon 2 sequence.",
+            "score": 248.57366728782654
+        },
+        {
+            "docid": "211955_11",
+            "document": "Natural killer cell . Natural killer cells often lack antigen-specific cell surface receptors, so are part of innate immunity, \"i.e.\" able to react immediately with no prior exposure to the pathogen. In both mice and humans, NKs can be seen to play a role in tumor immunosurveillance by directly inducing the death of tumor cells (NKs act as cytolytic effector lymphocytes), even in the absence of surface adhesion molecules and antigenic peptides. This role of NK cells is critical to immune success particularly because T cells are unable to recognize pathogens in the absence of surface antigens. Tumor cell detection results in activation of NK cells and consequent cytokine production and release.",
+            "score": 270.066739320755
+        },
+        {
+            "docid": "211955_15",
+            "document": "Natural killer cell . As the majority of pregnancies involve two parents who are not tissue-matched, successful pregnancy requires the mother's immune system to be suppressed. NK cells are thought to be an important cell type in this process. These cells are known as \"uterine NK cells\" (uNK cells) and they differ from peripheral NK cells. They are in the CD56 NK cell subset, potent at cytokine secretion, but with low cytotoxic ability and relatively similar to peripheral CD56 NK cells, with a slightly different receptor profile. These uNK cells are the most abundant leukocytes present \"in utero\" in early pregnancy, representing about 70% of leukocytes here, but from where they originate remains controversial.",
+            "score": 277.0501298904419
+        },
+        {
+            "docid": "211955_28",
+            "document": "Natural killer cell . Most of our current knowledge is derived from investigations of mouse splenic and human peripheral blood NK cells. However, in recent years tissue-resident NK cell populations have been described. These specialized NK-cell subsets can play a role in organ homeostasis. For example, NK cells are enriched in the human liver with a specific phenotype and take part in the control of liver fibrosis.",
+            "score": 317.6178457736969
+        },
+        {
+            "docid": "14817993_3",
+            "document": "KLRC2 . Natural killer (NK) cells are lymphocytes that can mediate lysis of certain tumor cells and virus-infected cells without previous activation. They can also regulate specific humoral and cell-mediated immunity. NK cells preferentially express several calcium-dependent (C-type) lectins, which have been implicated in the regulation of NK cell function. The group, designated KLRC (NKG2) are expressed primarily in natural killer (NK) cells and encodes a family of transmembrane proteins characterized by a type II membrane orientation (extracellular C terminus) and the presence of a C-type lectin domain. The KLRC (NKG2) gene family is located within the NK complex, a region that contains several C-type lectin genes preferentially expressed on NK cells. KLRC2 alternative splice variants have been described but their full-length nature has not been determined.",
+            "score": 290.0198177099228
+        },
+        {
+            "docid": "211955_3",
+            "document": "Natural killer cell . NK cells (belonging to the group of innate lymphoid cells) are defined as large granular lymphocytes (LGL) and constitute the third kind of cells differentiated from the common lymphoid progenitor-generating B and T lymphocytes. NK cells are known to differentiate and mature in the bone marrow, lymph nodes, spleen, tonsils, and thymus, where they then enter into the circulation. NK cells differ from natural killer T cells (NKTs) phenotypically, by origin and by respective effector functions; often, NKT cell activity promotes NK cell activity by secreting interferon gamma. In contrast to NKT cells, NK cells do not express T-cell antigen receptors (TCR) or pan T marker CD3 or surface immunoglobulins (Ig) B cell receptors, but they usually express the surface markers CD16 (Fc\u03b3RIII) and CD56 in humans, NK1.1 or NK1.2 in C57BL/6 mice. The NKp46 cell surface marker constitutes, at the moment, another NK cell marker of preference being expressed in both humans, several strains of mice (including BALB/c mice) and in three common monkey species.",
+            "score": 264.0281710624695
+        },
+        {
+            "docid": "39124671_2",
+            "document": "NK-92 . NK-92 is a continuously growing cell line that has features and characteristics of natural killer (NK) cells that every person has circulating in the blood. Blood NK cells and NK-92 recognize \"invaders\" such as viruses and fungus. Most importantly, NK-92, like blood NK cells, can attack cancer cells as long as the tumor has not grown out of control. NK-92 cells were isolated and characterized by the laboratory of Dr. H. Klingemann - at that time at the British Columbia Cancer Agency in Vancouver, Canada. The cells came from a patient who had a NK cell lymphoma, a rare lymphoma type. Although several other NK cell lines have been cloned, only NK-92 can be expanded to larger numbers and consistently kill tumor cells vigorously. When NK-92 cells bind to a cancer or infected cell, they secrete \"perforin\" which punches holes in target cells followed by release of \"granzymes\" which induce \"apoptosis\" in the target cells. NK-92 cells also attack cancer cells through the Fas-Fas Ligand system and are capable of producing cytokines that by themselves can kill cancer cells (such as TNF-alpha) or stimulate and expand other immune cells such as interferon.",
+            "score": 284.17739284038544
+        },
+        {
+            "docid": "211955_2",
+            "document": "Natural killer cell . Natural killer cells or NK cells are a type of cytotoxic lymphocyte critical to the innate immune system. The role NK cells play is analogous to that of cytotoxic T cells in the vertebrate adaptive immune response. NK cells provide rapid responses to viral-infected cells, acting at around 3 days after infection, and respond to tumor formation. Typically, immune cells detect major histocompatibility complex (MHC) presented on infected cell surfaces, triggering cytokine release, causing lysis or apoptosis. NK cells are unique, however, as they have the ability to recognize stressed cells in the absence of antibodies and MHC, allowing for a much faster immune reaction. They were named \"natural killers\" because of the initial notion that they do not require activation to kill cells that are missing \"self\" markers of MHC class 1. This role is especially important because harmful cells that are missing MHC I markers cannot be detected and destroyed by other immune cells, such as T lymphocyte cells.",
+            "score": 317.9268615245819
+        },
+        {
+            "docid": "211955_14",
+            "document": "Natural killer cell . The ability to generate memory cells following a primary infection and the consequent rapid immune activation and response to succeeding infections by the same antigen is fundamental to the role T and B cells play in the adaptive immune response. For many years, NK cells have been considered to be a part of the innate immune system. However, recently increasing evidence suggests that NK cells can display several features that are usually attributed to adaptive immune cells (e.g. T cell responses) such as dynamic expansion and contraction of subsets, increased longevity and a form of immunological memory, characterized by a more potent response upon secondary challenge with the same antigen. In mice, the majority of research was carried out with murine cytomegalovirus (MCMV) and in models of hapten-hypersensitivity reactions. Especially, in the MCMV model, protective memory functions of MCMV-induced NK cells were discovered  and direct recognition of the MCMV-ligand m157 by the receptor Ly49 was demonstrated to be crucial for the generation of adaptive NK cell responses.  In humans, most studies have focused on the expansion of an NK cell subset carrying the activating receptor NKG2C. Such expansions were observed primarily in response to human cytomegalovirus (HCMV), but also in other infections including Hantavirus, Chikungunya virus, HIV, or viral hepatitis. However, whether these virus infections trigger the expansion of adaptive NKG2C+ NK cells or whether other infections result in re-activation of latent HCMV (as suggested for hepatitis ), remains a field of study. Notably, further insights into the biology of adaptive NK cells are hampered by the fact that a direct viral ligand for NKG2C has not yet been identified.",
+            "score": 254.97993671894073
+        },
+        {
+            "docid": "211955_8",
+            "document": "Natural killer cell . Cytokines play a crucial role in NK cell activation. As these are stress molecules released by cells upon viral infection, they serve to signal to the NK cell the presence of viral pathogens in the affected area. Cytokines involved in NK activation include IL-12, IL-15, IL-18, IL-2, and CCL5. NK cells are activated in response to interferons or macrophage-derived cytokines. They serve to contain viral infections while the adaptive immune response generates antigen-specific cytotoxic T cells that can clear the infection. NK cells work to control viral infections by secreting IFN\u03b3 and TNF\u03b1. IFN\u03b3 activates macrophages for phagocytosis and lysis, and TNF\u03b1 acts to promote direct NK tumor cell killing. Patients deficient in NK cells prove to be highly susceptible to early phases of herpes virus infection.",
+            "score": 257.4224898815155
+        },
+        {
+            "docid": "14772389_3",
+            "document": "KLRC4 . Natural killer (NK) cells are lymphocytes that can mediate lysis of certain tumor cells and virus-infected cells without previous activation. They can also regulate specific humoral and cell-mediated immunity. NK cells preferentially express several calcium-dependent (C-type) lectins, which have been implicated in the regulation of NK cell function. KLRC4 is a member of the NKG2 group which are expressed primarily in natural killer (NK) cells and encodes a family of transmembrane proteins characterized by a type II membrane orientation (extracellular C terminus) and the presence of a C-type lectin domain. The NKG2 gene family is located within the NK complex, a region that contains several C-type lectin genes preferentially expressed on NK cells. The 3' end of the KLRC4 transcript includes the first non-coding exon found at the 5' end of the adjacent D12S2489E gene transcript.",
+            "score": 279.7324552536011
+        },
+        {
+            "docid": "8998654_3",
+            "document": "Killer-cell immunoglobulin-like receptor . Natural killer (NK) cells are a type of lymphocyte cell involved in the innate immune system\u2019s response to viral infection and tumor transformation of host cells. Like T cells, NK cells have many qualities characteristic of the adaptive immune system, including the production of \u201cmemory\u201d cells that persist following encounter with antigens and the ability to create a secondary recall response. Unlike T cells, NK cell receptors are germline encoded, and therefore do not require somatic gene rearrangements. Because NK cells target self cells, they have an intricate mechanism by which they differentiate self and non-self cells in order to minimize the destruction of healthy cells and maximize the destruction of unhealthy cells.",
+            "score": 285.6620466709137
+        },
+        {
+            "docid": "1689405_12",
+            "document": "Alloimmunity . NK cells can also directly target the transplanted tissue. It depends on the balance of activating and inhibitory NK cell receptors and on their ligands expressed by the graft. Receptors of KIR (Killer-cell immunoglobulin-like receptor) family bind concrete MHC class I molecules. If the graft has these ligands on its surface, NK cell cannot be activated (KIR receptors provide inhibitory signal). So if these ligands are missing, there is no inhibitory signal and NK cell becomes activated. It recognizes target cells by \u201cmissing-self strategy\u201d and induces their apoptosis by enzymes perforin and granzymes released from its cytotoxic granules. Alloreactive NK cells also secrete proinflammatory cytokines IFN-\u03b3 and TNF-\u03b1 to increase expression of MHC molecules and costimulatory receptors on the surface of APCs (antigen-presenting cells). This promotes APC maturation which leads to amplification of T-cell alloreactivity by means of direct and also indirect pathway of alloantigen recognition (as described below). NK cells are able to kill Foxp3 regulatory T-lymphocytes as well and shift the immune response from graft tolerance toward its rejection. Besides the ability of NK cells to influence APC maturation and T cell development, they can probably reduce or even prevent alloimmune response to transplanted tissue \u2013 either by killing the Donor APCs or by anti-inflammatory cytokine IL-10 and TGF-\u03b2 secretion. However it is important to note that NK cell sub-populations differ in alloreactivity rate and in their immunomodulatory potential. Concerning immunosuppressive drugs, the effects on NK cells are milder in comparison to T cells.",
+            "score": 240.28286468982697
+        },
+        {
+            "docid": "8998654_15",
+            "document": "Killer-cell immunoglobulin-like receptor . Although initial expression of inhibitory and activating receptors on NK cells appears to be stochastic, there is an education process based on MHC class I alleles expressed by the host that determines the final repertoire of NK receptor expression. This process of education is not well understood. Different receptor genes are expressed primarily independently of other receptor genes, which substantiates the idea that initial expression of receptors is stochastic. Receptors are not expressed entirely independently of each other, however, which supports the idea that there is an education process that reduces the amount of randomness associated with receptor expression. Further, once an NK receptor gene is activated in a cell, its expression is maintained for many cell generations. It appears that some proportion of NK cells are developmentally immature and therefore lack inhibitory receptors, making them hyporesponsive to target cells. In the human fetal liver, KIR and CD49 receptors are already expressed by NK cells, indicating that at least some KIR receptors are present in fetal NK cells, although more studies are needed to substantiate this idea. Although the induction of NK receptor expression is not fully understood, one study found that human progenitor cells cultured in vitro with cytokines developed into NK cells, and many of these cells expressed CD94/NKG2A receptors, a CTLR receptor. Moreover, there was little to no KIR receptor expression in these cells, so additional signals are clearly required for KIR induction.",
+            "score": 209.26521599292755
+        },
+        {
+            "docid": "211955_4",
+            "document": "Natural killer cell . In addition to the knowledge that natural killer cells are effectors of innate immunity, recent research has uncovered information on both activating and inhibitory NK cell receptors which play important functional roles, including self tolerance and the sustaining of NK cell activity. NK cells also play a role in the adaptive immune response: numerous experiments have demonstrated their ability to readily adjust to the immediate environment and formulate antigen-specific immunological memory, fundamental for responding to secondary infections with the same antigen. The role of NK cells in both the innate and adaptive immune responses is becoming increasingly important in research using NK cell activity as a potential cancer therapy.",
+            "score": 301.8867130279541
+        },
+        {
+            "docid": "9659923_13",
+            "document": "Interferon type I . IFN-\u03b1 and IFN-\u03b2 are secreted by many cell types including lymphocytes (NK cells, B-cells and T-cells), macrophages, fibroblasts, endothelial cells, osteoblasts and others. They stimulate both macrophages and NK cells to elicit an anti-viral response, involving IRF3/IRF7 antiviral pathways, and are also active against tumors. Plasmacytoid dendritic cells have been identified as being the most potent producers of type I IFNs in response to antigen, and have thus been coined natural IFN producing cells. Current study findings suggest that by forcing IFN-\u03b1 expression in tumor-infiltrating macrophages, it is possible to elicit a more effective dendritic cell activation and immune effector cell cytotoxicity.",
+            "score": 220.52894926071167
+        },
+        {
+            "docid": "7285133_72",
+            "document": "Lymphopoiesis . Natural Killer T Cells. Human NK T cells are a unique population (which express NK cell markers such as CD56 and KIR). NKT cells are thought to play an important role in tumor immunity and immunoregulation. (Medical Immunology, p.\u00a0135), yet little is known. Recent evidence suggests a role working together with hepatic stellate cells being a liver-resident antigen-presenting cell that presents lipid antigens to and stimulates proliferation of NKT cells.",
+            "score": 279.3437776565552
+        },
+        {
+            "docid": "7110677_8",
+            "document": "Eutherian fetoembryonic defense system (eu-FEDS) hypothesis . Human sperm and eggs also lack molecules for the immune recognition of \"self\". These immune markers are also known as major histocompatibility complex (MHC) antigens or more specifically in humans as human leukocyte antigens (HLA)). Therefore, a major question is how are human gametes recognized by immune effector cells. Specifically, their lack of MHC recognition markers should trigger the immune system, resulting in lysis of both sperm and eggs by leukocytes known as natural killer, or NK cells. These cells target and kill other cells lacking such MHC markers, a concept known as \"missing self\". One distinct possibility is that sperm and eggs are recognized via oligosaccharides expressed on their surfaces. For example, human gametes are coated with carbohydrate sequences that have been implicated in the suppression of NK cell mediated responses.",
+            "score": 252.2374690771103
+        },
+        {
+            "docid": "7285133_60",
+            "document": "Lymphopoiesis . NK cells not only have a catchy movie-title name (Natural Killer) but are also the only lymphocytes considered part of the innate immune system (in contrast to the adaptive immune system. Yet they are much more closely related to T cells (part of the adaptive immune system) than to other cells of the innate immune system. NK cells not only share many surface markers, functions and activities in common with T Cells, they also arise from a common T/NK progenitor. The T/NK precursor is also believed to be the source of a subpopulation of lymphoid DC. (Medical Immunology, p.\u00a0121)",
+            "score": 251.6272759437561
+        },
+        {
+            "docid": "24513506_4",
+            "document": "Klas K\u00e4rre . In the mid-1980s K\u00e4rre discovered one of the mechanisms for how cells of the immune system, natural killer cells (NK cells), identify their target cells and kill them. The findings were that the NK cells are inhibited by a transplantation antigen, the major histocompatibility complex (MHC) class I, which prevents NK cells from killing their target cells. When MHC class I is removed from the target cells, they are killed by the NK cells. K\u00e4rre named this phenomenon \"the missing self hypothesis\".",
+            "score": 261.7889053821564
+        },
+        {
+            "docid": "43148806_11",
+            "document": "Immunoediting . In the escape phase, tumor cells continue to grow and expand in an uncontrolled manner and may eventually lead to malignancies. In the study of cancer immunoediting, knockout mice have been used for experimentation since human testing is not possible. Tumor infiltration by lymphocytes is seen as a reflection of a tumor-related immune response. There is increasing evidence that biological vesicles (e.g., exosomes) secreted by tumour cells help to foster an immunosuppressive tumour microenvironment. During the \"escape phase\", tumor cell variants selected in the \"equilibrium phase\" have breached the host organism's immune defenses, with various genetic and epigenetic changes conferring further resistance to immune detection. There are several mechanisms that lead to escape of cancer cells to immune system, for example downregulation or loss of expression of classical MHC class I (HLA-A, HLA-B- HLA-C) which is essential for effective T cell-mediated immune response (appears in up to 90% of tumours), development of cancer microenvironment which has suppressive effect on immune system and works as an protective barrier to cancer cells. Cells contained in tumor microenvironment are able to produce cytokines which can cause apoptosis of activated T lymphocyte. Another mechanism of tumor cells to avoid immune system is upregulation of non-classical MHC I (HLA-E, HLA-F, HLA-G) which prevents NK-mediated immune reaction by interaction with NK cells. The tumor begins to develop and grow after escaping the immune system.",
+            "score": 202.08625757694244
+        },
+        {
+            "docid": "211950_13",
+            "document": "Major histocompatibility complex . As a lineage of leukocytes, lymphocytes reside in peripheral lymphoid tissues, including lymphoid follicles and lymph nodes, and include B cells, T cells, and natural killer cells (NK cells). B cells, which act specifically, secrete antibody molecules, but do not bind MHC. T cells, which act specifically, as well as NK cells, which act innately, interact with MHC. NK cells express Killer Ig-like receptors (KIRs) that bind to MHC I molecules and signal through ITIM (immunoreceptor tyrosine inhibition motif) recruitment and activation of protein tyrosine phosphatases. This means in contrast to CD8/TCR interaction that activates Tc lymphocytes, NK cells becomes deactivated when bound to MHC I. When MHC class I expression is low, as is typically the case with abnormal cell function during viral infection or tumourigenesis, NK cells lose the inhibitory KIR signal and trigger programmed cell death of the abnormal cell. NK cells thus help prevent progress of cancerous cells by contributing to tumor surveillance.",
+            "score": 274.05626106262207
+        },
+        {
+            "docid": "211955_21",
+            "document": "Natural killer cell . By 1973, 'natural killing' activity was established across a wide variety of species, and the existence of a separate lineage of cells possessing this ability was postulated. The discovery that a unique type of lymphocyte was responsible for \u201cnatural\u201d or spontaneous cytotoxicity was made in the early 1970s by doctoral student Rolf Kiessling and postdoctoral fellow Hugh Pross, in the mouse, and by Hugh Pross and doctoral student Mikael Jondal in the human. The mouse and human work was carried out under the supervision of professors Eva Klein and Hans Wigzell, respectively, of the Karolinska Institute, Stockholm. Kiessling\u2019s research involved the well-characterized ability of T lymphocytes to lyse tumor cells against which they had been previously immunized. Pross and Jondal were studying cell-mediated cytotoxicity in normal human blood and the effect of the removal of various receptor-bearing cells on this cytotoxicity. Later that same year, Ronald Herberman published similar data with respect to the unique nature of the mouse effector cell. The human data were confirmed, for the most part, by West \"et al.\" using similar techniques and the same erythroleukemic target cell line, K562. K562 is highly sensitive to lysis by human NK cells and, over the decades, the K562 chromium-release assay has become the most commonly used assay to detect human NK functional activity. Its almost universal use has meant that experimental data can be compared easily by different laboratories around the world.",
+            "score": 279.35581636428833
+        },
+        {
+            "docid": "35739540_4",
+            "document": "ALECSAT . In order to have efficient eradication of cancer cells, the immune system cells should be able to both populate in the secondary lymphoid organs for a long-lasting effect and target a shared variety of tumor cells as opposed to one, specific cancer cell. In the ALECSAT method, several different cells are activated to accomplish this. Cytotoxic T lymphocytes (CTL) are activated to target the cells that present proteins characteristic of tumor cells Some tumor cells, however, do not present an antigen due to lack of a major histocompatibility complex (MHC) and therefore cannot be recognized by the CTLs. The cells that do not present an antigen are targeted by activated NK cells, leaving little opportunity for any cancer cells to escape. CTLs and NK cells are both effector cells so helper T-cells (T) are also prepared in order to create memory cells for long term resistance toward tumor cells. T helper 1 (TH1) cells, when injected with overexpressed tumor antigens, have been shown to enhance migration of antigen-presenting cells (APCs) into the draining lymph node in mice, further enhancing immune response through activation of CTLs.",
+            "score": 202.37701857089996
+        },
+        {
+            "docid": "211955_19",
+            "document": "Natural killer cell . By shedding decoy NKG2D soluble ligands, tumor cells may avoid immune responses. These soluble NKG2D ligands bind to NK cell NKG2D receptors, activating a false NK response and consequently creating competition for the receptor site. This method of evasion occurs in prostate cancer. In addition, prostate cancer tumors can evade CD8 cell recognition due to their ability to downregulate expression of MHC class 1 molecules. This example of immune evasion actually highlights NK cells' importance in tumor surveillance and response, as CD8 cells can consequently only act on tumor cells in response to NK-initiated cytokine production (adaptive immune response).",
+            "score": 259.35562205314636
+        },
+        {
+            "docid": "1819733_3",
+            "document": "Agranulocyte . Lymphocytes are much more common in the lymphatic system, and include natural killer T-cells. The blood has three types of lymphocytes: B cells, T cells and natural killer cells (NK cells). B cells make antibodies that bind to pathogens to enable their destruction. CD4+ (helper) T cells co-ordinate the immune response (they are what becomes defective in an HIV infection). CD8+ (cytotoxic) T cells and natural killer cells are able to kill cells of the body that are infected by a virus. T cells are crucial to the immune response because they possess a unique 'memory' system which allows them to remember past invaders and prevent disease when a similar invader is encountered again. Monocytes share the \"vacuum cleaner\" (phagocytosis) function of neutrophils, but are much longer lived as they have an additional role: they present pieces of pathogens to T cells so that the pathogens may be recognized again and killed, or so that an antibody response may be mounted. Monocytes are also known as macrophages after they migrate from the bloodstream and enter tissue.",
+            "score": 357.0176428556442
+        },
+        {
+            "docid": "26993477_2",
+            "document": "CD96 . CD96 (Cluster of Differentiation 96) or Tactile (T cell activation, increased late expression) is a receptor expressed on T cells and NK cells, and shares sequence similarity with CD226 (also known as DNAM-1). The protein encoded by this gene belongs to the immunoglobulin superfamily. It is a type I membrane protein. The protein may play a role in the adhesion of activated T and NK cells to their target cells during the late phase of the immune response. It may also function in antigen presentation. Alternative splicing occurs at this locus and two transcript variants encoding distinct isoforms have been identified. CD96 is a transmembrane glycoprotein that has three extracellular immunoglobulin-like domains and is expressed by all resting human and mouse NK cells. CD96 main ligand is CD155. CD 96 has approximately 20% homology with CD226 and competed for binding to CD155 with CD226.",
+            "score": 179.77512311935425
+        },
+        {
+            "docid": "39584879_17",
+            "document": "Innate lymphoid cell . ILC1 are the major population of ILC with anti-tumorigenic potential.  The best explored ILC1 are NK cells. Their function is regulated by signals from stimulatory and inhibitory receptors. NK cells have ability to recognize missing MHC class I on tumor cell. In this way, they act in a complementary manner with the cytotoxic T cells that recognize and kill tumor cells which present a foreign antigen on MHC class I.  NK cells express a number of cell surface activating NK cell receptors with specificity for stress induced ligands overexpressed on tumor cell. In humans, receptor NKG2D recognize ULBP1-6 and MICA, MICB and RAET1E, whereas in mice it binds RAE1 family molecules, H60 family molecules and MULT1 protein. Another family of activating NK cell receptors are NCRs (natural cytotoxicity receptors), DNAM1 (DNAX Accessory Molecule-1 CD266) and CD16 (mediate ADCC after binding of tumor specific antibody on tumor antigen).",
+            "score": 179.57995438575745
+        }
+    ],
+    "r": [
+        {
+            "docid": "1819733_3",
+            "document": "Agranulocyte . Lymphocytes are much more common in the lymphatic system, and include natural killer T-cells. The blood has three types of lymphocytes: B cells, T cells and natural killer cells (NK cells). B cells make antibodies that bind to pathogens to enable their destruction. CD4+ (helper) T cells co-ordinate the immune response (they are what becomes defective in an HIV infection). CD8+ (cytotoxic) T cells and natural killer cells are able to kill cells of the body that are infected by a virus. T cells are crucial to the immune response because they possess a unique 'memory' system which allows them to remember past invaders and prevent disease when a similar invader is encountered again. Monocytes share the \"vacuum cleaner\" (phagocytosis) function of neutrophils, but are much longer lived as they have an additional role: they present pieces of pathogens to T cells so that the pathogens may be recognized again and killed, or so that an antibody response may be mounted. Monocytes are also known as macrophages after they migrate from the bloodstream and enter tissue.",
+            "score": 357.01763916015625
+        },
+        {
+            "docid": "43148806_6",
+            "document": "Immunoediting . The first phase involves the initiation of an antitumor immune response. Cells of the innate immune system recognize the presence of a growing tumor which has undergone stromal remodeling, causing local tissue damage. This is followed by the induction of inflammatory signals which is essential for recruiting cells of the innate immune system (e.g. natural killer cells, natural killer T cells, macrophages and dendritic cells) to the tumor site. During this phase, the infiltrating lymphocytes such as the natural killer cells and natural killer T cells are stimulated to produce IFN-gamma.",
+            "score": 337.2565002441406
+        },
+        {
+            "docid": "14932478_7",
+            "document": "Testicular immunology . T-lymphocytes (T-cells) are white blood cells which take part in cell-mediated immunity. They are often found within tissues where they can be activated by antigen-presenting cells upon infection. They are present in rat and human testes, where they constitute approximately 10 to 20% of the immune cells present, as well as mouse and ram testes. Both cytotoxic T-cells and Helper T cells are found in the testes of rats. Also present in the testes of rats and humans are natural killer cells and Natural killer T cells have been found in rats and mice.",
+            "score": 336.5627746582031
+        },
+        {
+            "docid": "6021647_18",
+            "document": "Sulfatide . Each of these different cell types are expressed in cluster of differentiation 1 molecules (CD1). There are 5 subtypes of CD1 molecules that range from a through e. The a through d subtypes are capable of binding to sulfatide. CD1a, CD1b, and CD1c subtypes present lipid antigens to T cells, while CD1d cells present lipids, glycolipids, and lipoproteins to Natural killer T cells. CD1 a through c cell subtypes initiate T helper type 1 and type 2 responses, and they facilitate sulfatide loading onto the surface of the cells. There are two types of cell subtypes that interact with CD1d cells: Type 1 Natural killer T cells and Type 2 Natural killer T cells. Type 2 Natural killer T cells are able to recognize sulfatide/ CD1d tetramers, and as a result, they are activated by different tissues specific forms of sulfatide. Type 2 Natural killer T cells that react with sulfatide help aid in protection from autoimmune disease and ischemic reperfusion. They are capable of such protection because the Type 1 Natural killer T cells can be regulated by Type 2 Natural killer T cells that react with sulfatide by altering how the dendritic cells function.",
+            "score": 324.00726318359375
+        },
+        {
+            "docid": "211955_2",
+            "document": "Natural killer cell . Natural killer cells or NK cells are a type of cytotoxic lymphocyte critical to the innate immune system. The role NK cells play is analogous to that of cytotoxic T cells in the vertebrate adaptive immune response. NK cells provide rapid responses to viral-infected cells, acting at around 3 days after infection, and respond to tumor formation. Typically, immune cells detect major histocompatibility complex (MHC) presented on infected cell surfaces, triggering cytokine release, causing lysis or apoptosis. NK cells are unique, however, as they have the ability to recognize stressed cells in the absence of antibodies and MHC, allowing for a much faster immune reaction. They were named \"natural killers\" because of the initial notion that they do not require activation to kill cells that are missing \"self\" markers of MHC class 1. This role is especially important because harmful cells that are missing MHC I markers cannot be detected and destroyed by other immune cells, such as T lymphocyte cells.",
+            "score": 317.9268798828125
+        },
+        {
+            "docid": "211955_28",
+            "document": "Natural killer cell . Most of our current knowledge is derived from investigations of mouse splenic and human peripheral blood NK cells. However, in recent years tissue-resident NK cell populations have been described. These specialized NK-cell subsets can play a role in organ homeostasis. For example, NK cells are enriched in the human liver with a specific phenotype and take part in the control of liver fibrosis.",
+            "score": 317.61785888671875
+        },
+        {
+            "docid": "38238_31",
+            "document": "Hepatitis . The pathway by which hepatic viruses cause viral hepatitis is best understood in the case of hepatitis B and C. The viruses do not directly cause apoptosis (cell death). Rather, infection of liver cells activates the innate and adaptive arms of the immune system leading to an inflammatory response which causes cellular damage and death. Depending on the strength of the immune response, the types of immune cells involved and the ability of the virus to evade the body's defense, infection can either lead to clearance (acute disease) or persistence (chronic disease) of the virus. The chronic presence of the virus within liver cells results in multiple waves of inflammation, injury and wound healing that overtime lead to scarring or fibrosis and culminate in hepatocellular carcinoma. Individuals with an impaired immune response are at greater risk of developing chronic infection. Natural killer cells are the primary drivers of the initial innate response and create a cytokine environment that results in the recruitment of CD4 T-helper and CD8 cytotoxic T-cells. Type I interferons are the cytokines that drive the antiviral response. In chronic Hepatitis B and C, natural killer cell function is impaired.",
+            "score": 311.9869079589844
+        },
+        {
+            "docid": "170417_12",
+            "document": "T cell . Natural killer T cells (NKT cells \u2013 not to be confused with natural killer cells of the innate immune system) bridge the adaptive immune system with the innate immune system. Unlike conventional T cells that recognize peptide antigens presented by major histocompatibility complex (MHC) molecules, NKT cells recognize glycolipid antigen presented by a molecule called CD1d. Once activated, these cells can perform functions ascribed to both T and T cells (i.e., cytokine production and release of cytolytic/cell killing molecules). They are also able to recognize and eliminate some tumor cells and cells infected with herpes viruses.",
+            "score": 308.42218017578125
+        },
+        {
+            "docid": "1661124_4",
+            "document": "Cancer immunotherapy . Active cellular therapies usually involve the removal of immune cells from the blood or from a tumor. Those specific for the tumor are cultured and returned to the patient where they attack the tumor; alternatively, immune cells can be genetically engineered to express a tumor-specific receptor, cultured and returned to the patient. Cell types that can be used in this way are natural killer (NK) cells, lymphokine-activated killer cells, cytotoxic T cells and dendritic cells. However, a newer study conducted by Stanford University scientists has created a method of treating tumors that does not require a patient's immune cells to be removed from their body. Their method uses the combination of two immune-enhancing agents that are injected into a tumor to trigger a T cell immune response that then eradicates the tumor.",
+            "score": 305.3525085449219
+        },
+        {
+            "docid": "31758572_3",
+            "document": "Ulrich von Andrian . von Andrian et al. have worked on uncovering the multi-step adhesion cascades that direct leukocyte subsets from the blood into various tissues in the body. His group has also characterized the dynamics of T-cell interactions with antigen-presenting dendritic cells and identified a critical role for macrophages at the lymph-tissue boundary. This work indicates that these cells participate in the adaptive immune response by \u201cchelating\u201d viral particles in the lymph, and then engaging B cells in the adjacent follicles to trigger B cell activation. His laboratory has also identified a subset of natural killer cells that acquires antigen-specific memory to haptens and viruses.",
+            "score": 304.5940856933594
+        },
+        {
+            "docid": "14958_21",
+            "document": "Immune system . Natural killer cells, or NK cells, are lymphocytes and a component of the innate immune system which does not directly attack invading microbes. Rather, NK cells destroy compromised host cells, such as tumor cells or virus-infected cells, recognizing such cells by a condition known as \"missing self.\" This term describes cells with low levels of a cell-surface marker called MHC I (major histocompatibility complex) \u2013 a situation that can arise in viral infections of host cells. They were named \"natural killer\" because of the initial notion that they do not require activation in order to kill cells that are \"missing self.\" For many years it was unclear how NK cells recognize tumor cells and infected cells. It is now known that the MHC makeup on the surface of those cells is altered and the NK cells become activated through recognition of \"missing self\". Normal body cells are not recognized and attacked by NK cells because they express intact self MHC antigens. Those MHC antigens are recognized by killer cell immunoglobulin receptors (KIR) which essentially put the brakes on NK cells.",
+            "score": 302.6431579589844
+        },
+        {
+            "docid": "298999_2",
+            "document": "Lymphocyte . A lymphocyte is one of the subtypes of white blood cell in a vertebrate's immune system. Lymphocytes include natural killer cells (which function in cell-mediated, cytotoxic innate immunity), T cells (for cell-mediated, cytotoxic adaptive immunity), and B cells (for humoral, antibody-driven adaptive immunity). They are the main type of cell found in lymph, which prompted the name \"lymphocyte\".",
+            "score": 302.5746765136719
+        },
+        {
+            "docid": "146072_31",
+            "document": "Stress (biology) . Acute time-limited stressors, or stressors that lasted less than two hours, results in an up regulation of natural immunity and down regulation of specific immunity. This type of stress saw in increase in granulocytes, natural killer cells, IgA, Interleukin 6, and an increase in cell cytotoxicity. Brief naturalistic stressors elicit a shift from Th1(cellular) to Th2(humoral) immunity, while decreased T-cell proliferation, and natural killer cell cytotoxicity. Stressful event sequences did not elicit a consistent immune response; however, some observations such as decreased T-Cell proliferation and cytotoxicity, increase or decrease in natural killer cell cytotoxicity, and an increase in mitogen PHA. Chronic stress elicited a shift toward Th2 immunity, as well as decreased interleukin 2, T cell proliferation, and antibody response to the influenza vaccine. Distant stressors did not consistently elicit a change in immune function.",
+            "score": 302.5147399902344
+        },
+        {
+            "docid": "3596536_3",
+            "document": "Common gamma chain . This protein is located on the surface of immature blood-forming cells in bone marrow. One end of the protein resides outside the cell where it binds to cytokines and the other end of the protein resides in the interior of the cell where it transmits signals to the cell's nucleus. The common gamma chain partners with other proteins to direct blood-forming cells to form lymphocytes (a type of white blood cell). The receptor also directs the growth and maturation of lymphocyte subtypes: T cells, B cells, and natural killer cells. These cells kill viruses, make antibodies, and help regulate the entire immune system.",
+            "score": 302.0585021972656
+        },
+        {
+            "docid": "33769881_23",
+            "document": "Immunomics . By looking at the transcriptional profile of different T-cells, scientists have shown that natural killer T-cells are a close variant of conventional CD4+ T cells, rather than an intermediary cell-type between T cells and natural killer cells. Additionally, DCs, natural killer cells, and B cells are tightly grouped based on their global expression profiles. It may have been expected that B lymphocytes and T lymphocytes would cluster separately from each other, or that natural killer cells would be more closely related to T cells because they share common precursors, cytolytic activity, and similar activation markers. Therefore, immunomics has established relationship between cell lineages that depart from classical views. Additionally, it may better explain the observed plasticity in lymphoid and myeloid cell differentiation because of the considerable overlap between global expression profiles of these different lineages.",
+            "score": 302.0198059082031
+        },
+        {
+            "docid": "211955_4",
+            "document": "Natural killer cell . In addition to the knowledge that natural killer cells are effectors of innate immunity, recent research has uncovered information on both activating and inhibitory NK cell receptors which play important functional roles, including self tolerance and the sustaining of NK cell activity. NK cells also play a role in the adaptive immune response: numerous experiments have demonstrated their ability to readily adjust to the immediate environment and formulate antigen-specific immunological memory, fundamental for responding to secondary infections with the same antigen. The role of NK cells in both the innate and adaptive immune responses is becoming increasingly important in research using NK cell activity as a potential cancer therapy.",
+            "score": 301.88671875
+        },
+        {
+            "docid": "24678469_3",
+            "document": "Lutzner cells . Lymphocytes are white blood cells that form from a blood stem cell, hemocytoblast, in bone marrow and travel to other parts of the body, normally specific lymphoid tissues, to mature. After being produced, the stem cell differentiates into lymphoid stem cells. Then, T-lymphocytes further mature and differentiate into lymphoblasts when the hormone thymosin is secreted from the thymus. Finally, specialized immune cells, B cells and T cells, and nonspecialized immune cells, nature killer cells, are created from the lymphoblasts. This process is referred to as Leukopoiesis. Lutzner cells are an atypical form of T-cell lymphocytes and are normally CD4+. Lutzner cells develop because of clonal gene rearrangements in the T-cell receptor or antibody. This rearrangement occurs early in the differentiation process and creates novel T-cell receptors that mimic the structure of normal antibodies but are not able to function properly. This mutated form contains an enfolded nuclear membrane and has a cerebriform shape, resembling the shape and folds of the brain. Lutzner cells can be best seen through electron microscopy because it is able to show the 3-D structure of the cell.",
+            "score": 301.08941650390625
+        },
+        {
+            "docid": "37793595_2",
+            "document": "Natural killer T cell . Natural killer T (NKT) cells are a heterogeneous group of T cells that share properties of both T cells and natural killer cells. Many of these cells recognize the non-polymorphic CD1d molecule, an antigen-presenting molecule that binds self and foreign lipids and glycolipids. They constitute only approximately 0.1% of all peripheral blood T cells. Natural killer T cells should not be confused with natural killer cells.",
+            "score": 300.9029235839844
+        },
+        {
+            "docid": "170417_2",
+            "document": "T cell . A T cell, or T lymphocyte, is a type of lymphocyte (a subtype of white blood cell) that plays a central role in cell-mediated immunity. T cells can be distinguished from other lymphocytes, such as B cells and natural killer cells, by the presence of a T-cell receptor on the cell surface. They are called \"T cells\" because they mature in the thymus from thymocytes (although some also mature in the tonsils). The several subsets of T cells each have a distinct function. The majority of human T cells rearrange their alpha and beta chains on the cell receptor and are termed alpha beta T cells (\u03b1\u03b2 T cells) and are part of the adaptive immune system. Specialized gamma delta T cells, (a small minority of T cells in the human body, more frequent in ruminants), have invariant T-cell receptors with limited diversity, that can effectively present antigens to other T cells and are considered to be part of the innate immune system.",
+            "score": 300.6912536621094
+        },
+        {
+            "docid": "56130550_2",
+            "document": "Adaptive NK cells . Adaptive natural killer (NK) cells is a sub-population of natural killer cells, a cell type of the innate immune system. Adaptive NK cells have been identified in both humans and mice.",
+            "score": 300.5986328125
+        },
+        {
+            "docid": "544177_27",
+            "document": "Plasmodium falciparum . Only small number (0.5-5%) of sporozoites enter the blood stream into the liver. In the liver, the activated CD8+ T cells from the lymph bind the sporozoites through the circumsporozoite protein (CSP). Antigen presentation by dendritic cells in the skin tissue to T cells is also a crucial process. From this stage onward the parasites produce different proteins that help in suppressing communication of the immune cells. Even at the height of the infection when RBCs are ruptured, the immune signals are not strong enough to activate macropages or natural killer cells.",
+            "score": 298.70318603515625
+        },
+        {
+            "docid": "13305393_11",
+            "document": "Ralph M. Steinman . Some general features of T cell responses that are initiated by dendritic cells: - adaptive immunity develops in two stages: DCs present antigens and initiate the afferent limb, while the other APC mediate the effectors to eliminate the antigen or infection  - in tissue cultures, immunity develops in clusters of DC and lymphocytes. You can actually observe the onset of adaptive immunity in vitro.  Dendritic cells were therefore considered \"nature's adjuvants\" for T cell immnunity, meaning they helped induce T cells.  DCs can produce protective substances like cytokines, interferons, chemokines, anti-microbial peptides DCs can mobilize innate lymphocyltes such as natural killer cells (which in turn produce cytokines or kill target cells upon recognition) However, unlike macrophages, DCs do not phagocytose or kill microbes",
+            "score": 298.0574645996094
+        },
+        {
+            "docid": "6044315_23",
+            "document": "Thymocyte . As well as classical \u03b1\u03b2 T cells (their development of which is outlined above), a number of other T lineages develop in the thymus, including \u03b3\u03b4 T cells and Natural Killer T (NKT)cells. Additionally, other non-T hematopoietic lineages can develop in the thymus, including B lymphocytes (B cells), Natural Killer lymphocytes (NK cells).), myeloid cells, and dendritic cells. However, the thymus is not a source of B, NK, or myeloid development. The development of these cells in the thymus reflects the multipotent nature of hematopoitic prognitors that seed the thymus.",
+            "score": 297.0231018066406
+        },
+        {
+            "docid": "14958_20",
+            "document": "Immune system . Mast cells reside in connective tissues and mucous membranes, and regulate the inflammatory response. They are most often associated with allergy and anaphylaxis. Basophils and eosinophils are related to neutrophils. They secrete chemical mediators that are involved in defending against parasites and play a role in allergic reactions, such as asthma. Natural killer (NK cells) cells are leukocytes that attack and destroy tumor cells, or cells that have been infected by viruses.",
+            "score": 297.01092529296875
+        },
+        {
+            "docid": "3113497_21",
+            "document": "Innate immune system . Natural killer cells (NK cells) are a component of the innate immune system that does not directly attack invading microbes. Rather, NK cells destroy compromised host cells, such as tumor cells or virus-infected cells, recognizing such cells by a condition known as \"missing self.\" This term describes cells with abnormally low levels of a cell-surface marker called MHC I (major histocompatibility complex) - a situation that can arise in viral infections of host cells. They were named \"natural killer\" because of the initial notion that they do not require activation in order to kill cells that are \"missing self.\" For many years, it was unclear how NK cell recognize tumor cells and infected cells. It is now known that the MHC makeup on the surface of those cells is altered and the NK cells become activated through recognition of \"missing self\". Normal body cells are not recognized and attacked by NK cells because they express intact self MHC antigens. Those MHC antigens are recognized by killer cell immunoglobulin receptors (KIR) that, in essence, put the brakes on NK cells. The NK-92 cell line does not express KIR and is developed for tumor therapy.",
+            "score": 296.6667785644531
+        },
+        {
+            "docid": "443416_16",
+            "document": "Phagocyte . Interferon-gamma\u2014which was once called macrophage activating factor\u2014stimulates macrophages to produce nitric oxide. The source of interferon-gamma can be CD4 T cells, CD8 T cells, natural killer cells, B cells, natural killer T cells, monocytes, macrophages, or dendritic cells. Nitric oxide is then released from the macrophage and, because of its toxicity, kills microbes near the macrophage. Activated macrophages produce and secrete tumor necrosis factor. This cytokine\u2014a class of signaling molecule\u2014kills cancer cells and cells infected by viruses, and helps to activate the other cells of the immune system.",
+            "score": 295.85516357421875
+        },
+        {
+            "docid": "40558045_3",
+            "document": "Myeloid-derived suppressor cell . MDSCs strongly expand in pathological situations such as chronic infections and cancer, as a result of an altered haematopoiesis. MDSCs are discriminated from other myeloid cell types in which they possess strong immunosuppressive activities rather than immunostimulatory properties. Similar to other myeloid cells, MDSCs interact with other immune cell types including T cells, dendritic cells, macrophages and natural killer cells to regulate their functions. Although their mechanisms of action are not clear yet, clinical and experimental evidence has shown that cancer tissues with high infiltration of MDSCs are associated with poor patient prognosis and resistance to therapies.",
+            "score": 295.0574951171875
+        },
+        {
+            "docid": "54115_19",
+            "document": "Retinol . Vitamin A is essential to maintain intact epithelial tissues as a physical barrier to infection; it is also involved in maintaining a number of immune cell types from both the innate and acquired immune systems. These include the lymphocytes (B-cells, T-cells, and natural killer cells), as well as many myelocytes (neutrophils, macrophages, and myeloid dendritic cells).",
+            "score": 294.4666748046875
+        },
+        {
+            "docid": "37793595_8",
+            "document": "Natural killer T cell . iNKT cells recognize lipid antigens presented by CD1d, a non-polymorphic major histocompatibility complex class I-like antigen presenting molecule. These cells are conserved between humans and mice.The highly conserved TCR is made of Va24-Ja18 paired with Vb11 in humans, which is specific for glycolipid antigens. The best known antigen of iNKT cells is alpha-galactosylceramide(\u03b1GalCer), which is a synthetic form of a chemical purified from the deep sea sponge \"Agelas Mauritanius.\" iNKT cells develop in the thymus, and distribute to the periphery. They are most commonly found in the liver, but are also found in the thymus, spleen, peripheral blood, bone marrow and fat tissue. In comparison to mice, humans have fewer iNKT cells and have a wide variation in the amount of circulating iNKT cells.",
+            "score": 293.3965759277344
+        },
+        {
+            "docid": "14958_16",
+            "document": "Immune system . Leukocytes (white blood cells) act like independent, single-celled organisms and are the second arm of the innate immune system. The innate leukocytes include the phagocytes (macrophages, neutrophils, and dendritic cells), innate lymphoid cells, mast cells, eosinophils, basophils, and natural killer cells. These cells identify and eliminate pathogens, either by attacking larger pathogens through contact or by engulfing and then killing microorganisms. Innate cells are also important mediators in lymphoid organ development and the activation of the adaptive immune system.",
+            "score": 292.1155090332031
+        },
+        {
+            "docid": "1264088_4",
+            "document": "Hematopoietic stem cell . HSCs give rise to both the myeloid and lymphoid lineages of blood cells. Myeloid and lymphoid lineages both are involved in dendritic cell formation (Myeloid cells include monocytes, macrophages, neutrophils, basophils, eosinophils, erythrocytes, and megakaryocytes to platelets. Lymphoid cells include T cells, B cells, and natural killer cells. The definition of hematopoietic stem cells has evolved since HSCs were first discovered in 1961. The hematopoietic tissue contains cells with long-term and short-term regeneration capacities and committed multipotent, oligopotent, and unipotent progenitors. HSCs constitute 1:10.000 of cells in myeloid tissue.",
+            "score": 290.073974609375
+        },
+        {
+            "docid": "26652093_5",
+            "document": "Autologous immune enhancement therapy . Cancer cells are formed in our body almost every day but we are not affected by them. This is because they are immediately destroyed by the body's immune system. The immune system is a complex network of cells and organs comprising lymphocytes, macrophages, Dendritic cells, Natural Killer cells (NK Cell), Cytotoxic T Lymphocytes (CTL), etc., that work together to defend the body against attacks by \"foreign\" or \"non-self\" invaders including cancer cells. Immediately after a cancer cell is recognized, the Lymphocytes and/or the NK cells attack the cancer cell to kill it. When the immune system is weaker then cancer evolves as a disease and starts growing.",
+            "score": 290.0650939941406
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "1723667_17",
+            "document": "Oncolytic virus . Viruses selectively infect tumor cells because of their defective anti-viral response. Imlygic, an attenuated herpes simplex virus, has been genetically engineered to replicate preferentially within tumor cells and to generate antigens that illicit an immune response.",
+            "score": 36.51478433609009
+        },
+        {
+            "docid": "2876332_23",
+            "document": "Osteopontin . Activated T cells are promoted by IL-12 to differentiate towards the Th1 type, producing cytokines including IL-12 and IFN\u03b3. OPN inhibits production of the Th2 cytokine IL-10, which leads to enhanced Th1 response. OPN influences cell-mediated immunity and has Th1 cytokine functions. It enhances B cell immunoglobulin production and proliferation. Recent studies in 2008 suggest that OPN also induces mast cell degranulation. The researchers here observed that IgE-mediated anaphylaxis was significantly reduced in OPN knock-out mice compared to wild-type mice. The role of OPN in activation of macrophages has also been implicated in a cancer study, when researchers discovered that OPN-producing tumors were able to induce macrophage activation compared to OPN-deficient tumors.",
+            "score": 11.708104610443115
+        },
+        {
+            "docid": "38975888_11",
+            "document": "Oncolytic herpes virus . It is a second-generation herpes simplex virus based on the JS1 strain and expressing the immune stimulatory factor GM-CSF. Like other oncolytic versions of HSV it has a deletion of the gene encoding ICP34.5, which provides tumor selectivity. It also has a deletion of the gene encoding ICP47, a protein that inhibits antigen presentation, and an insertion of a gene encoding GM-CSF, an immune stimulatory cytokine. Deletion of the gene encoding ICP47 also puts the US11 gene (a late gene) under control of the immediate early ICP47 promoter. The earlier and greater expression of US11 (also involved in overcoming PKR-mediated responses) largely overcomes the reduction in replication in tumor cells of ICP34.5-deleted HSV as compared to wild type virus, but without reducing tumor selectivity.",
+            "score": 33.77038526535034
+        },
+        {
+            "docid": "43148806_11",
+            "document": "Immunoediting . In the escape phase, tumor cells continue to grow and expand in an uncontrolled manner and may eventually lead to malignancies. In the study of cancer immunoediting, knockout mice have been used for experimentation since human testing is not possible. Tumor infiltration by lymphocytes is seen as a reflection of a tumor-related immune response. There is increasing evidence that biological vesicles (e.g., exosomes) secreted by tumour cells help to foster an immunosuppressive tumour microenvironment. During the \"escape phase\", tumor cell variants selected in the \"equilibrium phase\" have breached the host organism's immune defenses, with various genetic and epigenetic changes conferring further resistance to immune detection. There are several mechanisms that lead to escape of cancer cells to immune system, for example downregulation or loss of expression of classical MHC class I (HLA-A, HLA-B- HLA-C) which is essential for effective T cell-mediated immune response (appears in up to 90% of tumours), development of cancer microenvironment which has suppressive effect on immune system and works as an protective barrier to cancer cells. Cells contained in tumor microenvironment are able to produce cytokines which can cause apoptosis of activated T lymphocyte. Another mechanism of tumor cells to avoid immune system is upregulation of non-classical MHC I (HLA-E, HLA-F, HLA-G) which prevents NK-mediated immune reaction by interaction with NK cells. The tumor begins to develop and grow after escaping the immune system.",
+            "score": 23.03386902809143
+        },
+        {
+            "docid": "57177527_4",
+            "document": "Cancer vaccine targeting CD4+ T cells . Recent studies show the crucial role of proliferating, activated effector memory Th1 CD4+ T cells in effective antitumor immunity and reveal that CD4+ T cells induce more durable immune-mediated tumor control than CD8+ T cells. Given that CD4+ T cells are known to play such a central role in regulating virtually all antigen-specific immune responses, they are still not paid much attention to playing a role in immune responses to tumor antigens. The preferred attention to antitumor responses by CD8+ T cells stems from two facts: first, most tumors are positive for MHC class one but negative for MHC class two; and second, CD8+ cytotoxic T lymphocytes (CTLs) are able to induce tumor killing upon direct recognition of peptide antigens, presented by the tumor\u2019s MHC class one molecules. This preference has been bolstered by numerous adoptive transfer studies in which CD8+ T cell lines and CD8+ clones specific for tumor antigens\u2014that have been stimulated in \"vitro\"\u2014can mediate antitumor immunity when transferred back into tumor-bearing hosts; furthermore, recent reports suggest that immunization\u2014using either adjuvant or dendritic cells with pure tumor peptides\u2014can result in productive antitumor immunity that is restricted by MHC class one. Finally, elimination of CD8+ T cells from mice\u2014at least partially abrogates antitumor immunity induced by most cancer vaccines. Similarly, a critical role for CD4+ T cells in induced antitumor immunity has been consistently demonstrated in vaccine/challenge experiments employing antibody-mediated depletion of CD4+ T cells or using CD4-knockout mice. Abrogation of antitumor immunity in CD4-knockout mice or mice depleted of CD4+ T cells has been demonstrated in cases of cell-based vaccines, recombinant viral vaccines and recombinant bacterial vaccines. While most adoptive transfer experiments have been performed with tumor-specific CD8+ T cells, activated CD4+ T cell clones specific for the murine leukemias have been demonstrated to confer systemic antitumor immunity upon transfer into tumor-bearing hosts.",
+            "score": 25.4623019695282
+        },
+        {
+            "docid": "36970726_13",
+            "document": "Jennerex . Pexa-Vec is an engineered oncolytic virus that selectively destroys cancer cells and induces tumor immune response. Uncontrolled cell division, inactivation of the interferon pathway that is necessary to defend against viral infections, and constitutively active EGFR-Ras signaling pathway, are common features of cancer cells. These features enable rapid replication of the JX-594 virus and lysis of the host cancer cells. Deletion of thymidine kinase (TK) from the JX-594 genome prevents virus replication in normal cells. The immunostimulatory cytokine GM-CSF is produced from the JX-594 genome following infection, inducing immune response against both the virus and the tumor and enabling lasting tumor immunity. Finally, JX-594 reduces nutrient supply to tumors through blood vessel destruction. Because JX-594 is based on the Wyeth strain vaccinia virus that is commonly used for vaccination, it is well tolerated by rats, rabbits, and humans.",
+            "score": 30.080092430114746
+        },
+        {
+            "docid": "793631_7",
+            "document": "Cancer vaccine . Another approach is to generate an immune response \"in situ\" in the patient using oncolytic viruses. This approach was used in the drug talimogene laherparepvec, a version of herpes simplex virus engineered to selectively replicate in tumor tissue and to express the immune stimulatory protein GM-CSF. This enhances the anti-tumor immune response to tumor antigens released following viral lysis and provides a patient-specific vaccine.",
+            "score": 43.185938358306885
+        },
+        {
+            "docid": "38975888_3",
+            "document": "Oncolytic herpes virus . HSV1716 is a first generation oncolytic virus developed by The Institute of Virology, Glasgow, UK, and subsequently by Virttu Biologics (formerly Crusade Laboratories, a spin-out from The Institute of Virology), to selectively destroy cancer cells. The virus has the trade name SEPREHVIR. It is based on the herpes simplex virus (HSV-1). The HSV1716 strain has a deletion of the gene ICP34.5. ICP34.5 is a neurovirulence gene (enabling the virus to replicate in neurons of the brain and spinal cord). Deletion of this gene provides the property of tumor-selective replication to the virus (i.e. largely prevents replication in normal cells, while still allowing replication in tumor cells), although it also reduces replication in tumor cells as compared to wild type HSV.",
+            "score": 21.905519485473633
+        },
+        {
+            "docid": "1723667_16",
+            "document": "Oncolytic virus . Many cases of spontaneous remission of cancer have been recorded, though not fully understood, they are thought likely to be a result of a sudden immune response or infection. Efforts to induce this phenomenon have used cancer vaccines (derived from cancer cells or selected cancer antigens), or direct treatment with immune-stimulating factors on skin cancers. Some oncolytic viruses are very immunogenic and may by infection of the tumour, elicit an anti-tumor immune response, especially viruses delivering cytokines or other immune stimulating factors.",
+            "score": 52.22780442237854
+        },
+        {
+            "docid": "38925137_27",
+            "document": "Tumor microenvironment . In ovarian cancer elevated VEGF levels and expression of the immune regulatory ligand B7H3 (CD276), or the endothelin B receptor (ETR) on tumor vessels correlate with decreased T cell infiltration and worse clinical outcome. Pharmacological inhibition of ETR increased T cell adhesion to endothelial cells in an intercellular adhesion molecule-1 (ICAM-1)\u2013dependent manner, increasing TIL numbers in mice and a corresponding tumor response. Anti-angiogenic inhibitors targeting VEGF and its receptor VEGFR2 (approved for treatment of multiple cancers) induce vascular normalization. This, in turn, increases TILs and improves ACT and vaccine efficacy in preclinical models. VEGF impairs DC maturation, offering another means to enhance intratumoral immune responses. Deleting the regulator of G-protein signaling, Rgs5 reduced vessel leakiness and hypoxia, enhanced T cell infiltration into mouse pancreatic neuroendocrine tumors, and prolonged animal survival. Vascular normalization is thus likely more effective than vessel destruction. Targeted delivery of tumor necrosis factor-\u03b1 (TNF-\u03b1) was reported to normalize tumor blood vessels, increase CD8 T cell infiltration and enhance vaccine and ACT therapies, unlike inflammatory cytokines interferon-\u03b3 (IFN-\u03b3).",
+            "score": 31.917689085006714
+        },
+        {
+            "docid": "39150187_6",
+            "document": "Transgene SA . JX594/TG6006 (Pexa-Vec) is being tested in hepatocellular carcinoma (HCC) and is currently in Phase II trials. The engineered oncolytic vaccinia virus is armed with the immunostimulatory cytokine GM-CSF and is designed to selectively target and destroy cancer cells through three diverse mechanisms of action: lysis of cancer cells through viral replication, the reduction of the blood supply to tumors through vascular targeting and disruption, and the stimulation of the body's immune response against cancer cells. Results from a Phase II trial have been published in a February 2013 Nature Medicine article - \"Randomized dose-finding clinical trial of oncolytic immunotherapeutic vaccinia JX-594 in liver cancer.\" The peer reviewed article argued that: \"JX-594 demonstrated oncolytic and immunotherapy MOA, tumor responses and dose-related survival in individuals with HCC.\"",
+            "score": 53.2513644695282
+        },
+        {
+            "docid": "1920949_13",
+            "document": "FOXP3 . Foxp3 is a recruiter of other anti-tumor enzymes such as CD39 and CD8. The overexpression of CD39 is found in patients with multiple cancer types such as melanoma, leukemia, pancreatic cancer, colon cancer, and ovarian cancer. This overexpression may be protecting tumorous cells, allowing them to create their \u201cescape phase\u201d. A cancerous tumor\u2019s \u201cescape phase\u201d is where the tumor grows quickly and it becomes clinically invisible by becoming independent of the extracellular matrix and creating its own immunosuppressive tumor microenvironment. The consequences of a cancer cell reaching the \u201cescape phase\u201d is that it allows it to completely evade the immune system, which reduces the immunogenicity and ability to become clinically detected, allowing it to progress and spread throughout the body. Some cancer patients have also been known to display higher numbers of mutated CD4 cells. These mutated cells will then produce large quantities of TGF-\u03b2 and IL-10, (a Transforming Growth Factor \u03b2 and an inhibitory cytokine respectively,) which will suppress signals to the immune system and allow for tumor escape. In one experiment a 15-mer synthetic peptide, P60, was able to inhibit Foxp3\u2019s ability to function. P60 did this by entering the cells and then binding to Foxp3, where it hinders Foxp3\u2019s ability to translocate to the nucleus. Due to this, Foxp3 could no longer properly suppress the transcription factors NF-kB and NFAT; both of which are protein complexes that regulate transcription of DNA, cytokine production and cell survival. This would inhibit a cell\u2019s ability to perform apoptosis and stop its own cell cycle, which could potentially allow an affected cancerous cell to survive and reproduce.",
+            "score": 11.453976154327393
+        },
+        {
+            "docid": "7737653_30",
+            "document": "Oncogenomics . Mutations in genes employed in DNA mismatch repair (MMR) cause a high mutation rate. In tumors, such frequent subsequent mutations often generate \u201cnon-self\u201d immunogenic antigens. A human Phase II clinical trial, with 41 patients, evaluated one synthetic lethal approach for tumors with or without MMR defects. The product of gene \"PD-1\" ordinarily represses cytotoxic immune responses. Inhibition of this gene allows a greater immune response. When cancer patients with a defect in MMR in their tumors were exposed to an inhibitor of PD-1, 67% - 78% of patients experienced immune-related progression-free survival. In contrast, for patients without defective MMR, addition of PD-1 inhibitor generated only 11% of patients with immune-related progression-free survival. Thus inhibition of PD-1 is primarily synthetically lethal with MMR defects.",
+            "score": 14.985238313674927
+        },
+        {
+            "docid": "18844072_17",
+            "document": "Synthetic lethality . Mutations in genes employed in DNA mismatch repair (MMR) cause a high mutation rate. In tumors, such frequent subsequent mutations often generate \"non-self\" immunogenic antigens. A human Phase II clinical trial, with 41 patients, evaluated one synthetic lethal approach for tumors with or without MMR defects. In the case of sporadic tumors evaluated, the majority would be deficient in MMR due to epigenetic repression of an MMR gene (see DNA mismatch repair). The product of gene \"PD-1\" ordinarily represses cytotoxic immune responses. Inhibition of this gene allows a greater immune response. In this Phase II clinical trial with 47 patients, when cancer patients with a defect in MMR in their tumors were exposed to an inhibitor of PD-1, 67% - 78% of patients experienced immune-related progression-free survival. In contrast, for patients without defective MMR, addition of PD-1 inhibitor generated only 11% of patients with immune-related progression-free survival. Thus inhibition of PD-1 is primarily synthetically lethal with MMR defects.",
+            "score": 15.974828958511353
+        },
+        {
+            "docid": "19167679_91",
+            "document": "Virus . Virotherapy involves the use of genetically modified viruses to treat diseases. Viruses have been modified by scientists to reproduce in cancer cells and destroy them but not infect healthy cells. Talimogene laherparepvec (T-VEC), for example, is a modified herpes simplex virus that has had a gene, which is required for viruses to replicate in healthy cells, deleted and replaced with a human gene (GM-CSF) that stimulates immunity. When this virus infects cancer cells, it destroys them and in doing so the presence the GM-CSF gene attracts dendritic cells from the surrounding tissues of the body. The dendritic cells process the dead cancer cells and present components of them to other cells of the immune system. Having completed successful clinical trials, this virus is expected to gain approval for the treatment of a skin cancer called melanoma in late 2015. Viruses that have been reprogrammed to kill cancer cells are called oncolytic viruses.",
+            "score": 42.85364079475403
+        },
+        {
+            "docid": "14717585_4",
+            "document": "Steven Libutti . Libutti is studying tumor neovascular formation and the interaction between tumor cells, endothelial cells and the components of the tumor microenvironment. The goal of Libutti's research program is to develop novel cancer therapies through a better understanding of the tumor microenvironment. The interaction of a tumor and its vasculature is critical for both tumor growth and the spread of tumor cells to distant organs. The process of new vessel development within the tumor is termed angiogenesis and is required for tumors to grow larger than a few millimeters. In order to better understand the relationship between the tumor and its blood supply, their research is focused on the interaction between tumor-derived factors and endothelial cells developing in the context of the tumor microenvironment. By understanding this interaction they hope to be able to design novel treatment strategies to inhibit both the growth and the spread of tumors. They are currently studying a variety of tumor-derived factors with effects on tumor-associated vasculature. These include vascular endothelial growth factor (VEGF) and endothelial cell monocyte-activating polypeptide II (EMAP-II). EMAP-II is a cytokine with potent effects on blood vessels and was discovered by a research team (including Libutti) at Columbia University. Cytokines such as VEGF and EMAP-II appear to be produced in varying amounts by tumors and have direct effects on the tumor neovasculature. Libutti's approach to the study of these interactions has been through the utilization of a variety of in vitro and in vivo model systems. His team is using gene expression profiling to understand the changes that occur in endothelial cells exposed to tumor-derived factors. His laboratory is developing techniques, which allow them to isolate endothelial cells from tumor tissue. This has resulted in their ability to study tumor-derived endothelial cells directly, and has led to the observation that tumor associated endothelial cells have epigenetic changes compared to normal endothelial cells from the same tissue type. This approach has also allowed them to identify specific genes such as FILIP1L (formerly DOC1), which appear to play a role in the control of endothelial cell responses to angiogenesis inhibitors. They are also using noninvasive imaging techniques, including dynamic MRI and PET, to map changes in tumor blood flow within tumors both in animal models and in patients on clinical trials. A variety of inhibitors of tumor angiogenesis are being actively studied. These include both recombinant proteins derived from naturally occurring substances as well as small molecules designed to act on specific pathways. Various methods of delivering these agents, including gene therapy approaches and the use of tumor targeted nanoparticles are being pursued. Libutti was the first to administer TNF bound colloidal gold nanoparticles as targeted therapy to cancer patients. The overall goal of Libutti's work is to translate a better understanding of tumor cell-endothelial cell interactions, within the context of the tumor microenvironment, into better therapies for patients with cancer. Dr. Libutti is also studying the role of tumor suppressor genes such as \"MEN1\" in the process of tumor formation. Specifically, deciphering the role of \"MEN1\" in the tissue selective development of tumors is work for which Libutti received an R01 grant from the NCI . Libutti has published over 270 peer reviewed journal articles and currently has a Hirsch Index of 60. He is the Editor-in-Chief of Cancer Gene Therapy, a Springer Nature journal focused on cancer gene and cellular therapies.",
+            "score": 18.18614625930786
+        },
+        {
+            "docid": "1460525_6",
+            "document": "Oncovirus . A direct oncogenic viral mechanism involves either insertion of additional viral oncogenic genes into the host cell or to enhance already existing oncogenic genes (proto-oncogenes) in the genome. Indirect viral oncogenicity involves chronic nonspecific inflammation occurring over decades of infection, as is the case for HCV-induced liver cancer. These two mechanisms differ in their biology and epidemiology: direct tumor viruses must have at least one virus copy in every tumor cell expressing at least one protein or RNA that is causing the cell to become cancerous. Because foreign virus antigens are expressed in these tumors, persons who are immunosuppressed such as AIDS or transplant patients are at higher risk for these types of cancers. Chronic indirect tumor viruses, on the other hand, can be lost (at least theoretically) from a mature tumor that has accumulated sufficient mutations and growth conditions (hyperplasia) from the chronic inflammation of viral infection. In this latter case, it is controversial but at least theoretically possible that an indirect tumor virus could undergo \"hit-and-run\" and so the virus would be lost from the clinically diagnosed tumor. In practical terms, this is an uncommon occurrence if it does occur.",
+            "score": 8.337175607681274
+        },
+        {
+            "docid": "14774825_8",
+            "document": "TRG (gene) . Deletions and mutations of the TRG gene have been implicated in a variety of cancers. Specifically, \u03b3\u03b4 T cells may contribute to the immune response against several tumor types (lymphoma, myeloma, breast, colon, lung, ovary, and others). They act directly through mediation of cytotoxic activity and indirectly through the regulation of other cell types responsible for the anti-tumor response. The presence of \u03b3\u03b4 T cells in the tumor microenvironment has been associated with poor prognosis in some cancers. This has led to the suggestion that these cells have plasticity and can respond to environmental cues. A potential mechanism is the downregulation of dendritic cell maturation, leading to immunosuppression.",
+            "score": 7.655271530151367
+        },
+        {
+            "docid": "5024592_23",
+            "document": "Immune tolerance . Immune tolerance is an important means by which growing tumors, which have mutated proteins and altered antigen expression, prevent elimination by the host immune system. It is well recognized that tumors are a complex and dynamic population of cells composed of transformed cells as well as stromal cells, blood vessels, tissue macrophages, and other immune infiltrates. These cells and their interactions all contribute to the changing tumor microenvironment, which the tumor largely manipulates to be immunotolerant so as to avoid elimination. There is an accumulation of metabolic enzymes that suppress T cell proliferation and activation, including IDO and arginase, and high expression of tolerance-inducing ligands like FasL, PD-1, CTLA-4, and B7. Pharmacologic monoclonal antibodies targeted against some of these ligands has been effective in treating cancer. Tumor-derived vesicles known as exosomes have also been implicated promoting differentiation of iTreg cells and myeloid derived suppressor cells (MDSCs), which also induce peripheral tolerance. In addition to promoting immune tolerance, other aspects of the microenvironment aid in immune evasion and induction of tumor-promoting inflammation.",
+            "score": 10.082828044891357
+        },
+        {
+            "docid": "1050201_8",
+            "document": "Interleukin 10 . Over time a more nuanced picture of IL-10's function has emerged as treatment of tumor bearing mice has been shown to inhibit tumor metastasis. Additional investigation by multiple laboratories has generated data that further supports IL-10's immunostimulatory capacity in an immunoncology context. Expression of IL-10 from transfected tumor cell lines. in IL-10 transgenic mice. or dosing with IL-10 leads to control of primary tumor growth and decreased metastatic burden. More recently, PEGylated recombinant murine IL-10 (PEG-rMuIL-10) has been shown to induce IFN\u03b3 and CD8+ T cell dependent anti-tumor immunity. More specifically, PEGylated recombinant human IL-10 (PEG-rHuIL-10) has been shown to enhance CD8+ T cell secretion of the cytotoxic molecules Granzyme B and Perforin and potentiate T cell receptor dependent IFN\u03b3 secretion.",
+            "score": 7.121276378631592
+        },
+        {
+            "docid": "38925137_5",
+            "document": "Tumor microenvironment . Its role in blunting an immune attack awaited the discovery of adaptive cellular immunity. In 1960, Klein and colleagues found that in mice, primary methylcholanthrene-induced sarcomas exhibited an antitumor immune response mediated by lymph node cells to cancer cells derived from the primary tumor. This immune response did not however affect the primary tumor. The primary tumor instead established a microenvironment that is functionally analogous to that of certain normal tissues, such as the eye.",
+            "score": 12.524192094802856
+        },
+        {
+            "docid": "10500138_17",
+            "document": "CD4+ T cells and antitumor immunity . The same series of experiments, examining the role of CD4 cells, showed that high levels of IL-4 and IFN\u03b3 were present at the site of the tumor, following vaccination, and subsequent tumour challenge. (Hung, 1998) IL-4 is the predominant cytokine produced by T2 cells, while IFN\u03b3 is the predominant T1 cytokine. Earlier work has shown that these two cytokines inhibit the production of each other by inhibiting differentiation down the opposite T pathway, in normal microbial infections (Abbas and Lichtman, 2005), yet here they were seen at nearly equal levels. Even more interesting was the fact that both these cytokines were required for maximal tumor immunity, and that mice deficient in either showed greatly reduced antitumor immunity. IFN-\u03b3 null mice showed virtually no immunity, while IL-4 null mice showed a 50% reduction when compared to immunised wild type mice.",
+            "score": 19.05709934234619
+        },
+        {
+            "docid": "7801838_21",
+            "document": "Interleukin 15 . Vector-based therapy \u2013 Nonlytic Newcastle Disease Virus (NDV) was engineered to express recombinant IL-15 protein to generate an NDV-modified tumor vaccine. Preclinical results of NDV-modified tumor vaccine showed promise by controlling melanoma tumor growth in mice. A recombinant vaccinia virus expressing influenza A proteins and IL-15 promoted cross protection by CD4+ T cells. A Brucella DNA vacccine containing IL-15 gene enhanced the CD8+ T cell immune response in mice. IL-15 was needed for CD4+ T cell heterosubtypic protection while using a multivalent influenza vaccine using vaccinia-based vector. While influenza A virus expressing IL-15 stimulates both innate and adaptive immune cells to decrease tumor growth mice.",
+            "score": 19.857694625854492
+        },
+        {
+            "docid": "371659_29",
+            "document": "Ras subfamily . Another tumor-lysing virus that specifically targets tumor cells with an activated Ras pathway is a type II herpes simplex virus (HSV-2) based agent, designated FusOn-H2. Activating mutations of the Ras protein and upstream elements of the Ras protein may play a role in more than two-thirds of all human cancers, including most metastatic disease. Reolysin, a formulation of reovirus, and FusOn-H2 are currently in clinical trials or under development for the treatment of various cancers. In addition, a treatment based on siRNA anti-mutated K-RAS (G12D) called siG12D LODER is currently in clinical trials for the treatment of locally advanced pancreatic cancer (NCT01188785, NCT01676259).",
+            "score": 18.482933044433594
+        },
+        {
+            "docid": "14522499_17",
+            "document": "Prostaglandin EP2 receptor . The EP receptor can act as a tumor promoter. EP gene knockout mice have less lung, breast, skin, and colon cancers following exposure to carcinogens. Knockout of this gene in mice with the adenomatous polyposis coli mutation also causes a decrease in the size and number of pre-cancerous intestinal polyps that the animals develop. These effects are commonly ascribed to the loss of EP-mediated: Vascular endothelial growth factor production and thereby of tumor vascularization; regulation of endothelial cell motility and survival; interference with transformng growth factor-\u03b2's anti-cell proliferation activity; and, more recently, regulation of host anti-tumor immune responses.",
+            "score": 16.714669942855835
+        },
+        {
+            "docid": "14580460_3",
+            "document": "Tumor antigen vaccine . Tumor antigen vaccines work the same way that viral vaccines work, by training the immune system to attack cells that contain the antigens in the vaccine. The difference is that the antigens for viral vaccines are derived from viruses or cells infected with virus, while the antigens for tumor antigen vaccines are derived from cancer cells. Since tumor antigens are antigens found in cancer cells but not normal cells, vaccinations containing tumor antigens should train the immune system to target cancer cells not healthy cells. Cancer-specific tumor antigens include peptides from proteins that are not typically found in normal cells but are activated in cancer cells or peptides containing cancer-specific mutations. Antigen-presenting cells (APCs) such as dendritic cells take up antigens from the vaccine, process them into epitopes, and present the epitopes to T-cells via Major Histocompatibility Complex proteins. If T-cells recognize the epitope as foreign, the adaptive immune system is activated and target cells that express the antigens.",
+            "score": 19.521539449691772
+        },
+        {
+            "docid": "16814276_10",
+            "document": "Merkel cell polyomavirus . Sequencing of the virus from Merkel cell cancers reveals that it generally has tumor-specific mutations that truncate the MCV T antigen. These mutations (which are not found in native virus obtained from nontumor sites) eliminate the T antigen helicase, preventing the integrated virus from replicating independently from the host cancer cell. The tumor is a \"dead-end host\" for MCV. Normally, the virus exists as circular episome (or plasmid) within the cell and its DNA is packaged into viral capsids and transmitted to other cells. In tumors, the viral DNA has broken and become integrated into human DNA within the tumor, so that the virus is no longer transmissible. The integrated virus cannot be excised from the host cell and it must replicate as the host cell is replicated. Examination of infected tumors reveals that the majority have a clear monoclonal pattern, indicating that the virus integrated into a single cell before it began its cancerous expansion. For this reason, there is very strong evidence that MCV causes some, but not all, Merkel cell carcinomas. MCV can also be found in healthy tissues from people without Merkel cell carcinoma. A complete MCV genome (MCV-HF) was designed from multiple tumor-type MCV genomes and examined with successful replication capability in vitro. The identical sequences were found in human normal skins. While the precise prevalence of infection is unknown in humans, it is likely that most infections do not cause cancers.",
+            "score": 4.136749029159546
+        },
+        {
+            "docid": "42610544_8",
+            "document": "Patient derived xenograft . When implanted into immunodeficient mice, cell lines do not easily develop tumors and the result of any successfully grown tumor is a genetically divergent tumor unlike the heterogeneous patient tumor. Researchers are beginning to attribute the reason that only 5% of anti-cancer agents are approved by the Food and Drug Administration after pre-clinical testing to the lack of tumor heterogeneity and the absence of the human stromal microenvironment. Specifically, cell line-xenografts often are not predictive of the drug response in the primary tumors because cell lines do not follow pathways of drug resistance or the effects of the microenvironment on drug response found in human primary tumors.",
+            "score": 24.1701078414917
+        },
+        {
+            "docid": "211955_8",
+            "document": "Natural killer cell . Cytokines play a crucial role in NK cell activation. As these are stress molecules released by cells upon viral infection, they serve to signal to the NK cell the presence of viral pathogens in the affected area. Cytokines involved in NK activation include IL-12, IL-15, IL-18, IL-2, and CCL5. NK cells are activated in response to interferons or macrophage-derived cytokines. They serve to contain viral infections while the adaptive immune response generates antigen-specific cytotoxic T cells that can clear the infection. NK cells work to control viral infections by secreting IFN\u03b3 and TNF\u03b1. IFN\u03b3 activates macrophages for phagocytosis and lysis, and TNF\u03b1 acts to promote direct NK tumor cell killing. Patients deficient in NK cells prove to be highly susceptible to early phases of herpes virus infection.",
+            "score": 12.153698205947876
+        },
+        {
+            "docid": "39383381_9",
+            "document": "2-hydroxy-dATP diphosphatase . Eliminating the MTH1 gene in mice results in over three times more mice developing tumors compared to a control group. The enzyme\u2019s much-studied ability to sanitize a cell\u2019s nucleotide pool prevents it from developing mutations, including cancerous ones. Specifically, another study found that MTH1 inhibition in cancer cells leads to incorporation of 8-oxo-dGTP and other oxidatively damaged nucleotides into the cell\u2019s DNA, damaging it and causing cell death. However, cancer cells have also been shown to benefit from use of MTH1. Cells from malignant breast tumors exhibit extreme MTH1 expression compared to other human cells. Because a cancer cell divides much more rapidly than a normal human cell, it is far more in need of an enzyme like MTH1 that prevents fatal mutations during replication. This property of cancer cells could allow for monitoring of cancer treatment efficacy by measuring MTH1 expression. Development of suitable probes for this purpose is currently underway.",
+            "score": 10.493513107299805
+        },
+        {
+            "docid": "406929_8",
+            "document": "Virulence . They determine whether infection occurs and how severe the resulting viral disease symptoms are. Viruses often require receptor proteins on host cells to which they specifically bind. Typically, these host cell proteins are endocytosed and the bound virus then enters the host cell. Virulent viruses such as HIV, which causes AIDS, have mechanisms for evading host defenses. HIV infects T-Helper Cells, which leads to a reduction of the adaptive immune response of the host and eventually leads to an immunocompromised state. Death results from opportunistic infections secondary to disruption of the immune system caused by AIDS. Some viral virulence factors confer ability to replicate during the defensive inflammation responses of the host such as during virus-induced fever. Many viruses can exist inside a host for long periods during which little damage is done. Extremely virulent strains can eventually evolve by mutation and natural selection within the virus population inside a host. The term \"neurovirulent\" is used for viruses such as rabies and herpes simplex which can invade the nervous system and cause disease there.",
+            "score": 29.38150930404663
+        },
+        {
+            "docid": "15120_7",
+            "document": "Interferon . All interferons share several common effects: they are antiviral agents and they modulate functions of the immune system. Administration of Type I IFN has been shown experimentally to inhibit tumor growth in animals, but the beneficial action in human tumors has not been widely documented.  A virus-infected cell releases viral particles that can infect nearby cells. However, the infected cell can prepare neighboring cells against a potential infection by the virus by releasing interferons. In response to interferon, cells produce large amounts of an enzyme known as protein kinase R (PKR). This enzyme phosphorylates a protein known as eIF-2 in response to new viral infections; the phosphorylated eIF-2 forms an inactive complex with another protein, called eIF2B, to reduce protein synthesis within the cell. Another cellular enzyme, RNAse L\u2014also induced by interferon action\u2014destroys RNA within the cells to further reduce protein synthesis of both viral and host genes. Inhibited protein synthesis destroys both the virus and infected host cells. In addition, interferons induce production of hundreds of other proteins\u2014known collectively as interferon-stimulated genes (ISGs)\u2014that have roles in combating viruses and other actions produced by interferon. They also limit viral spread by increasing p53 activity, which kills virus-infected cells by promoting apoptosis. The effect of IFN on p53 is also linked to its protective role against certain cancers.",
+            "score": 19.142043352127075
+        }
+    ],
+    "r": [
+        {
+            "docid": "15025638_42",
+            "document": "Epithelioid sarcoma . While the CGTG-102 oncolytic adenovirus has shown efficacy as a single agent against several soft tissue sarcomas, it would also be appealing to use in combination with other regimes, as oncolytic viruses have demonstrated very little overlap in side effects with traditional therapies such as chemotherapy and radiation. CGTG-102 has recently been studied in combination with doxorubicin, and a synergistic effect was observed. At least part of doxorubicin\u2019s mechanism of action is as an inducer of immunogenic cell death, and it has been suggested that immune response contributes to its overall anti-tumor activity. Doxorubicin has been shown to increase adenoviral replication in soft tissue sarcoma cells as well, potentially contributing to the observed synergistic effect in the virus/doxorubicin combination.",
+            "score": 57.05492401123047
+        },
+        {
+            "docid": "49771479_5",
+            "document": "CGTG-102 . While the CGTG-102 oncolytic adenovirus has shown efficacy as a single agent against several soft tissue sarcomas, it would also be appealing to use in combination with other regimes, as oncolytic viruses have demonstrated very little overlap in side effects with traditional therapies such as chemotherapy and radiation. CGTG-102 has recently been studied in combination with doxorubicin, and a synergistic effect was observed. At least part of doxorubicin\u2019s mechanism of action is as an inducer of immunogenic cell death, and it has been suggested that immune response contributes to its overall anti-tumor activity. Doxorubicin has been shown to increase adenoviral replication in soft tissue sarcoma cells as well, potentially contributing to the observed synergistic effect in the virus/doxorubicin combination.",
+            "score": 57.05492401123047
+        },
+        {
+            "docid": "39032553_12",
+            "document": "Oncolytic adenovirus . Traditional research has focussed on species C Adenovirus serotype 5 (Ad5) for creating oncolytic vaccines for the potential use as cancer treatment. However, recent data suggests that it may not be the best virus serotype for deriving all oncolytic agents for treating human malignancies. For example, oncolytic vaccines based on the Ad5 serotype have relatively poor clinical efficacy as monotherapies. The need for increased potency (infectivity and lytic activity) has led to an expanded search involving a larger number of less well studied adenovirus serotypes.",
+            "score": 56.868343353271484
+        },
+        {
+            "docid": "1723667_3",
+            "document": "Oncolytic virus . The potential of viruses as anti-cancer agents was first realised in the early twentieth century, although coordinated research efforts did not begin until the 1960s.  A number of viruses including adenovirus, reovirus, measles, herpes simplex, Newcastle disease virus and vaccinia have now been clinically tested as oncolytic agents.  Most current oncolytic viruses are engineered for tumour selectivity, although there are naturally occurring examples such as reovirus and the senecavirus, resulting in clinical trials.",
+            "score": 55.81316375732422
+        },
+        {
+            "docid": "1661124_55",
+            "document": "Cancer immunotherapy . The potential of viruses as anti-cancer agents was first realized in the early twentieth century, although coordinated research efforts did not begin until the 1960s. A number of viruses including adenovirus, reovirus, measles, herpes simplex, Newcastle disease virus and vaccinia have now been clinically tested as oncolytic agents. T-Vec is the first FDA-approved oncolytic virus for the treatment of melanoma. A number of other oncolytic viruses are in Phase II-III development.",
+            "score": 53.54715347290039
+        },
+        {
+            "docid": "39150187_6",
+            "document": "Transgene SA . JX594/TG6006 (Pexa-Vec) is being tested in hepatocellular carcinoma (HCC) and is currently in Phase II trials. The engineered oncolytic vaccinia virus is armed with the immunostimulatory cytokine GM-CSF and is designed to selectively target and destroy cancer cells through three diverse mechanisms of action: lysis of cancer cells through viral replication, the reduction of the blood supply to tumors through vascular targeting and disruption, and the stimulation of the body's immune response against cancer cells. Results from a Phase II trial have been published in a February 2013 Nature Medicine article - \"Randomized dose-finding clinical trial of oncolytic immunotherapeutic vaccinia JX-594 in liver cancer.\" The peer reviewed article argued that: \"JX-594 demonstrated oncolytic and immunotherapy MOA, tumor responses and dose-related survival in individuals with HCC.\"",
+            "score": 53.25136184692383
+        },
+        {
+            "docid": "1723667_16",
+            "document": "Oncolytic virus . Many cases of spontaneous remission of cancer have been recorded, though not fully understood, they are thought likely to be a result of a sudden immune response or infection. Efforts to induce this phenomenon have used cancer vaccines (derived from cancer cells or selected cancer antigens), or direct treatment with immune-stimulating factors on skin cancers. Some oncolytic viruses are very immunogenic and may by infection of the tumour, elicit an anti-tumor immune response, especially viruses delivering cytokines or other immune stimulating factors.",
+            "score": 52.227806091308594
+        },
+        {
+            "docid": "1723667_29",
+            "document": "Oncolytic virus . Directed evolution was applied on human adenovirus, one of many viruses that are being developed as oncolytic agents, to create a highly selective and yet potent oncolytic vaccine. As a result of this process, ColoAd1 (a novel chimeric member of the group B adenoviruses) was generated. This hybrid of adenovirus serotypes Ad11p and Ad3 shows much higher potency and tumour selectivity than the control viruses (including Ad5, Ad11p and Ad3) and was confirmed to generate approximately two logs more viral progeny on freshly isolated human colon tumour tissue than on matching normal tissue.",
+            "score": 50.766719818115234
+        },
+        {
+            "docid": "47161560_2",
+            "document": "Genelux Corporation . Genelux Corporation is a privately held, biopharmaceutical clinical stage company that was founded in 2001. The main focus of Genelux is oncolytic immunotherapy based on attenuated, genetically engineered oncolytic viruses as therapeutic agent.",
+            "score": 48.894378662109375
+        },
+        {
+            "docid": "49771479_4",
+            "document": "CGTG-102 . The therapeutic potential of oncolytic virotherapy is not a simple consequence of the cytopathic effect but strongly relies on the induction of an endogenous immune response against transformed cells. Superior anticancer effects have been observed when oncolytic viruses are engineered to express (or be co-administered with) immunostimulatory molecules such as GM-CSF.",
+            "score": 47.46784591674805
+        },
+        {
+            "docid": "28902806_2",
+            "document": "Reolysin . REOLYSIN\u00ae (pelareorep; Wild-Type Reovirus; Serotype 3 Dearing; Oncolytics Biotech Inc.), is a proprietary isolate of the unmodified human reovirus (reovirus) being developed as a first-in-class systemically administered immuno-oncology viral agent for the treatment of solid tumors and hematological malignancies. REOLYSIN is classified as an oncolytic virus, a virus that preferentially lyses cancer cells. Based on both single-arm and randomized phase 2 clinical studies, REOLYSIN also promotes an inflamed tumor phenotype through innate and adaptive immune responses. Clinical trials have demonstrated that REOLYSIN may have activity across a variety of cancer types (including breast, colorectal and pancreatic, as well as multiple myeloma) when administered alone and in combination with other cancer therapies.",
+            "score": 47.453304290771484
+        },
+        {
+            "docid": "15025638_39",
+            "document": "Epithelioid sarcoma . It has been noted that the therapeutic potential of oncolytic virotherapy is not a simple consequence of the cytopathic effect but strongly relies on the induction of an endogenous immune response against transformed cells. Superior anticancer effects have been observed when oncolytic viruses are engineered to express (or be co-administered with) immunostimulatory molecules such as GM-CSF.",
+            "score": 46.91712951660156
+        },
+        {
+            "docid": "1723667_18",
+            "document": "Oncolytic virus . Vaccinia virus (VACV) is arguably the most successful live biotherapeutic agent because of its critical role in the eradication of smallpox, one of the most deadly diseases in human history. Long before the smallpox eradication campaign was launched, VACV was exploited as a therapeutic agent for the treatment of cancer. In 1922, Levaditi and Nicolau reported that VACV was able to inhibit the growth of various tumors in mice and rats. This was the first demonstration of viral oncolysis in the laboratory. This virus was subsequently shown to selectively infect and destroy tumor cells with great potency, while sparing normal cells, both in cell cultures and in animal models. Since vaccinia virus has long been recognized as an ideal backbone for vaccines due to its potent antigen presentation capability, this combines well with its natural oncolytic activities as an oncolytic virus for cancer immunotherapy.",
+            "score": 46.362586975097656
+        },
+        {
+            "docid": "51859568_5",
+            "document": "Akseli Hemminki . Akseli Hemminki\u2019s research focuses on cancer immunotherapy and especially on oncolytic adenoviruses. The goal of his research group is to create a new oncolytic adenovirus based treatment for cancers with no available curative treatment at the moment. The key finding of the group is that oncolytic viruses \u2013 besides lyse tumor cells by oncolysis \u2013 trigger immune response towards the tumor. Recently, Hemminki\u2019s group has focused on attempting to enable T-cell therapy of solid tumors with oncolytic adenoviruses. To facilitate setting up clinical trials Akseli Hemminki has founded two biotechnology companies: 2008 Oncos Therapeutics (merged with Targovax ASA in 2015) and 2013 TILT Biotherapeutics. Oncos completed the first oncolytic virus trial ever performed in Northern Europe in fall 2013. Over 300 patients have been treated with cancer drugs developed by Hemminki.",
+            "score": 46.19440841674805
+        },
+        {
+            "docid": "18202256_4",
+            "document": "John Cameron Bell . Bell is the co-founder and chief scientific officer of Jennerex, Inc., which is a biotech company in San Francisco that is producing oncolytic viruses as a new therapeutic technique to treat cancers. Early trials of this technique have been shown to be very effective in eliminating tumours, most notably so far OncoVEX GM-CSF (BioVex Inc, Woburn, MA) which is in Phase 3 clinical trials for melanoma. These viruses are thought to even provide immunity against certain types of cancer. It is hoped that these therapies will become a viable, and even more successful alternative to treatments such as chemotherapy, which are extremely physically demanding for patients.",
+            "score": 45.771339416503906
+        },
+        {
+            "docid": "1723667_10",
+            "document": "Oncolytic virus . With advances in cancer immunotherapy such as immune checkpoint inhibitors, increased attention has been given to using oncolytic viruses to increase antitumor immunity. There are two main considerations of the interaction between oncolytic viruses and the immune system.",
+            "score": 45.74102020263672
+        },
+        {
+            "docid": "1723667_12",
+            "document": "Oncolytic virus . Pre-existing immunity can be partly avoided by using viruses that are not common human pathogens. However, this does not avoid subsequent antibody generation. However, some studies have shown that pre-immunity to oncolytic viruses doesn't cause a significant reduction in efficacy.",
+            "score": 45.620574951171875
+        },
+        {
+            "docid": "951569_8",
+            "document": "Newcastle disease . Though the oncolytic effect of NDV was documented already in the 1950s, the main advances of viruses in cancer therapy came with the advent of reverse genetics technologies With these new possibilities, studies of modified NDV strains with enhanced cancer treatment properties have been put on the agenda. A study demonstrated the engineered Hitcher B1 NDV/F3aa strain could be modified to express a highly fusogenic F-protein in combination with immunostimulatory molecules such as IFN-gamma, interleukin 2 or tumor necrosis factor alpha. Promising results were discovered with proteins associated to the adaptive immune system, which paved the way for possibilities to use NDV to create a tumor-associated antigen. Another study showed how NDV/F3aa could be modified to express NS1, an influenza virus protein with capability to modulate with the innate immune response, for example, by suppressing the induction of the cellular interferons.",
+            "score": 45.577735900878906
+        },
+        {
+            "docid": "53649838_9",
+            "document": "Andrew Pecora . In 2002, Pecora was an investigator in a study of PV701, a virus that selectively attacks cancer cells. In the Phases 1 clinical trial, they found that intravenous administration of the oncolytic viruses led to inflammation of the tumor site that made it difficult to immediately determine effectiveness of the treatment. This false appearance of increase in cancer cells was confirmed by a later trial of the same oncolytic virus and also in Onyx 015, an oncolytic adenovirus. In describing the report authored by Pecora, Emily Bergsland and Alan Venook editorialized that",
+            "score": 45.56072998046875
+        },
+        {
+            "docid": "32653_19",
+            "document": "Vaccine . Some vaccines contain live, attenuated microorganisms. Many of these are active viruses that have been cultivated under conditions that disable their virulent properties, or that use closely related but less dangerous organisms to produce a broad immune response. Although most attenuated vaccines are viral, some are bacterial in nature. Examples include the viral diseases yellow fever, measles, mumps, and rubella, and the bacterial disease typhoid. The live \"Mycobacterium tuberculosis\" vaccine developed by Calmette and Gu\u00e9rin is not made of a contagious strain but contains a virulently modified strain called \"BCG\" used to elicit an immune response to the vaccine. The live attenuated vaccine containing strain \"Yersinia pestis\" EV is used for plague immunization. Attenuated vaccines have some advantages and disadvantages. They typically provoke more durable immunological responses and are the preferred type for healthy adults. But they may not be safe for use in immunocompromised individuals, and on rare occasions mutate to a virulent form and cause disease.",
+            "score": 44.97330093383789
+        },
+        {
+            "docid": "1723667_11",
+            "document": "Oncolytic virus . A major obstacle to the success of oncolytic viruses is the patient immune system which naturally attempts to deactivate any virus. This can be a particular problem for intravenous injection, where the virus must first survive interactions with the blood complement and neutralising antibodies. It has been shown that immunosuppression by chemotherapy and inhibition of the complement system can enhance oncolytic virus therapy.",
+            "score": 43.847103118896484
+        },
+        {
+            "docid": "1723667_39",
+            "document": "Oncolytic virus . It is in conjunction with conventional cancer therapies that oncolytic viruses have often showed the most promise, since combined therapies operate synergistically with no apparent negative effects.",
+            "score": 43.35023498535156
+        },
+        {
+            "docid": "793631_7",
+            "document": "Cancer vaccine . Another approach is to generate an immune response \"in situ\" in the patient using oncolytic viruses. This approach was used in the drug talimogene laherparepvec, a version of herpes simplex virus engineered to selectively replicate in tumor tissue and to express the immune stimulatory protein GM-CSF. This enhances the anti-tumor immune response to tumor antigens released following viral lysis and provides a patient-specific vaccine.",
+            "score": 43.18593978881836
+        },
+        {
+            "docid": "19167679_91",
+            "document": "Virus . Virotherapy involves the use of genetically modified viruses to treat diseases. Viruses have been modified by scientists to reproduce in cancer cells and destroy them but not infect healthy cells. Talimogene laherparepvec (T-VEC), for example, is a modified herpes simplex virus that has had a gene, which is required for viruses to replicate in healthy cells, deleted and replaced with a human gene (GM-CSF) that stimulates immunity. When this virus infects cancer cells, it destroys them and in doing so the presence the GM-CSF gene attracts dendritic cells from the surrounding tissues of the body. The dendritic cells process the dead cancer cells and present components of them to other cells of the immune system. Having completed successful clinical trials, this virus is expected to gain approval for the treatment of a skin cancer called melanoma in late 2015. Viruses that have been reprogrammed to kill cancer cells are called oncolytic viruses.",
+            "score": 42.8536376953125
+        },
+        {
+            "docid": "18803751_8",
+            "document": "C. J. Peters . Most of Peters' current work in the laboratory deals with Bunyaviridae (including the phylogeny of phleboviruses such as Rift Valley fever (RVF), Arenaviridae (Lassa fever, South American hemorrhagic fevers) and SARS CoV. He runs an active program of human and animal vaccine development for RVF using reverse genetics. He and his colleague Ilya Frolov are developing alphavirus replicon vectored RVF vaccines for use in livestock and ultimately in humans. His arenavirus research concentrates on the effects of infection on cellular function, particularly those molecular interactions related to vascular permeability. SARS-CoV work includes antiviral drug development, model characterization, and interferon interactions. The Galveston National Laboratory, a Biosafety Level 4 laboratory, opened in 2008 at the University of Texas Medical Branch to allow scientists there to work safely with any pathologic agent. Peters expects to transition some projects to higher hazard viral hemorrhagic fevers and to develop projects on other viruses such as tick-borne flaviviruses, highly virulent avian influenza strains, and Nipah virus, a new, highly virulent paramyxovirus.",
+            "score": 42.70366668701172
+        },
+        {
+            "docid": "39032553_17",
+            "document": "Oncolytic adenovirus . Patents for the therapeutic use of ONYX-015 are held by ONYX Pharmaceuticals and it was used in combination with the standard chemotherapeutic agents cisplatin and 5-fluorouracil to combat head and neck tumours. Onyx-015 has been extensively tested in clinical trials, with the data indicating that it is safe and selective for cancer. However, limited therapeutic effect has been demonstrated following injection and systemic spread of the virus was not detected. \"ONYX-015\" when combined with chemotherapy, however, proved reasonably effective in a proportion of cases. During these trials a plethora of reports emerged challenging the underlying p53-selectivity, with some reports showing that in some cancers with a wild-type p53 ONYX-015 actually did better than in their mutant p53 counterparts. These reports slowed the advancement through Phase III trials in the US, however recently China licensed \"ONYX-015\" for therapeutic use as \"H101\". Further development of Onyx-015 was abandoned in the early 2000s, the exclusive rights being licensed to the Chinese company, Shanghai Sunway Biotech. On November 17, 2005, the Chinese State Food and Drug Administration approved H101, an oncolytic adenovirus similar to Onyx-015 (E1B-55K/E3B-deleted), for use in combination with chemotherapy for the treatment of late-stage refractory nasopharyngeal cancer. Outside of China, the push to the clinic for \"ONYX-015\" has been largely been discontinued for financial reasons and until a \"real\" mechanism can be found.",
+            "score": 42.54316711425781
+        },
+        {
+            "docid": "4774419_30",
+            "document": "Herpes simplex virus . Herpes simplex virus is considered as a potential therapy for cancer and has been extensively clinically tested to assess its oncolytic (cancer killing) ability. Interim overall survival data from Amgen's phase 3 trial of a genetically-attenuated herpes virus suggests efficacy against melanoma.",
+            "score": 42.45726776123047
+        },
+        {
+            "docid": "4253583_9",
+            "document": "Orthoreovirus . One of the most relevant uses for the mammalian orthoreoviruses are the manipulation of their oncolytic properties for their use in cancer treatments. This particular use of reoviruses was discovered in 1995 by Dr Patrick Lee who discovered these viruses could kill those cells that contained an over-activated Ras pathway, often a hallmark of cancerous cells. These viruses are particularly ideal for these sort of therapies because they are self-limiting while simultaneously harnessing the ability to induce apoptosis in tumor cells exclusively. One of the more widely used strains for these anti-cancer clinical trials is the serotype 3 dearing strain, Resolysin, used in phase I-III trials. A variety of cancers have been treated with this therapy, either alone or in tandem with others, including multiple myeloma, ovarian epithelial, and pancreatic cancers. A recent clinical trial demonstrated that mammalian orthoreovirus was effective in inducing apoptosis in hypoxic prostate tumor cells with hopes of success in clinical trials.",
+            "score": 41.60741424560547
+        },
+        {
+            "docid": "18914017_77",
+            "document": "Alzheimer's disease . One area of clinical research is focused on treating the underlying disease pathology. Reduction of beta-amyloid levels is a common target of compounds (such as apomorphine) under investigation. Immunotherapy or vaccination for the amyloid protein is one treatment modality under study. Unlike preventative vaccination, the putative therapy would be used to treat people already diagnosed. It is based upon the concept of training the immune system to recognise, attack, and reverse deposition of amyloid, thereby altering the course of the disease. An example of such a vaccine under investigation was ACC-001, although the trials were suspended in 2008. Another similar agent is bapineuzumab, an antibody designed as identical to the naturally induced anti-amyloid antibody. However, immunotherapeutic agents have been found to cause some concerning adverse drug reactions, such as amyloid-related imaging abnormalities. Other approaches are neuroprotective agents, such as AL-108, and metal-protein interaction attenuation agents, such as PBT2. A TNF\u03b1 receptor-blocking fusion protein, etanercept has showed encouraging results.",
+            "score": 41.60643005371094
+        },
+        {
+            "docid": "1723667_8",
+            "document": "Oncolytic virus . Other oncolytic viruses based on HSV have also been developed and are in clinical trials. One that has been approved by the FDA for advanced melanoma is Amgen's talimogene laherparepvec.",
+            "score": 40.992164611816406
+        },
+        {
+            "docid": "716631_110",
+            "document": "Melanoma . In some countries oncolytic virotherapy methods are studied and used to treat melanoma. Oncolytic virotherapy is a promising branch of virotherapy, where oncolytic viruses are used to treat diseases; viruses can increase metabolism, reduce anti-tumor immunity and disorganize vasculature. Talimogene laherparepvec (T-VEC) (which is a herpes simplex virus type 1\u2013derived oncolytic immunotherapy), was shown to be useful against metastatic melanoma in 2015 with an increased survival of 4.4 months.",
+            "score": 40.86231231689453
+        },
+        {
+            "docid": "1661124_34",
+            "document": "Cancer immunotherapy . Combining checkpoint immunotherapies with pharmaceutical agents has the potential to improve response, and such combination therapies are a highly investigated area of clinical investigation. Immunostimulatory drugs such as CSF-1R inhibitors and TLR agonists have been particularly effective in this setting.",
+            "score": 40.666133880615234
+        }
+    ]
+}

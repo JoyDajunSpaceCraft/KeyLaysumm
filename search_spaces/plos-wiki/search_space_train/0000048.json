@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "34420_88",
+            "document": "Zinc . In the brain, zinc is stored in specific synaptic vesicles by glutamatergic neurons and can modulate neuronal excitability. It plays a key role in synaptic plasticity and so in learning. Zinc homeostasis also plays a critical role in the functional regulation of the central nervous system. Dysregulation of zinc homeostasis in the central nervous system that results in excessive synaptic zinc concentrations is believed to induce neurotoxicity through mitochondrial oxidative stress (e.g., by disrupting certain enzymes involved in the electron transport chain, including complex I, complex III, and \u03b1-ketoglutarate dehydrogenase), the dysregulation of calcium homeostasis, glutamatergic neuronal excitotoxicity, and interference with intraneuronal signal transduction. L- and D-histidine facilitate brain zinc uptake. SLC30A3 is the primary zinc transporter involved in cerebral zinc homeostasis.",
+            "score": 50.96454477310181
+        },
+        {
+            "docid": "88078_19",
+            "document": "Prostate cancer . The prostate is a zinc-accumulating, citrate-producing organ. The protein ZIP1 is responsible for the active transport of zinc into prostate cells. One of the zinc's important roles is to change the metabolism of the cell in order to produce citrate, an important component of semen. The process of zinc accumulation, alteration of metabolism, and citrate production is energy inefficient, and prostate cells sacrifice enormous amounts of energy (ATP) in order to accomplish this task. Prostate cancer cells are generally devoid of zinc. This allows prostate cancer cells to save energy not making citrate, and utilize the new abundance of energy to grow and spread. The absence of zinc is thought to occur via a silencing of the gene that produces the transporter protein ZIP1. ZIP1 is now called a tumor suppressor gene product for the gene SLC39A1. The cause of the epigenetic silencing is unknown. Strategies which transport zinc into transformed prostate cells effectively eliminate these cells in animals. Zinc inhibits NF-\u03baB pathways, is anti-proliferative and induces apoptosis in abnormal cells. Unfortunately, oral ingestion of zinc is ineffective since high concentrations of zinc into prostate cells is not possible without the active transporter, ZIP1.",
+            "score": 60.70778441429138
+        },
+        {
+            "docid": "43799554_3",
+            "document": "Zinc finger protein 516 . Zinc-finger proteins bind nucleic acids and play important roles in various cellular functions, including cell proliferation, differentiation, and apoptosis. This gene encodes a zinc-finger protein, and belongs to the Kr\u00fcppel C2H2-type zinc-finger protein family. It may be involved in transcriptional regulation.",
+            "score": 43.463223934173584
+        },
+        {
+            "docid": "54311533_2",
+            "document": "Zinc transporter protein . Zinc transporter proteins (Zrt), or simply zinc transporters, are membrane transport proteins of the solute carrier family which control the membrane transport of zinc and regulate its intracellular and cytoplasmic concentrations. They include two major groups: (1) the zinc transporter (ZnT) or solute carrier 30 (SLC30) family, which controls the efflux of zinc from the cytoplasm out of the cell and from the cytoplasm into vesicles; and (2) the zinc importer, Zrt- and Irt-like protein (ZIP), or solute carrier 39A (SLC39A) family, which controls the influx of zinc into the cytoplasm from outside the cell and from vesicles.",
+            "score": 44.103692054748535
+        },
+        {
+            "docid": "276462_18",
+            "document": "Metallothionein . Metallothioneins likely participate in the uptake, transport, and regulation of zinc in biological systems. Mammalian MT binds three Zn(II) ions in its beta domain and four in the alpha domain. Cysteine is a sulfur-containing amino acid, hence the name \"-thionein\". However, the participation of inorganic sulfide and chloride ions has been proposed for some MT forms. In some MTs, mostly bacterial, histidine participates in zinc binding. By binding and releasing zinc, metallothioneins (MTs) may regulate zinc levels within the body. Zinc, in turn, is a key element for the activation and binding of certain transcription factors through its participation in the zinc finger region of the protein. Metallothionein also carries zinc ions (signals) from one part of the cell to another. When zinc enters a cell, it can be picked up by thionein (which thus becomes \"metallothionein\") and carried to another part of the cell where it is released to another organelle or protein. In this way the thionein-metallothionein becomes a key component of the zinc signaling system in cells. This system is particularly important in the brain, where zinc signaling is prominent both between and within nerve cells. It also seems to be important for the regulation of the tumor suppressor protein p53.",
+            "score": 42.97450256347656
+        },
+        {
+            "docid": "1498669_2",
+            "document": "Zinc finger inhibitor . Zinc finger inhibitors, or zinc ejectors, are substances or compounds that interact adversely with zinc fingers and cause them to release their zinc from its binding site, disrupting the conformation of the polypeptide chain and rendering the zinc fingers ineffective, thereby preventing them from performing their associated cellular functions. This is typically accomplished through chelation of the zinc binding site. As zinc fingers are known to be involved in m-RNA regulation, reverse transcription, protection of synthesized viral DNA, transcription inhibition, and initial integration processes, prevention of zinc finger function can have drastic effects on the function of the cell or virus.",
+            "score": 51.773895502090454
+        },
+        {
+            "docid": "49359017_2",
+            "document": "Zinc uptake regulator . The zinc uptake regulator (Zur) gene is a bacterial gene that codes for a transcription factor protein involved in zinc homeostasis. The protein is a member of the ferric uptake regulator family and binds zinc with high affinity. It typically functions as a repressor of zinc uptake proteins via binding to characteristic promoter DNA sequences in a dimer-of-dimers arrangement that creates strong cooperativity. Under conditions of zinc deficiency, the protein undergoes a conformational change that prevents DNA binding, thereby lifting the repression and causing zinc uptake genes such as ZinT and the ZnuABC zinc transporter to be expressed.",
+            "score": 48.993454933166504
+        },
+        {
+            "docid": "5170699_3",
+            "document": "Kruppel-like factors . KLFs are a family of transcription factors that contain three carboxyl-terminal (C-terminal) C2H2-type zinc finger structural motifs that bind to the GC-rich regions in DNA and regulate various cellular functions, such as proliferation, differentiation, and apoptosis, as well as the development and homeostasis of several types of tissue. The C-terminal end binds to the promoter and enhancer regions of a gene. Each KLF also has a unique amino-terminal (N-terminal) end that acts as the functional domain that allows it to bind specifically to a certain partner. KLFs share the similar function of transcription regulation via the recruitment of regulatory proteins. These transcription factors have a conserved structural homology between mammal species, which allow for similar function due to similar protein interaction motifs at the N-terminal domains. The C-terminal end is also highly conserved with both the first and second zinc finger have 25 amino acids, while the third has 23 amino acids. Each of the three zinc fingers recognize three unique base pairs for their DNA-binding sites, which together make the general form NCR CRC CCN (where N is any base and R is a purine). There is some evidence that positively-charged amino acids within the three zinc fingers may contribute towards localizing the protein in the Nucleus. The N-terminal end allows for the binding of various coactivators, corepressors, and modifiers.",
+            "score": 40.8124566078186
+        },
+        {
+            "docid": "1498669_13",
+            "document": "Zinc finger inhibitor . There was concern over whether these zinc ejectors were safe to use due to the uncertainty as to whether the zinc ejectors had sufficient selectivity to target only the CCHC binding sites of the zinc fingers in NCp7. Zinc finger domains are not unique to HIV but rather are ubiquitous in cell biology, and play important roles in many processes such as cellular replication, protein-protein interactions, and DNA replication. If these zinc ejectors unintentionally bind to the wrong zinc finger domains they have the potential to adversely affect other cellular functions that could be essential for proper bodily functions.",
+            "score": 50.885552644729614
+        },
+        {
+            "docid": "13926095_26",
+            "document": "Zinc deficiency . In its catalytic role, zinc is a critical component of the catalytic site of hundreds of kinds of different metalloenzymes in each human being. In its structural role, zinc coordinates with certain protein domains, facilitating protein folding and producing structures such as \u2018zinc fingers\u2019. In its regulatory role, zinc is involved in the regulation of nucleoproteins and the activity of various inflammatory cells. For example, zinc regulates the expression of metallothionein, which has multiple functions, such as intracellular zinc compartmentalization and antioxidant function. Thus zinc deficiency results in disruption of hundreds of metabolic pathways, causing numerous clinical manifestations, including impaired growth and development, and disruption of reproductive and immune function.",
+            "score": 53.61157417297363
+        },
+        {
+            "docid": "34420_87",
+            "document": "Zinc . In humans, the biological roles of zinc are ubiquitous. It interacts with \"a wide range of organic ligands\", and has roles in the metabolism of RNA and DNA, signal transduction, and gene expression. It also regulates apoptosis. A 2006 study estimated that about 10% of human proteins (2800) potentially bind zinc, in addition to hundreds more that transport and traffic zinc; a similar \"in silico\" study in the plant \"Arabidopsis thaliana\" found 2367 zinc-related proteins.",
+            "score": 46.38251328468323
+        },
+        {
+            "docid": "53663778_3",
+            "document": "Zinc finger protein 717 . This gene encodes a Kruppel-associated box (KRAB) zinc-finger protein, which belongs to a large group of transcriptional regulators in mammals. These proteins bind nucleic acids and play important roles in various cellular functions, including cell proliferation, differentiation and apoptosis, and in regulating viral replication and transcription. A pseudogene of this gene was identified on chromosome 1.",
+            "score": 38.37096047401428
+        },
+        {
+            "docid": "54311175_3",
+            "document": "ZIP9 . Mammalian cells have two major groups of zinc transporter proteins; the ones that export zinc from the cytoplasm to the extracellular space (efflux), which are called ZnT (SLC30 family) , and ZIP (SLC39 family) proteins whose functions are in the opposite direction (influx). ZIP family proteins are named as Zrt- and Irt-like proteins because of their similarities to Zrt and Irt proteins which are respectively zinc and iron -regulated transporter proteins in yeast and Arabidopsis that were discovered earlier than ZIP and ZnT proteins. ZIP family is consisted of four subfamilies (I, II, LIV-1, and gufA), and ZIP9 is the only member of subfamily I.",
+            "score": 45.05536723136902
+        },
+        {
+            "docid": "54311175_9",
+            "document": "ZIP9 . Zinc homeostasis is very important in human health, because zinc is present in the structure of some proteins like zinc-dependent metalloenzymes and zinc-finger-containing transcriptional factors. In addition, zinc is involved in signalling for cell growth, proliferation, division and apoptosis. As a result, any dysfunction of zinc transporter proteins can be harmful for the cells, and some of them are associated with different cancers, diabetes and inflammation. For instance, through activation of ZIP9, testosterone has been found to increase intracellular zinc levels in breast cancer, prostate cancer, and ovarian follicle cells and to induce apoptosis in these cells, an action which may be mediated partially or fully by increased zinc concentrations.",
+            "score": 61.30451512336731
+        },
+        {
+            "docid": "55216186_9",
+            "document": "Catecholamines up . Catsup gene encodes \"Drosophila\" ortholog to ZIP7 zinc transporter protein in mammals, which controls zinc homeostasis and maintains concentrations of free zinc low in cells. Zinc transporters allow zinc transport into the cytoplasm of the cell, and disruptions to zinc transporters can lead to neurodevelopmental damages.",
+            "score": 46.9172899723053
+        },
+        {
+            "docid": "54136821_3",
+            "document": "TPEN . In addition to a heavy metal chelator, TPEN is also known to be an inducer of apoptosis., thus it may be toxic to cells. One study showed that depletion of zinc by TPEN induced apoptosis in liver cells of rats. This may be because zinc is necessary for normal functioning of the body; for example, zinc acts as a cofactor for enzymes such as insulin-degrading enzyme. Zinc deficiency symptoms include growth and development problems, hair loss, diarrhea, loss of appetite, and more. One study showed that TPEN induces translocation of cytochrome c from the mitochondria to the cytosol in human peripheral blood T lymphocytes. This leads to the activation of caspases-3, -8, and -9. When these T lymphocytes were pretreated with caspase inhibitors, DNA fragmentation (an indicator of apoptosis) was prevented. This suggests that apoptosis that is triggered by zinc deficiency is dependent on caspase proteins. Similar results were shown in rat and human thymocytes when TPEN was used. TPEN is also shown to induce apoptosis in K562 cells, and high doses (120\u2009\u03bcM) of zinc result in microglial cell death. One study examined the requirement for p53, a tumor suppressor protein, as an upstream transcription factor in TPEN-induced neuronal apoptosis, and found that depletion of intracellular zinc with TPEN induces apoptosis. Additionally, the same study found that TPEN increased the expression of pro-apoptotic genes and led to the activation of caspase-11, a mammalian protease. These results suggest that the p53 tumor suppressor protein may play a role in regulating TPEN-induced neuronal apoptosis. Although these studies found that TPEN induces apoptosis, another study found that TPEN inhibits sodium dithionite and glucose deprivation (SDGD)-Induced neuronal death by modulating apoptosis.",
+            "score": 58.07762145996094
+        },
+        {
+            "docid": "14151028_9",
+            "document": "HIPK2 . HIPK2 has two major functions. It acts as a co-repressor for NK homeodomain transcription factors, increasing their DNA binding affinity and their repressive effect on transcription. HIPK2 participates in the regulation of gene expression through its contribution to regulating homeobox genes.These genes encode transcription factors that act to regulate target genes. HIPK2 also acts in signal transduction, specifically the pathway leading to programmed cell death (apoptosis). HIPK2 can promote apoptosis either in association with p53 or by a separate mechanism. HIPK2 phosphorylates the S46 residue of p53, leading to its activation, which in turn leads to the transcription of factors that induce apoptosis. Phosphorylation of p53 by HIPK2 prevents the association of negative regulator Mdm2 to p53 and is necessary for the acetylation of the K382 residue in p53, which also serves as a functionally important modification. Proper folding of p53 is essential for p53 function. The folding of p53 depends on the presence of zinc , and HIPK2 plays a role in zinc regulation. Consequently, the absence of HIPK2 leads to p53 misfolding. HIPK2 indirectly enhances p53 activity by phosphorylating negative regulators of p53, such as CtBP1 and Mdm2, leading to their degradation by the proteasome. HIPK2 also has the ability to regulate cellular response to reactive oxygen species by regulating the expression of both oxidant and antioxidant genes.",
+            "score": 43.36858797073364
+        },
+        {
+            "docid": "36741029_3",
+            "document": "SLC30A3 . The SLC30A3 gene codes for the ZnT-3 SLC30A family membrane transport protein. ZnT-3 is required for the accumulation of zinc ions inside synaptic vesicles. In mice, ZnT-3 is required for some forms of memory that depend on the hippocampus and the amygdala. Zinc transport by ZnT-3 modulates memory formation by acting through the extracellular signal-regulated kinases signaling pathway. Angiotensin II-induced senescence of vascular smooth muscle cells requires down-regulation of ZnT-3 and ZnT-10.",
+            "score": 39.66235828399658
+        },
+        {
+            "docid": "31781295_24",
+            "document": "Geir Bj\u00f8rklund . The evidence from the research by Bj\u00f8rklund and collaborators suggest that providing zinc to autistic children may be an important component of a treatment protocol, especially in children with zinc deficiency. Mercury accumulation may occur as a cause or consequence of metallothionein dysfunction in autistic children, which may be one of the causes of zinc deficiency. Metallothioneins are proteins with important functions in metal metabolism and protection. It is important to monitor and follow the values for both copper and zinc together during zinc therapy, because these two trace elements are both antagonists in function, and essential for living cells.",
+            "score": 53.78157043457031
+        },
+        {
+            "docid": "4040188_7",
+            "document": "Hyperaccumulator . In one study on \"Arabidopsis\", it was found that the metallophyte \"A. halleri\" expressed a member of the ZIP family that was not expressed in a non-metallophytic sister species. This gene was an iron regulated transporter (IRT-protein) that encoded several primary transporters involved with cellular uptake of cations above the concentration gradient. When this gene was transformed into yeast, hyperaccumulation was observed. This suggests that overexpression of ZIP family genes that encode cation transporters is a characteristic genetic feature of hyperaccumulation.  Another gene family that has been observed ubiquitously in hyperaccumulators are the ZTP and ZNT families. A study on T. caerulescens identified the ZTP family as a plant specific family with high sequence similarity to other zinc transporter4. Both the ZTP and ZNT families, like the ZIP family, are zinc transporters. It has been observed in hyperaccumulating species, that these genes, specifically ZNT1 and ZNT2 alleles are chronically overexpressed.",
+            "score": 75.62589693069458
+        },
+        {
+            "docid": "411673_28",
+            "document": "Candida albicans . Zinc (Zn2+) is important for cell function of \"Candida albicans\" and Zap1 controls the Zinc levels in the cells through the zinc transporters ZRT1 and ZRT2. The regulation of zinc concentration in the cells is important for the cell viability and if the zinc levels get too high, it is toxic for the cells. The ZRT1 is transporting the zinc ions with high affinity and the ZRT2 is transporting the zinc ions with low affinity.",
+            "score": 70.06494045257568
+        },
+        {
+            "docid": "47425676_3",
+            "document": "Zinc finger protein 266 . This gene encodes a protein containing many tandem zinc-finger motifs. Zinc fingers are protein or nucleic acid-binding domains, and may be involved in a variety of functions, including regulation of transcription. This gene is located in a cluster of similar genes encoding zinc finger proteins on chromosome 19. Alternative splicing results in multiple transcript variants for this gene.",
+            "score": 46.39313220977783
+        },
+        {
+            "docid": "234129_6",
+            "document": "Zinc finger . The crystal structures of zinc finger-DNA complexes solved in 1991 and 1993 revealed the canonical pattern of interactions of zinc fingers with DNA. The binding of zinc finger is found to be distinct from many other DNA-binding proteins that bind DNA through the 2-fold symmetry of the double helix, instead zinc fingers are linked linearly in tandem to bind nucleic acid sequences of varying lengths. Zinc fingers often bind to a sequence of DNA known as the GC box. The modular nature of the zinc finger motif allows for a large number of combinations of DNA and RNA sequences to be bound with high degree of affinity and specificity, and is therefore ideally suited for engineering protein that can be targeted to and bind specific DNA sequences. In 1994, it was shown that an artificially-constructed three-finger protein can block the expression of an oncogene in a mouse cell line. Zinc fingers fused to various other effector domains, some with therapeutic significance, have since been constructed.",
+            "score": 42.9607138633728
+        },
+        {
+            "docid": "14761935_5",
+            "document": "KLF2 . The main distinguishing feature of the KLF family is the presence of three highly conserved Cysteine/Histidine zinc fingers of either 21 or 23 amino acid residues in length, located at the C-terminus of the protein. These amino acid sequences each chelate a single zinc ion, coordinated between the two cysteine and two histidine residues. These zinc fingers are joined by a conserved seven-amino acid sequence; TGEKP(Y/F)X. The zinc fingers enable all KLF proteins to bind to CACCC gene promoters, so although they may complete varied functions (due to lack of homology away from the zinc fingers), they all recognize similar binding domains.",
+            "score": 38.53951644897461
+        },
+        {
+            "docid": "6330972_23",
+            "document": "Therapeutic gene modulation . Effector domains bound to the zinc-finger can also have comparable effects. It is the function of these effector domains which are arguably the most important with respect to the use of designer zinc-finger proteins for therapeutic gene modulation. If a methylase domain is bound to the designer zinc-finger protein, when the zinc-finger protein binds to the target DNA sequence an increase in methylation state of DNA in that region will subsequently result. Transcription rates of genes so-affected will be reduced. Many of the effector domains function to modulate either the DNA directly - e.g. via methylation, cleaving, or recombination of the target DNA sequence - or by modulating its transcription rate - e.g. inhibiting transcription via repressor domains that block transcriptional machinery, promoting transcription with activation domains that recruit transcriptional machinery to the site, or histone- or other epigenetic-modification domains that affect chromatin state and the ability of transcriptional machinery to access the affected genes. Epigenetic modification is a major theme in determining varying expression levels for genes, as explained by the idea that how tightly-wound the DNA strand is - from histones at the local level up to chromatin at the chromosomal level - can influence the accessibility of sequences of DNA to transcription machinery, thereby influencing the rate at which it can be transcribed. If, instead of impacting the DNA strand directly, as described above, a designer zinc-finger protein instead affects epigenetic modification state for a target DNA region, modulation of gene expression could similarly be accomplished. In the first case to successfully demonstrate the use of designer zinc-finger proteins to modulate gene expression in vivo, Choo \"et al\" designed a protein consisting of three zinc-finger domains that targeted a specific sequence on a BCR-ABL fusion oncogene. This specific oncogene is implicated in acute lymphoblastic leukemia. The oncogene typically enables leukemia cells to proliferate in the absence of specific growth factors, a hallmark of cancer. By including a nuclear localization signal with the tri-domain zinc-finger protein in order to facilitate binding of the protein to genomic DNA in the nucleus, Choo \"et al\" were able to demonstrate that their engineered protein could block transcription of the oncogene in vivo. Leukemia cells became dependent on regular growth factors, bringing the cell cycle back under the control of normal regulation.",
+            "score": 46.347683906555176
+        },
+        {
+            "docid": "49263113_3",
+            "document": "Zinc finger protein 180 . Zinc finger proteins have been shown to interact with nucleic acids and to have diverse functions. The zinc finger domain is a conserved amino acid sequence motif containing two specifically positioned cysteines and two histidines that are involved in coordinating zinc. Kruppel-related proteins form one family of zinc finger proteins. See MIM 604749 for additional information on zinc finger proteins.",
+            "score": 37.710384368896484
+        },
+        {
+            "docid": "1498669_6",
+            "document": "Zinc finger inhibitor . NCp7 is a 55-amino acid protein that is highly basic and consists of two gag-knuckle motifs. These motifs contain two peptide units of Cys-X2-Cys-X4-His-X4-Cys (CCHC), where the X represents a substituted amino acid, that make up the zinc (II) ion binding sites. The binding of zinc (II) in the CCHC binding site is necessary for the domain to be functional and for the stabilization of the conformation of the structure, allowing the NCp7 to carry out the processes required for HIV replication. Since the CCHC binding site is mutation resistant and involved in the replication of HIV-1, it makes a prime candidate for the prevention of HIV through zinc ejectors. By inhibiting the function of NCp7, the viral replication is affected and a non-functional virus that is unable to infect its host is produced.",
+            "score": 44.561976194381714
+        },
+        {
+            "docid": "16852638_5",
+            "document": "SUHW4 . The ZNF280D protein is 979 amino acids in length. The protein contains a domain of unknown function (DUF4195) spanning from amino acid 45 to amino acid 230. DUF4195 (pfam13826) is a family that is found at the N-terminus of metazoan proteins that carry PHD-like zinc-finger domains; the function is unknown. ZNF280D protein also contains five highly conserved Cys2His2-type zinc finger domains. Zinc fingers have the ability to bind DNA, which supports the speculative role of ZNF280D as a transcription factor. The protein has a weight of approximately 109.3 kdal. Charge cluster analysis reveals a negative charge cluster near the N-terminus from amino acids 16-43. Charge clusters are associated with functional domains of cellular transcription factors, providing further support for ZNF280D as a possible transcription factor.",
+            "score": 39.99933934211731
+        },
+        {
+            "docid": "1132820_31",
+            "document": "Cat food . Zinc's connection to skin and coat health is due to its influence on regulating cellular metabolism. Zinc also supports proper immune function and suitable activity within the inflammatory response. Deficiencies result in disorders of the skin and poor immune functioning. When zinc is supplemented in diets, skin scaliness was decreased. Dietary sources include poultry, red meat, and eggs.",
+            "score": 44.025075912475586
+        },
+        {
+            "docid": "34420_96",
+            "document": "Zinc . The human dopamine transporter contains a high affinity extracellular zinc binding site which, upon zinc binding, inhibits dopamine reuptake and amplifies amphetamine-induced dopamine efflux \"in vitro\". The human serotonin transporter and norepinephrine transporter do not contain zinc binding sites.",
+            "score": 55.952229499816895
+        },
+        {
+            "docid": "13926095_25",
+            "document": "Zinc deficiency . As biosystems are unable to store zinc, regular intake is necessary. Excessively low zinc intake can lead to zinc deficiency, which can negatively impact an individual's health. The mechanisms for the clinical manifestations of zinc deficiency are best appreciated by recognizing that zinc functions in the body in three areas: catalytic, structural, and regulatory. Zinc (Zn) is only common in its +2 oxidative state, where it typically coordinates with tetrahedral geometry. It is important in maintaining basic cellular functions such as DNA replication, RNA transcription, cell division and cell activations. However, having too much or too little zinc can cause these functions to be compromised.",
+            "score": 49.61797308921814
+        },
+        {
+            "docid": "49911590_3",
+            "document": "Zinc finger protein 101 . Zinc finger proteins (ZNFs), such as ZNF101, bind nucleic acids and perform many key functions, the most important of which is regulating transcription (summary by Bellefroid et al., 1993 [PubMed 8467795]). See ZNF91 (MIM 603971) for general information on ZNFs.",
+            "score": 36.812631607055664
+        }
+    ],
+    "r": [
+        {
+            "docid": "54311533_4",
+            "document": "Zinc transporter protein . ZnT1, ZnT2, ZnT3, ZnT4, ZnT5, ZnT6, ZnT7, ZnT8, ZnT9, ZnT10",
+            "score": 87.1271743774414
+        },
+        {
+            "docid": "35049854_3",
+            "document": "Cation diffusion facilitator . The CDF family (TC# 2.A.4) is a ubiquitous family, members of which are found in bacteria, archaea and eukaryotes. They transport heavy metal ions, such as cadmium, zinc, cobalt, nickel, copper and mercuric ions. There are 9 mammalian paralogues, ZnT1 - 8 and 10. Most proteins from the family have six transmembrane helices, but MSC2 of \"S. cerevisiae\") and Znt5 and hZTL1 of \"H. sapiens\" have 15 and 12 predicted TMSs, respectively. These proteins exhibit an unusual degree of sequence divergence and size variation (300-750 residues). Eukaryotic proteins exhibit differences in cell localization. Some catalyze heavy metal uptake from the cytoplasm into various intracellular eukaryotic organelles (ZnT2-7) while others (ZnT1) catalyze efflux from the cytoplasm across the plasma membrane into the extracellular medium. Thus, some are found in plasma membranes while others are in organellar membranes such as vacuoles of plants and yeast and the golgi of animals. They catalyze cation:proton antiport, have a single essential zinc-binding site within the transmembrane domains of each monomer within the dimer, and have a binuclear zinc-sensing and binding site in the cytoplamsic C-terminal region. A representative list of proteins belonging to the CDF family can be found in the Transporter Classification Database.",
+            "score": 76.51754760742188
+        },
+        {
+            "docid": "4040188_7",
+            "document": "Hyperaccumulator . In one study on \"Arabidopsis\", it was found that the metallophyte \"A. halleri\" expressed a member of the ZIP family that was not expressed in a non-metallophytic sister species. This gene was an iron regulated transporter (IRT-protein) that encoded several primary transporters involved with cellular uptake of cations above the concentration gradient. When this gene was transformed into yeast, hyperaccumulation was observed. This suggests that overexpression of ZIP family genes that encode cation transporters is a characteristic genetic feature of hyperaccumulation.  Another gene family that has been observed ubiquitously in hyperaccumulators are the ZTP and ZNT families. A study on T. caerulescens identified the ZTP family as a plant specific family with high sequence similarity to other zinc transporter4. Both the ZTP and ZNT families, like the ZIP family, are zinc transporters. It has been observed in hyperaccumulating species, that these genes, specifically ZNT1 and ZNT2 alleles are chronically overexpressed.",
+            "score": 75.62590026855469
+        },
+        {
+            "docid": "411673_28",
+            "document": "Candida albicans . Zinc (Zn2+) is important for cell function of \"Candida albicans\" and Zap1 controls the Zinc levels in the cells through the zinc transporters ZRT1 and ZRT2. The regulation of zinc concentration in the cells is important for the cell viability and if the zinc levels get too high, it is toxic for the cells. The ZRT1 is transporting the zinc ions with high affinity and the ZRT2 is transporting the zinc ions with low affinity.",
+            "score": 70.06494140625
+        },
+        {
+            "docid": "749852_9",
+            "document": "Continuation-passing style . In this section we will write a function that calculates hypotenuse using Pythagorean theorem. Traditional codice_11 function looks like this: To transform traditional function to CPS one we need to change its signature. Function will get another argument of function type and its return type depends on that function: First we calculate square of \"a\" in codice_12 function and pass lambda function as a continuation which will accept a square of \"a\" as a first argument. And so on until we reach the result of our calculations. To get the result of this function we can pass codice_13 function as a final argument which returns the value that was passed to it unchanged: codice_14.",
+            "score": 61.823856353759766
+        },
+        {
+            "docid": "54311175_9",
+            "document": "ZIP9 . Zinc homeostasis is very important in human health, because zinc is present in the structure of some proteins like zinc-dependent metalloenzymes and zinc-finger-containing transcriptional factors. In addition, zinc is involved in signalling for cell growth, proliferation, division and apoptosis. As a result, any dysfunction of zinc transporter proteins can be harmful for the cells, and some of them are associated with different cancers, diabetes and inflammation. For instance, through activation of ZIP9, testosterone has been found to increase intracellular zinc levels in breast cancer, prostate cancer, and ovarian follicle cells and to induce apoptosis in these cells, an action which may be mediated partially or fully by increased zinc concentrations.",
+            "score": 61.30451583862305
+        },
+        {
+            "docid": "88078_19",
+            "document": "Prostate cancer . The prostate is a zinc-accumulating, citrate-producing organ. The protein ZIP1 is responsible for the active transport of zinc into prostate cells. One of the zinc's important roles is to change the metabolism of the cell in order to produce citrate, an important component of semen. The process of zinc accumulation, alteration of metabolism, and citrate production is energy inefficient, and prostate cells sacrifice enormous amounts of energy (ATP) in order to accomplish this task. Prostate cancer cells are generally devoid of zinc. This allows prostate cancer cells to save energy not making citrate, and utilize the new abundance of energy to grow and spread. The absence of zinc is thought to occur via a silencing of the gene that produces the transporter protein ZIP1. ZIP1 is now called a tumor suppressor gene product for the gene SLC39A1. The cause of the epigenetic silencing is unknown. Strategies which transport zinc into transformed prostate cells effectively eliminate these cells in animals. Zinc inhibits NF-\u03baB pathways, is anti-proliferative and induces apoptosis in abnormal cells. Unfortunately, oral ingestion of zinc is ineffective since high concentrations of zinc into prostate cells is not possible without the active transporter, ZIP1.",
+            "score": 60.707786560058594
+        },
+        {
+            "docid": "33110155_3",
+            "document": "HVCN1 . Voltage-gated hydrogen channel 1 is a voltage-gated proton channel that has been shown to allow proton transport into phagosomes and out of many types of cells including spermatozoa, electrically excitable cells and respiratory epithelial cells. The proton-conducting HVCN1 channel has only transmembrane domains corresponding to the S1-S4 voltage sensing domains (VSD) of voltage-gated potassium channels and voltage-gated sodium channels. Molecular simulation is consistent with a water-filled pore that can function as a \"water wire\" for allowing hydrogen bonded H to cross the membrane. However, mutation of Asp112 in human Hv1 results in anion permeation, suggesting that obligatory protonation of Asp produces proton selectivity. Quantum mechanical calculations show that the Asp-Arg interaction can produce proton selective permeation. The HVCN1 protein has been shown to exist as a dimer with two functioning pores. Like other VSD channels, HVCN1 channels conduct ions about 1000-fold slower than channels formed by tetrameric S5-S6 central pores.",
+            "score": 58.96997833251953
+        },
+        {
+            "docid": "54136821_3",
+            "document": "TPEN . In addition to a heavy metal chelator, TPEN is also known to be an inducer of apoptosis., thus it may be toxic to cells. One study showed that depletion of zinc by TPEN induced apoptosis in liver cells of rats. This may be because zinc is necessary for normal functioning of the body; for example, zinc acts as a cofactor for enzymes such as insulin-degrading enzyme. Zinc deficiency symptoms include growth and development problems, hair loss, diarrhea, loss of appetite, and more. One study showed that TPEN induces translocation of cytochrome c from the mitochondria to the cytosol in human peripheral blood T lymphocytes. This leads to the activation of caspases-3, -8, and -9. When these T lymphocytes were pretreated with caspase inhibitors, DNA fragmentation (an indicator of apoptosis) was prevented. This suggests that apoptosis that is triggered by zinc deficiency is dependent on caspase proteins. Similar results were shown in rat and human thymocytes when TPEN was used. TPEN is also shown to induce apoptosis in K562 cells, and high doses (120\u2009\u03bcM) of zinc result in microglial cell death. One study examined the requirement for p53, a tumor suppressor protein, as an upstream transcription factor in TPEN-induced neuronal apoptosis, and found that depletion of intracellular zinc with TPEN induces apoptosis. Additionally, the same study found that TPEN increased the expression of pro-apoptotic genes and led to the activation of caspase-11, a mammalian protease. These results suggest that the p53 tumor suppressor protein may play a role in regulating TPEN-induced neuronal apoptosis. Although these studies found that TPEN induces apoptosis, another study found that TPEN inhibits sodium dithionite and glucose deprivation (SDGD)-Induced neuronal death by modulating apoptosis.",
+            "score": 58.07762145996094
+        },
+        {
+            "docid": "15193490_3",
+            "document": "RING finger domain . Zinc finger (Znf) domains are relatively small protein motifs that bind one or more zinc atoms, and which usually contain multiple finger-like protrusions that make tandem contacts with their target molecule. They bind DNA, RNA, protein and/or lipid substrates. Their binding properties depend on the amino acid sequence of the finger domains and of the linker between fingers, as well as on the higher-order structures and the number of fingers. Znf domains are often found in clusters, where fingers can have different binding specificities. There are many superfamilies of Znf motifs, varying in both sequence and structure. They display considerable versatility in binding modes, even between members of the same class (e.g. some bind DNA, others protein), suggesting that Znf motifs are stable scaffolds that have evolved specialised functions. For example, Znf-containing proteins function in gene transcription, translation, mRNA trafficking, cytoskeleton organisation, epithelial development, cell adhesion, protein folding, chromatin remodelling and zinc sensing. Zinc-binding motifs are stable structures, and they rarely undergo conformational changes upon binding their target.",
+            "score": 57.384517669677734
+        },
+        {
+            "docid": "20071404_30",
+            "document": "Matrix differential equation . Performing the same operation using the second eigenvalue we calculated, which is formula_51, we obtain our second eigenvector. The process of working out this vector is not shown, but the final result is  This final step actually finds the required functions that are 'hidden' behind the derivatives given to us originally. There are two functions, because our differential equations deal with two variables.",
+            "score": 57.1683235168457
+        },
+        {
+            "docid": "33025571_4",
+            "document": "LETM1 . LETM1 is a eukaryotic protein that is expressed in the inner membrane of mitochondria. Experiments performed with human cells have been interpreted to indicate that it functions as a component of a Ca/H antiporter. Experimental results with yeast cells have been interpreted as suggesting that LETM1 functions as a component of a K/H antiporter. The \"Drosophila melanogaster\" LETM1 protein has been shown to functionally substitute for the K/H antiporter function in yeast cells.",
+            "score": 56.16435241699219
+        },
+        {
+            "docid": "34420_96",
+            "document": "Zinc . The human dopamine transporter contains a high affinity extracellular zinc binding site which, upon zinc binding, inhibits dopamine reuptake and amplifies amphetamine-induced dopamine efflux \"in vitro\". The human serotonin transporter and norepinephrine transporter do not contain zinc binding sites.",
+            "score": 55.95222854614258
+        },
+        {
+            "docid": "1846451_19",
+            "document": "Dopamine transporter . The human dopamine transporter (hDAT) contains a high affinity extracellular zinc binding site which, upon zinc binding, inhibits dopamine reuptake and amplifies amphetamine-induced dopamine efflux \"in vitro\". In contrast, the human serotonin transporter (hSERT) and human norepinephrine transporter (hNET) do not contain zinc binding sites. Zinc supplementation may reduce the minimum effective dose of amphetamine when it is used for the treatment of attention deficit hyperactivity disorder.",
+            "score": 55.94145584106445
+        },
+        {
+            "docid": "44053040_4",
+            "document": "John Robertson (physicist) . Following his PhD, Robertson worked at the Central Electricity Research Laboratories for 18 years, and in 1994 returned to Cambridge. He has published over 600 journal papers with around 33,000 citations. His main topic of research is theory of carbon materials. Other research interests include: carbon nanotubes, graphene, chemical vapour deposition, electronic applications (experimental and calculation); modelling of CVD mechanisms; carbon interconnects, carbon conductors, carbon for supercapacitors; high-\u03ba dielectrics for complementary metal oxide semiconductor transistors; high-\u03ba oxides on high mobility substrates such as InGaAs, Ge (modelling); transparent conducting oxides, amorphous oxide semiconductors (AOS) such as indium gallium zinc oxide, their thin film transistors, instability mechanisms (calculations); density functional calculations of semiconductors, oxides, carbon materials, and hybrid density functional calculations for correct band gaps; functional oxides, TiO.",
+            "score": 55.42191696166992
+        },
+        {
+            "docid": "234129_7",
+            "document": "Zinc finger . Zinc finger (Znf) domains are relatively small protein motifs that contain multiple finger-like protrusions that make tandem contacts with their target molecule. Some of these domains bind zinc, but many do not, instead binding other metals such as iron, or no metal at all. For example, some family members form salt bridges to stabilise the finger-like folds. They were first identified as a DNA-binding motif in transcription factor TFIIIA from \"Xenopus laevis\" (African clawed frog), however they are now recognised to bind DNA, RNA, protein, and/or lipid substrates. Their binding properties depend on the amino acid sequence of the finger domains and on the linker between fingers, as well as on the higher-order structures and the number of fingers. Znf domains are often found in clusters, where fingers can have different binding specificities. Znf motifs occur in several unrelated protein superfamilies, varying in both sequence and structure. They display considerable versatility in binding modes, even between members of the same class (e.g., some bind DNA, others protein), suggesting that Znf motifs are stable scaffolds that have evolved specialised functions. For example, Znf-containing proteins function in gene transcription, translation, mRNA trafficking, cytoskeleton organization, epithelial development, cell adhesion, protein folding, chromatin remodeling, and zinc sensing, to name but a few. Zinc-binding motifs are stable structures, and they rarely undergo conformational changes upon binding their target.",
+            "score": 54.357940673828125
+        },
+        {
+            "docid": "125297_29",
+            "document": "Dynamic programming . Now, suppose we have a simple map object, \"m\", which maps each value of codice_8 that has already been calculated to its result, and we modify our function to use it and update it. The resulting function requires only O(\"n\") time instead of exponential time (but requires O(\"n\") space):",
+            "score": 53.9871940612793
+        },
+        {
+            "docid": "31781295_24",
+            "document": "Geir Bj\u00f8rklund . The evidence from the research by Bj\u00f8rklund and collaborators suggest that providing zinc to autistic children may be an important component of a treatment protocol, especially in children with zinc deficiency. Mercury accumulation may occur as a cause or consequence of metallothionein dysfunction in autistic children, which may be one of the causes of zinc deficiency. Metallothioneins are proteins with important functions in metal metabolism and protection. It is important to monitor and follow the values for both copper and zinc together during zinc therapy, because these two trace elements are both antagonists in function, and essential for living cells.",
+            "score": 53.78157043457031
+        },
+        {
+            "docid": "13926095_26",
+            "document": "Zinc deficiency . In its catalytic role, zinc is a critical component of the catalytic site of hundreds of kinds of different metalloenzymes in each human being. In its structural role, zinc coordinates with certain protein domains, facilitating protein folding and producing structures such as \u2018zinc fingers\u2019. In its regulatory role, zinc is involved in the regulation of nucleoproteins and the activity of various inflammatory cells. For example, zinc regulates the expression of metallothionein, which has multiple functions, such as intracellular zinc compartmentalization and antioxidant function. Thus zinc deficiency results in disruption of hundreds of metabolic pathways, causing numerous clinical manifestations, including impaired growth and development, and disruption of reproductive and immune function.",
+            "score": 53.611572265625
+        },
+        {
+            "docid": "5657994_4",
+            "document": "Efflux (microbiology) . Efflux pumps are proteinaceous transporters localized in the cytoplasmic membrane of all kinds of cells. They are active transporters, meaning that they require a source of chemical energy to perform their function. Some are primary active transporters utilizing adenosine triphosphate hydrolysis as a source of energy, whereas others are secondary active transporters (uniporters, symporters, or antiporters) in which transport is coupled to an electrochemical potential difference created by pumping hydrogen or sodium ions from or to the outside of the cell. <br> Bacterial efflux transporters are classified into five major superfamilies, based on their amino acid sequence and the energy source used to export their substrates: Of these, only the ABC superfamily are primary transporters, the rest being secondary transporters utilizing proton or sodium gradient as a source of energy. Whereas MFS dominates in Gram positive bacteria, the RND family was once thought to be unique to Gram negative bacteria. They have since been found in all major Kingdoms.",
+            "score": 53.515071868896484
+        },
+        {
+            "docid": "2796131_49",
+            "document": "Introduction to quantum mechanics . In the same year, building on de Broglie's hypothesis, [[Erwin Schr\u00f6dinger]] developed the equation that describes the behavior of a quantum mechanical wave. The mathematical model, called the [[Schr\u00f6dinger equation]] after its creator, is central to quantum mechanics, defines the permitted stationary states of a quantum system, and describes how the quantum state of a physical system changes in time. The wave itself is described by a mathematical function known as a \"[[wave function]]\". Schr\u00f6dinger said that the wave function provides the \"means for predicting probability of measurement results\". Schr\u00f6dinger was able to calculate the energy levels of hydrogen by treating a hydrogen atom's [[electron]] as a classical wave, moving in a well of electrical potential created by the proton. This calculation accurately reproduced the energy levels of the Bohr model.",
+            "score": 53.30074691772461
+        },
+        {
+            "docid": "312252_39",
+            "document": "Partition function (statistical mechanics) . It may not be obvious why the partition function, as we have defined it above, is an important quantity. First, let us consider what goes into it. The partition function is a function of the temperature \"T\" and the microstate energies \"E\", \"E\", \"E\", etc. The microstate energies are determined by other thermodynamic variables, such as the number of particles and the volume, as well as microscopic quantities like the mass of the constituent particles. This dependence on microscopic variables is the central point of statistical mechanics. With a model of the microscopic constituents of a system, one can calculate the microstate energies, and thus the partition function, which will then allow us to calculate all the other thermodynamic properties of the system.",
+            "score": 53.25695037841797
+        },
+        {
+            "docid": "547400_17",
+            "document": "Molecular mechanics . Molecular mechanics potential energy functions have been used to calculate binding constants, protein folding kinetics, protonation equilibria, active site coordinates, and to design binding sites.",
+            "score": 53.255558013916016
+        },
+        {
+            "docid": "16059206_4",
+            "document": "Integration by reduction formulae . To compute the integral, we set \"n\" to its value and use the reduction formula to calculate the (\"n\" \u2013 1) or (\"n\" \u2013 2) integral. The higher index integral can be used to calculate lower index ones; the process is continued repeatedly until we reach a point where the function to be integrated can be computed, usually when its index is 0 or 1. Then we back-substitute the previous results until we have computed \"I\".",
+            "score": 53.146636962890625
+        },
+        {
+            "docid": "341436_8",
+            "document": "State function . When a system changes state continuously, it traces out a \"path\" in the state space. The path can be specified by noting the values of the state parameters as the system traces out the path, perhaps as a function of time, or some other external variable. For example, we might have the pressure formula_2 and the volume formula_3 as functions of time from time formula_4 to formula_5; this will specify a path in our two-dimensional state space example. We can now form all sorts of functions of time which we may integrate over the path. For example, if we wish to calculate the work done by the system from time formula_4 to time formula_5 we calculate",
+            "score": 52.972900390625
+        },
+        {
+            "docid": "1697945_30",
+            "document": "Host\u2013guest chemistry . UV-vis spectroscopy is one of the oldest and quickest methods of studying the binding activity of various molecules. The absorption of UV-light takes place at a time-scale of picoseconds, hence the individual signals from the species can be observed. At the same time, the intensity of absorption directly correlates with the concentration of the species, which enables easy calculation of the association constant. Most commonly, either the host or the guest is transparent to UV-light, whilst the other molecule is UV-sensitive. The change in the concentration of the UV-sensitive molecules is thus monitored and fitted onto a straight line using the Benesi-Hildebrand method, from which the association constant can be directly calculated. Additional information about the stoichiometry of the complexes is also obtained, as the Benesi-Hilderbrand method assumes a 1:1 stoichiometry between the host and the guest. The data will yield a straight line only if the complex formation also follows a similar 1:1 stoichiometry. A recent example of a similar calculation was done by Sun et al., wherein they titrated ruthenium trisbipyridyl-viologen molecules with cucurbit[7]urils and plotted the relative absorbance of the cucurbit molecules as a function of its total concentration at a specific wavelength. The data nicely fitted a 1:1 binding model with a binding constant of formula_52 . As an extension, one can fit the data to different stoichiometries to understand the kinetics of the binding events between the host and the guest. made use of this corollary to slightly modify the conventional Benesi-Hilderbrand plot to get the order of the complexation reaction between barium-containing crown ether bridged chiral heterotrinuclear salen Zn(II) complex formula_53 (host) with various guests imidazoles and amino acid methyl esters, along with the other parameters. They titrated a fixed concentration of the zinc complex with varying amounts of the imidazoles and methyl esters whilst monitoring the changes in the absorbance of the pi to pi* transition band at 368\u00a0nm. The data fit a model in which the ratio of guest to host of 2 in the complex. They further carried these experiments at various temperatures which enabled them to calculate the various thermodynamic parameters using the Van 't Hoff equation.",
+            "score": 52.76504135131836
+        },
+        {
+            "docid": "27292230_20",
+            "document": "Graphical models for protein structure . Once the model is learned, we can repeat the same step as in the discrete case, to get the density functions at each node, and use analytical form to calculate the free energy. Here, the partition function already has a closed form, so the inference, at least for the Gaussian graphical models is trivial. If the analytical form of the partition function is not available, particle filtering or expectation propagation can be used to approximate \"Z\", and then perform the inference and calculate free energy.",
+            "score": 52.68996047973633
+        },
+        {
+            "docid": "54311175_13",
+            "document": "ZIP9 . Zinc must be constantly supplied to Pancreatic \u03b2-cells to function normally and maintain glycaemic control. The insulin secretory pathway in humans is highly dependent on zinc activities. The cells lose many zinc ions during the secretion of insulin, and need to receive more zinc, and interestingly expression of ZIP9 mRNA during this process increases. As a result, ZIP9, which is involved in importing zinc into the cells, is potentially a target for therapeutic studies in the future regarding diabetes type2.",
+            "score": 52.64434814453125
+        },
+        {
+            "docid": "32156908_4",
+            "document": "Muscular evolution in humans . As is the standard for all evolutionary adaptations, the human muscle system evolved in its efforts to increase survivability. Since muscles and the accompanying ligaments and tendons are present all throughout the body aiding in many functions, it is apparent that our behavior and decisions are based upon what we are and how we can operate. It is believed that our ancestor\u2019s original habitat was not on the ground but in the trees and we developed new habits that eventually allowed us to thrive on the ground, such as changes in diet, gathering of food, energy expenditure, social interactions, and predators. Life in the canopy meant a food supply similar to that of herbivores: leaves, fruits, berries; mostly low-protein foods that did not require a large amount of energy to find. However, if any could be found, meat was also consumed. At this time our ancestors had not yet switched to full-time bipedalism and so searching for food on the ground did not make sense because there was too much energy and risk involved. This habitat also lacked the predators found on the ground that our chimp-like ancestors would have been poor defenders against. As they became bipedal, they began to live in groups that used weapons to fend off predators and hunt down prey. Running became a key aspect to the survival of the species. Even with all this, it is the development of the brain that has guided the development of the muscle functions and structures in humans",
+            "score": 52.56255340576172
+        },
+        {
+            "docid": "57035748_26",
+            "document": "Methane clumped isotopes . Ma et al. utilized first-principle quantum mechanism molecular calculation (Density Functional Theory, or DFT) to study the temperature dependence of the CHD abundance. Cao and Liu estimated formula_21 and formula_22 based on statistical mechanics. Webb and Miller combined path-integral Monte Carlo methods with high-quality potential energy surfaces to more rigorously compute equilibrium isotope effects of formula_22 compared to Urey model using reduced partition function ratios. Piasecki et al. performed first-principles calculations of the equilibrium distributions of all substituted isotopologues of methane.",
+            "score": 52.150325775146484
+        },
+        {
+            "docid": "15213464_3",
+            "document": "ZNF384 . This gene encodes a C2H2-type zinc finger protein, which may function as a transcription factor. This gene also contains long CAG trinucleotide repeats that encode consecutive glutamine residues. The protein appears to bind and regulate the promoters of the extracellular matrix genes MMP1, MMP3, MMP7 and COL1A1. Studies in mouse suggest that ZNF384 may be part of a general mechanical pathway that couples cell construction and function during extracellular matrix remodeling. Alternative splicing results in multiple transcript variants.",
+            "score": 51.87034225463867
+        },
+        {
+            "docid": "3722064_25",
+            "document": "Tobit model . For the initial values formula_56 ,there are two different ways to treat them in the construction of the likelihood function: treating them as constant, or imposing a distribution on them and calculate out the unconditional likelihood function. But whichever way is chosen to treat the initial values in the likelihood function, we cannot get rid of the integration inside the likelihood function when estimating the model by Maximum Likelihood Estimation (MLE). Expectation Maximum (EM) algorithm is usually a good solution for this computation issue. Based on the consistent point estimates from MLE, Average Partial Effect (APE) can be calculated correspondingly.",
+            "score": 51.7993049621582
+        }
+    ]
+}

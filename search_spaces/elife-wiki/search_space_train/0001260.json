@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "2862913_2",
+            "document": "Myelin basic protein . Myelin basic protein (MBP) is a protein believed to be important in the process of myelination of nerves in the nervous system. The myelin sheath is a multi-layered membrane, unique to the nervous system, that functions as an insulator to greatly increase the velocity of axonal impulse conduction. MBP maintains the correct structure of myelin, interacting with the lipids in the myelin membrane.",
+            "score": 174.4458155632019
+        },
+        {
+            "docid": "10806103_6",
+            "document": "Myelin protein zero . The myelin sheath is a multi-layered membrane, unique to the nervous system, that functions as an insulator to greatly increase the velocity of axonal impulse conduction. Myelin protein zero, absent in the central nervous system, is a major component of the myelin sheath in peripheral nerves. Mutations that disrupt the function of myelin protein zero can lead to less expression of myelin and degeneration of myelin sheath in the peripheral nervous system. Currently, myelin protein zero expression is postulated to be produced by signals from the axon. However, more details about the regulation of myelin protein zero are unknown.",
+            "score": 200.71129250526428
+        },
+        {
+            "docid": "958_7",
+            "document": "Axon . There are two types of axons in the nervous system: myelinated and unmyelinated axons. Myelin is a layer of a fatty insulating substance, which is formed by two types of glial cells Schwann cells and oligodendrocytes. In the peripheral nervous system Schwann cells form the myelin sheath of a myelinated axon. In the central nervous system oligodendrocytes form the insulating myelin. Along myelinated nerve fibers, gaps in the myelin sheath known as nodes of Ranvier occur at evenly spaced intervals. The myelination enables an especially rapid mode of electrical impulse propagation called saltatory conduction.",
+            "score": 210.6547405719757
+        },
+        {
+            "docid": "165923_15",
+            "document": "Schwann cell . Myelin protein zero (P0) is a cell adhesion molecule belonging to the immunoglobulin superfamily and is the major component of peripheral myelin, constituting over 50% of the total protein in the sheath. P0 has been shown to be essential for the formation of compact myelin, as P0 null mutant (P0-) mice showed severely aberrant peripheral myelination. Although myelination of large caliber axons was initiated in P0- mice, the resulting myelin layers were very thin and poorly compacted. Unexpectedly, P0- mice also showed degeneration of both axons and their surround myelin sheaths, suggesting that P0 plays a role in maintaining the structural integrity of both myelin formation and the axon with which it\u2019s associated. P0- mice developed behavioral deficits around 2 weeks of age when mice began to show signs of slight trembling. Gross incoordination also arose as the animals developed while trembling became more severe and some older mice developed convulsing behaviors. Despite the array of impaired motor behavior, no paralysis was observed in these animals. P0 is also an important gene expressed early within the Schwann cell lineage, expressed in Schwann cell precursors after differentiating from migrating neural crest cells within the developing embryo.",
+            "score": 170.49524664878845
+        },
+        {
+            "docid": "15417830_37",
+            "document": "LINGO1 . Blocking the activity of lingo-1 has several potential applications in the treatment of neurodegenerative diseases. Anti-lingo-1 (BIIB033) is a monoclonal antibody specific to the lingo-1 protein and is designed to promote remyelination (the formation of new myelin on axons) and neuroprotection. A myelin sheath is a lipid protective coating that covers and protects nerve cells (axons). These sheaths makes possible rapid and accurate transmission of nerve signals. Multiple sclerosis destroys these myelin sheaths, leading to a deterioration in nerve signal transmission. Once this protective myelin coating is stripped away, it leads to apoptosis of the neuron; axons gradually die, causing the muscle spasms and paralysis that are characteristic of the disease. The protein lingo-1 inhibits the action of myelin-making cells, oligodendrocytes, which are surrounding the axons. Its antagonist, the antibody anti-lingo-1 would block this protein and even would be capable of myelin repair.",
+            "score": 191.9509105682373
+        },
+        {
+            "docid": "2863161_2",
+            "document": "Myelin oligodendrocyte glycoprotein . Myelin oligodendrocyte glycoprotein (MOG) is a glycoprotein believed to be important in the myelination of nerves in the central nervous system (CNS). In humans this protein is encoded by the \"MOG\" gene. It is speculated to serve as a necessary \"adhesion molecule\" to provide structural integrity to the myelin sheath and is known to develop late on the oligodendrocyte.",
+            "score": 139.57808375358582
+        },
+        {
+            "docid": "10806103_2",
+            "document": "Myelin protein zero . Myelin protein zero (P0, MPZ) is a single membrane glycoprotein which in humans is encoded by the \"MPZ\" gene. P0 is a major structural component of the myelin sheath in the peripheral nervous system (PNS). Myelin protein zero is expressed by Schwann cells and accounts for over 50% of all proteins in the peripheral nervous system, making it the most common protein expressed in the PNS. Mutations in myelin protein zero can cause myelin deficiency and are associated with neuropathies like Charcot\u2013Marie\u2013Tooth disease and Dejerine\u2013Sottas disease.",
+            "score": 147.10911059379578
+        },
+        {
+            "docid": "56452670_6",
+            "document": "Stephen Waxman . Waxman's early research examined the design principles of axons and defined the mechanism by which myelin insures rapid conduction of impulses along nerve fibers within the brain and spinal cord. He used electron microscopy, immunocytochemistry and electrophysiological methods to study the complex distribution of sodium and potassium channels along myelinated nerve fibers, and he subsequently investigated how this complex ion channel architecture is important for the transmission of nerve impulses along healthy nerve fibers, and after demyelination as occurs in multiple sclerosis. He also showed that there is plasticity of the axon membrane in demyelinated nerve fibers, with myelin-poor axons gaining more sodium channels as an adaptive response to demyelination. This molecular remodeling supports recovery of impulse conduction that underlies remissions in multiple sclerosis. Together with Peter Stys and Bruce Ransom, he identified the role of sodium channels in the degeneration of axons, and he went on to study the molecular identities of the sodium channels involved in axonal injury.",
+            "score": 132.96178257465363
+        },
+        {
+            "docid": "189701_7",
+            "document": "Development of the nervous system . Myelination, formation of the lipid myelin bilayer around neuronal axons, is a process that is essential for normal brain function. The myelin sheath provides insulation for the nerve impulse when communicating between neural systems. Without it, the impulse would be disrupted and the signal would not reach its target, thus impairing normal functioning. Because so much of brain development occurs in the prenatal stage and infancy, it is crucial that myelination, along with cortical development occur properly. Magnetic resonance imaging (MRI) is a non-invasive technique used to investigate myelination and cortical maturation (the cortex is the outer layer of the brain composed of gray matter). Rather than showing the actual myelin, the MRI picks up on the myelin water fraction (MWF), a measure of myelin content. Multicomponent relaxometry (MCR) allow visualization and quantification of myelin content. MCR is also useful for tracking white matter maturation, which plays an important role in cognitive development. It has been discovered that in infancy, myelination occurs in a posterior-to-anterior pattern. Because there is little evidence of a relationship between myelination and cortical thickness, it was revealed that cortical thickness is independent of white matter MWF. This allows various aspects of the brain to grow simultaneously, leading to a more fully developed brain.",
+            "score": 180.3156477212906
+        },
+        {
+            "docid": "12800708_12",
+            "document": "Guillain\u2013Barr\u00e9 syndrome . The nerve dysfunction in Guillain\u2013Barr\u00e9 syndrome is caused by an immune attack on the nerve cells of the peripheral nervous system and their support structures. The nerve cells have their body (the soma) in the spinal cord and a long projection (the axon) that carries electrical nerve impulses to the neuromuscular junction where the impulse is transferred to the muscle. Axons are wrapped in a sheath of Schwann cells that contain myelin. Between Schwann cells are gaps (nodes of Ranvier) where the axon is exposed. Different types of Guillain\u2013Barr\u00e9 syndrome feature different types of immune attack. The demyelinating variant (AIDP, see below) features damage to the myelin sheath by white blood cells (T lymphocytes and macrophages); this process is preceded by activation of a group of blood proteins known as complement. In contrast, the axonal variant is mediated by IgG antibodies and complement against the cell membrane covering the axon without direct lymphocyte involvement.",
+            "score": 179.62619161605835
+        },
+        {
+            "docid": "21932333_4",
+            "document": "CNS demyelinating autoimmune diseases . The brain and the spinal cord are the essential components of the central nervous system and it is responsible for the integration of the signals received from the afferent nerves and initiates action. The nerve cells, known as neurons, carry impulses throughout the body and the nerve impulses are carried along the axon. These microscopic nerve fibers, where the action potential occurs, are protected by a white, fatty tissue that surrounds and insulates it, known as the myelin sheath. This insulation helps the axon of a nerve cell with the conduction and speed of the signal along the axon.",
+            "score": 172.13001084327698
+        },
+        {
+            "docid": "55178557_17",
+            "document": "Milk fat globule membrane . MFGM lipid components such as sphingomyelin and gangliosides are highly concentrated in the brain and support synaptogenesis and myelination. In the central nervous system, sphingomyelin is a key component of the myelin sheath, which insulates axons and supports efficient transmission of nerve impulses. During myelination, nerve axons are wrapped with multiple layers of cell membrane by oligodendrocyte glial cells, a process that accounts for a large portion of brain growth during late gestation and the first two years of life, but which can also continue up to 5\u201310 years of age. Meanwhile, gangliosides are concentrated within the brain\u2019s gray matter and constitute approximately 6% to 10% of the total human brain lipid mass. Additionally, gangliosides are enriched at the synaptic membrane of neurons, and are functionally involved in neurotransmission and synapse formation. Brain ganglioside accretion occurs at an accelerated rate in the early years of life, coinciding with the most active period of myelination, axonal outgrowth, and synaptogenesis. Alongside the growth of brain size, total brain ganglioside concentration also increases 3-fold from early fetal development to 5 years of age.",
+            "score": 165.23800134658813
+        },
+        {
+            "docid": "56461_6",
+            "document": "Canavan disease . Canavan disease is caused by a defective \"ASPA\" gene which is responsible for the production of the enzyme aspartoacylase. Decreased aspartoacylase activity prevents the normal breakdown of \"N\"-acetyl aspartate, wherein the accumulation of N-acetylaspartate, or lack of its further metabolism interferes with growth of the myelin sheath of the nerve fibers of the brain. The myelin sheath is the fatty covering that surrounds nerve cells and acts as an insulator, allowing for efficient transmission of nerve impulses.",
+            "score": 158.3995430469513
+        },
+        {
+            "docid": "27470465_2",
+            "document": "Myelin proteolipid protein . Myelin proteolipid protein (PLP or lipophilin) is the major myelin protein from the central nervous system (CNS). It plays an important role in the formation or maintenance of the multilamellar structure of myelin. The myelin sheath is a multi-layered membrane, unique to the nervous system, that functions as an insulator to greatly increase the efficiency of axonal impulse conduction.",
+            "score": 164.1286346912384
+        },
+        {
+            "docid": "165923_17",
+            "document": "Schwann cell . Krox-20 is considered as one of the master regulators of PNS myelination and is important in driving transcription of specific structural proteins in the myelin. It has been shown to control a set of genes responsible for interfering with this feature in the axon changing it from a pro-myelinating to myelinating state. In this way, in Krox-20 double knock out mice, it has been recorded that hindbrain segmentation is affected as well as myelination of Schwann cell associated axons. Indeed, in these mice, the Schwann cells are not able to perform their myelination properly as they only wrap their cytoplasmic processes one and half turn around the axon and despite the fact that they still express the early myelin marker, late myelin gene products are absent. In addition, recent studies have also proven the importance of this transcription factor in maintaining the myelination phenotype (and requires the co-expression of Sox 10) as its inactivation leads to dedifferentiation of the Schwann cells.",
+            "score": 151.7892326116562
+        },
+        {
+            "docid": "7845_7",
+            "document": "Charcot\u2013Marie\u2013Tooth disease . Charcot\u2013Marie\u2013Tooth disease is caused by mutations that cause defects in neuronal proteins. Nerve signals are conducted by an axon with a myelin sheath wrapped around it. Most mutations in CMT affect the myelin sheath, but some affect the axon.",
+            "score": 194.610200881958
+        },
+        {
+            "docid": "6894544_33",
+            "document": "Noise-induced hearing loss . Acoustic over-exposure can also result in decreased myelination at specific points on the auditory nerve. Myelin, an insulating sheath surrounding nerve axons, expedites electrical impulses along nerves throughout the nervous system. Thinning of the myelin sheath on the auditory nerve significantly slows the transmission of electrical signals from hair cell to auditory cortex, reducing comprehension of auditory stimuli by delaying auditory perception, particularly in noisy environments.",
+            "score": 185.65479290485382
+        },
+        {
+            "docid": "9808750_4",
+            "document": "Ichiji Tasaki . While in Japan, he studied vertebrate nerve fibers and discovered the insulating function of the myelin sheath, a material that speeds the conduction of nerve impulses. He also was the first to show that electrical impulses traveling along myelinated nerve cells actually \"jump\" between the breaks in the myelin wrapping, called nodes of Ranvier. This process, termed saltatory conduction, is featured in a majority of physiology textbooks. After World War II, Tasaki's research took him to England and to Switzerland, where he further studied the properties of nerve fibers. In 1951, he came to the United States to work at Washington University in St. Louis. While there, Tasaki and his colleagues demonstrated how vibrations that occur in the cochlea in response to sound are translated into electrical signals that the brain can interpret. This effort led to the development of the field of audiology, indirectly providing the basis for diagnosing and treating many hearing disorders.",
+            "score": 156.8363037109375
+        },
+        {
+            "docid": "19319_12",
+            "document": "Myelin . Demyelination is the loss of the myelin sheath insulating the nerves, and is the hallmark of some neurodegenerative autoimmune diseases, including multiple sclerosis, acute disseminated encephalomyelitis, neuromyelitis optica, transverse myelitis, chronic inflammatory demyelinating polyneuropathy, Guillain\u2013Barr\u00e9 syndrome, central pontine myelinosis, inherited demyelinating diseases such as leukodystrophy, and Charcot-Marie-Tooth disease. Sufferers of pernicious anaemia can also suffer nerve damage if the condition is not diagnosed quickly. Subacute combined degeneration of spinal cord secondary to pernicious anaemia can lead to slight peripheral nerve damage to severe damage to the central nervous system, affecting speech, balance, and cognitive awareness. When myelin degrades, conduction of signals along the nerve can be impaired or lost, and the nerve eventually withers. A more serious case of myelin deterioration is called Canavan disease.",
+            "score": 150.6911699771881
+        },
+        {
+            "docid": "768133_2",
+            "document": "Demyelinating disease . A demyelinating disease is any disease of the nervous system in which the myelin sheath of neurons is damaged. This damage impairs the conduction of signals in the affected nerves. In turn, the reduction in conduction ability causes deficiency in sensation, movement, cognition, or other functions depending on which nerves are involved.",
+            "score": 128.15045738220215
+        },
+        {
+            "docid": "56469_4",
+            "document": "Pelizaeus\u2013Merzbacher disease . The diagnosis of Pelizaeus\u2013Merzbacher disease is often first suggested after identification by magnetic resonance imaging of abnormal white matter (high T2 signal intensity, i.e. T2 lengthening) throughout the brain, which is typically evident by about 1 year of age, but more subtle abnormalities should be evident during infancy. Unless there is a family history consistent with sex-linked inheritance, the condition is often misdiagnosed as cerebral palsy. Once a \"PLP1\" or \"GJA12\" mutation is identified, prenatal diagnosis or preimplantation genetic diagnostic testing is possible. The disease is one in a group of genetic disorders collectively known as leukodystrophies that affect growth of the myelin sheath, the fatty covering\u2014which acts as an insulator\u2014on nerve fibers in the central nervous system. Pelizaeus\u2013Merzbacher disease is generally caused by a recessive mutation of the gene on the long arm of the X-chromosome (Xq21-22) that codes for a myelin protein called proteolipid protein 1 or PLP1.",
+            "score": 136.7939784526825
+        },
+        {
+            "docid": "1205821_17",
+            "document": "Alcoholic polyneuropathy . The malnutrition many alcoholics suffer deprives them of important cofactors for the oxidative metabolism of glucose. Neural tissues depend on this process for energy, and disruption of the cycle would impair cell growth and function. Schwann cells produce myelin that wraps around the sensory and motor nerve axons to enhance action potential conduction in the periphery. An energy deficiency in Schwann cells would account for the disappearance of myelin on peripheral nerves, which may result in damage to axons or loss of nerve function altogether. In peripheral nerves, oxidative enzyme activity is most concentrated around the nodes of Ranvier, making these locations most vulnerable to cofactor deprivation. Lacking essential cofactors reduces myelin impedance, increases current leakage, and slows signal transmission. Disruptions in conductance first affect the peripheral ends of the longest and largest peripheral nerve fibers because they suffer most from decreased action potential propagation. Thus, neural deterioration occurs in an accelerating cycle: myelin damage reduces conductance, and reduced conductance contributes to myelin degradation. The slowed conduction of action potentials in axons causes segmental demyelination extending proximally; this is also known as retrograde degeneration.",
+            "score": 134.3456847667694
+        },
+        {
+            "docid": "36308777_2",
+            "document": "Roussy\u2013L\u00e9vy syndrome . Roussy\u2013L\u00e9vy syndrome, also known as Roussy\u2013L\u00e9vy hereditary areflexic dystasia, is a rare genetic disorder of humans that results in progressive muscle wasting. It is caused by mutations in the genes that code for proteins necessary for the functioning of the myelin sheath of the neurons, affecting the conductance of nerve signals and resulting in loss of muscles' ability to move.",
+            "score": 112.98145365715027
+        },
+        {
+            "docid": "19319_9",
+            "document": "Myelin . When a peripheral fiber is severed, the myelin sheath provides a track along which regrowth can occur. However, the myelin layer does not ensure a perfect regeneration of the nerve fiber. Some regenerated nerve fibers do not find the correct muscle fibers, and some damaged motor neurons of the peripheral nervous system die without regrowth. Damage to the myelin sheath and nerve fiber is often associated with increased functional insufficiency.",
+            "score": 145.10638165473938
+        },
+        {
+            "docid": "13493675_12",
+            "document": "Myelinogenesis . The process and mechanistic function of myelinogenesis has traditionally been studied using ultrastructure and biochemical techniques in rat optic nerves. The implementation of this method of study has long allowed for experimental observation of myelinogenesis in a model organism nerve that consists entirely of unmyelinated axons. Furthermore, the use of the rat optic nerve helped provide insight for early myelinogenesis researchers into improper and atypical courses of myelinogenesis.  One early study showed that in the developing rat optic nerves, formation of oligodendrocytes and subsequent myelination occurs postnatal. In the optic nerve, the oligodendrocyte cells divided for the final time at five days, with the onset of myelin formation occurring on or around day 6 or 7. However, the exact process by which the oligodendrocytes were stimulated to produce myelin was not yet fully understood, but early myelination in the optic nerve has been linked to a rise in the production of various lipids \u2013 cholesterol, cerebroside, and sulfatide. As researchers began to do postnatal research, they found that myelinogenesis in the rat optic nerve initially commences with axons the largest diameters before proceeding to the remaining smaller axons. In the second week postnatal, oligodendrocyte formation slowed \u2013 at this point, 15% of axons have been myelinated \u2013 however, myelinogenesis continued to rapidly increase. During the fourth week postnatal, nearly 85% of the axons in the rat optic had been myelinated. During the fifth week and onward toward week sixteen, the myelination decelerated and the remaining unmyelinated axons were ensheathed in myelin. Through the rat optic nerve, early research made significant contributions to knowledge in the field of myelinogenesis.",
+            "score": 140.08791387081146
+        },
+        {
+            "docid": "12149481_3",
+            "document": "Nerve tissue protein . There are two types of myelin the first is ogliodendrocyte- Myelin which can be found in the mammalian Central Nervous System (CNS) and the second is Schwann cells which are found in the Peripheral Nervous System (PNS). Myelination of axons by these Schwann cells are essential for normal nerve function. Peripheral nerves rely on communication between axons and Schwaan cells.",
+            "score": 143.1352367401123
+        },
+        {
+            "docid": "19319_16",
+            "document": "Myelin . Research to repair damaged myelin sheaths is ongoing. Techniques include surgically implanting oligodendrocyte precursor cells in the central nervous system and inducing myelin repair with certain antibodies. While results in mice have been encouraging (via stem cell transplantation), whether this technique can be effective in replacing myelin loss in humans is still unknown. Cholinergic treatments, such as acetylcholinesterase inhibitors (AChEIs), may have beneficial effects on myelination, myelin repair, and myelin integrity. Increasing cholinergic stimulation also may act through subtle trophic effects on brain developmental processes and particularly on oligodendrocytes and the lifelong myelination process they support. By increasing oligodendrocyte cholinergic stimulation, AChEIs, and other cholinergic treatments, such as nicotine, possibly could promote myelination during development and myelin repair in older age. Glycogen synthase kinase 3\u03b2 inhibitors such as lithium chloride have been found to promote myelination in mice with damaged facial nerves. Cholesterol is a necessary nutrient for the myelin sheath.",
+            "score": 160.15306949615479
+        },
+        {
+            "docid": "10806103_7",
+            "document": "Myelin protein zero . It is postulated that myelin protein zero is a structural element in the formation and stabilization of peripheral nerve myelin. Myelin protein zero is also hypothesized to serve as a cell adhesion molecule, holding multiple layers of myelin together. When a myelinating cell wraps its membrane around an axon multiple times, generating multiple layers of myelin, myelin protein zero helps keep these sheets compact by serving as a \"glue\" that keeps the layers of myelin together. It does so by holding its characteristic coil structure together by the electrostatic interactions of its positively charged intracellular domain with acidic lipids in the cytoplasmic face of the opposite bilayer. and by interaction between hydrophobic globular 'heads' of adjacent extracellular domains.",
+            "score": 143.2435348033905
+        },
+        {
+            "docid": "36308777_6",
+            "document": "Roussy\u2013L\u00e9vy syndrome . The Roussy\u2013L\u00e9vy syndrome has been associated with two genetic mutations: a duplication of the \"PMP22\" gene that carries the instructions for producing the peripheral myelin protein 22, a critical component of the myelin sheath; and a missense mutation in the \"MPZ\" gene which codes for myelin protein zero, a major structural protein of peripheral myelin.",
+            "score": 126.84229159355164
+        },
+        {
+            "docid": "15063282_2",
+            "document": "PMP2 . Myelin P2 protein is a protein that in humans is encoded by the \"PMP2\" gene. Myelin protein P2 is a constituent of peripheral nervous system (PNS) myelin, also present in small amounts in central nervous system (CNS) myelin. As a structural protein, P2 is thought to stabilize the myelin membranes, and may play a role in lipid transport in Schwann cells. Structurally, P2 belongs to the family of cytoplasmic fatty acid-binding proteins (FABPs).",
+            "score": 108.34130239486694
+        },
+        {
+            "docid": "19319_6",
+            "document": "Myelin . Cholesterol is an essential component of myelin, which comprises about 40% water; the dry mass comprises between 60% and 75% lipids and between 15% and 25% proteins. Myelin basic protein (MBP) constitutes ~23% of myelin protein, myelin oligodendrocyte glycoprotein, and proteolipid protein (PLP, which makes up ~50% of myelin protein). The primary lipid of myelin is a glycolipid called galactocerebroside. The intertwining hydrocarbon chains of sphingomyelin strengthen the myelin sheath. In brain, the myelin sheath covers the fibers of the corpus callosum, which constitute the inner part of the cerebral hemisphere.",
+            "score": 157.90873003005981
+        },
+        {
+            "docid": "165923_2",
+            "document": "Schwann cell . Schwann cells (named after physiologist Theodor Schwann) or neurolemmocytes are the principal glia of the peripheral nervous system (PNS). Glial cells function to support neurons and in the PNS, also include satellite cells, olfactory ensheathing cells, enteric glia and glia that reside at sensory nerve endings, such as the Pacinian corpuscle. There are two types of Schwann cell, myelinating and nonmyelinating. Myelinating Schwann cells wrap around axons of motor and sensory neurons to form the myelin sheath. The Schwann cell promoter is present in the downstream region of the human dystrophin gene that gives shortened transcript that are again synthesized in a tissue specific manner.",
+            "score": 151.42172980308533
+        }
+    ],
+    "r": [
+        {
+            "docid": "958_7",
+            "document": "Axon . There are two types of axons in the nervous system: myelinated and unmyelinated axons. Myelin is a layer of a fatty insulating substance, which is formed by two types of glial cells Schwann cells and oligodendrocytes. In the peripheral nervous system Schwann cells form the myelin sheath of a myelinated axon. In the central nervous system oligodendrocytes form the insulating myelin. Along myelinated nerve fibers, gaps in the myelin sheath known as nodes of Ranvier occur at evenly spaced intervals. The myelination enables an especially rapid mode of electrical impulse propagation called saltatory conduction.",
+            "score": 210.6547393798828
+        },
+        {
+            "docid": "10806103_6",
+            "document": "Myelin protein zero . The myelin sheath is a multi-layered membrane, unique to the nervous system, that functions as an insulator to greatly increase the velocity of axonal impulse conduction. Myelin protein zero, absent in the central nervous system, is a major component of the myelin sheath in peripheral nerves. Mutations that disrupt the function of myelin protein zero can lead to less expression of myelin and degeneration of myelin sheath in the peripheral nervous system. Currently, myelin protein zero expression is postulated to be produced by signals from the axon. However, more details about the regulation of myelin protein zero are unknown.",
+            "score": 200.7113037109375
+        },
+        {
+            "docid": "7090187_3",
+            "document": "Myelin incisure . In the peripheral nervous system (PNS) axons can be either myelinated or unmyelinated. Myelination refers to the insulation of an axon with concentric surrounding layers of lipid membrane (myelin) produced by Schwann cells. These layers are generally uniform and continuous, but due to imperfect nature of the process by which Schwann cells wrap the nerve axon, this wrapping process can sometimes leave behind small pockets of residual cytoplasm displaced to the periphery during the formation of the myelin sheath. These pockets, or \"incisures\", can subdivide the myelinated axon into irregular portions. These staggered clefts also provide communication channels between layers by connecting the outer collar of cytoplasm of the Schwann cell to the deepest layer of myelin sheath. Primary incisures which appear ab initio in myelination and always extend across the whole radial thickness of the myelin sheath but initially around only part of its circumference. Secondary incisures appear later, in regions of a compact myelin sheath, initially traversing only part of its radial thickness but commonly occupying its whole circumference.",
+            "score": 198.2309112548828
+        },
+        {
+            "docid": "3717_10",
+            "document": "Brain . Most of the space in the brain is taken up by axons, which are often bundled together in what are called \"nerve fiber tracts\". A myelinated axon is wrapped in a fatty insulating sheath of myelin, which serves to greatly increase the speed of signal propagation. (There are also unmyelinated axons). Myelin is white, making parts of the brain filled exclusively with nerve fibers appear as light-colored white matter, in contrast to the darker-colored grey matter that marks areas with high densities of neuron cell bodies.",
+            "score": 195.8711700439453
+        },
+        {
+            "docid": "958_17",
+            "document": "Axon . In the nervous system, axons may be myelinated, or unmyelinated. This is the provision of an insulating layer, called a myelin sheath. In the peripheral nervous system axons are myelinated by glial cells known as Schwann cells. In the central nervous system the myelin sheath is provided by another type of glial cell, the oligodendrocyte. Schwann cells myelinate a single axon. An oligodendrocyte can myelinate up to 50 axons.",
+            "score": 195.4308624267578
+        },
+        {
+            "docid": "7845_7",
+            "document": "Charcot\u2013Marie\u2013Tooth disease . Charcot\u2013Marie\u2013Tooth disease is caused by mutations that cause defects in neuronal proteins. Nerve signals are conducted by an axon with a myelin sheath wrapped around it. Most mutations in CMT affect the myelin sheath, but some affect the axon.",
+            "score": 194.61021423339844
+        },
+        {
+            "docid": "15417830_37",
+            "document": "LINGO1 . Blocking the activity of lingo-1 has several potential applications in the treatment of neurodegenerative diseases. Anti-lingo-1 (BIIB033) is a monoclonal antibody specific to the lingo-1 protein and is designed to promote remyelination (the formation of new myelin on axons) and neuroprotection. A myelin sheath is a lipid protective coating that covers and protects nerve cells (axons). These sheaths makes possible rapid and accurate transmission of nerve signals. Multiple sclerosis destroys these myelin sheaths, leading to a deterioration in nerve signal transmission. Once this protective myelin coating is stripped away, it leads to apoptosis of the neuron; axons gradually die, causing the muscle spasms and paralysis that are characteristic of the disease. The protein lingo-1 inhibits the action of myelin-making cells, oligodendrocytes, which are surrounding the axons. Its antagonist, the antibody anti-lingo-1 would block this protein and even would be capable of myelin repair.",
+            "score": 191.95091247558594
+        },
+        {
+            "docid": "21120_35",
+            "document": "Neuron . Thin neurons and axons require less metabolic expense to produce and carry action potentials, but thicker axons convey impulses more rapidly. To minimize metabolic expense while maintaining rapid conduction, many neurons have insulating sheaths of myelin around their axons. The sheaths are formed by glial cells: oligodendrocytes in the central nervous system and Schwann cells in the peripheral nervous system. The sheath enables action potentials to travel faster than in unmyelinated axons of the same diameter, whilst using less energy. The myelin sheath in peripheral nerves normally runs along the axon in sections about 1\u00a0mm long, punctuated by unsheathed nodes of Ranvier, which contain a high density of voltage-gated ion channels. Multiple sclerosis is a neurological disorder that results from demyelination of axons in the central nervous system.",
+            "score": 190.6712188720703
+        },
+        {
+            "docid": "29714732_3",
+            "document": "Anti-MAG peripheral neuropathy . Myelin is an important part of neuron cells and provides insulation allowing the neuron\u2019s action potential to travel faster and more consistently. In order to provide insulation, multiple layers of closely opposing membrane are wrapped around the axon. By acting as an electrical insulator, the conduction ability of the axon is sped up considerably allowing action potentials to travel at a much faster rate, about fifteen times faster in certain cases. This ability allows the nervous system to send messages faster and more accurately. Disruption of the myelin sheath on cells that are normally myelinated allows leakage of action potential much like a faulty wire will allow leakage of electricity in a circuit. This slows the messages being sent along those nerves and disrupts normal function.",
+            "score": 187.67906188964844
+        },
+        {
+            "docid": "6894544_33",
+            "document": "Noise-induced hearing loss . Acoustic over-exposure can also result in decreased myelination at specific points on the auditory nerve. Myelin, an insulating sheath surrounding nerve axons, expedites electrical impulses along nerves throughout the nervous system. Thinning of the myelin sheath on the auditory nerve significantly slows the transmission of electrical signals from hair cell to auditory cortex, reducing comprehension of auditory stimuli by delaying auditory perception, particularly in noisy environments.",
+            "score": 185.65480041503906
+        },
+        {
+            "docid": "50603_15",
+            "document": "Multiple sclerosis . To be specific, MS involves the loss of oligodendrocytes, the cells responsible for creating and maintaining a fatty layer\u2014known as the myelin sheath\u2014which helps the neurons carry electrical signals (action potentials). This results in a thinning or complete loss of myelin and, as the disease advances, the breakdown of the axons of neurons. When the myelin is lost, a neuron can no longer effectively conduct electrical signals. A repair process, called remyelination, takes place in early phases of the disease, but the oligodendrocytes are unable to completely rebuild the cell's myelin sheath. Repeated attacks lead to successively less effective remyelinations, until a scar-like plaque is built up around the damaged axons. These scars are the origin of the symptoms and during an attack magnetic resonance imaging (MRI) often shows more than ten new plaques. This could indicate that there are a number of lesions below which the brain is capable of repairing itself without producing noticeable consequences. Another process involved in the creation of lesions is an abnormal increase in the number of astrocytes due to the destruction of nearby neurons. A number of lesion patterns have been described.",
+            "score": 185.0260009765625
+        },
+        {
+            "docid": "165923_6",
+            "document": "Schwann cell . Schwann cells are a variety of glial cell that keep peripheral nerve fibres (both myelinated and unmyelinated) alive. In myelinated axons, Schwann cells form the myelin sheath. The sheath is not continuous. Individual myelinating Schwann cells cover about 100 micrometres of an axon\u2014equating to approximately 10,000 Schwann cells along a 1-metre length of the axon. The gaps between adjacent Schwann cells are called nodes of Ranvier.",
+            "score": 184.1790313720703
+        },
+        {
+            "docid": "563392_9",
+            "document": "Neural pathway . In general, neurons receive information either at their dendrites or cell bodies. The axon of a nerve cell is, in general, responsible for transmitting information over a relatively long distance. Therefore, most neural pathways are made up of axons. If the axons have myelin sheaths, then the pathway appears bright white because myelin is primarily lipid. If most or all of the axons lack myelin sheaths (i.e., are \"unmyelinated\"), then the pathway will appear a darker beige color, which is generally called \"grey\".",
+            "score": 184.17420959472656
+        },
+        {
+            "docid": "383763_2",
+            "document": "Oligodendrocyte . Oligodendrocytes (), or oligodendroglia, are a type of neuroglia discovered by P\u00edo del R\u00edo Hortega. Their main functions are to provide support and insulation to axons in the central nervous system of some vertebrates, equivalent to the function performed by Schwann cells in the peripheral nervous system. Oligodendrocytes do this by creating the myelin sheath, which is 80% lipid and 20% protein. A single oligodendrocyte can extend its processes to 50 axons, wrapping approximately 1\u00a0\u03bcm of myelin sheath around each axon; Schwann cells, on the other hand, can wrap around only one axon. Each oligodendrocyte forms one segment of myelin for several adjacent axons.",
+            "score": 183.33731079101562
+        },
+        {
+            "docid": "156998_43",
+            "document": "Action potential . In order to enable fast and efficient transduction of electrical signals in the nervous system, certain neuronal axons are covered with myelin sheaths. Myelin is a multilamellar membrane that enwraps the axon in segments separated by intervals known as nodes of Ranvier. It is produced by specialized cells: Schwann cells exclusively in the peripheral nervous system, and oligodendrocytes exclusively in the central nervous system. Myelin sheath reduces membrane capacitance and increases membrane resistance in the inter-node intervals, thus allowing a fast, saltatory movement of action potentials from node to node. Myelination is found mainly in vertebrates, but an analogous system has been discovered in a few invertebrates, such as some species of shrimp. Not all neurons in vertebrates are myelinated; for example, axons of the neurons comprising the autonomous nervous system are not, in general, myelinated.",
+            "score": 182.96453857421875
+        },
+        {
+            "docid": "189701_7",
+            "document": "Development of the nervous system . Myelination, formation of the lipid myelin bilayer around neuronal axons, is a process that is essential for normal brain function. The myelin sheath provides insulation for the nerve impulse when communicating between neural systems. Without it, the impulse would be disrupted and the signal would not reach its target, thus impairing normal functioning. Because so much of brain development occurs in the prenatal stage and infancy, it is crucial that myelination, along with cortical development occur properly. Magnetic resonance imaging (MRI) is a non-invasive technique used to investigate myelination and cortical maturation (the cortex is the outer layer of the brain composed of gray matter). Rather than showing the actual myelin, the MRI picks up on the myelin water fraction (MWF), a measure of myelin content. Multicomponent relaxometry (MCR) allow visualization and quantification of myelin content. MCR is also useful for tracking white matter maturation, which plays an important role in cognitive development. It has been discovered that in infancy, myelination occurs in a posterior-to-anterior pattern. Because there is little evidence of a relationship between myelination and cortical thickness, it was revealed that cortical thickness is independent of white matter MWF. This allows various aspects of the brain to grow simultaneously, leading to a more fully developed brain.",
+            "score": 180.31564331054688
+        },
+        {
+            "docid": "12800708_12",
+            "document": "Guillain\u2013Barr\u00e9 syndrome . The nerve dysfunction in Guillain\u2013Barr\u00e9 syndrome is caused by an immune attack on the nerve cells of the peripheral nervous system and their support structures. The nerve cells have their body (the soma) in the spinal cord and a long projection (the axon) that carries electrical nerve impulses to the neuromuscular junction where the impulse is transferred to the muscle. Axons are wrapped in a sheath of Schwann cells that contain myelin. Between Schwann cells are gaps (nodes of Ranvier) where the axon is exposed. Different types of Guillain\u2013Barr\u00e9 syndrome feature different types of immune attack. The demyelinating variant (AIDP, see below) features damage to the myelin sheath by white blood cells (T lymphocytes and macrophages); this process is preceded by activation of a group of blood proteins known as complement. In contrast, the axonal variant is mediated by IgG antibodies and complement against the cell membrane covering the axon without direct lymphocyte involvement.",
+            "score": 179.62619018554688
+        },
+        {
+            "docid": "7251_24",
+            "document": "Central nervous system . This differentiates the central nervous system from the peripheral nervous system, which consists of neurons, axons and Schwann cells. Oligodendrocytes and Schwann cells have similar functions in the central and peripheral nervous system respectively. Both act to add myelin sheaths to the axons, which acts as a form of insulation allowing for better and faster proliferation of electrical signals along the nerves. Axons in the central nervous system are often very short (barely a few millimeters) and do not need the same degree of isolation as peripheral nerves do. Some peripheral nerves can be over 1m in length, such as the nerves to the big toe. To ensure signals move at sufficient speed, myelination is needed.",
+            "score": 178.15589904785156
+        },
+        {
+            "docid": "962174_11",
+            "document": "Node of Ranvier . The complex changes that the Schwann cell undergoes during the process of myelination of peripheral nerve fibers have been observed and studied by many. The initial envelopment of the axon occurs without interruption along the entire extent of the Schwann cell. This process is sequenced by the in-folding of the Schwann cell surface so that a double membrane of the opposing faces of the in-folded Schwann cell surface is formed. This membrane stretches and spirally wraps itself over and over as the in-folding of the Schwann cell surface continues. As a result, the increase in the thickness of the extension of the myelin sheath in its cross-sectional diameter is easily ascertained. It is also evident that each of the consecutive turns of the spiral increases in size along the length of the axon as the number of turns increase. However, it is not clear whether or not the increase in length of the myelin sheath can be accounted solely by the increase in length of axon covered by each successive turn of the spiral, as previously explained.  At the junction of two Schwann cells along an axon, the directions of the lamellar overhang of the myelin endings are of opposite sense. This junction, adjacent of the Schwann cells, constitutes the region designated as the node of Ranvier.",
+            "score": 176.07398986816406
+        },
+        {
+            "docid": "2168353_3",
+            "document": "Adrenergic nerve fibre . The nerve fibre is a thread-like extension of a nerve cell that includes the axon which may or may not be encased in a myelinated sheath. The androgenic nerve fibre when myelinated increases the speed of transmission for an action potential across the length of the cell. The gaps in the sheath along the axon are call the node of ranvier.",
+            "score": 174.545166015625
+        },
+        {
+            "docid": "2862913_2",
+            "document": "Myelin basic protein . Myelin basic protein (MBP) is a protein believed to be important in the process of myelination of nerves in the nervous system. The myelin sheath is a multi-layered membrane, unique to the nervous system, that functions as an insulator to greatly increase the velocity of axonal impulse conduction. MBP maintains the correct structure of myelin, interacting with the lipids in the myelin membrane.",
+            "score": 174.44581604003906
+        },
+        {
+            "docid": "7845_12",
+            "document": "Charcot\u2013Marie\u2013Tooth disease . The myelin sheath allows nerve cells to conduct signals faster. When the myelin sheath is damaged, nerve signals are slower, and this can be measured by a common neurological test, electromyography. When the axon is damaged, though, this results in a reduced compound muscle action potential.",
+            "score": 172.8444061279297
+        },
+        {
+            "docid": "21932333_4",
+            "document": "CNS demyelinating autoimmune diseases . The brain and the spinal cord are the essential components of the central nervous system and it is responsible for the integration of the signals received from the afferent nerves and initiates action. The nerve cells, known as neurons, carry impulses throughout the body and the nerve impulses are carried along the axon. These microscopic nerve fibers, where the action potential occurs, are protected by a white, fatty tissue that surrounds and insulates it, known as the myelin sheath. This insulation helps the axon of a nerve cell with the conduction and speed of the signal along the axon.",
+            "score": 172.13002014160156
+        },
+        {
+            "docid": "45372101_20",
+            "document": "Pathology of multiple sclerosis . The oligodendrocytes that originally formed a myelin sheath cannot completely rebuild a destroyed myelin sheath. However, the central nervous system can recruit oligodendrocyte stem cells capable of proliferation and migration and differentiation into mature myelinating oligodendrocytes. The newly formed myelin sheaths are thinner and often not as effective as the original ones. Repeated attacks lead to successively fewer effective remyelinations, until a scar-like plaque is built up around the damaged axons. These scars are the so-called \"scleroses\" that define the condition. They are named glial scars because they are produced by glial cells, mainly astrocytes, and their presence prevents remyelination. Therefore, there is research ongoing to prevent their formation.",
+            "score": 171.880615234375
+        },
+        {
+            "docid": "165923_10",
+            "document": "Schwann cell . Myelinating Schwann cells begin to form the myelin sheath in mammals during fetal development and work by spiraling around the axon, sometimes with as many as 100 revolutions. A well-developed Schwann cell is shaped like a rolled-up sheet of paper, with layers of myelin in between each coil. The inner layers of the wrapping, which are predominantly membrane material, form the myelin sheath while the outermost layer of nucleated cytoplasm forms the neurilemma. Only a small volume of residual cytoplasm allows communication between the inner and outer layers. This is seen histologically as the Schmidt-Lantermann incisure.",
+            "score": 170.56588745117188
+        },
+        {
+            "docid": "48693543_11",
+            "document": "Mary Bartlett Bunge . Richard also enriched Mary\u2019s life by introducing her to neuroscience, where she found her purpose and focused her research on while at Washington University School of Medicine. In particular, she focused on researching Schwann cells, which are cells that wrap around the axon of neurons to form the myelin sheath as an insulator to the neuron and to increase the speed impulses are conducted. One of her other major discoveries was that the oligodendrocyte was the cell that made the myelin sheath for the central nervous system. She first discovered this when she examined a section of a kitten\u2019s spinal cord in an electron microscope with the oligodendrocyte cell body forming myelin at each end. She also demonstrated that myelin could be reformed in the mature mammalian spinal cord, which has an important clinical relevance in addressing Multiple Sclerosis and spinal cord injuries, where the myelin has been damaged.",
+            "score": 170.51260375976562
+        },
+        {
+            "docid": "165923_15",
+            "document": "Schwann cell . Myelin protein zero (P0) is a cell adhesion molecule belonging to the immunoglobulin superfamily and is the major component of peripheral myelin, constituting over 50% of the total protein in the sheath. P0 has been shown to be essential for the formation of compact myelin, as P0 null mutant (P0-) mice showed severely aberrant peripheral myelination. Although myelination of large caliber axons was initiated in P0- mice, the resulting myelin layers were very thin and poorly compacted. Unexpectedly, P0- mice also showed degeneration of both axons and their surround myelin sheaths, suggesting that P0 plays a role in maintaining the structural integrity of both myelin formation and the axon with which it\u2019s associated. P0- mice developed behavioral deficits around 2 weeks of age when mice began to show signs of slight trembling. Gross incoordination also arose as the animals developed while trembling became more severe and some older mice developed convulsing behaviors. Despite the array of impaired motor behavior, no paralysis was observed in these animals. P0 is also an important gene expressed early within the Schwann cell lineage, expressed in Schwann cell precursors after differentiating from migrating neural crest cells within the developing embryo.",
+            "score": 170.4952392578125
+        },
+        {
+            "docid": "19319_7",
+            "document": "Myelin . The main purpose of a myelin sheath is to increase the speed at which impulses propagate along the myelinated fiber. Along unmyelinated fibers, impulses continuously move as waves, but, in myelinated fibers, they \"hop\" or propagate by saltatory conduction. Myelin decreases capacitance and increases electrical resistance across the cell membrane (the axolemma). Thus, myelination prevents the electric current from leaving the axon. It has been suggested that myelin permits larger body size by maintaining agile communication between distant body parts.",
+            "score": 170.36312866210938
+        },
+        {
+            "docid": "1997086_7",
+            "document": "Leukodystrophy . While the more specific underlying causes of leukodystrophy are dependent upon the type, there are, however, common pathophysiological patterns that can be seen amongst all types. First and foremost, leukodystrophy is a neurodegenerative disease that is always the result of both impairment and maintenance of myelin sheaths surrounding neuronal axons in the central nervous system as the result of a genetic mutation. Myelin is a fatty white substance that acts as an electrical insulator and coats axons in order to speed up impulses (i.e. action potentials) traveling down the axon. Thus, the natural result of a loss of this substance is decreased efficiency in impulse propagation. As myelin is produced by oligodendrocytes (a type of glial cell) in the central nervous system, an easy place to look for the cause is a mutation or malfunctioning of these cells and in other glial cells.",
+            "score": 168.76419067382812
+        },
+        {
+            "docid": "958_18",
+            "document": "Axon . Nodes of Ranvier (also known as \"myelin sheath gaps\") are short unmyelinated segments of a myelinated axon, which are found periodically interspersed between segments of the myelin sheath. Therefore, at the point of the node of Ranvier, the axon is reduced in diameter. These nodes are areas where action potentials can be generated. In saltatory conduction, electrical currents produced at each node of Ranvier are conducted with little attenuation to the next node in line, where they remain strong enough to generate another action potential. Thus in a myelinated axon, action potentials effectively \"jump\" from node to node, bypassing the myelinated stretches in between, resulting in a propagation speed much faster than even the fastest unmyelinated axon can sustain.",
+            "score": 168.3104248046875
+        },
+        {
+            "docid": "2363287_13",
+            "document": "Visual learning . Gray matter is responsible for generating nerve impulses that process brain information, and white matter is responsible for transmitting that brain information between lobes and out through the spinal cord. Nerve impulses are transmitted by myelin, a fatty material that grows around a cell. White matter has a myelin sheath (a collection of myelin) while gray matter doesn't, which efficiently allows neural impulses to move swiftly along the fiber. The myelin sheath isn't fully formed until around ages 24\u201326. This means that adolescents and young adults typically learn differently, and subsequently often utilize visual aids in order to help them better comprehend difficult subjects.",
+            "score": 167.68309020996094
+        },
+        {
+            "docid": "6745934_4",
+            "document": "Max Planck Institute for Experimental Medicine . The Department of Neurogenetics, led by Klaus-Armin Nave, uses transgenic techniques, natural and engineered mouse mutants and the tools of molecular and cellular biology to study neural development and the pathomechanisms of neurodegenerative diseases. A major focus of their research is on neuron-glia interactions that result in the assembly of myelin in the nervous system. Neuronal processes (axons) exhibit signaling molecules that are recognized by Schwann cells and oligodendrocytes. These highly specialized glial cells wrap and electrically insulate axons in the peripheral and central nervous system, respectively. Myelin allows the fast propagation of electrical impulses, but glial cells are also required for axonal maintenance. This line of research helps us to understand the molecular mechanisms of human neurological diseases in which genetic mutations cause myelin loss and defects of motor and cognitive function.",
+            "score": 165.90713500976562
+        }
+    ]
+}

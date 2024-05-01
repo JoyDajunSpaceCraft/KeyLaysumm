@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "38978090_4",
+            "document": "Maelstrom gene . Short RNAs are well-known to silence TEs (transposable elements) through the RNAi (RNA interference) pathway, and Piwi-associated RNAs (piRNAs) play a crucial role in transposon silencing in the germline. The Maelstrom protein forms a complex with piRISC to silence transposons and therefore stabilize the germline cell genome.",
+            "score": 153.76329612731934
+        },
+        {
+            "docid": "30651_27",
+            "document": "Transposable element . Because excessive TE activity can damage exons, many organisms have acquired mechanisms to inhibit their activity. Bacteria may undergo high rates of gene deletion as part of a mechanism to remove TEs and viruses from their genomes, while eukaryotic organisms typically use RNA interference to inhibit TE activity. Nevertheless, some TEs generate large families often associated with speciation events. Evolution often deactivates DNA transposons, leaving them as introns (inactive gene sequences). In vertebrate animal cells, nearly all 100,000+ DNA transposons per genome have genes that encode inactive transposase polypeptides. In humans, all Tc1-like transposons are inactive. The first synthetic transposon designed for use in vertebrate cells, the Sleeping Beauty transposon system, is a Tc1/mariner-like transposon. It exists in the human genome as an intron and was activated through reconstruction.",
+            "score": 111.28497004508972
+        },
+        {
+            "docid": "205624_16",
+            "document": "Horizontal gene transfer . HTT has been shown to occur between species and across continents in both plants and animals (Ivancevic et al. 2013), though some TEs have been shown to more successfully colonize the genomes of certain species over others. Both spatial and taxonomic proximity of species has been proposed to favor HTTs in plants and animals. It is unknown how the density of a population may affect the rate of HTT events within a population, but close proximity due to parasitism and cross contamination due to crowding have been proposed to favor HTT in both plants and animals. Successful transfer of a transposable element requires delivery of DNA from donor to host cell (and to the germ line for multi-cellular organisms), followed by integration into the recipient host genome. Though the actual mechanism for the transportation of TEs from donor cells to host cells is unknown, it is established that naked DNA and RNA can circulate in bodily fluid. Many proposed vectors include arthropods, viruses, freshwater snails (Ivancevic et al. 2013), endosymbiotic bacteria, and intracellular parasitic bacteria. In some cases, even TEs facilitate transport for other TEs.",
+            "score": 90.79869532585144
+        },
+        {
+            "docid": "30651_40",
+            "document": "Transposable element . The study conducted in 2008, \"High Rate of Recent Transposable Element\u2013Induced Adaptation in Drosophila melanogaster\", used \"D. melanogaster\" that had recently migrated from Africa to other parts of the world, as a basis for studying adaptations caused by transposable elements. Although most of the TEs were located on introns, the experiment showed the significant difference on gene expressions between the population in Africa and other parts of the world. The four TEs that caused the selective sweep were more prevalent in \"D. melanogaster\" from temperate climates, leading the researchers to conclude that the selective pressures of the climate prompted genetic adaptation. From this experiment, it has been confirmed that adaptive TEs are prevalent in nature, by enabling organisms to adapt gene expression as a result of new selective pressures.",
+            "score": 96.31674551963806
+        },
+        {
+            "docid": "205624_17",
+            "document": "Horizontal gene transfer . The arrival of a new TE in a host genome can have detrimental consequences because TE mobility may induce mutation. However, HTT can also be beneficial by introducing new genetic material into a genome and promoting the shuffling of genes and TE domains among hosts, which can be co-opted by the host genome to perform new functions. Moreover, transposition activity increases the TE copy number and generates chromosomal rearrangement hotspots. HTT detection is a difficult task because it is an ongoing phenomenon that is constantly changing in frequency of occurrence and composition of TEs inside host genomes. Furthermore, few species have been analyzed for HTT, making it difficult to establish patterns of HTT events between species. These issues can lead to the underestimation or overestimation of HTT events between ancestral and current eukaryotic species.",
+            "score": 91.35708093643188
+        },
+        {
+            "docid": "30651_24",
+            "document": "Transposable element . If organisms are mostly composed of TEs, one might assume that disease caused by misplaced TEs is very common, but in most cases TEs are silenced through epigenetic mechanisms like DNA methylation, chromatin remodeling and piRNA, such that little to no phenotypic effects nor movements of TEs occur as in some wild-type plant TEs. Certain mutated plants have been found to have defects in methylation-related enzymes (methyl transferase) which cause the transcription of TEs, thus affecting the phenotype.",
+            "score": 91.42187285423279
+        },
+        {
+            "docid": "12388_21",
+            "document": "Genome . Transposable elements (TEs) are sequences of DNA with a defined structure that are able to change their location in the genome. TEs are categorized as either class I TEs, which replicate by a copy-and-paste mechanism, or class II TEs, which can be excised from the genome and inserted at a new location.",
+            "score": 96.8435001373291
+        },
+        {
+            "docid": "30651_23",
+            "document": "Transposable element . Cells defend against the proliferation of TEs in a number of ways. These include piRNAs and siRNAs, which silence TEs after they have been transcribed.",
+            "score": 90.88637804985046
+        },
+        {
+            "docid": "30651_28",
+            "document": "Transposable element . Large quantities of TEs within genomes may still present evolutionary advantages, however. Interspersed repeats within genomes are created by transposition events accumulating over evolutionary time. Because interspersed repeats block gene conversion, they protect novel gene sequences from being overwritten by similar gene sequences and thereby facilitate the development of new genes. TEs may also have been co-opted by the vertebrate immune system as a means of producing antibody diversity. The V(D)J recombination system operates by a mechanism similar to that of some TEs.",
+            "score": 98.0029284954071
+        },
+        {
+            "docid": "42671200_2",
+            "document": "Epigenetic regulation of transposable elements in the plant kingdom . Transposable elements (transposons, TEs, 'jumping genes') are short strands of repetitive DNA that can self-replicate and translocate within the eukaryotic genome, and are generally perceived as parasitic in nature. Their transcription can lead to the production of dsRNAs (double-stranded RNAs), which resemble retroviruses transcripts. While most host cellular RNA has a singular, unpaired sense strand, dsRNA possesses sense and anti-sense transcripts paired together, and this difference in structure allows an host organism to detect dsRNA production, and thereby the presence of transposons. Plants lack distinct divisions between somatic cells and reproductive cells, and also have, generally, larger genomes than animals, making them an intriguing case-study kingdom to be used in attempting to better understand the epigenetics function of transposable elements.",
+            "score": 97.76840829849243
+        },
+        {
+            "docid": "5146476_36",
+            "document": "Reproductive isolation . The Dobzhansky-Muller model proposes that reproductive incompatibilities between species are caused by the interaction of the genes of the respective species. It has been demonstrated recently that \"Lhr\" has functionally diverged in \"D. simulans\" and will interact with \"Hmr\" which, in turn, has functionally diverged in \"D. melanogaster\" to cause the lethality of the male hybrids. \"Lhr\" is located in a heterochromatic region of the genome and its sequence has diverged between these two species in a manner consistent with the mechanisms of positive selection. An important unanswered question is whether the genes detected correspond to old genes that initiated the speciation favoring hybrid non-viability, or are modern genes that have appeared post-speciation by mutation, that are not shared by the different populations and that suppress the effect of the primitive non-viability genes. The \"OdsH\" (abbreviation of \"Odysseus\") gene causes partial sterility in the hybrid between \"Drosophila simulans\" and a related species, \"D. mauritiana\", which is only encountered on Mauritius, and is of recent origin. This gene shows monophyly in both species and also has been subject to natural selection. It is thought that it is a gene that intervenes in the initial stages of speciation, while other genes that differentiate the two species show polyphyly. \"Odsh\" originated by duplication in the genome of \"Drosophila\" and has evolved at very high rates in \"D. mauritania\", while its paralogue, \"unc-4\", is nearly identical between the species of the group \"melanogaster\". Seemingly, all these cases illustrate the manner in which speciation mechanisms originated in nature, therefore they are collectively known as \"speciation genes\", or possibly, gene sequences with a normal function within the populations of a species that diverge rapidly in response to positive selection thereby forming reproductive isolation barriers with other species. In general, all these genes have functions in the transcriptional regulation of other genes.",
+            "score": 62.3941605091095
+        },
+        {
+            "docid": "30651_26",
+            "document": "Transposable element . TEs are found in almost all life forms, and the scientific community is still exploring their evolution and their effect on genome evolution. It is unclear whether TEs originated in the last universal common ancestor, arose independently multiple times, or arose once and then spread to other kingdoms by horizontal gene transfer. While some TEs confer benefits on their hosts, most are regarded as selfish DNA parasites. In this way, they are similar to viruses. Various viruses and TEs also share features in their genome structures and biochemical abilities, leading to speculation that they share a common ancestor.",
+            "score": 96.04702949523926
+        },
+        {
+            "docid": "30651_42",
+            "document": "Transposable element . At the same time, there have been several reports showing the advantageous adaptation caused by TEs. In the research done with silkworms, \"An Adaptive Transposable Element insertion in the Regulatory Region of the EO Gene in the Domesticated Silkworm\", a TE insertion was observed in the cis-regulatory region of the EO gene, which regulates molting hormone 20E, and enhanced expression was recorded. While populations without the TE insert are often unable to effectively regulate hormone 20E under starvation conditions, those with the insert had a more stable development, which resulted in higher developmental uniformity.",
+            "score": 83.29200410842896
+        },
+        {
+            "docid": "20845472_3",
+            "document": "Jerzy Jurka . Dr. Jurka is best known for his work on eukaryotic transposable elements (TEs), including the discovery of the major families of Alu elements. He also proposed the mechanism of Alu proliferation and discovered their paternal transmission. The majority of known types of class II TEs, or DNA transposons, were discovered or co-discovered by his team at the Genetic Information Research Institute, based on DNA sequence analysis. The first one, reported in 2001 with Vladimir Kapitonov, became known as \"Helitron\", which is playing a major role in genomic evolution. In 2006 they reported a study of a new, self-synthesizing transposable element called Polinton or Maverick, which is present many diverse eukaryotes. More recently, Jurka and his co-workers presented a hypothesis that links the origin of repetitive families (TE families), to population subdivision and speciation based on classical concepts of population genetics.",
+            "score": 89.93544220924377
+        },
+        {
+            "docid": "12388_22",
+            "document": "Genome . The movement of TEs is a driving force of genome evolution in eukaryotes because their insertion can disrupt gene functions, homologous recombination between TEs can produce duplications, and TE can shuffle exons and regulatory sequences to new locations.",
+            "score": 71.1048812866211
+        },
+        {
+            "docid": "30651_13",
+            "document": "Transposable element . [Note : Retroviruses can also be considered TEs. For example, after conversion of retroviral RNA into DNA inside a host cell, the newly produced retroviral DNA is integrated into the genome of the host cell. These integrated DNAs are termed \"proviruses\". The provirus is a specialized form of eukaryotic retrotransposon, which can produce RNA intermediates that may leave the host cell and infect other cells. The transposition cycle of retroviruses has similarities to that of prokaryotic TEs, suggesting a distant relationship between the two]. The cut-and-paste transposition mechanism of class II TEs does not involve an RNA intermediate. The transpositions are catalyzed by several transposase enzymes. Some transposases non-specifically bind to any target site in DNA, whereas others bind to specific target sequences. The transposase makes a staggered cut at the target site producing sticky ends, cuts out the DNA transposon and ligates it into the target site. A DNA polymerase fills in the resulting gaps from the sticky ends and DNA ligase closes the sugar-phosphate backbone. This results in target site duplication and the insertion sites of DNA transposons may be identified by short direct repeats (a staggered cut in the target DNA filled by DNA polymerase) followed by inverted repeats (which are important for the TE excision by transposase).",
+            "score": 83.50434160232544
+        },
+        {
+            "docid": "30651_41",
+            "document": "Transposable element . However, not all effects of adaptive TEs are beneficial to the population. In the research conducted in 2009, \"A Recent Adaptive Transposable Element Insertion Near Highly Conserved Developmental Loci in Drosophila melanogaster\", a TE, inserted between Jheh 2 and Jheh 3, revealed a downgrade in the expression level of both of the genes. Down regulation of such genes has caused \"Drosophila\" to exhibit extended developmental time and reduced egg to adult viability. Although this adaptation was observed in high frequency in all non-African populations, it was not fixed in any of them. This is not hard to believe, since it is logical for a population to favor higher egg to adult viability, therefore trying to purge the trait caused by this specific TE adaptation.",
+            "score": 82.79860925674438
+        },
+        {
+            "docid": "23838716_14",
+            "document": "Helitron (biology) . There are also other gene capture mechanism models proposed for Helitrons: Site-specific recombination model which is based on the shared features between Helitrons and Integrons; Transposable element capture which is based on the integration of TEs via transposition into other TEs, also called TE nesting. Despite all these proposed models, there is a lack of examples to limit the mechanism of gene capture to a single model. Further research is needed to understand the molecular mechanism behind gene capture and how is favors the survival of Helitrons.",
+            "score": 69.2101058959961
+        },
+        {
+            "docid": "30651_10",
+            "document": "Transposable element . Transposable elements represent one of several types of mobile genetic elements. TEs are assigned to one of two classes according to their mechanism of transposition, which can be described as either \"copy and paste\" (Class I TEs) or \"cut and paste\" (Class II TEs).",
+            "score": 77.4128954410553
+        },
+        {
+            "docid": "50044342_2",
+            "document": "DNA transposon . DNA transposons (also called Class II elements) are a group of transposable elements (TEs) that can move in the DNA of an organism via a single- or double-stranded DNA intermediate. DNA transposons have been found in both prokaryotic and eukaryotic organisms. They can make up a significant portion of an organisms genome, particularly in eukaryotes. In prokaryotes, TE's can facilitate the horizontal transfer of antibiotic resistance or other genes associated with virulence.",
+            "score": 91.84937119483948
+        },
+        {
+            "docid": "30651_17",
+            "document": "Transposable element . Transposition can be classified as either \"autonomous\" or \"non-autonomous\" in both Class I and Class II TEs. Autonomous TEs can move by themselves, whereas non-autonomous TEs require the presence of another TE to move. This is often because dependent TEs lack transposase (for Class II) or reverse transcriptase (for Class I).",
+            "score": 70.51650261878967
+        },
+        {
+            "docid": "9018536_2",
+            "document": "Repeatome . The Repeatome can be defined as the complement of repeated sequences in a genome. The eukaryotic repeatomes typically comprise variable amounts of multiple components including transposable elements (TEs) and endogenous viruses, simple sequence repeats, segmental duplications, ribosomal DNA and other ribozymes, multi-copy gene families, pseudogenes, as well as highly conserved and repeated protein domains. Because of their relative high duplication rate as compared to other genomic components, TEs are typically predominant contributors to eukaryotic repeatomes and the product of their decay is thought to be a major source of genomic dark matter.",
+            "score": 88.80002188682556
+        },
+        {
+            "docid": "30651_43",
+            "document": "Transposable element . These three experiments all demonstrated different ways in which TE insertions can be advantageous or disadvantageous, through means of regulating the expression level of adjacent genes. The field of adaptive TE research is still under development and more findings can be expected in the future.",
+            "score": 81.01985239982605
+        },
+        {
+            "docid": "49982814_4",
+            "document": "Short interspersed nuclear element . SINEs use an RNA intermediate and reverse transcriptase to transpose into new parts of the genome. SINEs do not encode a functional reverse transcriptase and have to rely on the molecular machinery of other TEs for transposition. SINEs and other nuclear elements rely on the LINE-1 (L1) proteins for transposition throughout the genome. L1 is transcribed and retrotransposed most frequently in the germ-line and during early development; as a result SINEs move around the genome most during these periods. SINE transcription is down-regulated by transcription factors in somatic cells after early development, though stress can cause up-regulation of normally silent SINEs. SINEs can be transferred between individuals or species via horizontal transfer though a viral vector.",
+            "score": 85.39285254478455
+        },
+        {
+            "docid": "30651_29",
+            "document": "Transposable element . TEs can contain many types of genes, including those conferring antibiotic resistance and ability to transpose to conjugative plasmids. Some TEs also contain integrons, genetic elements that can capture and express genes from other sources. These contain integrase, which can integrate gene cassettes. There are over 40 antibiotic resistance genes identified on cassettes, as well as virulence genes.",
+            "score": 73.8718490600586
+        },
+        {
+            "docid": "30651_11",
+            "document": "Transposable element . Class I TEs are copied in two stages: first, they are transcribed from DNA to RNA, and the RNA produced is then reverse transcribed to DNA. This copied DNA is then inserted back into the genome at a new position. The reverse transcription step is catalyzed by a reverse transcriptase, which is often encoded by the TE itself. The characteristics of retrotransposons are similar to retroviruses, such as HIV.",
+            "score": 96.30552768707275
+        },
+        {
+            "docid": "24039902_3",
+            "document": "Ectopic recombination . The role of transposable elements in ectopic recombination is an area of active inquiry. Transposable elements\u2014repetitious sequences of DNA that can insert themselves into any part of the genome\u2014can encourage ectopic recombination at repeated homologous sequences of nucleotides. However, according to one proposed model, ectopic recombination might serve as an inhibitor of high transposable element copy numbers. The frequency of ectopic recombination of transposable elements has been linked to both higher copy numbers of transposable elements and the longer lengths of those elements. Since ectopic recombination is generally deleterious, anything that increases its odds of occurring is selected against, including the aforementioned higher copy numbers and longer lengths. This model, however, can only be applied to single families of transposable elements in the genome, as the probability of ectopic recombination occurring in one TE family is independent of it occurring in another. It follows that transposable elements that are shorter, transpose themselves less often, and have mutation rates high enough to disrupt the homology between transposable element sequences sufficiently to prevent ectopic recombination from occurring are selected for.",
+            "score": 96.23461663722992
+        },
+        {
+            "docid": "30651_38",
+            "document": "Transposable element . The second step of \"de novo\" repeat identification involves building a consensus of each family of sequences. A consensus sequence is a sequence that is created based on the repeats that comprise a TE family. A base pair in a consensus is the one that occurred most often in the sequences being compared to make the consensus. For example, in a family of 50 repeats where 42 have a T base pair in the same position, the consensus sequence would have a T at this position as well, as the base pair is representative of the family as a whole at that particular position, and is most likely the base pair found in the family's ancestor at that position. Once a consensus sequence has been made for each family, it is then possible to move on to further analysis, such as TE classification and genome masking in order to quantify the overall TE content of the genome.",
+            "score": 88.55046796798706
+        },
+        {
+            "docid": "37879288_3",
+            "document": "Transposon silencing . Piwi-interacting RNA (piRNA), the largest class of the small RNAs, are between 26 and 31 nucleotides in length and function through interactions with piwi proteins from the Argonaute protein family (gene silencing proteins). Many piRNAs are derived from transposons and other repeated elements, and therefore lack specific loci. Other piRNAs that do map to specific locations are clustered in areas near the centromeres or telomeres of the chromosome. piRNA clusters make up ~1% of the genome (Khurana, 4).",
+            "score": 102.78120613098145
+        },
+        {
+            "docid": "41082435_6",
+            "document": "Tigriopus californicus . Populations of \"T.\u00a0californicus\" along the Pacific coast of North America show a striking pattern of genetic differentiation among populations. Mitochondrial DNA shows particularly large divergences among populations often exceeding twenty percent total sequence divergence. Genetic divergence of a smaller magnitude extends down to a more local scale and this divergence can be stable for longer than two decades for outcrops that are as little as apart, suggesting that dispersal between outcrops must be relatively rare for this copepod. Surprisingly, genetic divergence is much lower among copepod populations from Washington north to Alaska suggesting that copepods may have recolonized these areas since the end of the last ice age. Crosses of copepods from different populations of \"T.\u00a0californicus\" have been used to study how reproductive isolation accumulates between diverging population to gain insights into the process of speciation. For crosses between many populations a pattern that has been called hybrid breakdown is observed; this means that first generation hybrids have high survival and reproduction (fitness), while the second generation hybrids have lower and more variable fitness. Deleterious interactions between the mitochondrial genome and nuclear genome may play a large role in the reduction in hybrid fitness observed in many of these crosses. Sex determination in \"T.\u00a0californicus\" does not appear to be caused by sex chromosomes and is likely to be polygenic, potentially influenced by environmental conditions. The ratios of males to females produced by females differs among families and in some families seems to be genetically determined largely by the father in a pair. Another interesting feature of the mating system of this species is that the males use their large clasping antennules to clutch females until they are ready to mate. Females will mate only once during their lives but produce multiple clutches of offspring.",
+            "score": 50.469950675964355
+        },
+        {
+            "docid": "30651_31",
+            "document": "Transposable element . The first TE was discovered in maize (\"Zea mays\") and is named dissociator (\"Ds\"). Likewise, the first TE to be molecularly isolated was from a plant (snapdragon). Appropriately, TEs have been an especially useful tool in plant molecular biology. Researchers use them as a means of mutagenesis. In this context, a TE jumps into a gene and produces a mutation. The presence of such a TE provides a straightforward means of identifying the mutant allele relative to chemical mutagenesis methods.",
+            "score": 70.4224317073822
+        },
+        {
+            "docid": "2676597_7",
+            "document": "Isotachophoresis . A popular form of ITP is transient ITP (tITP). It alleviates the limitation of conventional ITP that it has limited separation capacity because of analyte zone overlap. In transient ITP, analytes are first concentrated by ITP, and then can be baseline separated by zone electrophoresis. Transient ITP is usually accomplished by dissolving the sample in the TE and sandwiching the sample/TE plug between LE zones - or vice versa: a sample/LE plug can also be sandwiched between TE zones. In the first case, analytes are focused at the front TE/LE interface. Meanwhile, the back of the TE plug becomes dissolved in the LE because the faster LE ions overcome the TE ions. When all of the TE ions are dissolved, the focusing process ceases and the analytes are separated according to the principles of zone electrophoresis.",
+            "score": 46.519770860672
+        }
+    ],
+    "r": [
+        {
+            "docid": "38978090_4",
+            "document": "Maelstrom gene . Short RNAs are well-known to silence TEs (transposable elements) through the RNAi (RNA interference) pathway, and Piwi-associated RNAs (piRNAs) play a crucial role in transposon silencing in the germline. The Maelstrom protein forms a complex with piRISC to silence transposons and therefore stabilize the germline cell genome.",
+            "score": 153.7633056640625
+        },
+        {
+            "docid": "9418169_10",
+            "document": "Piwi . Recently, a novel class of longer-than-average miRNAs known as Piwi-interacting RNAs (piRNAs) has been defined in mammalian cells, about 26-31 nucleotides long as compared to the more typical miRNA or siRNA of about 21 nucleotides. These piRNAs are expressed mainly in spermatogenic cells in the testes of mammals. However recent studies have reported that piRNA expression can be found in the ovarian somatic cells and neuron cells in invertebrates, as well as in many other mammalian somatic cells. piRNAs have been identified in the genomes of mice, rats, and humans, with an unusual \"clustered\" genomic organization that may originate from repetitive regions of the genome such as retrotransposons or regions normally organized into heterochromatin, and which are normally derived exclusively from the antisense strand of double-stranded RNA. piRNAs have thus been classified as \"repeat-associated small interfering RNAs\" (rasiRNAs). Although their biogenesis is not yet well understood, piRNAs and Piwi proteins are thought to form an endogenous system for silencing the expression of selfish genetic elements such as retrotransposons and thus preventing the gene products of such sequences from interfering with germ cell formation.",
+            "score": 117.38932800292969
+        },
+        {
+            "docid": "37879288_4",
+            "document": "Transposon silencing . piRNAs were first observed in Drosophila in 1990 (Johnson, 2). In 2003, piRNAs derived largely from repeated sequence elements, including transposons, were found in abundance in male and female \"Drosophila\" germlines (Theurkauf, 5). Since then, several studies have identified various piRNAs and piwi-pathways involved in transposon silencing in various species. Two such genome defense systems against transposons are the silencing of the MuDR transposon in maize and the silencing of P elements in \"Drosophila\".",
+            "score": 112.91655731201172
+        },
+        {
+            "docid": "37879288_2",
+            "document": "Transposon silencing . Transposon silencing is a form of transcriptional gene silencing targeting transposons. Transcriptional gene silencing is a product of histone modifications that prevent the transcription of a particular area of DNA. Transcriptional silencing of transposons is crucial to the maintenance of a genome. The \u201cjumping\u201d of transposons generates genomic instability and can cause extremely deleterious mutations. Transposable element insertions have been linked to many diseases including hemophilia, severe combined immunodeficiency, and predisposition to cancer. The silencing of transposons is therefore extremely critical in the germline in order to stop transposon mutations from developing and being passed on to the next generation. Additionally, these epigenetic defenses against transposons can be heritable. Studies in \"Drosophila\", \"Arabidopsis thaliana\", and mice all indicate that small interfering RNAs are responsible for transposon silencing. In animals, these siRNAS and piRNAs are most active in the gonads.",
+            "score": 112.03253936767578
+        },
+        {
+            "docid": "30651_27",
+            "document": "Transposable element . Because excessive TE activity can damage exons, many organisms have acquired mechanisms to inhibit their activity. Bacteria may undergo high rates of gene deletion as part of a mechanism to remove TEs and viruses from their genomes, while eukaryotic organisms typically use RNA interference to inhibit TE activity. Nevertheless, some TEs generate large families often associated with speciation events. Evolution often deactivates DNA transposons, leaving them as introns (inactive gene sequences). In vertebrate animal cells, nearly all 100,000+ DNA transposons per genome have genes that encode inactive transposase polypeptides. In humans, all Tc1-like transposons are inactive. The first synthetic transposon designed for use in vertebrate cells, the Sleeping Beauty transposon system, is a Tc1/mariner-like transposon. It exists in the human genome as an intron and was activated through reconstruction.",
+            "score": 111.28496551513672
+        },
+        {
+            "docid": "9516673_6",
+            "document": "RNA activation . In C. elegans, Argonaute CSR-1 interacts with 22G small RNAs derived from RNA-dependent RNA polymerase and antisense to germline-expressed transcripts to protect these mRNAs from Piwi-piRNA mediated silencing via promoting epigenetic activation. In C. elegans hypodermal seam cells, the transcription of lin-4 miRNA is positively regulated by lin-4 itself which binds to a conserved lin-4 complementary element in its promoter, constituting a positive autoregulatory loop.",
+            "score": 110.81442260742188
+        },
+        {
+            "docid": "9418169_7",
+            "document": "Piwi . PIWI proteins play a crucial role in fertility and germline development across animals and ciliates. Recently identified as a polar granule component, PIWI proteins appear to control germ cell formation so much so that in the absence of PIWI proteins there is a significant decrease in germ cell formation. Similar observations were made with the mouse homologs of PIWI, MILI, MIWI and MIWI2. These homologs are known to be present in spermatogenesis. Miwi is expressed in various stages of spermatocyte formation and spermatid elongation where Miwi2 is expressed in Sertoli cells. Mice deficient in either Mili or Miwi-2 have experienced spermatogenic stem cell arrest and those lacking Miwi-2 underwent a degradation of spermatogonia. The effects of piwi proteins in human and mouse germlines seems to stem from their involvement in translation control as Piwi and the small noncoding RNA, piwi-interacting RNA (piRNA), have been known to co-fractionate polysomes. The piwi-piRNA pathway also induces heterochromatin formation at centromeres, thus affecting transcription. The piwi-piRNA pathway also appears to protect the genome. First observed in Drosophila, mutant piwi-piRNA pathways led to a direct increase in dsDNA breaks in ovarian germ cells. The role of the piwi-piRNA pathway in transposon silencing may be responsible for the reduction in dsDNA breaks in germ cells.",
+            "score": 107.86444091796875
+        },
+        {
+            "docid": "49968817_3",
+            "document": "Retrotransposon silencing . Piwi-interacting RNA (piRNA) and endogenous short interfering RNA (esiRNA) are small RNA fragments that partner with cleaving proteins to act as guides to a retrotransposon. piRNA and PIWI protein complexes are a common defense mechanism against retrotransposons in the germline\u2014sperm or egg cells\u2014cells that are extremely vulnerable to retrotransposon induced mutations. Once retrotransposon RNA has been encountered, the piRNA/ PIWI protein complex cleaves the RNA, rendering it unable to reverse transcribe. EsiRNA and its protein complex may also function to promote heterochromatin creation near retrotransposon sites, silencing the DNA by making it difficult for DNA polymerases to access it. Although it is unclear how piRNAs and esiRNAs are produced, it is thought that retrotransposon cleaving by PIWI may produce new piRNA, in the so called ping pong theory. Production of piRNA in both the male and female germline is known to be regulated by the nuage, a protein-RNA hybrid also sometimes called the intermitochondrial cement, the absence of which causes infertility in males but not females. This may imply that retrotransposon induced mutations may be more prevalent or more devastating in the male germline. A microRNA\u2014another type of small RNA\u2014from strawberries has been shown to post transcriptionally silence retrotransposon function by blocking the binding site for proteins involved in reverse transcription.",
+            "score": 103.41519165039062
+        },
+        {
+            "docid": "37879288_3",
+            "document": "Transposon silencing . Piwi-interacting RNA (piRNA), the largest class of the small RNAs, are between 26 and 31 nucleotides in length and function through interactions with piwi proteins from the Argonaute protein family (gene silencing proteins). Many piRNAs are derived from transposons and other repeated elements, and therefore lack specific loci. Other piRNAs that do map to specific locations are clustered in areas near the centromeres or telomeres of the chromosome. piRNA clusters make up ~1% of the genome (Khurana, 4).",
+            "score": 102.78121185302734
+        },
+        {
+            "docid": "8643335_11",
+            "document": "Piwi-interacting RNA . The piRNA Ping-Pong pathway was first proposed from studies in \"Drosophila\" where the piRNA associated with the two cytoplasmic Piwi proteins, Aubergine (Aub) and Argonaute-3 (Ago3) exhibited a high frequency of sequence complementarity over exactly 10 nucleotides at their 5' ends. This relationship is known as the \"ping-pong signature\" and is also observed in associated piRNA from Mili and Miwi2 proteins isolated from mouse testes. The proposed function of Ping-Pong in \"Drosophila\" or in mouse remains to be understood, but a leading hypothesis is that the interaction between Aub and Ago3 allows for a cyclic refinement of piRNA that are best suited to target active transposon sequences. Aub piRNA are primarily antisense to transposable element transcripts and are believed to be the main factor in targeting deleterious transcripts through complementarity. Conversely, Ago3 piRNA sequences are predominantly of sense orientation to transposable element transcripts and are derived from the product of Aub cleavage of transposon mRNA. As such, Ago3 piRNA lack the ability to target transposable element transcripts directly. Therefore, it was proposed that Ago3 piRNA guide the production of piRNA that are loaded into Aub by targeting newly exported piRNA cluster transcripts. Several lines of evidence support the effect of Ago3 on the production of Aub piRNA, in particular from examining the piRNA repertoire in \"Drosophila\" ovaries that are mutant for Ago3 and the Tudor-domain protein Kumo/Qin.",
+            "score": 100.87847900390625
+        },
+        {
+            "docid": "30651_28",
+            "document": "Transposable element . Large quantities of TEs within genomes may still present evolutionary advantages, however. Interspersed repeats within genomes are created by transposition events accumulating over evolutionary time. Because interspersed repeats block gene conversion, they protect novel gene sequences from being overwritten by similar gene sequences and thereby facilitate the development of new genes. TEs may also have been co-opted by the vertebrate immune system as a means of producing antibody diversity. The V(D)J recombination system operates by a mechanism similar to that of some TEs.",
+            "score": 98.0029296875
+        },
+        {
+            "docid": "42671200_2",
+            "document": "Epigenetic regulation of transposable elements in the plant kingdom . Transposable elements (transposons, TEs, 'jumping genes') are short strands of repetitive DNA that can self-replicate and translocate within the eukaryotic genome, and are generally perceived as parasitic in nature. Their transcription can lead to the production of dsRNAs (double-stranded RNAs), which resemble retroviruses transcripts. While most host cellular RNA has a singular, unpaired sense strand, dsRNA possesses sense and anti-sense transcripts paired together, and this difference in structure allows an host organism to detect dsRNA production, and thereby the presence of transposons. Plants lack distinct divisions between somatic cells and reproductive cells, and also have, generally, larger genomes than animals, making them an intriguing case-study kingdom to be used in attempting to better understand the epigenetics function of transposable elements.",
+            "score": 97.7684097290039
+        },
+        {
+            "docid": "50105198_9",
+            "document": "Ruth Lehmann . Currently, Lehmann is studying piRNA production and the role it plays in preventing transposable element insertion and movement across the \"Drosophila\" genome. She discovered that biogenesis of piRNAs and activation of the piRNA pathway is directly dependent on a number of proteins and epigenetic interactions. These results indicate that piRNAs play a paramount role in maintaining genomic integrity while allowing for genetic variation to occur.",
+            "score": 97.74995422363281
+        },
+        {
+            "docid": "12388_21",
+            "document": "Genome . Transposable elements (TEs) are sequences of DNA with a defined structure that are able to change their location in the genome. TEs are categorized as either class I TEs, which replicate by a copy-and-paste mechanism, or class II TEs, which can be excised from the genome and inserted at a new location.",
+            "score": 96.843505859375
+        },
+        {
+            "docid": "30651_40",
+            "document": "Transposable element . The study conducted in 2008, \"High Rate of Recent Transposable Element\u2013Induced Adaptation in Drosophila melanogaster\", used \"D. melanogaster\" that had recently migrated from Africa to other parts of the world, as a basis for studying adaptations caused by transposable elements. Although most of the TEs were located on introns, the experiment showed the significant difference on gene expressions between the population in Africa and other parts of the world. The four TEs that caused the selective sweep were more prevalent in \"D. melanogaster\" from temperate climates, leading the researchers to conclude that the selective pressures of the climate prompted genetic adaptation. From this experiment, it has been confirmed that adaptive TEs are prevalent in nature, by enabling organisms to adapt gene expression as a result of new selective pressures.",
+            "score": 96.31674194335938
+        },
+        {
+            "docid": "30651_11",
+            "document": "Transposable element . Class I TEs are copied in two stages: first, they are transcribed from DNA to RNA, and the RNA produced is then reverse transcribed to DNA. This copied DNA is then inserted back into the genome at a new position. The reverse transcription step is catalyzed by a reverse transcriptase, which is often encoded by the TE itself. The characteristics of retrotransposons are similar to retroviruses, such as HIV.",
+            "score": 96.30552673339844
+        },
+        {
+            "docid": "24039902_3",
+            "document": "Ectopic recombination . The role of transposable elements in ectopic recombination is an area of active inquiry. Transposable elements\u2014repetitious sequences of DNA that can insert themselves into any part of the genome\u2014can encourage ectopic recombination at repeated homologous sequences of nucleotides. However, according to one proposed model, ectopic recombination might serve as an inhibitor of high transposable element copy numbers. The frequency of ectopic recombination of transposable elements has been linked to both higher copy numbers of transposable elements and the longer lengths of those elements. Since ectopic recombination is generally deleterious, anything that increases its odds of occurring is selected against, including the aforementioned higher copy numbers and longer lengths. This model, however, can only be applied to single families of transposable elements in the genome, as the probability of ectopic recombination occurring in one TE family is independent of it occurring in another. It follows that transposable elements that are shorter, transpose themselves less often, and have mutation rates high enough to disrupt the homology between transposable element sequences sufficiently to prevent ectopic recombination from occurring are selected for.",
+            "score": 96.23461151123047
+        },
+        {
+            "docid": "8643335_16",
+            "document": "Piwi-interacting RNA . piRNA has a role in RNA silencing via the formation of an RNA-induced silencing complex (RISC). piRNAs interact with piwi proteins that are part of a family of proteins called the Argonautes. These are active in the testes of mammals and are required for germ-cell and stem-cell development in invertebrates. Three piwi subfamily proteins \u2013 MIWI, MIWI2 and MILI \u2013 have been found to be essential for spermatogenesis in mice. piRNAs direct the piwi proteins to their transposon targets. A decrease or absence of PIWI gene expression is correlated with an increased expression of transposons. Transposons have a high potential to cause deleterious effect on their host, and, in fact, mutations in piRNA pathways are found to reduce fertility in \"D. melanogaster\". Further, it is thought that piRNA and endogenous small interfering RNA (endo-siRNA) may have comparable and even redundant functionality in transposon control in mammalian oocytes.",
+            "score": 96.17640686035156
+        },
+        {
+            "docid": "30651_26",
+            "document": "Transposable element . TEs are found in almost all life forms, and the scientific community is still exploring their evolution and their effect on genome evolution. It is unclear whether TEs originated in the last universal common ancestor, arose independently multiple times, or arose once and then spread to other kingdoms by horizontal gene transfer. While some TEs confer benefits on their hosts, most are regarded as selfish DNA parasites. In this way, they are similar to viruses. Various viruses and TEs also share features in their genome structures and biochemical abilities, leading to speculation that they share a common ancestor.",
+            "score": 96.04702758789062
+        },
+        {
+            "docid": "50430120_8",
+            "document": "Short interspersed nuclear elements (SINEs) . The activity of SINEs however has genetic vestiges which do not seem to play a significant role, positive or negative, and manifest themselves in the genome as pseudogenes. SINEs however should not be mistaken as RNA pseudogenes. In general, pseudogenes are generated when processed mRNAs of protein-coding genes are reverse-transcribed and incorporated back into the genome (RNA pseudogenes are reverse transcribed RNA genes). Pseudogenes are generally functionless as they descend from processed RNAs independent of their evolutionary-context which includes introns and different regulatory elements which enable transcription and processing. These pseudogenes, though non-functional may in some cases still possess promoters, CpG islands, and other features which enable transcription; they thus can still be transcribed and may possess a role in the regulation of gene expression (like SINEs and other non-coding elements). Pseudogenes thus differ from SINEs in that they are derived from transcribed- functional RNA whereas SINEs are DNA elements which retrotranspose by co-opting RNA genes transcriptional machinery. However, there are studies which suggest that retro-transposable elements such as short-interspersed nuclear elements are not only capable of copying themselves in alternate regions in the genome but are also able to do so for random genes too. Thus SINEs can be playing a vital role in the generation of pseudogenes, which themselves are known to be involved in regulatory networks. This is perhaps another means by which SINEs have been able to influence and contribute to gene-regulation.",
+            "score": 95.81487274169922
+        },
+        {
+            "docid": "49394420_19",
+            "document": "J\u00fcrgen Brosius . He observed analogous trends in the field of repetitive or transposed genomic elements (TEs) including retroposed elements. These elements were initially considered to be junk, littering genomes, and proposed by only a few to constitute raw material for fortuitous and only occasional exaptations, and to be responsible for the plasticity of genomes and the modular architecture of genes. The current tide is moving in the opposite direction. A plethora of functions have been assigned to TEs, one example being the bewildering spectrum of tasks allocated to the evolutionarily young primate-specific Alu elements. Such sweeping interpretations should be challenged.",
+            "score": 94.13130187988281
+        },
+        {
+            "docid": "8643335_2",
+            "document": "Piwi-interacting RNA . Piwi-interacting RNA (piRNA) is the largest class of small non-coding RNA molecules expressed in animal cells. piRNAs form RNA-protein complexes through interactions with piwi proteins. These piRNA complexes have been linked to both epigenetic and post-transcriptional gene silencing of retrotransposons and other genetic elements in germ line cells, particularly those in spermatogenesis. They are distinct from microRNA (miRNA) in size (26\u201331 nt rather than 21\u201324 nt), lack of sequence conservation, and increased complexity.",
+            "score": 93.42379760742188
+        },
+        {
+            "docid": "8643335_5",
+            "document": "Piwi-interacting RNA . piRNAs are found in clusters throughout the genome; these clusters may contain as few as ten or up to many thousands of piRNAs and can vary in size from one to one hundred kb. The detection and annotation of piRNA clusters in genomes based on bioinformatic methods became more and more sophisticated during the past years. While the clustering of piRNAs is highly conserved across species, the sequences are not. While \"D. melanogaster\" and vertebrate piRNAs have been located in areas lacking any protein coding genes, piRNAs in \"C. elegans\" have been identified amidst protein coding genes.",
+            "score": 93.10305786132812
+        },
+        {
+            "docid": "25758_20",
+            "document": "RNA . Several types of RNA can downregulate gene expression by being complementary to a part of an mRNA or a gene's DNA. MicroRNAs (miRNA; 21-22\u00a0nt) are found in eukaryotes and act through RNA interference (RNAi), where an effector complex of miRNA and enzymes can cleave complementary mRNA, block the mRNA from being translated, or accelerate its degradation. While small interfering RNAs (siRNA; 20-25\u00a0nt) are often produced by breakdown of viral RNA, there are also endogenous sources of siRNAs. siRNAs act through RNA interference in a fashion similar to miRNAs. Some miRNAs and siRNAs can cause genes they target to be methylated, thereby decreasing or increasing transcription of those genes. Animals have Piwi-interacting RNAs (piRNA; 29-30\u00a0nt) that are active in germline cells and are thought to be a defense against transposons and play a role in gametogenesis.",
+            "score": 93.04642486572266
+        },
+        {
+            "docid": "50044342_2",
+            "document": "DNA transposon . DNA transposons (also called Class II elements) are a group of transposable elements (TEs) that can move in the DNA of an organism via a single- or double-stranded DNA intermediate. DNA transposons have been found in both prokaryotic and eukaryotic organisms. They can make up a significant portion of an organisms genome, particularly in eukaryotes. In prokaryotes, TE's can facilitate the horizontal transfer of antibiotic resistance or other genes associated with virulence.",
+            "score": 91.84937286376953
+        },
+        {
+            "docid": "30651_24",
+            "document": "Transposable element . If organisms are mostly composed of TEs, one might assume that disease caused by misplaced TEs is very common, but in most cases TEs are silenced through epigenetic mechanisms like DNA methylation, chromatin remodeling and piRNA, such that little to no phenotypic effects nor movements of TEs occur as in some wild-type plant TEs. Certain mutated plants have been found to have defects in methylation-related enzymes (methyl transferase) which cause the transcription of TEs, thus affecting the phenotype.",
+            "score": 91.421875
+        },
+        {
+            "docid": "205624_17",
+            "document": "Horizontal gene transfer . The arrival of a new TE in a host genome can have detrimental consequences because TE mobility may induce mutation. However, HTT can also be beneficial by introducing new genetic material into a genome and promoting the shuffling of genes and TE domains among hosts, which can be co-opted by the host genome to perform new functions. Moreover, transposition activity increases the TE copy number and generates chromosomal rearrangement hotspots. HTT detection is a difficult task because it is an ongoing phenomenon that is constantly changing in frequency of occurrence and composition of TEs inside host genomes. Furthermore, few species have been analyzed for HTT, making it difficult to establish patterns of HTT events between species. These issues can lead to the underestimation or overestimation of HTT events between ancestral and current eukaryotic species.",
+            "score": 91.3570785522461
+        },
+        {
+            "docid": "37879288_6",
+            "document": "Transposon silencing . P elements are a family of transposons that recently proliferated within the genome of \"Drosophila melanogaster\". The P elements have an extremely high transposition rate and induce sterility and abnormal gonad development in \"D. melanogaster\" (Johnson, 2). The flies thus developed a maternally inherited technique for combating the invasive DNA and silencing the transposons, now known as P cytotype. P cytotype detects DNA sequences in areas of telomeric heterochromatin and silences those sequences when they are found elsewhere in the genome. This is referred to as the telomeric-silencing effect (TSE) (2). Just two P elements in the telomere are enough to suppress over 80 other copies of the P element in the genome. The cytoplasmic factor used for TSE builds up over generations and suppression of the transposons is not fully effective unless the fly\u2019s female-line ancestors have had the P element for six generations (2).",
+            "score": 91.1348876953125
+        },
+        {
+            "docid": "30651_23",
+            "document": "Transposable element . Cells defend against the proliferation of TEs in a number of ways. These include piRNAs and siRNAs, which silence TEs after they have been transcribed.",
+            "score": 90.8863754272461
+        },
+        {
+            "docid": "205624_16",
+            "document": "Horizontal gene transfer . HTT has been shown to occur between species and across continents in both plants and animals (Ivancevic et al. 2013), though some TEs have been shown to more successfully colonize the genomes of certain species over others. Both spatial and taxonomic proximity of species has been proposed to favor HTTs in plants and animals. It is unknown how the density of a population may affect the rate of HTT events within a population, but close proximity due to parasitism and cross contamination due to crowding have been proposed to favor HTT in both plants and animals. Successful transfer of a transposable element requires delivery of DNA from donor to host cell (and to the germ line for multi-cellular organisms), followed by integration into the recipient host genome. Though the actual mechanism for the transportation of TEs from donor cells to host cells is unknown, it is established that naked DNA and RNA can circulate in bodily fluid. Many proposed vectors include arthropods, viruses, freshwater snails (Ivancevic et al. 2013), endosymbiotic bacteria, and intracellular parasitic bacteria. In some cases, even TEs facilitate transport for other TEs.",
+            "score": 90.79869079589844
+        },
+        {
+            "docid": "20845472_3",
+            "document": "Jerzy Jurka . Dr. Jurka is best known for his work on eukaryotic transposable elements (TEs), including the discovery of the major families of Alu elements. He also proposed the mechanism of Alu proliferation and discovered their paternal transmission. The majority of known types of class II TEs, or DNA transposons, were discovered or co-discovered by his team at the Genetic Information Research Institute, based on DNA sequence analysis. The first one, reported in 2001 with Vladimir Kapitonov, became known as \"Helitron\", which is playing a major role in genomic evolution. In 2006 they reported a study of a new, self-synthesizing transposable element called Polinton or Maverick, which is present many diverse eukaryotes. More recently, Jurka and his co-workers presented a hypothesis that links the origin of repetitive families (TE families), to population subdivision and speciation based on classical concepts of population genetics.",
+            "score": 89.93544006347656
+        },
+        {
+            "docid": "30651_3",
+            "document": "Transposable element . Transposable elements make up a large fraction of the genome and are responsible for much of the mass of DNA in a eukaryotic cell. It has been shown that TEs are important in genome function and evolution. In \"Oxytricha\", which has a unique genetic system, these elements play a critical role in development. Transposons are also very useful to researchers as a means to alter DNA inside a living organism.",
+            "score": 89.89237976074219
+        }
+    ]
+}

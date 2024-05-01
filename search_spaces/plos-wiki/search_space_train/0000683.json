@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "477489_14",
+            "document": "Human respiratory syncytial virus . Human respiratory syncytial virus is a medium-sized (120\u2013200\u00a0nm) enveloped virus that contains a lipoprotein coat and a linear negative-sense RNA genome (must be converted to an anti-sense genome prior to translation). The former contains virally encoded F, G, and SH lipoproteins. The F and G lipoproteins are the only two that target the cell membrane, and are highly conserved among RSV isolates. HRSV is divided into two antigenic subgroups, A and B, on the basis of the reactivity of the virus with monoclonal antibodies against the attachment (G) and fusion (F) glycoproteins. Subtype B is characterized as the asymptomatic strains of the virus that the majority of the population experiences. The more severe clinical illnesses involve subtype A strains, which tend to predominate in most outbreaks.",
+            "score": 147.563405752182
+        },
+        {
+            "docid": "2178487_2",
+            "document": "Epitope mapping . Epitope mapping is the process of experimentally identifying the binding sites, or 'epitopes', of antibodies on their target antigens. Identification and characterization of the binding sites of antibodies can aid in the discovery and development of new therapeutics, vaccines, and diagnostics. Characterization of epitopes can also help elucidate the mechanism of binding for an antibody and facilitate the prediction of B cell epitopes using robust algorithms. Epitopes can be generally divided into two main classes: linear and conformational. \"Linear epitopes\" are formed by a continuous sequence of amino acids in a protein, while \"conformational epitopes\" are composed of amino acids that are discontinuous in the protein sequence but are brought together upon three-dimensional protein folding.The vast majority of antigen-antibody interactions rely upon binding to conformational epitopes.",
+            "score": 110.75159335136414
+        },
+        {
+            "docid": "477498_11",
+            "document": "Human metapneumovirus . A licensed vaccine for humans is still many years distant. The Department of Virology of Erasmus MC, Rotterdam in the Netherlands is working on developing a Metapneumovirus vaccine for humans. Enhancement of the binding of palivizumab to the HRSV F protein resulted in a second-generation monoclonal antibody, motavizumab (Numax, MedImmune Inc.), which is currently under study in phase III clinical trials. For members of the Paramyxovirinae subfamily, very young infants are the main target group for immunization. Since these children have not yet developed a mature immune system, a multidose vaccine strategy may be needed, starting in the first weeks of life. The vaccination efficacy in these children may also be hampered by the presence of maternally derived antibodies, which may provide partial protection to wild-type virus infections but also suppress the primary immune response on immunization. Pneumoviruses replicate entirely in the cytoplasm, and this process begins with adsorption of the virus to the cellular receptor on the host cell, directed by the viral attachment protein, variously called G, H (hemagglutinin) or HN (hemagglutinin-neuraminidase).",
+            "score": 104.8274918794632
+        },
+        {
+            "docid": "10013096_3",
+            "document": "Friend virus . Experiments have shown that it is possible to protect against Friend virus infection with several types of vaccines, including attenuated viruses, viral proteins, peptides, and recombinant vaccinia vectors expressing the Friend virus gene. In a study of vaccinated mice, it was possible to identify the immunological epitopes required for protection against the virus, thus determining the types of immunological responses necessary or required for protection against it. The research discovered protective epitopes that were localized to F-MuLV gag and env proteins. This was achieved using recombinant vaccinia viruses expressing the gag and env genes of FV.",
+            "score": 110.47367143630981
+        },
+        {
+            "docid": "33456956_11",
+            "document": "RTS,S . The RTS,S vaccine was engineered using genes from the repeat and T-cell epitope in the pre-erythrocytic circumsporozoite protein (CSP) of the \"Plasmodium falciparum\" malaria parasite and a viral envelope protein of the hepatitis B virus (HBsAg), to which was added a chemical adjuvant (AS01) to increase the immune system response. Infection is prevented by inducing humoral and cellular immunity, with high antibody titers, that block the parasite from infecting the liver.",
+            "score": 101.26380944252014
+        },
+        {
+            "docid": "4371737_10",
+            "document": "Murine leukemia virus . The Friend virus (FV) is a strain of murine leukemia virus. The Friend virus has been used for both immunotherapy and vaccines. Experiments have shown that it is possible to protect against Friend virus infection with several types of vaccines, including attenuated viruses, viral proteins, peptides, and recombinant vaccinia vectors expressing the Friend virus gene. In a study of vaccinated mice, it was possible to identify the immunological epitopes required for protection against the virus, thus determining the types of immunological responses necessary or required for protection against it. The research discovered protective epitopes that were localized to F-MuLV gag and env proteins. This was achieved using recombinant vaccinia viruses expressing the gag and env genes of FV.",
+            "score": 106.78778290748596
+        },
+        {
+            "docid": "37922599_2",
+            "document": "Asthma-related microbes . Chronic Mycoplasma pneumonia and Chlamydia pneumonia infections are associated with the onset and exacerbation of asthma. These microbial infections result in chronic lower airway inflammation, impaired mucociliary clearance, an increase in mucous production and eventually asthma. Furthermore, children who experience severe viral respiratory infections early in life have a high possibility of having asthma later in their childhood. These viral respiratory infections are mostly caused by respiratory syncytial virus (RSV) and human rhinovirus (HRV). Although RSV infections increase the risk of asthma in early childhood, the association between asthma and RSV decreases with increasing age. HRV on the other hand is an important cause of bronchiolitis and is strongly associated with asthma development. In children and adults with established asthma, viral upper respiratory tract infections (URIs), especially HRVs infections, can produce acute exacerbations of asthma. Thus, \"Chlamydia pneumoniae\", \"Mycoplasma pneumoniae\" and human rhinoviruses are microbes that play a major role in non-atopic asthma.",
+            "score": 178.06121301651
+        },
+        {
+            "docid": "45570_35",
+            "document": "DNA vaccination . Additionally, the titres of specific antibodies raised by DNA vaccination are lower than those obtained after vaccination with a recombinant protein. However, DNA immunization-induced antibodies show greater affinity to native epitopes than recombinant protein-induced antibodies. In other words, DNA immunization induces a qualitatively superior response. Antibodies can be induced after one vaccination with DNA, whereas recombinant protein vaccinations generally require a boost. DNA immunization can be used to bias the TH profile of the immune response and thus the antibody isotype, which is not possible with either natural infection or recombinant protein immunization. Antibody responses generated by DNA are useful as a preparative tool. For example, polyclonal and monoclonal antibodies can be generated for use as reagents.",
+            "score": 100.87408542633057
+        },
+        {
+            "docid": "1933672_6",
+            "document": "Original antigenic sin . Between primary and secondary infections, or following vaccination, a virus may undergo antigenic drift, in which the viral surface proteins (the epitopes) are altered through natural mutation, allowing the virus to escape the immune system. When this happens, the altered virus preferentially reactivates previously activated high-affinity memory B cells and spur antibody production. However, the antibodies produced by these B cells generally ineffectively bind to the altered epitopes. In addition, these antibodies inhibit the activation of higher-affinity naive B cells that \"would\" be able to make more effective antibodies to the second virus. This leads to a less effective immune response and recurrent infections may take longer to clear.",
+            "score": 117.55605959892273
+        },
+        {
+            "docid": "49217974_6",
+            "document": "Andreas Pl\u00fcckthun . His research contributed to enabling the emergence of antibody engineering, notably by the use of \"E. coli\" as an engineering platform and studies on synthetic antibodies which led to the first fully synthetic antibody library. To create a true in vitro protein evolution technology his laboratory developed ribosome display of whole proteins. In his research group Designed Ankyrin Repeat Proteins (DARPins) were created as a robust alternative scaffold for binding proteins (antibody mimetics). DARPins are derived from naturally occurring ankyrin proteins, a protein class that mediates high-affinity protein-protein interactions in nature. DARPins (Designed Ankyrin Repeat Proteins), one of the most common binding proteins in nature and responsible for diverse functions, such as cell signaling and receptor binding. To obtain highly stable G protein-coupled receptors that can be used for structural studies and in drug screening, his research group developed new directed evolution technologies.",
+            "score": 82.1683098077774
+        },
+        {
+            "docid": "477489_26",
+            "document": "Human respiratory syncytial virus . However, palivizumab (brand name Synagis manufactured by MedImmune), a moderately effective prophylactic drug, is available for infants at high risk. Palivizumab is a monoclonal antibody directed against RSV surface fusion protein. It is given by monthly injections, which are begun just prior to the RSV season and are usually continued for five months. HRSV prophylaxis is indicated for infants that are premature or have either cardiac or lung disease, but the cost of prevention limits use in many parts of the world.",
+            "score": 140.71672987937927
+        },
+        {
+            "docid": "35260696_2",
+            "document": "Peptide microarray . A peptide microarray (also commonly known as peptide chip or peptide epitope microarray) is a collection of peptides displayed on a solid surface, usually a glass or plastic chip. Peptide chips are used by scientists in biology, medicine and pharmacology to study binding properties and functionality and kinetics of protein-protein interactions in general. In basic research, peptide microarrays are often used to profile an enzyme (like kinase, phosphatase, protease, acetyltransferase, histone deacetylase etc.), to map an antibody epitope or to find key residues for protein binding. Practical applications are seromarker discovery, profiling of changing humoral immune responses of individual patients during disease progression, monitoring of therapeutic interventions, patient stratification and development of diagnostic tools and vaccines.",
+            "score": 99.25934219360352
+        },
+        {
+            "docid": "8077915_11",
+            "document": "Breakthrough infection . The presence of maternal antibodies in infants limits the efficacy of inactivated, attenuated and subunit vaccines. Maternal antibodies can bind to epitopes on the proteins produced by the virus in the vaccination. The recognition of viral proteins by maternal antibodies neutralizes the virus. Further, the maternal antibodies outcompete B cell receptors on the infant's B cells for binding to the antigen. Thus, an infant's immune system is not highly activated and the infant produces fewer antibodies. Even when B cells do bind to the pathogen, immune response is still frequently repressed. If B cell receptors bind to the antigen and FC receptors simultaneously bind to the maternal antibody, the FC receptors send a signal to B cell receptors that inhibits cell division. Because the infant's immune system is not stimulated and B cell division is inhibited, few memory B cells are produced. The level of memory B-cells is not adequate to ensure an infant's lifelong resistance to the pathogen.",
+            "score": 93.193439245224
+        },
+        {
+            "docid": "6609299_5",
+            "document": "Palivizumab . Palivizumab is used to reduce the risk of respiratory syncytial virus in children at increased risk of severe disease. Since the beginning of the drug's release, the American Academy of Pediatrics has updated its guidance for the use of palivizumab 4 times as additional data became available to provide a better understanding of infants and young children at greatest risk of hospitalization attributable to RSV infection. The updated recommendations in this policy statement reflect new information regarding the seasonality of RSV circulation, palivizumab pharmacokinetics, the changing incidence of bronchiolitis hospitalizations, the effect of gestational age and other risk factors on RSV hospitalization rates, the mortality of children hospitalized with RSV infection, the effect of prophylaxis on wheezing, and palivizumab-resistant RSV isolates. This policy statement updates and replaces the recommendations found in the 2012 Red Book. Pediatrics 2014;134:415\u2013420",
+            "score": 169.7806534767151
+        },
+        {
+            "docid": "477489_5",
+            "document": "Human respiratory syncytial virus . The incubation time (from infection until symptoms arrive) is 4\u20135 days. For adults, HRSV produces mainly mild symptoms, often indistinguishable from common colds and minor illnesses. The Centers for Disease Control consider HRSV to be the \"most common cause of bronchiolitis (inflammation of the small airways in the lung) and pneumonia in children under 1 year of age in the United States\". For some children, RSV can cause bronchiolitis, leading to severe respiratory illness requiring hospitalization and, rarely, causing death. This is more likely to occur in patients that are immunocompromised or infants born prematurely. Other HRSV symptoms common among infants include listlessness, poor or diminished appetite, and a possible fever.",
+            "score": 134.56770610809326
+        },
+        {
+            "docid": "477489_4",
+            "document": "Human respiratory syncytial virus . In the United States, 60% of infants are infected during their first HRSV season, and nearly all children will have been infected with the virus by 2\u20133 years of age. Of those infected with RSV, 2\u20133% will develop bronchiolitis, necessitating hospitalization. Natural infection with HRSV induces protective immunity which wanes over time\u2014possibly more so than other respiratory viral infections\u2014and thus people can be infected multiple times. Sometimes an infant can become symptomatically infected more than once, even within a single HRSV season. Severe HRSV infections have increasingly been found among elderly patients. Young adults can be re-infected every five to seven years, with symptoms looking like a sinus infection or a cold (infections can also be asymptomatic).",
+            "score": 145.59139108657837
+        },
+        {
+            "docid": "51133220_5",
+            "document": "KI polyomavirus . The prevalence of KI virus as detected by the presence of its DNA in human samples is generally estimated in the 1-5% range in various locations and populations, with some indication of age-dependence. The virus has been detected in the respiratory secretions of children with respiratory infections in multiple locations. By contrast, one 2009 study placed seroprevalence - that is, prevalence of antibodies against the virus (in this case the VP1 coat protein) - as high as 55% among a population of American adults and 56% among a population of American children. Another 2009 study found around 70% seroprevalence for adults, with age patterns indicating that infants may inherit maternal antibodies against both WU and KI. A 2016 study of polyomavirus seroprevalence found WU virus in 91.3% of samples from another American population. Primary infection is generally believed to occur in childhood.",
+            "score": 96.19061028957367
+        },
+        {
+            "docid": "761123_36",
+            "document": "Hsp90 . Prediction and validation of the immunodominant epitope/s of HSP90 beta protein has been demonstrated using sera from infertile women having anti-HSP90 autoantibodies. The decapeptide EP6 (380-389)is a major immunogenic epitope of HSP90 followed by EP1 (1-12) and EP8 (488-498). Knowledge of binding epitopes on the autoantigen is necessary to understand the subsequent pathologic events. Predicted 3D structures of these peptides demonstrated that they exist in the loop conformation, which is the most mobile part of the protein. Also, analysis of the sequences of HSP90 beta across several species reveals that EP6 peptide forms a part of a well-conserved motif. A polyclonal antibody generated to the immunodominant epitope- EP6 confirms similar biochemical and cellular immunoreactivity as seen with the patients' sera with anti-HSP90 autoantibodies. The study might generate new tools for the detection of disease-inducing epitopes and a possible therapeutic intervention.",
+            "score": 109.11166334152222
+        },
+        {
+            "docid": "33769881_25",
+            "document": "Immunomics . As quoted by Stefania Bambini and Rino Rappuoli, \u201cNew powerful genomics technologies have increased the number of disease that can be addressed by vaccination, and decreased the time for discover research and vaccine development.\u201d The availability of complete genome sequences of pathogens in combination with high-throughput genomics technologies have helped to accelerate vaccine development. Reverse vaccinology uses genomic sequences of viral, bacterial, or parasitic pathogens to identify genes potentially encoding genes that promote pathogenesis. The first application of reverse vaccinology identified vaccine candidates against \"Neisseria meningitidis\" serogroup B. Computational tools identified 600 putative surface-exposed or secreted proteins from the complete genome sequence of a MenB pathogenic strain, on the basis of sequence features. These putative proteins were expressed in E. coli, purified, and used to immunize mice. Tests using mice immune sera estimated the ability of antibodies to protect against these proteins. The proteins able to solicit a robust immune response were checked for sequence conservation across a panel of meningitides strains and allowed for further selection of antigen able to elicit an immune response against most strains in the panel. On the basis of these antigen sequences, scientists have been able to develop a universal \u201ccocktail\u201d vaccine against \"Neisseria meninitidis\" that uses five antigens to promote immunity. Similar approaches have been used for a variety of other human pathogens, such as \"Streptococcus pneumoniae\", \"Chlamydia pneumoniae\", \"Bacillus anthracis\", \"Porphyromonas gingivalis\", \"Mycobacterium tuberculosis\", \"Helicobacter pylori\", amongst others. Additionally, studies have started for the development of vaccines against viruses.",
+            "score": 75.48269605636597
+        },
+        {
+            "docid": "2178487_3",
+            "document": "Epitope mapping . Epitope mapping is an important component in the development of therapeutic monoclonal antibodies (mAbs) and vaccines. Specifically, epitope mapping can allow determination of the therapeutic mechanism of action of individual mAbs e.g. blocking ligand binding or trapping a protein in a non-functional state. However, many therapeutic antibodies target conformational epitopes that are particularly difficult to map because they are only formed in the native structure of a protein. Epitope mapping is also crucial to developing vaccines against prevalent viral diseases such as Dengue virus. Epitope mapping helps develop these challenging vaccines by determining antigenic elements (or epitopes) that confer long-lasting immunization effects.\u00a0",
+            "score": 103.07001852989197
+        },
+        {
+            "docid": "45570_34",
+            "document": "DNA vaccination . Comparisons of antibody responses generated by natural (viral) infection, immunization with recombinant protein and immunization with pDNA are summarised in Table 4. DNA-raised antibody responses rise much more slowly than when natural infection or recombinant protein immunization occurs. As many as 12 weeks may be required to reach peak titres in mice, although boosting can decrease the interval. This response is probably due to the low levels of antigen expressed over several weeks, which supports both primary and secondary phases of antibody response. DNA vaccine expressing HBV small and middle envelope protein was injected into adults with chronic hepatitis. The vaccine resulted in specific interferon gamma cell production. Also specific T-cells for middle envelop proteins antigens were developed. The immune response of the patients was not robust enough to control HBV infection",
+            "score": 90.03100395202637
+        },
+        {
+            "docid": "22810768_4",
+            "document": "DNA-encoded chemical library . Until recently, the application of molecular evolution in the laboratory had been limited to display technologies involving biological molecules, where small molecules lead discovery was considered beyond this biological approach. DEL has opened the field of display technology to include non-natural compounds such as small molecules, extending the application of molecular evolution and natural selection to the identification of small molecule compounds of desired activity and function. DNA encoded chemical libraries bear resemblance to biological display technologies such as antibody phage display technology, yeast display, mRNA display and aptamer SELEX. In antibody phage display, antibodies are physically linked to phage particles that bear the gene coding for the attached antibody, which is equivalent to a physical linkage of a \u201cphenotype\u201d (the protein) and a \u201cgenotype\u201d (the gene encoding for the protein ). Phage-displayed antibodies can be isolated from large antibody libraries by mimicking molecular evolution: through rounds of selection (on an immobilized protein target), amplification and translation. In DEL the linkage of a small molecule to an identifier DNA code allows the facile identification of binding molecules. DEL libraries are subjected to affinity selection procedures on an immobilized target protein of choice, after which non-binders are removed by washing steps, and binders can subsequently be amplified by polymerase chain reaction (PCR) and identified by virtue of their DNA code (e.g.by DNA sequencing). In evolution-based DEL technologies (see below) hits can be further enriched by performing rounds of selection, PCR amplification and translation in analogy to biological display systems such as antibody phage display. This makes it possible to work with much larger libraries.",
+            "score": 64.87865686416626
+        },
+        {
+            "docid": "1021210_9",
+            "document": "Immunohistochemistry . The antibodies used for specific detection can be polyclonal or monoclonal. Polyclonal antibodies are made by injecting animals with the protein of interest, or a peptide fragment and, after a secondary immune response is stimulated, isolating antibodies from whole serum. Thus, polyclonal antibodies are a heterogeneous mix of antibodies that recognize several epitopes. Monoclonal antibodies are made by injecting the animal and then taking a specific sample of immune tissue, isolating a parent cell, and using the resulting immortalized line to create antibodies. This causes the antibodies to show specificity for a single epitope.",
+            "score": 93.92210078239441
+        },
+        {
+            "docid": "956493_15",
+            "document": "Rabies virus . Upon viral entry into the body and also after vaccination, the body produces virus neutralizing antibodies which bind and inactivate the virus. Specific regions of the G protein have been shown to be most antigenic in leading to the production of virus neutralizing antibodies. These antigenic sites, or epitopes, are categorized into regions I-IV and minor site a. Previous work has demonstrated that antigenic sites II and III are most commonly targeted by natural neutralizing antibodies. Additionally, a monoclonal antibody with neutralizing functionality has been demonstrated to target antigenic site I. Other proteins, such as the nucleoprotein, have been shown to be unable to elicit production of virus neutralizing antibodies. The epitopes which bind neutralizing antibodies are both linear and conformational.",
+            "score": 95.04758477210999
+        },
+        {
+            "docid": "495045_9",
+            "document": "Epitope . Epitopes are often used in proteomics and the study of other gene products. Using recombinant DNA techniques genetic sequences coding for epitopes that are recognized by common antibodies can be fused to the gene. Following synthesis, the resulting epitope tag allows the antibody to find the protein or other gene product enabling lab techniques for localisation, purification, and further molecular characterization. Common epitopes used for this purpose are Myc-tag, HA-tag, FLAG-tag, GST-tag, 6xHis, V5-tag and OLLAS. Peptides can also be bound by proteins that form covalent bonds to the peptide, allowing irreversible immobilisation These strategies have also been successfully applied to the development of \"epitope-focused\" vaccine design.",
+            "score": 96.27280139923096
+        },
+        {
+            "docid": "25595247_12",
+            "document": "Immune network theory . Under the immune network theory, the main cause for progression to AIDS after HIV infection is not the direct killing of infected T helper cells by the virus. Following an infection with HIV that manages to establish itself, there is a complex interaction between the HIV virus, the T helper cells that it infects, and T suppressor cells. These three quasispecies apply selective pressure on one another and co-evolve in such a way that the viral epitopes eventually come to mimick the V regions of the main population of T suppressor cells. Once this happens, anti-HIV antibodies can bind to and kill most of the host's T suppressor cell population. This results in the dysregulation of the immune system, and eventually to other further anti-self reactions, including against the T helper cell population. At that point, the adaptive immune system is completely compromised and AIDS ensues. Hence in this model, the onset of AIDS is primarily an auto-immune reaction triggered by the cross-reaction of anti-HIV antibodies with T suppressor cells. Once this induced auto-immunity sets in, removing the HIV virus itself (for instance via HAART) would not be sufficient to restore proper immune function. The co-evolution of the quasispecies mentioned above will take a variable time depending on the initial conditions at the time of infection (i.e. the epitopes of the first infection and the steady state of the host's immune cell population), which would explain why there is a variable period, which differs greatly between individual patients, between HIV infection and the onset of AIDS. It also suggests that conventional vaccines are unlikely to be successful, since they would not prevent the auto-immune reaction. In fact such vaccines may do more harm in certain cases, since if the original infection comes from a source with a \"mature\" infection, those virions will have a high affinity for anti-HIV T helper cells (see above), and so increasing the anti-HIV population via vaccination only serves to provide the virus with more easy targets.",
+            "score": 100.73853313922882
+        },
+        {
+            "docid": "42596751_4",
+            "document": "Isoglobotriosylceramide . The physiological function of iGb3 is not clear. It has been identified as a CD1d- presented self-antigen for an innate type of immune cells termed as Natural Killer T (NKT) cells. Extensive biochemical studies by multiple methods including HPLC, mass spectrometry, and NMR did not lead to positive finding of iGb3 in major organs of mouse, pig, and human species, except trace amount in thymus and immune cells, suggesting a selection pressure during evolution. Obviously, the immune selection pressure against iGb3 is mechanistically different from the well known anti-alpha-Gal antibodies, which caused the loss of alpha1,3-galactose epitope on glycoproteins in humans, apes, and old world monkeys. The disappearance of iGb3 in pig and mouse species cannot be attributed to anti-alpha-Gal antibodies which are absent in these animals.",
+            "score": 71.94285440444946
+        },
+        {
+            "docid": "6609299_3",
+            "document": "Palivizumab . Palivizumab is a humanized monoclonal antibody (IgG) directed against an epitope in the A antigenic site of the F protein of RSV. In two Phase III clinical trials in the pediatric population, palivizumab reduced the risk of hospitalization due to RSV infection by 55% and 45%. Palivizumab is dosed once a month via intramuscular (IM) injection, to be administered throughout the duration of the RSV season.",
+            "score": 180.0731291770935
+        },
+        {
+            "docid": "14340833_7",
+            "document": "Nucleolin . Nucleolin at the cell surface is the receptor for the Respiratory Syncytial Virus (RSV) fusion protein. Interference with the nucleolin - RSV fusion protein interaction has been shown to be therapeutic against RSV infection in cell cultures and animal models.",
+            "score": 163.41168904304504
+        },
+        {
+            "docid": "8310787_47",
+            "document": "Survivin . The isolation of the antibodies specific for survivin peptides is useful, as one can look at the structure and sequence of the epitope binding groove of the antibody and, therefore, deduce possible epitopes that may fit in that particular antibody groove. Therefore, one can determine the particular peptide portion of the survivin protein that is bound most efficiently and most commonly by humoral antibodies generated against survivin. This will lead to the production of more specific survivin vaccines that contain a specific portion of the survivin protein that is known to elicit a good immune response, generate immune memory, and allow for protection from tumour development.",
+            "score": 96.9948480129242
+        },
+        {
+            "docid": "198520_17",
+            "document": "Paramyxoviridae . A number of important human diseases are caused by paramyxoviruses. These include mumps, measles, which caused around 733,000 deaths in 2000, and respiratory syncytial virus (RSV), which is the major cause of bronchiolitis and pneumonia in infants and children.",
+            "score": 119.55367803573608
+        },
+        {
+            "docid": "87175_6",
+            "document": "Herd immunity . Herd immunity itself acts as an evolutionary pressure on certain viruses, influencing viral evolution by encouraging the production of novel strains, in this case referred to as escape mutants, that are able to \"escape\" from herd immunity and spread more easily. At the molecular level, viruses escape from herd immunity through antigenic drift, which is when mutations accumulate in the portion of the viral genome that encodes for the virus's surface antigen, typically a protein of the virus capsid, producing a change in the viral epitope. Alternatively, the reassortment of separate viral genome segments, or antigenic shift, which is more common when there are more strains in circulation, can also produce new serotypes. When either of these occur, memory T cells no longer recognize the virus, so people are not immune to the dominant circulating strain. For both influenza and norovirus, epidemics temporarily induce herd immunity until a new dominant strain emerges, causing successive waves of epidemics. As this evolution poses a challenge to herd immunity, broadly neutralizing antibodies and \"universal\" vaccines that can provide protection beyond a specific serotype are in development.",
+            "score": 71.3946647644043
+        }
+    ],
+    "r": [
+        {
+            "docid": "6609299_3",
+            "document": "Palivizumab . Palivizumab is a humanized monoclonal antibody (IgG) directed against an epitope in the A antigenic site of the F protein of RSV. In two Phase III clinical trials in the pediatric population, palivizumab reduced the risk of hospitalization due to RSV infection by 55% and 45%. Palivizumab is dosed once a month via intramuscular (IM) injection, to be administered throughout the duration of the RSV season.",
+            "score": 180.07315063476562
+        },
+        {
+            "docid": "37922599_2",
+            "document": "Asthma-related microbes . Chronic Mycoplasma pneumonia and Chlamydia pneumonia infections are associated with the onset and exacerbation of asthma. These microbial infections result in chronic lower airway inflammation, impaired mucociliary clearance, an increase in mucous production and eventually asthma. Furthermore, children who experience severe viral respiratory infections early in life have a high possibility of having asthma later in their childhood. These viral respiratory infections are mostly caused by respiratory syncytial virus (RSV) and human rhinovirus (HRV). Although RSV infections increase the risk of asthma in early childhood, the association between asthma and RSV decreases with increasing age. HRV on the other hand is an important cause of bronchiolitis and is strongly associated with asthma development. In children and adults with established asthma, viral upper respiratory tract infections (URIs), especially HRVs infections, can produce acute exacerbations of asthma. Thus, \"Chlamydia pneumoniae\", \"Mycoplasma pneumoniae\" and human rhinoviruses are microbes that play a major role in non-atopic asthma.",
+            "score": 178.0612030029297
+        },
+        {
+            "docid": "6609299_5",
+            "document": "Palivizumab . Palivizumab is used to reduce the risk of respiratory syncytial virus in children at increased risk of severe disease. Since the beginning of the drug's release, the American Academy of Pediatrics has updated its guidance for the use of palivizumab 4 times as additional data became available to provide a better understanding of infants and young children at greatest risk of hospitalization attributable to RSV infection. The updated recommendations in this policy statement reflect new information regarding the seasonality of RSV circulation, palivizumab pharmacokinetics, the changing incidence of bronchiolitis hospitalizations, the effect of gestational age and other risk factors on RSV hospitalization rates, the mortality of children hospitalized with RSV infection, the effect of prophylaxis on wheezing, and palivizumab-resistant RSV isolates. This policy statement updates and replaces the recommendations found in the 2012 Red Book. Pediatrics 2014;134:415\u2013420",
+            "score": 169.78065490722656
+        },
+        {
+            "docid": "14340833_7",
+            "document": "Nucleolin . Nucleolin at the cell surface is the receptor for the Respiratory Syncytial Virus (RSV) fusion protein. Interference with the nucleolin - RSV fusion protein interaction has been shown to be therapeutic against RSV infection in cell cultures and animal models.",
+            "score": 163.4116973876953
+        },
+        {
+            "docid": "48892455_15",
+            "document": "Neonatal infection . Other viral infections such as respiratory syncytial virus (RSV), metapneumovirus (hMPV), rhinovirus, parainfluenza (PIV), and human coronavirus in the neonatal period are associated with recurrent wheezing in later childhood. RSV infections can be prolonged. Premature infants born at less than 32 weeks gestation have more days of cough and wheeze at 1 year of age than those uninfected with RSV.",
+            "score": 152.17335510253906
+        },
+        {
+            "docid": "477489_14",
+            "document": "Human respiratory syncytial virus . Human respiratory syncytial virus is a medium-sized (120\u2013200\u00a0nm) enveloped virus that contains a lipoprotein coat and a linear negative-sense RNA genome (must be converted to an anti-sense genome prior to translation). The former contains virally encoded F, G, and SH lipoproteins. The F and G lipoproteins are the only two that target the cell membrane, and are highly conserved among RSV isolates. HRSV is divided into two antigenic subgroups, A and B, on the basis of the reactivity of the virus with monoclonal antibodies against the attachment (G) and fusion (F) glycoproteins. Subtype B is characterized as the asymptomatic strains of the virus that the majority of the population experiences. The more severe clinical illnesses involve subtype A strains, which tend to predominate in most outbreaks.",
+            "score": 147.56341552734375
+        },
+        {
+            "docid": "55145769_5",
+            "document": "Cadherin related family member 3 . Recent studies furthermore found that \"CDHR3\" gene variation is not associated with childhood bronchiolitis from respiratory syncytial virus (RSV) infection, which resemble early asthma exacerbations as a phenotype. However, childhood bronchiolitis not caused by RSV infection, of which rhinovirus is often implicated, was associated with the CDHR3 gene variation. This is line with the results from a study on chronic rhinosinusitis, which often is associated rhinovirus infection, where \"CDHR3\" gene variation also was found to be a strong risk factor. Therefore, CDHR3 seems to causally linked to increased propensity for rhinovirus C infection.",
+            "score": 145.59906005859375
+        },
+        {
+            "docid": "477489_4",
+            "document": "Human respiratory syncytial virus . In the United States, 60% of infants are infected during their first HRSV season, and nearly all children will have been infected with the virus by 2\u20133 years of age. Of those infected with RSV, 2\u20133% will develop bronchiolitis, necessitating hospitalization. Natural infection with HRSV induces protective immunity which wanes over time\u2014possibly more so than other respiratory viral infections\u2014and thus people can be infected multiple times. Sometimes an infant can become symptomatically infected more than once, even within a single HRSV season. Severe HRSV infections have increasingly been found among elderly patients. Young adults can be re-infected every five to seven years, with symptoms looking like a sinus infection or a cold (infections can also be asymptomatic).",
+            "score": 145.59140014648438
+        },
+        {
+            "docid": "43057743_20",
+            "document": "Bill Harris (geneticist) . Anti-infective therapeutic products developed up to 1992 included those for treatment of respiratory syncytial virus (RSV), Varicella zoster (chicken pox/shingles), cytomegalovirus and rabies. The RSV product was licensed to Smith Kline Beecham in 1991 but was not pursued after completion of early phase II clinical trials. Four anti-cancer antibodies were developed in collaboration with Sloan-Kettering Institute for Cancer Research and Ludwig Institute of Cancer Research, New York.",
+            "score": 143.40052795410156
+        },
+        {
+            "docid": "477498_5",
+            "document": "Human metapneumovirus . HMPV is associated with 6% to 40% of respiratory tract infections in hospitalized and outpatient children. The virus is distributed worldwide and, in temperate regions, has a seasonal distribution generally following that of RSV and influenza virus during late winter and spring. Serologic studies have shown that by the age of five, virtually all children worldwide have been exposed to the virus. Despite near universal infection during early life, reinfections are common in older children and adults. Human metapneumovirus may cause mild upper respiratory tract infection (the common cold). However, premature infants, immunocompromised persons, and older adults >65 years are at risk for severe disease and hospitalization. In some studies of hospitalizations and emergency room visits, HMPV is nearly as common and as severe as influenza in older adults. HMPV is associated with more severe disease in people with asthma and adults with chronic obstructive pulmonary disease (COPD). Numerous outbreaks of HMPV have been reported in long-term care facilities for children and adults, causing fatalities.",
+            "score": 142.25437927246094
+        },
+        {
+            "docid": "477489_26",
+            "document": "Human respiratory syncytial virus . However, palivizumab (brand name Synagis manufactured by MedImmune), a moderately effective prophylactic drug, is available for infants at high risk. Palivizumab is a monoclonal antibody directed against RSV surface fusion protein. It is given by monthly injections, which are begun just prior to the RSV season and are usually continued for five months. HRSV prophylaxis is indicated for infants that are premature or have either cardiac or lung disease, but the cost of prevention limits use in many parts of the world.",
+            "score": 140.71673583984375
+        },
+        {
+            "docid": "4334732_5",
+            "document": "Rous sarcoma virus . In 1958, Harry Rubin and Howard Temin developed an assay where chicken embryo fibroblasts could be altered morphologically by RSV infection. Two years later Temin concluded that the transformed morphology of the cells was controlled by a genetic property of RSV. At that time it was unknown, but later the \"src\" gene was identified as responsible for morphological transformation in healthy cells. During the 1960s, two findings emerged: replication-competent isolated viruses were related to RSV, but were non-transforming, and an isolated replication-defective strain of RSV was transformation-competent. These two findings gave rise to the notion that viral replication and malignant transformation are separate processes in RSV.",
+            "score": 137.6197967529297
+        },
+        {
+            "docid": "477474_10",
+            "document": "Bronchiolitis . Prevention of bronchiolitis relies strongly on measures to reduce the spread of the viruses that cause respiratory infections (that is, handwashing, and avoiding exposure to those symptomatic with respiratory infections). In addition to good hygiene an improved immune system is a great tool for prevention. One way to improve the immune system is to feed the infant with breast milk, especially during the first month of life. Immunizations are available for premature infants who meet certain criteria (some cardiac and respiratory disorders) such as palivizumab (a monoclonal antibody against RSV). Passive immunization therapy requires monthly injections during winter.",
+            "score": 136.83522033691406
+        },
+        {
+            "docid": "477489_5",
+            "document": "Human respiratory syncytial virus . The incubation time (from infection until symptoms arrive) is 4\u20135 days. For adults, HRSV produces mainly mild symptoms, often indistinguishable from common colds and minor illnesses. The Centers for Disease Control consider HRSV to be the \"most common cause of bronchiolitis (inflammation of the small airways in the lung) and pneumonia in children under 1 year of age in the United States\". For some children, RSV can cause bronchiolitis, leading to severe respiratory illness requiring hospitalization and, rarely, causing death. This is more likely to occur in patients that are immunocompromised or infants born prematurely. Other HRSV symptoms common among infants include listlessness, poor or diminished appetite, and a possible fever.",
+            "score": 134.5677032470703
+        },
+        {
+            "docid": "41972925_21",
+            "document": "George Siber . Respigam was the first antibody licensed for preventing severe RSV infections in high-risk infants and was the precursor product to Synagis, the first human monoclonal antibody for infectious diseases. Prevnar 7 and 13 are for the prevention of pneumococcal infections, the most common and severe bacterial infection of children and elderly adults worldwide causing mortality exceeding 1 million per year. Prevnar is also the most successful commercial vaccine of all time with sales exceeding four billion dollars per year.",
+            "score": 131.919189453125
+        },
+        {
+            "docid": "8303_38",
+            "document": "Down syndrome . Efforts to prevent respiratory syncytial virus (RSV) infection with human monoclonal antibodies should be considered, especially in those with heart problems. In those who develop dementia there is no evidence for memantine, donepezil, rivastigmine, or galantamine.",
+            "score": 131.57994079589844
+        },
+        {
+            "docid": "477489_21",
+            "document": "Human respiratory syncytial virus . Several different types of laboratory tests are commercially available for diagnosis of RSV infection. Rapid diagnostic assays performed on respiratory specimens are available commercially. Most clinical laboratories currently utilize antigen detection tests. Compared with culture, the sensitivity of antigen detection tests generally ranges from 80% to 90%. Antigen detection tests and culture are generally reliable in young children but less useful in older children and adults.",
+            "score": 130.2743682861328
+        },
+        {
+            "docid": "17374096_14",
+            "document": "Avian sarcoma leukosis virus . ASLV is genetically closely related to the Rous sarcoma virus (RSV), but unlike RSV, ASLV does not contain the \"src\" gene, which codes for a tyrosine kinase, and does not transform the fibroblasts that it infects. Both RSV and ASLV contain the \"gag\" gene, which is common to most retroviruses and encodes for the capsid proteins, and the \"pol\" gene which encodes for the reverse transcriptase enzyme. ASLV and some RSVs also contain the \"env\" gene, which encodes a precursor polyprotein that assembles in the endoplasmic reticulum. The polyproteins are then transported to the Golgi apparatus, glycosylated and cleaved to produce two glycoproteins: one surface and one transmembrane.",
+            "score": 127.48521423339844
+        },
+        {
+            "docid": "18572060_18",
+            "document": "World Lung Foundation . The Acute Respiratory Infections Atlas is a compendium of research on acute respiratory infections such as pneumonia, influenza, and respiratory syncytial virus (RSV).",
+            "score": 126.7966537475586
+        },
+        {
+            "docid": "6609299_2",
+            "document": "Palivizumab . Palivizumab (brand name Synagis which is manufactured by MedImmune) is a monoclonal antibody produced by recombinant DNA technology. It is used in the prevention of respiratory syncytial virus (RSV) infections. It is recommended for infants that are high-risk because of prematurity or other medical problems such as congenital heart disease.",
+            "score": 126.63118743896484
+        },
+        {
+            "docid": "477489_24",
+            "document": "Human respiratory syncytial virus . RSV infection can be confirmed using tests for antigens or antibodies, or viral RNA by reverse transcription PCR. Quantification of viral load can be determined by various assay tests.",
+            "score": 126.13521575927734
+        },
+        {
+            "docid": "51345308_14",
+            "document": "Orthopneumovirus . Human respiratory syncytial virus (HRSV) is the most known orthopneumovirus because of its direct correlation and importance in humans. RSV is the leading viral agent among pneumoviruses in pediatric upper respiratory diseases globally. New pneumoviruses have been discovered in the Netherlands among 28 children according to studies. Certain studies have isolated the children in hospitals to identify specific causes, contagion levels, and treatment options among those children.",
+            "score": 124.49344635009766
+        },
+        {
+            "docid": "477489_30",
+            "document": "Human respiratory syncytial virus . As of 2017 there was no vaccine for RSV despite many years of preclinical and clinical work. A formalin-inactivated candidate developed in the 1960s surprisingly increased infections, which came to be known as \"immunopotentiation\" or vaccine-enhanced disease.",
+            "score": 123.29017639160156
+        },
+        {
+            "docid": "92693_12",
+            "document": "Common cold . The symptoms of the common cold are believed to be primarily related to the immune response to the virus. The mechanism of this immune response is virus specific. For example, the rhinovirus is typically acquired by direct contact; it binds to human via ICAM-1 receptors and the CDHR3 receptor through unknown mechanisms to trigger the release of inflammatory mediators. These inflammatory mediators then produce the symptoms. It does not generally cause damage to the nasal epithelium. The respiratory syncytial virus (RSV), on the other hand, is contracted by direct contact and airborne droplets. It then replicates in the nose and throat before frequently spreading to the lower respiratory tract. RSV does cause epithelium damage. Human parainfluenza virus typically results in inflammation of the nose, throat, and bronchi. In young children when it affects the trachea it may produce the symptoms of croup due to the small size of their airways.",
+            "score": 123.11197662353516
+        },
+        {
+            "docid": "571538_13",
+            "document": "Syncytium . Syncytia can also form when cells are infected with certain types of viruses, notably HSV-1, HIV, MeV, and pneumoviruses, e.g. respiratory syncytial virus (RSV). These syncytial formations create distinctive cytopathic effects when seen in permissive cells. Because many cells fuse together, syncytium are also known as multinucleated giant cells or polykaryocytes. During infection, viral fusion proteins used by the virus to enter the cell are transported to the cell surface, where they can cause the host cell membrane to fuse with neighboring cells.",
+            "score": 122.59330749511719
+        },
+        {
+            "docid": "477489_15",
+            "document": "Human respiratory syncytial virus . Four of the viral genes code for intracellular proteins that are involved in genome transcription, replication, and particle budding, namely N (nucleoprotein), P (phosphoprotein), M (matrix protein), and L (\u201clarge\u201d protein, containing the RNA polymerase catalytic motifs). The RSV genomic RNA forms a helical ribonucleoprotein (RNP) complex with the N protein, termed nucleocapsid, which is used as template for RNA synthesis by the viral polymerase complex. The three-dimensional crystal structure of a decameric, annular ribonucleoprotein complex of the RSV nucleoprotein (N) bound to RNA has been determined at 3.3 \u00c5 resolution. This complex mimics one turn of the viral helical nucleocapsid complex. Its crystal structure was combined with electron microscopy data to provides a detailed model for the RSV nucleocapsid.",
+            "score": 122.40275573730469
+        },
+        {
+            "docid": "3615973_3",
+            "document": "Human coronavirus NL63 . The first cases of the infection with HCoV-NL63 were found in young children with severe lower respiratory tract infections admitted to hospitals. While the clinical presentation of the virus can be severe, it has also been found in mild cases of respiratory infection. The comorbidity of HCoV-NL63 with other respiratory infections, has made the specific symptoms of the virus difficult to pinpoint. A study of clinical symptoms in HCoV-NL63 patients without secondary infection, reported the most common symptoms to be fever, cough, rhinitis, sore throat, hoarseness, bronchitis, bronchiolitis, pneumonia, and croup. An early study investigating children with lower respiratory tract illness, found that HCoV-NL63 was more commonly found in outpatients than hospitalized patients, suggesting that it is a common cold virus similar to HCoV-229E and HCoV-OC43, which generally cause less severe symptoms. However, the high frequency of croup is specific to HCoV-NL63 infection. It is believed that the route of HCoV-NL63 spread is through direct person-to-person transmission in highly populated areas. The virus can survive for up to a week in outside of the body in aqueous solutions at room temperature and three hours on dry surfaces. Most people will be infected with a coronavirus in their lifetime, but some populations are more susceptible to HCoV-NL63. These population include children under the age of 5, the elderly, and immunocompromised individuals. The virus seems to have seasonal incidence, occurring most frequently in the winter months in temperate climates. In more extreme and tropical climates the virus has no preference toward a particular season. Many studies have reported the co-occurrence of HCoV-NL63 with other human coronavirus, influenza A virus, respiratory syncytial virus (RSV), parainfluenza virus, and human metapneumovirus (hMPV).",
+            "score": 121.63874816894531
+        },
+        {
+            "docid": "22289331_4",
+            "document": "Katherine O'Brien . Following her residency in pediatrics and a fellowship in pediatric infectious disease at Johns Hopkins, O'Brien joined the bacterial Respiratory Diseases Branch at the Centers for Disease Control and Prevention as an Epidemic Intelligence Officer. She returned to Johns Hopkins in 1998 to join the Center for American Indian Health where she leads the Center\u2019s Infectious Disease group conducting clinical trials of vaccines for diseases of importance to American Indian tribes; she also serves as the Deputy Director of Research for PneumoADIP which aims to accelerate the development and introduction of pneumococcal vaccines for children globally. She has also worked on rotavirus disease, conducting a large phase III trial of rotavirus vaccine among American Indian children. Most recently she has completed a 6-year trial of a monoclonal antibody, motavizumab, against RSV lower and upper respiratory infections among otherwise healthy American Indian infants who are known to be a significantly increased risk of RSV hospitalization than children in the general US population. During the PneumoADIP from 2004 to 2009, she focused on strategic issues of the pneumococcal research agenda and providing leadership to special studies such as the Pneumococcal Global Serotype Project (GSP) and the Hib and Pneumococcal Global Disease Burden Project (Hib/SP GDB). The GSP elucidates the role that different serotypes of \"S.pneumoniae\" play in causing pneumococcal disease in different regions around the world. This research is critical to understanding pneumococcal vaccine needs and potential efficacy in different regions. The Hib/SP GDP established far more reliable estimates of the burden of disease of both \"S.pneumoniae\" and \"H.influenzae\" on a country level globally. This research is essential to understanding the scope of these diseases which are the leading causes of pneumonia, an illness that kills approximately 2 million children under five each and every year. Since 2009, she has served as the Deputy Director of IVAC, providing strategic direction and a leading role in projects such as the PERCH study which aims to establish pneumonia etiology among children less than 5 years of age in seven countries around the world, the PCV Dosing Landscape Project which aims to evaluate the relative impact of various PCV dosing regimens on disease, immunogenicity and colonization and to thereby provide guidance to WHO for vaccine schedule decisions, and the PCV Serotype Replacement Project aiming to more fully understand the evidence on serotype replacement following PCV implementation.",
+            "score": 121.0634536743164
+        },
+        {
+            "docid": "198520_17",
+            "document": "Paramyxoviridae . A number of important human diseases are caused by paramyxoviruses. These include mumps, measles, which caused around 733,000 deaths in 2000, and respiratory syncytial virus (RSV), which is the major cause of bronchiolitis and pneumonia in infants and children.",
+            "score": 119.55368041992188
+        },
+        {
+            "docid": "52135_10",
+            "document": "Pneumonia . In adults, viruses account for approximately a third and in children for about 15% of pneumonia cases. Commonly-implicated agents include rhinoviruses, coronaviruses, influenza virus, respiratory syncytial virus (RSV), adenovirus, and parainfluenza. Herpes simplex virus rarely causes pneumonia, except in groups such as: newborns, persons with cancer, transplant recipients, and people with significant burns. People following organ transplantation or those otherwise-immunocompromised present high rates of cytomegalovirus pneumonia. Those with viral infections may be secondarily infected with the bacteria \"Streptococcus pneumoniae\", \"Staphylococcus aureus\", or \"Haemophilus influenzae\", particularly when other health problems are present. Different viruses predominate at different periods of the year; during influenza season, for example, influenza may account for over half of all viral cases. Outbreaks of other viruses also occasionally occur, including \"hantaviruses\" and \"coronavirus\".",
+            "score": 119.01666259765625
+        },
+        {
+            "docid": "6171650_4",
+            "document": "Iduronic acid . In 2000, LK Hallak described the importance of this sugar in respiratory syncytial virus infection. Dermatan sulfate and heparan sulfate were the only GAGs containing IdoA, and they were the only ones that inhibited RSV infection in cell culture.",
+            "score": 118.01558685302734
+        },
+        {
+            "docid": "1933672_6",
+            "document": "Original antigenic sin . Between primary and secondary infections, or following vaccination, a virus may undergo antigenic drift, in which the viral surface proteins (the epitopes) are altered through natural mutation, allowing the virus to escape the immune system. When this happens, the altered virus preferentially reactivates previously activated high-affinity memory B cells and spur antibody production. However, the antibodies produced by these B cells generally ineffectively bind to the altered epitopes. In addition, these antibodies inhibit the activation of higher-affinity naive B cells that \"would\" be able to make more effective antibodies to the second virus. This leads to a less effective immune response and recurrent infections may take longer to clear.",
+            "score": 117.55606079101562
+        }
+    ]
+}

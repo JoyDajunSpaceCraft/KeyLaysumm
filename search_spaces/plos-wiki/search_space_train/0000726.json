@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "13621723_9",
+            "document": "MMP2 . Cancer cell invasion, ECM degradation, and metastasis are highly linked with the presence of invadopodia, protrusive and adhesive structures on cancer cells. Invadopodia have been shown to concentrate MMPs (including MT1-MMP, MMP-2, and MMP-9) for localized release and activation. Furthermore, degradation products of MMP activity may further promote invadopodia formation and MMP activity. Finally, MMP-2 and several other MMPs have been shown to proteolytically activate TGF-\u03b2, which has been shown to promote epithelial mesenchymal transition (EMT), a key process involved in cancer metastasis.",
+            "score": 260.81079602241516
+        },
+        {
+            "docid": "5151270_3",
+            "document": "Intravasation . One of the genes that contributes to intravasation codes for urokinase (uPA), a serine protease that is able to proteolytically degrade various extracellular matrix (ECM) components and the basement membrane around primary tumors. uPA also activates multiple growth factors and matrix metalloproteinases (MMPs) that further contribute to ECM degradation, thus enabling tumor cell invasion and intravasation.",
+            "score": 133.26304292678833
+        },
+        {
+            "docid": "634016_2",
+            "document": "Fluorescence recovery after photobleaching . Fluorescence recovery after photobleaching (FRAP) is a method for determining the kinetics of diffusion through tissue or cells. It is capable of quantifying the two dimensional lateral diffusion of a molecularly thin film containing fluorescently labeled probes, or to examine single cells. This technique is very useful in biological studies of cell membrane diffusion and protein binding. In addition, surface deposition of a fluorescing phospholipid bilayer (or monolayer) allows the characterization of hydrophilic (or hydrophobic) surfaces in terms of surface structure and free energy.",
+            "score": 24.47375726699829
+        },
+        {
+            "docid": "2498610_11",
+            "document": "Plasminogen activator . Plasminogen activator inhibitor-1 not only functions as an inhibitor, but other roles of PAI-1 could suggest it could contribute to cancer. The other roles of PAI-1 include, cell de-adhesion, cell proliferation, apoptosis, and cell signaling. These roles could suggest that PAI-1 expression in the tumor microenvironment enhances tumor cell progression. Urokinase cleaves the zymogen plasminogen into serine protease plasmin. The elevated levels of uPA is an indicator of cancer which could be found in the carcinoma of the breast. Plasmin can activate matrix metalloproteases (MMP's) in the extracellular matrix (ECM). MMP activation contributes to tumor cell invasion and metastasis by degradation of ECM components.",
+            "score": 148.3074758052826
+        },
+        {
+            "docid": "9608937_8",
+            "document": "Fluorescence loss in photobleaching . FLIP is often used and is closely associated with Fluorescence recovery after photobleaching (FRAP). The major difference between these two microscopy techniques is that FRAP involves the study of a cell\u2019s ability to recover after a single photobleaching event whereas FLIP involves the study of how the loss of fluorescence spreads throughout the cell after multiple photobleaching events. This difference in purpose also leads to a difference in what parts of the cell are observed. In FRAP, the area that is actually photobleached is the area of interest. Conversely, in FLIP, the region of interest is just outside the region that is being photobleached. Another important difference is that in FRAP, there is a single photobleaching event and a recovery period to observe how well fluorophores move back to the bleached site. However, in FLIP, multiple photobleaching events occur to prevent the return of unbleached fluorophores to the bleaching region. Like FLIP, FRAP is used in the study of continuity of membranous organelles. FLIP and FRAP are often used together to determine the mobility of GFP-tagged proteins. FLIP can also be used to measure the molecular transfer between regions of a cell regardless of the rate of movement. This allows for a more comprehensive analysis of protein trafficking within a cell. This differs from FRAP which is primarily useful for determining mobility of proteins in regions local to the photobleaching only.",
+            "score": 41.50566792488098
+        },
+        {
+            "docid": "17309591_2",
+            "document": "Invadopodia . Invadopodia are actin-rich protrusions of the plasma membrane that are associated with degradation of the extracellular matrix in cancer invasiveness and metastasis. Very similar to podosomes, invadopodia are found in invasive cancer cells and are important for their ability to invade through the extracellular matrix, especially in cancer cell extravasation. Invadopodia can be visualized by the holes they would create in fibronectin-coated plates or by using immunohistochemistry, as co-localizing puncta of actin with Tks5. Invadopodia can also be used as a marker to quantify the invasiveness of cancer cell lines \"in vitro\" using a hyaluronic acid hydrogel assay.",
+            "score": 133.0559277534485
+        },
+        {
+            "docid": "17309591_6",
+            "document": "Invadopodia . Metastasis is the leading cause of mortality in cancer patients and it relies on the ability of the cancer cells to degrade the surrounding extracellular matrix and invade into other tissues. The mechanisms of this process are still not completely understood and because of the invasive properties of invadopodia, they have been investigated in this context. Indeed, invadopodia have been implicated in many cancers and cancer cells. Increased invasiveness of cancer cells correlates with invadopodia incidence and cancer cells have been observed to project cells into the endothelium of blood vessels during extravasation, an important step in metastasis. Invadopodia incidence has also been shown to correlate with a poorer prognosis in breast cancer patients.",
+            "score": 132.573716878891
+        },
+        {
+            "docid": "23030139_14",
+            "document": "Metastatic breast cancer . Most of these processes require a delicate balance between the functions of matrix metalloproteases (MMPs) or metalloprotease-disintegrins (ADAMs) and natural tissue inhibitors of metalloproteases (TIMPs). Regulated proteolysis is an important mechanism to maintain homeostasis. There is increased expression of protease systems in cancer cells, to equip them with the tools necessary to degrade the extracellular matrix and release growth factors or transmembrane receptors. MMP-2 is upregulated in the bone, and increased levels of MMP-1 and MMP-19 are observed in the brain. This in turn, upregulates the signaling pathways necessary to provide increased cell adhesion, cell motility, cell migration, invasion, cancer- cell proliferation and survival.",
+            "score": 133.34766578674316
+        },
+        {
+            "docid": "23030139_12",
+            "document": "Metastatic breast cancer . Cell-cell and cell-ECM matrix adhesion, motility, and localised proteolysis are mediated mainly by matrix metalloproteases (MMPs). Degradation of the extracellular matrix begins the process of metastasis. The cell develops structures called invadopodia, which are highly concentrated in several proteases and have a highly dynamic actin cytoskeleton.",
+            "score": 168.13711977005005
+        },
+        {
+            "docid": "55439935_9",
+            "document": "Role of microglia in disease . When microglia are activated they induce the synthesis and secretion of proteolytic enzymes that are potentially involved in many functions. There are a number of proteases that possess the potential to degrade both the extracellular matrix and neuronal cells that are in the neighborhood of the microglia releasing these compounds. These proteases include; cathepsins B, L, and S, the matrix metalloproteinases MMP-1, MMP-2, MMP-3, and MMP-9, and the metalloprotease-disintegrin ADAM8 (plasminogen) which forms outside microglia and degrades the extracellular matrix. Both Cathepsin B, MMP-1 and MMP-3 have been found to be increased in Alzheimer's disease (AD) and cathepsin B is increased in multiple sclerosis (MS). Elastase, another protease, could have large negative effects on the extracellular matrix.",
+            "score": 124.43278074264526
+        },
+        {
+            "docid": "634016_19",
+            "document": "Fluorescence recovery after photobleaching . There are models with both diffusion and reaction. Unfortunately, a single FRAP curve may provide insufficient evidence to reliably and uniquely fit (possibly noisy) experimental data. Sadegh Zadeh \" et al.\" have shown that FRAP curves can be fitted by \"different\" pairs of values of the diffusion constant and the on-rate constant, or, in other words, that fits to the FRAP are not unique. This is in three-parameter (on-rate constant, off-rate constant and diffusion constant) fits. Fits that are not unique, are not generally useful.",
+            "score": 25.523179292678833
+        },
+        {
+            "docid": "21681912_9",
+            "document": "Desmoplasia . Stroma contains extracellular matrix components such as proteoglycans and glycosaminoglycans which are highly negatively charged, largely due to sulfated regions, and bind growth factors and cytokines, acting as a reservoir of these cytokines. In tumors, cancer cells secrete matrix degrading enzymes, such as matrix metalloproteinases (MMPs) that, once cleaved and activated, degrade the matrix, thereby releasing growth factors that signal for the growth of cancer cells. MMPs also degrade ECM to provide space for vasculature to grow to the tumor, for the tumor cells to migrate, and for the tumor to continue to proliferate.",
+            "score": 144.47174382209778
+        },
+        {
+            "docid": "17309591_7",
+            "document": "Invadopodia . Tks5, a protein specific for invadopodia, has been implicated in cancer invasiveness. Increased levels of tks5 have been detected in prostate cancer and overexpression of Tks5 was sufficient to induce invadopodia formation and degradation of the extracellular matrix in an Src-dependent manner. Increased Tks5 expression has been shown to correlate with poor patient prognosis in gliomas. In a mouse model of lung adenocarcinoma, invasive tumors were shown to have an increased expression of a long isoform of tks5 while non-metastatic tumors had a short isoform. It was also shown that over expression of the long isoform of tks5 was sufficient to cause non-metastatic tumors to become invasive.",
+            "score": 113.91157746315002
+        },
+        {
+            "docid": "23030139_20",
+            "document": "Metastatic breast cancer . The primary extracellular matrix components and cell-surface receptors which aid in metastasis are: Integrin \u03b1v\u03b23 (a cell-surface adhesion molecule) is important for tumor attachment, cell-to-cell communication between the breast tumor cells and the environment in bone, osteoclast bone resorption and angiogenesis. Integrin-mediated adhesion between cancer cells and osteoclasts in bone metastases induces phosphorylation of extracellular signal-regulated kinases (ERK1/2) in osteoclasts, which in turn induces osteoclast differentiation and survival. Metastatic breast-cancer cells excrete lysophosphatidic acid (LPA) which binds to receptors on tumor cells, inducing cell proliferation and release of cytokines(IL-6 and IL-8, potent bone resorptive agents) and stimulating bone resorption. After the breast-cancer cells have left the primary tumor, they interact with the bone microenvironment and secrete osteolytic factors capable of osteoclast formation and bone resorption. Apart from the breast tumor cells, the resident stromal cells also contribute to tumor survival. Growth factors such as epidermal growth factor (EGF), fibroblast growth factor (FGF) and transforming growth factor beta (TGF-\u03b2) are implicated in the development and progression of metastatic breast cancer. MMP-2 is the main metalloprotease secreted by breast-cancer cells or induced in the adjacent bone stroma; it plays an important role in the degradation of the extracellular matrix essential for metastasis. Tumor cells use MMP-2 secreted by bone marrow fibroblasts (BMFs). MMP-2 is stored in an inactive conformation in association with the cell surface (or extracellular matrix) of BMFs. Inactive MMP-2 present on the surface of BMFs is displaced by breast-cancer cells. Cancer cells can then use the proteinase to facilitate tissue invasion, which requires the degradation of connective tissue associated with vascular basement membranes and interstitial connective tissue. MMP-2 is unlike other MMP's as its activity is modulated by metalloproteases called tissue inhibitor of metalloproteases (TIMP) and membrane type 1 MMP (Korhmann et at. 2009)",
+            "score": 130.38175880908966
+        },
+        {
+            "docid": "634016_8",
+            "document": "Fluorescence recovery after photobleaching . If after some time the fluorescence doesn't reach the initial level anymore, then some part of the fluorescence is caused by an immobile fraction (that cannot be replenished by diffusion). Similarly, if the fluorescent proteins bind to static cell receptors, the rate of recovery will be retarded by a factor related to the association and disassociation coefficients of binding. This observation has most recently been exploited to investigate protein binding. Similarly, if the GFP labeled protein is constitutively incorporated into a larger complex, the dynamics of fluorescence recovery will be characterized by the diffusion of the larger complex.",
+            "score": 25.783942699432373
+        },
+        {
+            "docid": "634016_9",
+            "document": "Fluorescence recovery after photobleaching . FRAP can also be used to monitor proteins outside the membrane. After the protein of interest is made fluorescent, generally by expression as a GFP fusion protein, a confocal microscope is used to photobleach and monitor a region of the cytoplasm, mitotic spindle, nucleus, or another cellular structure. The mean fluorescence in the region can then be plotted versus time since the photobleaching, and the resulting curve can yield kinetic coefficients, such as those for the protein's binding reactions and/or the protein's diffusion coefficient in the medium where it is being monitored. Often the only dynamics considered are diffusion and binding/unbinding interactions, however, in principle proteins can also move via flow, i.e., undergo directed motion, and this was recognized very early by Axelrod et al. This could be due to flow of the cytoplasm or nucleoplasm, or transport along filaments in the cell such as microtubules by molecular motors.",
+            "score": 27.23497223854065
+        },
+        {
+            "docid": "1686272_18",
+            "document": "Chemical biology . Protein misfolding has previously been studied using both computational approaches as well as \"in vivo\" biological assays in model organisms such as \"Drosophila melanogaster\" and \"C. elegans\". Computational models use a \"de novo\" process to calculate possible protein structures based on input parameters such as amino acid sequence, solvent effects, and mutations. This method has the shortcoming that the cell environment has been drastically simplified, which limits the factors that influence folding and stability. On the other hand, biological assays can be quite complicated to perform \"in vivo\" with high-throughput like efficiency and there always remains the question of how well lower organism systems approximate human systems. Dobson et al. propose combining these two approaches such that computational models based on the organism studies can begin to predict what factors will lead to protein misfolding. Several experiments have already been performed based on this strategy. In experiments on \"Drosophila\", different mutations of beta amyloid peptides were evaluated based on the survival rates of the flies as well as their motile ability. The findings from the study show that the more a protein aggregates, the more detrimental the neurological dysfunction. Further studies using transthyretin, a component of cerebrospinal fluid that binds to beta amyloid peptide deterring aggregation but can itself aggregate especially when mutated, indicate that aggregation prone proteins may not aggregate where they are secreted and rather are deposited in specific organs or tissues based on each mutation. Kelly et al. have shown that the more stable, both kinetically and thermodynamically, a misfolded protein is the more likely the cell is to secrete it from the endoplasmic reticulum rather than targeting the protein for degradation. In addition, the more stress that a cell feels from misfolded proteins the more probable new proteins will misfold. These experiments as well as others having begun to elucidate both the intrinsic and extrinsic causes of misfolding as well as how the cell recognizes if proteins have folded correctly.",
+            "score": 47.25700879096985
+        },
+        {
+            "docid": "14150272_4",
+            "document": "LRP1 . LRP1 is a member of the LDLR family and ubiquitously expressed in multiple tissues, though it is most abundant in vascular smooth muscle cells (SMCs), hepatocytes, and neurons. LRP1 plays a key role in intracellular signaling and endocytosis, which thus implicate it in many cellular and biological processes, including lipid and lipoprotein metabolism, protease degradation, platelet derived growth factor receptor regulation, integrin maturation and recycling, regulation of vascular tone, regulation of blood brain barrier permeability, cell growth, cell migration, inflammation, and apoptosis, as well as diseases such as neurodegenerative diseases, atherosclerosis, and cancer. To elaborate, LRP1 mainly contributes to regulation of protein activity by binding target proteins as a co-receptor, in conjunction with integral membrane proteins or adaptor proteins like uPA, to the lysosome for degradation. In lipoprotein metabolism, the interaction between LRP1 and APOE stimulates a signaling pathway that leads to elevated intracellular cAMP levels, increased protein kinase A activity, inhibited SMC migration, and ultimately, protection against vascular disease. While membrane-bound LRP1 performs endocytic clearance of proteases and inhibitors, proteolytic cleavage of its ectodomain allows the free LRP1 to compete with the membrane-bound form and prevent their clearance. Several sheddases have been implicated in the proteolytic cleavage of LRP1 such as ADAM10, ADAM12, ADAM17 and MT1-MMP. LRP1 is alsocontinuously endocytosed from the membrane and recycled back to the cell surface. Though the role of LRP1 in apoptosis is unclear, it is required for tPA to bind LRP1 in order to trigger the ERK1/2 signal cascade and promote cell survival.",
+            "score": 116.32857465744019
+        },
+        {
+            "docid": "7930220_13",
+            "document": "Decapentaplegic . The free diffusion model assumes Dpp to diffuse freely through the extracellular matrix, degrading via receptor-mediated degradation events. FRAP assays have argued against this model by noting that diffusion of GFP-Dpp does not match that expected of a similarly sized molecule. However, others have argued that a rate-limiting slow step further downstream of the process such as slow immobilization and/or slow degradation of Dpp itself could account for the observed differences in diffusion. Single molecules of Dpp have been tracked using fluorescence correlation spectroscopy (FCS), showing that 65% of Dpp molecules diffuse rapidly (consistent with the free diffusion model) and 35% diffuse slowly (consistent with Dpp bound to receptors or glypicans).",
+            "score": 59.7203950881958
+        },
+        {
+            "docid": "17309591_3",
+            "document": "Invadopodia . In the early 1980s, researchers noticed protrusions coming from the ventral membrane of cells that had been transformed by the Rous Sarcoma Virus and that they were at the sites of cell-to-extracellular matrix (ECM) adhesion. They termed these structures podosomes, or cellular feet, but it was later noticed that degradation of the ECM was occurring at these sites and the name invadopodia was coined to highlight the invasive nature of these protrusions. Since then, researchers have often used the two names interchangeably, but it is generally accepted that podosomes are the structures involved in normal biological processes (like when immune cells need to cross tissue barriers or in bone remodeling) and invadopodia are the structures in invading cancer cells. However, there remains controversy around this nomenclature, with some scientists arguing that the two are different enough to be considered distinct structures while others argue that invadopodia are simply disregulated podosomes and cancer cells don\u2019t simply invent new mechanisms.  Due to this confusion and the high similarity between the two structures, many have begun to group the two under the collective term invadosomes.",
+            "score": 148.99864792823792
+        },
+        {
+            "docid": "2589751_64",
+            "document": "Fluorescence correlation spectroscopy . In FRAP, a region is briefly exposed to intense light, irrecoverably photobleaching fluorophores, and the fluorescence recovery due to diffusion of nearby (non-bleached) fluorophores is imaged. A primary advantage of FRAP over FCS is the ease of interpreting qualitative experiments common in cell biology. Differences between cell lines, or regions of a cell, or before and after application of drug, can often be characterized by simple inspection of movies. FCS experiments require a level of processing and are more sensitive to potentially confounding influences like: rotational diffusion, vibrations, photobleaching, dependence on illumination and fluorescence color, inadequate statistics, etc. It is much easier to change the measurement volume in FRAP, which allows greater control. In practice, the volumes are typically larger than in FCS. While FRAP experiments are typically more qualitative, some researchers are studying FRAP quantitatively and including binding dynamics. A disadvantage of FRAP in cell biology is the free radical perturbation of the cell caused by the photobleaching. It is also less versatile, as it cannot measure concentration or rotational diffusion, or co-localization. FRAP requires a significantly higher concentration of fluorophores than FCS.",
+            "score": 18.17247247695923
+        },
+        {
+            "docid": "8936239_9",
+            "document": "Aggresome . Accumulation of misfolded proteins in proteinaceous inclusions is common to many age-related neurodegenerative diseases, including Parkinson's disease, Alzheimer's disease, Huntington's disease, and amyotrophic lateral sclerosis. In cultured cells, when the production of misfolded proteins exceeds the capacity of the chaperone refolding system and the ubiquitin-proteasome degradation pathway, misfolded proteins are actively transported to a cytoplasmic juxtanuclear structure called an aggresome. Whether aggresomes are benevolent or noxious is unknown, but they are of particular interest because of the appearance of similar inclusions in protein deposition diseases. Evidence shows that aggresomes serve a cytoprotective function and are associated with accelerated turnover of mutant proteins. Experiments show that mutant androgen receptor (AR), the protein responsible for X-linked spinobulbar muscular atrophy, forms insoluble aggregates and is toxic to cultured cells. Mutant AR was also found to form aggresomes in a process distinct from aggregation. Molecular and pharmacological interventions were used to disrupt aggresome formation, revealing their cytoprotective function. Aggresome-forming proteins were found to have an accelerated rate of turnover, and this turnover was slowed by inhibition of aggresome formation. Finally, it is shown that aggresome-forming proteins become membrane-bound and associate with lysosomal structures. Together, these findings suggest that aggresomes are cytoprotective, serving as cytoplasmic recruitment centers to facilitate degradation of toxic proteins.",
+            "score": 88.64304316043854
+        },
+        {
+            "docid": "23030139_19",
+            "document": "Metastatic breast cancer . Endoglin is a cell-surface disulfide-linked homodimeric glycoprotein which binds to integrins and other RGD ligands and is a co-receptor for TGF-beta. Brain-metastatic breast-tumor cells express endoglin in large amounts. Endoglin-overexpressing cells develop large numbers of invadopodia; endoglin is localized in these structures. Endoglin expression in tumor cells contributes to metastasis by upregulating MMP-1 and MMP-19. MMP-19 cleaves components of the basal lamina such as collagen type IV, laminin 5, nidogen (entactin) and other ECM proteins such as tenascin, aggrecan and fibronectin. Therefore, endoglin over-expression alters the proteolytic balance of the cells to greater matrix degradation and increased invasive properties of breast cancer.",
+            "score": 164.4008891582489
+        },
+        {
+            "docid": "10213576_36",
+            "document": "Stem-cell niche . There is also certain degree of similarity in homing-mobilization of normal stem cells and metastasis-invasion of cancer stem cells. There is an important role of Matrix MetalloProteinases (MMP), the principal extracellular matrix degrading enzymes, thus for example matrix metalloproteinase-2 and \u22129 are induced to expression and secretion by stromal cells during metastatsis of colon cancer via direct contact or paracrine regulation. The next sharing molecule is Stromal cell-Derived Factor-1 (SDF-1).",
+            "score": 101.04891633987427
+        },
+        {
+            "docid": "1501024_15",
+            "document": "Dyadic transformation . One hallmark of chaotic dynamics is the loss of information as simulation occurs. If we start with information on the first \"s\" bits of the initial iterate, then after \"m\" simulated iterations (\"m\"\u00a0<\u00a0\"s\") we only have (\"s\"\u00a0\u2212\u00a0\"m\") bits of information remaining. Thus we lose information at the exponential rate of one bit per iteration. After \"s\" iterations, our simulation has reached the fixed point zero, regardless of the true iterate values; thus we have suffered a complete loss of information. This illustrates sensitive dependence on initial conditions\u2014the mapping from the truncated initial condition has deviated exponentially from the mapping from the true initial condition. And since our simulation has reached a fixed point, for almost all initial conditions it will not describe the dynamics in the qualitatively correct way as chaotic.",
+            "score": 33.878769636154175
+        },
+        {
+            "docid": "3474896_17",
+            "document": "Magnesium transporter . Recently the Mg-dependent fluorescence of mag-fura 2 was used to measure the free Mg content of \"S. typhimurium\" cells in response to external Mg, which showed that CorA is the major uptake system for Mg in bacteria. The authors also showed for the first time that the changes in the electric potential (\u0394\u03a8) across the plasma membrane of the cell affected both the rate of Mg uptake and the free Mg content of the cell; depolarisation suppressed transport, while hyperpolarisation increased transport. The kinetics of transport were defined only by the rate of change of free Mg inside the cells (250 \u03bcM s). Because no quantification of the amount of CorA protein in the membrane was made, this value is cannot be compared with other experiments on Mg transporters.",
+            "score": 52.24759006500244
+        },
+        {
+            "docid": "14700825_21",
+            "document": "Valosin-containing protein . The first p97 inhibitor Eeyarestatin (EerI) was discovered by screening and characterizing compounds that inhibit the degradation of a fluorescence-labeled ERAD substrate. The mechanism of p97 inhibition by EerI is unclear, but when applied to cells, it induces biological phenotypes associated with p97 inhibition such as ERAD inhibition, ER stress elevation, and apoptosis induction. Importantly, EerI displays significant cancer-killing activity \"in vitro\" preferentially against cancer cells isolated from patients, and it can synergize with the proteasome inhibitor Bortezomib to kill cancer cells. These observations prompt the idea of targeting p97 as a potential cancer therapy. This idea was further confirmed by studying several ATP competitive and allosteric inhibitors. More recently, a potent and specific p97 inhibitor CB-5083 has been developed, which demonstrates promising anti-cancer activities in mouse xenograft tumor models. The compound is now being evaluated in a phase 1 clinical trial.",
+            "score": 67.23185861110687
+        },
+        {
+            "docid": "25971665_3",
+            "document": "TSPAN12 . Its main binding partner is the ADAM10 protein, a sheddase that interacts with a variety of adhesion molecules that are found on the cell membrane including L1-CAM, E-Cadherin, N-Cadherin and CD44. It also binds to the MT1-MMP metalloprotease protein that is closely related to ADAM10 but has a minimal effect on promotion of expression and function. TSPAN12 also seems to regulate vascular development, as shown by a study involving TSPAN12 knockout mice. TSPAN12 is a significant contributor to primary and metastatic cancer and is responsible for protecting \u03b2-catenin from degradation.",
+            "score": 129.97122311592102
+        },
+        {
+            "docid": "634016_17",
+            "document": "Fluorescence recovery after photobleaching . Note that the recovery depends on the rate constant for unbinding, \"k\", only. It does not depend on the on rate for binding. Although it does depend on a number of assumptions If all these assumptions are satisfied, then fitting an exponential to the recovery curve will give the off rate constant, \"k\". However, other dynamics can give recovery curves similar to exponentials, so fitting an exponential does not necessarily imply that recovery is dominated by a simple bimolecular reaction. One way to distinguish between recovery with a rate determined by unbinding and recovery that is limited by diffusion, is to note that the recovery rate for unbinding-limited recovery is independent of the size of the bleached area \"r\", while it scales as formula_21, for diffusion-limited recovery. Thus if a small and a large area are bleached, if recovery is limited by unbinding then the recovery rates will be the same for the two sizes of bleached area, whereas if recovery is limited by diffusion then it will be much slower for the larger bleached area.",
+            "score": 24.985390663146973
+        },
+        {
+            "docid": "11763579_30",
+            "document": "Microvesicles . Degradation of the extracellular matrix is a critical step in promoting tumor growth and metastasis. Tumor-derived microvesicles often carry protein-degrading enzymes, including matrix metalloproteinase 2 (MMP-2), MMP-9, and urokinase-type plasminogen activator (uPA). By releasing these proteases, tumor cells can degrade the extracellular matrix and invade surrounding tissues. Likewise, inhibiting MMP-2, MMP-9, and uPA prevents microvesicles from facilitating tumor metastasis. Matrix digestion can also facilitate angiogenesis, which is important for tumor growth and is induced by the horizontal transfer of RNAs from microvesicles.",
+            "score": 125.99963331222534
+        },
+        {
+            "docid": "3474896_33",
+            "document": "Magnesium transporter . Membrane fractionation and green fluorescent protein (GFP) fusion studies established that Alr1p is localised to the plasma membrane. The localisation of the Alr1p was observed to be internalised and degraded in the vacuole in response to extracellular cations. Mg, at very low extracellular concentrations (100 \u03bcM; < 10% of the standard media Mg content), and Co and Mn at relatively high concentrations (> 20\u00d7 standard media), induced the change in Alr1p protein localisation, and the effect was dependent on functional ubiquitination, endocytosis and vacuolar degradation. This mechanism was proposed to allow the regulation of Mg uptake by yeast.  However, a recent report indicates that several of the observations made by Stadler et al. were not reproducible. For example, regulation of ALR1 mRNA accumulation by Mg supply was not observed, and the stability of the Alr1 protein was not reduced by exposure to excess Mg. The original observation of Mg-dependent accumulation of the Alr1 protein under steady-state low-Mg conditions was replicated, but this effect was shown to be an artifact caused by the addition of a small peptide (epitope) to the protein to allow its detection. Despite these problems, Alr1 activity was demonstrated to respond to Mg supply, suggesting that the activity of the protein is regulated directly, as was observed for some bacterial CorA proteins.",
+            "score": 57.48913311958313
+        },
+        {
+            "docid": "25368725_34",
+            "document": "Biochemical switches in the cell cycle . Many speculations were made with regard to the control mechanisms employed by a cell to promote the irreversibility of mitotic exit in a eukaryotic model organism, the budding yeast \"Saccharomyces cerevisiae\". Proteolytic degradation of cell cycle regulators and corresponding effects on the levels of cyclin-dependent kinases were proposed as a mechanism that promotes eukaryotic cell cycle and metaphase-to-anaphase transition in particular. In this theory, anaphase promoting complex (APC), a class of ubiquitin ligase, facilitates degradation of mitotic cyclins (Clb2) and anaphase-inhibiting factors (PDS1, CUT2) to promote mitotic exit. APC ubiquitinates nine-amino acid motif known as the destruction box (D box) in the NH2-terminal domain of mitotic cyclins for degradation by proteasome. APC in association with Cdc20 (APC-Cdc20) ubiquitinates and targets mitotic cyclins (Clb2) for degradation at initial phase. Simultaneously, APC-Cdc20 mediates degradation of securins, which inhibit separases through binding, at anaphase onset. Released and active separase cleaves cohesin that held sister chromatids together, facilitating separation of sister chromatids and initiates mitotic exit by promoting release of Cdc14 from nucleolus. At later phase, downregulation of Cdk1 and activation of Cdc14, a Cdh1-activating phosphatase, promotes formation of APC in association with Cdh1 (APC-Cdh1) to degrade Clb2s. Cdc20 and Cdh1, which are the activators of APC, recruit substrates such as securin and B-type cyclins(Clb) for ubiquitination. Without Cdk1-Clb2 complexes to phosphorylate proteins that are involved in spindle dynamics such as Sli15, Ase1, and Ask1, spindle elongation and chromosomal segregation are promoted, facilitating mitotic exit. The importance of proteolytic degradation in eukaryotic cell cycle changed the view of cell division as a simple kinase cascade to a more complex process in which interactions among phosphorylation, ubiquitination, and proteolysis are necessary. However, experiments using budding yeast cells with cdc28-as1, a INM-PP1 (ATP analog)-sensitive Cdk allele, proved that destruction of B-type cyclins (Clb) is not necessary for triggering irreversible mitotic exit. Clb2 degradation did shorten the Cdk1-inhibition period required for triggering irreversible mitotic exit indicating that cyclin proteolysis contributes to the dynamic nature of the eukaryotic cell cycle due to slower timescale of its action but is unlikely to be the major determining factor in triggering irreversible cell cycle transitions.",
+            "score": 61.650883436203
+        }
+    ],
+    "r": [
+        {
+            "docid": "13621723_9",
+            "document": "MMP2 . Cancer cell invasion, ECM degradation, and metastasis are highly linked with the presence of invadopodia, protrusive and adhesive structures on cancer cells. Invadopodia have been shown to concentrate MMPs (including MT1-MMP, MMP-2, and MMP-9) for localized release and activation. Furthermore, degradation products of MMP activity may further promote invadopodia formation and MMP activity. Finally, MMP-2 and several other MMPs have been shown to proteolytically activate TGF-\u03b2, which has been shown to promote epithelial mesenchymal transition (EMT), a key process involved in cancer metastasis.",
+            "score": 260.810791015625
+        },
+        {
+            "docid": "23030139_12",
+            "document": "Metastatic breast cancer . Cell-cell and cell-ECM matrix adhesion, motility, and localised proteolysis are mediated mainly by matrix metalloproteases (MMPs). Degradation of the extracellular matrix begins the process of metastasis. The cell develops structures called invadopodia, which are highly concentrated in several proteases and have a highly dynamic actin cytoskeleton.",
+            "score": 168.13711547851562
+        },
+        {
+            "docid": "23030139_19",
+            "document": "Metastatic breast cancer . Endoglin is a cell-surface disulfide-linked homodimeric glycoprotein which binds to integrins and other RGD ligands and is a co-receptor for TGF-beta. Brain-metastatic breast-tumor cells express endoglin in large amounts. Endoglin-overexpressing cells develop large numbers of invadopodia; endoglin is localized in these structures. Endoglin expression in tumor cells contributes to metastasis by upregulating MMP-1 and MMP-19. MMP-19 cleaves components of the basal lamina such as collagen type IV, laminin 5, nidogen (entactin) and other ECM proteins such as tenascin, aggrecan and fibronectin. Therefore, endoglin over-expression alters the proteolytic balance of the cells to greater matrix degradation and increased invasive properties of breast cancer.",
+            "score": 164.40089416503906
+        },
+        {
+            "docid": "16793410_3",
+            "document": "Winchester syndrome . Winchester syndrome is believed to be inherited through autosomal recessive inheritance. For recessive genetic disorders, individuals inherit the mutated gene for the same trait from both parents. It believed that this disease is caused by a nonlysosomal connective-tissue disturbance. The protein inactivation mutation is found on the matrix metalloproteinase 2 gene (MMP2). MM2 is responsible for bone remodeling. Bone remodeling is the process in which old bone is destroyed so that new bone can be created to replace it. This mutation causes a multicentric osteolysis and arthritis syndrome. It is hypothesized that the loss of an upstream MMP-2 protein activator MT1-MMP, results in decreased MMP-2 activity without affecting \"MMP2\". The inactivating homoallelic mutation of \"MT1-MMP\" can be seen at the surface of fibroblasts. It was determined that fibroblasts lacking MT1-MMP lack the ability to degrade type I collagen which leads to anomalous function.",
+            "score": 162.34527587890625
+        },
+        {
+            "docid": "13621723_8",
+            "document": "MMP2 . One of the major implications of MMPs in cancer progression is their role in ECM degradation, which allows cancer cells to migrate out of the primary tumor to form metastases. More specifically, MMP-2 (along with MMP-9) is capable of degrading type IV collagen, the most abundant component of the basement membrane. The basement membrane is important for maintaining tissue organization, providing structural support for cells, and influencing cell signaling and polarity. Degradation of the basement membrane is an essential step for the metastatic progression of most cancers.",
+            "score": 152.97938537597656
+        },
+        {
+            "docid": "13621723_4",
+            "document": "MMP2 . Activation of MMP-2 requires proteolytic processing. A complex of membrane type 1 MMP (MT1-MMP/MMP14) and tissue inhibitor of metalloproteinase 2 recruits pro-MMP 2 from the extracellular milieu to the cell surface. Activation then requires an active molecule of MT1-MMP and auto catalytic cleavage. Clustering of integrin chains promotes activation of MMP-2. Another factor that will support the activation of MMP-2 is cell-cell clustering. A wild-type activated leukocyte cell adhesion molecule (ALCAM) is also required to activate MMP-2.",
+            "score": 152.01959228515625
+        },
+        {
+            "docid": "17309591_3",
+            "document": "Invadopodia . In the early 1980s, researchers noticed protrusions coming from the ventral membrane of cells that had been transformed by the Rous Sarcoma Virus and that they were at the sites of cell-to-extracellular matrix (ECM) adhesion. They termed these structures podosomes, or cellular feet, but it was later noticed that degradation of the ECM was occurring at these sites and the name invadopodia was coined to highlight the invasive nature of these protrusions. Since then, researchers have often used the two names interchangeably, but it is generally accepted that podosomes are the structures involved in normal biological processes (like when immune cells need to cross tissue barriers or in bone remodeling) and invadopodia are the structures in invading cancer cells. However, there remains controversy around this nomenclature, with some scientists arguing that the two are different enough to be considered distinct structures while others argue that invadopodia are simply disregulated podosomes and cancer cells don\u2019t simply invent new mechanisms.  Due to this confusion and the high similarity between the two structures, many have begun to group the two under the collective term invadosomes.",
+            "score": 148.9986572265625
+        },
+        {
+            "docid": "144865_20",
+            "document": "Tendon . Matrix metalloproteinases (MMPs) have a very important role in the degradation and remodeling of the ECM during the healing process after a tendon injury. Certain MMPs including MMP-1, MMP-2, MMP-8, MMP-13, and MMP-14 have collagenase activity, meaning that, unlike many other enzymes, they are capable of degrading collagen I fibrils. The degradation of the collagen fibrils by MMP-1 along with the presence of denatured collagen are factors that are believed to cause weakening of the tendon ECM and an increase in the potential for another rupture to occur. In response to repeated mechanical loading or injury, cytokines may be released by tenocytes and can induce the release of MMPs, causing degradation of the ECM and leading to recurring injury and chronic tendinopathies.",
+            "score": 148.74635314941406
+        },
+        {
+            "docid": "156964_79",
+            "document": "MicroRNA . MiR-712 targets tissue inhibitor of metalloproteinases 3 (TIMP3). TIMPs normally regulate activity of matrix metalloproteinases (MMPs) which degrade the extracellular matrix (ECM). Arterial ECM is mainly composed of collagen and elastin fibers, providing the structural support and recoil properties of arteries. These fibers play a critical role in regulation of vascular inflammation and permeability, which are important in the development of atherosclerosis. Expressed by endothelial cells, TIMP3 is the only ECM-bound TIMP. A decrease in TIMP3 expression results in an increase of ECM degradation in the presence of d-flow. Consistent with these findings, inhibition of pre-miR712 increases expression of TIMP3 in cells, even when exposed to turbulent flow.",
+            "score": 148.62132263183594
+        },
+        {
+            "docid": "2498610_11",
+            "document": "Plasminogen activator . Plasminogen activator inhibitor-1 not only functions as an inhibitor, but other roles of PAI-1 could suggest it could contribute to cancer. The other roles of PAI-1 include, cell de-adhesion, cell proliferation, apoptosis, and cell signaling. These roles could suggest that PAI-1 expression in the tumor microenvironment enhances tumor cell progression. Urokinase cleaves the zymogen plasminogen into serine protease plasmin. The elevated levels of uPA is an indicator of cancer which could be found in the carcinoma of the breast. Plasmin can activate matrix metalloproteases (MMP's) in the extracellular matrix (ECM). MMP activation contributes to tumor cell invasion and metastasis by degradation of ECM components.",
+            "score": 148.30747985839844
+        },
+        {
+            "docid": "13621723_11",
+            "document": "MMP2 . More generally, by degrading the ECM, MMPs release growth factors that were previously bound to the ECM, allowing them to bind with cell receptors and influence cell signaling. Furthermore, many MMPs also activate other proMMPs along with growth factors. MMP-2 has also been shown to cleave other non-ECM substrates including growth factors such as TGF-\u03b2, FGF receptor-1, proTNF, IL-1\u03b2 and various chemokines. For instance, MMP-2 has been implicated, along with MMP-9 in cleaving latent TGF-\u03b2, which has complex interactions with cancer cells. TGF-\u03b2 generally plays a role in maintaining tissue homeostasis and preventing tumor progression. However, genetically unstable cancer cells can often evade regulation by TGF-\u03b2 by altering TGF-\u03b2 receptors in downstream signaling processes. Furthermore, expression of TGF-\u03b2 is also correlated with immune tolerance and may help shield cancer cells from immune regulation.",
+            "score": 147.7869110107422
+        },
+        {
+            "docid": "13621723_10",
+            "document": "MMP2 . MMP degradation of the ECM affects cellular behavior through changes in integrin-cell binding, by releasing growth factors harbored by the ECM, by generating ECM degradation products, and by revealing cryptic binding sites in ECM molecules. For instance, MMP-2 degradation of collagen type I can reveal a previously inaccessible cryptic binding site that binds with the \u03b1\u03b2 integrin expressed by human melanoma cells. Signaling through this integrin is necessary for melanoma cell viability and growth in a collagen matrix and can potentially rescue the cells from apoptosis. As another example, cleavage of laminin-5, a component of the basement membrane, by MMP-2 has been shown to reveal a cryptic site inducing migration of breast epithelial cells.",
+            "score": 146.73655700683594
+        },
+        {
+            "docid": "22993401_25",
+            "document": "Proteases in angiogenesis . It has been well established that smooth muscle-like pericytes play an important role in stabilizing newly formed blood vessels. Pericytes present in the stroma of tumors of breast cancer patients express MMP-9. Animal models deficient of MMP-9 display disturbed recruitment of pericytes. The inability to recruit pericytes severely affects the stability of vessels and the degree of vascularization of neuroblastomas. Aminopeptidase A also may be involved in pericyte recruitment due to its increased expression by activated pericytes in various pathological conditions associated with angiogenesis. The mechanism by which this protease facilitates vessel maturation has not yet been determined. Angiogenesis requires a fine balance between proteolytic activity and proteinase inhibition. Pericytes secrete TIMP-3 which inhibits MT1-MMP dependent MMP-2 activation on endothelial cell, thus facilitating stabilization of newly formed microvessels. Co-cultures consisting of pericytes and endothelial cells induce the expression of TIMP-3 by pericytes, while endothelial cells produce TIMP-2. Together, these inhibitors stabilize the vasculature by inhibiting a variety of MMPs, ADAMs, and VEGF receptor 2.",
+            "score": 145.65040588378906
+        },
+        {
+            "docid": "21681912_9",
+            "document": "Desmoplasia . Stroma contains extracellular matrix components such as proteoglycans and glycosaminoglycans which are highly negatively charged, largely due to sulfated regions, and bind growth factors and cytokines, acting as a reservoir of these cytokines. In tumors, cancer cells secrete matrix degrading enzymes, such as matrix metalloproteinases (MMPs) that, once cleaved and activated, degrade the matrix, thereby releasing growth factors that signal for the growth of cancer cells. MMPs also degrade ECM to provide space for vasculature to grow to the tumor, for the tumor cells to migrate, and for the tumor to continue to proliferate.",
+            "score": 144.47174072265625
+        },
+        {
+            "docid": "5591279_4",
+            "document": "Tissue inhibitor of metalloproteinase . The complex of latent MMP-2 (pro-MMP-2)with TIMP-2 serves to facilitate the activation of pro-MMP-2 at the cell surface by MT1-MMP (MMP-14), a membrane-anchored MMP.",
+            "score": 144.37741088867188
+        },
+        {
+            "docid": "15066907_5",
+            "document": "NUAK1 . ARK5 increases MT1-MMP production. (MT1-MMP activates MMP-2 and MMP-9 which are involved in tumor metastasis.)",
+            "score": 143.44595336914062
+        },
+        {
+            "docid": "22993401_3",
+            "document": "Proteases in angiogenesis . MMPs are a large multigene family of zinc-dependent endopeptidases. The collective MMP family is capable of degrading all known ECM macromolecules. MMP activity is regulated at the level of transcription, post-translationally by proteolytic cleavage, and by endogenous inhibitors known as tissue inhibitors of metalloproteases (TIMPs). The role of matrix metalloproteases and TIMPs in several pathological conditions including angiogenesis, tumor growth, and metastasis has been investigated and very well described.",
+            "score": 134.73544311523438
+        },
+        {
+            "docid": "31997941_2",
+            "document": "Prinomastat . Prinomastat (code name AG-3340) is a matrix metalloproteinase (MMP) inhibitor with specific selectivity for MMPs 2, 3, 9, 13, and 14. Investigations have been carried out to determine whether the inhibition of these MMPs is able to block tumour metastasis by preventing MMP degradation of the extracellular matrix proteins and angiogenesis. Prinomastat underwent a Phase III trial to investigate its effectiveness against non-small cell lung cancer (NSCLC), in combination with gemcitabine chemotherapy. However, it was discovered that Prinomastat did not improve the outcome of chemotherapy in advanced non-small-cell lung cancer.",
+            "score": 134.23159790039062
+        },
+        {
+            "docid": "23030139_14",
+            "document": "Metastatic breast cancer . Most of these processes require a delicate balance between the functions of matrix metalloproteases (MMPs) or metalloprotease-disintegrins (ADAMs) and natural tissue inhibitors of metalloproteases (TIMPs). Regulated proteolysis is an important mechanism to maintain homeostasis. There is increased expression of protease systems in cancer cells, to equip them with the tools necessary to degrade the extracellular matrix and release growth factors or transmembrane receptors. MMP-2 is upregulated in the bone, and increased levels of MMP-1 and MMP-19 are observed in the brain. This in turn, upregulates the signaling pathways necessary to provide increased cell adhesion, cell motility, cell migration, invasion, cancer- cell proliferation and survival.",
+            "score": 133.34765625
+        },
+        {
+            "docid": "5151270_3",
+            "document": "Intravasation . One of the genes that contributes to intravasation codes for urokinase (uPA), a serine protease that is able to proteolytically degrade various extracellular matrix (ECM) components and the basement membrane around primary tumors. uPA also activates multiple growth factors and matrix metalloproteinases (MMPs) that further contribute to ECM degradation, thus enabling tumor cell invasion and intravasation.",
+            "score": 133.26304626464844
+        },
+        {
+            "docid": "17309591_2",
+            "document": "Invadopodia . Invadopodia are actin-rich protrusions of the plasma membrane that are associated with degradation of the extracellular matrix in cancer invasiveness and metastasis. Very similar to podosomes, invadopodia are found in invasive cancer cells and are important for their ability to invade through the extracellular matrix, especially in cancer cell extravasation. Invadopodia can be visualized by the holes they would create in fibronectin-coated plates or by using immunohistochemistry, as co-localizing puncta of actin with Tks5. Invadopodia can also be used as a marker to quantify the invasiveness of cancer cell lines \"in vitro\" using a hyaluronic acid hydrogel assay.",
+            "score": 133.05593872070312
+        },
+        {
+            "docid": "14060382_3",
+            "document": "TIMP2 . The proteins encoded by this gene family are natural inhibitors of the matrix metalloproteinases (MMP), a group of peptidases involved in degradation of the extracellular matrix. In addition to an inhibitory role against metalloproteinases, the encoded protein has a unique role among TIMP family members in its ability to directly suppress the proliferation of endothelial cells. As a result, the encoded protein may be critical to the maintenance of tissue homeostasis by suppressing the proliferation of quiescent tissues in response to angiogenic factors, and by inhibiting protease activity in tissues undergoing remodelling of the extracellular matrix. TIMP2 functions as both an MMP inhibitor and an activator. TIMPs inhibit active MMPs, but different TIMPs inhibit different MMPs better than others. For example, TIMP-1 inhibits MMP-7, MMP-9, MMP-1 and MMP-3 better than TIMP-2, and TIMP-2 inhibits MMP-2 more effectively than other TIMPs.",
+            "score": 132.95962524414062
+        },
+        {
+            "docid": "17309591_6",
+            "document": "Invadopodia . Metastasis is the leading cause of mortality in cancer patients and it relies on the ability of the cancer cells to degrade the surrounding extracellular matrix and invade into other tissues. The mechanisms of this process are still not completely understood and because of the invasive properties of invadopodia, they have been investigated in this context. Indeed, invadopodia have been implicated in many cancers and cancer cells. Increased invasiveness of cancer cells correlates with invadopodia incidence and cancer cells have been observed to project cells into the endothelium of blood vessels during extravasation, an important step in metastasis. Invadopodia incidence has also been shown to correlate with a poorer prognosis in breast cancer patients.",
+            "score": 132.57371520996094
+        },
+        {
+            "docid": "27477870_4",
+            "document": "Peptidoglycan binding domain . Eukaryotic enzymes can contain structurally similar PGBD-like domains. Matrix metalloproteinases (MMP), which catalyse extracellular matrix degradation, have N-terminal domains that resemble PGBD. Examples are gelatinase A (MMP-2), which degrades type IV collagen, stromelysin-1 (MMP-3), which plays a role in arthritis and tumour invasion, and gelatinase B (MMP-9) secreted by neutrophils as part of the innate immune defence mechanism. Several MMPs are implicated in cancer progression, since degradation of the extracellular matrix is an essential step in the cascade of metastasis.",
+            "score": 131.09449768066406
+        },
+        {
+            "docid": "23030139_20",
+            "document": "Metastatic breast cancer . The primary extracellular matrix components and cell-surface receptors which aid in metastasis are: Integrin \u03b1v\u03b23 (a cell-surface adhesion molecule) is important for tumor attachment, cell-to-cell communication between the breast tumor cells and the environment in bone, osteoclast bone resorption and angiogenesis. Integrin-mediated adhesion between cancer cells and osteoclasts in bone metastases induces phosphorylation of extracellular signal-regulated kinases (ERK1/2) in osteoclasts, which in turn induces osteoclast differentiation and survival. Metastatic breast-cancer cells excrete lysophosphatidic acid (LPA) which binds to receptors on tumor cells, inducing cell proliferation and release of cytokines(IL-6 and IL-8, potent bone resorptive agents) and stimulating bone resorption. After the breast-cancer cells have left the primary tumor, they interact with the bone microenvironment and secrete osteolytic factors capable of osteoclast formation and bone resorption. Apart from the breast tumor cells, the resident stromal cells also contribute to tumor survival. Growth factors such as epidermal growth factor (EGF), fibroblast growth factor (FGF) and transforming growth factor beta (TGF-\u03b2) are implicated in the development and progression of metastatic breast cancer. MMP-2 is the main metalloprotease secreted by breast-cancer cells or induced in the adjacent bone stroma; it plays an important role in the degradation of the extracellular matrix essential for metastasis. Tumor cells use MMP-2 secreted by bone marrow fibroblasts (BMFs). MMP-2 is stored in an inactive conformation in association with the cell surface (or extracellular matrix) of BMFs. Inactive MMP-2 present on the surface of BMFs is displaced by breast-cancer cells. Cancer cells can then use the proteinase to facilitate tissue invasion, which requires the degradation of connective tissue associated with vascular basement membranes and interstitial connective tissue. MMP-2 is unlike other MMP's as its activity is modulated by metalloproteases called tissue inhibitor of metalloproteases (TIMP) and membrane type 1 MMP (Korhmann et at. 2009)",
+            "score": 130.3817596435547
+        },
+        {
+            "docid": "25971665_3",
+            "document": "TSPAN12 . Its main binding partner is the ADAM10 protein, a sheddase that interacts with a variety of adhesion molecules that are found on the cell membrane including L1-CAM, E-Cadherin, N-Cadherin and CD44. It also binds to the MT1-MMP metalloprotease protein that is closely related to ADAM10 but has a minimal effect on promotion of expression and function. TSPAN12 also seems to regulate vascular development, as shown by a study involving TSPAN12 knockout mice. TSPAN12 is a significant contributor to primary and metastatic cancer and is responsible for protecting \u03b2-catenin from degradation.",
+            "score": 129.97122192382812
+        },
+        {
+            "docid": "17309591_5",
+            "document": "Invadopodia . Invadopodia formation is a complex process that involves multiple signaling pathways and can be described as having three steps: initiation, stabilization, and maturation.  Initiation of invadopodia involves the formation of buds in the plasma membrane and is initiated by growth factors like epidermal growth factor (EGF), transforming growth factor beta (TGFB) or platelet-derived growth factor (PDGF), which act through phosphoinositide 3-kinase (PI3K) to activate Src family kinases. These kinases have key roles in the formation of invadopodia and when activated, phosphorylate multiple proteins involved in invadopodia formation including Tks5, synaptjanin-2, and the Abl-family kinase Arg4. The phosphorylation of these proteins leads to the recruitment of the Neural Wiskott-Aldrich syndrome protein (N-Wasp) to invadopodia, which requires Arp2/3, to activate actin polymerization and thus invadopodia elongation. A key step during invadopodia formation is the stabilization of invadopodia, which involves the interaction of PX domain of Tks5 (a scaffold protein) with phospholipid, PI(3,4)P to anchor the invadopodia core to the plasma membrane. Maturation of invadopodia requires sustained actin polymerization and there are several regulators of actin polymerization involved in this step, including cofilin, fascin, Arg kinase, and mDia2. Invadopodia are considered mature when matrix metalloproteases (MMPs), specifically MMP2, 9, and 14, are recruited to the invadopodium to be released into the extracellular matrix.",
+            "score": 129.32171630859375
+        },
+        {
+            "docid": "14764024_9",
+            "document": "PDPN . In squamous cell carcinomas, PDPN is believed to play a key role in the cancer cell invasiveness by controlling invadopodia, and thus mediating efficient ECM degradation.",
+            "score": 128.7369384765625
+        },
+        {
+            "docid": "17309591_4",
+            "document": "Invadopodia . Invadopodia have an actin core, which is surrounded by a ring structure enriched in actin-binding proteins, adhesion molecules, integrins, and scaffold proteins. Invadopodia are generally longer than podosomes, with a width of 0.5- 2.0\u00a0um and a length greater than 2\u00a0um, and they last much longer than podosomes. Invadopodia also penetrate deep into the ECM, while podosomes generally extend upward into the cytoplasm and do not cause as much ECM degradation.",
+            "score": 127.752685546875
+        },
+        {
+            "docid": "11763579_30",
+            "document": "Microvesicles . Degradation of the extracellular matrix is a critical step in promoting tumor growth and metastasis. Tumor-derived microvesicles often carry protein-degrading enzymes, including matrix metalloproteinase 2 (MMP-2), MMP-9, and urokinase-type plasminogen activator (uPA). By releasing these proteases, tumor cells can degrade the extracellular matrix and invade surrounding tissues. Likewise, inhibiting MMP-2, MMP-9, and uPA prevents microvesicles from facilitating tumor metastasis. Matrix digestion can also facilitate angiogenesis, which is important for tumor growth and is induced by the horizontal transfer of RNAs from microvesicles.",
+            "score": 125.9996337890625
+        },
+        {
+            "docid": "1602856_18",
+            "document": "Granzyme B . Granzyme B can degrade many proteins in the extracellular matrix (ECM) including fibronectin, vitronectin and aggrecan. Cleavage can cause cell death by anoikis and release alarmins from the ECM inducing inflammation. Fragments of fibronectin can attract neutrophils and stimulate MMP expression from chondrocytes. Basophils secrete granzyme B to degrade endothelial cell-cell contacts allowing extravasation to sites of inflammation.",
+            "score": 125.56912994384766
+        },
+        {
+            "docid": "13621723_3",
+            "document": "MMP2 . Proteins of the matrix metalloproteinase (MMP) family are involved in the breakdown of extracellular matrix (ECM) in normal physiological processes, such as embryonic development, reproduction, and tissue remodeling, as well as in disease processes, such as arthritis and metastasis. Most MMP's are secreted as inactive proproteins which are activated when cleaved by extracellular proteinases. This gene encodes an enzyme which degrades type IV collagen, the major structural component of basement membranes. The enzyme plays a role in endometrial menstrual breakdown, regulation of vascularization and the inflammatory response.",
+            "score": 125.45340728759766
+        }
+    ]
+}

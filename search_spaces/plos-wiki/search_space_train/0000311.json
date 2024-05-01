@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "7898578_13",
+            "document": "Saccharomyces pastorianus . In 2015, researchers succeeded in creating novel lager brewing yeasts by hybridizing selected strains of \"S. cerevisiae\" with \"S. eubayanus\". These new hybrid yeasts inherited beneficial properties from both parent strains (e.g. maltotriose use, cold tolerance and flocculation) and outperformed them during fermentation (faster fermentation and higher alcohol yield). It is expected that the diversity of lager yeast strains will increase greatly in the future.",
+            "score": 155.67643237113953
+        },
+        {
+            "docid": "49482835_12",
+            "document": "Aerobic fermentation . Aerobic fermentation is also essential for multiple industries, resulting in human domestication of several yeast strains. Beer and other alcoholic beverages, throughout human history, have played a significant role in society through drinking rituals, providing nutrition, medicine, and uncontaminated water. During the domestication process, organisms shift from natural environments that are more variable and complex to simple and stable environments with a constant substrate. This often favors specialization adaptations in domesticated microbes, associated with relaxed selection for non-useful genes in alternative metabolic strategies or pathogenicity. Domestication might be partially responsible for the traits that promote aerobic fermentation in industrial species. Introgression and HGT is common in \"Saccharomyces\" domesticated strains. Many commercial wine strains have significant portions of their DNA derived from HGT of non-\"Saccharomyces\" species. HGT and introgression are less common in nature than is seen during domestication pressures. For example, the important industrial yeast strain \"Saccharomyces pastorianus\", is an interspecies hybrid of \"S. cerevisiae\" and the cold tolerant \"S. eubayanus.\" This hybrid is commonly used in lager-brewing, which requires slow, low temperature fermentation.",
+            "score": 117.02247130870819
+        },
+        {
+            "docid": "1730419_7",
+            "document": "Saccharomyces . Brewing yeasts are polyploid and belong to the genus \"Saccharomyces\". The brewing strains can be classified into two groups; the ale strains (\"Saccharomyces cerevisiae\") and the lager strains (\"Saccharomyces pastorianus\" or \"Saccharomyces carlsbergensis\" in the old taxonomy). Lager strains are a hybrid strain of \"S. cerevisiae\" and \"S. eubayanus\" and are often referred to as bottom fermenting. In contrast, ale strains are referred to as top fermenting strains, reflecting their separation characteristics in open square fermenters. Although the two species differ in a number of ways, including their response to temperature, sugar transport and use, the \"S. pastorianus\" and \"S. cerevisiae\" species are closely related within the genus \"Saccharomyces\".",
+            "score": 133.368155002594
+        },
+        {
+            "docid": "4410_36",
+            "document": "Brewing . For both types, yeast is fully distributed through the beer while it is fermenting, and both equally flocculate (clump together and precipitate to the bottom of the vessel) when fermentation is finished. By no means do all top-cropping yeasts demonstrate this behaviour, but it features strongly in many English yeasts that may also exhibit chain forming (the failure of budded cells to break from the mother cell), which is in the technical sense different from true flocculation. The most common top-cropping brewer's yeast, \"Saccharomyces cerevisiae\", is the same species as the common baking yeast. However, baking and brewing yeasts typically belong to different strains, cultivated to favour different characteristics: baking yeast strains are more aggressive, in order to carbonate dough in the shortest amount of time; brewing yeast strains act slower, but tend to tolerate higher alcohol concentrations (normally 12\u201315% abv is the maximum, though under special treatment some ethanol-tolerant strains can be coaxed up to around 20%). Modern quantitative genomics has revealed the complexity of \"Saccharomyces\" species to the extent that yeasts involved in beer and wine production commonly involve hybrids of so-called pure species. As such, the yeasts involved in what has been typically called top-cropping or top-fermenting ale may be both \"Saccharomyces cerevisiae\" and complex hybrids of \"Saccharomyces cerevisiae\" and \"Saccharomyces kudriavzevii\". Three notable ales, Chimay, Orval and Westmalle, are fermented with these hybrid strains, which are identical to wine yeasts from Switzerland.",
+            "score": 82.12012302875519
+        },
+        {
+            "docid": "49482835_8",
+            "document": "Aerobic fermentation . Hexose transporters (HXT) are a group of proteins that are largely responsible for the uptake of glucose in yeast. In \"S. cerevisiae\", 20 \"HXT\" genes have been identified and 17 encode for glucose transporters (\"HXT1-HXT17\"), \"GAL2\" encodes for a galactose transporter, and \"SNF3\" and \"RGT2\" encode for glucose sensors. The number of glucose sensor genes have remained mostly consistent through the budding yeast lineage, however glucose sensors are absent from \"Schizosaccharomyces pombe\". \"Sch. pombe\" is a Crabtree-positive yeast, which developed aerobic fermentation independently from \"Saccharomyces\" lineage, and detects glucose via the cAMP-signaling pathway. The number of transporter genes vary significantly between yeast species and has continually increased during the evolution of the \"S. cerevisiae\" lineage. Most of the transporter genes have been generated by tandem duplication, rather than from the WGD. \"Sch. pombe\" also has a high number of transporter genes compared to its close relatives. Glucose uptake is believed to be a major rate-limiting step in glycolysis and replacing \"S. cerevisiae\"'s \"HXT1-17\" genes with a single chimera \"HXT\" gene results in decreased ethanol production or fully respiratory metabolism. Thus, having an efficient glucose uptake system appears to be essential to ability of aerobic fermentation. There is a significant positive correlation between the number of hexose transporter genes and the efficiency of ethanol production.",
+            "score": 89.19721734523773
+        },
+        {
+            "docid": "7898578_8",
+            "document": "Saccharomyces pastorianus . The lager yeast \"Saccharomyces pastorianus\" has been known to be an interspecific hybrid between \"Saccharomyces cerevisiae\" and another \"Saccharomyces\" yeast since at least 1985, but the exact nature of its parents and its proper taxonomy continued to be the subject of much debate. Various candidates for the non-\"cerevisiae\" parent have been proposed, such as CBS 1503 (formerly known as \"S.monacensis\") and CBS 395 (alternately known as \"S. bayanus bayanus\" or \"S.uvarum\") a strain whose taxonomy is also hotly debated. Most commonly strain CBS 380 (\"Saccharomyces bayanus\") has been attributed as the second parent, but it has also been conclusively demonstrated as possessing a hybrid genotype of its own.",
+            "score": 85.31886696815491
+        },
+        {
+            "docid": "237704_39",
+            "document": "Saccharomyces cerevisiae . Approaches that can be applied in many different fields of biological and medicinal science have been developed by yeast scientists. These include yeast two-hybrid for studying protein interactions and tetrad analysis. Other resources, include a gene deletion library including ~4,700 viable haploid single gene deletion strains. A GFP fusion strain library used to study protein localisation and a TAP tag library used to purify protein from yeast cell extracts.",
+            "score": 53.568591356277466
+        },
+        {
+            "docid": "49482835_3",
+            "document": "Aerobic fermentation . The evolution of aerobic fermentation likely involved multiple successive molecular steps, which included the expansion of hexose transporter genes, copy number variation (CNV) and differential expression in metabolic genes, and regulatory reprogramming. Research is still needed to fully understand the genomic basis of this complex phenomenon. Many crabtree-positive yeast species are used for their fermentation ability in industrial processes in the production of wine, beer, sake, bread, and bioethanol. Through domestication, these yeast species have evolved, often through artificial selection, to better fit their environment. Strains evolved through mechanisms that include interspecific hybridization, horizontal gene transfer (HGT), gene duplication, pseudogenization, and gene loss.",
+            "score": 77.84299755096436
+        },
+        {
+            "docid": "45373795_5",
+            "document": "Rogue Beard Beer . Isolating and cultivating a new wild yeast or strain of bacteria can be difficult, resulting in \"rediscovery\" of already utilized organisms. Analysis of the yeast cultivated from Maier's beard showed that it was a new strain, perhaps a hybrid incorporating genes from Rogue's house yeast called \"Pacman\".",
+            "score": 49.345266342163086
+        },
+        {
+            "docid": "7898578_7",
+            "document": "Saccharomyces pastorianus . Since the early 1900s, bottom-fermenting strains of brewery yeast have been typically classified as \"S. carlbergensis\" in scientific literature, and the earlier valid name assigned to a bottom-fermenting yeast by Reess in 1870 was rejected without merit. This situation was rectified using DNA-DNA reallocation techniques in 1985 when Vaughan-Martini and Kurtzman returned the species name to \"S. pastorianus\" under the type strain CBS 1538 and relegated the two former species assigned by Hansen in 1908, \"S. carlsbergensis\" CBS 1513 and \"S. monacensis\" CBS 1503, to the status of synonyms. These experiments also clearly revealed the hybrid nature of the lager brewing yeast species for the first time, even though one of the parental species was incorrectly classified in retrospect. Nonetheless, over the last decades of the 20th century, debate continued in scientific literature regarding the correct taxon, with authors using both names interchangeably to describe lager yeast.",
+            "score": 94.15798592567444
+        },
+        {
+            "docid": "4410_14",
+            "document": "Brewing . Yeast is the microorganism that is responsible for fermentation in beer. Yeast metabolises the sugars extracted from grains, which produces alcohol and carbon dioxide, and thereby turns wort into beer. In addition to fermenting the beer, yeast influences the character and flavour. The dominant types of yeast used to make beer are \"Saccharomyces cerevisiae\", known as ale yeast, and \"Saccharomyces pastorianus\", known as lager yeast; \"Brettanomyces\" ferments lambics, and \"Torulaspora delbrueckii\" ferments Bavarian weissbier. Before the role of yeast in fermentation was understood, fermentation involved wild or airborne yeasts, and a few styles such as lambics still use this method today. Emil Christian Hansen, a Danish biochemist employed by the Carlsberg Laboratory, developed pure yeast cultures which were introduced into the Carlsberg brewery in 1883, and pure yeast strains are now the main fermenting source used worldwide.",
+            "score": 91.61495876312256
+        },
+        {
+            "docid": "51707633_23",
+            "document": "Bet hedging (biology) . While bet hedging in fungi is important, not much is known about the mechanisms for the different strategies employed by different species. Researchers have studied \"S. cerevisiae\" to determine the mechanism of bet hedging in this species. It was determined that in \"S. cerevisiae\", variation exists in the distribution of growth rates among yeast micro-colonies and that slow growth is a predictor of resistance to heat. Tsl1 is one gene that was determined as a factor in this resistance. The abundance of this gene was shown to correlate with heat and stress resistance, and thus survival of the yeast micro-colonies under harsh conditions by using bet hedging. This illustrates that by using bet hedging, pathogenic strains of this yeast that are harmful to humans are more difficult to treat.",
+            "score": 57.48728656768799
+        },
+        {
+            "docid": "8559385_2",
+            "document": "Saccharomyces bayanus . Saccharomyces bayanus is a yeast of the genus \"Saccharomyces\", and is used in winemaking and cider fermentation, and to make distilled beverages. \"Saccharomyces bayanus\" like \"Saccharomyces pastorianus\", is now accepted to be the result of multiple hybridisation events between three pure species, \"Saccharomyces uvarum\", \"Saccharomyces cerevisiae\" and \"Saccharomyces eubayanus\". Notably, most commercial yeast cultures sold as pure \"S. bayanus\" for wine making, e.g. Lalvin EC-1118 strain, have been found to contain \"S. cerevisiae\" cultures instead",
+            "score": 88.15011596679688
+        },
+        {
+            "docid": "411673_14",
+            "document": "Candida albicans . In the 3153A strain, a gene called \"SIR2\" (for silent information regulator), which seems to be important for phenotypic switching, has been found. \"SIR2\" was originally found in \"Saccharomyces cerevisiae\" (brewer's yeast), where it is involved in chromosomal silencing\u2014a form of transcriptional regulation, in which regions of the genome are reversibly inactivated by changes in chromatin structure (chromatin is the complex of DNA and proteins that make chromosomes). In yeast, genes involved in the control of mating type are found in these silent regions, and \"SIR2\" represses their expression by maintaining a silent-competent chromatin structure in this region. The discovery of a \"C. albicans SIR2\" implicated in phenotypic switching suggests it, too, has silent regions controlled by \"SIR2\", in which the phenotype-specific genes may reside. How \"SIR2\" itself is regulated in \"S. cerevisiae\" may yet provide more clues as to the switching mechanisms of \"C. albicans\".",
+            "score": 68.56862211227417
+        },
+        {
+            "docid": "564380_17",
+            "document": "Expression vector . \"Saccharomyces cerevisiae\" is particularly widely used for gene expression studies in yeast, for example in yeast two-hybrid system for the study of protein-protein interaction. The vectors used in yeast two-hybrid system contain fusion partners for two cloned genes that allow the transcription of a reporter gene when there is interaction between the two proteins expressed from the cloned genes.",
+            "score": 43.88655710220337
+        },
+        {
+            "docid": "4410_39",
+            "document": "Brewing . Brewers in Bavaria had for centuries been selecting cold-fermenting yeasts by storing (\"lagern\") their beers in cold alpine caves. The process of natural selection meant that the wild yeasts that were most cold tolerant would be the ones that would remain actively fermenting in the beer that was stored in the caves. A sample of these Bavarian yeasts was sent from the Spaten brewery in Munich to the Carlsberg brewery in Copenhagen in 1845 who began brewing with it. In 1883 Emile Hansen completed a study on pure yeast culture isolation and the pure strain obtained from Spaten went into industrial production in 1884 as Carlsberg yeast No 1. Another specialized pure yeast production plant was installed at the Heineken Brewery in Rotterdam the following year and together they began the supply of pure cultured yeast to brewers across Europe. This yeast strain was originally classified as \"Saccharomyces carlsbergensis\", a now defunct species name which has been superseded by the currently accepted taxonomic classification \"Saccharomyces pastorianus\".",
+            "score": 73.18600475788116
+        },
+        {
+            "docid": "36656943_23",
+            "document": "Microbial food cultures . Several different yeasts are used in brewing beer, where they ferment the sugars present in malted barley to produce alcohol. One of the most common is \"S. cerevisiae\". The same strain of \"S. cerevisiae\" which can also be used in breadmaking is used to make ale-type beers. It is known as a top-fermenting yeast because it creates a foam on the top of the brew. Bottom-fermenting yeasts, such as \"S. pastorianus\", are more commonly used to make lagers. They ferment more of the sugars in the mixture than top-fermenting yeasts, which gives a cleaner taste.",
+            "score": 102.01920962333679
+        },
+        {
+            "docid": "7898578_12",
+            "document": "Saccharomyces pastorianus . As of 2014, the two groups of lager brewing yeasts are classified as either type I: Saaz type, allotriploid strains that appear to have lost large portions of their \"S. cerevisiae\" genome. These include strains CBS 1513 (formerly classified as \"S. carlsbergensis\") and CBS 1503 (formerly classified as \"S. monacensis\") or type 2: Frohberg type, allotetraploid strains that contain near complete sets of genomes from both parents. These include the strain Weihenstephan WS 34/70 considered close to the type strain of \"S. pastorianus\" CBS 1538.",
+            "score": 93.86573219299316
+        },
+        {
+            "docid": "42676080_4",
+            "document": "SIR proteins . One of the early yeast screens to identify SIR genes was performed by Anita Hopper and Benjamin Hall, who screened with mutagenesis for alleles that allow sporulation in a normally sporulation-deficient heterothallic \u03b1/\u03b1 (\"ho/ho MAT\u03b1/MAT\u03b1\"). Their screen identified a mutation in a novel gene that was not linked to \"HO\" that allowed the \u03b1/\u03b1 diploid to sporulate, as if it were an \u03b1/a diploid, and inferred that the mutation affected a change in mating type by an \"HO\"-independent mechanism. Later, it was discovered at the CMT allele identified by Hopper & Hall did not cause a mating type conversion at the MAT locus, but rather allowed the expression of cryptic mating type genes that are silenced in wild-type yeast. In their paper clarifying the mechanism of the CMT mutation, Haber and George acknowledge the contribution of Amar Klar, who presented his MAR mutant strains that had similar properties as the CMT mutants at the Cold Spring Harbor Laboratory yeast genetics meeting, which led Haber and George to consider the hypotheses that the \"cmt\" mutants may act by de-repressing silent information.",
+            "score": 54.60201072692871
+        },
+        {
+            "docid": "13824744_16",
+            "document": "Fermentation in winemaking . Instead of yeast, bacteria play a fundamental role in malolactic fermentation which is essentially the conversion of malic acid into lactic acid. This has the benefit of reducing some of the tartness and making the resulting wine taste softer. Depending on the style of wine that the winemaker is trying to produce, malolactic fermentation may take place at the very same time as the yeast fermentation. Alternatively, some strains of yeast may be developed that can convert L-malate to L-lactate during alcohol fermentation. For example, \"Saccharomyces cerevisiae\" strain ML01 (\"S. cerevisiae strain\" ML01), which carries a gene encoding malolactic enzyme from \"Oenococcus oeni\" and a gene encoding malate permease from \"Schizosaccharomyces pombe\". \"S. cerevisiae strain\" ML01 has received regulatory approval in both Canada and the United States.",
+            "score": 81.63850283622742
+        },
+        {
+            "docid": "34560555_2",
+            "document": "Yeast deletion project . Yeast deletion project is a project to create data for a near-complete collection of gene-deletion mutants of the yeast Saccharomyces cerevisiae. Each strain carries a precise deletion of one of the genes in the genome, and has been functionally characterized. The fitness contribution of each gene was quantitatively assessed under six different growth conditions. Determining the effect of gene deletion is a fundamental approach to understanding gene function, providing an unparalleled resource for the scientific community.",
+            "score": 55.586687088012695
+        },
+        {
+            "docid": "34385_22",
+            "document": "Yeast . Brewing yeasts may be classed as \"top-cropping\" (or \"top-fermenting\") and \"bottom-cropping\" (or \"bottom-fermenting\"). Top-cropping yeasts are so called because they form a foam at the top of the wort during fermentation. An example of a top-cropping yeast is \"Saccharomyces cerevisiae\", sometimes called an \"ale yeast\". Bottom-cropping yeasts are typically used to produce lager-type beers, though they can also produce ale-type beers. These yeasts ferment well at low temperatures. An example of bottom-cropping yeast is \"Saccharomyces pastorianus\", formerly known as \"S.\u00a0carlsbergensis\".",
+            "score": 90.74004006385803
+        },
+        {
+            "docid": "32844232_2",
+            "document": "Saccharomyces eubayanus . Saccharomyces eubayanus, a type of yeast, is a likely parent of the lager brewing yeast, \"Saccharomyces pastorianus\".",
+            "score": 83.48196530342102
+        },
+        {
+            "docid": "30967636_10",
+            "document": "Genome evolution . Similar to gene duplication, whole genome duplication is the process by which an organism\u2019s entire genetic information is copied, once or multiple times which is known as polyploidy. This may provide an evolutionary benefit to the organism by supplying it with multiple copies of a gene thus creating a greater possibility of functional and selectively favored genes. In 1997, Wolfe & Shields gave evidence for an ancient duplication of the \"Saccharomyces cerevisiae\" (Yeast) genome. It was initially noted that this yeast genome contained many individual gene duplications. Wolfe & Shields hypothesized that this was actually the result of an entire genome duplication in the yeast\u2019s distant evolutionary history. They found 32 pairs of homologous chromosomal regions, accounting for over half of the yeast's genome. They also noted that although homologs were present, they were often located on different chromosomes. Based on these observations, they determined that \"Saccharomyces cerevisiae\" underwent a whole genome duplication soon after its evolutionary split from \"Kluyveromyces\", a genus of ascomycetous yeasts. Over time, many of the duplicate genes were deleted and rendered non-functional. A number of chromosomal rearrangements broke the original duplicate chromosomes into the current manifestation of homologous chromosomal regions. This idea was further solidified in looking at the genome of yeast's close relative \"Ashbya gossypii\". Whole genome duplication is common in fungi as well as plant species. An example of extreme genome duplication is represented by the Common Cordgrass (\"Spartina anglica\") which is a dodecaploid, meaning that it contains 12 sets of chromosomes, in stark contrast to the human diploid structure in which each individual has only two sets of 23 chromosomes.",
+            "score": 59.87472200393677
+        },
+        {
+            "docid": "49482835_11",
+            "document": "Aerobic fermentation . In Crabtree-negative species, respiration related genes are highly expressed in the presence of oxygen. However, when \"S. cerevisiae\" is grown on glucose in aerobic conditions, respiration-related gene expression is repressed. Mitochondrial ribosomal proteins expression is only induced under environmental stress conditions, specifically low glucose availability. Genes involving mitochondrial energy generation and phosphorylation oxidation, which are involved in respiration, have the largest expression difference between aerobic fermentative yeast species and respiratory species. In a comparative analysis between \"Sch. pombe\" and \"S. cerevisiae\", both of which evolved aerobic fermentation independently, the expression pattern of these two fermentative yeasts were more similar to each other than a respiratory yeast, \"C. albicans\". However, \"S. cerevisiae\" is evolutionarily closer to \"C. albicans\". Regulatory rewiring was likely important in the evolution of aerobic fermentation in both lineages.",
+            "score": 83.87140727043152
+        },
+        {
+            "docid": "7898578_6",
+            "document": "Saccharomyces pastorianus . In 1904 Hansen published an important body of work where he reclassified the separate yeasts he worked with in terms of species, rather than as races or strains of the same species as he had previously done. Here Hansen classified a separate species of yeast isolated from the Carlsberg brewery as \"S. pastorianus\", a name derived from and attributed to Reess 1870. This strain was admitted to the Centraalbureau voor Schimmelcultures (CBS) in 1935 as strain CBS 1538, \"Saccharomyces pastorianus\" Reess ex Hansen 1904. In a further publication in 1908, Hansen reclassified the original \u201cUnterhefe Nr. I\u201d as the new species \"Saccharomyces carlsbergensis\" and another yeast \u201cUnterhefe Nr. II\u201d as the new species \"Saccharomyces monacensis\". The taxonomy was attributed to Hansen 1908 and the yeasts entered into the Centraalbureau voor Schimmelcultures in 1947 as CBS 1513 and CBS 1503 respectively.",
+            "score": 72.52409052848816
+        },
+        {
+            "docid": "13824744_4",
+            "document": "Fermentation in winemaking . In winemaking, there are distinctions made between \"ambient yeast\"s which are naturally present in wine cellars, vineyards and on the grapes themselves (sometimes known as a grape's \"bloom\" or \"blush\") and \"cultured yeast\" which are specifically isolated and inoculated for use in winemaking. The most common genera of wild yeasts found in winemaking include \"Candida, Kl\u00f6ckera/Hanseniaspora, Metschnikowiaceae, Pichia\" and \"Zygosaccharomyces\". Wild yeasts can produce high-quality, unique-flavored wines; however, they are often unpredictable and may introduce less desirable traits to the wine, and can even contribute to spoilage. Few yeast, and lactic and acetic acid bacterial colonies naturally live on the surface of grapes, but traditional wine makers, particularly in Europe, advocate use of ambient yeast as a characteristic of the region's \"terroir\"; nevertheless, many winemakers prefer to control fermentation with predictable cultured yeast. The cultured yeasts most commonly used in winemaking belong to the \"Saccharomyces cerevisiae\" (also known as \"sugar yeast\") species. Within this species are several hundred different strains of yeast that can be used during fermentation to affect the heat or vigor of the process and enhance or suppress certain flavor characteristics of the varietal. The use of different strains of yeasts is a major contributor to the diversity of wine, even among the same grape variety. Alternative, non-\"Saccharomyces cerevisiae\", yeasts are being used more prevalently in the industry to add greater complexity to wine. After a winery has been in operation for a number of years, few yeast strains are actively involved in the fermentation process. The use of active dry yeasts reduces the variety of strains that appear in spontaneous fermentation by outcompeting those strains that are naturally present.",
+            "score": 69.50060272216797
+        },
+        {
+            "docid": "1684895_6",
+            "document": "Nutritional yeast . Nutritional yeast is produced by culturing a yeast in a nutrient medium for several days. The primary ingredient in the growth medium is glucose, often from either sugarcane or beet molasses. When the yeast is ready, it is deactivated with heat and then harvested, washed, dried and packaged. The species of yeast used is often a strain of \"Saccharomyces cerevisiae\". The strains are cultured and selected for desirable characteristics and often exhibit a different phenotype from strains of \"S. cerevisiae\" used in baking and brewing.",
+            "score": 61.67930507659912
+        },
+        {
+            "docid": "34385_24",
+            "document": "Yeast . The most common top-cropping brewer's yeast, \"S.\u00a0cerevisiae\", is the same species as the common baking yeast. Brewer's yeast is also very rich in essential minerals and the B vitamins (except B). However, baking and brewing yeasts typically belong to different strains, cultivated to favour different characteristics: baking yeast strains are more aggressive, to carbonate dough in the shortest amount of time possible; brewing yeast strains act slower but tend to produce fewer off-flavours and tolerate higher alcohol concentrations (with some strains, up to 22%).",
+            "score": 61.567333459854126
+        },
+        {
+            "docid": "54549919_4",
+            "document": "Kenneth H. Wolfe . Wolfe's research focuses on comparative genomics, yeast genetics and bioinformatics. Work in his laboratory investigates the evolution of eukaryotic genomes and chromosome organisation. He is best known for his discovery that the genome of the yeast \"Saccharomyces cerevisiae\" underwent complete genome duplication about 100 million years ago, an event that is now known to be the result of hybridization between two divergent species. This finding reshaped our understanding both of yeast biology, and of mechanisms of genome evolution in eukaryotes. His subsequent discoveries of similar ancient genome duplications (paleopolyploidy) during human evolution, and in almost all families of flowering plants, led to the realisation that whole-genome duplication is widespread. His group also studies the origin and evolution of mating systems in yeasts, and the process of mating-type switching in which one cell type can change into another by moving or replacing a section of chromosome.",
+            "score": 48.88388442993164
+        },
+        {
+            "docid": "9818059_2",
+            "document": "Yeast flocculation . Yeast flocculation typically refers to the clumping together (flocculation) of brewing yeast once the sugar in a wort has been fermented into beer. In the case of \"top-fermenting\" ale yeast (\"Saccharomyces cerevisiae\"), the yeast creates a \"kreuzen\" on the top of the liquid, unlike with \"bottom-fermenting\" lager yeast (\"Saccharomyces pastorianus\") where the yeast falls to the bottom of the brewing vessel.",
+            "score": 89.29058337211609
+        },
+        {
+            "docid": "237704_38",
+            "document": "Saccharomyces cerevisiae . The availability of the \"S.\u00a0cerevisiae\" genome sequence and a set of deletion mutants covering 90% of the yeast genome has further enhanced the power of \"S.\u00a0cerevisiae\" as a model for understanding the regulation of eukaryotic cells. A project underway to analyze the genetic interactions of all double-deletion mutants through synthetic genetic array analysis will take this research one step further. The goal is to form a functional map of the cell's processes. As of 2010 a model of genetic interactions is most comprehensive yet to be constructed, containing \"the interaction profiles for ~75% of all genes in the Budding yeast\". This model was made from 5.4 million two-gene comparisons in which a double gene knockout for each combination of the genes studied was performed. The effect of the double knockout on the fitness of the cell was compared to the expected fitness. Expected fitness is determined from the sum of the results on fitness of single-gene knockouts for each compared gene. When there is a change in fitness from what is expected, the genes are presumed to interact with each other. This was tested by comparing the results to what was previously known. For example, the genes Par32, Ecm30, and Ubp15 had similar interaction profiles to genes involved in the Gap1-sorting module cellular process. Consistent with the results, these genes, when knocked out, disrupted that process, confirming that they are part of it. From this, 170,000 gene interactions were found and genes with similar interaction patterns were grouped together. Genes with similar genetic interaction profiles tend to be part of the same pathway or biological process. This information was used to construct a global network of gene interactions organized by function. This network can be used to predict the function of uncharacterized genes based on the functions of genes they are grouped with.",
+            "score": 69.81292450428009
+        }
+    ],
+    "r": [
+        {
+            "docid": "7898578_13",
+            "document": "Saccharomyces pastorianus . In 2015, researchers succeeded in creating novel lager brewing yeasts by hybridizing selected strains of \"S. cerevisiae\" with \"S. eubayanus\". These new hybrid yeasts inherited beneficial properties from both parent strains (e.g. maltotriose use, cold tolerance and flocculation) and outperformed them during fermentation (faster fermentation and higher alcohol yield). It is expected that the diversity of lager yeast strains will increase greatly in the future.",
+            "score": 155.67642211914062
+        },
+        {
+            "docid": "1730419_7",
+            "document": "Saccharomyces . Brewing yeasts are polyploid and belong to the genus \"Saccharomyces\". The brewing strains can be classified into two groups; the ale strains (\"Saccharomyces cerevisiae\") and the lager strains (\"Saccharomyces pastorianus\" or \"Saccharomyces carlsbergensis\" in the old taxonomy). Lager strains are a hybrid strain of \"S. cerevisiae\" and \"S. eubayanus\" and are often referred to as bottom fermenting. In contrast, ale strains are referred to as top fermenting strains, reflecting their separation characteristics in open square fermenters. Although the two species differ in a number of ways, including their response to temperature, sugar transport and use, the \"S. pastorianus\" and \"S. cerevisiae\" species are closely related within the genus \"Saccharomyces\".",
+            "score": 133.36814880371094
+        },
+        {
+            "docid": "49482835_12",
+            "document": "Aerobic fermentation . Aerobic fermentation is also essential for multiple industries, resulting in human domestication of several yeast strains. Beer and other alcoholic beverages, throughout human history, have played a significant role in society through drinking rituals, providing nutrition, medicine, and uncontaminated water. During the domestication process, organisms shift from natural environments that are more variable and complex to simple and stable environments with a constant substrate. This often favors specialization adaptations in domesticated microbes, associated with relaxed selection for non-useful genes in alternative metabolic strategies or pathogenicity. Domestication might be partially responsible for the traits that promote aerobic fermentation in industrial species. Introgression and HGT is common in \"Saccharomyces\" domesticated strains. Many commercial wine strains have significant portions of their DNA derived from HGT of non-\"Saccharomyces\" species. HGT and introgression are less common in nature than is seen during domestication pressures. For example, the important industrial yeast strain \"Saccharomyces pastorianus\", is an interspecies hybrid of \"S. cerevisiae\" and the cold tolerant \"S. eubayanus.\" This hybrid is commonly used in lager-brewing, which requires slow, low temperature fermentation.",
+            "score": 117.02246856689453
+        },
+        {
+            "docid": "36656943_23",
+            "document": "Microbial food cultures . Several different yeasts are used in brewing beer, where they ferment the sugars present in malted barley to produce alcohol. One of the most common is \"S. cerevisiae\". The same strain of \"S. cerevisiae\" which can also be used in breadmaking is used to make ale-type beers. It is known as a top-fermenting yeast because it creates a foam on the top of the brew. Bottom-fermenting yeasts, such as \"S. pastorianus\", are more commonly used to make lagers. They ferment more of the sugars in the mixture than top-fermenting yeasts, which gives a cleaner taste.",
+            "score": 102.01921081542969
+        },
+        {
+            "docid": "7898578_7",
+            "document": "Saccharomyces pastorianus . Since the early 1900s, bottom-fermenting strains of brewery yeast have been typically classified as \"S. carlbergensis\" in scientific literature, and the earlier valid name assigned to a bottom-fermenting yeast by Reess in 1870 was rejected without merit. This situation was rectified using DNA-DNA reallocation techniques in 1985 when Vaughan-Martini and Kurtzman returned the species name to \"S. pastorianus\" under the type strain CBS 1538 and relegated the two former species assigned by Hansen in 1908, \"S. carlsbergensis\" CBS 1513 and \"S. monacensis\" CBS 1503, to the status of synonyms. These experiments also clearly revealed the hybrid nature of the lager brewing yeast species for the first time, even though one of the parental species was incorrectly classified in retrospect. Nonetheless, over the last decades of the 20th century, debate continued in scientific literature regarding the correct taxon, with authors using both names interchangeably to describe lager yeast.",
+            "score": 94.15798950195312
+        },
+        {
+            "docid": "7898578_12",
+            "document": "Saccharomyces pastorianus . As of 2014, the two groups of lager brewing yeasts are classified as either type I: Saaz type, allotriploid strains that appear to have lost large portions of their \"S. cerevisiae\" genome. These include strains CBS 1513 (formerly classified as \"S. carlsbergensis\") and CBS 1503 (formerly classified as \"S. monacensis\") or type 2: Frohberg type, allotetraploid strains that contain near complete sets of genomes from both parents. These include the strain Weihenstephan WS 34/70 considered close to the type strain of \"S. pastorianus\" CBS 1538.",
+            "score": 93.86573028564453
+        },
+        {
+            "docid": "4410_14",
+            "document": "Brewing . Yeast is the microorganism that is responsible for fermentation in beer. Yeast metabolises the sugars extracted from grains, which produces alcohol and carbon dioxide, and thereby turns wort into beer. In addition to fermenting the beer, yeast influences the character and flavour. The dominant types of yeast used to make beer are \"Saccharomyces cerevisiae\", known as ale yeast, and \"Saccharomyces pastorianus\", known as lager yeast; \"Brettanomyces\" ferments lambics, and \"Torulaspora delbrueckii\" ferments Bavarian weissbier. Before the role of yeast in fermentation was understood, fermentation involved wild or airborne yeasts, and a few styles such as lambics still use this method today. Emil Christian Hansen, a Danish biochemist employed by the Carlsberg Laboratory, developed pure yeast cultures which were introduced into the Carlsberg brewery in 1883, and pure yeast strains are now the main fermenting source used worldwide.",
+            "score": 91.61495971679688
+        },
+        {
+            "docid": "34385_22",
+            "document": "Yeast . Brewing yeasts may be classed as \"top-cropping\" (or \"top-fermenting\") and \"bottom-cropping\" (or \"bottom-fermenting\"). Top-cropping yeasts are so called because they form a foam at the top of the wort during fermentation. An example of a top-cropping yeast is \"Saccharomyces cerevisiae\", sometimes called an \"ale yeast\". Bottom-cropping yeasts are typically used to produce lager-type beers, though they can also produce ale-type beers. These yeasts ferment well at low temperatures. An example of bottom-cropping yeast is \"Saccharomyces pastorianus\", formerly known as \"S.\u00a0carlsbergensis\".",
+            "score": 90.74003601074219
+        },
+        {
+            "docid": "4410_38",
+            "document": "Brewing . When a beer has been brewed using a cool fermentation of around , compared to typical warm fermentation temperatures of , then stored (or lagered) for typically several weeks (or months) at temperatures close to freezing point, it is termed a \"lager\". During the lagering or storage phase several flavour components developed during fermentation dissipate, resulting in a \"cleaner\" flavour. Though it is the slow, cool fermentation and cold conditioning (or lagering) that defines the character of lager, the main technical difference is with the yeast generally used, which is \"Saccharomyces pastorianus\". Technical differences include the ability of lager yeast to metabolize melibiose, and the tendency to settle at the bottom of the fermenter (though ales yeasts can also become bottom settling by selection); though these technical differences are not considered by scientists to be influential in the character or flavour of the finished beer, brewers feel otherwise - sometimes cultivating their own yeast strains which may suit their brewing equipment or for a particular purpose, such as brewing beers with a high abv.",
+            "score": 90.00513458251953
+        },
+        {
+            "docid": "9818059_2",
+            "document": "Yeast flocculation . Yeast flocculation typically refers to the clumping together (flocculation) of brewing yeast once the sugar in a wort has been fermented into beer. In the case of \"top-fermenting\" ale yeast (\"Saccharomyces cerevisiae\"), the yeast creates a \"kreuzen\" on the top of the liquid, unlike with \"bottom-fermenting\" lager yeast (\"Saccharomyces pastorianus\") where the yeast falls to the bottom of the brewing vessel.",
+            "score": 89.29058074951172
+        },
+        {
+            "docid": "4410_24",
+            "document": "Brewing . Mashing usually takes 1 to 2 hours, and during this time the various temperature rests activate different enzymes depending upon the type of malt being used, its modification level, and the intention of the brewer. The activity of these enzymes convert the starches of the grains to dextrins and then to fermentable sugars such as maltose. A mash rest from activates various proteases, which break down proteins that might otherwise cause the beer to be hazy. This rest is generally used only with undermodified (i.e. undermalted) malts which are decreasingly popular in Germany and the Czech Republic, or non-malted grains such as corn and rice, which are widely used in North American beers. A mash rest at activates \u03b2-glucanase, which breaks down gummy \u03b2-glucans in the mash, making the sugars flow out more freely later in the process. In the modern mashing process, commercial fungal based \u03b2-glucanase may be added as a supplement. Finally, a mash rest temperature of is used to convert the starches in the malt to sugar, which is then usable by the yeast later in the brewing process. Doing the latter rest at the lower end of the range favours \u03b2-amylase enzymes, producing more low-order sugars like maltotriose, maltose, and glucose which are more fermentable by the yeast. This in turn creates a beer lower in body and higher in alcohol. A rest closer to the higher end of the range favours \u03b1-amylase enzymes, creating more higher-order sugars and dextrins which are less fermentable by the yeast, so a fuller-bodied beer with less alcohol is the result. Duration and pH variances also affect the sugar composition of the resulting wort.",
+            "score": 89.2808837890625
+        },
+        {
+            "docid": "49482835_8",
+            "document": "Aerobic fermentation . Hexose transporters (HXT) are a group of proteins that are largely responsible for the uptake of glucose in yeast. In \"S. cerevisiae\", 20 \"HXT\" genes have been identified and 17 encode for glucose transporters (\"HXT1-HXT17\"), \"GAL2\" encodes for a galactose transporter, and \"SNF3\" and \"RGT2\" encode for glucose sensors. The number of glucose sensor genes have remained mostly consistent through the budding yeast lineage, however glucose sensors are absent from \"Schizosaccharomyces pombe\". \"Sch. pombe\" is a Crabtree-positive yeast, which developed aerobic fermentation independently from \"Saccharomyces\" lineage, and detects glucose via the cAMP-signaling pathway. The number of transporter genes vary significantly between yeast species and has continually increased during the evolution of the \"S. cerevisiae\" lineage. Most of the transporter genes have been generated by tandem duplication, rather than from the WGD. \"Sch. pombe\" also has a high number of transporter genes compared to its close relatives. Glucose uptake is believed to be a major rate-limiting step in glycolysis and replacing \"S. cerevisiae\"'s \"HXT1-17\" genes with a single chimera \"HXT\" gene results in decreased ethanol production or fully respiratory metabolism. Thus, having an efficient glucose uptake system appears to be essential to ability of aerobic fermentation. There is a significant positive correlation between the number of hexose transporter genes and the efficiency of ethanol production.",
+            "score": 89.19721984863281
+        },
+        {
+            "docid": "35598338_4",
+            "document": "Neofunctionalization . Neofunctionalization is also commonly referred to as \"mutation during non-functionality\u201d or \u201cmutation during redundancy\u201d. Regardless of if the mutation arises after non-functionality of a gene or due to redundant gene copies, the important aspect is that in both scenarios one copy of the duplicated gene is freed from selective constraints and by chance acquires a new function which is then improved by natural selection. This process is thought to occur very rarely in evolution for two major reasons. The first reason is that functional changes typically require a large number of amino acid changes; which has a low probability of occurrence. Secondly, because deleterious mutations occur much more frequently than advantageous mutations in evolution. This makes the likelihood that gene function is lost over time (i.e. pseudogenization) far greater than the likelihood of the emergence of a new gene function.  Walsh discovered that the relative probability of Neofunctionalization is determined by the selective advantage and the relative rate of advantageous mutations. This was proven in his derivation of the relative probability of Neofunctionalization to pseudogenization, which is given by: formula_1 where \u03c1 is the ratio of advantageous mutation rate to null mutation rate and S is the population selection 4NeS (Ne: effective population size S: selection intensity).",
+            "score": 89.0266342163086
+        },
+        {
+            "docid": "8559385_2",
+            "document": "Saccharomyces bayanus . Saccharomyces bayanus is a yeast of the genus \"Saccharomyces\", and is used in winemaking and cider fermentation, and to make distilled beverages. \"Saccharomyces bayanus\" like \"Saccharomyces pastorianus\", is now accepted to be the result of multiple hybridisation events between three pure species, \"Saccharomyces uvarum\", \"Saccharomyces cerevisiae\" and \"Saccharomyces eubayanus\". Notably, most commercial yeast cultures sold as pure \"S. bayanus\" for wine making, e.g. Lalvin EC-1118 strain, have been found to contain \"S. cerevisiae\" cultures instead",
+            "score": 88.15011596679688
+        },
+        {
+            "docid": "237704_42",
+            "document": "Saccharomyces cerevisiae . \"Saccharomyces cerevisiae\" is used in brewing beer, when it is sometimes called a top-fermenting or top-cropping yeast. It is so called because during the fermentation process its hydrophobic surface causes the flocs to adhere to CO and rise to the top of the fermentation vessel. Top-fermenting yeasts are fermented at higher temperatures than the lager yeast \"Saccharomyces pastorianus\", and the resulting beers have a different flavor than the same beverage fermented with a lager yeast. \"Fruity esters\" may be formed if the yeast undergoes temperatures near , or if the fermentation temperature of the beverage fluctuates during the process. Lager yeast normally ferments at a temperature of approximately , where \"Saccharomyces cerevisiae\" becomes dormant.",
+            "score": 87.9550552368164
+        },
+        {
+            "docid": "7898578_8",
+            "document": "Saccharomyces pastorianus . The lager yeast \"Saccharomyces pastorianus\" has been known to be an interspecific hybrid between \"Saccharomyces cerevisiae\" and another \"Saccharomyces\" yeast since at least 1985, but the exact nature of its parents and its proper taxonomy continued to be the subject of much debate. Various candidates for the non-\"cerevisiae\" parent have been proposed, such as CBS 1503 (formerly known as \"S.monacensis\") and CBS 395 (alternately known as \"S. bayanus bayanus\" or \"S.uvarum\") a strain whose taxonomy is also hotly debated. Most commonly strain CBS 380 (\"Saccharomyces bayanus\") has been attributed as the second parent, but it has also been conclusively demonstrated as possessing a hybrid genotype of its own.",
+            "score": 85.31886291503906
+        },
+        {
+            "docid": "43171894_2",
+            "document": "Mal regulon . The Mal regulon are set of genes excited by catabolite activator protein commonly known as CAP. The genes code for maltose metabolizing enzymes. The genes encoding the enzymes are non-contiguous, and regulated by multiple promoters. Mal regulon is regulated by catabolite activator protein in a novel manner. The Mal promoters are regulated by a protein called MalT that requires ATP and maltotriose to function. Maltotriose is a maltose regulon inducer. MalEp and malKp are examples of mal promoters that depends on both CAP and MalT to function while pulAp, pulCp and malPp are examples of mal promoters that depends on MalT only and malTp is controlled only be CAP.",
+            "score": 84.75666809082031
+        },
+        {
+            "docid": "49482835_11",
+            "document": "Aerobic fermentation . In Crabtree-negative species, respiration related genes are highly expressed in the presence of oxygen. However, when \"S. cerevisiae\" is grown on glucose in aerobic conditions, respiration-related gene expression is repressed. Mitochondrial ribosomal proteins expression is only induced under environmental stress conditions, specifically low glucose availability. Genes involving mitochondrial energy generation and phosphorylation oxidation, which are involved in respiration, have the largest expression difference between aerobic fermentative yeast species and respiratory species. In a comparative analysis between \"Sch. pombe\" and \"S. cerevisiae\", both of which evolved aerobic fermentation independently, the expression pattern of these two fermentative yeasts were more similar to each other than a respiratory yeast, \"C. albicans\". However, \"S. cerevisiae\" is evolutionarily closer to \"C. albicans\". Regulatory rewiring was likely important in the evolution of aerobic fermentation in both lineages.",
+            "score": 83.87140655517578
+        },
+        {
+            "docid": "7898578_9",
+            "document": "Saccharomyces pastorianus . In 2011 it was postulated that the unidentified genome sequence belonged to a yet to be classified natural species  This was confirmed shortly after with the discovery in Argentina of the new species, \"Saccharomyces eubayanus\", with a genome 99% identical to the non-\"cerevisiae\" portion of the \"S. pastorianus\" genome, irrefutably confirming it to be the second parental species. \"S. eubayanus\" has since been discovered in China, Tibet and Mongolia, further confirming both the existence of the species and its 99% genome similarity to the non-\"cerevisiae\" parent.",
+            "score": 83.63150024414062
+        },
+        {
+            "docid": "32844232_2",
+            "document": "Saccharomyces eubayanus . Saccharomyces eubayanus, a type of yeast, is a likely parent of the lager brewing yeast, \"Saccharomyces pastorianus\".",
+            "score": 83.48196411132812
+        },
+        {
+            "docid": "7898578_11",
+            "document": "Saccharomyces pastorianus . Debate over taxonomy appears to have concluded, thus new research is now focused on the variation observed within members of \"S. pastorianus\" proper. Analyses of lager brewing yeasts have revealed they could be classified into two groups based on their DNA structure, Frohberg type and Saaz type. In 2008 it was further concluded that the two groups were the result of two separate hybridisation events with the parent \"S. cerevisiae\" coming from a distinct ale/beer brewing origin.",
+            "score": 82.98578643798828
+        },
+        {
+            "docid": "4410_36",
+            "document": "Brewing . For both types, yeast is fully distributed through the beer while it is fermenting, and both equally flocculate (clump together and precipitate to the bottom of the vessel) when fermentation is finished. By no means do all top-cropping yeasts demonstrate this behaviour, but it features strongly in many English yeasts that may also exhibit chain forming (the failure of budded cells to break from the mother cell), which is in the technical sense different from true flocculation. The most common top-cropping brewer's yeast, \"Saccharomyces cerevisiae\", is the same species as the common baking yeast. However, baking and brewing yeasts typically belong to different strains, cultivated to favour different characteristics: baking yeast strains are more aggressive, in order to carbonate dough in the shortest amount of time; brewing yeast strains act slower, but tend to tolerate higher alcohol concentrations (normally 12\u201315% abv is the maximum, though under special treatment some ethanol-tolerant strains can be coaxed up to around 20%). Modern quantitative genomics has revealed the complexity of \"Saccharomyces\" species to the extent that yeasts involved in beer and wine production commonly involve hybrids of so-called pure species. As such, the yeasts involved in what has been typically called top-cropping or top-fermenting ale may be both \"Saccharomyces cerevisiae\" and complex hybrids of \"Saccharomyces cerevisiae\" and \"Saccharomyces kudriavzevii\". Three notable ales, Chimay, Orval and Westmalle, are fermented with these hybrid strains, which are identical to wine yeasts from Switzerland.",
+            "score": 82.12012481689453
+        },
+        {
+            "docid": "13824744_16",
+            "document": "Fermentation in winemaking . Instead of yeast, bacteria play a fundamental role in malolactic fermentation which is essentially the conversion of malic acid into lactic acid. This has the benefit of reducing some of the tartness and making the resulting wine taste softer. Depending on the style of wine that the winemaker is trying to produce, malolactic fermentation may take place at the very same time as the yeast fermentation. Alternatively, some strains of yeast may be developed that can convert L-malate to L-lactate during alcohol fermentation. For example, \"Saccharomyces cerevisiae\" strain ML01 (\"S. cerevisiae strain\" ML01), which carries a gene encoding malolactic enzyme from \"Oenococcus oeni\" and a gene encoding malate permease from \"Schizosaccharomyces pombe\". \"S. cerevisiae strain\" ML01 has received regulatory approval in both Canada and the United States.",
+            "score": 81.63850402832031
+        },
+        {
+            "docid": "7898578_10",
+            "document": "Saccharomyces pastorianus . As of 2014, most authorities have agreed that the bottom-fermenting yeast \"S. pastorianus\" was created by the inter-specific hybridisation between \"S. eubayanus\" and \"S. cerevisiae\", but had not reached consensus on whether the mating event took place in Asia or Europe.",
+            "score": 78.4940414428711
+        },
+        {
+            "docid": "7898578_4",
+            "document": "Saccharomyces pastorianus . So-called bottom fermenting strains of brewing yeast were described as early as the 14th century in Nuremberg and have remained an indispensable part of both Franconian and Bavarian brewing culture in southern Germany through modern times. During the explosion of scientific mycological studies in the 19th century, the yeast responsible for producing these so-called \u201cbottom fermentations\u201d was finally given a taxonomical classification, \"Saccharomyces pastorianus\", by the German Max Reess in 1870.",
+            "score": 78.15421295166016
+        },
+        {
+            "docid": "49482835_3",
+            "document": "Aerobic fermentation . The evolution of aerobic fermentation likely involved multiple successive molecular steps, which included the expansion of hexose transporter genes, copy number variation (CNV) and differential expression in metabolic genes, and regulatory reprogramming. Research is still needed to fully understand the genomic basis of this complex phenomenon. Many crabtree-positive yeast species are used for their fermentation ability in industrial processes in the production of wine, beer, sake, bread, and bioethanol. Through domestication, these yeast species have evolved, often through artificial selection, to better fit their environment. Strains evolved through mechanisms that include interspecific hybridization, horizontal gene transfer (HGT), gene duplication, pseudogenization, and gene loss.",
+            "score": 77.8429946899414
+        },
+        {
+            "docid": "38034479_10",
+            "document": "Enzyme promiscuity . This variability in ancestral specificity has not only been observed between different genes, but also within the same gene family.  In light of the large number of paralogous fungal \u03b1-glucosidase genes with a number of specific maltose-like (maltose, turanose, maltotriose, maltulose and sucrose) and isomaltose-like (isomaltose and palatinose) substrates, a study reconstructed all key ancestors and found that the last common ancestor of the paralogues was mainly active on maltose-like substrates with only trace activity for isomaltose-like sugars, despite leading to a lineage of iso-maltose glucosidases and a lineage that further split into maltose glucosidases and iso-maltose glucosidases. Antithetically, the ancestor before the latter split had a more pronounced isomaltose-like glucosidase activity.",
+            "score": 76.94380187988281
+        },
+        {
+            "docid": "19555312_9",
+            "document": "Lager . Lager beer uses a process of cool fermentation, followed by maturation in cold storage. The German word \"Lager\" means storeroom or warehouse. The yeast generally used with lager brewing is \"Saccharomyces pastorianus\". It is a close relative of the \"Saccharomyces cerevisiae\" yeast used for warm fermented ales.",
+            "score": 76.08476257324219
+        },
+        {
+            "docid": "10035262_8",
+            "document": "Maltose-binding protein . The \"malEp\" and \"malKp\" promoters are synergistically activated by protein MalT, the activator of the Mal regulon and by the cAMP receptor protein CRP. This activation is a coupled process that involves, going from \"malEp\" towards \"malKp\": two MalT binding sites; three CRP binding site, and two overlapping sets of three MalT binding sites, staggered by three base pairs. Transcription activation requires the binding of adenosine triphosphate (ATP) and maltotriose to MalT and the binding of cyclic AMP to the dimer of CRP. The unliganded form of MalT is monomeric whereas its liganded form, in the presence of ATP and maltotriose, is oligomeric. One suspects that commercial maltose contains enough maltotriose for the induction of the Mal regulon.",
+            "score": 75.59780883789062
+        },
+        {
+            "docid": "4410_35",
+            "document": "Brewing . Brewing yeasts are traditionally classed as \"top-cropping\" (or \"top-fermenting\") and \"bottom-cropping\" (or \"bottom-fermenting\"). Yeast were termed top or bottom cropping, because in traditional brewing yeast was collected from the top or bottom of the fermenting wort to be reused for the next brew. This terminology is somewhat inappropriate in the modern era; after the widespread application of brewing mycology it was discovered that the two separate collecting methods involved two different yeast species that favoured different temperature regimes, namely \"Saccharomyces cerevisiae\" in top-cropping at warmer temperatures and \"Saccharomyces pastorianus\" in bottom-cropping at cooler temperatures. As brewing methods changed in the 20th century, cylindro-conical fermenting vessels became the norm and the collection of yeast for both \"Saccharomyces\" species is done from the bottom of the fermenter. Thus the method of collection no longer implies a species association. There are a few remaining breweries who collect yeast in the top-cropping method, such as Samuel Smiths brewery in Yorkshire, Marstons in Staffordshire and several German hefeweizen producers.",
+            "score": 75.12004852294922
+        },
+        {
+            "docid": "237704_44",
+            "document": "Saccharomyces cerevisiae . \"S. cerevisiae\" is used in baking; the carbon dioxide generated by the fermentation is used as a leavening agent in bread and other baked goods. Historically, this use was closely linked to the brewing industry's use of yeast, as bakers took or bought the barm or yeast-filled foam from brewing ale from the brewers (producing the barm cake); today, brewing and baking yeast strains are somewhat different.",
+            "score": 74.01624298095703
+        },
+        {
+            "docid": "19555312_3",
+            "document": "Lager . As well as maturation in cold storage, lager is also distinguished by the use of the Saccharomyces pastorianus yeast. While it is possible to use lager yeast in a warm fermentation process, such as with American steam beer, the lack of a cold storage maturation phase precludes such beer from being classified as lager. On the other hand, German Altbier and K\u00f6lsch, brewed with a Saccharomyces cerevisiae top-fermenting yeast at a warm temperature, but with a cold storage finishing stage, are classified as \"oberg\u00e4riges lagerbier\" (top-fermented lager beer).",
+            "score": 73.54867553710938
+        }
+    ]
+}

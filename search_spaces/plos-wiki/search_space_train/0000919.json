@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "14134041_5",
+            "document": "EZH2 . EZH2 is the catalytic subunit of the Polycomb Repressive Complex 2 (PRC2). EZH2's catalytic activity relies on its formation of a complex with at least two other PRC2 components, SUZ12 and EED.  As a histone methyltransferase (HMTase), EZH2's primary function is to methylate Lys-27 on histone 3 (H3K27me) by transferring a methyl group from the cofactor S-adenosyl-L-methionine (SAM). EZH2 is capable of mono-, di-, and tri-methylation of H3K27 and has been associated with a variety of biological functions, including transcriptional regulation in hematopoiesis, development, and cell differentiation.",
+            "score": 27.77533221244812
+        },
+        {
+            "docid": "398124_13",
+            "document": "Transcriptional regulation . Transcription factors are proteins that bind to specific DNA sequences in order to regulate the expression of a given gene. The power of transcription factors resides in their ability to activate and/or repress wide repertoires of downstream target genes. The fact that these transcription factors work in a combinatorial fashion means that only a small subset of an organism's genome encodes transcription factors. Transcription factors function through a wide variety of mechanisms. Often they are at the end of a signal transduction pathway that functions to change something about the factor, like its subcellular localization or its activity. Post-translational modifications to transcription factors located in the cytosol can cause them to translocate to the nucleus where they can interact with their corresponding enhancers. Others are already in the nucleus, and are modified to enable the interaction with partner transcription factors. Some post-translational modifications known to regulate the functional state of transcription factors are phosphorylation, acetylation, SUMOylation and ubiquitylation. Transcription factors can be divided in two main categories: activators and repressors. While activators can interact directly or indirectly with the core machinery of transcription through enhancer binding, repressors predominantly recruit co-repressor complexes leading to transcriptional repression by chromatin condensation of enhancer regions. It may also happen that a repressor may function by allosteric competition against a determined activator to repress gene expression: overlapping DNA-binding motifs for both activators and repressors induce a physical competition to occupy the site of binding. If the repressor has a higher affinity for its motif than the activator, transcription would be effectively blocked in the presence of the repressor. Tight regulatory control is achieved by the highly dynamic nature of transcription factors. Again, many different mechanisms exist to control whether a transcription factor is active. These mechanisms include control over protein localization or control over whether the protein can bind DNA. An example of this is the protein HSF1, which remains bound to Hsp70 in the cytosol and is only translocated into the nucleus upon cellular stress such as heat shock. Thus the genes under the control of this transcription factor will remain untranscribed unless the cell is subjected to stress.",
+            "score": 73.60691356658936
+        },
+        {
+            "docid": "1159407_9",
+            "document": "Homeosis . Like the complex multicellularity seen in animals, the multicellularity of land plants is developmentally organized into tissue and organ units via transcription factor genes with homeotic effects. While plants do have homeobox-containing genes, plant homeotic factors tend to possess MADS-box DNA binding domains. Interestingly, animal genomes also possess a small number MADS-box factors. Thus, in the independent evolution of multicellularity in plants and animals, different eukaryotic transcription factor families were co-opted to serve homeotic functions.  MADS-domain factors have been proposed to function as co-factors to more specialized factors and thereby help to determine organ identity. This has been proposed to correspond more closely to the interpretation of animal homeotics outlined by Michael Akam.",
+            "score": 82.73656368255615
+        },
+        {
+            "docid": "56007515_2",
+            "document": "Polycomb repressive complex 1 . Polycomb repressive complex 1 (PRC1) is one of the two classes of Polycomb Repressive complexes, the other being PRC2. Polycomb group proteins play a major role in transcriptional regulation during development. Polycomb Repressive Complexes PRC1 and PRC2 function in the silencing of expression of the Hox gene network involved in development as well as the inactive X chromosome.PRC1 inhibits the activated form of RNA polymerase II preinitiation complex with the use of H3K27me. PRC1 binds to three nucleosomes, this is believed to limit access of chromatin to transcription factors and therefore limit gene expression.",
+            "score": 51.63128662109375
+        },
+        {
+            "docid": "45214668_10",
+            "document": "WRKY transcription factor . Studies have demonstrated the function of WRKY transcription factors in plant development. Successful male gametogenesis and tolerance to interploidy crosses both require WRKY transcription factors. Embryo and root development also require WRKY transcription factors. WRKYs also contribute to determination of seed size and seed coat color in Arabidopsis. Furthermore, WRKY transcription factors have been shown to play key roles in regulation of developmentally programmed leaf senescence.",
+            "score": 72.2928204536438
+        },
+        {
+            "docid": "46669355_16",
+            "document": "Polycomb Group Proteins and Cancer . EZH2 is a subunit of PRC2 and functions to mark genes for silencing. This protein is likely the most studied subunit of either Polycomb Repressive Complex (PRC1/PRC2). It is the catalytic subunit of the PRC2 complex that trimethylates the twenty-seventh lysine on histone 3 (H3K27me3). Genes containing this mark often have decreased expression or are completely repressed. It is this function that allows EZH2 to modulate gene expression without altering the DNA nucleotide sequence. EZH2 is often overexpressed in various cancers. EZH2 has also been shown to play a role in regulating the apoptotic processes of cells through its gene silencing capabilities (H3K27me3). One study has shown that EZH2 performs this function by repressing DAB2-interacting protein (a tumor necrosis factor), and another has demonstrated that EZH2 also accomplishes this via repression of the E2F1 target Bim.",
+            "score": 46.09141564369202
+        },
+        {
+            "docid": "29188721_32",
+            "document": "RNA interference . Endogenously expressed miRNAs, including both intronic and intergenic miRNAs, are most important in translational repression and in the regulation of development, especially on the timing of morphogenesis and the maintenance of undifferentiated or incompletely differentiated cell types such as stem cells. The role of endogenously expressed miRNA in downregulating gene expression was first described in \"C. elegans\" in 1993. In plants this function was discovered when the \"JAW microRNA\" of \"Arabidopsis\" was shown to be involved in the regulation of several genes that control plant shape. In plants, the majority of genes regulated by miRNAs are transcription factors; thus miRNA activity is particularly wide-ranging and regulates entire gene networks during development by modulating the expression of key regulatory genes, including transcription factors as well as F-box proteins. In many organisms, including humans, miRNAs are linked to the formation of tumors and dysregulation of the cell cycle. Here, miRNAs can function as both oncogenes and tumor suppressors.",
+            "score": 69.18865871429443
+        },
+        {
+            "docid": "13571938_24",
+            "document": "Plant evolutionary developmental biology . At the genetic level, developmental studies have shown that repression of the KNOX genes is required for initiation of the leaf primordium. This is brought about by \"ARP\" genes, which encode transcription factors. Genes of this type have been found in many plants studied till now, and the mechanism i.e. repression of KNOX genes in leaf primordia, seems to be quite conserved. Expression of KNOX genes in leaves produces complex leaves. It is speculated that the \"ARP\" function arose quite early in vascular plant evolution, because members of the primitive group lycophytes also have a functionally similar gene Other players that have a conserved role in defining leaf primordia are the phytohormone auxin, gibberelin and cytokinin. One feature of a plant is its phyllotaxy. The arrangement of leaves on the plant body is such that the plant can maximally harvest light under the given constraints, and hence, one might expect the trait to be genetically robust. However, it may not be so. In maize, a mutation in only one gene called \"abphyl\" (\"abnormal phyllotaxy\") was enough to change the phyllotaxy of the leaves. It implies that sometimes, mutational tweaking of a single locus on the genome is enough to generate diversity. The \"abphyl\" gene was later on shown to encode a cytokinin response regulator protein.",
+            "score": 71.88101935386658
+        },
+        {
+            "docid": "15065816_6",
+            "document": "BAP1 . In both \"Drosophila\" and humans, BAP1 functions as the catalytic subunit of the Polycomb repressive deubiquitinase (PR-DUB) complex, which controls homeobox genes by regulating the amount of ubiquitinated Histone H2A in Nucleosomes bound to their promoters. In flies and humans, the PR-DUB complex is formed through the interaction of BAP1 and ASXL1 (\"Asx\" in fruit flies) BAP1 has also been shown to associate with other factors involved in chromatin modulation and transcriptional regulation, such as Host cell factor C1, which acts as an adaptor to couple E2F transcription factors to chromatin-modifying complexes during cell cycle progression.",
+            "score": 35.415323972702026
+        },
+        {
+            "docid": "33926496_3",
+            "document": "Albert Erives . Erives' major work is on \u201cregulatory grammars\u201d for transcriptional enhancers underlying animal development and cancer diseases. Exploiting assemblies for animal genomes, Erives discovered complex gene regulatory codes underlie non-homologous subsets of mechanistically-equivalent enhancers. These codes are composed of a combinatorial \u201clexicon\u201d of transcription factor (TF) binding sites, functional inflections of those binding sites (so-called \u201cspecialized sites\u201d constrained for binding affinity and competition by multiple TFs), and complex site ordering (orientation and positional spacing of those sites). The relationship of these complex regulatory codes within a nucleosomal \"regulatory reading frame\" is a key goal. His lab\u2019s work also elucidated how a mutational mechanism (microsatellite repeat slippage) plays a significant evolutionary role in functionally adjusting complex binding site arrangements that recruit poly-glutamine rich factors. Correspondingly, Erives lab has pioneered the identification of novel poly-glutamine complex recruiting enhancers that integrate developmental signals, while also identifying polyQ allelic series for key developmental factors targeting those enhancers.",
+            "score": 67.02069091796875
+        },
+        {
+            "docid": "52156116_6",
+            "document": "H3K27me3 . The placement of a repressive mark on lysine 27 requires the recruitment of chromatin regulators by transcription factors. These modifiers are either histone modification complexes which covalently modify the histones to move around the nucleosomes and open the chromatin, or chromatin remodelling complexes which involve movement of the nucleosomes without directly modifying them. These histone marks can serve as docking sites of other co-activators as seen with H3K27me3.  This occurs through polycomb mediated gene silencing via histone methylation and chromodomain interactions. A polycomb repressive complex (PRC); PCR2, mediates the tri-methylation of histone 3 on lysine 27 through histone methyl transferase activity. This mark can recruit PRC1 which will bind and contribute to the compaction of the chromatin.",
+            "score": 39.93352174758911
+        },
+        {
+            "docid": "42862295_8",
+            "document": "Amanda Fisher . Since 2003, Fisher has been studying gene regulation in Embryonic Stem (ES) cells, as a model for understanding pluripotency, lineage commitment and lineage restriction. In 2006, she showed that the promoters of many lineage-specifying genes in ES cells were simultaneously enriched for modified histones thought to mark either active genes (such as acetylation of H3K9, di- and tri-methylation of H3K4), or repressed domains ( such as tri-methylation of H3K27). This discovery ran contrary to the prevailing dogma of the time: that chromatin markers of actively transcribed and inactive domains were mutually exclusive. The study was published in 2006, contemporaneously with similar reports from several US-based groups. suggesting that important developmental regulator genes might be poised for transcription in ES cells, yet repressed by the activity of Polycomb Repressor Complexes (PRCs).",
+            "score": 42.97989296913147
+        },
+        {
+            "docid": "15072948_3",
+            "document": "ACTL6B . The protein encoded by this gene is a member of a family of actin-related proteins (ARPs) which share significant amino acid sequence identity to conventional actins. Both actins and ARPs have an actin fold, which is an ATP-binding cleft, as a common feature. The ARPs are involved in diverse cellular processes, including vesicular transport, spindle orientation, nuclear migration and chromatin remodeling. This gene encodes a subunit of the BAF (BRG1/brm-associated factor) complex in mammals, which is functionally related to SWI/SNF complex in S. cerevisiae and Drosophila; the latter is thought to facilitate transcriptional activation of specific genes by antagonizing chromatin-mediated transcriptional repression. This subunit may be involved in the regulation of genes by structural modulation of their chromatin, specifically in the brain.",
+            "score": 52.76027488708496
+        },
+        {
+            "docid": "50334042_12",
+            "document": "C15orf52 . Two proteins, THO complex subunit 1 (THOC1) and THO complex subunit 7 (THOC7) were found to interact with C15orf52 using anti-tag coimmunoprecipitation. THOC1 is a component of the THO cubcomplex of the TREX complex that is thought to couple mRNA transcription, processing and nuclear export. It is also involved in an apoptotic pathway characterized by activation of caspase-6. THOC7 is also part of the same subcomplex and is required for efficient export of polyadenylated RNA.  Ring finger protein 2 (RNF2) and SUZ12 polycomb repressive complex 2 subunit (SUZ12) were also indicated as interacting proteins. RNF2 is part of a polycomb group of proteins that are important for transcription repression of various genes. It also possess ubiquitin ligase activity. SUZ12 is also a polycomb group protein and part of a complex that methylates lysines of histones and also is involved with repression of genes.",
+            "score": 22.922478914260864
+        },
+        {
+            "docid": "14756720_3",
+            "document": "ACTL6A . This gene encodes a family member of actin-related proteins (ARPs), which share significant amino acid sequence identity to conventional actins. Both actins and ARPs have an actin fold, which is an ATP-binding cleft, as a common feature. The ARPs are involved in diverse cellular processes, including vesicular transport, spindle orientation, nuclear migration and chromatin remodeling. This gene encodes a 53 kDa subunit protein of the BAF (BRG1/brm-associated factor) complex in mammals, which is functionally related to SWI/SNF complex in S. cerevisiae and Drosophila; the latter is thought to facilitate transcriptional activation of specific genes by antagonizing chromatin-mediated transcriptional repression. Together with beta-actin, it is required for maximal ATPase activity of BRG1, and for the association of the BAF complex with chromatin/matrix. Three transcript variants that encode two different protein isoforms have been described.",
+            "score": 57.073880434036255
+        },
+        {
+            "docid": "11008314_46",
+            "document": "Evolutionary history of plants . At the genetic level, developmental studies have shown that repression of KNOX genes is required for initiation of the leaf primordium. This is brought about by \"ARP\" genes, which encode transcription factors. Repression of KNOX genes in leaf primordia seems to be quite conserved, while expression of KNOX genes in leaves produces complex leaves. The \"ARP\" function appears to have arisen early in vascular plant evolution, because members of the primitive group Lycophytes also have a functionally similar gene. Other players that have a conserved role in defining leaf primordia are the phytohormones auxin, gibberelin and cytokinin. The arrangement of leaves or phyllotaxy on the plant body can maximally harvest light and might be expected to be genetically robust. However, in maize, a mutation in only one gene called \"ABPHYL\" \"(ABnormal PHYLlotaxy)\" is enough to change the phyllotaxy of the leaves, implying that mutational adjustment of a single locus on the genome is enough to generate diversity.",
+            "score": 57.151628255844116
+        },
+        {
+            "docid": "46697210_24",
+            "document": "Epigenetics of human development . PRC2 is a multi-protein complex composed of four major subunits (E2H1/2, SUZ12, EED, and RbAp46/48) and three variable subunits (AEBP2, JARID2, and PCLs). The three variable subunits are used for catalysis of enzymatic reactions or binding to specific regions, not for repression of genes or chromatin. Similar to a zinc finger, AEBP2 docks onto the major grooves of DNA to assist in binding. PRC2 is usually recruited by other proteins or lncRNa and then catalyzes the trimethylation of lysine 27 of histone 3 tails (H3K27me3. This methylation is thought to cause repression by steric hindrance of RNA polymerase II. Even though the polymerase is not prevented from binding, the polymerase, after beginning transcription, will pause at H3K27me3 marks. The short transcript produced by the pausing of the polymerase often recruits regulatory complexes, like PRC2. Thus, PRC2 represses by two mechanisms: by directly altering the structure of the chromatin through methylation or by binding of transcripts.",
+            "score": 44.54809105396271
+        },
+        {
+            "docid": "1946433_11",
+            "document": "CAAT box . Because of the evolutionary change in NF-Y encoding genes in plants, they subsequently have a large range of potential trimeric complexes. For example, in \"Arabidopsis\", 36 NF-Y transcription factor subunits (including 10 NF-YA, 13 NF-YB, and 13 NF-YC subunits) have been identified and which could theoretically form 1690 unique complexes (which contains one of each type of subunit). This number, of course is higher than what actually happens since some subunits have specific binding patterns. Functional analyses on NF-Y encoding genes in plants have shown, as a result of their evolutionary diversification relative to their animal counterparts, have acquired diverse specific functions, such as embryo development, flowering time control, ER-stress, drought stress, and nodule and root development. It should also be noted that this may only be a small portion of their capabilities, since the number of theoretically combinations of NF-Y complexes is so large and only a small portion can actually be created (less than 10% of all possible interactions were confirmed in both directions in yeast).",
+            "score": 64.2871584892273
+        },
+        {
+            "docid": "46669355_5",
+            "document": "Polycomb Group Proteins and Cancer . The PRC2 core complex initiates repression by tagging genes with methyl groups (a process known as histone methylation). In Drosophila, this complex is formed by Enhancer of zeste [E(z)], Suppressor of zeste [Su(z)] and extra sexcombs (Esc). In mammals, EZH1 and EZH2, homologs of E(z), are histone methyltransferases responsible for the enzymatic activity of PRC2; EZH2 is often referred to as the 'catalytic subunit' of this complex. The other core PRC2 components, which comprise a homolog of Su(z), SUZ12, and a homolog of Esc, Eed, are necessary for complex assembly and for proper enzymatic activity. It is still not clear how PRC2 is recruited to DNA in mammals. One hypothesis is that the Jumonji/ARID domain-containing protein JARID2, and the members of the Polycomb-like family Pcl proteins, are responsible for PRC2 recruitment to target genes in mammals. The ARID domain of Jarid2 binds directly to DNA enriched in GC and GA dinucleotides, whereas the Tudor domain of Pcl proteins recognizes methylated H3K36, a histone mark that is associated with transcriptional elongation. This suggests that the Pcl family of proteins facilitates PcG-mediated silencing of previously active genes. Moreover, the fact that Jarid2 and the Pcl proteins are thought not to be present in the same complexes means that, in mammalian cells, distinct PRC2 complexes target different genes.",
+            "score": 85.94072604179382
+        },
+        {
+            "docid": "5272232_2",
+            "document": "Ultrabithorax . Ultrabithorax (Ubx) is a homeobox gene found in insects, and is used in the regulation of patterning in morphogenesis. There are many possible products of this gene, which function as transcription factors. Ubx is used in the specification of serially homologous structures, and is used at many levels of developmental hierarchies. In \"Drosophila melanogaster\" it is expressed in the third thoracic (T3) and first abdominal (A1) segments and represses wing formation. The Ubx gene regulates the decisions regarding the number of wings and legs the adult flies will have. The developmental role of the Ubx gene is determined by the splicing of its product, which takes place after translation of the gene. The specific splice factors of a particular cell allow the specific regulation of the developmental fate of that cell, by making different splice variants of transcription factors. In \"D. melanogaster\", at least six different isoforms of Ubx exist.",
+            "score": 78.35352444648743
+        },
+        {
+            "docid": "38664703_7",
+            "document": "Pioneer factor . Histone modification is a well-studied mechanism to transiently adjust chromatin density. Pioneer factors can play a role in this by binding specific enhancers and flagging histone modification enzymes to that specific gene. Repressive pioneer factors can inhibit transcription by recruiting factors that modify histones that further tighten the chromatin. This is important to limit gene expression to specific cell types and has to be removed only when cell differentiation begins. FoxD3 has been associated as a repressor of both B-cell and melanocytic cell differentiation pathways, maintaining repressive histone modifications where bound, that have to be overcome to start differentiation. Pioneer factors can also be associated with recruiting transcription-activating histone modifications. Enzymes that modify H3K4 with mono and di-methylation are associated with increasing transcription and have been shown to bind pioneer factors. In B cell differentiation PU.1 is necessary to signal specific histones for activating H3K4me1 modifications that differentiate hematopoietic stem cells into either the B-cell or macrophage lineage. FoxA1 binding induces HSK4me2 during neuronal differentiation of pluripotent stem cells as well as the loss of DNA methylation.",
+            "score": 56.587443590164185
+        },
+        {
+            "docid": "14819246_3",
+            "document": "PCGF2 . The protein encoded by this gene contains a RING finger motif and is similar to the polycomb group (PcG) gene products. PcG gene products form complexes via protein-protein interaction and maintain the transcription repression of genes involved in embryogenesis, cell cycles, and tumorigenesis. This protein was shown to act as a negative regulator of transcription and has tumor suppressor activity. The expression of this gene was detected in various tumor cells, but is limited in neural organs in normal tissues. Knockout studies in mice suggested that this protein may negatively regulate the expression of different cytokines, chemokines, and chemokine receptors, and thus plays an important role in lymphocyte differentiation and migration, as well as in immune responses.",
+            "score": 137.20880341529846
+        },
+        {
+            "docid": "2930542_5",
+            "document": "Epithelial\u2013mesenchymal transition . Loss of E-cadherin is considered to be a fundamental event in EMT. Many transcription factors (TFs) that can repress E-cadherin directly or indirectly can be considered as EMT-TF (EMT inducing TFs). SNAI1/Snail 1, SNAI2/Snail 2 (also known as Slug), ZEB1, ZEB2, TCF3 and KLF8 (Kruppel-like factor 8) can bind to the E-cadherin promoter and repress its transcription, whereas factors such as Twist, Goosecoid, TCF4 (also known as E2.2), homeobox protein SIX1 and FOXC2 (fork-head box protein C2) repress E-cadherin indirectly. SNAIL and ZEB factors bind to E-box consensus sequences on the promoter region, while KLF8 binds to promoter through GT boxes. These EMT-TFs not only directly repress E-cadherin, but also repress transcriptionally other junctional proteins, including claudins and desmosomes, thus facilitating EMT. On the other hand, transcription factors such as grainyhead-like protein 2 homologue (GRHL2), and ETS-related transcription factors ELF3 and ELF5 are downregulated during EMT and are found to actively drive MET when overexpressed in mesenchymal cells. Since EMT in cancer progression recaptures EMT in developmental programs, many of the EMT-TFs are involved in promoting metastatic events.",
+            "score": 42.370211362838745
+        },
+        {
+            "docid": "31474_36",
+            "document": "Transcription factor . Gene duplications have played a crucial role in the evolution of species. This applies particularly to transcription factors. Once they occur as duplicates, accumulated mutations encoding for one copy can take place without negatively affecting the regulation of downstream targets. However, changes of the DNA binding specificities of the single-copy LEAFY transcription factor, which occurs in most land plants, have recently been elucidated. In that respect, a single-copy transcription factor can undergo a change of specificity through a promiscuous intermediate without losing function. Similar mechanisms have been proposed in the context of all alternative phylogenetic hypotheses, and the role of transcription factors in the evolution of all species.",
+            "score": 65.38536858558655
+        },
+        {
+            "docid": "16770101_17",
+            "document": "Long non-coding RNA . NcRNAs also target general transcription factors required for the RNAP II transcription of all genes. These general factors include components of the initiation complex that assemble on promoters or involved in transcription elongation. A ncRNA transcribed from an upstream minor promoter of the dihydrofolate reductase (DHFR) gene forms a stable RNA-DNA triplex within the major promoter of DHFR to prevent the binding of the transcriptional co-factor TFIIB. This novel mechanism of regulating gene expression may in fact represent a widespread method of controlling promoter usage given that thousands of such triplexes exist in eukaryotic chromosome. The U1 ncRNA can induce transcription initiation by specifically binding to and stimulating TFIIH to phosphorylate the C-terminal domain of RNAP II. In contrast the ncRNA 7SK, is able to repress transcription elongation by, in combination with HEXIM1/2, forming an inactive complex that prevents the PTEFb general transcription factor from phosphorylating the C-terminal domain of RNAP II, thereby repressing global elongation under stressful conditions. These examples, which bypass specific modes of regulation at individual promoters to mediate changes directly at the level of initiation and elongation transcriptional machinery, provide a means of quickly affecting global changes in gene expression.",
+            "score": 52.880200147628784
+        },
+        {
+            "docid": "152611_21",
+            "document": "Cellular differentiation . In the realm of gene silencing, Polycomb repressive complex 2, one of two classes of the Polycomb group (PcG) family of proteins, catalyzes the di- and tri-methylation of histone H3 lysine 27 (H3K27me2/me3). By binding to the H3K27me2/3-tagged nucleosome, PRC1 (also a complex of PcG family proteins) catalyzes the mono-ubiquitinylation of histone H2A at lysine 119 (H2AK119Ub1), blocking RNA polymerase II activity and resulting in transcriptional suppression. PcG knockout ES cells do not differentiate efficiently into the three germ layers, and deletion of the PRC1 and PRC2 genes leads to increased expression of lineage-affiliated genes and unscheduled differentiation. Presumably, PcG complexes are responsible for transcriptionally repressing differentiation and development-promoting genes.",
+            "score": 129.0044367313385
+        },
+        {
+            "docid": "25428989_6",
+            "document": "Homeotic selector gene . Homeotic selector genes encode regulatory DNA-binding proteins which are all related through a highly conserved DNA binding sequences called the homeobox (from which the \"Hox Complex\" name is derived from). Although each all of the DNA-binding complexes are conserved, each para-segment still has an individual identity. The proteins do not bind directly to the DNA, rather, they interact with other regulatory proteins which are already bound to DNA-binding complexes. Different interactions determine which DNA binding sites are recognized and subsequently activated or repressed. Homeotic selector proteins combine in different combinations with regulatory proteins to give each parasegment its identity.  Certain signals set up the spatial pattern of expression of the Hox complex early in development. The Hox complex acts like a stamp, giving cells in each segment a long term positional value. The cell memory of a given positional value depends on two inputs, the first being the ability of many Hox proteins to autoactivate their own transcription, and the second derived from two large groups of transcriptional regulators: The Polycomb group and the Trithorax group. A defect in either of these regulators results in a pattern which is initially correct but is not maintained at later embryonic stages. The Polycomb and Trithorax regulators act in opposite ways. The Trithorax group maintains Hox transcription after transcription is already activated. The Polycomb group forms stable complexes that bind to the chromatin of Hox genes, and keep it in a repressed state at sites where Hox genes are not active.",
+            "score": 73.31636238098145
+        },
+        {
+            "docid": "14754523_3",
+            "document": "Histone deacetylase 5 . Histones play a critical role in transcriptional regulation, cell cycle progression, and developmental events. Histone acetylation/deacetylation alters chromosome structure and affects transcription factor access to DNA. The protein encoded by this gene belongs to the class II histone deacetylase/acuc/apha family. It possesses histone deacetylase activity and represses transcription when tethered to a promoter. It coimmunoprecipitates only with HDAC3 family member and might form multicomplex proteins. It also interacts with myocyte enhancer factor-2 (MEF2) proteins, resulting in repression of MEF2-dependent genes. This gene is thought to be associated with colon cancer. Two transcript variants encoding different isoforms have been found for this gene.",
+            "score": 54.607892751693726
+        },
+        {
+            "docid": "45306289_3",
+            "document": "WRKY transcription factor family . In 1994 and 1995, the first two reports of WRKY transcription factors appeared. They described newly discovered but as yet ill-defined DNA binding proteins that played potential roles in the regulation of gene expression by sucrose (SPF1) or during germination (ABF1 and ABF2). A third report appeared in 1996 that identified WRKY1, WRKY2 and WRKY3 from parsley. The authors named the new transcription factor family the WRKY family (pronounced \u2018worky\u2019) after a conserved amino acid sequence at the N-terminus of the DNA-binding domain. The parsley WRKY proteins also provided the first evidence that WRKY transcription factors play roles in regulating plant responses to pathogens. Numerous papers have now shown this to be a major function of WRKY transcription factors. Since these initial publications, it has become clear that the WRKY family is among the ten largest families of transcription factors in higher plants and that these transcription factors play key roles in regulating a number of plant processes including the responses to biotic and abiotic stresses, germination, senescence, and some developmental processes.",
+            "score": 67.56829297542572
+        },
+        {
+            "docid": "50430120_13",
+            "document": "Short interspersed nuclear elements (SINEs) . In addition to directly affecting chromatin structure, there are a number of ways in which SINEs can potentially regulate gene expression. For example, long non-coding RNA can directly interact with transcriptional repressors and activators, attenuating or modifying their function. This type of regulation can occur in different ways: the RNA transcript can directly bind to the transcription factor as a co-regulator; also, the RNA can regulate and modify the ability of co-regulators to associate with the transcription factor. For example, Evf-2, a certain long non-coding RNA, has been known to function as a co-activator for certain homeobox transcription factors which are critical to nervous system development and organization. Furthermore, RNA transcripts can interfere with the functionality of the transcriptional complex by interacting or associating with RNA polymerases during the transcription or loading processes. Moreover, non-coding RNAs like SINEs can bind or interact directly with the DNA duplex coding the gene and thus prevent its transcription.  Also, many non-coding RNAs are distributed near protein-coding genes, often in the reverse direction. This is especially true for short-interspersed nuclear elements as seen in Usmanova et al. These non-coding RNAs, which lie adjacent to or overlap gene-sets provide a mechanism by which transcription factors and machinery can be recruited to increase or repress the transcription of local genes. The particular example of SINEs potentially recruit the YY1 polycomb transcriptional repressor is discussed above. Alternatively, it also provides a mechanism by which local gene expression can be curtailed and regulated because the transcriptional complexes can hinder or prevent nearby genes from being transcribed. There is research to suggest that this phenomenon is particularly seen in the gene-regulation of pluripotent cells.",
+            "score": 60.73952782154083
+        },
+        {
+            "docid": "1502597_14",
+            "document": "Dosage compensation . In the case of two-fold increased transcription of a single male X chromosome, there is no use for a Barr body, and the male organism must use different genetic machinery to increase the transcriptional output of their single X chromosome. It is common in such organisms for the Y chromosome to be necessary for male fertility, but not for it to play an explicit role in sex determination. In \"Drosophila\", for example, the sex lethal (SXL) gene acts as a key regulator of sexual differentiation and maturation in somatic tissue; in XX animals, SXL is activated to repress increased transcription, while in XY animals SXL is inactive and allows male development to proceed via increased transcription of the single X. Several binding sites exist on the \"Drosophila\" X chromosome for the dosage compensation complex (DCC), a ribonucleoprotein complex; these binding sites have varying levels of affinity, presumably for varying expression of specific genes. The Male Specific Lethal complex, composed of protein and RNA binds and selectively modifies hundreds of X-linked genes, increasing their transcription to levels comparable to female \"D. melanogaster\".",
+            "score": 75.173210978508
+        },
+        {
+            "docid": "14129282_3",
+            "document": "NFATC1 . The product of this gene is a component of the nuclear factor of activated T cells DNA-binding transcription complex. This complex consists of at least two components: a preexisting cytosolic component that translocates to the nucleus upon T cell receptor (TCR) stimulation, and an inducible nuclear component. Proteins belonging to this family of transcription factors play a central role in inducible gene transcription during immune response. The product of this gene is an inducible nuclear component. It functions as a major molecular target for the immunosuppressive drugs such as ciclosporin. Five transcript variants encoding distinct isoforms have been identified for this gene. Different isoforms of this protein may regulate inducible expression of different cytokine genes.",
+            "score": 54.75013303756714
+        }
+    ],
+    "r": [
+        {
+            "docid": "28000223_10",
+            "document": "Reptin . Reptin also is a component of the polycomb repressive complex 1 (PRC1), where it assists regulation of polycomb group proteins (PcG). In turn, PcG proteins regulate chromatin structure to turn Hox genes on and off, thereby regulating the development of an organism. Reptin can have varying effects on PcG repression. For example, in drosophila, reptin mutations affected multiple sex comb genes with varying intensity, but for certain PRC1-associated sex comb genes reptin mutations had no connection to their expression. Generally, reptin and pontin have opposite effects on Hox and PcG gene expression.",
+            "score": 150.32032775878906
+        },
+        {
+            "docid": "14877030_3",
+            "document": "PHC2 . In Drosophila melanogaster, the 'Polycomb' group (PcG) of genes are part of a cellular memory system that is responsible for the stable inheritance of gene activity. PcG proteins form a large multimeric, chromatin-associated protein complex. The protein encoded by this gene has homology to the Drosophila PcG protein 'polyhomeotic' (Ph) and is known to heterodimerize with EDR1 and colocalize with BMI1 in interphase nuclei of human cells. The specific function in human cells has not yet been determined. Two transcript variants encoding different isoforms have been found for this gene.",
+            "score": 145.5675811767578
+        },
+        {
+            "docid": "46694447_7",
+            "document": "Epigenetics of plant growth and development . Polycomb group (PcG) proteins and trithorax groups (TrxG) proteins act as key regulators of gene expression through histone lysine methylation. PcG proteins repress target genes via Histone 3 lysine 27 trimethylation (H3K27me3), whereas TrxG proteins activate gene expression via histone 3 lysine 4 trimethylation (H3K4me3) (Kleinmanns et al. 2014).",
+            "score": 141.2119140625
+        },
+        {
+            "docid": "46669355_22",
+            "document": "Polycomb Group Proteins and Cancer . PcG proteins have been implicated in numerous types of cancers, though they are often deregulated differently according to the type of cancer under investigation. The following table shows specific types of cancer that PcG proteins have been known to be deregulated in, the identifier that links PcGs to this cancer (usually a PRC subunit or histone mark), how it is deregulated, and references for further details.",
+            "score": 139.4871368408203
+        },
+        {
+            "docid": "14819246_3",
+            "document": "PCGF2 . The protein encoded by this gene contains a RING finger motif and is similar to the polycomb group (PcG) gene products. PcG gene products form complexes via protein-protein interaction and maintain the transcription repression of genes involved in embryogenesis, cell cycles, and tumorigenesis. This protein was shown to act as a negative regulator of transcription and has tumor suppressor activity. The expression of this gene was detected in various tumor cells, but is limited in neural organs in normal tissues. Knockout studies in mice suggested that this protein may negatively regulate the expression of different cytokines, chemokines, and chemokine receptors, and thus plays an important role in lymphocyte differentiation and migration, as well as in immune responses.",
+            "score": 137.20880126953125
+        },
+        {
+            "docid": "46669355_11",
+            "document": "Polycomb Group Proteins and Cancer . PcG proteins are also key players in the maintenance of adult stem cell populations. Several PcG proteins have been implicated in the regulation of the self-renewal capacity of specific stem cell types. For example, overexpression of the EZH2 prevents haematopoietic stem cell exhaustion and can block the differentiation of muscle myoblasts. Stem cells are also tightly regulated by their respective cellular microenvironment or niche; PcG function can be inhibited by the JNK signaling pathway, which is inactivated in response to wounding. PcG suppression leads to an increased frequency of transdetermination, a process in which precursor cells switch their predetermined identity.",
+            "score": 134.62767028808594
+        },
+        {
+            "docid": "16960816_5",
+            "document": "Trithorax-group proteins . Trithorax Group (TrxG) proteins typically function in large complexes formed with other proteins. The complexes formed by TrxG proteins are divided into 2 groups:  Histone-modifying complexes and ATP-dependent chromatin-remodeling complexes. The main function of TrxG proteins, along with polycomb group (PcG) proteins, is regulating gene expression. Whereas, PcG proteins are typically associated with gene silencing, TrxG proteins are most commonly linked to gene activation. The Trithorax complex activates gene transcription by inducing trimethylation of lysine 4 of histone H3 (H3K4me3) at specific sites in chromatin recognized by the complex. Ash1 domain is involved in H3K36 methylation. Trithorax complex also interacts with CBP (CREB binding protein) which is an acteyltransferase to acetylate H3K27. This gene activation is reinforced by acetylation of histone H4. The actions of TrxG proteins are often described as 'antagonistic' of PcG proteins function. Aside from gene regulation, evidence suggests TrxG proteins are also involved in other processes including apoptosis, cancer, and stress responses.",
+            "score": 133.38426208496094
+        },
+        {
+            "docid": "6141664_3",
+            "document": "Polycomb-group proteins . In \"Drosophila\", the Trithorax-group (trxG) and Polycomb-group (PcG) proteins act antagonistically and interact with chromosomal elements, termed Cellular Memory Modules (CMMs). Trithorax-group (trxG) proteins maintain the active state of gene expression while the Polycomb-group (PcG) proteins counteract this activation with a repressive function that is stable over many cell generations and can only be overcome by germline differentiation processes. Polycomb Gene complexes or PcG silencing consist of at least three kinds of multiprotein complex Polycomb Repressive Complex 1 (PRC1), PRC2 and PhoRC. These complexes work together to carry out their repressive effect. PcGs proteins are evolutionarily conserved and exist in at least two separate protein complexes; the PcG repressive complex 1 (PRC1) and the PcG repressive complex 2\u20134 (PRC2/3/4). PRC2 catalyzes trimethylation of lysine 27 on histone H3 (H3K27me2/3), while PRC1 mono- ubiquitinates histone H2A on lysine 119 (H2AK119Ub1).",
+            "score": 130.35281372070312
+        },
+        {
+            "docid": "46669355_12",
+            "document": "Polycomb Group Proteins and Cancer . Traditionally, cancer has been viewed as a genetic disease that is driven by sequential acquisition of mutations, leading to the constitutive activation of proto-oncogenes and the loss of function of tumor suppressor genes. However, it has become increasingly evident that tumor development also involves epigenetic changes. These epigenetic changes include both genome-wide losses and regional gains of DNA methylation, as well as altered patterns of histone modification. The state of compaction of the chromatin fiber governs DNA accessibility and therefore has a crucial function establishing, maintaining, and propagating distinct patterns of gene expression. Perturbations of chromatin structure can cause inappropriate gene expression and genomic instability, resulting in cellular transformation and malignant outgrowth. Polycomb group proteins (PcG) function as transcriptional repressors that silence specific sets of genes through chromatin modification. Although they are primarily known for their role in maintaining cell identity during the establishment of the body plan, several mammalian PcG members are implicated in the control of cellular proliferation and neoplastic development.",
+            "score": 129.69119262695312
+        },
+        {
+            "docid": "152611_21",
+            "document": "Cellular differentiation . In the realm of gene silencing, Polycomb repressive complex 2, one of two classes of the Polycomb group (PcG) family of proteins, catalyzes the di- and tri-methylation of histone H3 lysine 27 (H3K27me2/me3). By binding to the H3K27me2/3-tagged nucleosome, PRC1 (also a complex of PcG family proteins) catalyzes the mono-ubiquitinylation of histone H2A at lysine 119 (H2AK119Ub1), blocking RNA polymerase II activity and resulting in transcriptional suppression. PcG knockout ES cells do not differentiate efficiently into the three germ layers, and deletion of the PRC1 and PRC2 genes leads to increased expression of lineage-affiliated genes and unscheduled differentiation. Presumably, PcG complexes are responsible for transcriptionally repressing differentiation and development-promoting genes.",
+            "score": 129.0044403076172
+        },
+        {
+            "docid": "26708105_18",
+            "document": "HIKESHI . The programs STRING and Sigma-Aldrich\u2019s Favorite Gene suggested possible protein interactions with C11orf73. ARGUL1, CRHBP, and EED were derived from textmining and HNF4A came from Sigma-Aldrich. ARGUL1 is an unknown protein with an unknown function. CRHBP is a corticotrophin releasing hormone binding protein which could possibly play a role in a signal cascade that involves or activates HIKESHI. EED, a neighboring protein of C11orf73, is an embryonic ectoderm development protein and is a member of the Polycomb-group (PcG) family. PcG family members form multimeric protein complexes, which are involved in maintaining the transcriptional repressive state of genes over successive cell generations. HNF4A is a transcription regulator and it is unknown if HNF4A regulates C11orf73's expression or simply interacts with it.",
+            "score": 127.38613891601562
+        },
+        {
+            "docid": "26708105_17",
+            "document": "HIKESHI . The EED gene stands for embryonic ectoderm development isoform b and is a member of the Polycomb-group (PcG) family. PcG family members form multimeric protein complexes, which are involved in maintaining the transcriptional repressive state of genes over successive cell generations. This protein interacts with enhancer of zeste 2, the cytoplasmic tail of integrin beta7, immunodeficiency virus type 1 (HIV-1) MA protein, and histone deacetylase proteins. This protein mediates repression of gene activity through histone deacetylation, and may act as a specific regulator of integrin function. Two transcript variants encoding distinct isoforms have been identified for this gene.",
+            "score": 125.61674499511719
+        },
+        {
+            "docid": "14775075_3",
+            "document": "EED (protein) . Polycomb protein EED is a member of the Polycomb-group (PcG) family. PcG family members form multimeric protein complexes, which are involved in maintaining the transcriptional repressive state of genes over successive cell generations. This protein interacts with enhancer of zeste 2, the cytoplasmic tail of integrin \u03b27, immunodeficiency virus type 1 (HIV-1) MA protein, and histone deacetylase proteins. This protein mediates repression of gene activity through histone deacetylation, and may act as a specific regulator of integrin function. Two transcript variants encoding distinct isoforms have been identified for this gene.",
+            "score": 124.59583282470703
+        },
+        {
+            "docid": "46669355_13",
+            "document": "Polycomb Group Proteins and Cancer . Polycomb group proteins have been studied quite intensely and have been shown to play a role in the formation and/or maintenance of certain types of cancer. PcG target genes have been shown to be more likely to be hypermethylated in aged somatic cells, and found to be 12 times more likely to be hypermethylated in cancers than non-PcG targets. A vast majority of PcG targets are lineage and differentiation determinants. Studies have suggested that uncontrolled methylation by PcGs will lock cells in an undifferentiated or immature state, which could prime them for malignant transformation. Polycomb group proteins have also been shown to affect DNA damage and apoptosis pathways preventing cells from entering senescence; this is a state in which the cell ceases to replicate.",
+            "score": 123.00395965576172
+        },
+        {
+            "docid": "152611_22",
+            "document": "Cellular differentiation . Alternately, upon receiving differentiation signals, PcG proteins are recruited to promoters of pluripotency transcription factors. PcG-deficient ES cells can begin differentiation but cannot maintain the differentiated phenotype. Simultaneously, differentiation and development-promoting genes are activated by Trithorax group (TrxG) chromatin regulators and lose their repression. TrxG proteins are recruited at regions of high transcriptional activity, where they catalyze the trimethylation of histone H3 lysine 4 (H3K4me3) and promote gene activation through histone acetylation. PcG and TrxG complexes engage in direct competition and are thought to be functionally antagonistic, creating at differentiation and development-promoting loci what is termed a \"bivalent domain\" and rendering these genes sensitive to rapid induction or repression.",
+            "score": 119.67871856689453
+        },
+        {
+            "docid": "46669355_3",
+            "document": "Polycomb Group Proteins and Cancer . PcG proteins function as multiprotein complexes. Biochemical purification and functional genetic studies have assigned the various PcG genes into two distinct subsets, namely Polycomb Repressive Complex 1 (PRC1) and Polycomb Repressive Complex 2 (PRC2). The exact composition of these complexes varies but their core components are maintained across numerous species.",
+            "score": 116.8536148071289
+        },
+        {
+            "docid": "3190493_21",
+            "document": "Silencer (genetics) . The Polycomb-group (PcG) regulatory complexes are known for their influence in the epigenetic regulation of stem cells, especifically in hematopoietic stem cells. The Polycomb Repressive Complex 1 (PRC 1) is directly involved in the process of hematopoiesis, and functions together with, for example, the PcG gene \u201cBmi1\u201d. Studies in mice indicate that organisms with mutated \u201cBmi1\u201d demonstrate deficient mitochondrial functioning, and also hindered the ability of hematopoietic cells to self-renew. Likewise, mutations in PRC2 genes were related to hematological conditions such as acute lymphoblastic leukemia (ALL), which is a form of leukemia. Hence, Polycomb-group genes and proteins are involved in the proper maintenance of hematopoiesis in the body.",
+            "score": 115.51748657226562
+        },
+        {
+            "docid": "46669355_7",
+            "document": "Polycomb Group Proteins and Cancer . Polycomb group proteins control nucleosome interactions and were first discovered in \"Drosophila melanogaster\", where PcG genes maintain repression of the homeobox (Hox) genes that establish and preserve the anterior-posterior axis of the insect body plan during development. The Hox genes encode transcription factors that give a specific identity to each segment along the body axis of the animal.",
+            "score": 114.70760345458984
+        },
+        {
+            "docid": "6141664_7",
+            "document": "Polycomb-group proteins . It has been shown that unlike in mammals the PcG are necessary to keep the cells in a differentiated state. Consequently, loss of PcG causes de-differentiation and promotes embryonic development.",
+            "score": 111.84735107421875
+        },
+        {
+            "docid": "18935302_10",
+            "document": "Copyright on religious works . After the death of Worldwide Church of God founder Herbert W. Armstrong in 1986, church leaders began moving in a different direction, both in tone and teaching. Some members dissatisfied with these moves formed Philadelphia Church of God, led by Gerald Flurry. By the mid-1990s, much of Armstrong's writings had been repudiated by WCG leadership and were out of print. In 1997, PCG began reprinting many books written by Armstrong and distributed them for free. Flurry and others regarded this material to be central to their religious teaching and practice, requiring their familiarity for any members desiring baptism, especially \"Mystery of the Ages\" (Armstrong's last book) and Armstrong's autobiography (recounting his own conversion). WCG sued PCG for copyright infringement, which claimed fair use on religious practice grounds. After a lengthy court battle, WCG won a ruling that, \"...as a matter of law that PCG is not entitled to claim fair use. Because infringement by PCG of WCG's copyright is undisputed, barring fair use, WCG is entitled to a permanent injunction against the reproduction and distribution by PCG of [\"Mystery of the Ages\"]. Accordingly, we...dismiss the appeal from the denial of WCG's motion for an injunction pending...and remand for entry of a preliminary injunction pending a trial of any damages and final adjudication.\"",
+            "score": 111.7140884399414
+        },
+        {
+            "docid": "46697210_9",
+            "document": "Epigenetics of human development . Hox genes are regulated using a variety of epigenetic mechanisms, including the use of lncRNAs such as HOTAIR, the Trithorax (TrxG) group of proteins, and the Polycomb (PcG) group of proteins.",
+            "score": 109.83686828613281
+        },
+        {
+            "docid": "46697210_10",
+            "document": "Epigenetics of human development . The PcG and TrxG genes that produce protein complexes responsible for continuing the activation and the repression patterns in the Hox genes initially formed by the maternal factors. PcG genes are responsible for repressing chromatin in Hox clusters meant to be inactivated in the differentiated cell. PcG proteins repress genes by forming polycomb repressive complexes, such as PRC1 and PRC2. PRC2 complexes repress by trimethylating histone 3 at lysine 27 through histone methyltransferases Ezh2 and Ezh1. PRC2 is rectruited by many elements, including CpG islands. PRC1, meanwhile, ubiquitinates H2AK119 using Ring1A/B's E3 ligase activity, causing stalling of RNA polymerase II. Furthermore, Ring1B, a member of the PRC1 complex, also represses Hox genes with Me118, Mph2, and RYBP by compacting the chromatin into higher-order structures. TrxG genes, meanwhile, are responsible for activating genes by trimethylating lysine 4 of the histone H3 tail. Genes with similar transcriptional marks tend to cluster together in distinct structures. In bivalent domains, both of these marks are present, indicating genes that are silenced but can be rapidly activated when necessary.",
+            "score": 109.59508514404297
+        },
+        {
+            "docid": "15065816_2",
+            "document": "BAP1 . BRCA1 associated protein-1 (ubiquitin carboxy-terminal hydrolase) is a deubiquitinating enzyme that in humans is encoded by the \"BAP1\" gene. \"BAP1\" encodes an 80.4 kDa nuclear-localizing protein with a ubiquitin carboxy-terminal hydrolase (UCH) domain that gives BAP1 its deubiquitinase activity. Recent studies have shown that \"BAP1\" and its fruit fly homolog, \"Calypso\", are members of the polycomb-group proteins (PcG) of highly conserved transcriptional repressors required for long-term silencing of genes that regulate cell fate determination, stem cell pluripotency, and other developmental processes.",
+            "score": 109.21098327636719
+        },
+        {
+            "docid": "25259988_9",
+            "document": "Pacific Corporate Group . PCG Asset Management (PCG AM) provides customized solutions for institutional investors. PCG AM is a research-focused private equity advisor and fund of funds manager. PCG AM also provides strategic portfolio construction and extensive portfolio monitoring and reporting services.",
+            "score": 107.5198974609375
+        },
+        {
+            "docid": "6141664_6",
+            "document": "Polycomb-group proteins . In \"Physcomitrella patens\" the PcG protein FIE is specifically expressed in stem cells such as the unfertilized egg cell. Soon after fertilisation the FIE gene is inactivated in the young embryo. The Polycomb gene FIE is expressed in unfertilised egg cells of the moss Physcomitrella patens and expression ceases after fertilisation in the developing diploid sporophyte.",
+            "score": 107.34355926513672
+        },
+        {
+            "docid": "6141664_4",
+            "document": "Polycomb-group proteins . In mammals Polycomb Group gene expression is important in many aspects of development like homeotic gene regulation and X chromosome inactivation, being recruited to the inactive X by Xist RNA, the master regulator of XCI. The Bmi1 polycomb ring finger protein promotes neural stem cell self-renewal. Murine null mutants in PRC2 genes are embryonic lethals while most PRC1 mutants are live born homeotic mutants that die perinatally. In contrast overexpression of PcG proteins correlates with the severity and invasiveness of several cancer types. The mammalian PRC1 core complexes are very similar to Drosophila. Polycomb Bmi1 is known to regulate ink4 locus (p16, p19).",
+            "score": 106.3938980102539
+        },
+        {
+            "docid": "33425285_5",
+            "document": "M33 (gene) . The mouse Polycomb group (PcG) protein M33 maintains repressed states of developmentally important genes, including homeotic genes and forms nuclear complexes with other PcG members. e.g.BMI1. It also direct and/or indirect controls the vicinity of Hox genes regulatory regions, which are the accessibility of retinoic acid response elements . The deletion of \"Cbx2/M33\" in mice results in male-to-female sex reversal, homeotic transformations of the axial skeleton, and growth retardation. The expression of Sry and Sox9 genes in gonads of XY Cbx2-knockout mice is reduced, suggesting that Cbx2 is required for the expression of Sry in gonadal development. Moreover, the deficient of M33 also possessed abnormally few nucleated cells in the thymus and spleen, due to the aberrant T-cell expansion. In transiently transfected cells, M33 acts as a transcriptional repressor . Biochemical assays indicate that two murine proteins, Ring1A and Ring1B interact directly with the repressor domain of M33 and that Ring1A can also behave as a transcriptional repressor.",
+            "score": 106.32106018066406
+        },
+        {
+            "docid": "2119481_4",
+            "document": "Professional Coin Grading Service . PCGS certifies most U.S. and foreign coins, which consists of grading, authenticating, attributing, and encapsulating them in clear, airtight plastic holders. PCGS services include special label programs, \"First Strike\" designations, Tru View (high quality photography), conservation, and tiered certification (priced according to values and turnaround times.) Coins that are improperly cleaned, doctored, damaged, or otherwise impaired will not be numerically graded by PCGS, but upon request will still be authenticated and given verbal \"details\" grades.",
+            "score": 105.61437225341797
+        },
+        {
+            "docid": "2119481_11",
+            "document": "Professional Coin Grading Service . In 2001, PCGS established its free Set Registry program, which includes an online leader board that allowed collectors to compete against each other in thousands of potential sets composed of PCGS-graded coins. Over 90,000 sets are hosted. Each coin in a set is given a value computed by its relative scarcity. A version of the Registry is also maintained by PCGS' main competitor, NGC.",
+            "score": 105.27198791503906
+        },
+        {
+            "docid": "9432075_64",
+            "document": "Guitar Hero . In February 2010, Activision was sued by the Patent Compliance Group (PCG) for releasing \"Guitar Hero\" products with false patent claims, with the PCG asserting that games like \"Guitar Hero 5\" and \"Band Hero\" were marked with up to 10 patents that are not used within the games along with several other improper patent pending claims. PCG claimed that \"Acts of false marketing deter innovation and stifle competition in the marketplace.\" PCG's \"qui tam\" lawsuit was seeking up to $500 per unit sold if Activision was found liable. However, by June 2010, PCG had withdrawn the case without prejudice.",
+            "score": 104.92826843261719
+        },
+        {
+            "docid": "38932215_11",
+            "document": "Michael &quot;Miles&quot; Standish . While with PCGS, Standish developed a number of marketing innovations, including PCGS\u2019 bulk submission and First Strike programs, the company\u2019s Signature Series of PCGS inserts which include autographs of notable figures such as Presidents George H. Bush and Gerald Ford, U.S. Mint Directors Donna Pope, Jay W. Johnson, and Philip Diehl, Edmund Moy, Chief Engraver John Mercanti, General Tommy Franks and Hall of Fame baseball player Nolan Ryan.",
+            "score": 104.67735290527344
+        },
+        {
+            "docid": "1954144_13",
+            "document": "Philippine Coast Guard . With enactment of Republic Act 9993, also known as the Coast Guard Law of 2009, as well as its implementing rules and regulations, the PCG has been vested with the necessary authority and responsibility to perform preventive measures in ensuring the safety of merchant vessels. The new law also strengthened PCG\u2019s authority to meet new challenges and increasing demands for marine resources, technological advancement and climate change. Further, the law has defined the PCG\u2019s rightful niche in the bureaucracy as the premier maritime agency and its vital role in nation building.",
+            "score": 104.19778442382812
+        }
+    ]
+}

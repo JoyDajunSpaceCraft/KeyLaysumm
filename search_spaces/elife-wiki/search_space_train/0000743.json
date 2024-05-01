@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "14774391_14",
+            "document": "PTPRM . PTPmu is expressed in the developing brain and retina. A brain cell, or neuron, has a cell body that contains the nucleus and two types of extensions or processes that grow out from the cell body, the dendrites and axons. Dendrites generally receive input from other neurons, while axons send output to adjacent neurons. These processes are called neurites when grown \u2018\u2019in vitro\u2019\u2019 on tissue culture plates, because it is not clear whether they are dendrites or axons. \u2018\u2019In vitro\u2019\u2019 growth studies are useful for evaluating the mechanisms that neurons use to grow and function. A neurite outgrowth assay is a type of experiment where neurons are placed on different adhesive substrates on tissue culture plates. A neurite outgrowth assay is meant to mimic how neurons grow inside the body. During development of the nervous system, neuronal axons reach their often-distant targets by reacting to different substrates in their environment, so-called guidance cues, that are attractive, repulsive or simply permissive, meaning these substrates pull axons toward them, away from them, or act in a way that allows growth, respectively. When PTPmu is applied to a dish as an \u2018\u2019in vitro\u2019\u2019 substrate, it promotes neurite outgrowth. PTPmu also acts as a guidance cue during development of the nervous system, by repelling neurites of the temporal neural retina, while permitting growth of neurites from the nasal neural retina. Expression of PTPmu protein capable of dephosphorylating tyrosine residues is required for mediating both nasal neurite outgrowth and temporal neurite repulsion. By blocking the expression of PTPmu protein with antisense technology, or by expressing catalytically inactive mutants of PTPmu (molecules of PTPmu that can not dephosphorylate their target proteins) in the developing retina, it was shown that PTPmu is required for the development of the neural retina.",
+            "score": 48.97880172729492
+        },
+        {
+            "docid": "1970718_6",
+            "document": "Chemotropism . Another example of chemotropic movement includes the growth of individual neuronal cell axons in response to extracellular signals. These signals guide the developing axon to innervate the correct target tissue. The neuronal growth cones are guided by gradients of chemoattractant molecules emanating from their intermediate or final targets. There is evidence that the axons of peripheral neurons are guided by chemotropism and the directed growth of some central axons is also a chemo-tropic response, it remains to be determined whether chemotropism also operates in the central nervous system. Evidence of chemotropism has also been noted in neuronal regeneration, where chemotropic substances guide the ganglionic neurites towards the degenerated neuronal stump.",
+            "score": 38.92639374732971
+        },
+        {
+            "docid": "11926033_6",
+            "document": "Ephrin . During the development of the central nervous system Eph/ephrin signaling plays a critical role in the cell-cell mediated migration of several types of neuronal axons to their target destinations. Eph/ephrin signaling controls the guidance of neuronal axons through their ability to inhibit the survival of axonal growth cones, which repels the migrating axon away from the site of Eph/ephrin activation. The growth cones of migrating axons do not simply respond to absolute levels of Ephs or ephrins in cells that they contact, but rather respond to relative levels of Eph and ephrin expression, which allows migrating axons that express either Ephs or ephrins to be directed along gradients of Eph or ephrin expressing cells towards a destination where axonal growth cone survival is no longer completely inhibited.",
+            "score": 34.477607011795044
+        },
+        {
+            "docid": "5647595_9",
+            "document": "Ephrin receptor . As the nervous system develops, the patterning of neuronal connections is established by molecular guides that direct axons (axon guidance) along pathways by target and pathway derived signals. Eph/ephrin signaling regulates the migration of axons to their target destinations largely by decreasing the survival of axonal growth cones and repelling the migrating axon away from the site of Eph/ephrin activation. This mechanism of repelling migrating axons through decreased growth cone survival depends on relative levels of Eph and ephrin expression and allows gradients of Eph and ephrin expression in target cells to direct the migration of axon growth cones based on their own relative levels of Eph and ephrin expression. Typically, forward signaling by both EphA and EphB receptors mediates growth cone collapse while reverse signaling via ephrin-A and ephrin-B induces growth cone survival.",
+            "score": 29.6251699924469
+        },
+        {
+            "docid": "2065100_4",
+            "document": "Axon guidance . Growing axons have a highly motile structure at the growing tip called the growth cone, which \"sniffs out\" the extracellular activities in the environment for signals that instruct the axon which direction to grow. These signals, called guidance cues, can be fixed in place or diffusible; they can attract or repel axons. Growth cones contain receptors that recognize these guidance cues and interpret the signal into a chemotropic response. The general theoretical framework is that when a growth cone \"senses\" a guidance cue, the receptors activate various signaling molecules in the growth cone that eventually affect the cytoskeleton. If the growth cone senses a gradient of guidance cue, the intracellular signaling in the growth cone happens asymmetrically, so that cytoskeletal changes happen asymmetrically and the growth cone turns toward or away from the guidance cue.",
+            "score": 51.8163104057312
+        },
+        {
+            "docid": "3717_29",
+            "document": "Brain . Once a neuron is in place, it extends dendrites and an axon into the area around it. Axons, because they commonly extend a great distance from the cell body and need to reach specific targets, grow in a particularly complex way. The tip of a growing axon consists of a blob of protoplasm called a growth cone, studded with chemical receptors. These receptors sense the local environment, causing the growth cone to be attracted or repelled by various cellular elements, and thus to be pulled in a particular direction at each point along its path. The result of this pathfinding process is that the growth cone navigates through the brain until it reaches its destination area, where other chemical cues cause it to begin generating synapses. Considering the entire brain, thousands of genes create products that influence axonal pathfinding.",
+            "score": 73.30062007904053
+        },
+        {
+            "docid": "4681579_9",
+            "document": "Neurite . As previously stated, a neurite growing \"in vivo\" is surrounded by thousands of extracellular signals which in turn can be modulated by hundreds of intracellular pathways. It is therefore not surprising that it is not yet understood what determines neurite fate \"in vivo.\" It is known that 60% of the time the first neurite that protrudes from the cell body will become the axon. 30% of the time, a neurite not destined to become the axon protrudes from the cell body first. 10% of the time, the neurite that will become the axon protrudes from the cell body simultaneously with one or more other neurites. It has been proposed that a minor neurite could extend outward until it touches an already developed axon of another neuron. At this point, the neurite will begin to differentiate into an axon. This is known as the touch and go model. However, this model does not explain how the first axon developed.",
+            "score": 49.67608594894409
+        },
+        {
+            "docid": "48644210_10",
+            "document": "Spinal cord injury research . Neuroregeneration aims to reconnect the broken circuits in the spinal cord to allow function to return. One way is to regrow axons, which the peripheral nervous system can do, but the myelin in the central nervous system has molecules that impede axonal growth; thus these factors are a target for therapies to create an environment conducive to growth. One such molecule is Nogo-A, a protein associated with the myelin; in animal models when this protein is targeted with antibodies for it, axons grow better and more recovery of function occurs.",
+            "score": 26.808576345443726
+        },
+        {
+            "docid": "4681579_11",
+            "document": "Neurite . After forming one axon, the neuron must prevent all other neurites from becoming axons as well. This is known as global inhibition. It has been suggested that global inhibition is achieved by a long-range negative feedback signal released from the developed axon and taken up by the other neurite. However, no long range signaling molecule has been discovered. Alternatively, it has been suggested that the buildup of axonal growth factors in the neurite destined to become the axon means there is a depletion of axonal growth factors by default, as they must compete for the same proteins. This causes the other neurites to develop into dendrites as they lack sufficient concentrations of axonal growth factors to become axons. This would allow for a mechanism of global inhibition without the need for a long range signaling molecule.",
+            "score": 26.56418228149414
+        },
+        {
+            "docid": "11087760_17",
+            "document": "Biomimetic material . Laminin is known to stimulate neurite outgrowth and it plays a role in the developing nervous system. It is known that gradients are critical for the guidance of growth cones to their target tissues in the developing nervous system. There has been much research done on soluble gradients; however, little emphasis has been placed on gradients of substratum bound substances of the extracellular matrix such as laminin. Dodla and Bellamkonda, fabricated an anisotropic 3D agarose gel with gradients of coupled laminin-1 (LN-1). Concentration gradients of LN-1 were shown to promote faster neurite extension than the highest neurite growth rate observed with isotropic LN-1 concentrations. Neurites grew both up and down the gradients, but growth was faster at less steep gradients and was faster up the gradients than down the gradients.",
+            "score": 54.86860394477844
+        },
+        {
+            "docid": "21120_4",
+            "document": "Neuron . A typical neuron consists of a cell body (soma), dendrites, and an axon. The term neurite is used to describe either a dendrite or an axon, particularly in its undifferentiated stage. Dendrites are thin structures that arise from the cell body, often extending for hundreds of micrometers and branching multiple times, giving rise to a complex \"dendritic tree\". An axon (also called a nerve fiber) is a special cellular extension (process) that arises from the cell body at a site called the axon hillock and travels for a distance, as far as 1 meter in humans or even more in other species. Most neurons receive signals via the dendrites and send out signals down the axon. Numerous axons are often bundled into fascicles that make up the nerves in the peripheral nervous system (like strands of wire make up cables). Bundles of axons in the central nervous system are called tracts. The cell body of a neuron frequently gives rise to multiple dendrites, but never to more than one axon, although the axon may branch hundreds of times before it terminates. At the majority of synapses, signals are sent from the axon of one neuron to a dendrite of another. There are, however, many exceptions to these rules: for example, neurons can lack dendrites, or have no axon, and synapses can connect an axon to another axon or a dendrite to another dendrite.",
+            "score": 55.04138910770416
+        },
+        {
+            "docid": "801776_20",
+            "document": "Retinal ganglion cell . RGCs exit the retinal ganglion cell layer through the optic disc, which requires a 45\u00b0 turn. This requires complex interactions with optic disc glial cells which will express local gradients of Netrin-1, a morphogen that will interact with the Deleted in Colorectal Cancer (DCC) receptor on growth cones of the RGC axon. This morphogen initially attracts RGC axons, but then, through an internal change in the growth cone of the RGC, Netin-1 becomes repulsive, pushing the axon away from the optic disc. This is mediated through a cAMP dependent mechanism. Additionally, CSPGs and Eph/Ephrin signaling may also be involved.",
+            "score": 35.09168076515198
+        },
+        {
+            "docid": "41343013_8",
+            "document": "UNC-5 . Similar to growth cone guidance, synapse formation is cued by UNC-5 through a UNC-6 gradient that repels the dorsal axon migration. Dendritic filopodia extend from the dendritic shaft during synaptogenesis and appear as though they are reaching out for a presynaptic axon. Despite the appearance of attaching to an axon, cell signaling is still required for complete synaptic formation. An experiment was performed to determine the role of UNC-5 in axonal growth after spinal cord injury. The netrin is expressed by neurons in the corticospinal and rubrospinal projections, and by intrinsic neurons of the spinal cord both before and after the injury. When testing in vitro UNC-5 receptor bodies are taken from the spinal cord to neutralize netrin-1 in myelin. This increases the neurite outgrowth from UNC-5 expressing spinal motor neurons.",
+            "score": 27.856000661849976
+        },
+        {
+            "docid": "40631926_8",
+            "document": "UNC (biology) . Similar to growth cone guidance, synapse formation is cued by UNC-5 through a UNC-6 gradient that repels the dorsal axon migration. Dendritic filopodia extend from the dendritic shaft during synaptogenesis and appear as though they are reaching out for a presynaptic axon. Despite the appearance of attaching to an axon, cell signaling is still required for complete synaptic formation. An experiment was performed to determine the role of UNC-5 in axonal growth after spinal cord injury. The netrin is expressed by neurons in the corticospinal and rubrospinal projections, and by intrinsic neurons of the spinal cord both before and after the injury. When testing in vitro UNC-5 receptor bodies are taken from the spinal cord to neutralize netrin-1 in myelin. This increases the neurite outgrowth from UNC-5 expressing spinal motor neurons.",
+            "score": 27.856000661849976
+        },
+        {
+            "docid": "14759868_4",
+            "document": "SEMA3A . Semaphorin-3A is secreted by neurons and surrounding tissue to guide migrating cells and axons in the developing nervous system. Axon pathfinding is the process by which neurons follow very precise paths, sends out axons, and react to specific chemical environments to reach the correct endpoint. The guidance is critical for the precise formation of neurons and the surrounding vasculature. Guidance cues, such as Sema3A, induce the collapse and paralysis of neuronal growth cones during development of the nervous system.",
+            "score": 42.93277621269226
+        },
+        {
+            "docid": "28110290_6",
+            "document": "Olfactory ensheathing glia . The mammalian olfactory system is unusual in that it has the ability to continuously regenerate its neurons during adulthood. This ability is associated with olfactory ensheathing glia. New olfactory receptor neurons must project their axons through the central nervous system to an olfactory bulb in order to be functional. The growth and regeneration of olfactory axons can be attributable to OEG, as they form the fascicles through which axons grow from the peripheral nervous system into the central nervous system. Olfactory receptor neurons have an average lifespan of 6\u20138 weeks and therefore must be replaced by cells differentiated from the stem cells that are within a layer at the nearby epithelium's base. Axonal growth is guided by the glial composition and cytoarchitecture of the olfactory bulb in addition to the presence of OEG.",
+            "score": 17.437652587890625
+        },
+        {
+            "docid": "3878717_13",
+            "document": "Growth cone . Growth cone receptors detect the presence of axon guidance molecules such as Netrin, Slit, Ephrins, and Semaphorins. It has more recently been shown that cell fate determinants such as Wnt or Shh can also act as guidance cues. The same guidance cue can act as an attractant or a repellent, depending on context. A prime example of this is Netrin-1, which signals attraction through the DCC receptor and repulsion through the Unc-5 receptor. Furthermore, it has been discovered that these same molecules are involved in guiding vessel growth. Axon guidance directs the initial wiring of the nervous system and is also important in axonal regeneration following an injury.",
+            "score": 30.71433973312378
+        },
+        {
+            "docid": "2065100_14",
+            "document": "Axon guidance . As described above, axonal guidance cues are often categorized as \"attractive\" or \"repulsive.\" This is a simplification, as different axons will respond to a given cue differently. Furthermore, the same axonal growth cone can alter its responses to a given cue based on timing, previous experience with the same or other cues, and the context in which the cue is found. These issues are exemplified during the development of commissures. The bilateral symmetry of the nervous system means that axons will encounter the same cues on either side of the midline. Before crossing (ipsilaterally), the growth cone must navigate toward and be attracted to the midline. However, after crossing (contralaterally), the same growth cone must become repelled or lose attraction to the midline and reinterpret the environment to locate the correct target tissue.",
+            "score": 38.10906934738159
+        },
+        {
+            "docid": "2139633_13",
+            "document": "Netrin . Studies of central nervous system (CNS) development in chick and rodent models have identified the netrin-1 protein as a particularly important vertebrate axonal guidance cue. Most significantly, it was observed that the specialized cells of the floor plate located at the ventral midline of the embryonic brain secrete netrin-1, which resulted in a protein gradient. This gradient is most concentrated at the ventral midline and becomes increasingly diffuse as you move dorsally. Additional research in netrin deficient mice found that when netrin associates with the Deleted in Colorectal Cancer (DCC) receptor on the axonal growth cone an attractant response is initiated. This was further supported by an observed absence of ventral commissure (i.e. corpus callosum) development in mice lacking either netrin-1 or DCC. Similar results were observed in experiments with the netrin-1 homolog UNC-6 discovered in \"C. elegans\" The same early expression and formation of a protein concentration gradient emanating from the ventral midline is observed in epidermal cells of the developing worm. Evidence suggests that this gradient is essential for the long-range function of UNC-6 in guiding the initial circumferential migration of axons to the ventral midline and that the UNC-40 receptor mediates the attractive response. As additional axons reach the midline, the temporal and spatial expression of UNC-6 becomes increasing restricted, indicating that after a more general dorsal-ventral guidance of axons, UNC-6 is further involved in directing axons to more specific locations.",
+            "score": 78.86064910888672
+        },
+        {
+            "docid": "958_30",
+            "document": "Axon . Growing axons move through their environment via the growth cone, which is at the tip of the axon. The growth cone has a broad sheet-like extension called a lamellipodium which contain protrusions called filopodia. The filopodia are the mechanism by which the entire process adheres to surfaces and explores the surrounding environment. Actin plays a major role in the mobility of this system. Environments with high levels of cell adhesion molecules (CAMs) create an ideal environment for axonal growth. This seems to provide a \"sticky\" surface for axons to grow along. Examples of CAM's specific to neural systems include N-CAM, TAG-1 an axonal glycoprotein, and MAG all of which are part of the immunoglobulin superfamily. Another set of molecules called extracellular matrix-adhesion molecules also provide a sticky substrate for axons to grow along. Examples of these molecules include laminin, fibronectin, tenascin, and perlecan. Some of these are surface bound to cells and thus act as short range attractants or repellents. Others are difusible ligands and thus can have long range effects.",
+            "score": 17.185874104499817
+        },
+        {
+            "docid": "10389151_4",
+            "document": "Neuroregeneration . Neuroregeneration in the peripheral nervous system (PNS) occurs to a significant degree. Axonal sprouts form at the proximal stump and grow until they enter the distal stump. The growth of the sprouts is governed by chemotactic factors secreted from Schwann cells (neurolemmocytes). Injury to the peripheral nervous system immediately elicits the migration of phagocytes, Schwann cells, and macrophages to the lesion site in order to clear away debris such as damaged tissue. When a nerve axon is severed, the end still attached to the cell body is labeled the proximal segment, while the other end is called the distal segment. After injury, the proximal end swells and experiences some retrograde degeneration, but once the debris is cleared, it begins to sprout axons and the presence of growth cones can be detected. The proximal axons are able to regrow as long as the cell body is intact, and they have made contact with the Schwann cells in the endoneurial channel or tube. Human axon growth rates can reach 1\u00a0mm/day in small nerves and 5\u00a0mm/day in large nerves. The distal segment, however, experiences Wallerian degeneration within hours of the injury; the axons and myelin degenerate, but the endoneurium remains. In the later stages of regeneration the remaining endoneurial tube directs axon growth back to the correct targets. During Wallerian degeneration, Schwann cells grow in ordered columns along the endoneurial tube, creating a band of B\u00fcngner (boB) that protects and preserves the endoneurial channel. Also, macrophages and Schwann cells release neurotrophic factors that enhance re-growth.",
+            "score": 55.23054230213165
+        },
+        {
+            "docid": "271430_15",
+            "document": "Computational neuroscience . Computational neuroscience aims to address a wide array of questions. How do axons and dendrites form during development? How do axons know where to target and how to reach these targets? How do neurons migrate to the proper position in the central and peripheral systems? How do synapses form? We know from molecular biology that distinct parts of the nervous system release distinct chemical cues, from growth factors to hormones that modulate and influence the growth and development of functional connections between neurons.",
+            "score": 51.01954007148743
+        },
+        {
+            "docid": "21245_15",
+            "document": "Neuroscience . The fundamental questions addressed in cellular neuroscience include the mechanisms of how neurons process signals physiologically and electrochemically. These questions include how signals are processed by neurites \u2013 thin extensions from a neuronal cell body, consisting of dendrites (specialized to receive synaptic inputs from other neurons) and axons (specialized to conduct nerve impulses called action potentials) \u2013 and somas (the cell bodies of the neurons containing the nucleus), and how neurotransmitters and electrical signals are used to process information in a neuron. Another major area of neuroscience is directed at investigations of the development of the nervous system. These questions include the patterning and regionalization of the nervous system, neural stem cells, differentiation of neurons and glia, neuronal migration, axonal and dendritic development, trophic interactions, and synapse formation.",
+            "score": 47.587571144104004
+        },
+        {
+            "docid": "42072648_2",
+            "document": "Follower neuron . A follower neuron is a nerve cell that arises in the developmental stage of the brain and which growth and orientation is intrinsically related to pioneer neurons. These neurons can also be called later development neurons or follower cells.  In the early stages of brain development, pioneer neurons define axonal trajectories that are later used as scaffolds by follower neurons, which project their growth cones and fasciculate with pioneer axons, forming a fiber tract and demonstrating a preference for axon-guided growth. It is thought that these neurons can read very accurate cues of direction and fasciculate or defasciculate in order to reach their target, even in a highly dense axon bundle.",
+            "score": 73.4512083530426
+        },
+        {
+            "docid": "11088829_63",
+            "document": "Nerve guidance conduit . Astrocytes are glial cells that are abundant in the central nervous system. They are crucial for the metabolic and trophic support of neurons; additionally, astrocytes provide ion buffering and neurotransmitter clearance. Growing axons are guided by cues created by astrocytes; thus, astrocytes can regulate neurite pathfinding and subsequently, patterning in the developing brain. The glial scar that forms post-injury in the central nervous system is formed by astrocytes and fibroblasts; it is the most significant obstacle for regeneration. The glial scar consists of hypertrophied astrocytes, connective tissue, and ECM. Two goals of neural tissue engineering are to understand astrocyte function and to develop control over astrocytic growth. Studies by Shany et al. (2006) have demonstrated that astrocyte survival rates are increased on 3D aragonite matrices compared to conventional 2D cell cultures. The ability of cell processes to stretch out across curves and pores allows for the formation of multiple cell layers with complex 3D configurations.",
+            "score": 74.95709466934204
+        },
+        {
+            "docid": "958_25",
+            "document": "Axon . The development of the axon to its target, is one of the six major stages in the overall development of the nervous system. Studies done on cultured hippocampal neurons suggest that neurons initially produce multiple neurites that are equivalent, yet only one of these neurites is destined to become the axon. It is unclear whether axon specification precedes axon elongation or vice versa, although recent evidence points to the latter. If an axon that is not fully developed is cut, the polarity can change and other neurites can potentially become the axon. This alteration of polarity only occurs when the axon is cut at least 10 \u03bcm shorter than the other neurites. After the incision is made, the longest neurite will become the future axon and all the other neurites, including the original axon, will turn into dendrites. Imposing an external force on a neurite, causing it to elongate, will make it become an axon. Nonetheless, axonal development is achieved through a complex interplay between extracellular signaling, intracellular signaling and cytoskeletal dynamics.",
+            "score": 22.989989042282104
+        },
+        {
+            "docid": "5617574_2",
+            "document": "Neurotrophic factors . Neurotrophic factors (NTFs) are a family of biomolecules\u00a0\u2013 nearly all of which are peptides or small proteins\u00a0\u2013 that support the growth, survival, and differentiation of both developing and mature neurons. Most NTFs exert their trophic effects on neurons by signaling through tyrosine kinases, usually a receptor tyrosine kinase. In the mature nervous system, they promote neuronal survival, induce synaptic plasticity, and modulate the formation of long-term memories. Neurotrophic factors also promote the initial growth and development of neurons in the central nervous system and peripheral nervous system, and they are capable of regrowing damaged neurons in test tubes and animal models. Some neurotrophic factors are also released by the target tissue in order to guide the growth of developing axons. Most neurotrophic factors belong to one of three families: (1) neurotrophins, (2) glial cell-line derived neurotrophic factor family ligands (GFLs), and (3) neuropoietic cytokines. Each family has its own distinct cell signaling mechanisms, although the cellular responses elicited often do overlap.",
+            "score": 29.125491738319397
+        },
+        {
+            "docid": "21245_12",
+            "document": "Neuroscience . The scientific study of the nervous system has increased significantly during the second half of the twentieth century, principally due to advances in molecular biology, electrophysiology, and computational neuroscience. This has allowed neuroscientists to study the nervous system in all its aspects: how it is structured, how it works, how it develops, how it malfunctions, and how it can be changed. For example, it has become possible to understand, in much detail, the complex processes occurring within a single neuron. Neurons are cells specialized for communication. They are able to communicate with neurons and other cell types through specialized junctions called synapses, at which electrical or electrochemical signals can be transmitted from one cell to another. Many neurons extrude a long thin filament of axoplasm called an axon, which may extend to distant parts of the body and are capable of rapidly carrying electrical signals, influencing the activity of other neurons, muscles, or glands at their termination points. A nervous system emerges from the assemblage of neurons that are connected to each other.",
+            "score": 34.523810029029846
+        },
+        {
+            "docid": "2065100_12",
+            "document": "Axon guidance . The earliest descriptions of the axonal growth cone were made by the Spanish neurobiologist Santiago Ram\u00f3n y Cajal in the late 19th century. However, understanding the molecular and cellular biology of axon guidance would not begin until decades later. In the last thirty years or so, scientists have used various methods to work out how axons find their way. Much of the early work in axon guidance was done in the grasshopper, where individual motor neurons were identified and their pathways characterized. In genetic model organisms like mice, zebrafish, nematodes, and fruit flies, scientists can generate mutations and see whether and how they cause axons to make errors in navigation. In vitro experiments can be useful for direct manipulation of growing axons. A popular method is to grow neurons in culture and expose growth cones to purified guidance cues to see whether these cause the growing axons to turn. These types of experiments have often been done using traditional embryological non-genetic model organisms, such as the chicken and African clawed frog. Embryos of these species are easy to obtain and, unlike mammals, develop externally and are easily accessible to experimental manipulation.",
+            "score": 60.28828167915344
+        },
+        {
+            "docid": "14757522_2",
+            "document": "Axon reflex . The axon reflex (or the flare response) is the response stimulated by peripheral nerves of the body that travels away from the nerve cell body and branches to stimulate target organs. Reflexes are single reactions that respond to a stimulus making up the building blocks of the overall signaling in the body's nervous system. Neurons are the excitable cells that process and transmit these reflex signals through their axons, dendrites, and cell bodies. Axons directly facilitate intercellular communication projecting from the neuronal cell body to other neurons, local muscle tissue, glands and arterioles. In the axon reflex, signaling starts in the middle of the axon at the stimulation site and transmits signals directly to the effector organ skipping both an integration center and a chemical synapse present in the spinal cord reflex. The impulse is limited to a single bifurcated axon, or a neuron whose axon branches into two divisions and does not cause a general response to surrounding tissue.",
+            "score": 69.578742146492
+        },
+        {
+            "docid": "37686983_7",
+            "document": "Role of cell adhesions in neural development . Growth cones function as structural and chemically sensitive axon directing cellular organelles. Growth cones are highly dynamic in nature and contain a dynamic actin cytoskeleton in their peripheral region undergoing a constant retrograde flow. This retrograde force provides a mechanism for the growth cone to respond to direction cue, thereby directing neuronal axons. Growth cones are known to respond to various mechanical cues, which may be vital in proper nervous system development as growth cones experience a wide variety of mechanical environments as they navigate the extracellular space. Interestingly, research suggest that growth cones from different regions of the brain may respond to mechanical cues differently. It has been demonstrated that neural cells located in the hippocampus aren't sensitive to varying mechanical stiffness as it related to outgrowth, where cells originating from the dorsal root ganglion show maximal outgrowth on surfaces of approximately 1 kPa. Both hippocampal and dorsal root ganglion neural growth cones show increased traction force generation on increased stiffness substrates. Growth cones utilize integrin migratory machinery such as integrins, but are not a class of cell migration.",
+            "score": 60.499783992767334
+        },
+        {
+            "docid": "2065100_7",
+            "document": "Axon guidance . Growing axons rely on a variety of guidance cues in deciding upon a growth pathway. The growth cones of extending axons process these cues in an intricate system of signal interpretation and integration, in order to ensure appropriate guidance. These cues can be functionally subdivided into: Given the abundance of these different guidance cues it was previously believed that growth cones integrate various information by simply summing the gradient of cues, in different valences, at a given point in time, to making a decision on the direction of growth. However, studies in vertebrate nervous systems of ventral midline crossing axons, has shown that modulatory cues play a crucial part in tuning axon responses to other cues, suggesting that the process of axon guidance is nonlinear. For example, commissural axons are attracted by Netrin and repelled by Slit. However, as axons approach the midline, the repellent action of Slit is suppressed by Robo-3/Rig-1 receptor. Once the axons cross the midline, activation of Robo by Slit silences Netrin-mediated attraction, and the axons are repelled by Slit.",
+            "score": 43.857698917388916
+        }
+    ],
+    "r": [
+        {
+            "docid": "157898_57",
+            "document": "Eye . Cones are responsible for colour vision. They require brighter light to function than rods require. In humans, there are three types of cones, maximally sensitive to long-wavelength, medium-wavelength, and short-wavelength light (often referred to as red, green, and blue, respectively, though the sensitivity peaks are not actually at these colours). The colour seen is the combined effect of stimuli to, and responses from, these three types of cone cells. Cones are mostly concentrated in and near the fovea. Only a few are present at the sides of the retina. Objects are seen most sharply in focus when their images fall on the fovea, as when one looks at an object directly. Cone cells and rods are connected through intermediate cells in the retina to nerve fibres of the optic nerve. When rods and cones are stimulated by light, they connect through adjoining cells within the retina to send an electrical signal to the optic nerve fibres. The optic nerves send off impulses through these fibres to the brain.",
+            "score": 117.63312530517578
+        },
+        {
+            "docid": "4548229_12",
+            "document": "Interaural time difference . The auditory nerve fibres, known as the afferent nerve fibres, carry information from the organ of Corti to the brainstem and brain. Auditory afferent fibres consist of two types of fibres called type I and type II fibres. Type I fibres innervate the base of one or two inner hair cells and Type II fibres innervate the outer hair cells. Both leave the organ of Corti through an opening called the habenula perforata. The type I fibres are thicker than the type II fibres and may also differ in how they innervate the inner hair cells. Neurons with large calycal endings ensure preservation of timing information throughout the ITD pathway.",
+            "score": 116.0688705444336
+        },
+        {
+            "docid": "48334_4",
+            "document": "Retina . Light striking the retina initiates a cascade of chemical and electrical events that ultimately trigger nerve impulses that are sent to various visual centres of the brain through the fibres of the optic nerve. Neural signals from the rods and cones undergo processing by other neurons, whose output takes the form of action potentials in retinal ganglion cells whose axons form the optic nerve. Several important features of visual perception can be traced to the retinal encoding and processing of light.",
+            "score": 114.6782455444336
+        },
+        {
+            "docid": "40186228_4",
+            "document": "Ang\u00e9lique Arvanitaki . Arvanitaki contributed to the field of neurophysiology with research that explored the giant nerve fibres in genera of gastropods, the sea hare \"Aplysia\" and the land snail \"Helix\". She developed the concept of ganglion preparation of large identifiable nerves. Arvanitaki also discovered that regular electrical oscillations could periodically grow in size until a series of action potentials were fired along isolated nerve fibres of the cuttlefish, genus \"Sepia\". A further contribution of Arvanitaki was the demonstration that a neuronal circuit was not required for a single nerve to produce rhythmic and spontaneous activity. Also, she discovered that when two nerve fibres are close in proximity, the activity of a single nerve fibre can generate activity in a nearby nerve fibre.",
+            "score": 111.62522888183594
+        },
+        {
+            "docid": "243329_12",
+            "document": "Accessory nerve . The spinal component of the accessory nerve provides motor control of the sternocleidomastoid and trapezius muscles. The trapezius muscle controls the action of shrugging the shoulders, and the sternocleidomastoid the action of turning the head. Like most muscles, control of the trapezius muscle arises from the opposite side of the brain. Contraction of the upper part of the trapezius muscle elevates the scapula. The nerve fibres sternocleidomastoid however are thought to change sides () twice. This means that the sternocleidomastoid is controlled by the brain on the same side of the body. Contraction of the stenocleidomastoid fibres turns the head to the opposite side, the net effect meaning that the head is turned to the side of the brain receiving visual information from that area.The cranial component of the accessory nerve, on the other hand, provides motor control to the muscles of the soft palate, larynx and pharynx.",
+            "score": 110.05265045166016
+        },
+        {
+            "docid": "2168353_5",
+            "document": "Adrenergic nerve fibre . Adrenergic fibres innervate smooth muscle, cardiac muscle, visceral glands, and various central nervous system structures and sense organs. Their function is enhancing, compared to the inhibiting action of the cholinergic fibres of the parasympathetic system. Peripheral adrenergic neurons integrate signals from other nerves of the central nervous system and peripheral sense organs. An adrenergic nerve impulse is triggered when one nerve fires repeatedly or when several nerves fire simultaneously which can cause an additive effect leading to a greater stimulus. Adrenergic neurons, in particular the \u03b12 autorecptors found in the brain, are also involved in sexual behavior and in the control of appetite.",
+            "score": 109.89009094238281
+        },
+        {
+            "docid": "24245898_75",
+            "document": "Pain in fish . It has been argued that fish can not feel pain because they do not have a sufficient density of appropriate nerve fibres. A typical human cutaneous nerve contains 83% GroupC nerve fibres, however, the same nerves in humans with congenital insensitivity to pain have only 24\u201328% C-type fibres. Based on this, James Rose, from the University of Wyoming, has argued that the absence of C-type fibres in cartilagenous sharks and rays indicates that signalling leading to pain perception is likely to be impossible, and the low numbers for bony fish (e.g. 5% for carp and trout) indicate this is also highly unlikely for these fish. Rose concludes there is little evidence that sharks and rays possess the nociceptors required to initiate pain detection in the brain, and that, while bony fish are able to unconsciously learn to avoid injurious stimuli, they are little more likely to experience conscious pain than sharks.",
+            "score": 109.74513244628906
+        },
+        {
+            "docid": "8369300_6",
+            "document": "All-or-none law . The above account deals with the response of a single nerve fibre. If a nerve trunk is stimulated, then as the exciting stimulus is progressively increased above a threshold, a larger number of fibres respond. The minimal effective (i.e.,\u00a0threshold) stimulus is adequate only for fibres of high excitability, but a stronger stimulus excites all the nerve fibres. Increasing the stimulus further does increase the response of whole nerve.",
+            "score": 109.2332763671875
+        },
+        {
+            "docid": "24245898_30",
+            "document": "Pain in fish . There are two types of nerve fibre relevant to pain in fish. Group C nerve fibres are a type of sensory nerve fibre which lack a myelin sheath and have a small diameter, meaning they have a low nerve conduction velocity. The suffering that humans associate with burns, toothaches, or crushing injury are caused by C fibre activity. A typical human cutaneous nerve contains 83% Group C nerve fibres. A-delta fibres are another type of sensory nerve fibre, however, these are myelinated and therefore transmit impulses faster than non-myelinated C fibres. A-delta fibres carry cold, pressure and some pain signals, and are associated with acute pain that results in \"pulling away\" from noxious stimuli.",
+            "score": 109.11553955078125
+        },
+        {
+            "docid": "1082927_8",
+            "document": "Haptotaxis . Haptotaxis plays a role in organizing cells to form tissues and specific regions of those tissues. Fibronectin and laminin both play a role in adrenocyte mutation into distinctive distribution in the adrenal gland. The adrenocytes migrate centripetally as they mature towards the medulla of the adrenal gland., and this movement may be a result of haptotactic forces mediated by fibronectin and laminin. In nerve cells, axonal growth is mediated by nerve growth factor in a haptotactic manner, where the axon of nerve cells grows along the gradient. This information could be used to possibly develop methods to promote nerve regeneration in patients that have nerve damage.  Another regenerative strategy is the use of mesenchymal stem cells, which can differentiate into different kinds of connective tissue in the wound healing process. The haptotaxis is mediated by fibronectin, vitronectin, and type I collagen. A recent study has tentatively proposed the idea that the structures on cells responsible for sensing the membrane protein gradients are attenuated filopodia. Also, the more amount of filopodia present on the leading edge of the migrating cell, the more responsive the cell is to the haptotactic gradient. This is important because there is the possibility that all motile cells that display filopodia may be responding to haptotactic gradients. Further research is required in the subject, but it is clear that more and more kinds of cell undergo haptotaxis than originally believed.",
+            "score": 108.5041275024414
+        },
+        {
+            "docid": "8891515_3",
+            "document": "Joseph von Gerlach . Along with Camillo Golgi, he was a major proponent of the reticular theory that the brain's nervous system consisted of processes of contiguous cells fused to create a massive meshed network. Gerlach summed up his theory by stating:the finest divisions of the protoplasmic processes ultimately take part in the formation of the fine nerve fibre network which I consider to be an essential constituent of the gray matter of the spinal cord. The divisions are none other than the beginnings of this nerve fibre net. The cells of the gray matter are therefore doubly connected by means the nerve process which becomes the axis fibre and through the finest branches of the protoplasmic processes which become a part of the fine nerve fibre net of the gray matter. The reticular theory predominated until the 1890s when Ramon y Cajal brought forth his neuron doctrine of synaptic junctions, which in essence replaced the reticular theory.",
+            "score": 108.47189331054688
+        },
+        {
+            "docid": "33949413_8",
+            "document": "Hypoxia in fish . In fish, the hypoxic signal is carried up to the brain for processing by the glossopharyngeal (cranial nerve IX) and vagus (cranial nerve X) nerves. The first branchial arch is innervated by the glossopharyngeal nerve (cranial nerve IX); however all four arches are innervated by the vagus nerve (cranial nerve X). Both the glossopharyngeal and vagus nerves carry sensory nerve fibres into the brain and central nervous system.",
+            "score": 107.44557189941406
+        },
+        {
+            "docid": "48376645_30",
+            "document": "Pain in amphibians . There are two types of nerve fibre relevant to pain in amphibians. Group C nerve fibres are a type of sensory nerve fibre which lack a myelin sheath and have a small diameter, meaning they have a low nerve conduction velocity. The suffering associated with burns, toothaches, or crushing injury are caused by C fibre activity. A-delta fibres are another type of sensory nerve fibre, however, these are myelinated and therefore transmit impulses faster than non-myelinated C fibres. A-delta fibres carry cold, pressure and some pain signals, and are associated with acute pain that results in \"pulling away\" from noxious stimuli.",
+            "score": 107.12808990478516
+        },
+        {
+            "docid": "1517824_4",
+            "document": "Fred Gage . Gage\u2019s lab showed that, contrary to years of dogma, human beings are capable of growing new nerve cells throughout life. Small populations of immature nerve cells are found in the adult mammalian brain, and Gage is working to understand how these cells can be induced to become mature nerve cells. His team is investigating how such cells can be transplanted back to the brain and spinal cord. They have showed that physical exercise can enhance the growth of new brain cells in the hippocampus, a brain structure that is important for the formation of new memories. Furthermore, his team is examining the underlying molecular mechanisms that are critical to the birth of new brain cells, work that may lead to new therapeutics for neurodegenerative conditions.",
+            "score": 106.89896392822266
+        },
+        {
+            "docid": "12958553_7",
+            "document": "Eimer's organ . Today it is still not understood precisely how these receptors convert touch into the electrical signals that the nerve fibres transmit to the brain. Interesting are the properties of touch, e.g. frequency and force, to which the receptors respond and how their responsiveness changes with prolonged stimulation. The receptors can be functionally distinguished based on these features:",
+            "score": 106.70320892333984
+        },
+        {
+            "docid": "2458955_13",
+            "document": "Colin Blakemore . His contribution to neuroscience is the part he played in establishing the concept of neuronal plasticity, the capacity of the brain to reorganise itself as a result of the pattern of activity passing through its connections. Blakemore was one of the first, in the late 1960s, to demonstrate that the visual part of the cerebral cortex undergoes active, adaptive change during a critical period shortly after birth, and he argued that this helps the brain to match itself to the sensory environment. He went on to show that such plasticity results from changes in the shape and structure of nerve cells and the distribution of nerve fibres, and also from the selective death of nerve cells.",
+            "score": 106.45478820800781
+        },
+        {
+            "docid": "47389235_7",
+            "document": "Narrow-ridged finless porpoise . The anatomy of finless porpoises has been relatively well studied, compared with that of some other cetacean species. The tubercles along the dorsal ridge are known to contain numerous nerve endings is used as a sensory function. The auditory system also appears well-developed, with numerous nerve fibres specialised for rapid communication between the ears and the brain. Sight is relatively poor, however, due to the overall cloudiness of the Yangtze River; they have a reduced lens and a limited number of fibres in the optic nerve and to the muscles moving the eyes compared to the Indo-pacific finless porpoise. It is speculated that their vision is somewhat better than that of the Yangtze river dolphin.",
+            "score": 105.6415786743164
+        },
+        {
+            "docid": "351276_11",
+            "document": "Finless porpoise . The anatomy of finless porpoises has been relatively well studied, compared with that of some other cetacean species. For example, the tubercles along the dorsal ridge are known to contain numerous nerve endings that may possess a sensory function. The auditory system also appears well-developed, with numerous large nerve fibres specialised for rapid communication between the ears and the brain. On the other hand, sight is relatively poor, with a reduced lens and a limited number of fibres in the optic nerve and to the muscles moving the eyes.",
+            "score": 105.02896881103516
+        },
+        {
+            "docid": "23932036_8",
+            "document": "Georg Kreutzberg . Georg Kreutzberg researched as experimental neuropathologist on the cellular mechanisms of brain and nerve disorders, especially on regeneration and repair mechanisms in the brain as well as the role of glia cells in brain diseases. He was regarded as a leader in the investigation of microglia cells - the crucial defense cells of brain tissue. He discovered the blocking effect of colchicine on axonal and dendritic transport in nerve cells. Using the experimental model provided by the facial motor nucleus following axotomy Kreutzberg and his fellow workers discovered essential parameters of the regeneration program of nerve cells. Here, he developed also the activation concept of microglia cells, which revealed new directions for the understanding of many brain diseases.",
+            "score": 104.38143157958984
+        },
+        {
+            "docid": "243329_21",
+            "document": "Accessory nerve . In 1848, Jones Quain described the nerve as the \"spinal nerve accessory to the vagus\", recognizing that while a minor component of the nerve joins with the larger vagus nerve, the majority of accessory nerve fibres originate in the spinal cord. In 1893 it was recognised that the heretofore named nerve fibres \"accessory\" to the vagus originated from the same nucleus in the medulla oblongata, and it came to pass that these fibres were increasingly viewed as part of the vagus nerve itself. Consequently, the term \"accessory nerve\" was and is increasingly used to denote only fibres from the spinal cord; the fact that only the spinal portion could be tested clinically lent weight to this opinion.",
+            "score": 104.02153015136719
+        },
+        {
+            "docid": "1942022_21",
+            "document": "Motion simulator . Proprioceptors are receptors located in muscles, tendons, joints and gut, which send signals to the brain in proportion to accelerations to which the body is subject. An example of a \"popular\" proprioceptor mentioned by aircraft pilots, is the feeling in the \"seat of the pants\". Proprioceptors respond to stimuli generated by muscle movement and muscle tension. Signals generated by exteroceptors and proprioceptors are carried by sensory neurons or nerves and are called electrochemical signals. When a neuron receives such a signal, it sends it on to an adjacent neuron through a bridge called a synapse. A synapse \"sparks\" the impulse between neurons through electrical and chemical means. These sensory signals are processed by the brain in response to signals that travel along motor nerves. Motor neurons, with their special fibres, carry these signals to muscles, which are instructed to either contract or relax.",
+            "score": 103.72013854980469
+        },
+        {
+            "docid": "21435_6",
+            "document": "Nerve . Within the endoneurium, the individual nerve fibres are surrounded by a low-protein liquid called endoneurial fluid. This acts in a similar way to the cerebrospinal fluid in the central nervous system and constitutes a blood-nerve barrier similar to the blood-brain barrier. Molecules are thereby prevented from crossing the blood into the endoneurial fluid. During the development of nerve edema from nerve irritation (or injury), the amount of endoneurial fluid may increase at the site of irritation. This increase in fluid can be visualized using magnetic resonance neurography, and thus MR neurography can identify nerve irritation and/or injury.",
+            "score": 102.84757232666016
+        },
+        {
+            "docid": "36771910_17",
+            "document": "Anatomical terms of neuroanatomy . A \"chiasm\" () is used to describe an X-shaped crossing of nerve fibres between the cerebral hemispheres. The major example in the human brain is the Optic chiasm. The main difference between such a chiasm and a decussation is that not all nerve fibres entering the chiasm cross over.",
+            "score": 102.8171157836914
+        },
+        {
+            "docid": "1813940_2",
+            "document": "Synaptosome . A synaptosome is an isolated synaptic terminal from a neuron. Synaptosomes are obtained by mild homogenization of nervous tissue under isotonic conditions and subsequent fractionation using differential and density gradient centrifugation. Liquid shear detaches the nerve terminals from the axon and the plasma membrane surrounding the nerve terminal particle reseals. Synaptosomes are osmotically sensitive, contain numerous small clear synaptic vesicles, sometimes larger dense-core vesicles and frequently one or more small mitochondria. They carry the morphological features and most of the chemical properties of the original nerve terminal. Synaptosomes isolated from mammalian brain often retain a piece of the attached postsynaptic membrane, facing the active zone.",
+            "score": 102.61460876464844
+        },
+        {
+            "docid": "26830429_5",
+            "document": "Pain in babies . The present understanding of pain in babies is largely due to the recognition that the fetal and newborn unmyelinated nerve fibres are capable of relaying information, albeit slower than would be the case with myelinated fibres. At birth a baby has developed the neural pathways for nociception and for experiencing pain, but the pain responses are an immature version of that of an adult. There are a number of differences in both nerve structure and in the quality and extent of nerve response which are considered to be pertinent to understanding neonatal pain.",
+            "score": 102.41735076904297
+        },
+        {
+            "docid": "234828_5",
+            "document": "Tickling . It appears that the tickle sensation involves signals from nerve fibres associated with both pain and touch. Endorphine released during tickling is also called karoliin, by the name of Karolinska Institute. In 1939, Yngve Zotterman of the Karolinska Institute studied the knismesis type of tickle in cats, by measuring the action potentials generated in the nerve fibres while lightly stroking the skin with a piece of cotton wool. Zotterman found that the \"tickling\" sensation depended, in part, on the nerves that generate pain. Further studies have discovered that when the pain nerves are severed by surgeons, in an effort to reduce intractable pain, the tickle response is also diminished. However, in some patients that have lost pain sensation due to spinal cord injury, some aspects of the tickle response do remain. Tickle may also depend on nerve fibres associated with the sense of touch. When circulation is severed in a limb, the response to touch and tickle are lost prior to the loss of pain sensation.",
+            "score": 102.27662658691406
+        },
+        {
+            "docid": "1110898_22",
+            "document": "Kallmann syndrome . In the first 10 weeks of normal embryonic development the GnRH releasing neurones migrate from their original source in the nasal region and end up inside the hypothalamus. These neurones originate in an area of the developing head, called the olfactory placode, that will give rise to the nose; they then pass through the cribriform plate, along with the fibres of the olfactory nerves, and into the rostral forebrain. From there they migrate to what will become the hypothalamus. Any problems with the development of the olfactory nerve fibres will prevent the progression of the GnRH releasing neurones towards the brain.",
+            "score": 101.75994873046875
+        },
+        {
+            "docid": "32819131_11",
+            "document": "Cancer pain . Nociceptors are nerve fibers that detect stimuli that could potentially cause damage to the body such as extreme heat, pressure, or contact with caustic chemicals. When the nociceptors detect a stimulus, the pain pathway is initiated. The pain pathway is composed of four parts: transduction, transmission, perception, and modulation. Transduction is when the thermal, mechanical, or chemical energy from the pain-causing stimuli is converted into electrical energy so it can be transmitted through the nervous system. Transmission occurs when the energy has been converted and the nerve impulses travel along the nerve fibers into the spinal cord and to the brain. The target structure is the thalamus, which acts as a control panel and forwards the information to the appropriate section(s) of the brain. When the information reaches the brain, perception occurs. This is the point in the pain pathway that the person becomes aware of pain. Based on the information in the nerve impulses, the brain is able to identify the location and intensity of the pain and what kind of reaction it warrants. When the brain reacts this is known as modulation. The muscles contract to withdraw from the source of pain and the brain releases inhibitory chemicals to decrease the transmission and provide analgesic relief.",
+            "score": 101.43363952636719
+        },
+        {
+            "docid": "2168353_2",
+            "document": "Adrenergic nerve fibre . An adrenergic nerve fibre is a neuron for which the neurotransmitter is either adrenaline (epinephrine), noradrenaline or dopamine. These neurotransmitters are released at a location known as the synapse, which is a junction point between the axon of one nerve cell and the dendrite of another. The neurotransmitters are first released from the axon and then bind to the receptor site on the dendrite. Adrenergic nerve terminals are found in the secondary neurons of the sympathetic nervous system, one of two deviations of the autonomic nervous system which is responsible for your fight-or-flight response. This system increases heart rate, slows digestion, dilates pupils, and also controls the secretion of apocrine sweat glands in the dermal layer of skin, in addition to other responses.",
+            "score": 101.07112121582031
+        },
+        {
+            "docid": "21937_17",
+            "document": "Nitrogen narcosis . An early theory, the Meyer-Overton hypothesis, suggested that narcosis happens when the gas penetrates the lipids of the brain's nerve cells, causing direct mechanical interference with the transmission of signals from one nerve cell to another. More recently, specific types of chemically gated receptors in nerve cells have been identified as being involved with anesthesia and narcosis. However, the basic and most general underlying idea, that nerve transmission is altered in many diffuse areas of the brain as a result of gas molecules dissolved in the nerve cells' fatty membranes, remains largely unchallenged.",
+            "score": 101.05916595458984
+        },
+        {
+            "docid": "599264_13",
+            "document": "Pyramidal tracts . The nerves within the \"corticospinal tract\" are involved in movement of muscles of the body. Because of the crossing-over of fibres, muscles are supplied by the side of the brain opposite to that of the muscle. The nerves within the \"corticobulbar\" tract are involved in movement in muscles of the head. They are involved in swallowing, phonation, and movements of the tongue. By virtue of involvement with the facial nerve, the corticobulbar tract is also responsible for transmitting facial expression. With the exception of lower muscles of facial expression, all functions of the corticobulbar tract involve inputs from both sides of the brain.",
+            "score": 101.00873565673828
+        },
+        {
+            "docid": "6621_21",
+            "document": "Cnidaria . Cnidarians are generally thought to have no brains or even central nervous systems. However, they do have integrative areas of neural tissue that could be considered some form of centralization. Most of their bodies are innervated by decentralized nerve nets that control their swimming musculature and connect with sensory structures, though each clade has slightly different structures. These sensory structures, usually called rhopalia, can generate signals in response to various types of stimuli such as light, pressure, and much more. Medusa usually have several of them around the margin of the bell that work together to control the motor nerve net, that directly innervates the swimming muscles. Most Cnidarians also have a parallel system. In scyphozoans, this takes the form of a diffuse nerve net, which has modulatory effects on the nervous system. As well as forming the \"signal cables\" between sensory neurons and motoneurons, intermediate neurons in the nerve net can also form ganglia that act as local coordination centers. Communication between nerve cells can occur by chemical synapses or gap junctions in hydrozoans, though gap junctions are not present in all groups. Cnidarians have many of the same neurotransmitters as many animals, including chemicals such as glutamate, GABA, and acetylcholine.",
+            "score": 100.52140808105469
+        }
+    ]
+}

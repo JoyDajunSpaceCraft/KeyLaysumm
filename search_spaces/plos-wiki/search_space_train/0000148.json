@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "14029_4",
+            "document": "Histone . The core histones all exist as dimers, which are similar in that they all possess the histone fold domain: three alpha helices linked by two loops. It is this helical structure that allows for interaction between distinct dimers, particularly in a head-tail fashion (also called the handshake motif). The resulting four distinct dimers then come together to form one octameric nucleosome core, approximately 63 Angstroms in diameter (a solenoid (DNA)-like particle). Around 146 base pairs (bp) of DNA wrap around this core particle 1.65 times in a left-handed super-helical turn to give a particle of around 100 Angstroms across. The linker histone H1 binds the nucleosome at the entry and exit sites of the DNA, thus locking the DNA into place and allowing the formation of higher order structure. The most basic such formation is the 10\u00a0nm fiber or beads on a string conformation. This involves the wrapping of DNA around nucleosomes with approximately 50 base pairs of DNA separating each pair of nucleosomes (also referred to as linker DNA). Higher-order structures include the 30\u00a0nm fiber (forming an irregular zigzag) and 100\u00a0nm fiber, these being the structures found in normal cells. During mitosis and meiosis, the condensed chromosomes are assembled through interactions between nucleosomes and other regulatory proteins.",
+            "score": 119.36977291107178
+        },
+        {
+            "docid": "21843_3",
+            "document": "Nucleosome . Nucleosomes form the fundamental repeating units of eukaryotic chromatin, which is used to pack the large eukaryotic genomes into the nucleus while still ensuring appropriate access to it (in mammalian cells approximately 2 m of linear DNA have to be packed into a nucleus of roughly 10\u00a0\u00b5m diameter). Nucleosomes are folded through a series of successively higher order structures to eventually form a chromosome; this both compacts DNA and creates an added layer of regulatory control, which ensures correct gene expression. Nucleosomes are thought to carry epigenetically inherited information in the form of covalent modifications of their core histones. Nucleosomes were observed as particles in the electron microscope by Don and Ada Olins in 1974, and their existence and structure (as histone octamers surrounded by approximately 200 base pairs of DNA) were proposed by Roger Kornberg. The role of the nucleosome as a general gene repressor was demonstrated by Lorch et al. in vitro, and by Han and Grunstein in vivo in 1987 and 1988, respectively. The nucleosome core particle consists of approximately 146 base pairs (bp) of DNA wrapped in 1.67 left-handed superhelical turns around a histone octamer consisting of 2 copies each of the core histones H2A, H2B, H3, and H4. Core particles are connected by stretches of \"linker DNA\", which can be up to about 80 bp long. Technically, a nucleosome is defined as the core particle plus one of these linker regions; however the word is often synonymous with the core particle. Genome-wide nucleosome positioning maps are now available for many model organisms including mouse liver and brain.",
+            "score": 151.6114240884781
+        },
+        {
+            "docid": "21843_7",
+            "document": "Nucleosome . The nucleosome core particle (shown in the figure) consists of about 146 bp of DNA wrapped in 1.67 left-handed superhelical turns around the histone octamer, consisting of 2 copies each of the core histones H2A, H2B, H3, and H4. Adjacent nucleosomes are joined by a stretch of free DNA termed \"linker DNA\" (which varies from 10 - 80 bp in length depending on species and tissue type).",
+            "score": 132.10471868515015
+        },
+        {
+            "docid": "553741_7",
+            "document": "Histone octamer . The nucleosome core particle is the most basic form of DNA compaction in eukaryotes. Nucleosomes consist of a histone octamer surrounded by 147 base pairs of DNA wrapped in a superhelical manner. In addition to compacting the DNA, the histone octamer plays a key role in the transcription of the DNA surrounding it. The histone octamer interacts with the DNA through both its core histone folds and N-terminal tails. The histone fold interacts chemically and physically with the DNA\u2019s minor groove. Studies have found that the histones interact more favorably with A:T enriched regions than G:C enriched regions in the minor grooves. The N-terminal tails do not interact with a specific region of DNA but rather stabilize and guide the DNA wrapped around the octamer. The interactions between the histone octamer and DNA, however, are not permanent. The two can be separated quite easily and often are during replication and transcription. Specific remodeling proteins are constantly altering the chromatin structure by breaking the bonds between the DNA and nucleosome.",
+            "score": 132.36938738822937
+        },
+        {
+            "docid": "31474_21",
+            "document": "Transcription factor . In eukaryotes, DNA is organized with the help of histones into compact particles called nucleosomes, where sequences of about 147 DNA base pairs make ~1.65 turns around histone protein octamers. DNA within nucleosomes is inaccessible to many transcription factors. Some transcription factors, so-called pioneering factors are still able to bind their DNA binding sites on the nucleosomal DNA. For most other transcription factors, the nucleosome should be actively unwound by molecular motors such as chromatin remodelers. Alternatively, the nucleosome can be partially unwrapped by thermal fluctuations, allowing temporary access to the transcription factor binding site. In many cases, a transcription factor needs to compete for binding to its DNA binding site with other transcription factors and histones or non-histone chromatin proteins. Pairs of transcription factors and other proteins can play antagonistic roles (activator versus repressor) in the regulation of the same gene.",
+            "score": 160.8835370540619
+        },
+        {
+            "docid": "553612_34",
+            "document": "Histone acetyltransferase . Histone acetyltransferases serve many biological roles inside the cell. Chromatin is a combination of proteins and DNA found in the nucleus, and it undergoes many structural changes as different cellular events such as DNA replication, DNA repair, and transcription occur. Chromatin in the cell can be found in two states: condensed and uncondensed. The latter, known as euchromatin, is transcriptionally active, whereas the former, known as heterochromatin, is transcriptionally inactive. Histones comprise the protein portion of chromatin. There are five different histone proteins: H1, H2A, H2B, H3, and H4. A core histone is formed when two of each histone subtype, excluding H1, form a quaternary complex. This octameric complex, in association with the 147 base pairs of DNA coiled around it, forms the nucleosome. Histone H1 locks the nucleosome complex together, and it is the last protein to bind in the complex.",
+            "score": 123.8474760055542
+        },
+        {
+            "docid": "39533297_3",
+            "document": "H3F3B (gene) . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures.",
+            "score": 131.8250641822815
+        },
+        {
+            "docid": "46978792_3",
+            "document": "Nucleosome Repeat Length . In chromatin neighboring nucleosomes are separated by the linker DNA and in many cases also by the linker histone H1 as well as non-histone proteins. Since the size of the nucleosome is typically fixed (146-147 base pairs), NRL is mostly determined by the size of the linker region between nucleosomes. Alternatively, partial DNA unwrapping from the histone octamer or partial disassembly of the histone octamer can decrease the effective nucleosome size and thus affect NRL.",
+            "score": 137.64379954338074
+        },
+        {
+            "docid": "57438369_3",
+            "document": "Histone cluster 2 h3 family member d . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a replication-dependent histone that is a member of the histone H3 family. [provided by RefSeq, Aug 2015].",
+            "score": 129.4441442489624
+        },
+        {
+            "docid": "14761587_3",
+            "document": "HIST2H2AA3 . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a member of the histone H2A family. Transcripts from this gene lack polyA tails but instead contain a palindromic termination element. This gene is found in a histone cluster on chromosome 1. This gene is one of four histone genes in the cluster that are duplicated; this record represents the centromeric copy.",
+            "score": 128.4729642868042
+        },
+        {
+            "docid": "17704946_11",
+            "document": "Epigenomics . In eukaryotes, genomic DNA is coiled into protein-DNA complexes called chromatin. Histones, which are the most prevalent type of protein found in chromatin, function to condense the DNA; the net positive charge on histones facilitates their bonding with DNA, which is negatively charged. The basic and repeating units of chromatin, nucleosomes, consist of an octamer of histone proteins (H2A, H2B, H3 and H4) and a 146 bp length of DNA wrapped around it. Nucleosomes and the DNA connecting form a 10\u00a0nm diameter chromatin fiber, which can be further condensed.",
+            "score": 141.83362460136414
+        },
+        {
+            "docid": "35049648_3",
+            "document": "H2BFWT . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene encodes a member of the H2B histone family that is specifically expressed in sperm nuclei. A polymorphism in the 5' UTR of this gene is associated with male infertility.[provided by RefSeq, Jan 2010].",
+            "score": 129.9723789691925
+        },
+        {
+            "docid": "35049694_3",
+            "document": "HIST1H4J . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a member of the histone H4 family. Transcripts from this gene lack polyA tails but instead contain a palindromic termination element. This gene is found in the small histone gene cluster on chromosome 6p22-p21.3. [provided by RefSeq, Jul 2008].",
+            "score": 129.1235544681549
+        },
+        {
+            "docid": "14754990_3",
+            "document": "HIST2H3C . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. This structure consists of approximately 146 bp of DNA wrapped around a nucleosome, an octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. This gene is intronless and encodes a member of the histone H3 family. Transcripts from this gene lack polyA tails; instead, they contain a palindromic termination element. This gene is found in a histone cluster on chromosome 1. This gene is one of four histone genes in the cluster that are duplicated; this record represents the telomeric copy.",
+            "score": 128.60811519622803
+        },
+        {
+            "docid": "15226281_3",
+            "document": "HIST1H4C . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a member of the histone H4 family. Transcripts from this gene lack polyA tails but instead contain a palindromic termination element. This gene is found in the large histone gene cluster on chromosome 6.",
+            "score": 129.0688738822937
+        },
+        {
+            "docid": "16858573_3",
+            "document": "HIST1H4L . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a member of the histone H4 family. Transcripts from this gene lack polyA tails but instead contain a palindromic termination element. This gene is found in the small histone gene cluster on chromosome 6p22-p21.3.",
+            "score": 129.0688738822937
+        },
+        {
+            "docid": "52156116_5",
+            "document": "H3K27me3 . The genomic DNA of eukaryotic cells is wrapped around special protein molecules known as Histones. The complexes formed by the looping of the DNA are known as Chromatin. The basic structural unit of chromatin is the Nucleosome: this consists of the core octamer of histones (H2A, H2B, H3 and H4) as well as a linker histone and about 180 base pairs of DNA. These core histones are rich in lysine and arginine residues. The carboxyl (C) terminal end of these histones contribute to histone-histone interactions, as well as histone-DNA interactions. The amino (N) terminal charged tails are the site of the post-translational modifications, such as the one seen in H3K27me3.",
+            "score": 126.59447264671326
+        },
+        {
+            "docid": "553741_10",
+            "document": "Histone octamer . As mentioned above the histone tails have been shown to directly interact with the DNA of the nucleosome. Each histone in the octamer has an N-terminal tail that protrudes from the histone core. The tails play roles both in inter and intra nucleosomal interactions that ultimately influence gene access. Histones are positively charged molecules which allow a tighter bonding to the negatively charged DNA molecule. Reducing the positive charge of histone proteins reduces the strength of binding between the histone and DNA, making it more open to gene transcription (expression). Moreover, these flexible units direct DNA wrapping in a left-handed manner around the histone octamer during nucleosome formation. Once the DNA is bound the tails continue to interact with the DNA. The parts of the tail closest to the DNA hydrogen bond and strengthen the DNA\u2019s association with the octamer; the parts of the tail furthest away from the DNA, however, work in a very different manner. Cellular enzymes modify the amino acids in the distal sections of the tail to influence the accessibility of the DNA. The tails have also been implicated in the stabilization of 30-nm fibers. Research has shown removing certain tails prevents the nucleosomes from forming properly and a general failure to produce chromatin fiber. In all, these associations protect the nucleosomal DNA from the external environment but also lower their accessibility to cellular replication and transcriptional machinery.",
+            "score": 129.7655085325241
+        },
+        {
+            "docid": "14762717_3",
+            "document": "H2AFY . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Nucleosomes consist of approximately 146 bp of DNA wrapped around a histone octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. This gene encodes a member of the histone H2A family. It replaces conventional H2A histones in a subset of nucleosomes where it represses transcription and participates in stable X chromosome inactivation. Alternative splicing results in multiple transcript variants encoding different isoforms. Expression of these isoforms is associated to several cancers, such as hepatocellular carcinoma.",
+            "score": 123.8665132522583
+        },
+        {
+            "docid": "27069285_3",
+            "document": "H2AFB2 . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Nucleosomes consist of approximately 146 bp of DNA wrapped around a histone octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. This gene encodes a member of the histone H2A family. This gene is part of a region that is repeated three times on chromosome X, once in intron 22 of the F8 gene and twice closer to the Xq telomere. This record represents the middle copy.",
+            "score": 125.71415066719055
+        },
+        {
+            "docid": "27069034_3",
+            "document": "H2AFB1 . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Nucleosomes consist of approximately 146 bp of DNA wrapped around a histone octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. This gene encodes a member of the histone H2A family. This gene is part of a region that is repeated three times on chromosome X, once in intron 22 of the F8 gene and twice closer to the Xq telomere. This record represents the most centromeric copy which is in intron 22 of the F8 gene.",
+            "score": 124.82635498046875
+        },
+        {
+            "docid": "21843_17",
+            "document": "Nucleosome . Work from the Widom laboratory has shown that nucleosomal DNA is in equilibrium between a wrapped and unwrapped state. Measurements of these rates using time-resolved FRET revealed that DNA within the nucleosome remains fully wrapped for only 250 ms before it is unwrapped for 10-50 ms and then rapidly rewrapped. This implies that DNA does not need to be actively dissociated from the nucleosome but that there is a significant fraction of time during which it is fully accessible. Indeed, this can be extended to the observation that introducing a DNA-binding sequence within the nucleosome increases the accessibility of adjacent regions of DNA when bound. This propensity for DNA within the nucleosome to \u201cbreathe\u201d is has important functional consequences for all DNA-binding proteins that operate in a chromatin environment. In particular, the dynamic breathing of nucleosomes plays an important role in restricting the advancement of RNA polymerase II during transcription elongation.",
+            "score": 162.34124088287354
+        },
+        {
+            "docid": "24764496_3",
+            "document": "H1FOO . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Nucleosomes consist of approximately 146 bp of DNA wrapped around a histone octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. The protein encoded is a member of the histone H1 family. This gene contains introns, unlike most histone genes. The protein encoded is a member of the histone H1 family. The related mouse gene is expressed only in oocytes.",
+            "score": 127.17032742500305
+        },
+        {
+            "docid": "35049590_3",
+            "document": "H2AFB3 . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Nucleosomes consist of approximately 146 bp of DNA wrapped around a histone octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. This gene encodes a member of the histone H2A family. This gene is part of a region that is repeated three times on chromosome X, once in intron 22 of the F8 gene and twice closer to the Xq telomere. This record represents the most telomeric copy. [provided by RefSeq, Jul 2008].",
+            "score": 124.32666373252869
+        },
+        {
+            "docid": "10144966_6",
+            "document": "Solenoid (DNA) . Histone H1 protein binds to the site where DNA enters and exits the nucleosome, wrapping 147 base pairs around the histone core and stabilising the nucleosome, this structure is a chromatosome. In the solenoid structure, the nucleosomes fold up and are stacked, forming a helix. They are connected by bent linker DNA which positions sequential nucleosomes adjacent to one another in the helix. The nucleosomes are positioned with the histone H1 proteins facing toward the centre where they form a polymer. Finch and Klug determined that the helical structure had only one-start point because they mostly observed small pitch angles of 11\u00a0nm, which is about the same diameter as a nucleosome. There are approximately 6 nucleosomes in each turn of the helix. Finch and Klug actually observed a wide range of nucleosomes per turn but they put this down to flattening.",
+            "score": 109.91753005981445
+        },
+        {
+            "docid": "553659_2",
+            "document": "Chromatosome . A chromatosome is a result of histone H1 binding to a nucleosome, which contains a histone octamer and DNA. The chromatosome contains 166 base pairs of DNA. 146 base pairs are from the DNA wrapped around the histone core of the nucleosome. The remaining 20 base pairs are from the DNA of histone H1 binding to the nucleosome. Histone H1, and its other variants, are referred to as linker histones. Protruding from the linker histone, are linker DNA. Chromatosomes are connected to each other when the linker DNA, of one chromatosome, binds to the linker histone of another chromatosome. Human genes are made up of thousands to millions of base pairs. A lot of chromatosomes are required to make up a single gene, and even more to make up the entire genome.",
+            "score": 116.25612902641296
+        },
+        {
+            "docid": "1822649_7",
+            "document": "DNA fragmentation . Apoptotic DNA fragmentation is a natural fragmentation that cells perform in apoptosis (programmed cell death). DNA fragmentation is a biochemical hallmark of apoptosis. In dying cells, DNA is cleaved by an endonuclease that fragments the chromatin into nucleosomal units, which are multiples of about 180-bp oligomers and appear as a DNA ladder when run on an agarose gel. The enzyme responsible for apoptotic DNA fragmentation is the Caspase-activated DNase. CAD is normally inhibited by another protein, the Inhibitor of Caspase Activated DNase (ICAD). During apoptosis, the apoptotic effector caspase, caspase 3, cleaves ICAD and thus causes CAD to become activated. CAD cleaves the DNA at the internucleosomal linker sites between the nucleosomes, protein-containing structures that occur in chromatin at ~180-bp intervals. This is because the DNA is normally tightly wrapped around histones, the core proteins of the nucleosomes. The linker sites are the only parts of the DNA strand that are exposed and thus accessible to CAD.",
+            "score": 127.76229095458984
+        },
+        {
+            "docid": "4421042_3",
+            "document": "Histone H2A . Histones are proteins that package DNA into nucleosomes. Histones are responsible for maintaining the shape and structure of a nucleosome. One chromatin molecule is composed of at least one of each core histones per 100 base pairs of DNA. There are five families of histones known to date; these histones are termed H1/H5, H2A, H2B, H3, and H4. H2A is considered a core histone, along with H2B, H3 and H4. Core formation first occurs through the interaction of two H2A molecules. Then, H2A forms a dimer with H2B; the core molecule is complete when H3-H4 also attaches to form a tetramer.",
+            "score": 97.77789211273193
+        },
+        {
+            "docid": "10144966_5",
+            "document": "Solenoid (DNA) . DNA in the nucleus is wrapped around nucleosomes, which are histone octamers formed of core histone proteins; two histone H2A-H2B dimers, two histone H3 proteins, and two histone H4 proteins. The primary chromatin structure, the least packed form, is the 11\u00a0nm, or \u201cbeads on a string\u201d form, where DNA is wrapped around nucleosomes at relatively regular intervals, as Roger Kornberg proposed.",
+            "score": 122.69490313529968
+        },
+        {
+            "docid": "4421044_4",
+            "document": "Histone H2B . Two copies of histone H2B come together with two copies each of histone H2A, histone H3, and histone H4 to form the octamer core of the nucleosome to give structure to DNA. To facilitate this formation, histone H2B first binds to histone H2A to form a heterodimer. Two of these heterodimers then bind together with a heterotetramer made of histone H3 and histone H4, giving the nucleosome its characteristic disk shape. DNA is then wrapped around the entire nucleosome in groups of approximately 160 base pairs of DNA. The wrapping continues until all chromatin has been packaged with the nucleosomes.",
+            "score": 113.22203063964844
+        },
+        {
+            "docid": "26419872_8",
+            "document": "Chromatin immunoprecipitation . Native ChIP is mainly suited for mapping the DNA target of histone modifiers. Generally, native chromatin is used as starting chromatin. As histones wrap around DNA to form nucleosomes, they are naturally linked. Then the chromatin is sheared by micrococcal nuclease digestion, which cuts DNA at the length of the linker, leaving nucleosomes intact and providing DNA fragments of one nucleosome (200bp) to five nucleosomes (1000bp) in length.",
+            "score": 111.49294209480286
+        },
+        {
+            "docid": "46685051_5",
+            "document": "Epigenetics of neurodegenerative diseases . The term epigenetics refers to three levels of gene regulation: (1) DNA methylation, (2) histone modifications, and (3) non-coding RNA (ncRNA) function. Briefly, histone-mediated transcriptional control occurs by the wrapping of DNA around a histone core. This DNA-histone structure is called a nucleosome; the more tightly the DNA is bound by the nucleosome, and the more tightly a string of nucleosomes are compressed among each other, the greater the repressive effect on transcription of genes in the DNA sequences near or wrapped around the histones, and vice versa (i.e. looser DNA binding and relaxed compaction leads to a comparatively derepressed state, resulting in facultative heterochromatin or, even further derepressed, euchromatin). At its most repressive state, involving many folds into itself and other scaffolding proteins, DNA-histone structures form constitutive heterochromatin. This chromatin structure is mediated by these three levels of gene regulation. The most relevant epigenetic modifications to treatment of neurodegenerative diseases are DNA methylation and histone protein modifications via methylation or acetylation.",
+            "score": 124.16521453857422
+        }
+    ],
+    "r": [
+        {
+            "docid": "21843_17",
+            "document": "Nucleosome . Work from the Widom laboratory has shown that nucleosomal DNA is in equilibrium between a wrapped and unwrapped state. Measurements of these rates using time-resolved FRET revealed that DNA within the nucleosome remains fully wrapped for only 250 ms before it is unwrapped for 10-50 ms and then rapidly rewrapped. This implies that DNA does not need to be actively dissociated from the nucleosome but that there is a significant fraction of time during which it is fully accessible. Indeed, this can be extended to the observation that introducing a DNA-binding sequence within the nucleosome increases the accessibility of adjacent regions of DNA when bound. This propensity for DNA within the nucleosome to \u201cbreathe\u201d is has important functional consequences for all DNA-binding proteins that operate in a chromatin environment. In particular, the dynamic breathing of nucleosomes plays an important role in restricting the advancement of RNA polymerase II during transcription elongation.",
+            "score": 162.3412322998047
+        },
+        {
+            "docid": "31474_21",
+            "document": "Transcription factor . In eukaryotes, DNA is organized with the help of histones into compact particles called nucleosomes, where sequences of about 147 DNA base pairs make ~1.65 turns around histone protein octamers. DNA within nucleosomes is inaccessible to many transcription factors. Some transcription factors, so-called pioneering factors are still able to bind their DNA binding sites on the nucleosomal DNA. For most other transcription factors, the nucleosome should be actively unwound by molecular motors such as chromatin remodelers. Alternatively, the nucleosome can be partially unwrapped by thermal fluctuations, allowing temporary access to the transcription factor binding site. In many cases, a transcription factor needs to compete for binding to its DNA binding site with other transcription factors and histones or non-histone chromatin proteins. Pairs of transcription factors and other proteins can play antagonistic roles (activator versus repressor) in the regulation of the same gene.",
+            "score": 160.883544921875
+        },
+        {
+            "docid": "21843_3",
+            "document": "Nucleosome . Nucleosomes form the fundamental repeating units of eukaryotic chromatin, which is used to pack the large eukaryotic genomes into the nucleus while still ensuring appropriate access to it (in mammalian cells approximately 2 m of linear DNA have to be packed into a nucleus of roughly 10\u00a0\u00b5m diameter). Nucleosomes are folded through a series of successively higher order structures to eventually form a chromosome; this both compacts DNA and creates an added layer of regulatory control, which ensures correct gene expression. Nucleosomes are thought to carry epigenetically inherited information in the form of covalent modifications of their core histones. Nucleosomes were observed as particles in the electron microscope by Don and Ada Olins in 1974, and their existence and structure (as histone octamers surrounded by approximately 200 base pairs of DNA) were proposed by Roger Kornberg. The role of the nucleosome as a general gene repressor was demonstrated by Lorch et al. in vitro, and by Han and Grunstein in vivo in 1987 and 1988, respectively. The nucleosome core particle consists of approximately 146 base pairs (bp) of DNA wrapped in 1.67 left-handed superhelical turns around a histone octamer consisting of 2 copies each of the core histones H2A, H2B, H3, and H4. Core particles are connected by stretches of \"linker DNA\", which can be up to about 80 bp long. Technically, a nucleosome is defined as the core particle plus one of these linker regions; however the word is often synonymous with the core particle. Genome-wide nucleosome positioning maps are now available for many model organisms including mouse liver and brain.",
+            "score": 151.61141967773438
+        },
+        {
+            "docid": "17704946_11",
+            "document": "Epigenomics . In eukaryotes, genomic DNA is coiled into protein-DNA complexes called chromatin. Histones, which are the most prevalent type of protein found in chromatin, function to condense the DNA; the net positive charge on histones facilitates their bonding with DNA, which is negatively charged. The basic and repeating units of chromatin, nucleosomes, consist of an octamer of histone proteins (H2A, H2B, H3 and H4) and a 146 bp length of DNA wrapped around it. Nucleosomes and the DNA connecting form a 10\u00a0nm diameter chromatin fiber, which can be further condensed.",
+            "score": 141.83363342285156
+        },
+        {
+            "docid": "7284095_7",
+            "document": "Roger D. Kornberg . Kornberg and his research group have made several fundamental discoveries concerning the mechanisms and regulation of eukaryotic transcription. While a graduate student working with Harden McConnell at Stanford in the late 1960s, he discovered the \"flip-flop\" and lateral diffusion of phospholipids in bilayer membranes. While a postdoctoral fellow working with Aaron Klug and Francis Crick at the MRC in the 1970s, Kornberg discovered the nucleosome as the basic protein complex packaging chromosomal DNA in the nucleus of eukaryotic cells (chromosomal DNA is often termed \"Chromatin\" when it is bound to proteins in this manner, reflecting Walther Flemming's discovery that certain structures within the cell nucleus would absorb dyes and become visible under a microscope). Within the nucleosome, Kornberg found that roughly 200 bp of DNA are wrapped around an octamer of histone proteins. With Yahli Lorch, Kornberg showed that a nucleosome on a promoter prevents the initiation of transcription, leading to the recognition of a functional role for the nucleosome, which serves as a general gene repressor.",
+            "score": 139.9960174560547
+        },
+        {
+            "docid": "46978792_3",
+            "document": "Nucleosome Repeat Length . In chromatin neighboring nucleosomes are separated by the linker DNA and in many cases also by the linker histone H1 as well as non-histone proteins. Since the size of the nucleosome is typically fixed (146-147 base pairs), NRL is mostly determined by the size of the linker region between nucleosomes. Alternatively, partial DNA unwrapping from the histone octamer or partial disassembly of the histone octamer can decrease the effective nucleosome size and thus affect NRL.",
+            "score": 137.643798828125
+        },
+        {
+            "docid": "4250553_21",
+            "document": "Gene . The majority of eukaryotic genes are stored on a set of large, linear chromosomes. The chromosomes are packed within the nucleus in complex with storage proteins called histones to form a unit called a nucleosome. DNA packaged and condensed in this way is called chromatin. The manner in which DNA is stored on the histones, as well as chemical modifications of the histone itself, regulate whether a particular region of DNA is accessible for gene expression. In addition to genes, eukaryotic chromosomes contain sequences involved in ensuring that the DNA is copied without degradation of end regions and sorted into daughter cells during cell division: replication origins, telomeres and the centromere. Replication origins are the sequence regions where DNA replication is initiated to make two copies of the chromosome. Telomeres are long stretches of repetitive sequence that cap the ends of the linear chromosomes and prevent degradation of coding and regulatory regions during DNA replication. The length of the telomeres decreases each time the genome is replicated and has been implicated in the aging process. The centromere is required for binding spindle fibres to separate sister chromatids into daughter cells during cell division.",
+            "score": 136.4134063720703
+        },
+        {
+            "docid": "12197312_3",
+            "document": "Chromatin remodeling . The transcriptional regulation of the genome is controlled primarily at the preinitiation stage by binding of the core transcriptional machinery proteins (namely, RNA polymerase, transcription factors, and activators and repressors) to the core promoter sequence on the coding region of the DNA. However, DNA is tightly packaged in the nucleus with the help of packaging proteins, chiefly histone proteins to form repeating units of nucleosomes which further bundle together to form condensed chromatin structure. Such condensed structure occludes many DNA regulatory regions, not allowing them to interact with transcriptional machinery proteins and regulate gene expression. To overcome this issue and allow dynamic access to condensed DNA, a process known as chromatin remodeling alters nucleosome architecture to expose or hide regions of DNA for transcriptional regulation.",
+            "score": 135.974853515625
+        },
+        {
+            "docid": "21843_11",
+            "document": "Nucleosome . The nucleosome contains over 120 direct protein-DNA interactions and several hundred water-mediated ones. Direct protein - DNA interactions are not spread evenly about the octamer surface but rather located at discrete sites. These are due to the formation of two types of DNA binding sites within the octamer; the \u03b11\u03b11 site, which uses the \u03b11 helix from two adjacent histones, and the L1L2 site formed by the L1 and L2 loops. Salt links and hydrogen bonding between both side-chain basic and hydroxyl groups and main-chain amides with the DNA backbone phosphates form the bulk of interactions with the DNA. This is important, given that the ubiquitous distribution of nucleosomes along genomes requires it to be a non-sequence-specific DNA-binding factor. Although nucleosomes tend to prefer some DNA sequences over others, they are capable of binding practically to any sequence, which is thought to be due to the flexibility in the formation of these water-mediated interactions. In addition, non-polar interactions are made between protein side-chains and the deoxyribose groups, and an arginine side-chain intercalates into the DNA minor groove at all 14 sites where it faces the octamer surface. The distribution and strength of DNA-binding sites about the octamer surface distorts the DNA within the nucleosome core. The DNA is non-uniformly bent and also contains twist defects. The twist of free B-form DNA in solution is 10.5 bp per turn. However, the overall twist of nucleosomal DNA is only 10.2 bp per turn, varying from a value of 9.4 to 10.9 bp per turn.",
+            "score": 135.82725524902344
+        },
+        {
+            "docid": "553741_7",
+            "document": "Histone octamer . The nucleosome core particle is the most basic form of DNA compaction in eukaryotes. Nucleosomes consist of a histone octamer surrounded by 147 base pairs of DNA wrapped in a superhelical manner. In addition to compacting the DNA, the histone octamer plays a key role in the transcription of the DNA surrounding it. The histone octamer interacts with the DNA through both its core histone folds and N-terminal tails. The histone fold interacts chemically and physically with the DNA\u2019s minor groove. Studies have found that the histones interact more favorably with A:T enriched regions than G:C enriched regions in the minor grooves. The N-terminal tails do not interact with a specific region of DNA but rather stabilize and guide the DNA wrapped around the octamer. The interactions between the histone octamer and DNA, however, are not permanent. The two can be separated quite easily and often are during replication and transcription. Specific remodeling proteins are constantly altering the chromatin structure by breaking the bonds between the DNA and nucleosome.",
+            "score": 132.369384765625
+        },
+        {
+            "docid": "21843_7",
+            "document": "Nucleosome . The nucleosome core particle (shown in the figure) consists of about 146 bp of DNA wrapped in 1.67 left-handed superhelical turns around the histone octamer, consisting of 2 copies each of the core histones H2A, H2B, H3, and H4. Adjacent nucleosomes are joined by a stretch of free DNA termed \"linker DNA\" (which varies from 10 - 80 bp in length depending on species and tissue type).",
+            "score": 132.10472106933594
+        },
+        {
+            "docid": "39533297_3",
+            "document": "H3F3B (gene) . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures.",
+            "score": 131.8250732421875
+        },
+        {
+            "docid": "41118075_8",
+            "document": "Deficiency of RbAp48 protein and memory loss . In eukaryotic cells, DNA is wrapped around an octamer of histone proteins to form nucleosomes, which fold into higher-order chromatin structures. The nucleosome comprises two copies of histone H3 and histone H4. These nucleosomes form a heterotetramer and bind to DNA in the first step of nucleosome assembly. When DNA is replicated, nucleosomes need to be disassembled in front of the fork and the histones must then be transferred to the newly duplicated strands for reassembly. Studies of the in- vivo composition of histone H3 complexes, as well as the structural of the ASF1-H3-H4 complex, have shown that histone H3-H4 complexes are handled as a protein dimer.",
+            "score": 131.54867553710938
+        },
+        {
+            "docid": "28268694_7",
+            "document": "DNA condensation . Eukaryotic DNA with a typical length of dozens of centimeters should be orderly packed to be readily accessible inside the micrometer-size nucleus. In unicellular eukaryotes known as dinoflagellates, it is possible to distinguish liquid-crystalline chromosomal ordering, that they do not contain easily detectable histones, until recently it was thought that they were completely absent and that dinoflagellates were mesokaryotic though this is no longer the case and they are now classified as alveolates. In other eukaryotes, DNA is arranged in the cell nucleus with the help of histones. In this case, the basic level of DNA compaction is the nucleosome, where the double helix is wrapped around the histone octamer containing two copies of each histone H2A, H2B, H3 and H4. Linker histone H1 binds the DNA between nucleosomes and facilitates packaging of the 10\u00a0nm \"beads on the string\" nucleosomal chain into a more condensed 30\u00a0nm fiber. Most of the time, between cell divisions, chromatin is optimized to allow easy access of transcription factors to active genes, which are characterized by a less compact structure called euchromatin, and to alleviate protein access in more tightly packed regions called heterochromatin. During the cell division, chromatin compaction increases even more to form chromosomes, which can cope with large mechanical forces dragging them into each of the two daughter cells.",
+            "score": 130.8785858154297
+        },
+        {
+            "docid": "35746225_8",
+            "document": "Cancer epigenetics . Eukaryotic DNA has a complex structure. It is generally wrapped around special proteins called histones to form a structure called a nucleosome. A nucleosome consists of 2 sets of 4 histones: H2A, H2B, H3, and H4. Additionally, histone H1 contributes to DNA packaging outside of the nucleosome. Certain histone modifying enzymes can add or remove functional groups to the histones, and these modifications influence the level of transcription of the genes wrapped around those histones and the level of DNA replication. Histone modification profiles of healthy and cancerous cells tend to differ.",
+            "score": 130.54612731933594
+        },
+        {
+            "docid": "35049648_3",
+            "document": "H2BFWT . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene encodes a member of the H2B histone family that is specifically expressed in sperm nuclei. A polymorphism in the 5' UTR of this gene is associated with male infertility.[provided by RefSeq, Jan 2010].",
+            "score": 129.97238159179688
+        },
+        {
+            "docid": "553741_10",
+            "document": "Histone octamer . As mentioned above the histone tails have been shown to directly interact with the DNA of the nucleosome. Each histone in the octamer has an N-terminal tail that protrudes from the histone core. The tails play roles both in inter and intra nucleosomal interactions that ultimately influence gene access. Histones are positively charged molecules which allow a tighter bonding to the negatively charged DNA molecule. Reducing the positive charge of histone proteins reduces the strength of binding between the histone and DNA, making it more open to gene transcription (expression). Moreover, these flexible units direct DNA wrapping in a left-handed manner around the histone octamer during nucleosome formation. Once the DNA is bound the tails continue to interact with the DNA. The parts of the tail closest to the DNA hydrogen bond and strengthen the DNA\u2019s association with the octamer; the parts of the tail furthest away from the DNA, however, work in a very different manner. Cellular enzymes modify the amino acids in the distal sections of the tail to influence the accessibility of the DNA. The tails have also been implicated in the stabilization of 30-nm fibers. Research has shown removing certain tails prevents the nucleosomes from forming properly and a general failure to produce chromatin fiber. In all, these associations protect the nucleosomal DNA from the external environment but also lower their accessibility to cellular replication and transcriptional machinery.",
+            "score": 129.7655029296875
+        },
+        {
+            "docid": "7955_53",
+            "document": "DNA . Structural proteins that bind DNA are well-understood examples of non-specific DNA-protein interactions. Within chromosomes, DNA is held in complexes with structural proteins. These proteins organize the DNA into a compact structure called chromatin. In eukaryotes, this structure involves DNA binding to a complex of small basic proteins called histones, while in prokaryotes multiple types of proteins are involved. The histones form a disk-shaped complex called a nucleosome, which contains two complete turns of double-stranded DNA wrapped around its surface. These non-specific interactions are formed through basic residues in the histones, making ionic bonds to the acidic sugar-phosphate backbone of the DNA, and are thus largely independent of the base sequence. Chemical modifications of these basic amino acid residues include methylation, phosphorylation, and acetylation. These chemical changes alter the strength of the interaction between the DNA and the histones, making the DNA more or less accessible to transcription factors and changing the rate of transcription. Other non-specific DNA-binding proteins in chromatin include the high-mobility group proteins, which bind to bent or distorted DNA. These proteins are important in bending arrays of nucleosomes and arranging them into the larger structures that make up chromosomes.",
+            "score": 129.48812866210938
+        },
+        {
+            "docid": "57438369_3",
+            "document": "Histone cluster 2 h3 family member d . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a replication-dependent histone that is a member of the histone H3 family. [provided by RefSeq, Aug 2015].",
+            "score": 129.4441375732422
+        },
+        {
+            "docid": "35049694_3",
+            "document": "HIST1H4J . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a member of the histone H4 family. Transcripts from this gene lack polyA tails but instead contain a palindromic termination element. This gene is found in the small histone gene cluster on chromosome 6p22-p21.3. [provided by RefSeq, Jul 2008].",
+            "score": 129.12355041503906
+        },
+        {
+            "docid": "15226281_3",
+            "document": "HIST1H4C . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a member of the histone H4 family. Transcripts from this gene lack polyA tails but instead contain a palindromic termination element. This gene is found in the large histone gene cluster on chromosome 6.",
+            "score": 129.06887817382812
+        },
+        {
+            "docid": "16858573_3",
+            "document": "HIST1H4L . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a member of the histone H4 family. Transcripts from this gene lack polyA tails but instead contain a palindromic termination element. This gene is found in the small histone gene cluster on chromosome 6p22-p21.3.",
+            "score": 129.06887817382812
+        },
+        {
+            "docid": "9896453_74",
+            "document": "Eukaryotic DNA replication . Eukaryotic DNA must be tightly compacted in order to fit within the confined space of the nucleus. Chromosomes are packaged by wrapping 147 nucleotides around an octamer of histone proteins, forming a nucleosome. The nucleosome octamer includes two copies of each histone H2A, H2B, H3, and H4. Due to the tight association of histone proteins to DNA, eukaryotic cells have proteins that are designed to remodel histones ahead of the replication fork, in order to allow smooth progression of the replisome. There are also proteins involved in reassembling histones behind the replication fork to reestablish the nucleosome conformation.",
+            "score": 128.91896057128906
+        },
+        {
+            "docid": "14754990_3",
+            "document": "HIST2H3C . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. This structure consists of approximately 146 bp of DNA wrapped around a nucleosome, an octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. This gene is intronless and encodes a member of the histone H3 family. Transcripts from this gene lack polyA tails; instead, they contain a palindromic termination element. This gene is found in a histone cluster on chromosome 1. This gene is one of four histone genes in the cluster that are duplicated; this record represents the telomeric copy.",
+            "score": 128.60812377929688
+        },
+        {
+            "docid": "14761587_3",
+            "document": "HIST2H2AA3 . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a member of the histone H2A family. Transcripts from this gene lack polyA tails but instead contain a palindromic termination element. This gene is found in a histone cluster on chromosome 1. This gene is one of four histone genes in the cluster that are duplicated; this record represents the centromeric copy.",
+            "score": 128.47296142578125
+        },
+        {
+            "docid": "1822649_7",
+            "document": "DNA fragmentation . Apoptotic DNA fragmentation is a natural fragmentation that cells perform in apoptosis (programmed cell death). DNA fragmentation is a biochemical hallmark of apoptosis. In dying cells, DNA is cleaved by an endonuclease that fragments the chromatin into nucleosomal units, which are multiples of about 180-bp oligomers and appear as a DNA ladder when run on an agarose gel. The enzyme responsible for apoptotic DNA fragmentation is the Caspase-activated DNase. CAD is normally inhibited by another protein, the Inhibitor of Caspase Activated DNase (ICAD). During apoptosis, the apoptotic effector caspase, caspase 3, cleaves ICAD and thus causes CAD to become activated. CAD cleaves the DNA at the internucleosomal linker sites between the nucleosomes, protein-containing structures that occur in chromatin at ~180-bp intervals. This is because the DNA is normally tightly wrapped around histones, the core proteins of the nucleosomes. The linker sites are the only parts of the DNA strand that are exposed and thus accessible to CAD.",
+            "score": 127.76229095458984
+        },
+        {
+            "docid": "966654_4",
+            "document": "DNA-binding protein . Structural proteins that bind DNA are well-understood examples of non-specific DNA-protein interactions. Within chromosomes, DNA is held in complexes with structural proteins. These proteins organize the DNA into a compact structure called chromatin. In eukaryotes, this structure involves DNA binding to a complex of small basic proteins called histones. In prokaryotes, multiple types of proteins are involved. The histones form a disk-shaped complex called a nucleosome, which contains two complete turns of double-stranded DNA wrapped around its surface. These non-specific interactions are formed through basic residues in the histones making ionic bonds to the acidic sugar-phosphate backbone of the DNA, and are therefore largely independent of the base sequence. Chemical modifications of these basic amino acid residues include methylation, phosphorylation and acetylation. These chemical changes alter the strength of the interaction between the DNA and the histones, making the DNA more or less accessible to transcription factors and changing the rate of transcription. Other non-specific DNA-binding proteins in chromatin include the high-mobility group (HMG) proteins, which bind to bent or distorted DNA. Biophysical studies show that these architectural HMG proteins bind, bend and loop DNA to perform its biological functions. These proteins are important in bending arrays of nucleosomes and arranging them into the larger structures that form chromosomes.",
+            "score": 127.67155456542969
+        },
+        {
+            "docid": "50449991_12",
+            "document": "Nuclear organization . The first level of genome organization concerns how DNA is arranged linearly, and how it is packaged into chromosomes. DNA is composed of two antiparallel strands of nucleic acids, with two bound and opposing nucleic acids referred to as DNA base pairs. In order for DNA to pack inside the tiny cell nucleus, each strand is wrapped around histones, forming nucleosome structures. These nucleosome pack together to form chromosomes. Depending on the eukaryote, there are multiple independent chromosomes of varying sizes within each nucleus - for example, humans have 46 while giraffes have 30. Within regions of the chromosome, the order of the DNA base pairs makes up specific elements for gene expression and DNA replication. Some of the more common elements include protein coding genes (containing exons and introns), noncoding DNA, enhancers, promoters, operators, origins of replication, telomeres, and centromeres. As of yet, there is not much evidence towards the importance of specific order of these elements along or between individual chromosomes. For example, the distance between an enhancer and a promoter, interacting elements that form a basis of gene expression, can range from a few hundred base pairs to 100s of kb away. As well, individual enhancers can interact with a number of different promoters and the same is true for a single promoter interacting with multiple different enhancers.",
+            "score": 127.5757827758789
+        },
+        {
+            "docid": "24764496_3",
+            "document": "H1FOO . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Nucleosomes consist of approximately 146 bp of DNA wrapped around a histone octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. The protein encoded is a member of the histone H1 family. This gene contains introns, unlike most histone genes. The protein encoded is a member of the histone H1 family. The related mouse gene is expressed only in oocytes.",
+            "score": 127.17032623291016
+        },
+        {
+            "docid": "52156116_5",
+            "document": "H3K27me3 . The genomic DNA of eukaryotic cells is wrapped around special protein molecules known as Histones. The complexes formed by the looping of the DNA are known as Chromatin. The basic structural unit of chromatin is the Nucleosome: this consists of the core octamer of histones (H2A, H2B, H3 and H4) as well as a linker histone and about 180 base pairs of DNA. These core histones are rich in lysine and arginine residues. The carboxyl (C) terminal end of these histones contribute to histone-histone interactions, as well as histone-DNA interactions. The amino (N) terminal charged tails are the site of the post-translational modifications, such as the one seen in H3K27me3.",
+            "score": 126.59447479248047
+        },
+        {
+            "docid": "27069285_3",
+            "document": "H2AFB2 . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Nucleosomes consist of approximately 146 bp of DNA wrapped around a histone octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. This gene encodes a member of the histone H2A family. This gene is part of a region that is repeated three times on chromosome X, once in intron 22 of the F8 gene and twice closer to the Xq telomere. This record represents the middle copy.",
+            "score": 125.71414947509766
+        },
+        {
+            "docid": "34946346_14",
+            "document": "Edward Trifonov . Another question closely related to the chromatin structure which Trifonov pursued to answer was the length of the DNA helical repeat (turn) within nucleosomes. It is known that in free DNA (i.e. DNA which is not part of a nucleosome), the DNA helix twists 360\u00b0 per approximately 10.5\u00a0bp. In 1979, Trifonov and Thomas Bettecken estimated the length of a nucleosomal DNA repeat to be 10.33\u201310.4\u00a0bp. This value was finally confirmed and refined to 10.4\u00a0bp with crystallographic analysis in 2006.",
+            "score": 125.267333984375
+        }
+    ]
+}

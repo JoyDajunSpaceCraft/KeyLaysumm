@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "52616203_2",
+            "document": "CIP/KIP . The CIP/KIP (CDK interacting protein/Kinase inhibitory protein) family is one of two families (CIP/KIP and INK4) of mammalian cyclin dependent kinase (CDK) inhibitors (CKIs) involved in regulating the cell cycle. The CIP/KIP family is made up of three proteins: p21, P27, p57 These proteins share sequence homology at the N-terminal domain which allows them to bind to both the cyclin and CDK. Their activity primarily involves the binding and inhibition of G1/S- and S-Cdks; however, they have also been shown to play an important role in activating the G1-CDKs CDK4 and CDK6. In addition, more recent work has shown that CIP/KIP family members have a number of CDK-independent roles involving regulation of transcription, apoptosis, and the cytoskeleton.",
+            "score": 226.11003530025482
+        },
+        {
+            "docid": "51209_9",
+            "document": "Kinase . Cyclin dependent kinases (CDKs) are a group of several different kinases involved in regulation of the cell cycle. They phosphorylate other proteins on their serine or threonine residues, but CDKs must first bind to a cyclin protein in order to be active. Different combinations of specific CDKs and cyclins mark different parts of the cell cycle. Additionally, the phosphorylation state of CDKs is also critical to their activity, as they are subject to regulation by other kinases (such as CDK-activating kinase) and phosphatases (such as Cdc25). Once the CDKs are active, they phosphorylate other proteins to change their activity, which leads to events necessary for the next stage of the cell cycle. While they are most known for their function in cell cycle control, CDKs also have roles in transcription, metabolism, and other cellular events.",
+            "score": 193.36137056350708
+        },
+        {
+            "docid": "5595981_3",
+            "document": "P21 . p21 is a potent cyclin-dependent kinase inhibitor (CKI). The p21 (CIP1/WAF1) protein binds to and inhibits the activity of cyclin-CDK2, -CDK1, and -CDK4/6 complexes, and thus functions as a regulator of cell cycle progression at G and S phase. The binding of p21 to CDK complexes occurs through p21's N-terminal domain, which is homologous to the other CIP/KIP CDK inhibitors p27 and p57. Specifically it contains a Cy1 motif in the N-terminal half, and weaker Cy2 motif in the C-terminal domain that allow it to bind CDK in a region that blocks its ability to complex with cyclins and thus prevent CDK activation.",
+            "score": 232.51254105567932
+        },
+        {
+            "docid": "14854417_9",
+            "document": "Protein phosphorylation . Cyclin-dependent kinases (CDKs) are serine-threonine kinases which regulate progression through the eukaryotic cell cycle. CDKs are catalytically active only when bound to a regulatory cyclin. Animal cells contain at least nine distinct CDKs which bind to various cyclins with considerable specificity. CDK inhibitors (CKIs) block kinase activity in the cyclin-CDK complex to halt the cell cycle in G1 or in response to environmental signals or DNA damage. The activity of different CDKs activate cell signaling pathways and transcription factors that regulate key events in mitosis such as the G1/S phase transition. Earlier cyclin-CDK complexes provide the signal to activate subsequent cyclin-CDK complexes.",
+            "score": 192.75019216537476
+        },
+        {
+            "docid": "1872854_19",
+            "document": "Biochemical cascade . At cell cycle level there is an increase of complexity of the mechanisms in somatic stem cells. However, it is observed a decrease of self-renewal potential with age. These mechanisms are regulated by p16-CDK4/6-Rb and p19-p53-P21 signaling pathways. Embryonic stem cells have constitutive cyclin E-CDK2 activity, which hyperphosphorylates and inactivates Rb. This leads to a short G1 phase of the cell cycle with rapid G1-S transition and little dependence on mitogenic signals or D cyclins for S phase entry. In fetal stem cells, mitogens promote a relatively rapid G1-S transition through cooperative action of cyclin D-CDK4/6 and cyclin E-CDK2 to inactivate Rb family proteins. p16 and p19 expression are inhibited by Hmga2-dependent chromatin regulation. Many young adult stem cells are quiescent most of the time. In the absence of mitogenic signals, cyclin-CDKs and the G1-S transition are suppressed by cell cycle inhibitors including Ink4 and Cip/Kip family proteins. As a result, Rb is hypophosphorylated and inhibits E2F, promoting quiescence in G0-phase of the cell cycle. Mitogen stimulation mobilizes these cells into cycle by activating cyclin D expression. In old adult stem cells, let-7 microRNA expression increases, reducing Hmga2 levels and increasing p16 and p19 levels. This reduces the sensitivity of stem cells to mitogenic signals by inhibiting cyclin-CDK complexes. As a result, either stem cells cannot enter the cell cycle, or cell division slows in many tissues.",
+            "score": 236.1622359752655
+        },
+        {
+            "docid": "619200_10",
+            "document": "Cyclin-dependent kinase . A cyclin-dependent kinase inhibitor (CKI) is a protein that interacts with a cyclin-CDK complex to block kinase activity, usually during G1 or in response to signals from the environment or from damaged DNA. In animal cells, there are two major CKI families: the INK4 family and the CIP/KIP family. The INK4 family proteins are strictly inhibitory and bind CDK monomers. Crystal structures of CDK6-INK4 complexes show that INK4 binding twists the CDK to distort cyclin binding and kinase activity. The CIP/KIP family proteins bind both the cyclin and the CDK of a complex and can be inhibitory or activating. CIP/KIP family proteins activate cyclin D and CDK4 or CDK6 complexes by enhancing complex formation.",
+            "score": 220.7231900691986
+        },
+        {
+            "docid": "619200_2",
+            "document": "Cyclin-dependent kinase . Cyclin-dependent kinases (CDKs) are a family of sugar kinases first discovered for their role in regulating the cell cycle. They are also involved in regulating transcription, mRNA processing, and the differentiation of nerve cells. They are present in all known eukaryotes, and their regulatory function in the cell cycle has been evolutionarily conserved. In fact, yeast cells can proliferate normally when their CDK gene has been replaced with the homologous human gene. CDKs are relatively small proteins, with molecular weights ranging from 34 to 40 kDa, and contain little more than the kinase domain. By definition, a CDK binds a regulatory protein called a cyclin. Without cyclin, CDK has little kinase activity; only the cyclin-CDK complex is an active kinase. CDKs phosphorylate their substrates on serines and threonines, so they are serine-threonine kinases. The consensus sequence for the phosphorylation site in the amino acid sequence of a CDK substrate is [S/T*]PX[K/R], where S/T* is the phosphorylated serine or threonine, P is proline, X is any amino acid, K is lysine, and R is arginine.",
+            "score": 172.07495534420013
+        },
+        {
+            "docid": "14089105_7",
+            "document": "Cyclin B1 . Like all cyclins, levels of cyclin B1 oscillate over the course of the cell cycle. Just prior to mitosis, a large amount of cyclin B1 is present in the cell, but it is inactive due to phosphorylation of Cdk1 by the Wee1 kinase. The complex is activated by dephosphorylation by the phosphatase Cdc25. Cdc25 is always present in the cell but must be activated by phosphorylation. A possible trigger for activation is phosphorylation by cyclin A-Cdk, which functions before cyclin B1-Cdk in the cell cycle. Active Cdk1 is also capable of phosphorylating and activating Cdc25 and thus promote its own activation, resulting in a positive feedback loop. Once cyclin B1-Cdk1 is activated, it remains stably active for the rest of mitosis.",
+            "score": 163.146826505661
+        },
+        {
+            "docid": "10474358_8",
+            "document": "CHEK2 . When DNA undergoes a double-strand break, CHK2 is activated. Specifically, DNA damage-activated phosphatidylinositol kinase family protein (PIKK) ATM phosphorylates site Thr68 and activates CHK2. Once activated, CHK2 phosphorylates downstream targets including CDC25 phosphatases, responsible for dephosphorylating and activating the cyclin-dependent kinases (CDKs). Thus, CHK2\u2019s inhibition of the CDC25 phosphatases prevents entry of the cell into mitosis. Furthermore, the CHK2 protein interacts with several other proteins including p53 (p53). Stabilization of p53 by CHK2 leads to cell cycle arrest in phase G1. Furthermore, CHK2 is known to phosphorylate the cell-cycle transcription factor E2F1 and the promyelocytic leukemia protein (PML) involved in apoptosis (programmed cell death).",
+            "score": 163.3714258670807
+        },
+        {
+            "docid": "619200_8",
+            "document": "Cyclin-dependent kinase . Full kinase activity requires an activating phosphorylation on a threonine adjacent to the active site. The identity of the CDK-activating kinase (CAK) that performs this phosphorylation varies across the model organisms. The timing of this phosphorylation varies as well. In mammalian cells, the activating phosphorylation occurs after cyclin binding. In yeast cells, it occurs before cyclin binding. CAK activity is not regulated by known cell-cycle pathways and cyclin binding is the limiting step for CDK activation.",
+            "score": 176.5747468471527
+        },
+        {
+            "docid": "5813192_5",
+            "document": "CDK-activating kinase . In mammals, activating phosphorylation by CAK can only occur once cyclin is bound. In budding yeast, activating phosphorylation by CAK can take place before cyclin binding. In both humans and yeast, cyclin binding is the rate limiting step in the activation of Cdk. Therefore, phosphorylation of Cdk by CAK is considered a post-translational modification that is necessary for enzyme activity. Although activating phosphorylation by CAK is not exploited for cell-cycle regulation purposes, it is a highly conserved process because CAK also regulates transcription.",
+            "score": 162.18028616905212
+        },
+        {
+            "docid": "2491663_10",
+            "document": "Endoreduplication . The best-studied example of a mitosis-to-endocycle transition occurs in \"Drosophila\" follicle cells and is activated by Notch signaling. Entry into endocycles involves modulation of mitotic and S-phase cyclin-dependent kinase (CDK) activity. Inhibition of M-phase CDK activity is accomplished via transcriptional activation of Cdh/fzr and repression of the G2-M regulator string/cdc25. Cdh/fzr is responsible for activation of the anaphase-promoting complex (APC) and subsequent proteolysis of the mitotic cyclins. String/cdc25 is a phosphatase that stimulates mitotic cyclin-CDK complex activity. Upregulation of S-phase CDK activity is accomplished via transcriptional repression of the inhibitory kinase dacapo. Together, these changes allow for the circumvention of mitotic entry, progression through G1, and entry into S-phase. The induction of endomitosis in mammalian megakaryocytes involves activation of the c-mpl receptor by the thrombopoietin (TPO) cytokine and is mediated by ERK1/2 signaling. As with Drosophila follicle cells, endoreplication in megakaryocytes results from activation of S-phase cyclin-CDK complexes and inhibition of mitotic cyclin-CDK activity.",
+            "score": 160.20174622535706
+        },
+        {
+            "docid": "3610203_3",
+            "document": "Cdc25 . Cdc25 activates cyclin dependent kinases by removing phosphate from residues in the Cdk active site. Also, the phosphorylation of M-Cdk (a complex of Cdk1 and cyclin B) activates Cdc25. Together with Wee1, M-Cdk activation is switch-like. The switch-like behavior forces entry into mitosis to be quick and irreversible. Cdk activity can be reactivated after dephosphorylation by Cdc25. The Cdc25 enzymes Cdc25A-C are known to control the transitions from G1 to S phase and G2 to M phase.",
+            "score": 115.35108947753906
+        },
+        {
+            "docid": "14065868_8",
+            "document": "SKP2 . Progression through the cell cycle is tightly regulated by cyclin-dependent kinases (CDKs), and their interactions with cyclins and CDK inhibitors (CKIs). Relative amounts of these signals oscillate during each stage of the cell cycle due to periodic proteolysis; the ubiquitin-proteasome system mediates the degradation of these mitotic regulatory proteins, controlling their intracellular concentrations. These and other proteins are recognized and degraded by the proteasome from the sequential action of three enzymes: E1 (ubiquitin-activating enzyme), one of many E2s (ubiquitin-conjugating enzyme), and one of many E3 ubiquitin ligase. The specificity of ubiquitination is provided by the E3 ligases; these ligases physically interact with the target substrates. Skp2 is the substrate recruiting component of the SCFSkp2 complex, which targets cell cycle control elements, such as p27 and p21. Here, SKP2 has been implicated in double negative feedback loops with both p21 and p27, that control cell cycle entry and G1/S transition.",
+            "score": 143.37308621406555
+        },
+        {
+            "docid": "25368725_8",
+            "document": "Biochemical switches in the cell cycle . An example that reveals the interaction of the multiple negative and positive feedback loops is the activation of cyclin-dependent protein kinases, or Cdks14. Positive feedback loops play a role by switching cells from low to high Cdk-activity. The interaction between the two types of loops is evident in mitosis. While positive feedback initiates mitosis, a negative feedback loop promotes the inactivation of the cyclin-dependent kinases by the anaphase-promoting complex. This example clearly shows the combined effects that positive and negative feedback loops have on cell-cycle regulation.",
+            "score": 149.7079041004181
+        },
+        {
+            "docid": "12094227_8",
+            "document": "Cyclin D1 . The cyclin D1-CDK4 complex promotes passage through the G1 phase by inhibiting the retinoblastoma protein (pRb). Cyclin D1-CDK4 inhibits pRb through phosphorylation, allowing E2F transcription factors to transcribe genes required for entry into the S phase. Inactive pRb allows cell cycle progression through the G1/S transition and allows for DNA synthesis. Cyclin D1-CDK4 also enables the activation of cyclin E-CDK2 complex by sequestering Cip/Kip family CDK inhibitory proteins p21 and p27, allowing entry into the S phase.",
+            "score": 233.92966532707214
+        },
+        {
+            "docid": "9880209_6",
+            "document": "Cyclin-dependent kinase 6 . CDK6 is involved in a positive feedback loop that activates transcription factors through a reaction cascade. Importantly, these C-CDK complexes act as a kinase, phosphorylating and inactivating the protein of Rb and p-Rb related \u201cpocket proteins\u201d p107 and p130. While doing this, the CDK6 in conjunction with CDK4, act as a switch signal that first appears in G1, directing the cell towards S phase of the cell cycle.",
+            "score": 205.0457854270935
+        },
+        {
+            "docid": "13735376_5",
+            "document": "Polo-like kinase . Plks have been found to cooperate with Cdks in the orchestration of cell division. Entry into M phase is controlled through the activation of cyclin-dependent kinase 1 (CDK1)\u2013cyclin B, and Cdc25 is a phosphatase that dephosphorylates Cdk1 to promote mitotic entry. Plk1 binds to phosphorylated Cdc25 through its PBD. Thus Plks can phosphorylate Cdc25 and thereby regulate Cdc25 and indirectly Cdk1. A study shows that phosphorylation of a serine residue (Ser198) within a nuclear-export signal of Cdc25 promotes the nuclear accumulation of Ccdc25 in humans. PBD has high affinity for proteins already phosphorylated at certain serine/threonine sites. This requires priming of substrates by Plk itself or other kinases such as Cdk1 to create a docking site. However, there could also be phosphorylation-independent structural aspects contributing to binding. Plo1 (the Plk found in fission yeast) is part of a positive-feedback loop that controls the expression of genes that are required for cell division.",
+            "score": 145.41791415214539
+        },
+        {
+            "docid": "52616203_5",
+            "document": "CIP/KIP . Cyclin D has low affinity for its CDK. Therefore, it was hypothesized that additional proteins were needed to allow for a stable cyclin D-CDK4,6 complex. Growing evidence has shown that CIP/KIP proteins are involved in this stabilization. The first evidence of this came from the observation that p27 would frequently immunoprecipitate with active cyclin D-CDK4 complexes. Futhurmore, mouse embryonic fibroblasts deficient for p21 and p27 had lower levels of cyclin D1 and immunoprecipitated cyclinD-CDK complexes had no kinase activity. These effects were rescued with reintroduction of p21 and p27, but not reintroduction of cyclin D1 suggesting that CIP/KIP proteins are crucial for cyclin D-CDK activity. In vitro evidence has shown that cyclin D-CDK binding of CIP/KIP is not restricted to p21 and p27 and can also be performed by p57.",
+            "score": 182.13330698013306
+        },
+        {
+            "docid": "9880208_3",
+            "document": "Cyclin-dependent kinase 4 . The protein encoded by this gene is a member of the Ser/Thr protein kinase family. This protein is highly similar to the gene products of \"S. cerevisiae\" cdc28 and \"S. pombe\" cdc2. It is a catalytic subunit of the protein kinase complex that is important for cell cycle G1 phase progression. The activity of this kinase is restricted to the G1-S phase, which is controlled by the regulatory subunits D-type cyclins and CDK inhibitor p16. This kinase was shown to be responsible for the phosphorylation of retinoblastoma gene product (Rb). Ser/Thr-kinase component of cyclin D-CDK4 (DC) complexes that phosphorylate and inhibit members of the retinoblastoma (RB) protein family including RB1 and regulate the cell-cycle during G1/S transition. Phosphorylation of RB1 allows dissociation of the transcription factor E2F from the RB/E2F complexes and the subsequent transcription of E2F target genes which are responsible for the progression through the G1phase. Hypophosphorylates RB1 in early G1 phase. Cyclin D-CDK4 complexes are major integrators of various mitogenic and antimitogenic signals. Also phosphorylates SMAD3 in a cell-cycle-dependent manner and represses its transcriptional activity. Component of the ternary complex, cyclin D/CDK4/CDKN1B, required for nuclear translocation and activity of the cyclin D-CDK4 complex.",
+            "score": 255.020676612854
+        },
+        {
+            "docid": "13562301_2",
+            "document": "CDKN1B . Cyclin-dependent kinase inhibitor 1B (p27) is an enzyme inhibitor that in humans is encoded by the CDKN1B gene. It encodes a protein which belongs to the \"Cip/Kip\" family of cyclin dependent kinase (Cdk) inhibitor proteins. The encoded protein binds to and prevents the activation of cyclin E-CDK2 or cyclin D-CDK4 complexes, and thus controls the cell cycle progression at G1. It is often referred to as a cell cycle inhibitor protein because its major function is to stop or slow down the cell division cycle.",
+            "score": 220.5806987285614
+        },
+        {
+            "docid": "7252_26",
+            "document": "Cell cycle . The \"cip/kip\" family includes the genes p21, p27 and p57. They halt cell cycle in G phase, by binding to, and inactivating, cyclin-CDK complexes. p21 is activated by p53 (which, in turn, is triggered by DNA damage e.g. due to radiation). p27 is activated by Transforming Growth Factor of \u03b2 (TGF \u03b2), a growth inhibitor.",
+            "score": 130.06422877311707
+        },
+        {
+            "docid": "18543362_6",
+            "document": "Cln3 . Although all three G1 cyclins are necessary for normal regulation of \"Start\" and the G1-S transition, Cln3 activity seems to be the deciding factor in S-phase initiation, with Cln1 and Cln2 serving to actuate the Cln3-based decision to transit \"Start\". It was found early on that Cln3 activity induced expression of Cln1 and Cln2. Furthermore, Cln3 was a stronger activator \"Start\" transit than Cln1 and Cln2, even though Cln3-CDK had an inherently weaker kinase activity than the other Clns. This indicated that Cln3 was an upstream regulator of Cln1 and Cln2. Furthermore, it was found, as shown in Figure 1, that Cln1 and Cln2 could activate their own transcription via SBF, completing a positive feedback loop that could contribute to rapid activation and S-phase entry. Thus, \"Start\" transit seems to rely on reaching a sufficient level of Cln3-CDK activity to induce the Cln1,2 positive feedback loop, which rapidly increases SBF/MBF and Cln1,2 activity, allowing a switch-like G1-S transition. The role of positive feedback in this process has been challenged, but recent experiments have confirmed its importance for rapid inactivation and nuclear export of Whi5, which is the molecular basis of commitment to S-phase.",
+            "score": 107.52727222442627
+        },
+        {
+            "docid": "29941454_14",
+            "document": "Control of chromosome duplication . lWhile pre-RC complexes mark potential sites for origin activation, further proteins and complexes must assemble at these sites to activate replication (origin firing). The following events must occur in order to activate the origin: the DNA helix has to open, the helicase must be activated, and DNA polymerases and the rest of the replicative machinery have to load onto the DNA. These events depend on the assembly of a several proteins to form the pre-initiation complex at the replication origins loaded with pre-replicative complexes. Assembly of the pre-initiation complex depends on the activities of S-Cdks and the protein kinase Cdc7. The pre-initiation complex activates the Mcm helicase and recruits DNA polymerase. When the cell commits to a new cell cycle, after passing through the Start checkpoint, G1 and G1/S cyclin CDK complexes are activated. These activate the expression of the replicative machinery and of S-Cdk cylin complexes. S-Cdks and G1/S Cdks act to activate replication origins. At the same time, S-Cdks suppress formation of new pre-RCs during S phase, G2 and early M, when S cyclin levels remains high. Cdc7 is activated in late G1 and is required throughout S phase for origin firing. Mutations in this protein in budding yeast, and in its homolog in fission yeast block initiation of replication. Cdc7 is highly conserved \u2013 related proteins have been identified in frogs and humans. DNA replication is inhibited when Cdc7 homologs are inhibited with antibodies in frog or human cells. It is not known whether CDKs and Cdc7 just regulate protein assembly at origins, or whether they directly activate components of the pre-initiation complex.",
+            "score": 163.3837912082672
+        },
+        {
+            "docid": "38879444_16",
+            "document": "TP53-inducible glycolysis and apoptosis regulator . TIGAR activity can prevent cells progressing into S phase through a checkpoint known in humans as the restriction point. At the very start of G1 phase, a protein called retinoblastoma (Rb) exists in an un-phosphorylated state. In this state, Rb binds to a protein transcription factor E2F and prevents E2F from activating transcription of proteins essential for S-phase. During a normal cell cycle, as G1 progresses, Rb will become phosphorylated in a specific set of sequential steps by proteins called cyclin dependent kinases (cdks) bound to cyclin proteins. The specific complexes that phosphorylate Rb are cyclin D-cdk4 and cyclin E-cdk2.",
+            "score": 216.5193521976471
+        },
+        {
+            "docid": "25181469_4",
+            "document": "Meiotic recombination checkpoint . The abrupt onset of M-Cdk in late prophase I depends on the positive transcription regulation feedback loop consisting of Ime2, Ndt80 and Cdk/cyclin complex. However the activation of M-Cdk is controlled by the general phosphorylation switch Wee1/Cdc25. Wee1 activity is high in early prophase I and the accumulation of Cdc25 activates M-Cdk by direct phosphorylation and marking Wee1 to be degraded. Meiotic recombination may begin with a double-strand break, either induced by Spo11 or by other endogenous or exogenous causes of DNA damage. These DNA breaks must be repaired before metaphase I. and these DSBs must be repaired before metaphase I. The cell monitor these DSBs via ATM pathway, in which Cdc25 is suppressed when DSB lesion is detected. This pathway is the same as classical DNA damage response and is the part we know the best in meiotic recombination checkpoint.",
+            "score": 128.6981784105301
+        },
+        {
+            "docid": "5618682_14",
+            "document": "MAPK/ERK pathway . The ERK pathway plays an important role of integrating external signals from the presence of mitogens such as epidermal growth factor (EGF) into signaling events promoting cell growth and proliferation in many mammalian cell types. In a simplified model, the presence of mitogens and growth factors trigger the activation of canonical receptor tyrosine kinases such as EGFR leading to their dimerization and subsequent activation of the small GTPase Ras. This then leads to a series of phosphorylation events downstream in the MAPK cascade (Raf-MEK-ERK) ultimately resulting in the phosphorylation and activation of ERK. The phosphorylation of ERK results in an activation of its kinase activity and leads to phosphorylation of its many downstream targets involved in regulation of cell proliferation. In most cells, some form of sustained ERK activity is required for cells to activate genes that induce cell cycle entry and suppress negative regulators of the cell cycle. Two such important targets include Cyclin D complexes with Cdk4 and Cdk6 (Cdk4/6) which are both phosphorylated by ERK. The transition from G1 to S phase is coordinated by the activity of Cyclin D-Cdk4/6, which increases during late G1 phase as cells prepare to enter S-phase in response to mitogens. Cdk4/6 activation contributes to hyper-phosphorylation and the subsequent destabilization retinoblastoma protein (Rb). Hypo-phosphorylated Rb, is normally bound to transcription factor E2F in early G1 and inhibits its transcriptional activity, preventing expression of S-phase entry genes including Cyclin E, Cyclin A2 and Emi1. ERK1/2 activation downstream of mitogen induced Ras signaling is necessary and sufficient to remove this cell cycle block and allow cells to progress to S-phase in most mammalian cells. Downstream feedback control and generation of a bistable G1/S switch",
+            "score": 235.9868096113205
+        },
+        {
+            "docid": "1731697_8",
+            "document": "Restriction point . Cyclin D-bound cdks 4 and 6 are activated by cdk-activating kinase and drive the cell towards the restriction point. Cyclin D, however has a high turnover rate (t<25 min). It is because of this quick turnover rate that the cell is extremely sensitive to mitogenic signaling levels, which not only stimulate cyclin D production, but also help to stabilize cyclin D within the cell. In this way, cyclin D acts as a mitogenic signal sensor. Cdk inhibitors (CKI), such as the Ink4 proteins and p21, help to prevent improper cyclin-cdk activity.",
+            "score": 166.06724905967712
+        },
+        {
+            "docid": "5629249_16",
+            "document": "Cyclin A . Transcription of cyclin A is indirectly regulated by the tumor suppressor protein p53. P53 is activated by DNA damage and turns on several downstream pathways, including cell cycle arrest. Cell cycle arrest is carried out by the p53-pRb pathway. Activated p53 turns on genes for p21. P21 is a CDK inhibitor that binds to several cyclin/CDK complexes, including cyclin A-CDK2/1 and cyclin D/CDK4, and blocks the kinase activity of CDKs. Activated p21 can bind cyclin D/CDK4 and render it incapable of phosphorylating pRb. PRb remains hypophosphorylated and binds E2F. E2F is unable to activate the transcription of cyclins involved in cell cycle progression, such as cyclin A and the cell cycle is arrested at G. Cell cycle arrest allows the cell to repair DNA damage before the cell divides and passes damaged DNA to daughter cells.",
+            "score": 259.9179470539093
+        },
+        {
+            "docid": "619200_9",
+            "document": "Cyclin-dependent kinase . Unlike activating phosphorylation, CDK inhibitory phosphorylation is vital for regulation of the cell cycle. Various kinases and phosphatases regulate their phosphorylation state. One of the kinases that place the tyrosine phosphate is Wee1, a kinase conserved in all eukaryotes. Fission yeast also contains a second kinase Mik1 that can phosphorylate the tyrosine. Vertebrates contain a different second kinase called Myt1 that is related to Wee1 but can phosphorylate both the threonine and the tyrosine. Phosphatases from the Cdc25 family dephosphorylate both the threonine and the tyrosine.",
+            "score": 128.68846440315247
+        },
+        {
+            "docid": "14771618_12",
+            "document": "PFKFB3 . It was more recently discovered that \"PFKFB3\" promotes cell cycle progression (cell proliferation) and suppresses apoptosis by regulating cyclin-dependent kinase 1 (Cdk-1). PFKFB3\u2019s synthesis of F2,6BP in the nucleus was found to regulate Cdk-1, whereas cytosolic PFKFB3 activates PFK-1. Nuclear PFKFB3 activates Cdk1 to phosphorylate the Thr-187 site of p27, causing decreased levels of p27. (See summary figure). Reduced p27 causes protection against apoptosis and progression of cells through the G1/S phase checkpoint These findings established a significant link between PFKFB3 cancer cell survival and proliferation.",
+            "score": 141.75997042655945
+        },
+        {
+            "docid": "34058307_4",
+            "document": "Mitotic exit . Discoveries were made which indicated the importance of the level of the inhibitors of cyclin-dependent kinases in regulating eukaryotic cell cycle. In particular, the level of Sic1, a stoichiometric inhibitor of Clb-CDK complexes in budding yeast, was shown to be particularly important in irreversible G1-S transition by irreversibly activating S phase kinases. Sic1 level was shown to play a major role in triggering irreversible mitotic exit (M-G1 transition) as well as in G1-S transition. During mitosis, decreasing levels of Cdk1 leads to the activation of Cdc14, a phosphatase that counteracts Cdk1 via activation of Cdh1 and Swi5, a transcriptional activator of Sic1 proteins. While degradation of Sic1 to a certain low level triggered the onset of S phase, accumulation of Sic1 to a certain high level was required to trigger irreversible mitotic exit. Cdk1-inhibitors could induce mitotic exit even when degradation of B-type cyclins was blocked by expression of non-degradable Clbs or proteasome inhibitors. However, sister chromatids failed to segregate, and cells reverted to mitosis once the inhibitors were washed away, indicating that a threshold level of the inhibitors needs to be achieved to trigger irreversible mitotic exit independently of cyclin degradations. Despite different thresholds of Sic1 level that are required to trigger mitotic exit compared to G1-S transition, the level of Sic1 was shown to play a key role in regulating eukaryotic cell cycle by inhibiting the activity of CDKs.",
+            "score": 143.58739590644836
+        }
+    ],
+    "r": [
+        {
+            "docid": "5629249_16",
+            "document": "Cyclin A . Transcription of cyclin A is indirectly regulated by the tumor suppressor protein p53. P53 is activated by DNA damage and turns on several downstream pathways, including cell cycle arrest. Cell cycle arrest is carried out by the p53-pRb pathway. Activated p53 turns on genes for p21. P21 is a CDK inhibitor that binds to several cyclin/CDK complexes, including cyclin A-CDK2/1 and cyclin D/CDK4, and blocks the kinase activity of CDKs. Activated p21 can bind cyclin D/CDK4 and render it incapable of phosphorylating pRb. PRb remains hypophosphorylated and binds E2F. E2F is unable to activate the transcription of cyclins involved in cell cycle progression, such as cyclin A and the cell cycle is arrested at G. Cell cycle arrest allows the cell to repair DNA damage before the cell divides and passes damaged DNA to daughter cells.",
+            "score": 259.9179382324219
+        },
+        {
+            "docid": "9895813_4",
+            "document": "Cyclin D/Cdk4 . There are multiple regulation points within this signaling pathway. First and foremost, under non-dividing conditions multiple proteins can inhibit the Cyclin D/Cdk4 complex by binding Cdk4 and inhibiting its association with Cyclin D. Primarily, this is accomplished by p27 but it can also be done by p16 and p21. However, this pathway is stimulated by the upstream binding of growth factors (GF), either from within the cell itself or from neighboring cells. Stimulation by growth factors activates any of a number of receptor tyrosine kinase (RTK) proteins. These receptor tyrosine kinases in turn phosphorylate and activate many other proteins, including Fos/Jun/Myc and phosphatidylinositol 3 kinase (PI-3-K). Fos/Jun/Myc helps to activate the Cyclin D/Cdk4 complex. Phosphatidylinositol 3 kinase phosphorylates p27 (or p16 or p21) and SCF/Skp1. The phosphorylation of p27 inhibits p27's ability to bind Cdk4, thus freeing Cdk4 to associate with Cyclin D and form an active complex. SCF/Skp1 (an E3 ubiquitin ligase) helps to further inhibit p27 and thus further help activate the Cyclin D/Cdk4 complex. Also, p27 acts as an inhibitor of Cyclin E and Cyclin A. So, its inhibition also facilitates the activation of downstream mitotic processes, as noted above.",
+            "score": 258.93414306640625
+        },
+        {
+            "docid": "9880208_3",
+            "document": "Cyclin-dependent kinase 4 . The protein encoded by this gene is a member of the Ser/Thr protein kinase family. This protein is highly similar to the gene products of \"S. cerevisiae\" cdc28 and \"S. pombe\" cdc2. It is a catalytic subunit of the protein kinase complex that is important for cell cycle G1 phase progression. The activity of this kinase is restricted to the G1-S phase, which is controlled by the regulatory subunits D-type cyclins and CDK inhibitor p16. This kinase was shown to be responsible for the phosphorylation of retinoblastoma gene product (Rb). Ser/Thr-kinase component of cyclin D-CDK4 (DC) complexes that phosphorylate and inhibit members of the retinoblastoma (RB) protein family including RB1 and regulate the cell-cycle during G1/S transition. Phosphorylation of RB1 allows dissociation of the transcription factor E2F from the RB/E2F complexes and the subsequent transcription of E2F target genes which are responsible for the progression through the G1phase. Hypophosphorylates RB1 in early G1 phase. Cyclin D-CDK4 complexes are major integrators of various mitogenic and antimitogenic signals. Also phosphorylates SMAD3 in a cell-cycle-dependent manner and represses its transcriptional activity. Component of the ternary complex, cyclin D/CDK4/CDKN1B, required for nuclear translocation and activity of the cyclin D-CDK4 complex.",
+            "score": 255.0206756591797
+        },
+        {
+            "docid": "7252_24",
+            "document": "Cell cycle . Cyclin D is the first cyclin produced in the cell cycle, in response to extracellular signals (e.g. growth factors). Cyclin D binds to existing CDK4, forming the active cyclin D-CDK4 complex. Cyclin D-CDK4 complex in turn phosphorylates the retinoblastoma susceptibility protein (Rb). The hyperphosphorylated Rb dissociates from the E2F/DP1/Rb complex (which was bound to the E2F responsive genes, effectively \"blocking\" them from transcription), activating E2F. Activation of E2F results in transcription of various genes like cyclin E, cyclin A, DNA polymerase, thymidine kinase, etc. Cyclin E thus produced binds to CDK2, forming the cyclin E-CDK2 complex, which pushes the cell from G to S phase (G/S, which initiates the G/M transition). Cyclin B-cdk1 complex activation causes breakdown of nuclear envelope and initiation of prophase, and subsequently, its deactivation causes the cell to exit mitosis. A quantitative study of E2F transcriptional dynamics at the single-cell level by using engineered fluorescent reporter cells provided a quantitative framework for understanding the control logic of cell cycle entry, challenging the canonical textbook model. Genes that regulate the amplitude of E2F accumulation, such as Myc, determine the commitment in cell cycle and S phase entry. G1 cyclin-CDK activities are not the driver of cell cycle entry. Instead, they primarily tune the timing of E2F increase, thereby modulating the pace of cell cycle progression.",
+            "score": 241.7941131591797
+        },
+        {
+            "docid": "9895813_3",
+            "document": "Cyclin D/Cdk4 . Under non-dividing conditions (when the cell is in the G0 phase of the cell cycle), Retinoblastoma protein (Rb) is bound with the E2F transcription factor. Once Cdk4 is activated and is bound with Cyclin D, the Cyclin D/Cdk4 complex phosphorylates Retinoblastoma protein (pRb). Once the Retinoblastoma protein has been phosphorylated, E2F is released. The released E2F is then free to act as a transcription factor and it subsequently binds to DNA promoter regions and activates the expression of proteins required in the next stages of the cell cycle and in DNA replication. Specifically, E2F helps to activate Cyclin E and Cyclin A, which are constituents of other Cdk/Cyclin complexes and are involved in the DNA replication process and other downstream mitotic processes.",
+            "score": 238.75576782226562
+        },
+        {
+            "docid": "1872854_19",
+            "document": "Biochemical cascade . At cell cycle level there is an increase of complexity of the mechanisms in somatic stem cells. However, it is observed a decrease of self-renewal potential with age. These mechanisms are regulated by p16-CDK4/6-Rb and p19-p53-P21 signaling pathways. Embryonic stem cells have constitutive cyclin E-CDK2 activity, which hyperphosphorylates and inactivates Rb. This leads to a short G1 phase of the cell cycle with rapid G1-S transition and little dependence on mitogenic signals or D cyclins for S phase entry. In fetal stem cells, mitogens promote a relatively rapid G1-S transition through cooperative action of cyclin D-CDK4/6 and cyclin E-CDK2 to inactivate Rb family proteins. p16 and p19 expression are inhibited by Hmga2-dependent chromatin regulation. Many young adult stem cells are quiescent most of the time. In the absence of mitogenic signals, cyclin-CDKs and the G1-S transition are suppressed by cell cycle inhibitors including Ink4 and Cip/Kip family proteins. As a result, Rb is hypophosphorylated and inhibits E2F, promoting quiescence in G0-phase of the cell cycle. Mitogen stimulation mobilizes these cells into cycle by activating cyclin D expression. In old adult stem cells, let-7 microRNA expression increases, reducing Hmga2 levels and increasing p16 and p19 levels. This reduces the sensitivity of stem cells to mitogenic signals by inhibiting cyclin-CDK complexes. As a result, either stem cells cannot enter the cell cycle, or cell division slows in many tissues.",
+            "score": 236.1622314453125
+        },
+        {
+            "docid": "5618682_14",
+            "document": "MAPK/ERK pathway . The ERK pathway plays an important role of integrating external signals from the presence of mitogens such as epidermal growth factor (EGF) into signaling events promoting cell growth and proliferation in many mammalian cell types. In a simplified model, the presence of mitogens and growth factors trigger the activation of canonical receptor tyrosine kinases such as EGFR leading to their dimerization and subsequent activation of the small GTPase Ras. This then leads to a series of phosphorylation events downstream in the MAPK cascade (Raf-MEK-ERK) ultimately resulting in the phosphorylation and activation of ERK. The phosphorylation of ERK results in an activation of its kinase activity and leads to phosphorylation of its many downstream targets involved in regulation of cell proliferation. In most cells, some form of sustained ERK activity is required for cells to activate genes that induce cell cycle entry and suppress negative regulators of the cell cycle. Two such important targets include Cyclin D complexes with Cdk4 and Cdk6 (Cdk4/6) which are both phosphorylated by ERK. The transition from G1 to S phase is coordinated by the activity of Cyclin D-Cdk4/6, which increases during late G1 phase as cells prepare to enter S-phase in response to mitogens. Cdk4/6 activation contributes to hyper-phosphorylation and the subsequent destabilization retinoblastoma protein (Rb). Hypo-phosphorylated Rb, is normally bound to transcription factor E2F in early G1 and inhibits its transcriptional activity, preventing expression of S-phase entry genes including Cyclin E, Cyclin A2 and Emi1. ERK1/2 activation downstream of mitogen induced Ras signaling is necessary and sufficient to remove this cell cycle block and allow cells to progress to S-phase in most mammalian cells. Downstream feedback control and generation of a bistable G1/S switch",
+            "score": 235.98681640625
+        },
+        {
+            "docid": "12094227_8",
+            "document": "Cyclin D1 . The cyclin D1-CDK4 complex promotes passage through the G1 phase by inhibiting the retinoblastoma protein (pRb). Cyclin D1-CDK4 inhibits pRb through phosphorylation, allowing E2F transcription factors to transcribe genes required for entry into the S phase. Inactive pRb allows cell cycle progression through the G1/S transition and allows for DNA synthesis. Cyclin D1-CDK4 also enables the activation of cyclin E-CDK2 complex by sequestering Cip/Kip family CDK inhibitory proteins p21 and p27, allowing entry into the S phase.",
+            "score": 233.92967224121094
+        },
+        {
+            "docid": "11368321_3",
+            "document": "CDK7 pathway . An intricate network of cyclin-dependent kinases (CDKs) are organized in a pathway to ensure that each cell accurately replicates its DNA and segregate it equally between the two daughter cells. One CDK\u2013the CDK7 complex\u2013cannot be so easily classified. CDK7 is both a CDK-activating kinase (CAK), which phosphorylates cell-cycle CDKs within the activation segment (T-loop), and a component of the general transcription factor TFIIH, which phosphorylates the C-terminal domain (CTD) of the largest subunit of Pol II. A proposed mode of CDK7 inhibition is the phosphorylation of cyclin H by CDK7 itself or by another kinase.",
+            "score": 233.24932861328125
+        },
+        {
+            "docid": "5595981_3",
+            "document": "P21 . p21 is a potent cyclin-dependent kinase inhibitor (CKI). The p21 (CIP1/WAF1) protein binds to and inhibits the activity of cyclin-CDK2, -CDK1, and -CDK4/6 complexes, and thus functions as a regulator of cell cycle progression at G and S phase. The binding of p21 to CDK complexes occurs through p21's N-terminal domain, which is homologous to the other CIP/KIP CDK inhibitors p27 and p57. Specifically it contains a Cy1 motif in the N-terminal half, and weaker Cy2 motif in the C-terminal domain that allow it to bind CDK in a region that blocks its ability to complex with cyclins and thus prevent CDK activation.",
+            "score": 232.51254272460938
+        },
+        {
+            "docid": "13562301_3",
+            "document": "CDKN1B . The p27 gene has a DNA sequence similar to other members of the \"Cip/Kip\" family which include the p21 and p57 genes. In addition to this structural similarity the \"Cip/Kip\" proteins share the functional characteristic of being able to bind several different classes of Cyclin and Cdk molecules. For example, p27 binds to cyclin D either alone, or when complexed to its catalytic subunit CDK4. In doing so p27 inhibits the catalytic activity of Cdk4, which means that it prevents Cdk4 from adding phosphate residues to its principal substrate, the retinoblastoma (pRb) protein. Increased levels of the p27 protein typically cause cells to arrest in the G1 phase of the cell cycle. Likewise, p27 is able to bind other Cdk proteins when complexed to cyclin subunits such as Cyclin E/Cdk2 and Cyclin A/Cdk2.",
+            "score": 231.01446533203125
+        },
+        {
+            "docid": "619215_5",
+            "document": "Cyclin-dependent kinase complex . Using the information discovered through yeast cell cycle studies, significant progress has been made regarding the mammalian cell cycle. It has been determined that the cell cycles are similar and CDKCs, either directly or indirectly, affect the progression of the cell cycle. As previously mentioned, in yeast, only one cyclin-dependent kinase (CDK) is associated with several different cyclins. However, in mammalian cells, several different CDKs bind to various cyclins to form CDKCs. For instance, Cdk1 (also known as human Cdc2), the first human CDK to be identified, associates with cyclins A or B. CyclinA/B-Cdk1 complexes drive the transition between G2 phase and M phase, as well as early M phase. Another mammalian CDK, Cdk2, can form complexes with cyclins D1, D2, D3, E, or A. Cdk4 and Cdk6 interact with cyclins D1, D2, and D3. Studies have indicated that there is no difference between CDKCs cyclin D1-Cdk4/6, therefore, any unique properties can possibly be linked to substrate specificity or activation. While levels of CDKs remain fairly constant throughout the cell cycle, cyclin levels fluctuate. The fluctuation controls the activation of the cyclin-CDK complexes and ultimately the progression throughout the cycle. See Table 2 for a summary of mammalian cell CDKCs involved in the cell cycle.",
+            "score": 228.23565673828125
+        },
+        {
+            "docid": "52616203_2",
+            "document": "CIP/KIP . The CIP/KIP (CDK interacting protein/Kinase inhibitory protein) family is one of two families (CIP/KIP and INK4) of mammalian cyclin dependent kinase (CDK) inhibitors (CKIs) involved in regulating the cell cycle. The CIP/KIP family is made up of three proteins: p21, P27, p57 These proteins share sequence homology at the N-terminal domain which allows them to bind to both the cyclin and CDK. Their activity primarily involves the binding and inhibition of G1/S- and S-Cdks; however, they have also been shown to play an important role in activating the G1-CDKs CDK4 and CDK6. In addition, more recent work has shown that CIP/KIP family members have a number of CDK-independent roles involving regulation of transcription, apoptosis, and the cytoskeleton.",
+            "score": 226.1100311279297
+        },
+        {
+            "docid": "11368321_4",
+            "document": "CDK7 pathway . In order to be active, most CDKs require not only a cyclin partner but also phosphorylation at one particular site, which corresponds to Thr161 in human CDK1, and which is located within the so-called T-loop of kinase subdomain VIII. CDKl, CDK2 and CDK4 all require T-loop phosphorylation for maximum activity.",
+            "score": 226.0082550048828
+        },
+        {
+            "docid": "9880147_16",
+            "document": "Cyclin D . Inhibition of cyclin D via i.a. inactivation or degradation leads to cell cycle exit and differentiation.  Inactivation of cyclin D is triggered by several cyclin-dependent kinase inhibitor protein (CKIs) like the INK4 family (e.g. p14, p15, p16, p18). INK4 proteins are activated in response to hyperproliferative stress response that inhibits cell proliferation due to overexpression of e.g. Ras and Myc. Hence, INK4 binds to cyclin D- dependent CDKs and inactivates the whole complex. Glycogen synthase kinase three beta, GSK3\u03b2, causes Cyclin D degradation by inhibitory phosphorylation on threonine 286 of the Cyclin D protein. GSK3\u03b2 is negatively controlled by the PI3K pathway in form of phosphorylation, which is one of several ways in which growth factors regulate cyclin D. Amount of cyclin D in the cell can also be regulated by transcriptional induction, stabilization of the protein, its translocation to the nucleus and its assembly with Cdk4 and Cdk6.",
+            "score": 221.70831298828125
+        },
+        {
+            "docid": "9895813_2",
+            "document": "Cyclin D/Cdk4 . The Cyclin D/Cdk4 complex is a multi-protein structure consisting of the proteins Cyclin D and cyclin-dependent kinase 4, or Cdk4, a serine-threonine kinase. This complex is one of many cyclin/cyclin-dependent kinase complexes that are the \"hearts of the cell-cycle control system\" and govern the cell cycle and its progression. As its name would suggest, the cyclin-dependent kinase is only active and able to phosphorylate its substrates when it is bound by the corresponding cyclin. The Cyclin D/Cdk4 complex is integral for the progression of the cell from the Growth 1 phase to the Synthesis phase of the cell cycle, for the Start or G1/S checkpoint.",
+            "score": 220.8759307861328
+        },
+        {
+            "docid": "619200_10",
+            "document": "Cyclin-dependent kinase . A cyclin-dependent kinase inhibitor (CKI) is a protein that interacts with a cyclin-CDK complex to block kinase activity, usually during G1 or in response to signals from the environment or from damaged DNA. In animal cells, there are two major CKI families: the INK4 family and the CIP/KIP family. The INK4 family proteins are strictly inhibitory and bind CDK monomers. Crystal structures of CDK6-INK4 complexes show that INK4 binding twists the CDK to distort cyclin binding and kinase activity. The CIP/KIP family proteins bind both the cyclin and the CDK of a complex and can be inhibitory or activating. CIP/KIP family proteins activate cyclin D and CDK4 or CDK6 complexes by enhancing complex formation.",
+            "score": 220.7231903076172
+        },
+        {
+            "docid": "13562301_2",
+            "document": "CDKN1B . Cyclin-dependent kinase inhibitor 1B (p27) is an enzyme inhibitor that in humans is encoded by the CDKN1B gene. It encodes a protein which belongs to the \"Cip/Kip\" family of cyclin dependent kinase (Cdk) inhibitor proteins. The encoded protein binds to and prevents the activation of cyclin E-CDK2 or cyclin D-CDK4 complexes, and thus controls the cell cycle progression at G1. It is often referred to as a cell cycle inhibitor protein because its major function is to stop or slow down the cell division cycle.",
+            "score": 220.5806884765625
+        },
+        {
+            "docid": "14119736_3",
+            "document": "Cyclin D3 . The protein encoded by this gene belongs to the highly conserved cyclin family, whose members are characterized by a dramatic periodicity in protein abundance through the cell cycle. Cyclins function as regulators of CDK kinases. Different cyclins exhibit distinct expression and degradation patterns which contribute to the temporal coordination of each mitotic event. This cyclin forms a complex with and functions as a regulatory subunit of CDK4 or CDK6, whose activtiy is required for cell cycle G1/S transition. This protein has been shown to interact with and be involved in the phosphorylation of tumor suppressor protein Rb. The CDK4 activity associated with this cyclin was reported to be necessary for cell cycle progression through G2 phase into mitosis after UV radiation.",
+            "score": 220.49600219726562
+        },
+        {
+            "docid": "9880147_8",
+            "document": "Cyclin D . In viruses, like Saimiriine herpesvirus 2 (\"Herpesvirus saimiri\") and Human herpesvirus 8 (HHV-8/Kaposi's sarcoma-associated herpesvirus) cyclin D homologues have acquired new functions in order to manipulate the host cell\u2019s metabolism to the viruses\u2019 benefit. Viral cyclin D binds human Cdk6 and inhibits Rb by phosphorylating it, resulting in free transcription factors which result in protein transcription that promotes passage through G1 phase of the cell cycle. Other than Rb, viral cyclin D-Cdk6 complex also targets p27, a Cdk inhibitor of cyclin E and A.  In addition, viral cyclin D-Cdk6 is resistant to Cdk inhibitors, such as p21 and p16 which in human cells inhibits Cdk4 by preventing it from forming an active complex with cyclin D.",
+            "score": 217.13250732421875
+        },
+        {
+            "docid": "9880209_3",
+            "document": "Cyclin-dependent kinase 6 . This kinase is a catalytic subunit of the protein kinase complex, important for the G1 phase progression and G1/S transition of the cell cycle and the complex is composed also by an activating sub-unit; the cyclin D. The activity of this kinase first appears in mid-G1 phase, which is controlled by the regulatory subunits including D-type cyclins and members of INK4 family of CDK inhibitors. This kinase, as well as CDK4, has been shown to phosphorylate, and thus regulate the activity of, tumor suppressor Retinoblastoma protein making CDK6 an important protein in cancer development.",
+            "score": 216.76153564453125
+        },
+        {
+            "docid": "38879444_16",
+            "document": "TP53-inducible glycolysis and apoptosis regulator . TIGAR activity can prevent cells progressing into S phase through a checkpoint known in humans as the restriction point. At the very start of G1 phase, a protein called retinoblastoma (Rb) exists in an un-phosphorylated state. In this state, Rb binds to a protein transcription factor E2F and prevents E2F from activating transcription of proteins essential for S-phase. During a normal cell cycle, as G1 progresses, Rb will become phosphorylated in a specific set of sequential steps by proteins called cyclin dependent kinases (cdks) bound to cyclin proteins. The specific complexes that phosphorylate Rb are cyclin D-cdk4 and cyclin E-cdk2.",
+            "score": 216.51934814453125
+        },
+        {
+            "docid": "3730562_6",
+            "document": "Cell cycle checkpoint . When DNA damage occurs, or when the cell detects any defects which necessitate it to delay or halt the cell cycle in G1, arrest occurs through several mechanisms. The rapid response involves phosphorylation events that initiate with either kinase ATM (Ataxia telangiectasia mutated) or ATR (Ataxia Telangiectasia and Rad3 related), which act as sensors, depending on the type of damage. These kinases phosphorylate and activate the effector kinases Chk2 and Chk1, respectively, which in turn phosphorylate the phosphatase Cdc25A, thus marking it for ubiquitination and degradation. As Cdc25A activates the previously mentioned cyclin E-CDK2 complex by removing inhibitory phosphates from CDK2, in the absence of Cdc25A, cyclin E-CDK2 remains inactive, and the cell remains in G1. To maintain the arrest, another response is initiated, by which Chk2 or Chk1 phosphorylate p53, a tumor suppressor, and this stabilizes p53 by preventing it from binding Mdm2, a ubiquitin ligase which inhibits p53 by targeting it for degradation. The stable p53 then acts a transcriptional activator of several target genes, including p21, an inhibitor of the G1-to-S promoting complex cyclin E-CDK2. In addition, another mechanism by which p21 is activated is through the accumulation of p16 in response to DNA damage. p16 disrupts cyclin D-CDK4 complexes, thus causing the release of p21 from the complexes, which leads to the dephosphorylation and activation of Rb, which allows Rb to bind and inhibit E2F1-3, thus keeping the cell from transitioning to S phase. Recently, some aspects of this model have been disputed.",
+            "score": 215.59317016601562
+        },
+        {
+            "docid": "9880209_5",
+            "document": "Cyclin-dependent kinase 6 . In 1994, Matthew Meyerson and Ed Harlow investigated the product of a close analogous gene of CDK4. This gene, identified as PLSTIRE was translated into a protein that interacted with the cyclins CD1, CD2 and CD3 (same as CDK4), but that was different from CDK4; the protein was then renamed CDK6 for simplicity. In mammalian cells, cell cycle is activated by CDK6 in the early G1 phase through interactions with cyclins D1, D2 and D3. There are many changes in gene expression that are regulated through this enzyme. After the complex is formed, the C-CDK6 enzymatic complex phosphorylates the protein pRb.  After its phosphorylation, pRb releases its binding partner E2F, a transcriptional activator, which in turn activates DNA replication. The CDK6 complex ensures a point of switch to commit to division responding to external signals, like mitogens and growth factors.",
+            "score": 214.84825134277344
+        },
+        {
+            "docid": "30855468_25",
+            "document": "Retinoblastoma protein . When a cell enters G1, Cyclin D- Cdk4/6 phosphorylates Rb at a single phosphorylation site. No progressive phosphorylation occurs because when HFF cells were exposed to sustained cyclin D- Cdk4/6 activity (and even deregulated activity) in early G1, only mono-phosphorylated Rb was detected. Furthermore, triple knockout, p16 addition, and Cdk 4/6 inhibitor addition experiments confirmed that Cyclin D- Cdk 4/6 is the sole phosphorylator of Rb.",
+            "score": 213.13583374023438
+        },
+        {
+            "docid": "9895813_5",
+            "document": "Cyclin D/Cdk4 . There are also other peripheral regulators of the Cyclin D/Cdk4 complex. In megakaryocytes, it is regulated by the GATA-1 transcription factor. GATA-1 serves as an activating transcription factor of Cyclin D and potentially also as a repressor of the Cyclin D inhibitor, p16. Cdk4 also requires activation upon complex assembly with Cyclin D. This is accomplished by a Cdk activating kinase (CAK), which phosphorylates Cdk4 at threonine 172.",
+            "score": 210.0300750732422
+        },
+        {
+            "docid": "5813192_2",
+            "document": "CDK-activating kinase . CDK-activating kinase (CAK) activates the cyclin-CDK complex by phosphorylating threonine residue 160 in the CDK activation loop. CAK itself is a member of the Cdk family and functions as a positive regulator of Cdk1, Cdk2, Cdk4, and Cdk6.",
+            "score": 208.98104858398438
+        },
+        {
+            "docid": "9880147_4",
+            "document": "Cyclin D . Cyclin D is one of the major cyclins produced in terms of its functional importance. It interacts with four Cdks: Cdk2, 4, 5, and 6. In proliferating cells, cyclin D-Cdk4/6 complex accumulation is of great importance for cell cycle progression. Namely, cyclin D-Cdk4/6 complex partially phosphorylates retinoblastoma tumor suppressor protein (Rb), whose inhibition can induce expression of some genes (for example: cyclin E) important for S phase progression.",
+            "score": 207.62710571289062
+        },
+        {
+            "docid": "6766548_5",
+            "document": "P14arf . The p14ARF transcript was first identified in humans in 1995, and its protein product confirmed in mice that same year. Its gene locus is on the short arm of chromosome 9 in humans, and on a corresponding location on chromosome 4 in mice. It is located near the genes for the tandem repeats INK4a and INK4b, which are 16 kDa (p16) and 15 kDa (p15) proteins, respectively. These INK4 proteins directly inhibit the cyclin D-dependent kinases CDK4 and CDK6. There are other INK4 genes on other chromosomes, however these are not linked to cancer, and so their functions are not likely to be overlapping. An important cyclin-dependent substrate is the retinoblastoma protein Rb, which is phosphorylated in late gap 1 phase (G1 phase), allowing G1 exit. The Rb protein limits cell proliferation by blocking the activity of E2F transcription factors, which activate the transcription of genes needed for DNA replication. When Rb is phosphorylated by cyclin D and E-dependent kinases during the G1 phase of the cell cycle, Rb can not block E2F-dependent transcription, and the cell can progress to the DNA synthetic phase(S phase). Therefore, INK4a and INK4b serve as tumor suppressors by restricting proliferation though the inhibition of the CDKs responsible for Rb phosphorylation.",
+            "score": 206.40780639648438
+        },
+        {
+            "docid": "619200_3",
+            "document": "Cyclin-dependent kinase . Most of the known cyclin-CDK complexes regulate the progression through the cell cycle. Animal cells contain at least nine CDKs, four of which, CDK1, 2, 3, and 4, are directly involved in cell cycle regulation. In mammalian cells, CDK1, with its partners cyclin A2 and B1, alone can drive the cell cycle. Another one, CDK7, is involved indirectly as the CDK-activating kinase. Cyclin-CDK complexes phosphorylate substrates appropriate for the particular cell cycle phase. Cyclin-CDK complexes of earlier cell-cycle phase help activate cyclin-CDK complexes in later phase.",
+            "score": 206.21347045898438
+        },
+        {
+            "docid": "14723274_3",
+            "document": "CDKN2B . This gene lies adjacent to the tumor suppressor gene CDKN2A in a region that is frequently mutated and deleted in a wide variety of tumors. This gene encodes a cyclin-dependent kinase inhibitor, also known as p15Ink4b protein, which forms a complex with CDK4 or CDK6, and prevents the activation of the CDK kinases by cyclin D, thus the encoded protein functions as a cell growth regulator that inhibits cell cycle G1 progression. The expression of this gene was found to be dramatically induced by TGF beta, which suggested its role in the TGF beta induced growth inhibition. Two alternatively spliced transcript variants of this gene, which encode distinct proteins, have been reported.",
+            "score": 205.39451599121094
+        },
+        {
+            "docid": "9880209_6",
+            "document": "Cyclin-dependent kinase 6 . CDK6 is involved in a positive feedback loop that activates transcription factors through a reaction cascade. Importantly, these C-CDK complexes act as a kinase, phosphorylating and inactivating the protein of Rb and p-Rb related \u201cpocket proteins\u201d p107 and p130. While doing this, the CDK6 in conjunction with CDK4, act as a switch signal that first appears in G1, directing the cell towards S phase of the cell cycle.",
+            "score": 205.04579162597656
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "43946_32",
+            "document": "Biofilm . Biofilms have been found to be involved in a wide variety of microbial infections in the body, by one estimate 80% of all infections. Infectious processes in which biofilms have been implicated include common problems such as bacterial vaginosis, urinary tract infections, catheter infections, middle-ear infections, formation of dental plaque, gingivitis, coating contact lenses, and less common but more lethal processes such as endocarditis, infections in cystic fibrosis, and infections of permanent indwelling devices such as joint prostheses, heart valves, and intervertebral disc. More recently it has been noted that bacterial biofilms may impair cutaneous wound healing and reduce topical antibacterial efficiency in healing or treating infected skin wounds. Early detection of biofilms in wounds is crucial to successful chronic wound management. Although many techniques have developed to identify planktonic bacteria in viable wounds, few have been able to quickly and accurately identify bacterial biofilms. Future studies are needed to find means of identifying and monitoring biofilm colonization at the bedside to permit timely initiation of treatment.",
+            "score": 78.18418598175049
+        },
+        {
+            "docid": "28253826_13",
+            "document": "Bacterial small RNA . Biofilm is a type of bacterial growth pattern where multiple layers of bacterial cells adhere to a host surface. This mode of growth is often found in pathogenic bacteria, including \"Pseudomonas aeruginosa\", which can form persistent biofilm within the respiratory tract and cause chronic infection. The \"P. aeruginosa\" sRNA SbrA was found to be necessary for full biofilm formation and pathogenicity. A mutant \"P. aeruginosa\" strain with SbrA deleted formed a 66% smaller biofilm and its ability to infect a nematode model was reduced by nearly half when compared to wildtype \"P. aeruginosa\".",
+            "score": 71.94667673110962
+        },
+        {
+            "docid": "3120850_18",
+            "document": "Chronic wound . Since more oxygen in the wound environment allows white blood cells to produce ROS to kill bacteria, patients with inadequate tissue oxygenation, for example those who suffered hypothermia during surgery, are at higher risk for infection. The host\u2019s immune response to the presence of bacteria prolongs inflammation, delays healing, and damages tissue. Infection can lead not only to chronic wounds but also to gangrene, loss of the infected limb, and death of the patient. More recently, an interplay between bacterial colonization and increases in reactive oxygen species leading to formation and production of biofilms has been shown to the generate chronic wounds.",
+            "score": 66.22097849845886
+        },
+        {
+            "docid": "37220_18",
+            "document": "Infection . An interesting fact that gas chromatography\u2013mass spectrometry, 16S ribosomal RNA analysis, omics, and other advanced technologies have made more apparent to humans in recent decades is that microbial colonization is very common even in environments that humans think of as being nearly sterile. Because it is normal to have bacterial colonization, it is difficult to know which chronic wounds can be classified as infected and how much risk of progression exists. Despite the huge number of wounds seen in clinical practice, there are limited quality data for evaluated symptoms and signs. A review of chronic wounds in the Journal of the American Medical Association's \"Rational Clinical Examination Series\" quantified the importance of increased pain as an indicator of infection. The review showed that the most useful finding is an increase in the level of pain [likelihood ratio (LR) range, 11\u201320] makes infection much more likely, but the absence of pain (negative likelihood ratio range, 0.64\u20130.88) does not rule out infection (summary LR 0.64\u20130.88).",
+            "score": 55.58251070976257
+        },
+        {
+            "docid": "4185_10",
+            "document": "Bacteriophage . Their use has continued since the end of the Cold War in Georgia and elsewhere in Central and Eastern Europe. The first regulated, randomized, double-blind clinical trial was reported in the Journal of Wound Care in June 2009, which evaluated the safety and efficacy of a bacteriophage cocktail to treat infected venous leg ulcers in human patients. The FDA approved the study as a Phase I clinical trial. The study's results demonstrated the safety of therapeutic application of bacteriophages but did not show efficacy. The authors explain that the use of certain chemicals that are part of standard wound care (e.g. lactoferrin or silver) may have interfered with bacteriophage viability. Another controlled clinical trial in Western Europe (treatment of ear infections caused by \"Pseudomonas aeruginosa\") was reported shortly after in the journal Clinical Otolaryngology in August 2009. The study concludes that bacteriophage preparations were safe and effective for treatment of chronic ear infections in humans. Additionally, there have been numerous animal and other experimental clinical trials evaluating the efficacy of bacteriophages for various diseases, such as infected burns and wounds, and cystic fibrosis associated lung infections, among others. Meanwhile, bacteriophage researchers are developing engineered viruses to overcome antibiotic resistance, and engineering the phage genes responsible for coding enzymes which degrade the biofilm matrix, phage structural proteins and also enzymes responsible for lysis of bacterial cell wall. There have been results showing that T4 phages that are small in size and short-tailed can be helpful in detecting \"E.coli\" in the human body.",
+            "score": 52.62315130233765
+        },
+        {
+            "docid": "3120850_19",
+            "document": "Chronic wound . Like ischemia, bacterial colonization and infection damage tissue by causing a greater number of neutrophils to enter the wound site. In patients with chronic wounds, bacteria with resistances to antibiotics may have time to develop. In addition, patients that carry drug resistant bacterial strains such as methicillin-resistant Staphylococcus aureus (MRSA) have more chronic wounds.",
+            "score": 63.46595811843872
+        },
+        {
+            "docid": "43946_35",
+            "document": "Biofilm . \"P. aeruginosa\" represents a commonly used biofilm model organism since it is involved in different types of biofilm-associated infections. Examples of such infections include chronic wounds, chronic otitis media, chronic prostatitis and chronic lung infections in cystic fibrosis (CF) patients. About 80% of CF patients have chronic lung infection, caused mainly by \"P. aeruginosa\" growing in a non-surface attached biofilms surround by PMN. The infection remains present despite aggressive antibiotic therapy and is a common cause of death in CF patients due to constant inflammatory damage to the lungs. In patients with CF, one therapy for treating early biofilm development is to employ DNase to structurally weaken the biofilm.",
+            "score": 60.73782992362976
+        },
+        {
+            "docid": "3120850_33",
+            "document": "Chronic wound . A greater amount of exudate and necrotic tissue in a wound increases likelihood of infection by serving as a medium for bacterial growth away from the host\u2019s defenses. Since bacteria thrive on dead tissue, wounds are often surgically debrided to remove the devitalized tissue. Debridement and drainage of wound fluid are an especially important part of the treatment for diabetic ulcers, which may create the need for amputation if infection gets out of control. Mechanical removal of bacteria and devitalized tissue is also the idea behind wound irrigation, which is accomplished using pulsed lavage.",
+            "score": 57.26599383354187
+        },
+        {
+            "docid": "37808_29",
+            "document": "Catalase . Neutrophils and other phagocytes use peroxide to kill bacteria. The enzyme NADPH oxidase generates superoxide within the phagosome, which is converted via hydrogen peroxide to other oxidising substances like hypochlorous acid which kill phagocytosed pathogens. In individuals with chronic granulomatous disease (CGD) there is a defect in producing peroxide via mutations in phagocyte oxidases such as myeloperoxidase. Normal cellular metabolism will still produce a small amount of peroxide and this peroxide can be used to produce hypochlorous acid to eradicate the bacterial infection. However, if individuals with CGD are infected with catalase-positive bacteria, the bacterial catalase can destroy the excess peroxide before it can be used to produce other oxidising substances. In these individuals the pathogen survives and becomes a chronic infection. This chronic infection is typically surrounded by macrophages in an attempt to isolate the infection. This wall of macrophages surrounding a pathogen is called a granuloma. Many bacteria are catalase positive, but some are better catalase-producers than others. The mnemonic \"cats Need PLACESS to Belch their Hairballs\" can be used to memorise the catalase-positive bacteria: nocardia, pseudomonas, listeria, aspergillus, candida, E. coli, staphylococcus, serratia, B. cepacia and H. pylori.",
+            "score": 57.674335956573486
+        },
+        {
+            "docid": "665554_7",
+            "document": "Radial keratotomy . The healing corneal wounds consist of newly abutting corneal stroma, fibroblastic cells, and irregular fibrous connective tissue. Closer to the wound surface lies the epithelial plug, a bed of the cells that form the normal corneal epithelium which have fallen into the wound. Often this plug is three to four times as deep as the normal corneal epithelium layer. As the cells migrate from the depth of the plug up to the surface, some die before reaching it, forming breaches in the otherwise healthy epithelial layer. This, consequently, leaves the cornea more susceptible to infections. The risk is estimated to be between 0.25% and 0.7% Healing of the RK incisions is very slow and unpredictable, often incomplete even years after surgery. Similarly, infection of these chronic wounds can also occur years after surgery, with 53% of ocular infections being late in onset. The pathogen most commonly involved in such infections is the highly virulent bacterium \"Pseudomonas aeruginosa\".",
+            "score": 40.49756956100464
+        },
+        {
+            "docid": "670854_15",
+            "document": "Jasmonate . One of the molecules included in this mixture is the phytotoxin coronatine (COR). JA-insensitive plants are highly resistant to \"P. syringae\" and unresponsive to COR; additionally, applying MeJA was sufficient to rescue virulence in COR mutant bacteria. Infected plants also expressed downstream JA and wound response genes but repressed levels of pathogenesis-related (PR) genes. All these data suggest COR acts through the JA pathway to invade host plants. Activation of a wound response is hypothesized to come at the expense of pathogen defense. By activating the JA wound response pathway, \"P. syringae\" could divert resources from its host's immune system and infect more effectively.",
+            "score": 42.89359188079834
+        },
+        {
+            "docid": "45356351_6",
+            "document": "Edward Thomas Ryan . Ryan's efforts in typhoid have largely focused on using high throughput analyses to characterize both pathogen responses during typhoid fever, including bacterial gene expression in infected humans, and human immune responses to bacterial infection. This collaborative work with Charles and Qadri has identified a biomarker of chronic carriage of the bacillus that causes typhoid fever (YncE; STY1479), and included the first transcriptional (gene expression) analysis of a bacterial pathogen directly in the bloodstream of an infected human; work that was performed in humans with typhoid and paratyphoid fever in Bangladesh. This work has informed diagnostic assay development.",
+            "score": 52.777862310409546
+        },
+        {
+            "docid": "13520743_22",
+            "document": "Functional cloning . One of the ongoing challenges of treating bacterial infections is antibiotic resistance which commonly arises when patients do not take their full treatment of medication and hence allow bacteria to develop resistance to antibiotics over time. To understand how to combat antibiotic resistance it is important to understand how the bacterial genome is evolving and changing in healthy individuals with no recent usage of antibiotics to provide a baseline. Using a functional cloning-based technique, DNA isolated from human microflora were cloned into expression vectors in \"Escherichia coli\". Afterwards, antibiotics were applied as a screen. If a plasmid contained a gene insert that provided antibiotic resistance the cell survived and was selected on the plate. If the insert provided no resistance, the cell died and did not form a colony. Based on selection of cell colonies that survived, a better picture of genetic factors contributing to antibiotic resistance were pieced together. Most of the resistance genes that were identified were previously unknown. By using a functional cloning-based technique one is able to elucidate genes giving rise to antibiotic resistance to better understand treatment for bacterial infections.",
+            "score": 52.81725311279297
+        },
+        {
+            "docid": "53613943_3",
+            "document": "Anaerococcus . It is a pathogen of humans found in ovarian abscesses, chronic wounds and vaginal discharge. It can be present in urinary tract infections, chronic ulcers, pleural empyema, blood infections, and soft tissue infections. It is involved in polymicrobial infections.",
+            "score": 48.41275119781494
+        },
+        {
+            "docid": "40228929_4",
+            "document": "Urs Jenal . The research of Urs Jenal explores the molecular basis of signal transduction controlling the growth, development and behavior of bacteria. Jenal received international acclaim through his discovery of a new pathway, which is based on a new cyclic di-nucleotide (c-di-GMP) and which coordinates the formation of microbial biofilms and contributes to the development of chronic bacterial infections. With the model bacterium Caulobacter crescentus, Jenal discovered that c-di-GMP controls the transition from motile bacteria to a sedentary biofilm-forming structure and this process coordinates the replication cycle of the cells. Jenal\u2019s most recent work has investigated the importance of the c-di-GMP signaling network for chronic lung infections caused by Pseudomonas aeruginosa in patients with cystic fibrosis.",
+            "score": 64.17934703826904
+        },
+        {
+            "docid": "245969_10",
+            "document": "Ulcer (dermatology) . The wounds from which ulcers arise can be caused by a wide variety of factors, but the main cause is impaired blood circulation. Especially, chronic wounds and ulcers are caused by poor circulation, either through cardiovascular issues or external pressure from a bed or a wheelchair. A very common and dangerous type of skin ulcers are caused by what are called pressure-sensitive sores, more commonly called bed sores and which are frequent in people who are bedridden or who use wheelchairs for long periods. Other causes producing skin ulcers include bacterial or viral infections, fungal infections and cancers. Blood disorders and chronic wounds can result in skin ulcers as well.",
+            "score": 48.07337474822998
+        },
+        {
+            "docid": "37220_15",
+            "document": "Infection . Wound colonization refers to nonreplicating microorganisms within the wound, while in infected wounds, replicating organisms exist and tissue is injured. All multicellular organisms are colonized to some degree by extrinsic organisms, and the vast majority of these exist in either a mutualistic or commensal relationship with the host. An example of the former is the anaerobic bacteria species, which colonizes the mammalian colon, and an example of the latter are the various species of staphylococcus that exist on human skin. Neither of these colonizations are considered infections. The difference between an infection and a colonization is often only a matter of circumstance. Non-pathogenic organisms can become pathogenic given specific conditions, and even the most virulent organism requires certain circumstances to cause a compromising infection. Some colonizing bacteria, such as \"Corynebacteria sp.\" and \"viridans streptococci\", prevent the adhesion and colonization of pathogenic bacteria and thus have a symbiotic relationship with the host, preventing infection and speeding wound healing.",
+            "score": 41.33953332901001
+        },
+        {
+            "docid": "3120850_14",
+            "document": "Chronic wound . Though much progress has been accomplished in the study of chronic wounds lately, advances in the study of their healing have lagged behind expectations. This is partly because animal studies are difficult because animals do not get chronic wounds, since they usually have loose skin that quickly contracts, and they normally do not get old enough or have contributing diseases such as neuropathy or chronic debilitating illnesses. Nonetheless, current researchers now understand some of the major factors that lead to chronic wounds, among which are ischemia, reperfusion injury, and bacterial colonization.",
+            "score": 42.024863958358765
+        },
+        {
+            "docid": "28598_20",
+            "document": "Sinusitis . Chronic rhinosinusitis represents a multifactorial inflammatory disorder, rather than simply a persistent bacterial infection. The medical management of chronic rhinosinusitis is now focused upon controlling the inflammation that predisposes patients to obstruction, reducing the incidence of infections. However, all forms of chronic rhinosinusitis are associated with impaired sinus drainage and secondary bacterial infections. Most individuals require initial antibiotics to clear any infection and intermittently afterwards to treat acute exacerbations of chronic rhinosinusitis.",
+            "score": 65.88377332687378
+        },
+        {
+            "docid": "3120850_21",
+            "document": "Chronic wound . Since growth factors (GFs) are imperative in timely wound healing, inadequate GF levels may be an important factor in chronic wound formation. In chronic wounds, the formation and release of growth factors may be prevented, the factors may be sequestered and unable to perform their metabolic roles, or degraded in excess by cellular or bacterial proteases.",
+            "score": 41.94798517227173
+        },
+        {
+            "docid": "3120850_36",
+            "document": "Chronic wound . Recent technological advancements produced novel approaches such as self-adaptive wound dressings that rely on properties of smart polymers sensitive to changes in humidity levels. The dressing delivers absorption or hydration as needed over each independent wound area and aids in the natural process of autolytic debridement. It effectively removes liquefied slough and necrotic tissue, disintegrated bacterial biofilm as well as harmful exudate components, known to slow the healing process. The treatment also reduces bacterial load by effective evacuation and immobilization of microorganisms from the wound bed, and subsequent chemical binding of available water that is necessary for their replication. Self-adaptive dressings protect periwound skin from extrinsic factors and infection while regulating moisture balance over vulnerable skin around the wound.",
+            "score": 51.21308636665344
+        },
+        {
+            "docid": "56598639_4",
+            "document": "Innate immune defect . Myeloid differentiation primary response gene 88 deficiency (MyD88) is a disorder of the innate immune system. It belongs to rare primary immunodeficiency characterized by an increased susceptibility to certain types of bacterial infections. Patients suffer from abnormally frequent and severe infections by a subset of bacteria known as pyogenic bacteria such as \"Staphylococcus aureus, Streptococcus pneumoniae\" and \"Pseudomonas aeruginosa\". However, affected individuals have normal resistance to other common bacteria, virusesfungi, and parasites. MYD88 deficiency is caused by mutations in the MYD88 gene and is inherited in an autosomal recessive manner. MYD88 gene provides instructions for making a protein that plays an important role in stimulating the immune system to respond to bacterial infection. The MyD88 protein is part of a signaling pathway that is involved in early recognition of pathogens and the initiation of inflammation to fight infection. This signaling pathway is part of the innate immune response. Most people with this condition have their first bacterial infection before age 2, and the infections can be life-threatening in infancy and childhood. Infections become less frequent by about age 10.",
+            "score": 48.93643569946289
+        },
+        {
+            "docid": "5389714_6",
+            "document": "Virulence factor . Viruses also have notable virulence factors. Experimental research, for example, often focuses on creating environments that isolate and identify the role of \"niche-specific virulence genes\". These are genes that perform specific tasks within specific tissues/places at specific times; the sum total of niche-specific genes is the virus' virulence. Genes characteristic of this concept are those that control latency in some viruses like herpes. Murine gamma herpesvirus 68 (\u03b3HV68) and human herpesviruses depend on a subset of genes that allow them to maintain a chronic infection by reactivating when specific environmental conditions are met. Even though they are not essential for lytic phases of the virus, these latency genes are important for promoting chronic infection and continued replication within infected individuals.",
+            "score": 45.38826560974121
+        },
+        {
+            "docid": "3120850_34",
+            "document": "Chronic wound . Removing necrotic or devitalzed tissue is also the aim of maggot therapy, the intentional introduction by a health care practitioner of live, disinfected maggots into non-healing wounds. Maggots dissolve only necrotic, infected tissue; disinfect the wound by killing bacteria; and stimulate wound healing. Maggot therapy has been shown to accelerate debridement of necrotic wounds and reduce the bacterial load of the wound, leading to earlier healing, reduced wound odor and less pain. The combination and interactions of these actions make maggots an extremely potent tool in chronic wound care.",
+            "score": 49.398584842681885
+        },
+        {
+            "docid": "339961_13",
+            "document": "Pseudomonas . \"Pseudomonas aeruginosa\" is increasingly recognized as an emerging opportunistic pathogen of clinical relevance. One of its most worrying characteristics is its low antibiotic susceptibility. This low susceptibility is attributable to a concerted action of multidrug efflux pumps with chromosomally encoded antibiotic resistance genes (e.g., \"mexAB-oprM\", \"mexXY\", etc.,) and the low permeability of the bacterial cellular envelopes. Besides intrinsic resistance, \"P. aeruginosa\" easily develops acquired resistance either by mutation in chromosomally encoded genes or by the horizontal gene transfer of antibiotic resistance determinants. Development of multidrug resistance by \"P. aeruginosa\" isolates requires several different genetic events that include acquisition of different mutations and/or horizontal transfer of antibiotic resistance genes. Hypermutation favours the selection of mutation-driven antibiotic resistance in \"P. aeruginosa\" strains producing chronic infections, whereas the clustering of several different antibiotic resistance genes in integrons favours the concerted acquisition of antibiotic resistance determinants. Some recent studies have shown phenotypic resistance associated to biofilm formation or to the emergence of small-colony-variants, which may be important in the response of \"P. aeruginosa\" populations to antibiotic treatment.",
+            "score": 45.67216157913208
+        },
+        {
+            "docid": "32161_10",
+            "document": "Urinary tract infection . Chronic prostatitis in the forms of chronic prostatitis/chronic pelvic pain syndrome and chronic bacterial prostatitis (not acute bacterial prostatitis or asymptomatic inflammatory prostatitis) may cause recurrent urinary tract infections in males. Risk of infections increases as males age. While bacteria is commonly present in the urine of older males this does not appear to affect the risk of urinary tract infections.",
+            "score": 64.49578857421875
+        },
+        {
+            "docid": "38238_31",
+            "document": "Hepatitis . The pathway by which hepatic viruses cause viral hepatitis is best understood in the case of hepatitis B and C. The viruses do not directly cause apoptosis (cell death). Rather, infection of liver cells activates the innate and adaptive arms of the immune system leading to an inflammatory response which causes cellular damage and death. Depending on the strength of the immune response, the types of immune cells involved and the ability of the virus to evade the body's defense, infection can either lead to clearance (acute disease) or persistence (chronic disease) of the virus. The chronic presence of the virus within liver cells results in multiple waves of inflammation, injury and wound healing that overtime lead to scarring or fibrosis and culminate in hepatocellular carcinoma. Individuals with an impaired immune response are at greater risk of developing chronic infection. Natural killer cells are the primary drivers of the initial innate response and create a cytokine environment that results in the recruitment of CD4 T-helper and CD8 cytotoxic T-cells. Type I interferons are the cytokines that drive the antiviral response. In chronic Hepatitis B and C, natural killer cell function is impaired.",
+            "score": 46.24070191383362
+        },
+        {
+            "docid": "2459712_9",
+            "document": "Moraxella catarrhalis . \"M. catarrhalis\" has recently been gaining attention as an emerging human pathogen. It has been identified as an important cause in bronchopulmonary infection, causing infection through pulmonary aspiration in the upper pulmonary tract. Additionally, it causes bacterial pneumonia, especially in adults with a compromised immune system. It has also been known to cause infective exacerbations in adults with chronic lung disease, and it is an important cause in acute sinusitis, maxillary sinusitis, bacteremia, meningitis, conjunctivitis, acute purulent irritation of chronic bronchitis, urethritis, septicemia (although this is rare), septic arthritis (which is also a rare occurrence),and acute laryngitis in adults and acute otitis media in children. \"M. catarrhalis\" is an opportunistic pulmonary invader, and causes harm especially in patients who have compromised immune systems or any underlying chronic disease.",
+            "score": 47.05932855606079
+        },
+        {
+            "docid": "34628200_3",
+            "document": "Staphylococcus gallinarum . \"S. gallinarum\" is not generally pathogenic, though it has been isolated from infected wounds of hospital patients, from blood of a patient with a chronic hepatitis B infection, and from an eye infection (endophthalmitis). The infection rate and morbidity of \"S. gallinarum\" is comparatively low and its effects on humans are limited.",
+            "score": 41.69936656951904
+        },
+        {
+            "docid": "2459654_18",
+            "document": "Pseudomonas aeruginosa . Biofilms of \"P. aeruginosa\" can cause chronic opportunistic infections, which are a serious problem for medical care in industrialized societies, especially for immunocompromised patients and the elderly. They often cannot be treated effectively with traditional antibiotic therapy. Biofilms seem to protect these bacteria from adverse environmental factors. \"P. aeruginosa\" can cause nosocomial infections and is considered a model organism for the study of antibiotic-resistant bacteria. Researchers consider it important to learn more about the molecular mechanisms that cause the switch from planktonic growth to a biofilm phenotype and about the role of QS in treatment-resistant bacteria such as \"P. aeruginosa\". This should contribute to better clinical management of chronically infected patients, and should lead to the development of new drugs.",
+            "score": 63.394274950027466
+        },
+        {
+            "docid": "11864966_6",
+            "document": "Exophiala jeanselmei . \"Exophiala jeanselmei\" has versatile adaptability and acts as an opportunistic pathogen. Infections are more common in immunocompromised people and can also have manifestations in healthy people with wounded skin via traumatic implantation. Chronic steroid use has been found to increase the severity of inflammation. There were also cases where infections by \"E. jeanselmei\" occurred during solid organ transplants. Infections frequently cause inflammation in the cutaneous and subcutaneous tissues of the skin, causing phaeomycotic cyst, chromoblastomycosis and can occasionally cause eumycetoma which is a chronic granulomatous disease in the form of black grains. Mycetoma, a common form of clinical manifestation of \"E. jeanselmei\", is a chronic granulomatous inflammatory disease that forms abscess and draining sinuses in more advanced stages. In mycotic mycetoma, vesicles of cyst like structures are formed. Dissemination, endocarditis and arthritis could arise from an opportunistic infection by \"E. jeanselmei\", and it was also isolated from phaeohyphomycosis with sclerotic round bodies. There have been several cases of \"E. jeanselmei\" being the etiological agent of phaeohyphomycosis in domesticated cats where diagnoses were confirmed by sequencing the fungus' ribosomal RNA. The grains of this fungus are small, black in color and have soft centers. Rare cases of keratitis, infection of the cornea, have also identified \"E. jeanselmei\" as the etiological agent.",
+            "score": 39.92525124549866
+        },
+        {
+            "docid": "3120850_16",
+            "document": "Chronic wound . While they fight pathogens, neutrophils also release inflammatory cytokines and enzymes that damage cells. One of their important jobs is to produce Reactive Oxygen Species (ROS) to kill bacteria, for which they use an enzyme called myeloperoxidase. The enzymes and ROS produced by neutrophils and other leukocytes damage cells and prevent cell proliferation and wound closure by damaging DNA, lipids, proteins, the extracellular matrix (ECM), and cytokines that speed healing. Neutrophils remain in chronic wounds for longer than they do in acute wounds, and contribute to the fact that chronic wounds have higher levels of inflammatory cytokines and ROS. Since wound fluid from chronic wounds has an excess of proteases and ROS, the fluid itself can inhibit healing by inhibiting cell growth and breaking down growth factors and proteins in the ECM. This impaired healing response is considered uncoordinated. However, soluble mediators of the immune system (growth factors), cell-based therapies and therapeutic chemicals can propagate coordinated healing.",
+            "score": 27.241320610046387
+        }
+    ],
+    "r": [
+        {
+            "docid": "43946_32",
+            "document": "Biofilm . Biofilms have been found to be involved in a wide variety of microbial infections in the body, by one estimate 80% of all infections. Infectious processes in which biofilms have been implicated include common problems such as bacterial vaginosis, urinary tract infections, catheter infections, middle-ear infections, formation of dental plaque, gingivitis, coating contact lenses, and less common but more lethal processes such as endocarditis, infections in cystic fibrosis, and infections of permanent indwelling devices such as joint prostheses, heart valves, and intervertebral disc. More recently it has been noted that bacterial biofilms may impair cutaneous wound healing and reduce topical antibacterial efficiency in healing or treating infected skin wounds. Early detection of biofilms in wounds is crucial to successful chronic wound management. Although many techniques have developed to identify planktonic bacteria in viable wounds, few have been able to quickly and accurately identify bacterial biofilms. Future studies are needed to find means of identifying and monitoring biofilm colonization at the bedside to permit timely initiation of treatment.",
+            "score": 78.18418884277344
+        },
+        {
+            "docid": "28253826_13",
+            "document": "Bacterial small RNA . Biofilm is a type of bacterial growth pattern where multiple layers of bacterial cells adhere to a host surface. This mode of growth is often found in pathogenic bacteria, including \"Pseudomonas aeruginosa\", which can form persistent biofilm within the respiratory tract and cause chronic infection. The \"P. aeruginosa\" sRNA SbrA was found to be necessary for full biofilm formation and pathogenicity. A mutant \"P. aeruginosa\" strain with SbrA deleted formed a 66% smaller biofilm and its ability to infect a nematode model was reduced by nearly half when compared to wildtype \"P. aeruginosa\".",
+            "score": 71.9466781616211
+        },
+        {
+            "docid": "21115942_5",
+            "document": "Multidrug tolerance . Bacterial multidrug or antibiotic tolerance poses medically important challenges. It is largely responsible for the inability to eradicate bacterial infections with antibiotic treatment. Persister cells are highly enriched in biofilms, and it has been suggested that this is the reason that makes biofilm-related diseases so hard to treat. Examples are chronic infections of implanted medical devices such as catheters and artificial joints, urinary tract infections, middle ear infections and fatal lung disease .",
+            "score": 70.36543273925781
+        },
+        {
+            "docid": "2357579_14",
+            "document": "Maxillary sinus . Traditionally the treatment of acute maxillary sinusitis is usually prescription of a broad-spectrum cephalosporin antibiotic resistant to beta-lactamase, administered for 10 days. Recent studies have found that the cause of chronic sinus infections lies in the nasal mucus, not in the nasal and sinus tissue targeted by standard treatment. This suggests a beneficial effect in treatments that target primarily the underlying and presumably damage-inflicting nasal and sinus membrane inflammation, instead of the secondary bacterial infection that has been the primary target of past treatments for the disease. Also, surgical procedures with chronic sinus infections are now changing with the direct removal of the mucus, which is loaded with toxins from the inflammatory cells, rather than the inflamed tissue during surgery. Leaving the mucus behind might predispose early recurrence of the chronic sinus infection. If any surgery is performed, it is to enlarge the ostia in the lateral walls of the nasal cavity, creating adequate drainage.",
+            "score": 66.60545349121094
+        },
+        {
+            "docid": "3120850_18",
+            "document": "Chronic wound . Since more oxygen in the wound environment allows white blood cells to produce ROS to kill bacteria, patients with inadequate tissue oxygenation, for example those who suffered hypothermia during surgery, are at higher risk for infection. The host\u2019s immune response to the presence of bacteria prolongs inflammation, delays healing, and damages tissue. Infection can lead not only to chronic wounds but also to gangrene, loss of the infected limb, and death of the patient. More recently, an interplay between bacterial colonization and increases in reactive oxygen species leading to formation and production of biofilms has been shown to the generate chronic wounds.",
+            "score": 66.22097778320312
+        },
+        {
+            "docid": "28598_20",
+            "document": "Sinusitis . Chronic rhinosinusitis represents a multifactorial inflammatory disorder, rather than simply a persistent bacterial infection. The medical management of chronic rhinosinusitis is now focused upon controlling the inflammation that predisposes patients to obstruction, reducing the incidence of infections. However, all forms of chronic rhinosinusitis are associated with impaired sinus drainage and secondary bacterial infections. Most individuals require initial antibiotics to clear any infection and intermittently afterwards to treat acute exacerbations of chronic rhinosinusitis.",
+            "score": 65.88377380371094
+        },
+        {
+            "docid": "28598_26",
+            "document": "Sinusitis . It has been hypothesized that biofilm bacterial infections may account for many cases of antibiotic-refractory chronic sinusitis. Biofilms are complex aggregates of extracellular matrix and inter-dependent microorganisms from multiple species, many of which may be difficult or impossible to isolate using standard clinical laboratory techniques. Bacteria found in biofilms have their antibiotic resistance increased up to 1000 times when compared to free-living bacteria of the same species. A recent study found that biofilms were present on the mucosa of 75% of people undergoing surgery for chronic sinusitis.",
+            "score": 64.92229461669922
+        },
+        {
+            "docid": "32161_10",
+            "document": "Urinary tract infection . Chronic prostatitis in the forms of chronic prostatitis/chronic pelvic pain syndrome and chronic bacterial prostatitis (not acute bacterial prostatitis or asymptomatic inflammatory prostatitis) may cause recurrent urinary tract infections in males. Risk of infections increases as males age. While bacteria is commonly present in the urine of older males this does not appear to affect the risk of urinary tract infections.",
+            "score": 64.49578857421875
+        },
+        {
+            "docid": "40228929_4",
+            "document": "Urs Jenal . The research of Urs Jenal explores the molecular basis of signal transduction controlling the growth, development and behavior of bacteria. Jenal received international acclaim through his discovery of a new pathway, which is based on a new cyclic di-nucleotide (c-di-GMP) and which coordinates the formation of microbial biofilms and contributes to the development of chronic bacterial infections. With the model bacterium Caulobacter crescentus, Jenal discovered that c-di-GMP controls the transition from motile bacteria to a sedentary biofilm-forming structure and this process coordinates the replication cycle of the cells. Jenal\u2019s most recent work has investigated the importance of the c-di-GMP signaling network for chronic lung infections caused by Pseudomonas aeruginosa in patients with cystic fibrosis.",
+            "score": 64.1793441772461
+        },
+        {
+            "docid": "3120850_19",
+            "document": "Chronic wound . Like ischemia, bacterial colonization and infection damage tissue by causing a greater number of neutrophils to enter the wound site. In patients with chronic wounds, bacteria with resistances to antibiotics may have time to develop. In addition, patients that carry drug resistant bacterial strains such as methicillin-resistant Staphylococcus aureus (MRSA) have more chronic wounds.",
+            "score": 63.46596145629883
+        },
+        {
+            "docid": "2459654_18",
+            "document": "Pseudomonas aeruginosa . Biofilms of \"P. aeruginosa\" can cause chronic opportunistic infections, which are a serious problem for medical care in industrialized societies, especially for immunocompromised patients and the elderly. They often cannot be treated effectively with traditional antibiotic therapy. Biofilms seem to protect these bacteria from adverse environmental factors. \"P. aeruginosa\" can cause nosocomial infections and is considered a model organism for the study of antibiotic-resistant bacteria. Researchers consider it important to learn more about the molecular mechanisms that cause the switch from planktonic growth to a biofilm phenotype and about the role of QS in treatment-resistant bacteria such as \"P. aeruginosa\". This should contribute to better clinical management of chronically infected patients, and should lead to the development of new drugs.",
+            "score": 63.3942756652832
+        },
+        {
+            "docid": "7234402_27",
+            "document": "Osteonecrosis of the jaw . ONJ, even in its mild or minor forms, creates a marrow environment that is conducive to bacterial growth. Since many individuals have low-grade infections of the teeth and gums, this probably is one of the major mechanisms by which the marrow blood flow problem can worsen; any local infection / inflammation will cause increased pressures and clotting in the area involved. No other bones have this mechanism as a major risk factor for osteonecrosis. A wide variety of bacteria have been cultured from ONJ lesions. Typically, they are the same microorganisms as those found in periodontitis or devitalized teeth. However, according to special staining of biopsied tissues, bacterial elements are rarely found in large numbers. So while ONJ is not primarily an infection, many cases have a secondary, very low-level of bacterial infection and chronic non-suppurative osteomyelitis can be associated with ONJ. Fungal infections in the involved bone do not seem to be a problem, but viral infections have not been studied. Some viruses, such as the smallpox virus (no longer existent in the wild) can produce osteonecrosis.",
+            "score": 60.85457229614258
+        },
+        {
+            "docid": "43946_35",
+            "document": "Biofilm . \"P. aeruginosa\" represents a commonly used biofilm model organism since it is involved in different types of biofilm-associated infections. Examples of such infections include chronic wounds, chronic otitis media, chronic prostatitis and chronic lung infections in cystic fibrosis (CF) patients. About 80% of CF patients have chronic lung infection, caused mainly by \"P. aeruginosa\" growing in a non-surface attached biofilms surround by PMN. The infection remains present despite aggressive antibiotic therapy and is a common cause of death in CF patients due to constant inflammatory damage to the lungs. In patients with CF, one therapy for treating early biofilm development is to employ DNase to structurally weaken the biofilm.",
+            "score": 60.737831115722656
+        },
+        {
+            "docid": "2580748_3",
+            "document": "Bacterial adhesin . Adherence is an essential step in bacterial pathogenesis or infection, required for colonizing a new host. Adhesion and bacterial adhesins are also a potential target for prophylaxis or treatment of bacterial infections.",
+            "score": 60.41078186035156
+        },
+        {
+            "docid": "17222716_3",
+            "document": "Chronic bacterial prostatitis . Chronic bacterial prostatitis is a relatively rare condition that usually presents with an intermittent UTI-type picture. It is defined as recurrent urinary tract infections in men originating from a chronic infection in the prostate. Symptoms may be completely absent until there is also bladder infection, and the most troublesome problem is usually recurrent cystitis.",
+            "score": 58.927162170410156
+        },
+        {
+            "docid": "28598_19",
+            "document": "Sinusitis . Chronic sinusitis cases are subdivided into cases with polyps and cases without polyps. When polyps are present, the condition is called chronic hyperplastic sinusitis; however, the causes are poorly understood and may include allergy, environmental factors such as dust or pollution, bacterial infection, or fungus (either allergic, infective, or reactive).",
+            "score": 58.737491607666016
+        },
+        {
+            "docid": "28530696_2",
+            "document": "Pyoverdine . Pyoverdines (alternatively, and less commonly, spelled as pyoverdins) are fluorescent siderophores produced by certain pseudomonads. Pyoverdines are important virulence factors, and are required for pathogenesis in many biological models of infection. Their contributions to bacterial pathogenesis include providing a crucial nutrient (i.e., iron), regulation of other virulence factors (including exotoxin A and the protease PrpL), supporting the formation of biofilms, and are increasingly recognized for having toxicity themselves.",
+            "score": 58.43296813964844
+        },
+        {
+            "docid": "1914_79",
+            "document": "Antimicrobial resistance . Phage therapy relies on the use of naturally-occurring bacteriophages to infect and lyse bacteria at the site of infection in a host. Due to current advances in genetics and biotechnology these bacteriophages can possibly be manufactured to treat specific infections. Phages can be bioengineered to target multidrug-resistant bacterial infections, and their use involves the added benefit of preventing the elimination of beneficial bacteria in the human body. Phages destroy bacterial cell walls and membrane through the use of lytic proteins which kill bacteria by making many holes from the inside out. Bacteriophages can even possess the ability to digest the biofilm that many bacteria develop that protect them from antibiotics in order to effectively infect and kill bacteria. Bioengineering can play a role in creating successful bacteriophages.",
+            "score": 58.061180114746094
+        },
+        {
+            "docid": "37808_29",
+            "document": "Catalase . Neutrophils and other phagocytes use peroxide to kill bacteria. The enzyme NADPH oxidase generates superoxide within the phagosome, which is converted via hydrogen peroxide to other oxidising substances like hypochlorous acid which kill phagocytosed pathogens. In individuals with chronic granulomatous disease (CGD) there is a defect in producing peroxide via mutations in phagocyte oxidases such as myeloperoxidase. Normal cellular metabolism will still produce a small amount of peroxide and this peroxide can be used to produce hypochlorous acid to eradicate the bacterial infection. However, if individuals with CGD are infected with catalase-positive bacteria, the bacterial catalase can destroy the excess peroxide before it can be used to produce other oxidising substances. In these individuals the pathogen survives and becomes a chronic infection. This chronic infection is typically surrounded by macrophages in an attempt to isolate the infection. This wall of macrophages surrounding a pathogen is called a granuloma. Many bacteria are catalase positive, but some are better catalase-producers than others. The mnemonic \"cats Need PLACESS to Belch their Hairballs\" can be used to memorise the catalase-positive bacteria: nocardia, pseudomonas, listeria, aspergillus, candida, E. coli, staphylococcus, serratia, B. cepacia and H. pylori.",
+            "score": 57.674339294433594
+        },
+        {
+            "docid": "17223049_7",
+            "document": "Chronic prostatitis/chronic pelvic pain syndrome . The bacterial infection theory that for so long had held sway in this field was shown to be unimportant in a 2003 study from the University of Washington team led by Dr Lee and Professor Richard Berger. The study found that one third of both normal men and patients had equal counts of similar bacteria colonizing their prostates. This view was endorsed by Dr Anthony Schaeffer, Professor and Chairman of the Department of Urology at Northwestern University, in a 2003 editorial of \"The Journal of Urology\", in which he stated that \"\"...these data suggest that bacteria do not have a significant role in the development of the chronic pelvic pain syndrome\"\", and a year later with his colleagues he published studies showing that antibiotics are essentially useless for CP/CPPS. Since the publication of these studies, the research focus has shifted from infection to neuromuscular, behavioral, psychological, and genetic cause for UCPPS (CP/CPPS and IC/PBS), where the interplay between the lower urinary tract and other physiological systems is stressed. UCPPS is now studied as a systemic disorder. In support of this approach, a 2005 study showed that stress is correlated to Cat III prostatitis.",
+            "score": 57.33582305908203
+        },
+        {
+            "docid": "3120850_33",
+            "document": "Chronic wound . A greater amount of exudate and necrotic tissue in a wound increases likelihood of infection by serving as a medium for bacterial growth away from the host\u2019s defenses. Since bacteria thrive on dead tissue, wounds are often surgically debrided to remove the devitalized tissue. Debridement and drainage of wound fluid are an especially important part of the treatment for diabetic ulcers, which may create the need for amputation if infection gets out of control. Mechanical removal of bacteria and devitalized tissue is also the idea behind wound irrigation, which is accomplished using pulsed lavage.",
+            "score": 57.265995025634766
+        },
+        {
+            "docid": "23418903_3",
+            "document": "Victor Nizet . Nizet's laboratory applies molecular genetic approaches to discover and characterize bacterial virulence factors involved in host cell injury, epithelial adherence, cellular invasion, inflammation, molecular mimicry and resistance to immunologic clearance. They focus on the function of host phagocytic cells, such as macrophages and neutrophils, to understand the contribution of host factors such as antimicrobial peptides, leukocyte surface receptors, signal transduction pathways, and transcription factors in defense against invasive bacterial infection. Through these complementary approaches, novel treatment strategies for infectious diseases are envisioned that involve targeted neutralization of bacterial virulence phenotypes or pharmacologic augmentation of host phagocyte function.",
+            "score": 57.19190216064453
+        },
+        {
+            "docid": "30778342_21",
+            "document": "Infectious causes of cancer . In addition to viruses, certain kinds of bacteria can cause some cancers. The most prominent example is the link between chronic infection of the wall of the stomach with \"Helicobacter pylori\" and gastric cancer. Although only a minority of those infected with \"Helicobacter\" go on to develop cancer, since this bacterial infection is quite common, it may be responsible for most of these cancers. The mechanism by which \"H. pylori\" causes cancer may involve chronic inflammation, or the direct action of some of its virulence factors, for example, CagA has been implicated in carcinogenesis.",
+            "score": 57.1295280456543
+        },
+        {
+            "docid": "10388266_2",
+            "document": "Acute prostatitis . Acute prostatitis is a serious bacterial infection of the prostate gland. This infection is a medical emergency. It should be distinguished from other forms of prostatitis such as chronic bacterial prostatitis and chronic pelvic pain syndrome (CPPS).",
+            "score": 57.106529235839844
+        },
+        {
+            "docid": "17222716_2",
+            "document": "Chronic bacterial prostatitis . Chronic bacterial prostatitis is a bacterial infection of the prostate gland. It should be distinguished from other forms of prostatitis such as acute bacterial prostatitis and chronic pelvic pain syndrome (CPPS).",
+            "score": 56.86078643798828
+        },
+        {
+            "docid": "17223611_2",
+            "document": "Asymptomatic inflammatory prostatitis . Asymptomatic inflammatory prostatitis is a painless inflammation of the prostate gland where there is no evidence of infection. It should be distinguished from the other categories of prostatitis characterised by either pelvic pain or evidence of infection, such as chronic bacterial prostatitis, acute bacterial prostatitis and chronic pelvic pain syndrome (CPPS). It is a common finding in men with benign prostatic hyperplasia.",
+            "score": 56.482540130615234
+        },
+        {
+            "docid": "3388376_4",
+            "document": "Moxifloxacin . In the United States, moxifloxacin is licensed for the treatment of acute bacterial sinusitis, acute bacterial exacerbation of chronic bronchitis, community acquired pneumonia, complicated and uncomplicated skin and skin structure infections, and complicated intra-abdominal infections. In the European Union, it is licensed for acute bacterial exacerbations of chronic bronchitis, non-severe community-acquired pneumonia, and acute bacterial sinusitis. Based on its investigation into reports of rare but severe cases of liver toxicity and skin reactions, the European Medicines Agency recommended in 2008 that the use of the by mouth (but not the IV) form of moxifloxacin be restricted to infections in which other antibacterial agents cannot be used or have failed. In the US, the marketing approval does not contain these restrictions, though the label contains prominent warnings against skin reactions.",
+            "score": 56.202842712402344
+        },
+        {
+            "docid": "9028799_12",
+            "document": "Bacteria . Bacteria often attach to surfaces and form dense aggregations called biofilms, and larger formations known as microbial mats. These biofilms and mats can range from a few micrometres in thickness to up to half a metre in depth, and may contain multiple species of bacteria, protists and archaea. Bacteria living in biofilms display a complex arrangement of cells and extracellular components, forming secondary structures, such as microcolonies, through which there are networks of channels to enable better diffusion of nutrients. In natural environments, such as soil or the surfaces of plants, the majority of bacteria are bound to surfaces in biofilms. Biofilms are also important in medicine, as these structures are often present during chronic bacterial infections or in infections of implanted medical devices, and bacteria protected within biofilms are much harder to kill than individual isolated bacteria.",
+            "score": 56.03772735595703
+        },
+        {
+            "docid": "35547268_13",
+            "document": "Bacterial morphological plasticity . Antimicrobial agent has obvious implications for microbial infection therapeutics. The ability of bacteria to decrease their susceptibility to antimicrobial drugs importantly affects both bacterial ecology and the treatment of infectious diseases. From patients who are treated with antibiotics, filamentous organisms are commonly found in their clinical specimens. The filamentation contributes to a pathogen\u2019s resistance to this antimicrobial agent. The induction of bacterial filamentation by antibiotics can alter bacterial virulence, which would have important implications for the pathogenesis and treatment of the disease as well.",
+            "score": 56.03443908691406
+        },
+        {
+            "docid": "8767449_10",
+            "document": "Public health genomics . An example of this is found in a study published in Nature, which showed that mice with a latent infection of a Herpesvirus were less susceptible to bacterial infections. Mice were infected with murine gammherpesvirus 68 (a member of the gammaherpesvirinae subfamily) and then challenged with \"Listeria monocytogenes\". The mice that had a latent infection of the virus had an increased resistance to the bacteria, but those with a non-latent strain of virus had no change in susceptibility to the bacteria. The study went on to test mice with murine cytomegalovirus, a member of the betaherpesvirinae subfamily, which provided similar results. However, infection with human herpes simplex virus type-1, a member of the alphaherpesvirinae subfamily, did not provide increased resistance to bacterial infection. They also used \"Yersinia pestis\" (the causative agent of the Black Death) to challenge mice with a latent infection of gammaherpesvirus 68, and they found the mice did have an increased resistance to the bacteria. The suspected reason for this is that peritoneal macrophages in the mouse are activated after latent infection of the herpesvirus, and since macrophages play an important role in immunity, this provides the mouse with a stronger, active immune system at the time of bacterial exposure. It was found that the latent herpesvirus caused an increase in interferon-gamma (IFN-\u03b3) and tumor necrosis factor-alpha (TNF-\u03b1), both of which lead to activation of macrophages and resistance to bacterial infection.",
+            "score": 55.938720703125
+        },
+        {
+            "docid": "3489080_13",
+            "document": "Pericoronitis . Inadequate cleaning of the operculum space allows stagnation of bacteria and any accumulated debris. This can be a result of poor access due to limited room in the case of the 3rd molars. Pericoronal infection is normally caused by a mixture of bacterial species present in the mouth, such as Streptococci and particularly various anaerobic species.  This can result in abscess formation. Left untreated, the abscess can spontaneously drain into the mouth from beneath the operculum. In chronic pericoronitis, drainage may happen through an approximal sinus tract. The chronically inflamed soft tissues around the tooth may give few if any symptoms. This can suddenly become symptomatic if new debris becomes trapped or if the host immune system becomes compromised and fails to keep the chronic infection in check (e.g. during influenza or upper respiratory tract infections, or a period of stress).",
+            "score": 55.71165466308594
+        },
+        {
+            "docid": "37220_18",
+            "document": "Infection . An interesting fact that gas chromatography\u2013mass spectrometry, 16S ribosomal RNA analysis, omics, and other advanced technologies have made more apparent to humans in recent decades is that microbial colonization is very common even in environments that humans think of as being nearly sterile. Because it is normal to have bacterial colonization, it is difficult to know which chronic wounds can be classified as infected and how much risk of progression exists. Despite the huge number of wounds seen in clinical practice, there are limited quality data for evaluated symptoms and signs. A review of chronic wounds in the Journal of the American Medical Association's \"Rational Clinical Examination Series\" quantified the importance of increased pain as an indicator of infection. The review showed that the most useful finding is an increase in the level of pain [likelihood ratio (LR) range, 11\u201320] makes infection much more likely, but the absence of pain (negative likelihood ratio range, 0.64\u20130.88) does not rule out infection (summary LR 0.64\u20130.88).",
+            "score": 55.582515716552734
+        }
+    ]
+}

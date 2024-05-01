@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "1565639_12",
+            "document": "GABAA receptor . GABA receptors are members of the large pentameric ligand gated ion channel (previously referred to as \"\"Cys\"-loop\" receptors) super-family of evolutionarily related and structurally similar ligand-gated ion channels that also includes nicotinic acetylcholine receptors, glycine receptors, and the 5HT receptor. There are numerous subunit isoforms for the GABA receptor, which determine the receptor's agonist affinity, chance of opening, conductance, and other properties.",
+            "score": 166.00763702392578
+        },
+        {
+            "docid": "1351369_5",
+            "document": "Ligand-gated ion channel . The cys-loop receptors are named after a characteristic loop formed by a disulfide bond between two cysteine residues in the N terminal extracellular domain.  They are part of a larger family of pentameric ligand-gated ion channels that usually lack this disulfide bond, hence the tentative name \"Pro-loop receptors\". A binding site in the extracellular N-terminal ligand-binding domain gives them receptor specificity for (1) acetylcholine (AcCh), (2) serotonin, (3) glycine, (4) glutamate and (5) \u03b3-aminobutyric acid (GABA) in vertebrates. The receptors are subdivided with respect to the type of ion that they conduct (anionic or cationic) and further into families defined by the endogenous ligand. They are usually pentameric with each subunit containing 4 transmembrane helices constituting the transmembrane domain, and a beta sheet sandwich type, extracellular, N terminal, ligand binding domain. Some also contain an intracellular domain like shown in the image.",
+            "score": 157.13618445396423
+        },
+        {
+            "docid": "15303_11",
+            "document": "Ion channel . Also known as ionotropic receptors, this group of channels open in response to specific ligand molecules binding to the extracellular domain of the receptor protein. Ligand binding causes a conformational change in the structure of the channel protein that ultimately leads to the opening of the channel gate and subsequent ion flux across the plasma membrane. Examples of such channels include the cation-permeable \"nicotinic\" Acetylcholine receptor, ionotropic glutamate-gated receptors, acid sensing ion channels (ASICs), ATP-gated P2X receptors, and the anion-permeable \u03b3-aminobutyric acid-gated GABA receptor.",
+            "score": 165.0026888847351
+        },
+        {
+            "docid": "41768703_2",
+            "document": "GLIC . The GLIC receptor is a bacterial (Gloeobacter) Ligand-gated Ion Channel, homolog to the nicotinic acetylcholine receptors. It is a proton-gated (the channel opens when it binds a proton, ion), cation-selective channel (it selectively lets the positive ions through). Like the nicotinic acetylcholine receptors is a functional pentameric oligomer (the channel normally works as an assembly of five subunits). However while its eukaryotic homologues are hetero-oligomeric (assembled from different subunits), all until now known bacteria known to express LICs encode a single monomeric unit, indicating the GLIC to be functionally homo-oligomeric (assembled from identical subunits).",
+            "score": 183.72365260124207
+        },
+        {
+            "docid": "1822196_9",
+            "document": "Molecular neuroscience . Ionotropic receptors, otherwise known as ligand-gated ion channels, are fast acting receptors that mediate neural and physiological function by ion channel flow with ligand-binding. Nicotinic, GABA, and Glutamate receptors are among some of the cell surface receptors regulated by ligand-gated ion channel flow. GABA is the brain's main inhibitory neurotransmitter and glutamate is the brain's main excitatory neurotransmitter.",
+            "score": 162.82295989990234
+        },
+        {
+            "docid": "43173137_31",
+            "document": "Alcohol (drug) . In spite of the preceding however, much progress has been made in understanding the pharmacodynamics of ethanol over the last few decades. While no binding sites have been identified and established unambiguously for the drug at present, it appears that ethanol affects ion channels, in particular ligand-gated ion channels, to mediate its effects in the central nervous system. Ethanol has specifically been found in functional assays to enhance or inhibit the activity of a variety of ion channels including the GABA receptor, the ionotropic glutamate AMPA, kainate, and NMDA receptors, the glycine receptor, the nicotinic acetylcholine receptors, the serotonin 5-HT receptor, voltage-gated calcium channels, and BK channels among others. However, many of these actions have been found to occur only at very high concentrations that may not be pharmacologically significant at recreational doses of ethanol, and it is unclear how or to what extent each of the individual actions is involved in the effects of ethanol. In any case, ethanol has long shown a similarity in its effects to positive allosteric modulators of the GABA receptor like benzodiazepines, barbiturates, and various general anesthetics. Indeed, ethanol has been found to enhance GABA receptor-mediated currents in functional assays. In accordance, it is theorized and widely believed that the primary mechanism of action is as a GABA receptor positive allosteric modulator. However, the diverse actions of ethanol on other ion channels may be and indeed likely are involved in its effects as well.",
+            "score": 149.18439865112305
+        },
+        {
+            "docid": "578038_11",
+            "document": "Reversal potential . When V is at the reversal potential ( is equal to 0), the identity of the ions that flow during an EPC can be deduced by comparing the reversal potential of the EPC to the equilibrium potential for various ions. For instance several excitatory ionotropic ligand-gated neurotransmitter receptors including glutamate receptors (AMPA, NMDA, and kainate), nicotinic acetylcholine (nACh), and serotonin (5-HT) receptors are nonselective cation channels that pass Na and K in nearly equal proportions, giving an equilibrium potential close to zero. The inhibitory ionotropic ligand-gated neurotransmitter receptors that carry Cl, such as GABA and glycine receptors, have equilibrium potentials close to the resting potential (approximately \u201370\u00a0mV) in neurons.",
+            "score": 131.7697570323944
+        },
+        {
+            "docid": "630489_25",
+            "document": "Theories of general anaesthetic action . These observations were important because they demonstrated that general anaesthetics may also interact with hydrophobic protein sites of certain proteins, rather than affect membrane proteins indirectly through nonspecific interactions with lipid bilayer as mediator.  It was shown that anaesthetics alter the functions of many cytoplasmic signalling proteins, including protein kinase C, however, the proteins considered the most likely molecular targets of anaesthetics are ion channels. According to this theory general anaesthetics are much more selective than in the frame of lipid hypothesis and they bind directly only to small number of targets in CNS mostly ligand(neurotransmitter)-gated ion channels in synapse and G-protein coupled receptors altering their ion flux. Particularly Cys-loop receptors are plausible targets for general anaesthetics that bind at the interface between the subunits. The Cys-loop receptor superfamily includes inhibitory receptors (GABA A, GABA C, glycine receptors) and excitatory receptors (acetylcholine receptor and 5-HT3 serotonin receptor). General anaesthetics can inhibit the channel functions of excitatory receptors or potentiate functions of inhibitory receptors, respectively. Although protein targets for anaesthetics have been partly identified the exact nature of general anaesthetic-protein interactions still remains a mystery.",
+            "score": 142.42232167720795
+        },
+        {
+            "docid": "22210872_19",
+            "document": "Barbiturate . Further, barbiturates are relatively non-selective compounds that bind to an entire superfamily of ligand-gated ion channels, of which the GABA receptor channel is only one of several representatives. This superfamily of ion channels includes the neuronal nACh receptor channel, the 5-HT receptor channel, and the glycine receptor channel. However, while GABA receptor currents are increased by barbiturates (and other general anaesthetics), ligand-gated ion channels that are predominantly permeable for cationic ions are blocked by these compounds. For example, neuronal nAChR channels are blocked by clinically relevant anaesthetic concentrations of both thiopental and pentobarbital. Such findings implicate (non-GABA-ergic) ligand-gated ion channels, e.g. the neuronal nAChR channel, in mediating some of the (side) effects of barbiturates. This is the mechanism responsible for the (mild to moderate) anesthetic effect of barbiturates in high doses when used in anesthetic concentration.",
+            "score": 149.893257021904
+        },
+        {
+            "docid": "374331_4",
+            "document": "Neurotransmitter receptor . There are two major types of neurotransmitter receptors: \"ionotropic\" and \"metabotropic\". Ionotropic means that ions can pass through the receptor, whereas metabotropic means that a second messenger inside the cell relays the message (i.e. metabotropic receptors do not have channels). Metabotropic receptors are in fact G protein-coupled receptors. Ionotropic receptors are also called Ligand-gated ion channels and they can be excited by neurotransmitters (ligands) like glutamate and aspartate. These receptors can also be inhibited by neurotransmitters like GABA and glycine. Conversely, G-protein-coupled receptors are neither excitatory nor inhibitory. Rather, they can have a broad number of functions such as modulating the actions of excitatory and inhibitory ion channels or triggering a signalling cascade that releases calcium from stores inside the cell. Most neurotransmitters receptors are G-protein coupled.",
+            "score": 137.26788783073425
+        },
+        {
+            "docid": "737618_3",
+            "document": "GABA receptor . It has long been recognized that the fast response of neurons to GABA that is blocked by bicuculline and picrotoxin is due to direct activation of an anion channel. This channel was subsequently termed the GABA receptor. Fast-responding GABA receptors are members of a family of Cys-loop ligand-gated ion channels. Members of this superfamily, which includes nicotinic acetylcholine receptors, GABA receptors, glycine and 5-HT receptors, possess a characteristic loop formed by a disulfide bond between two cysteine residues.",
+            "score": 134.94248461723328
+        },
+        {
+            "docid": "14167920_5",
+            "document": "GABRB3 . GABRB3 encodes a member of the ligand-gated ion channel family. The encoded protein is one of at least 13 distinct subunits of a multisubunit chloride channel that serves as the receptor for \"gamma\"-aminobutyric acid, the major inhibitory neurotransmitter of the nervous system. The two other genes in the gene cluster both encode for related subunits of the family. During development, when the GABRB3 subunit functions optimally, its role in the GABA receptor allows for proliferation, migration, and differentiation of precursor cells that lead to the proper development of the brain. GABA receptor function is inhibited by zinc ions. The ions bind allosterically to the receptor, a mechanism that is critically dependent on the receptor subunit composition.",
+            "score": 143.54430174827576
+        },
+        {
+            "docid": "29218_18",
+            "document": "Sodium thiopental . Sodium thiopental is a member of the barbiturate class of drugs, which are relatively non-selective compounds that bind to an entire superfamily of ligand-gated ion channels, of which the GABA receptor channel is one of several representatives. This superfamily of ion channels includes the neuronal nAChR channel, the 5HT3R channel, the GlyR channel and others. Surprisingly, while GABA receptor currents are increased by barbiturates (and other general anesthetics), ligand-gated ion channels that are predominantly permeable for cationic ions are blocked by these compounds. For example, neuronal nAChR channels are blocked by clinically relevant anesthetic concentrations of both sodium thiopental and pentobarbital. Such findings implicate (non-GABA-ergic) ligand-gated ion channels, e.g. the neuronal nAChR channel, in mediating some of the (side) effects of barbiturates. The GABA receptor is an inhibitory channel that decreases neuronal activity, and barbiturates enhance the inhibitory action of the GABA receptor.",
+            "score": 147.78593564033508
+        },
+        {
+            "docid": "5665456_6",
+            "document": "Purinergic receptor . P2X receptors are ligand-gated ion channels, whereas the P1 and P2Y receptors are G protein-coupled receptors. These ligand-gated ion channels are nonselective cation channels responsible for mediating excitatory postsynaptic responses, similar to nicotinic and ionotropic glutamate receptors. P2X receptors are distinct from the rest of the widely known ligand-gated ion channels, as the genetic encoding of these particular channels indicates the presence of only two transmembrane domains within the channels. These receptors are greatly distributed in neurons and glial cells throughout the central and peripheral nervous systems. P2X receptors mediate a large variety of responses including fast transmission at central synapses, contraction of smooth muscle cells, platelet aggregation, macrophage activation, and apoptosis. Moreover, these receptors have been implicated in integrating functional activity between neurons, glial, and vascular cells in the central nervous system, thereby mediating the effects of neural activity during development, neurodegeneration, inflammation, and cancer.",
+            "score": 158.55159389972687
+        },
+        {
+            "docid": "681908_3",
+            "document": "Neuromuscular junction . Muscles require innervation to function\u2014and even just to maintain muscle tone, avoiding atrophy. Synaptic transmission at the neuromuscular junction begins when an action potential reaches the presynaptic terminal of a motor neuron, which activates voltage-dependent calcium channels to allow calcium ions to enter the neuron. Calcium ions bind to sensor proteins (synaptotagmin) on synaptic vesicles, triggering vesicle fusion with the cell membrane and subsequent neurotransmitter release from the motor neuron into the synaptic cleft. In vertebrates, motor neurons release acetylcholine (ACh), a small molecule neurotransmitter, which diffuses across the synaptic cleft and binds to nicotinic acetylcholine receptors (nAChRs) on the cell membrane of the muscle fiber, also known as the sarcolemma. nAChRs are ionotropic receptors, meaning they serve as ligand-gated ion channels. The binding of ACh to the receptor can depolarize the muscle fiber, causing a cascade that eventually results in muscle contraction.",
+            "score": 149.01363623142242
+        },
+        {
+            "docid": "5170782_28",
+            "document": "Cation\u2013pi interaction . An example of cation\u2013\u03c0 interactions in molecular recognition is seen in the nicotinic acetylcholine receptor (nAChR) which binds its endogenous ligand, acetylcholine (a positively charged molecule), via a cation\u2013\u03c0 interaction to the quaternary ammonium. The nAChR neuroreceptor is a well-studied ligand-gated ion channel that opens upon acetylcholine binding. Acetylcholine receptors are therapeutic targets for a large host of neurological disorders, including Parkinson's disease, Alzheimer's disease, schizophrenia, depression and autism. Studies by Dougherty and coworkers confirmed that cation-\u03c0 interactions are important for binding and activating nAChR by making specific structural variations to a key tryptophan residue and correlating activity results with cation-\u03c0 binding ability.",
+            "score": 153.25349068641663
+        },
+        {
+            "docid": "53872747_7",
+            "document": "Three-finger toxin . Many of the most well-characterized 3FTx proteins exert their toxic effects through binding to nicotinic acetylcholine receptors (nAChRs), a family of ligand-gated ion channels. 3FTx binding interferes with cholinergic intercellular signaling particularly at neuromuscular junctions and causes paralysis. The alpha-neurotoxin family is a group of 3FTx proteins that bind muscle nAChRs, preventing the binding of the neurotransmitter acetylcholine. Alpha-bungarotoxin, the alpha-neurotoxin from the many-banded krait (\"Bungarus multicinctus\"), has a long history of use in molecular biology research; it was through the study of this toxin that nAChRs were isolated and characterized, which facilitated the study of the subunit composition of tissue-specific nAChRs and the detailed pharmacological understanding of the neuromuscular junction. In general, short-chain 3FTx members of this group bind muscle nAChRs only, and long-chain members bind both muscle and neuronal receptors. This 3FTx group is sometimes referred to as the \"curaremimetic\" toxins due to the similarity of their effects with the plant alkaloid curare.",
+            "score": 145.53584039211273
+        },
+        {
+            "docid": "11144474_2",
+            "document": "Light-gated ion channel . Light-gated ion channels are a family of ion channels regulated by electromagnetic radiation. Other gating mechanisms for ion channels include voltage-gated ion channels, ligand-gated ion channels, mechanosensitive ion channels, and temperature-gated ion channels. Most light-gated ion channels have been synthesized in the laboratory for study, although two naturally occurring examples, channelrhodopsin and anion-conducting channelrhodopsin, are currently known. Photoreceptor proteins, which act in a similar manner to light-gated ion channels, are generally classified instead as G protein-coupled receptors.",
+            "score": 137.00696802139282
+        },
+        {
+            "docid": "563161_29",
+            "document": "Membrane potential . Ligand-gated ion channels are channels whose permeability is greatly increased when some type of chemical ligand binds to the protein structure. Animal cells contain hundreds, if not thousands, of types of these. A large subset function as neurotransmitter receptors\u2014they occur at postsynaptic sites, and the chemical ligand that gates them is released by the presynaptic axon terminal. One example of this type is the AMPA receptor, a receptor for the neurotransmitter glutamate that when activated allows passage of sodium and potassium ions. Another example is the GABA receptor, a receptor for the neurotransmitter GABA that when activated allows passage of chloride ions.",
+            "score": 159.397602558136
+        },
+        {
+            "docid": "8207052_3",
+            "document": "5-HT3 receptor . As with other ligand gated ion channels, the 5-HT receptor consists of five subunits arranged around a central ion conducting pore, which is permeable to sodium (Na), potassium (K), and calcium (Ca) ions. Binding of the neurotransmitter 5-hydroxytryptamine (serotonin) to the 5-HT receptor opens the channel, which, in turn, leads to an excitatory response in neurons. The rapidly activating, desensitizing, inward current is predominantly carried by sodium and potassium ions. 5-HT receptors have a negligible permeability to anions. They are most closely related by homology to the nicotinic acetylcholine receptor.",
+            "score": 147.41516637802124
+        },
+        {
+            "docid": "737618_2",
+            "document": "GABA receptor . The GABA receptors are a class of receptors that respond to the neurotransmitter gamma-aminobutyric acid (GABA), the chief inhibitory compound in the mature vertebrate central nervous system. There are two classes of GABA receptors: GABA and GABA. GABA receptors are ligand-gated ion channels (also known as ionotropic receptors); whereas GABA receptors are G protein-coupled receptors, also called metabotropic receptors.",
+            "score": 110.10209083557129
+        },
+        {
+            "docid": "5842980_9",
+            "document": "P2X purinoreceptor . Evidence from early molecular biological and functional studies has strongly indicated that the functional P2X receptor protein is a trimer, with the three peptide subunits arranged around an ion-permeable channel pore. This view was recently confirmed by the use of X-ray crystallography to resolve the three-dimensional structure of the zebrafish P2X receptor(Figure 2). These findings indicate that the second transmembrane domain of each subunit lines the ion-conducting pore and is therefore responsible for channel gating.",
+            "score": 96.62820744514465
+        },
+        {
+            "docid": "374331_7",
+            "document": "Neurotransmitter receptor . The binding site of endogenous ligands on LGICs protein complexes are normally located on a different portion of the protein (an allosteric binding site) compared to where the ion conduction pore is located. The direct link between ligand binding and opening or closing of the ion channel, which is characteristic of ligand-gated ion channels, is contrasted with the indirect function of metabotropic receptors, which use second messengers. LGICs are also different from voltage-gated ion channels (which open and close depending on membrane potential), and stretch-activated ion channels (which open and close depending on mechanical deformation of the cell membrane).",
+            "score": 168.4006588459015
+        },
+        {
+            "docid": "40634220_12",
+            "document": "Phantasmidine . Nicotinic acetylcholine receptors in general comprise a sub-section of the family of ligand-gated ion channels, of which ions such as Ca, Na, and K are permeable to the barrier. Phantasmidine is selective for nicotinic acetylcholine receptors (nAChR) containing \u00df4 subunits; however, responses in neuromuscular nAChR (such as \u00df1-containing receptors) and \u00df2-containing neuronal receptors (such as K-177 cells) are also elicited, albeit to a lesser degree (Fitch et al. 331-337).",
+            "score": 133.05954003334045
+        },
+        {
+            "docid": "8207052_2",
+            "document": "5-HT3 receptor . The 5-HT receptor belongs to the Cys-loop superfamily of ligand-gated ion channels (LGICs) and therefore differs structurally and functionally from all other 5-HT receptors (5-hydroxytryptamine, or serotonin) receptors which are G protein-coupled receptors. This ion channel is cation-selective and mediates neuronal depolarization and excitation within the central and peripheral nervous systems.",
+            "score": 130.25119936466217
+        },
+        {
+            "docid": "1351369_15",
+            "document": "Ligand-gated ion channel . GABA receptors are ligand-gated ion channels. GABA (\"gamma\"-aminobutyric acid), the endogenous ligand for these receptors, is the major inhibitory neurotransmitter in the central nervous system. When activated, it mediates Cl flow into the neuron, hyperpolarizing the neuron. GABA receptors occur in all organisms that have a nervous system. Due to their wide distribution within the nervous system of mammals, they play a role in virtually all brain functions.",
+            "score": 139.42099475860596
+        },
+        {
+            "docid": "8271010_2",
+            "document": "Biogenic amine receptor . Biogenic amine receptor are a variety of neurotransmitter receptors that are sensitive to biogenic amine neurotransmitters. They mostly belong to the G protein-coupled receptor (GPCR) family of transmembrane receptors, specifically within GPCR \"Family A\" (Rhodopsin-like receptors). A notable exception is the serotonin 5-HT receptor, which is a ligand-gated ion channel. The biogenic amine receptors include the monoamine receptors.",
+            "score": 123.7179696559906
+        },
+        {
+            "docid": "743410_18",
+            "document": "Nicotinic acetylcholine receptor . The subunits of the nicotinic receptors belong to a multigene family (16 members in humans) and the assembly of combinations of subunits results in a large number of different receptors (for more information see the Ligand-Gated Ion Channel database). These receptors, with highly variable kinetic, electrophysiological and pharmacological properties, respond to nicotine differently, at very different effective concentrations. This functional diversity allows them to take part in two major types of neurotransmission. Classical synaptic transmission (wiring transmission) involves the release of high concentrations of neurotransmitter, acting on immediately neighboring receptors. In contrast, paracrine transmission (volume transmission) involves neurotransmitters released by synaptic boutons, which then diffuse through the extra-cellular medium until they reach their receptors, which may be distant. Nicotinic receptors can also be found in different synaptic locations; for example the muscle nicotinic receptor always functions post-synaptically. The neuronal forms of the receptor can be found both post-synaptically (involved in classical neurotransmission) and pre-synaptically where they can influence the release of multiple neurotransmitters.",
+            "score": 133.84374356269836
+        },
+        {
+            "docid": "15070776_3",
+            "document": "GRIK5 . This gene encodes a protein that belongs to the glutamate-gated ionic channel family. Glutamate functions as the major excitatory neurotransmitter in the central nervous system through activation of ligand-gated ion channels and G protein-coupled membrane receptors. The protein encoded by this gene forms functional heteromeric kainate-preferring ionic channels with the subunits encoded by related gene family members.",
+            "score": 131.63790798187256
+        },
+        {
+            "docid": "18004188_3",
+            "document": "GRIK4 . This gene encodes a protein that belongs to the glutamate-gated ionic channel family. Glutamate functions as the major excitatory neurotransmitter in the central nervous system through activation of ligand-gated ion channels and G protein-coupled membrane receptors. The protein encoded by this gene forms functional heteromeric kainate-preferring ionic channels with the subunits encoded by related gene family members.",
+            "score": 131.63790798187256
+        },
+        {
+            "docid": "14477915_3",
+            "document": "CHRNA7 . The nicotinic acetylcholine receptors (nAChRs) are members of a superfamily of ligand-gated ion channels that mediate fast signal transmission at synapses. The nAChRs are thought to be hetero-pentamers composed of homologous subunits. The proposed structure for each subunit is a conserved N-terminal extracellular domain followed by three conserved transmembrane domains, a variable cytoplasmic loop, a fourth conserved transmembrane domain, and a short C-terminal extracellular region. The protein encoded by this gene forms a homo-oligomeric channel, displays marked permeability to calcium ions and is a major component of brain nicotinic receptors that are blocked by, and highly sensitive to, alpha-bungarotoxin. Once this receptor binds acetylcholine, it undergoes an extensive change in conformation that affects all subunits and leads to opening of an ion-conducting channel across the plasma membrane. This gene is located in a region identified as a major susceptibility locus for juvenile myoclonic epilepsy and a chromosomal location involved in the genetic transmission of schizophrenia. An evolutionarily recent partial duplication event in this region results in a hybrid containing sequence from this gene and a novel FAM7A gene.",
+            "score": 127.67127990722656
+        },
+        {
+            "docid": "6997478_2",
+            "document": "Cys-loop receptor . The Cys-loop ligand-gated ion channel superfamily is composed of nicotinic acetylcholine, GABA, GABA-\u03c1, glycine, 5-HT receptors, and zinc-activated ion channel that are composed of five protein subunits that form a pentameric arrangement around a central pore. There are usually 2 alpha subunits and 3 other beta, gamma, or delta subunits (some consist of 5 alpha subunits).  The name \"Cys-loop\" is because this type of receptors possess a characteristic loop formed by 13 highly conserved amino acids between two cysteine (Cys) residues which form a disulfide bond, near the N-terminal extracellular domain.",
+            "score": 117.68520617485046
+        }
+    ],
+    "r": [
+        {
+            "docid": "41768703_2",
+            "document": "GLIC . The GLIC receptor is a bacterial (Gloeobacter) Ligand-gated Ion Channel, homolog to the nicotinic acetylcholine receptors. It is a proton-gated (the channel opens when it binds a proton, ion), cation-selective channel (it selectively lets the positive ions through). Like the nicotinic acetylcholine receptors is a functional pentameric oligomer (the channel normally works as an assembly of five subunits). However while its eukaryotic homologues are hetero-oligomeric (assembled from different subunits), all until now known bacteria known to express LICs encode a single monomeric unit, indicating the GLIC to be functionally homo-oligomeric (assembled from identical subunits).",
+            "score": 183.72364807128906
+        },
+        {
+            "docid": "374331_7",
+            "document": "Neurotransmitter receptor . The binding site of endogenous ligands on LGICs protein complexes are normally located on a different portion of the protein (an allosteric binding site) compared to where the ion conduction pore is located. The direct link between ligand binding and opening or closing of the ion channel, which is characteristic of ligand-gated ion channels, is contrasted with the indirect function of metabotropic receptors, which use second messengers. LGICs are also different from voltage-gated ion channels (which open and close depending on membrane potential), and stretch-activated ion channels (which open and close depending on mechanical deformation of the cell membrane).",
+            "score": 168.40065002441406
+        },
+        {
+            "docid": "1565639_12",
+            "document": "GABAA receptor . GABA receptors are members of the large pentameric ligand gated ion channel (previously referred to as \"\"Cys\"-loop\" receptors) super-family of evolutionarily related and structurally similar ligand-gated ion channels that also includes nicotinic acetylcholine receptors, glycine receptors, and the 5HT receptor. There are numerous subunit isoforms for the GABA receptor, which determine the receptor's agonist affinity, chance of opening, conductance, and other properties.",
+            "score": 166.00762939453125
+        },
+        {
+            "docid": "15303_11",
+            "document": "Ion channel . Also known as ionotropic receptors, this group of channels open in response to specific ligand molecules binding to the extracellular domain of the receptor protein. Ligand binding causes a conformational change in the structure of the channel protein that ultimately leads to the opening of the channel gate and subsequent ion flux across the plasma membrane. Examples of such channels include the cation-permeable \"nicotinic\" Acetylcholine receptor, ionotropic glutamate-gated receptors, acid sensing ion channels (ASICs), ATP-gated P2X receptors, and the anion-permeable \u03b3-aminobutyric acid-gated GABA receptor.",
+            "score": 165.002685546875
+        },
+        {
+            "docid": "1351369_4",
+            "document": "Ligand-gated ion channel . These proteins are typically composed of at least two different domains: a transmembrane domain which includes the ion pore, and an extracellular domain which includes the ligand binding location (an allosteric binding site). This modularity has enabled a 'divide and conquer' approach to finding the structure of the proteins (crystallising each domain separately). The function of such receptors located at synapses is to convert the chemical signal of presynaptically released neurotransmitter directly and very quickly into a postsynaptic electrical signal. Many LICs are additionally modulated by allosteric ligands, by channel blockers, ions, or the membrane potential. LICs are classified into three superfamilies which lack evolutionary relationship: cys-loop receptors, ionotropic glutamate receptors and ATP-gated channels.",
+            "score": 163.92442321777344
+        },
+        {
+            "docid": "1822196_9",
+            "document": "Molecular neuroscience . Ionotropic receptors, otherwise known as ligand-gated ion channels, are fast acting receptors that mediate neural and physiological function by ion channel flow with ligand-binding. Nicotinic, GABA, and Glutamate receptors are among some of the cell surface receptors regulated by ligand-gated ion channel flow. GABA is the brain's main inhibitory neurotransmitter and glutamate is the brain's main excitatory neurotransmitter.",
+            "score": 162.8229522705078
+        },
+        {
+            "docid": "4109042_18",
+            "document": "Cell signaling . In some cases, receptor activation caused by ligand binding to a receptor is directly coupled to the cell's response to the ligand. For example, the neurotransmitter GABA can activate a cell surface receptor that is part of an ion channel. GABA binding to a GABA receptor on a neuron opens a chloride-selective ion channel that is part of the receptor. GABA receptor activation allows negatively charged chloride ions to move into the neuron, which inhibits the ability of the neuron to produce action potentials. However, for many cell surface receptors, ligand-receptor interactions are not directly linked to the cell's response. The activated receptor must first interact with other proteins inside the cell before the ultimate physiological effect of the ligand on the cell's behavior is produced. Often, the behavior of a chain of several interacting cell proteins is altered following receptor activation. The entire set of cell changes induced by receptor activation is called a signal transduction mechanism or pathway.",
+            "score": 160.75083923339844
+        },
+        {
+            "docid": "2020589_4",
+            "document": "G protein-gated ion channel . G proteins are a family of intracellular proteins capable of mediating signal transduction pathways. Each G protein is a heterotrimer of three subunits: \u03b1-, \u03b2-, and \u03b3- subunits. The \u03b1-subunit (G) typically binds the G protein to a transmembrane receptor protein known as a G protein-coupled receptor, or GPCR. This receptor protein has a large, extracellular binding domain which will bind its respective ligands (e.g. neurotransmitters and hormones). Once the ligand is bound to its receptor, a conformational change occurs. This conformational change in the G protein allows G to bind GTP. This leads to yet another conformational change in the G protein, resulting in the separation of the \u03b2\u03b3-complex (G) from G. At this point, both G and G are active and able to continue the signal transduction pathway. Different classes of G protein-coupled receptors have many known functions including the cAMP and Phosphatidylinositol signal transduction pathways. A class known as metabotropic glutamate receptors play a large role in indirect ion channel activation by G proteins. These pathways are activated by second messengers which initiate signal cascades involving various proteins which are important to the cell's response.",
+            "score": 159.4210662841797
+        },
+        {
+            "docid": "563161_29",
+            "document": "Membrane potential . Ligand-gated ion channels are channels whose permeability is greatly increased when some type of chemical ligand binds to the protein structure. Animal cells contain hundreds, if not thousands, of types of these. A large subset function as neurotransmitter receptors\u2014they occur at postsynaptic sites, and the chemical ligand that gates them is released by the presynaptic axon terminal. One example of this type is the AMPA receptor, a receptor for the neurotransmitter glutamate that when activated allows passage of sodium and potassium ions. Another example is the GABA receptor, a receptor for the neurotransmitter GABA that when activated allows passage of chloride ions.",
+            "score": 159.39759826660156
+        },
+        {
+            "docid": "5665456_6",
+            "document": "Purinergic receptor . P2X receptors are ligand-gated ion channels, whereas the P1 and P2Y receptors are G protein-coupled receptors. These ligand-gated ion channels are nonselective cation channels responsible for mediating excitatory postsynaptic responses, similar to nicotinic and ionotropic glutamate receptors. P2X receptors are distinct from the rest of the widely known ligand-gated ion channels, as the genetic encoding of these particular channels indicates the presence of only two transmembrane domains within the channels. These receptors are greatly distributed in neurons and glial cells throughout the central and peripheral nervous systems. P2X receptors mediate a large variety of responses including fast transmission at central synapses, contraction of smooth muscle cells, platelet aggregation, macrophage activation, and apoptosis. Moreover, these receptors have been implicated in integrating functional activity between neurons, glial, and vascular cells in the central nervous system, thereby mediating the effects of neural activity during development, neurodegeneration, inflammation, and cancer.",
+            "score": 158.5515899658203
+        },
+        {
+            "docid": "22519313_7",
+            "document": "Cell surface receptor . In the majority of receptors with known structures, transmembrane alpha helices constitute most of the transmembrane component. In certain receptors, such as the nicotinic acetylcholine receptor, the transmembrane domain forms a protein pore through the membrane, or around the ion channel. Upon activation of an extracellular domain by binding of the appropriate ligand, the pore becomes accessible to ions, which then diffuse. In other receptors, the transmembrane domains undergo a conformational change upon binding, which effects intracellular conditions. In some receptors, such as members of the 7TM superfamily, the transmembrane domain includes a ligand binding pocket. Bacteriorhodopsin is an example, the detailed structure of which has been determined by crystallography.",
+            "score": 158.51889038085938
+        },
+        {
+            "docid": "743435_13",
+            "document": "Muscarinic acetylcholine receptor . By contrast, nicotinic receptors use a ligand-gated ion channel mechanism for signaling. In this case, binding of the ligands with the receptor causes an ion channel to open, permitting either one or more specific type(s) of ion (e.g., K, Na, Ca) to diffuse into or out of the cell.",
+            "score": 158.15713500976562
+        },
+        {
+            "docid": "1351369_5",
+            "document": "Ligand-gated ion channel . The cys-loop receptors are named after a characteristic loop formed by a disulfide bond between two cysteine residues in the N terminal extracellular domain.  They are part of a larger family of pentameric ligand-gated ion channels that usually lack this disulfide bond, hence the tentative name \"Pro-loop receptors\". A binding site in the extracellular N-terminal ligand-binding domain gives them receptor specificity for (1) acetylcholine (AcCh), (2) serotonin, (3) glycine, (4) glutamate and (5) \u03b3-aminobutyric acid (GABA) in vertebrates. The receptors are subdivided with respect to the type of ion that they conduct (anionic or cationic) and further into families defined by the endogenous ligand. They are usually pentameric with each subunit containing 4 transmembrane helices constituting the transmembrane domain, and a beta sheet sandwich type, extracellular, N terminal, ligand binding domain. Some also contain an intracellular domain like shown in the image.",
+            "score": 157.1361846923828
+        },
+        {
+            "docid": "681908_8",
+            "document": "Neuromuscular junction . Acetylcholine is a neurotransmitter synthesized from dietary choline and acetyl-CoA (ACoA), and is involved in the stimulation of muscle tissue in vertebrates as well as in some invertebrate animals. In vertebrate animals, the acetylcholine receptor subtype that is found at the neuromuscular junction of skeletal muscles is the nicotinic acetylcholine receptor (nAChR), which is a ligand-gated ion channel. Each subunit of this receptor has a characteristic \"cys-loop\", which is composed of a cysteine residue followed by 13 amino acid residues and another cysteine residue. The two cysteine residues form a disulfide linkage which results in the \"cys-loop\" receptor that is capable of binding acetylcholine and other ligands. These cys-loop receptors are found only in eukaryotes, but prokaryotes possess ACh receptors with similar properties. Not all species use a cholinergic neuromuscular junction; e.g. crayfish and fruit flies have a glutamatergic neuromuscular junction.",
+            "score": 155.76779174804688
+        },
+        {
+            "docid": "6997478_3",
+            "document": "Cys-loop receptor . Cys-loop receptors are known only in eukaryotes, however they are part of a larger family of pentameric ligand-gated ion channels, which outside the Cys-loop clade are missing the pair of bridging cysteine residues. The larger superfamily includes bacterial (e.g. GLIC) as well as non-Cys-loop eukaryotic receptors, and is referred to as \"pentameric ligand-gated ion channels\", or \"Pro-loop receptors\".",
+            "score": 153.36270141601562
+        },
+        {
+            "docid": "5170782_28",
+            "document": "Cation\u2013pi interaction . An example of cation\u2013\u03c0 interactions in molecular recognition is seen in the nicotinic acetylcholine receptor (nAChR) which binds its endogenous ligand, acetylcholine (a positively charged molecule), via a cation\u2013\u03c0 interaction to the quaternary ammonium. The nAChR neuroreceptor is a well-studied ligand-gated ion channel that opens upon acetylcholine binding. Acetylcholine receptors are therapeutic targets for a large host of neurological disorders, including Parkinson's disease, Alzheimer's disease, schizophrenia, depression and autism. Studies by Dougherty and coworkers confirmed that cation-\u03c0 interactions are important for binding and activating nAChR by making specific structural variations to a key tryptophan residue and correlating activity results with cation-\u03c0 binding ability.",
+            "score": 153.2534942626953
+        },
+        {
+            "docid": "1351369_12",
+            "document": "Ligand-gated ion channel . The name \"NMDA receptor\" is derived from the ligand N-methyl-D-aspartate (NMDA), which acts as a selective agonist at these receptors. When the NMDA receptor is activated by the binding of two co-agonists, the cation channel opens, allowing Na and Ca to flow into the cell, in turn raising the cell's electric potential. Thus, the NMDA receptor is an excitatory receptor. At resting potentials, the binding of Mg or Zn at their extracellular binding sites on the receptor blocks ion flux through the NMDA receptor channel. \"However, when neurons are depolarized, for example, by intense activation of colocalized postsynaptic AMPA receptors, the voltage-dependent block by Mg is partially relieved, allowing ion influx through activated NMDA receptors. The resulting Ca influx can trigger a variety of intracellular signaling cascades, which can ultimately change neuronal function through activation of various kinases and phosphatases\".",
+            "score": 152.6505889892578
+        },
+        {
+            "docid": "52649_10",
+            "document": "Acetylcholine . Nicotinic acetylcholine receptors are ligand-gated ion channels permeable to sodium, potassium, and calcium ions. In other words, they are ion channels embedded in cell membranes, capable of switching from a closed to a open state when acetylcholine binds to them; in the open state they allow ions to pass through. Nicotinic receptors come in two main types, known as muscle-type and neuronal-type. The muscle-type can be selectively blocked by curare, the neuronal-type by hexamethonium. The main location of muscle-type receptors is on muscle cells, as described in more detail below. Neuronal-type receptors are located in autonomic ganglia (both sympathetic and parasympathetic), and in the central nervous system.",
+            "score": 152.1612091064453
+        },
+        {
+            "docid": "1351369_3",
+            "document": "Ligand-gated ion channel . When a presynaptic neuron is excited, it releases a neurotransmitter from vesicles into the synaptic cleft. The neurotransmitter then binds to receptors located on the postsynaptic neuron. If these receptors are ligand-gated ion channels, a resulting conformational change opens the ion channels, which leads to a flow of ions across the cell membrane. This, in turn, results in either a depolarization, for an excitatory receptor response, or a hyperpolarization, for an inhibitory response.",
+            "score": 150.08377075195312
+        },
+        {
+            "docid": "22210872_19",
+            "document": "Barbiturate . Further, barbiturates are relatively non-selective compounds that bind to an entire superfamily of ligand-gated ion channels, of which the GABA receptor channel is only one of several representatives. This superfamily of ion channels includes the neuronal nACh receptor channel, the 5-HT receptor channel, and the glycine receptor channel. However, while GABA receptor currents are increased by barbiturates (and other general anaesthetics), ligand-gated ion channels that are predominantly permeable for cationic ions are blocked by these compounds. For example, neuronal nAChR channels are blocked by clinically relevant anaesthetic concentrations of both thiopental and pentobarbital. Such findings implicate (non-GABA-ergic) ligand-gated ion channels, e.g. the neuronal nAChR channel, in mediating some of the (side) effects of barbiturates. This is the mechanism responsible for the (mild to moderate) anesthetic effect of barbiturates in high doses when used in anesthetic concentration.",
+            "score": 149.8932647705078
+        },
+        {
+            "docid": "374331_6",
+            "document": "Neurotransmitter receptor . Ligand-gated ion channels (LGICs) are one type of ionotropic receptor or channel-linked receptor. They are a group of transmembrane ion channels that are opened or closed in response to the binding of a chemical messenger (i.e., a ligand), such as a neurotransmitter.",
+            "score": 149.76922607421875
+        },
+        {
+            "docid": "12860292_23",
+            "document": "Nicotinic agonist . The development of nicotinic acetylcholine receptor agonists began in the early 1990s after the discovery of nicotine\u2019s positive effects on animal memory. The development of nicotinic acetylcholine receptor agonists has come a long way since then. The nicotinic acetylcholine receptor agonist are gaining increasing attention as drug candidates for multiple central nervous system disorders such as Alzheimer's disease, schizophrenia, attention-deficit hyperactivity disorder (ADHD) and nicotine addiction. Nicotinic acetylcholine receptors are receptors found in the central nervous system, the peripheral nervous systems and skeletal muscles. They are ligand-gated ion channels with binding sites for acetylcholine as well as other agonists. When agonists bind to a receptor it stabilizes the open state of the ion channel allowing influx of cations.",
+            "score": 149.65496826171875
+        },
+        {
+            "docid": "43173137_31",
+            "document": "Alcohol (drug) . In spite of the preceding however, much progress has been made in understanding the pharmacodynamics of ethanol over the last few decades. While no binding sites have been identified and established unambiguously for the drug at present, it appears that ethanol affects ion channels, in particular ligand-gated ion channels, to mediate its effects in the central nervous system. Ethanol has specifically been found in functional assays to enhance or inhibit the activity of a variety of ion channels including the GABA receptor, the ionotropic glutamate AMPA, kainate, and NMDA receptors, the glycine receptor, the nicotinic acetylcholine receptors, the serotonin 5-HT receptor, voltage-gated calcium channels, and BK channels among others. However, many of these actions have been found to occur only at very high concentrations that may not be pharmacologically significant at recreational doses of ethanol, and it is unclear how or to what extent each of the individual actions is involved in the effects of ethanol. In any case, ethanol has long shown a similarity in its effects to positive allosteric modulators of the GABA receptor like benzodiazepines, barbiturates, and various general anesthetics. Indeed, ethanol has been found to enhance GABA receptor-mediated currents in functional assays. In accordance, it is theorized and widely believed that the primary mechanism of action is as a GABA receptor positive allosteric modulator. However, the diverse actions of ethanol on other ion channels may be and indeed likely are involved in its effects as well.",
+            "score": 149.1844024658203
+        },
+        {
+            "docid": "14880045_3",
+            "document": "GABRA3 . GABA is the major inhibitory neurotransmitter in the mammalian brain where it acts at GABA receptors, which are ligand-gated chloride channels. Chloride conductance of these channels can be modulated by agents such as benzodiazepines that bind to the GABA receptor. At least 16 distinct subunits of GABA-A receptors have been identified. GABA receptors are composed of 5 subunits with an extracellular ligand binding domains and ion channel domains that are integral to the membrane.Ligand binding to these receptors activates the channel.",
+            "score": 149.05372619628906
+        },
+        {
+            "docid": "681908_3",
+            "document": "Neuromuscular junction . Muscles require innervation to function\u2014and even just to maintain muscle tone, avoiding atrophy. Synaptic transmission at the neuromuscular junction begins when an action potential reaches the presynaptic terminal of a motor neuron, which activates voltage-dependent calcium channels to allow calcium ions to enter the neuron. Calcium ions bind to sensor proteins (synaptotagmin) on synaptic vesicles, triggering vesicle fusion with the cell membrane and subsequent neurotransmitter release from the motor neuron into the synaptic cleft. In vertebrates, motor neurons release acetylcholine (ACh), a small molecule neurotransmitter, which diffuses across the synaptic cleft and binds to nicotinic acetylcholine receptors (nAChRs) on the cell membrane of the muscle fiber, also known as the sarcolemma. nAChRs are ionotropic receptors, meaning they serve as ligand-gated ion channels. The binding of ACh to the receptor can depolarize the muscle fiber, causing a cascade that eventually results in muscle contraction.",
+            "score": 149.01364135742188
+        },
+        {
+            "docid": "29218_18",
+            "document": "Sodium thiopental . Sodium thiopental is a member of the barbiturate class of drugs, which are relatively non-selective compounds that bind to an entire superfamily of ligand-gated ion channels, of which the GABA receptor channel is one of several representatives. This superfamily of ion channels includes the neuronal nAChR channel, the 5HT3R channel, the GlyR channel and others. Surprisingly, while GABA receptor currents are increased by barbiturates (and other general anesthetics), ligand-gated ion channels that are predominantly permeable for cationic ions are blocked by these compounds. For example, neuronal nAChR channels are blocked by clinically relevant anesthetic concentrations of both sodium thiopental and pentobarbital. Such findings implicate (non-GABA-ergic) ligand-gated ion channels, e.g. the neuronal nAChR channel, in mediating some of the (side) effects of barbiturates. The GABA receptor is an inhibitory channel that decreases neuronal activity, and barbiturates enhance the inhibitory action of the GABA receptor.",
+            "score": 147.7859344482422
+        },
+        {
+            "docid": "743410_9",
+            "document": "Nicotinic acetylcholine receptor . As with all ligand-gated ion channels, opening of the nAChR channel pore requires the binding of a chemical messenger. Several different terms are used to refer to the molecules that bind receptors, such as ligand, agonist, or transmitter. As well as the endogenous agonist acetylcholine, agonists of the nAChR include nicotine, epibatidine, and choline. Nicotinic antagonists that block the receptor include mecamylamine, dihydro-\u03b2-erythroidine, and hexamethonium.",
+            "score": 147.76351928710938
+        },
+        {
+            "docid": "13991735_7",
+            "document": "Receptor theory . The two-state model is a simple linear model to describe the interaction between a ligand and its receptor, but also the active receptor (R). The model uses an equilibrium dissociation constant to describe the interaction between ligand and receptor. It proposes that ligand binding results in a change in receptor state from an inactive to an active state based on the receptor's conformation. A receptor in its active state will ultimately elicit its biological response. It was first described by Black and Leff in 1983 as an alternative model of receptor activation. Similar to the receptor occupancy model, the theory originated from earlier work by del Castillo & Katz on observations relating to ligand-gated ion channels. In this model, agonists and inverse agonists are thought to have selective binding affinity for the pre-existing resting and active states or can induce a conformational change to a different receptor state. Whereas antagonists have no preference in their affinity for a receptor state. The fact that receptor conformation (state) would affect binding affinity of a ligand was used to explain a mechanism of partial agonism of receptors by del Castillo & Katz in 1957 was based on their work on the action of acetylcholine at the motor endplate build on similar work by Wyman & Allen in 1951 on conformational-induced changes in hemoglobin's oxygen binding affinity occurring as a result of oxygen binding. The del Castillo-Katz mechanism divorces the binding step (that can be made by agonists as well as antagonists) from the receptor activation step (that can be only exerted by agonists), describing them as two independent events.",
+            "score": 147.5096435546875
+        },
+        {
+            "docid": "8207052_3",
+            "document": "5-HT3 receptor . As with other ligand gated ion channels, the 5-HT receptor consists of five subunits arranged around a central ion conducting pore, which is permeable to sodium (Na), potassium (K), and calcium (Ca) ions. Binding of the neurotransmitter 5-hydroxytryptamine (serotonin) to the 5-HT receptor opens the channel, which, in turn, leads to an excitatory response in neurons. The rapidly activating, desensitizing, inward current is predominantly carried by sodium and potassium ions. 5-HT receptors have a negligible permeability to anions. They are most closely related by homology to the nicotinic acetylcholine receptor.",
+            "score": 147.4151611328125
+        },
+        {
+            "docid": "173316_7",
+            "document": "Strychnine . Strychnine is a neurotoxin which acts as an antagonist of glycine and acetylcholine receptors. It primarily affects the motor nerves in the spinal cord which control muscle contraction. An impulse is triggered at one end of a nerve by the binding of neurotransmitters to the receptors. In the presence of an inhibitory neurotransmitter, such as glycine, a greater quantity of excitatory neurotransmitters must bind to receptors before there will be an action potential generated. Glycine acts primarily as an agonist of the glycine receptor, which is a ligand-gated chloride channel in neurons located in the spinal cord and in the brain. This chloride channel will allow the negatively charged chloride ions into the neuron, causing a hyperpolarization which pushes the membrane potential further from threshold. Strychnine is an antagonist of glycine; it binds noncovalently to the same receptor, preventing the inhibitory effects of glycine on the postsynaptic neuron. Therefore, action potentials are triggered with lower levels of excitatory neurotransmitters. When the inhibitory signals are prevented, the motor neurons are more easily activated and the victim will have spastic muscle contractions, resulting in death by asphyxiation. Strychnine binds the \"Aplysia californica\" acetylcholine binding protein (a homolog of nicotinic receptors) with high affinity but low specificity, and does so in multiple conformations.",
+            "score": 147.12362670898438
+        },
+        {
+            "docid": "374337_8",
+            "document": "Metabotropic receptor . Metabotropic receptors have neurotransmitters as ligands, which, when bound to the receptors, initiate cascades that can lead to channel-opening or other cellular effects. When a ligand (the neurotransmitter) binds to the receptor (the transducer) the latter activates a primary effector via the G-protein, which can go on to activate secondary messengers or have other effects. Since opening channels by metabotropic receptors involves activating a number of molecules in turn, channels associated with these receptors take longer to open than ionotropic receptors do, and they are thus not involved in mechanisms that require quick responses. However, metabotropic receptors also remain open from seconds to minutes. Thus they have a much longer-lasting effect than ionotropic receptors, which open quickly but only remain open for a few milliseconds. While ionotropic channels have an effect only in the immediate region of the receptor, the effects of metabotropic receptors can be more widespread through the cell.",
+            "score": 146.8488006591797
+        },
+        {
+            "docid": "1351369_19",
+            "document": "Ligand-gated ion channel . ATP-gated channels open in response to binding the nucleotide ATP. They form trimers with two transmembrane helices per subunit and both the C and N termini on the intracellular side. Phosphatidylinositol 4,5-bisphosphate (PIP) binds to and directly activates inwardly rectifying potassium channels (K). PIP is a cell membrane lipid, and its role in gating ion channels represents a novel role for the molecule. In contrast to ligand-gated ion channels, there are also receptor systems in which the receptor and the ion channel are separate proteins in the cell membrane, instead of a single molecule. In this case, ion channels are indirectly modulated by activation of the receptor, instead of being gated directly.",
+            "score": 146.12078857421875
+        }
+    ]
+}

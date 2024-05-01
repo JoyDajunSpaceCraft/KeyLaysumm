@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "29591222_8",
+            "document": "DNA annotation . The simpliest way to perform gene annotation relies on homology based search tools, like BLAST, to search for homologous genes in specific databases, the resulting information is then used to annotate genes and genomes. However, nowadays more and more additional information is added to the annotation platform. The additional information allows manual annotators to deconvolute discrepancies between genes that are given the same annotation. Some databases use genome context information, similarity scores, experimental data, and integrations of other resources to provide genome annotations through their Subsystems approach. Other databases (e.g. Ensembl) rely on both curated data sources as well as a range of different software tools in their automated genome annotation pipeline.",
+            "score": 118.98976540565491
+        },
+        {
+            "docid": "55170_21",
+            "document": "Genomics . Traditionally, the basic level of annotation is using BLAST for finding similarities, and then annotating genomes based on homologues. More recently, additional information is added to the annotation platform. The additional information allows manual annotators to deconvolute discrepancies between genes that are given the same annotation. Some databases use genome context information, similarity scores, experimental data, and integrations of other resources to provide genome annotations through their Subsystems approach. Other databases (e.g. Ensembl) rely on both curated data sources as well as a range of software tools in their automated genome annotation pipeline. \"Structural annotation\" consists of the identification of genomic elements, primarily ORFs and their localisation, or gene structure. \"Functional annotation\" consists of attaching biological information to genomic elements.",
+            "score": 110.135746717453
+        },
+        {
+            "docid": "43256975_6",
+            "document": "PharmGKB . Clinical annotations combine all variant annotations that discuss the same variant-drug phenotype association and bring them together into a single written summary of the association. Clinical annotations consist of summary text, which is written as the association for each genotype as compared to other genotypes. Below this summary text, clinical annotations contain a list of all the variant annotations that support this particular variant-drug phenotype association. Each clinical annotation is also given a level of evidence, providing a measure of confidence in the association. The level of evidence for a clinical annotation is manually assessed, and is based on criteria such as the number of studies finding positive versus negative results, \"p\"-values and study sizes:",
+            "score": 97.88856148719788
+        },
+        {
+            "docid": "29591222_7",
+            "document": "DNA annotation . Automatic annotation tools try to perform all this by computer analysis, as opposed to manual annotation (a.k.a. curation) which involves human expertise. Ideally, these approaches co-exist and complement each other in the same annotation pipeline.",
+            "score": 104.17143630981445
+        },
+        {
+            "docid": "624684_6",
+            "document": "Annotation . From a cognitive perspective annotation has an important role in learning and instruction. As part of guided noticing it involves highlighting, naming or labelling and commenting aspects of visual representations to help focus learners' attention on specific visual aspects. In other words, it means the assignment of typological representations (culturally meaningful categories), to topological representations (e.g. images). This is especially important when experts, such as medical doctors, interpret visualizations in detail and explain their interpretations to others, for example by means of digital technology. Here, annotation can be a way to establish common ground between interactants with different levels of knowledge. The value of annotation has been empirically confirmed, for example, in a study which shows that in computer-based teleconsultations the integration of image annotation and speech leads to significantly improved knowledge exchange compared with the use of images and speech without annotation.",
+            "score": 93.43347251415253
+        },
+        {
+            "docid": "2746499_5",
+            "document": "American National Corpus . The ANC differs from other corpora of English because it is richly annotated, including different part of speech annotations (Penn tags, CLAWS5 and CLAWS7 tags), shallow parse annotations, and annotations for several types of named entities. Additional annotations are added to all or parts of the corpus as they become available, often by contributions from other projects. Unlike on-line searchable corpora, which due to copyright restrictions allow access only to individual sentences, the entire ANC is available to enable research involving, for example, development of statistical language models and full-text linguistic annotation.",
+            "score": 84.73913502693176
+        },
+        {
+            "docid": "22743648_4",
+            "document": "A.nnotate . By default, all documents and annotations are private. A user can issue invitations by email to allow other users to view and annotate a particular document or to access all documents in a folder. A \"reply\" option on annotations allows other users to comment on existing annotations offering a form of Threaded discussion. Access controls allow the document owner to specify what annotators may do, including viewing each other's annotations and defining new tags.",
+            "score": 79.71410179138184
+        },
+        {
+            "docid": "1906608_15",
+            "document": "Named-entity recognition . NER systems have been created that use linguistic grammar-based techniques as well as statistical models such as machine learning. Hand-crafted grammar-based systems typically obtain better precision, but at the cost of lower recall and months of work by experienced computational linguists . Statistical NER systems typically require a large amount of manually annotated training data. Semisupervised approaches have been suggested to avoid part of the annotation effort.",
+            "score": 102.04477214813232
+        },
+        {
+            "docid": "55170_20",
+            "document": "Genomics . The DNA sequence assembly alone is of little value without additional analysis. Genome annotation is the process of attaching biological information to sequences, and consists of three main steps: Automatic annotation tools try to perform these steps \"in silico\", as opposed to manual annotation (a.k.a. curation) which involves human expertise and potential experimental verification. Ideally, these approaches co-exist and complement each other in the same annotation pipeline (also see below).",
+            "score": 95.31937623023987
+        },
+        {
+            "docid": "33890874_12",
+            "document": "De novo transcriptome assembly . Functional annotation of the assembled transcripts allows for insight into the particular molecular functions, cellular components, and biological processes in which the putative proteins are involved. Blast2GO (B2G) enables Gene Ontology based data mining to annotate sequence data for which no GO annotation is available yet. It is a research tool often employed in functional genomics research on non-model species. It works by blasting assembled contigs against a non-redundant protein database (at NCBI), then annotating them based on sequence similarity. GOanna is another GO annotation program specific for animal and agricultural plant gene products that works in a similar fashion. It is part of the AgBase database of curated, publicly accessible suite of computational tools for GO annotation and analysis. Following annotation, KEGG (Kyoto Encyclopedia of Genes and Genomes) enables visualization of metabolic pathways and molecular interaction networks captured in the transcriptome.",
+            "score": 101.34572696685791
+        },
+        {
+            "docid": "4093054_2",
+            "document": "Java annotation . In the Java computer programming language, an annotation is a form of syntactic metadata that can be added to Java source code. Classes, methods, variables, parameters and packages may be annotated. Like Javadoc tags, Java annotations can be read from source files. Unlike Javadoc tags, Java annotations can also be embedded in and read from class files generated by the compiler. This allows annotations to be retained by Java VM at run-time and read via reflection. It is possible to create meta-annotations out of the existing ones in Java.",
+            "score": 85.41106152534485
+        },
+        {
+            "docid": "56982936_6",
+            "document": "Argument mining . Given the wide variety of text genres and the different research perspectives and approaches, it has been difficult to reach a common and objective evaluation scheme. Many annotated data sets have been proposed, with some gaining popularity, but a consensual data set is yet to be found.  Annotating argumentative structures is a highly demanding task. There have been successful attempts to delegate such annotation tasks to the crowd but the process still requires a lot of effort and carries significant cost. Initial attempts to bypass this hurdle were made using the weak supervision approach.",
+            "score": 101.96204376220703
+        },
+        {
+            "docid": "23167397_19",
+            "document": "GENCODE . A comparison of key statistics from 3 major GENCODE releases is shown below. It is evident that although the coverage, in terms of total number of genes discovered, is steady increasing, the number of protein-coding genes has actually decreased. This is mostly attributed to new experimental evidence obtained using Cap Analysis Gene Expression (CAGE) clusters, annotated PolyA sites, and peptide hits. The general process to create an annotation for GENCODE involves manual curation, different computational analysis and targeted experimental approaches. Putative loci can be verified by wet-lab experiments and computational predictions are analysed manually. Currently, to ensure a set of annotation covers the complete genome rather than just the regions that have been manually annotated, a merged data set is created using manual annotations from HAVANA, together with automatic annotations from the Ensembl automatically annotated gene set. This process also adds unique full-length CDS predictions from the Ensembl protein coding set into manually annotated genes, to provide the most complete and up-to-date annotation of the genome possible.",
+            "score": 113.35121536254883
+        },
+        {
+            "docid": "44260712_13",
+            "document": "SNP annotation . To annotate large number of available NGS data, currently a large number of SNPs annotation tools is available. Some of them are specific to some specific SNPs annotation. Some of the available SNPs annotation tools are as follows SNPeff, VEP, ANNOVAR, FATHMM, PhD-SNP, PolyPhen-2, SuSPect, F-SNP, AnnTools, SeattleSeq, SNPit, SCAN, Snap, SNPs&GO, LS-SNP, Snat, TREAT, TRAMS, Maviant, MutationTaster, SNPdat, Snpranker, NGS \u2013 SNP, SVA, VARIANT, SIFT, PhD-SNP and FAST-SNP. Function and approach used in SNPs annotation tools are listed below",
+            "score": 92.39628028869629
+        },
+        {
+            "docid": "1079500_96",
+            "document": "Java syntax . Java has a set of predefined annotation types, but it is allowed to define new ones. An annotation type declaration is a special type of an interface declaration. They are declared in the same way as the interfaces, except the codice_148 keyword is preceded by the codice_149 sign. All annotations are implicitly extended from codice_150 and cannot be extended from anything else. Annotations may have the same declarations in the body as the common interfaces, in addition they are allowed to include enums and annotations. The main difference is that abstract method declarations must not have any parameters or throw any exceptions. Also they may have a default value, which is declared using the codice_36 keyword after the method name:",
+            "score": 77.67495822906494
+        },
+        {
+            "docid": "4965933_3",
+            "document": "OBO Foundry . The Foundry initiative rests on the belief that the value of data is greatly enhanced when it exists in a form that allows it to be integrated with other data. One approach to integration is through the annotation of multiple bodies of data using common controlled vocabularies. Ideally, such controlled vocabularies take the form of 'ontologies', which means that they are constructed in such a way as to support logical reasoning over the data annotated in their terms.",
+            "score": 89.46455335617065
+        },
+        {
+            "docid": "37569123_20",
+            "document": "Parallelization contract . User code annotation are optional in the PACT programming model. They allow the developer to make certain behaviors of her/his user code explicit to the optimizer. The PACT optimizer can utilize that information to obtain more efficient execution plans. However, it will not impact the correctness of the result if a valid annotation was not attached to the user code. On the other hand, invalidly specified annotations might cause the computation of wrong results. In the following, we list the current set of available Output Contracts.",
+            "score": 94.40770649909973
+        },
+        {
+            "docid": "1454791_6",
+            "document": "Gene ontology . GO is not static, and additions, corrections and alterations are suggested by, and solicited from, members of the research and annotation communities, as well as by those directly involved in the GO project. For example, an annotator may request a specific term to represent a metabolic pathway, or a section of the ontology may be revised with the help of community experts (e.g.). Suggested edits are reviewed by the ontology editors, and implemented where appropriate.",
+            "score": 72.8806746006012
+        },
+        {
+            "docid": "23167397_21",
+            "document": "GENCODE . The main approach to manual gene annotation is to annotate transcripts aligned to the genome and take the genomic sequences as the reference rather than the cDNAs. The finished genomic sequence is analyzed using a modified Ensembl pipeline, and BLAST results of cDNAs/ESTs and proteins, along with various ab initio predictions, can be analyzed manually in the annotation browser tool Otterlace. Thus, more alternative spliced variants can be predicted compared with cDNA annotation. Moreover, genomic annotation produces a more comprehensive analysis of pseudogenes. There are several analysis groups in the GENCODE consortium that run pipelines that aid the manual annotators in producing models in unannotated regions, and to identify potential missed or incorrect manual annotation, including completely missing loci, missing alternative isoforms, incorrect splice sites and incorrect biotypes. These are fed back to the manual annotators using the AnnoTrack tracking system. Some of these pipelines use data from other ENCODE subgroups including RNASeq data, histone modification and CAGE and Ditag data. RNAseq data is an important new source of evidence, but generating complete gene models from it is a difficult problem. As part of GENCODE, a competition was run to assess the quality of predictions produced by various RNAseq prediction pipelines (Refer to RGASP below). To confirm uncertain models, GENCODE also has an experimental validation pipeline using RNA sequencing and RACE",
+            "score": 110.8663444519043
+        },
+        {
+            "docid": "1467946_27",
+            "document": "Modelica . A hierarchical model is built-up from basic models, by instantiating basic models, providing suitable values for the model parameters, and by connecting model connectors. A typical example is the following electrical circuit: model Circuit equation end Circuit; Via the language element annotation(...), definitions can be added to a model that do not have an influence on a simulation. Annotations are used to define graphical layout, documentation and version information. A basic set of graphical annotations is standardized to ensure that the graphical appearance and layout of models in different Modelica tools is the same.",
+            "score": 83.73892068862915
+        },
+        {
+            "docid": "1104704_47",
+            "document": "Covariance and contravariance (computer science) . There are two main approaches. In languages with \"declaration-site variance annotations\" (e.g., C#), the programmer annotates the definition of a generic type with the intended variance of its type parameters. With \"use-site variance annotations\" (e.g., Java), the programmer instead annotates the places where a generic type is instantiated.",
+            "score": 84.6261100769043
+        },
+        {
+            "docid": "1931185_3",
+            "document": "Automatic image annotation . This method can be regarded as a type of multi-class image classification with a very large number of classes - as large as the vocabulary size. Typically, image analysis in the form of extracted feature vectors and the training annotation words are used by machine learning techniques to attempt to automatically apply annotations to new images. The first methods learned the correlations between image features and training annotations, then techniques were developed using machine translation to try to translate the textual vocabulary with the 'visual vocabulary', or clustered regions known as \"blobs\". Work following these efforts have included classification approaches, relevance models and so on.",
+            "score": 101.91223120689392
+        },
+        {
+            "docid": "44260712_2",
+            "document": "SNP annotation . Single nucleotide polymorphism plays an important role in genome wide association studies because they act as primary biomarker. SNPs are currently the marker of choice due to their large numbers in virtually all populations of individuals. The location of these biomarkers can be tremendously important in terms of predicting functional significance, genetic mapping and population genetics. Each SNP represents a nucleotide change between two individuals at a defined location. SNPs are the most common genetic variant found in all individual with one SNP every 100\u2013300 bp in some species. Since there is a massive number of SNPs on the genome, there is a clear need to prioritize SNPs according to their potential effect in order to expedite genotyping and analysis. Annotating large numbers of SNPs is a difficult and complex process, which need computational methods to handle such a large dataset. Many tools available have been developed for SNP annotation in different organism, some of them are optimized for use with organisms densely sampled for SNPs (such as humans), but there are currently few tools available that are species non-specific or support non-model organism data. The majority of SNPs annotation tools provide computationally predicted putative deleterious effects of SNPs. These tools examine whether a SNP resides in functional genomic regions such as exons, splice sites, or transcription regulatory sites, and predict the potential corresponding functional effects that the SNP may have using a variety of machine-learning approaches. But the tools and systems that prioritize functionally significant SNPs, suffer from few limitations: First, they examine the putative deleterious effects of SNPs with respect to a single biological function that provide only partial information about the functional significance of SNPs. Second, current systems classify SNPs into deleterious or neutral group.",
+            "score": 94.68796265125275
+        },
+        {
+            "docid": "26198613_4",
+            "document": "Numeric Annotation Glyphs . A Numeric Annotation Glyph is composed of a dollar sign character (\"$\") immediately followed by one or more digit characters. Each NAG then has a specific meaning and often a standard typographical representation. The meanings first defined stemmed from the use of specific typographic symbols when annotators were commenting upon chess games; most especially in Chess Informant publications. The objective was to devise an alternative representation of these symbols which could be incorporated in the simple computer file format proposed as the PGN standard. This mechanism allowed often sophisticated typography to be expressed using the simple ASCII character set.",
+            "score": 79.04597544670105
+        },
+        {
+            "docid": "31306433_6",
+            "document": "Conserved Domain Database . The collection is also part of NCBI\u2019s Entrez query and retrieval system, crosslinked to numerous other resources. CDD provides annotation of domain footprints and conserved functional sites on protein sequences. Precalculated domain annotation can be retrieved for protein sequences tracked in NCBI\u2019s Entrez system, and CDD\u2019s collection of models can be queried with novel protein sequences via * , or at* , that allows the computation and download of annotation for large sets of protein queries.",
+            "score": 82.90954399108887
+        },
+        {
+            "docid": "35587999_12",
+            "document": "Toponym Resolution . Toponym resolution methods can be generally divided into supervised and unsupervised models. Supervised methods typically cast the problem as a learning task wherein the model first extracts contextual and non-contextual features and then, a classifier is trained on a labelled dataset. Adaptive model is one of the prominent models proposed in resolving toponyms. For each interpretation of a toponym, the model derives context-sensitive features based on geographical proximity and sibling relationships with other interpretations. In addition to context related features, the model benefits from context-free features including population, and audience location. On the other hand, unsupervised models do not warrant annotated data. They are superior to supervised models when the annotated corpus is not sufficiently large, and supervised models may not generalize well.",
+            "score": 83.50481462478638
+        },
+        {
+            "docid": "44990974_4",
+            "document": "NooJ . All NooJ parsers process Atomic Linguistic Units (ALUs), as opposed to word forms (i.e. sequences of letters between two space characters). This allows NooJ\u2019s syntactic parser to parse sequences of word forms such as \u201ccan not\u201d exactly as contracted word forms such as \u201ccannot\u201d or \u201ccan\u2019t\u201d. This allows linguists to write relatively simple syntactic grammars, even for agglutinative languages. ALUs are represented by annotations that are stored in the Text Annotation Structure (or TAS): all NooJ parsers add, or remove annotations in the TAS. A typical NooJ analysis involves applying to a text a series of elementary grammars in cascade, in a bottom-up approach (from spelling to semantics).",
+            "score": 77.65858149528503
+        },
+        {
+            "docid": "13772374_14",
+            "document": "Renaissance Computing Institute . A major focus of RENCI\u2019s work in the Biomedical and Health Sciences is clinical genomics. RENCI works with NC TraCS, the Lineberger Comprehensive Cancer Center at UNC-CH, and UNC\u2019s Information Technology Services Research Computing Division to develop and implement technologies to support next-generation genomic sequencing technologies, such as Whole Genome Sequencing (WGS) and Whole Exome Sequencing (WES). These technologies include the GMW (Genetic Medical Workflow) Engine, which was funded in part by the NIH and provides end-to-end capture, analysis, validation, and reporting of WGS and WES data. The GMW Engine is designed as open source architecture that coordinates workflows, sub-workflows, samples, data, and people to support all aspects of genomics research and clinical application, from the initial patient visit to the physician-guided reporting of genomic findings. MapSeq (Masively Parallel Sequencing) is an open source plugin-based Service-Oriented Architecture (SOA) that provides secure management and execution of the complex downstream computational and analytical steps involved in high-throughput genomic sequencing and other data-intensive applications. MaPSeq and its homegrown sister technology, GATE (Grid Access Triage Engine), are built on top of Apache Karaf and together provide extensible capabilities for downstream analysis of genomic data and other large data sets, including workflow pipeline execution and management, meta-scheduling of workflow jobs, opportunistic use of compute resources, secure data transfer, and web-based client access. CANVAS (CAroliNa Variant Annotation Store) and AnnoBot (Annotation Bot) work together to provide version-controlled annotation and metadata for genomic variant data in order to support up-to-date clinical interpretation of genomic variants and thereby guide clinical decision making. CANVAS is designed as an open source, relational PostgreSQL relational database that stores genomic variant data with associated annotation and metadata. AnnoBot consists of Python modules and software driver code configured to provide automated monitoring and retrieval of external data sources for annotation updates. CHAT (Convergent Haplotype Association Tagging) is a software algorithm that allows for the identification of moderately penetrant genomic variants using cross-population genetic structures. CHAT invokes a graph theory\u2013based algorithm to determine the haplotype phase of a population of unrelated individuals by: identifying subsets of individuals that share a region of the genome through descent; and then generating a consensus haplotype for the shared region. The SMW (Secure Medical Workspace) provisions a secure environment for access to sensitive patient data for clinical care or Institutional Review Board\u2013approved clinical research. The open source SMW architecture uses virtualization technology (i.e., VMWare) and Data Leakage Protection (DLP) technology (i.e., WebSense) to create a secure virtual workspace coupled with the ability to prevent (or allow with a challenge and auditing by Information Technology staff) the physical removal of data from a central, secure storage environment.",
+            "score": 96.68604135513306
+        },
+        {
+            "docid": "21652_10",
+            "document": "Natural language processing . Recent research has increasingly focused on unsupervised and semi-supervised learning algorithms. Such algorithms are able to learn from data that has not been hand-annotated with the desired answers, or using a combination of annotated and non-annotated data. Generally, this task is much more difficult than supervised learning, and typically produces less accurate results for a given amount of input data. However, there is an enormous amount of non-annotated data available (including, among other things, the entire content of the World Wide Web), which can often make up for the inferior results.",
+            "score": 108.64453315734863
+        },
+        {
+            "docid": "27837170_12",
+            "document": "History of natural language processing . Recent research has increasingly focused on unsupervised and semi-supervised learning algorithms. Such algorithms are able to learn from data that has not been hand-annotated with the desired answers, or using a combination of annotated and non-annotated data. Generally, this task is much more difficult than supervised learning, and typically produces less accurate results for a given amount of input data. However, there is an enormous amount of non-annotated data available (including, among other things, the entire content of the World Wide Web), which can often make up for the inferior results.",
+            "score": 108.64453315734863
+        },
+        {
+            "docid": "7420632_2",
+            "document": "Minimum information required in the annotation of models . MIRIAM (Minimum Information Required In The Annotation of Models) is a community-level effort to standardize the annotation and curation processes of quantitative models of biological systems. It consists of a set of guidelines suitable for use with any structured format, allowing different groups to collaborate and share resulting models. Adherence to these guidelines also facilitates the sharing of software and service infrastructures built upon modeling activities.",
+            "score": 93.25271391868591
+        },
+        {
+            "docid": "15302691_2",
+            "document": "Xrate . XRATE is a program for prototyping phylogenetic hidden Markov models and stochastic context-free grammars. It is used to discover patterns of evolutionary conservation in sequence alignments. The program can be used to estimate parameters for such models from \"training\" alignment data, or to apply the parameterized model so as to annotate new alignments. The program allows specification of a variety of models of DNA sequence evolution which may be arbitrarily organized using formal grammars.",
+            "score": 80.24334025382996
+        }
+    ],
+    "r": [
+        {
+            "docid": "29591222_8",
+            "document": "DNA annotation . The simpliest way to perform gene annotation relies on homology based search tools, like BLAST, to search for homologous genes in specific databases, the resulting information is then used to annotate genes and genomes. However, nowadays more and more additional information is added to the annotation platform. The additional information allows manual annotators to deconvolute discrepancies between genes that are given the same annotation. Some databases use genome context information, similarity scores, experimental data, and integrations of other resources to provide genome annotations through their Subsystems approach. Other databases (e.g. Ensembl) rely on both curated data sources as well as a range of different software tools in their automated genome annotation pipeline.",
+            "score": 118.98977661132812
+        },
+        {
+            "docid": "1454791_10",
+            "document": "Gene ontology . The evidence code comes from a controlled vocabulary of codes covering both manual and automated annotation methods. For example, \"Traceable Author Statement\" (TAS) means a curator has read a published scientific paper and the metadata for that annotation bears a citation to that paper; \"Inferred from Sequence Similarity\" (ISS) means a human curator has reviewed the output from a sequence similarity search and verified that it is biologically meaningful. Annotations from automated processes (for example, remapping annotations created using another annotation vocabulary) are given the code \"Inferred from Electronic Annotation\" (IEA). As of April 1, 2010, over 98% of all GO annotations were inferred computationally, not by curators. As these annotations are not checked by a human, the GO Consortium considers them to be less reliable and includes only a subset in the data available online in AmiGO. Full annotation data sets can be downloaded from the GO website. To support the development of annotation, the GO Consortium provides study camps and mentors to new groups of developers. Recently, many machine learning algorithms have been designed and implemented to predict Gene Ontology annotations.",
+            "score": 113.59135437011719
+        },
+        {
+            "docid": "23167397_19",
+            "document": "GENCODE . A comparison of key statistics from 3 major GENCODE releases is shown below. It is evident that although the coverage, in terms of total number of genes discovered, is steady increasing, the number of protein-coding genes has actually decreased. This is mostly attributed to new experimental evidence obtained using Cap Analysis Gene Expression (CAGE) clusters, annotated PolyA sites, and peptide hits. The general process to create an annotation for GENCODE involves manual curation, different computational analysis and targeted experimental approaches. Putative loci can be verified by wet-lab experiments and computational predictions are analysed manually. Currently, to ensure a set of annotation covers the complete genome rather than just the regions that have been manually annotated, a merged data set is created using manual annotations from HAVANA, together with automatic annotations from the Ensembl automatically annotated gene set. This process also adds unique full-length CDS predictions from the Ensembl protein coding set into manually annotated genes, to provide the most complete and up-to-date annotation of the genome possible.",
+            "score": 113.3512191772461
+        },
+        {
+            "docid": "23167397_21",
+            "document": "GENCODE . The main approach to manual gene annotation is to annotate transcripts aligned to the genome and take the genomic sequences as the reference rather than the cDNAs. The finished genomic sequence is analyzed using a modified Ensembl pipeline, and BLAST results of cDNAs/ESTs and proteins, along with various ab initio predictions, can be analyzed manually in the annotation browser tool Otterlace. Thus, more alternative spliced variants can be predicted compared with cDNA annotation. Moreover, genomic annotation produces a more comprehensive analysis of pseudogenes. There are several analysis groups in the GENCODE consortium that run pipelines that aid the manual annotators in producing models in unannotated regions, and to identify potential missed or incorrect manual annotation, including completely missing loci, missing alternative isoforms, incorrect splice sites and incorrect biotypes. These are fed back to the manual annotators using the AnnoTrack tracking system. Some of these pipelines use data from other ENCODE subgroups including RNASeq data, histone modification and CAGE and Ditag data. RNAseq data is an important new source of evidence, but generating complete gene models from it is a difficult problem. As part of GENCODE, a competition was run to assess the quality of predictions produced by various RNAseq prediction pipelines (Refer to RGASP below). To confirm uncertain models, GENCODE also has an experimental validation pipeline using RNA sequencing and RACE",
+            "score": 110.86634826660156
+        },
+        {
+            "docid": "55170_21",
+            "document": "Genomics . Traditionally, the basic level of annotation is using BLAST for finding similarities, and then annotating genomes based on homologues. More recently, additional information is added to the annotation platform. The additional information allows manual annotators to deconvolute discrepancies between genes that are given the same annotation. Some databases use genome context information, similarity scores, experimental data, and integrations of other resources to provide genome annotations through their Subsystems approach. Other databases (e.g. Ensembl) rely on both curated data sources as well as a range of software tools in their automated genome annotation pipeline. \"Structural annotation\" consists of the identification of genomic elements, primarily ORFs and their localisation, or gene structure. \"Functional annotation\" consists of attaching biological information to genomic elements.",
+            "score": 110.13575744628906
+        },
+        {
+            "docid": "21652_10",
+            "document": "Natural language processing . Recent research has increasingly focused on unsupervised and semi-supervised learning algorithms. Such algorithms are able to learn from data that has not been hand-annotated with the desired answers, or using a combination of annotated and non-annotated data. Generally, this task is much more difficult than supervised learning, and typically produces less accurate results for a given amount of input data. However, there is an enormous amount of non-annotated data available (including, among other things, the entire content of the World Wide Web), which can often make up for the inferior results.",
+            "score": 108.64453125
+        },
+        {
+            "docid": "27837170_12",
+            "document": "History of natural language processing . Recent research has increasingly focused on unsupervised and semi-supervised learning algorithms. Such algorithms are able to learn from data that has not been hand-annotated with the desired answers, or using a combination of annotated and non-annotated data. Generally, this task is much more difficult than supervised learning, and typically produces less accurate results for a given amount of input data. However, there is an enormous amount of non-annotated data available (including, among other things, the entire content of the World Wide Web), which can often make up for the inferior results.",
+            "score": 108.64453125
+        },
+        {
+            "docid": "48198256_11",
+            "document": "Emotion recognition . Data is an integral part of the existing approaches in emotion recognition and in most cases it is a challenge to obtain annotated data that is necessary to train machine learning algorithms. While most publicly available data are not annotated, there are existing annotated datasets available to perform emotion recognition research. For the task of classifying different emotion types from multimodal sources in the form of texts, audio, or videos, the following datasets are available:",
+            "score": 106.9155044555664
+        },
+        {
+            "docid": "44260712_17",
+            "document": "SNP annotation . The next generation of SNP annotation webservers can take advantage of the growing amount of data in core bioinformatics resources and use intelligent agents to fetch data from different sources as needed. From a user\u2019s point of view, it is more efficient to submit a set of SNPs and receive results in a single step, which makes meta-servers the most attractive choice. However, if SNP annotation tools deliver heterogeneous data covering sequence, structure, regulation, pathways, etc., they must also provide frameworks for integrating data into a decision algorithm(s), and quantitative confidence measures so users can assess which data are relevant and which are not.",
+            "score": 106.28486633300781
+        },
+        {
+            "docid": "10795520_21",
+            "document": "National Centre for Text Mining . The objective of the Argo project is to develop a workbench for analysing (primarily annotating) textual data. The workbench, which is accessed as a web application, supports the combination of elementary text-processing components to form comprehensive processing workflows. It provides functionality to manually intervene in the otherwise automatic process of annotation by correcting or creating new annotations, and facilitates user collaboration by providing sharing capabilities for user-owned resources. Argo benefits users such as text-analysis designers by providing an integrated environment for the development of processing workflows; annotators/curators by providing manual annotation functionalities supported by automatic pre-processing and post-processing; and developers by providing a workbench for testing and evaluating text analytics.",
+            "score": 105.77645111083984
+        },
+        {
+            "docid": "4461797_17",
+            "document": "SBML . In addition to the elements above, another important feature of SBML is that every entity can have machine-readable annotations attached to it. These annotations can be used to express relationships between the entities in a given model and entities in external resources such as databases. A good example of the value of this is in BioModels Database, where every model is annotated and linked to relevant data resources such as publications, databases of compounds and pathways, controlled vocabularies, and more. With annotations, a model becomes more than simply a rendition of a mathematical construct\u2014it becomes a semantically-enriched framework for communicating knowledge.",
+            "score": 104.66897583007812
+        },
+        {
+            "docid": "29591222_7",
+            "document": "DNA annotation . Automatic annotation tools try to perform all this by computer analysis, as opposed to manual annotation (a.k.a. curation) which involves human expertise. Ideally, these approaches co-exist and complement each other in the same annotation pipeline.",
+            "score": 104.17144012451172
+        },
+        {
+            "docid": "52644622_5",
+            "document": "MobiDB . In order to provide the best possible annotation for a give protein, MobiDB combines all its data sources into a consensus annotation. This annotation differs from the ones belonging to the sources themselves in that it features a third state, in addition to \"structured\" and \"disordered\": when two authoritative sources disagree, it displays the region as \"ambiguous\". With the currently available annotations, this conflict arises when a manually curated source annotates a certain region as disordered, and yet there is a PDB structure available for that same region.",
+            "score": 102.97105407714844
+        },
+        {
+            "docid": "1906608_15",
+            "document": "Named-entity recognition . NER systems have been created that use linguistic grammar-based techniques as well as statistical models such as machine learning. Hand-crafted grammar-based systems typically obtain better precision, but at the cost of lower recall and months of work by experienced computational linguists . Statistical NER systems typically require a large amount of manually annotated training data. Semisupervised approaches have been suggested to avoid part of the annotation effort.",
+            "score": 102.0447769165039
+        },
+        {
+            "docid": "56982936_6",
+            "document": "Argument mining . Given the wide variety of text genres and the different research perspectives and approaches, it has been difficult to reach a common and objective evaluation scheme. Many annotated data sets have been proposed, with some gaining popularity, but a consensual data set is yet to be found.  Annotating argumentative structures is a highly demanding task. There have been successful attempts to delegate such annotation tasks to the crowd but the process still requires a lot of effort and carries significant cost. Initial attempts to bypass this hurdle were made using the weak supervision approach.",
+            "score": 101.96204376220703
+        },
+        {
+            "docid": "1931185_3",
+            "document": "Automatic image annotation . This method can be regarded as a type of multi-class image classification with a very large number of classes - as large as the vocabulary size. Typically, image analysis in the form of extracted feature vectors and the training annotation words are used by machine learning techniques to attempt to automatically apply annotations to new images. The first methods learned the correlations between image features and training annotations, then techniques were developed using machine translation to try to translate the textual vocabulary with the 'visual vocabulary', or clustered regions known as \"blobs\". Work following these efforts have included classification approaches, relevance models and so on.",
+            "score": 101.9122314453125
+        },
+        {
+            "docid": "33890874_12",
+            "document": "De novo transcriptome assembly . Functional annotation of the assembled transcripts allows for insight into the particular molecular functions, cellular components, and biological processes in which the putative proteins are involved. Blast2GO (B2G) enables Gene Ontology based data mining to annotate sequence data for which no GO annotation is available yet. It is a research tool often employed in functional genomics research on non-model species. It works by blasting assembled contigs against a non-redundant protein database (at NCBI), then annotating them based on sequence similarity. GOanna is another GO annotation program specific for animal and agricultural plant gene products that works in a similar fashion. It is part of the AgBase database of curated, publicly accessible suite of computational tools for GO annotation and analysis. Following annotation, KEGG (Kyoto Encyclopedia of Genes and Genomes) enables visualization of metabolic pathways and molecular interaction networks captured in the transcriptome.",
+            "score": 101.34573364257812
+        },
+        {
+            "docid": "1454791_9",
+            "document": "Gene ontology . Genome annotation is the practice of capturing data about a gene product, and GO annotations use terms from the GO ontology to do so. The members of the GO Consortium submit their annotation for integration and dissemination on the GO website, where they can be downloaded directly or viewed online using AmiGO. In addition to the gene product identifier and the relevant GO term, GO annotations have the following data: The \"reference\" used to make the annotation (e.g. a journal article);  An \"evidence code\" denoting the type of evidence upon which the annotation is based;  The date and the creator of the annotation",
+            "score": 100.3590316772461
+        },
+        {
+            "docid": "48198256_8",
+            "document": "Emotion recognition . Statistical methods commonly involve the use of different supervised machine learning algorithms in which a large set of annotated data is fed into the algorithms for the system to learn and predict the appropriate emotion types. This approach normally involves two sets of data: the training set and the testing set, where the former is used to learn the attributes of the data, while the latter is used to validate the performance of the machine learning algorithm. Machine learning algorithms generally provide more reasonable classification accuracy compared to other approaches, but one of the challenges in achieving good results in the classification process, is the need to have a sufficiently large training set.",
+            "score": 99.8819808959961
+        },
+        {
+            "docid": "44248347_16",
+            "document": "Gene Disease Database . Data at RGD that is useful for researchers investigating disease genes include disease annotations for rat, mouse and human genes. Annotations are manually curated from the literature, or downloaded via automated pipelines from other disease-related databases. Downloaded annotations are mapped to the same disease vocabulary used for manual annotations to provide consistency across the dataset. RGD also maintains disease-related quantitative phenotype data for the rat (PhenoMiner).",
+            "score": 99.34268188476562
+        },
+        {
+            "docid": "10435040_2",
+            "document": "Scott's Pi . Scott's pi (named after William A. Scott) is a statistic for measuring inter-rater reliability for nominal data in communication studies. Textual entities are annotated with categories by different annotators, and various measures are used to assess the extent of agreement between the annotators, one of which is Scott's pi. Since automatically annotating text is a popular problem in natural language processing, and goal is to get the computer program that is being developed to agree with the humans in the annotations it creates, assessing the extent to which humans agree with each other is important for establishing a reasonable upper limit on computer performance.",
+            "score": 99.32416534423828
+        },
+        {
+            "docid": "30625026_11",
+            "document": "Consensus CDS Project . Curation policies established for the CCDS data set have been integrated in to the RefSeq and HAVANA annotation guidelines and thus, new annotations provided by both groups are more likely to be concordant and result in addition of a CCDS ID. These standards address specific problem areas, are not a comprehensive set of annotation guidelines, and do not restrict the annotation policies of any collaborating group. Examples include, standardized curation guidelines for selection of the initiation codon and interpretation of upstream ORFs and transcripts that are predicted to be candidates for nonsense-mediated decay. Curation occurs continuously, and any of the collaborating centers can flag a CCDS ID as a potential update or withdrawal.",
+            "score": 99.14985656738281
+        },
+        {
+            "docid": "33373383_5",
+            "document": "GWASdb . GWASdb, a database that combines collections of GVs from GWAS together with their functional annotations and disease classifications. The database provides the following information: (i) In addition to all the GVs annotated in the NHGRI GWAS Catalog, we manually curated the GVs that are marginally significant (P value < 1.0\u00d710-3) collected from supplementary materials of each original publication. (ii) We provide extensive functional annotations for these GVs. (iii) The GVs have been manually classified according to disease using Disease-Ontology Lite (DOLite) and Human Phenotype Ontology (HPO). The database can be used to conduct gene-based pathway enrichment and PPI network association analysis for diseases with sufficient variants.",
+            "score": 97.98897552490234
+        },
+        {
+            "docid": "43256975_6",
+            "document": "PharmGKB . Clinical annotations combine all variant annotations that discuss the same variant-drug phenotype association and bring them together into a single written summary of the association. Clinical annotations consist of summary text, which is written as the association for each genotype as compared to other genotypes. Below this summary text, clinical annotations contain a list of all the variant annotations that support this particular variant-drug phenotype association. Each clinical annotation is also given a level of evidence, providing a measure of confidence in the association. The level of evidence for a clinical annotation is manually assessed, and is based on criteria such as the number of studies finding positive versus negative results, \"p\"-values and study sizes:",
+            "score": 97.88856506347656
+        },
+        {
+            "docid": "1789039_6",
+            "document": "Apache Beehive . This is the third component of Beehive and it enables a developer to create webservices using meta-data/annotations quickly. In essence by using meta-data/annotations one can create complex web services utilizing features like conversation, state etc quickly and since all the meta-data/annotations are in one file, it is easier to debug and maintain. Using this approach any plain Java class can be converted into a web service just by the addition of annotations into the Java source files. This is based on JSR-181 which builds on JSR-175.",
+            "score": 97.53233337402344
+        },
+        {
+            "docid": "2746499_6",
+            "document": "American National Corpus . ANC annotations are automatically produced and unvalidated.  A 500,000 word subset called the Manually Annotated Sub-Corpus (MASC) is annotated for approximately 20 different kinds of linguistic annotations, all of which have been hand-validated or manually produced. These include Penn Treebank syntactic annotation, WordNet sense annotation, FrameNet semantic frame annotations, among others. Like the OANC, MASC is freely available for any use, and can be downloaded from the ANC site or from the Linguistic Data Consortium. It is also distributed in part-of-speech tagged form with the Natural Language Toolkit.",
+            "score": 97.30118560791016
+        },
+        {
+            "docid": "13772374_14",
+            "document": "Renaissance Computing Institute . A major focus of RENCI\u2019s work in the Biomedical and Health Sciences is clinical genomics. RENCI works with NC TraCS, the Lineberger Comprehensive Cancer Center at UNC-CH, and UNC\u2019s Information Technology Services Research Computing Division to develop and implement technologies to support next-generation genomic sequencing technologies, such as Whole Genome Sequencing (WGS) and Whole Exome Sequencing (WES). These technologies include the GMW (Genetic Medical Workflow) Engine, which was funded in part by the NIH and provides end-to-end capture, analysis, validation, and reporting of WGS and WES data. The GMW Engine is designed as open source architecture that coordinates workflows, sub-workflows, samples, data, and people to support all aspects of genomics research and clinical application, from the initial patient visit to the physician-guided reporting of genomic findings. MapSeq (Masively Parallel Sequencing) is an open source plugin-based Service-Oriented Architecture (SOA) that provides secure management and execution of the complex downstream computational and analytical steps involved in high-throughput genomic sequencing and other data-intensive applications. MaPSeq and its homegrown sister technology, GATE (Grid Access Triage Engine), are built on top of Apache Karaf and together provide extensible capabilities for downstream analysis of genomic data and other large data sets, including workflow pipeline execution and management, meta-scheduling of workflow jobs, opportunistic use of compute resources, secure data transfer, and web-based client access. CANVAS (CAroliNa Variant Annotation Store) and AnnoBot (Annotation Bot) work together to provide version-controlled annotation and metadata for genomic variant data in order to support up-to-date clinical interpretation of genomic variants and thereby guide clinical decision making. CANVAS is designed as an open source, relational PostgreSQL relational database that stores genomic variant data with associated annotation and metadata. AnnoBot consists of Python modules and software driver code configured to provide automated monitoring and retrieval of external data sources for annotation updates. CHAT (Convergent Haplotype Association Tagging) is a software algorithm that allows for the identification of moderately penetrant genomic variants using cross-population genetic structures. CHAT invokes a graph theory\u2013based algorithm to determine the haplotype phase of a population of unrelated individuals by: identifying subsets of individuals that share a region of the genome through descent; and then generating a consensus haplotype for the shared region. The SMW (Secure Medical Workspace) provisions a secure environment for access to sensitive patient data for clinical care or Institutional Review Board\u2013approved clinical research. The open source SMW architecture uses virtualization technology (i.e., VMWare) and Data Leakage Protection (DLP) technology (i.e., WebSense) to create a secure virtual workspace coupled with the ability to prevent (or allow with a challenge and auditing by Information Technology staff) the physical removal of data from a central, secure storage environment.",
+            "score": 96.68604278564453
+        },
+        {
+            "docid": "17742682_5",
+            "document": "Vertebrate and Genome Annotation Project . The VEGA database combines the information from individual vertebrate genome databases and brings them all together to allow easier access and comparative analysis for researchers. The human and vertebrate analysis and annotation (Havana) team at the Wellcome Trust Sanger Institute (WTSI) manually annotate the human, mouse and zebrafish genomes using the Otterlace/ZMap genome annotation tool. The Otterlace manual annotation system comprises a relational database that stores manual annotation data and supports the graphical interface, Zmap and is based on the Ensembl schema.  The Zebrafish Genome, which is being fully sequenced and manually annotated. The Zebrafish genome currently has 18,454 annotated VEGA genes--of which, 16,588 are projected protein-coding genes (September 2012, release).",
+            "score": 96.04830169677734
+        },
+        {
+            "docid": "26681002_7",
+            "document": "Text annotation . Text annotations can serve a variety of functions for both private and public reading and communication practices. In their article \"From the Margins to the Center: The Future of Annotation,\" scholars Joanna Wolfe and Christine Neuwirth identify four primary functions that text annotations commonly serve in the modern era, including: (1)\"facilitat[ing] reading and later writing tasks,\" which includes annotations that support reading for both personal and professional purposes; (2)\"eavesdrop[ping] on the insights of other readers,\" which involves sharing of annotations; (3)\"provid[ing] feedback to writers or promote communication with collaborators,\" which can include personal, professional, and education-related feedback; and (4)\"call[ing] attention to topics and important passages,\" for which scholarly annotations, footnotes, and call-outs often function. Regarding the ways that annotations can support individual reading tasks, Catherine Marshall points out that the ways that readers annotate texts depends on the purpose, motivation, and context of reading. Readers may annotate to help interpret a text, to call attention to a section for future reference or reading, to support memory and recall, to help focus attention on the text as they read, to work out a problem related to the text, or create annotations not specifically related to the text at all.",
+            "score": 95.90253448486328
+        },
+        {
+            "docid": "55170_20",
+            "document": "Genomics . The DNA sequence assembly alone is of little value without additional analysis. Genome annotation is the process of attaching biological information to sequences, and consists of three main steps: Automatic annotation tools try to perform these steps \"in silico\", as opposed to manual annotation (a.k.a. curation) which involves human expertise and potential experimental verification. Ideally, these approaches co-exist and complement each other in the same annotation pipeline (also see below).",
+            "score": 95.31938171386719
+        },
+        {
+            "docid": "26681002_25",
+            "document": "Text annotation . Since 2011, the non-profit Hypothes Is Project has offered the free, open web annotation service Hypothes.is. The service features annotation via a Chrome extension, bookmarklet or proxy server, as well as integration into a LMS or CMS. Both webpages and PDFs can be annotated. Other web-based text annotation systems are collaborative software for distributed text editing and versioning, which also feature annotation and commenting interfaces. For example, HyLighter supports synchronous and asynchronous interactions, general commenting, comment tagging, threaded discussions and comment filtering. Other annotation tools under these category are more focused on NLP tasks as Named-entity recognition, relationship extraction or normalization. There are some tools which supports manual tagging of data, for example DataTurks and Prodigy . There is also tagtog that supports automatic annotations via supervised learning.",
+            "score": 95.17800903320312
+        },
+        {
+            "docid": "44260712_2",
+            "document": "SNP annotation . Single nucleotide polymorphism plays an important role in genome wide association studies because they act as primary biomarker. SNPs are currently the marker of choice due to their large numbers in virtually all populations of individuals. The location of these biomarkers can be tremendously important in terms of predicting functional significance, genetic mapping and population genetics. Each SNP represents a nucleotide change between two individuals at a defined location. SNPs are the most common genetic variant found in all individual with one SNP every 100\u2013300 bp in some species. Since there is a massive number of SNPs on the genome, there is a clear need to prioritize SNPs according to their potential effect in order to expedite genotyping and analysis. Annotating large numbers of SNPs is a difficult and complex process, which need computational methods to handle such a large dataset. Many tools available have been developed for SNP annotation in different organism, some of them are optimized for use with organisms densely sampled for SNPs (such as humans), but there are currently few tools available that are species non-specific or support non-model organism data. The majority of SNPs annotation tools provide computationally predicted putative deleterious effects of SNPs. These tools examine whether a SNP resides in functional genomic regions such as exons, splice sites, or transcription regulatory sites, and predict the potential corresponding functional effects that the SNP may have using a variety of machine-learning approaches. But the tools and systems that prioritize functionally significant SNPs, suffer from few limitations: First, they examine the putative deleterious effects of SNPs with respect to a single biological function that provide only partial information about the functional significance of SNPs. Second, current systems classify SNPs into deleterious or neutral group.",
+            "score": 94.6879653930664
+        }
+    ]
+}

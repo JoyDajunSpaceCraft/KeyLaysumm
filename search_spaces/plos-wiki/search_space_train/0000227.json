@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "32150862_12",
+            "document": "Bacterial DNA binding protein . The functions of bacterial DNA-binding proteins are not limited to DNA replication. Researchers have been investigating other pathways these proteins affect. The DNA-binding protein H-NS has been known to play roles in chromosome organization and gene regulation; however, recent studies have also confirmed their role in indirectly regulating flagella functions. Some motility regulatory linkages that H-NS influences include the messenger molecule Cyclic di-GMP, the bio-film regulatory protein CsgD, and the sigma factors, \u03c3(S) and \u03c3(F). Further studies are aiming to characterize the ways this nucleoid-organizing protein affects the motility of the cell through other regulatory pathways.",
+            "score": 71.75355267524719
+        },
+        {
+            "docid": "40228929_4",
+            "document": "Urs Jenal . The research of Urs Jenal explores the molecular basis of signal transduction controlling the growth, development and behavior of bacteria. Jenal received international acclaim through his discovery of a new pathway, which is based on a new cyclic di-nucleotide (c-di-GMP) and which coordinates the formation of microbial biofilms and contributes to the development of chronic bacterial infections. With the model bacterium Caulobacter crescentus, Jenal discovered that c-di-GMP controls the transition from motile bacteria to a sedentary biofilm-forming structure and this process coordinates the replication cycle of the cells. Jenal\u2019s most recent work has investigated the importance of the c-di-GMP signaling network for chronic lung infections caused by Pseudomonas aeruginosa in patients with cystic fibrosis.",
+            "score": 133.55620861053467
+        },
+        {
+            "docid": "31902906_2",
+            "document": "PilZ domain . The PilZ protein family is named after the type IV pilus control protein first identified in \"Pseudomonas aeruginosa\", expressed as part of the \"pil\" operon. It has a cytoplasmic location and is essential for type IV fimbrial, or pilus, biogenesis. PilZ is a c-di-GMP binding domain and PilZ domain-containing proteins represent the best studied class of c-di-GMP effectors. C-di-GMP, cyclic diguanosine monophosphate, the second messenger in cells, is widespread in and unique to the bacterial kingdom. Elevated intracellular levels of c-di-GMP generally cause bacteria to change from a motile single-cell state to a sessile, adhesive surface-attached multicellular state called biofilm.",
+            "score": 119.68150186538696
+        },
+        {
+            "docid": "31801841_10",
+            "document": "Diguanylate cyclase . Diguanylate cyclase participate in the formation of the ubiquitous second messenger, cyclic-di-GMP, involved in bacterial biofilm formation and persistence. The GGDEF domain was first identified in the regulatory protein, PleD of the bacterium \"Caulobacter crescentus\". It was later noted that numerous bacterial genomes encoded multiple proteins with a GGDEF domain. \"Pseudomonas aeruginosa\" PAO1 has 33 proteins with GGDEF domains, \"Escherichia coli\" K-12 has 19, and \"Vibrio cholerae\" O1 has 41. In the cell cycle of \"Caulobacter crescentus\", DGC PleD is known to control pole morphogenesis. In \"Pseudomonas fluorescens\" DGC WspR activity is hypothesized to be partially responsible for the wrinkly spreader (WS) phenotype. In \"Pseudomonas aeruginosa\", WspR has also been known to control autoaggregation.",
+            "score": 99.1044569015503
+        },
+        {
+            "docid": "46581687_2",
+            "document": "Pathway analysis . In bioinformatics research, pathway analysis software is used to identify related proteins within a pathway or building pathway de novo from the proteins of interest. This is helpful when studying differential expression of a gene in a disease or analyzing any omics dataset with a large number of proteins. By examining the changes in gene expression in a pathway, its biological causes can be explored. Pathway is the term from molecular biology which depicts an artificial simplified model of a process within a cell or tissue. Typical pathway model starts with extracellular signaling molecule that activates a specific protein. Thus triggers a chain of protein-protein or protein-small molecule interactions. Pathway analysis helps to understand or interpret omics data from the point of view of canonical prior knowledge structured in the form of pathways diagrams. It allows finding distinct cell processes (), diseases or signaling pathways that are statistically associated with selection of differentially expressed genes between two samples. Often but erroneously pathway analysis is used as synonym for network analysis (functional enrichment analysis and gene set analysis).",
+            "score": 35.901381492614746
+        },
+        {
+            "docid": "152611_11",
+            "document": "Cellular differentiation . Each specialized cell type in an organism expresses a subset of all the genes that constitute the genome of that species. Each cell type is defined by its particular pattern of regulated gene expression. Cell differentiation is thus a transition of a cell from one cell type to another and it involves a switch from one pattern of gene expression to another. Cellular differentiation during development can be understood as the result of a gene regulatory network. A regulatory gene and its cis-regulatory modules are nodes in a gene regulatory network; they receive input and create output elsewhere in the network. The systems biology approach to developmental biology emphasizes the importance of investigating how developmental mechanisms interact to produce predictable patterns (morphogenesis). (However, an alternative view has been proposed recently. Based on stochastic gene expression, cellular differentiation is the result of a Darwinian selective process occurring among cells. In this frame, protein and gene networks are the result of cellular processes and not their cause. See: Cellular Darwinism) A few evolutionarily conserved types of molecular processes are often involved in the cellular mechanisms that control these switches. The major types of molecular processes that control cellular differentiation involve cell signaling. Many of the signal molecules that convey information from cell to cell during the control of cellular differentiation are called growth factors. Although the details of specific signal transduction pathways vary, these pathways often share the following general steps. A ligand produced by one cell binds to a receptor in the extracellular region of another cell, inducing a conformational change in the receptor. The shape of the cytoplasmic domain of the receptor changes, and the receptor acquires enzymatic activity. The receptor then catalyzes reactions that phosphorylate other proteins, activating them. A cascade of phosphorylation reactions eventually activates a dormant transcription factor or cytoskeletal protein, thus contributing to the differentiation process in the target cell. Cells and tissues can vary in competence, their ability to respond to external signals.",
+            "score": 39.01388907432556
+        },
+        {
+            "docid": "19965_6",
+            "document": "Morphogenesis . Several types of molecules are important in morphogenesis. Morphogens are soluble molecules that can diffuse and carry signals that control cell differentiation via concentration gradients. Morphogens typically act through binding to specific protein receptors. An important class of molecules involved in morphogenesis are transcription factor proteins that determine the fate of cells by interacting with DNA. These can be coded for by master regulatory genes, and either activate or deactivate the transcription of other genes; in turn, these secondary gene products can regulate the expression of still other genes in a regulatory cascade of gene regulatory networks. At the end of this cascade are classes of molecules that control cellular behaviors such as cell migration, or, more generally, their properties, such as cell adhesion or cell contractility. For example, during gastrulation, clumps of stem cells switch off their cell-to-cell adhesion, become migratory, and take up new positions within an embryo where they again activate specific cell adhesion proteins and form new tissues and organs. Developmental signaling pathways implicated in morphogenesis include Wnt, Hedgehog, and ephrins.",
+            "score": 36.28819680213928
+        },
+        {
+            "docid": "14027527_3",
+            "document": "PTPN6 . The protein encoded by this gene is a member of the protein tyrosine phosphatase (PTP) family. PTPs are known to be signaling molecules that regulate a variety of cellular processes including cell growth, differentiation, mitotic cycle, and oncogenic transformation. N-terminal part of this PTP contains two tandem Src homolog (SH2) domains, which act as protein phospho-tyrosine binding domains, and mediate the interaction of this PTP with its substrates. This PTP is expressed primarily in hematopoietic cells, and functions as an important regulator of multiple signaling pathways in hematopoietic cells. This PTP has been shown to interact with, and dephosphorylate a wide spectrum of phospho-proteins involved in hematopoietic cell signaling, (e.g., the LYN-CD22-SHP-1 pathway). Multiple alternatively spliced variants of this gene, which encode distinct isoforms, have been reported.",
+            "score": 26.86026692390442
+        },
+        {
+            "docid": "1872854_13",
+            "document": "Biochemical cascade . The main goal of biochemical cascades in lymphocytes is the secretion of molecules that can suppress altered cells or eliminate pathogenic agents, through proliferation, differentiation and activation of these cells. Therefore, the antigenic receptors play a central role in signal transduction in lymphocytes, because when antigens interact with them lead to a cascade of signal events. These receptors, that recognize the antigen soluble (B cells) or linked to a molecule on Antigen Presenting Cells (T cells), don't have long cytoplasm tails, so they are anchored to signal proteins, which contain a long cytoplasmic tails with a motif that can be phosphorylated (ITAM \u2013 immunoreceptor tyrosine-based activation motif) and resulting in different signal pathways. The antigen receptor and signal protein form a stable complex, named BCR or TCR, in B or T cells, respectively. The family Src is essential for signal transduction in these cells, because it's responsible for phosphorylation of ITAMs. Therefore, Lyn and Lck, in lymphocytes B and T, respectively, phosphorylate ITAMs after the antigen recognition and the conformational change of the receptor, which leads to the binding of Syk/Zap-70 kinases to ITAM and its activation. Syk kinase is specific of lymphocytes B and Zap-70 is present in T cells. After activation of these enzymes, some adaptor proteins are phosphorylated, like BLNK (B cells) and LAT (T cells). These proteins after phosphorylation become activated and allow binding of others enzymes that continue the biochemical cascade. One example of a protein that binds to adaptor proteins and become activated is PLC that is very important in the lymphocyte signal pathways. PLC is responsible for PKC activation, via DAG and Ca, which leads to phosphorylation of CARMA1 molecule, and formation of CBM complex. This complex activates I\u03ba\u03ba kinase, which phosphorylates I-\u03baB, and then allows the translocation of NF-\u03baB to the nucleus and transcription of genes encoding cytokines, for example. Others transcriptional factors like NFAT and AP1 complex are also important for transcription of cytokines. The differentiation of B cells to plasma cells is also an example of a signal mechanism in lymphocytes, induced by a cytokine receptor. In this case, some interleukins bind to a specific receptor, which leads to activation of MAPK/ERK pathway. Consequently, the BLIMP1 protein is translated and inhibits PAX5, allowing immunoglobulin genes transcription and activation of XBP1 (important for the secretory apparatus formation and enhancing of protein synthesis). Also, the coreceptors (CD28/CD19) play an important role because they can improve the antigen/receptor binding and initiate parallel cascade events, like activation o PI3 Kinase. PIP3 then is responsible for activation of several proteins, like vav (leads to activation of JNK pathway, which consequently leads to activation of c-Jun) and btk (can also activate PLC).",
+            "score": 46.28022277355194
+        },
+        {
+            "docid": "17913100_4",
+            "document": "Cyclic di-GMP . In bacteria, certain signals are communicated by synthesizing or degrading cyclic di-GMP. Cyclic di-GMP is synthesized by proteins with diguanylate cyclase activity. These proteins typically have a characteristic GGDEF motif, which refers to a conserved sequence of five amino acids. Degradation of cyclic di-GMP is effected by proteins with phosphodiesterase activity. These proteins have either an EAL or an HD-GYP amino acid motif. Processes that are known to be regulated by cyclic di-GMP, at least in some organisms, include biofilm formation, motility and virulence factor production.",
+            "score": 107.74220764636993
+        },
+        {
+            "docid": "26615202_2",
+            "document": "Biological pathway . A biological pathway is a series of interactions among molecules in a cell that leads to a certain product or a change in a cell. Such a pathway can trigger the assembly of new molecules, such as a fat or protein. Pathways can also turn genes on and off, or spur a cell to move. Some of the most common biological pathways are involved in metabolism, the regulation of gene expression and the transmission of signals. Pathways play key role in advanced studies of genomics.",
+            "score": 24.167605876922607
+        },
+        {
+            "docid": "14761388_3",
+            "document": "S100A12 . The protein encoded by this gene is a member of the S100 family of proteins containing 2 EF-hand calcium-binding motifs. S100 proteins are localized in the cytoplasm and/or nucleus of a wide range of cells, and involved in the regulation of a number of cellular processes such as cell cycle progression and differentiation. S100 genes include at least 13 members which are located as a cluster on chromosome 1q21. This protein is proposed to be involved in specific calcium-dependent signal transduction pathways and its regulatory effect on cytoskeletal components may modulate various neutrophil activities.",
+            "score": 29.628697872161865
+        },
+        {
+            "docid": "2332422_36",
+            "document": "Carcinogenesis . One example for rewiring of tissue function in cancer is the activity of transcription factor NF-\u03baB. NF-\u03baB activates the expression of numerous genes that are involved in the transition between inflammation and regeneration, which encode cytokines, adhesion factors, and other molecules that can change cell fate. This reprogramming of cellular phenotypes normally allows the development of a fully functional intact tissue. NF-\u03baB activity is tightly controlled by multiple proteins, which collectively ensure that only discrete clusters of genes are induced by NF-\u03baB in a given cell and at a given time. This tight regulation of signal exchange between cells, protects the tissue from excessive inflammation, and ensures that different cell types would gradually acquire complementary functions, and specific positions. Failure of this mutual regulation between genetic reprogramming and cell interactions allows cancer cells to give rise to metastasis. Cancer cells respond aberrantly to cytokines, and activate signal cascades that can protect them from the immune system.",
+            "score": 24.94562029838562
+        },
+        {
+            "docid": "28353172_2",
+            "document": "Cyclic di-GMP-II riboswitch . Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of riboswitches that specifically bind cyclic di-GMP, a second messenger used in multiple bacterial processes such as virulence, motility and biofilm formation. Cyclic di-GMP II riboswitches are structurally unrelated to cyclic di-GMP-I riboswitches, though both have the same function.",
+            "score": 105.47264885902405
+        },
+        {
+            "docid": "1872854_31",
+            "document": "Biochemical cascade . In the post-genomic age, high-throughput sequencing and gene/protein profiling techniques have transformed biological research by enabling comprehensive monitoring of a biological system, yielding a list of differentially expressed genes or proteins, which is useful in identifying genes that may have roles in a given phenomenon or phenotype. With DNA microarrays and genome-wide gene engineering, it is possible to screen global gene expression profiles to contribute a wealth of genomic data to the public domain. With RNA interference, it is possible to distill the inferences contained in the experimental literature and primary databases into knowledge bases that consist of annotated representations of biological pathways. In this case, individual genes and proteins are known to be involved in biological processes, components, or structures, as well as how and where gene products interact with each other. Pathway-oriented approaches for analyzing microarray data, by grouping long lists of individual genes, proteins, and/or other biological molecules according to the pathways they are involved in into smaller sets of related genes or proteins, which reduces the complexity, have proven useful for connecting genomic data to specific biological processes and systems. Identifying active pathways that differ between two conditions can have more explanatory power than a simple list of different genes or proteins. In addition, a large number of pathway analytic methods exploit pathway knowledge in public repositories such as Gene Ontology (GO) or Kyoto Encyclopedia of Genes and Genomes (KEGG), rather than inferring pathways from molecular measurements. Furthermore, different research focuses have given the word \"pathway\" different meanings. For example, 'pathway' can denote a metabolic pathway involving a sequence of enzyme-catalyzed reactions of small molecules, or a signaling pathway involving a set of protein phosphorylation reactions and gene regulation events. Therefore, the term \"pathway analysis\" has a very broad application. For instance, it can refer to the analysis physical interaction networks (e.g., protein\u2013protein interactions), kinetic simulation of pathways, and steady-state pathway analysis (e.g., flux-balance analysis), as well as its usage in the inference of pathways from expression and sequence data. Several functional enrichment analysis tools and algorithms have been developed to enhance data interpretation. The existing knowledge base\u2013driven pathway analysis methods in each generation have been summarized in recent literature.",
+            "score": 31.806060671806335
+        },
+        {
+            "docid": "45582346_11",
+            "document": "Type VI secretion system . Some research has gone into regulation of T6SS by two component systems. In \"P. aeruginosa\", it has been observed that the GacS/Rsm two-component system is involved in type VI secretion system regulation. This system regulates the expression of \"Rsm\" small regulatory RNA molecules, and has also been implicated in biofilm formation. Upon the GacS/Rsm pathway stimulation, an increase in \"Rsm\" molecules leads to inhibition of mRNA-binding protein RsmA. RsmA is a translational inhibitor that binds to sequences near the ribosome-binding site for T6SS gene expression. This level of regulation has also been observed in \"P. fluorescens\" and \"P. syringae\"",
+            "score": 39.20484757423401
+        },
+        {
+            "docid": "1408530_31",
+            "document": "Circadian clock . Another study conducted by Zhang et al. also employed a genome-wide small interfering RNA screen in U2OS cell line to identify additional clock genes and modifiers using luciferase reporter gene expression. Knockdown of nearly 1000 genes reduced rhythm amplitude. The authors found and confirmed hundreds of potent effects on period length or increased amplitude in secondary screens. Characterization of a subset of these genes demonstrated a dosage-dependent effect on oscillator function. Protein interaction network analysis showed that dozens of gene products directly or indirectly associate with known clock components. Pathway analysis revealed these genes are overrepresented for components of insulin and hedgehog signaling pathway, the cell cycle, and folate metabolism. Coupled with data demonstrating that many of these pathways are clock-regulated, Zhang et al. postulated that the clock is interconnected with many aspects of cellular function.",
+            "score": 17.990684986114502
+        },
+        {
+            "docid": "2459654_17",
+            "document": "Pseudomonas aeruginosa . Regulation of gene expression can occur through cell-cell communication or quorum sensing (QS) via the production of small molecules called autoinducers. The extracellular accumulation of these molecules signals to bacteria to alter gene expression and coordinate behavior. \"P. aeruginosa\" employs three interconnected QS systems \u2013 lasRl, rhlRl, and PQS \u2013 that each produce unique signaling molecules. Detection of these molecules indicates \"P. aeruginosa\" is growing as biofilm within the lungs of cystic fibrosis patients. QS is known to control expression of a number of virulence factors, including the pigment pyocyanin. Another form of gene regulation that allows the bacteria to rapidly adapt to surrounding changes is through environmental signaling. Recent studies have discovered anaerobiosis can significantly impact the major regulatory circuit of QS. This important link between QS and anaerobiosis has a significant impact on production of virulence factors of this organism. Garlic experimentally blocks quorum sensing in \"P. aeruginosa\".",
+            "score": 56.49947166442871
+        },
+        {
+            "docid": "14771929_3",
+            "document": "PTPN7 . The protein encoded by this gene is a member of the protein tyrosine phosphatase (PTP) family. PTPs are known to be signaling molecules that regulate a variety of cellular processes including cell growth, differentiation, mitotic cycle, and oncogenic transformation. This gene is preferentially expressed in a variety of hematopoietic cells, and is an early response gene in lymphokine stimulated cells. The noncatalytic N-terminus of this PTP can interact with MAP kinases and suppress the MAP kinase activities. This PTP was shown to be involved in the regulation of T cell antigen receptor (TCR) signaling, which was thought to function through dephosphorylating the molecules related to MAP kinase pathway. Two alternatively spliced transcript variants encoding different isoforms have been found for this gene.",
+            "score": 25.94667077064514
+        },
+        {
+            "docid": "6235_38",
+            "document": "Cell nucleus . In order to control which genes are being transcribed, the cell separates some transcription factor proteins responsible for regulating gene expression from physical access to the DNA until they are activated by other signaling pathways. This prevents even low levels of inappropriate gene expression. For example, in the case of NF-\u03baB-controlled genes, which are involved in most inflammatory responses, transcription is induced in response to a signal pathway such as that initiated by the signaling molecule TNF-\u03b1, binds to a cell membrane receptor, resulting in the recruitment of signalling proteins, and eventually activating the transcription factor NF-\u03baB. A nuclear localisation signal on the NF-\u03baB protein allows it to be transported through the nuclear pore and into the nucleus, where it stimulates the transcription of the target genes.",
+            "score": 38.45040965080261
+        },
+        {
+            "docid": "50981211_19",
+            "document": "Epistasis . Epistasis within the genomes of organisms occurs due to interactions between the genes within the genome. This interaction may be direct if the genes encode proteins that, for example, are separate components of a multi-component protein (such as the ribosome), inhibit each other's activity, or if the protein encoded by one gene modifies the other (such as by phosphorylation). Alternatively the interaction may be indirect, where the genes encode components of a metabolic pathway or network, developmental pathway, signalling pathway or transcription factor network. For example, the gene encoding the enzyme that synthesizes penicillin is of no use to a fungus without the enzymes that synthesize the necessary precursors in the metabolic pathway.",
+            "score": 26.486872673034668
+        },
+        {
+            "docid": "2332422_35",
+            "document": "Carcinogenesis . Normally, once a tissue is injured or infected, damaged cells elicit inflammation, by stimulating specific patterns of enzyme activity and cytokine gene expression on surrounding cells. Discrete clusters of molecules are secreted, which act as mediators, inducing the activity of subsequent cascades of biochemical changes. Each cytokine binds to specific receptors on various cell types, and each cell type responds differently by altering the activity of intracellular signal transduction pathways, depending on the receptors that the cell expresses and the signaling molecules present inside the cell. Collectively, this reprogramming process induces a stepwise change in cell phenotypes, which will ultimately lead to restoration of tissue function and toward regaining essential structural integrity. A tissue can thereby heal, depending on the productive communication between the cells present at the site of damage, and the immune system. Key factor in healing is the regulation of cytokine gene expression, which enables complementary groups of cells to respond to inflammatory mediators in a manner that gradually produces essential changes in tissue physiology. Cancer cells have either permanent (genetic) or reversible (epigenetic) changes on their genome, which partly inhibit their communication with surrounding cells and with the immune system. Cancer cells do not communicate with their tissue microenvironment in a manner that protects tissue integrity; instead, the movement and the survival of cancer cells become possible in locations where they can impair tissue function. Cancer cells survive by rewiring signal pathways that normally protect the tissue from the immune system.",
+            "score": 35.96241474151611
+        },
+        {
+            "docid": "371659_10",
+            "document": "Ras subfamily . Ras proteins function as binary molecular switches that control intracellular signaling networks. Ras-regulated signal pathways control such processes as actin cytoskeletal integrity, cell proliferation, cell differentiation, cell adhesion, apoptosis, and cell migration. Ras and Ras-related proteins are often deregulated in cancers, leading to increased invasion and metastasis, and decreased apoptosis. Ras activates several pathways, of which the mitogen-activated protein (MAP) kinase cascade has been well-studied. This cascade transmits signals downstream and results in the transcription of genes involved in cell growth and division. Another Ras-activated signaling pathway is the PI3K/AKT/mTOR pathway, which stimulates protein synthesis and cellular growth, and inhibits apoptosis.",
+            "score": 32.676939487457275
+        },
+        {
+            "docid": "32997191_2",
+            "document": "GGDEF domain . In molecular biology, the GGDEF domain is a protein domain which appears to be ubiquitous in bacteria and is often linked to a regulatory domain, such as a phosphorylation receiver or oxygen sensing domain. Its function is to act as a diguanylate cyclase and synthesize cyclic di-GMP, which is used as an intracellular signalling molecule in a wide variety of bacteria. Enzymatic activity can be strongly influenced by the adjacent domains. Processes regulated by this domain include exopolysaccharide synthesis, biofilm formation, motility and cell differentiation.",
+            "score": 94.5143895149231
+        },
+        {
+            "docid": "7710370_5",
+            "document": "Suppressor mutation . Intergenic (also known as extragenic) suppression relieves the effects of a mutation in one gene by a mutation somewhere else within the genome. The second mutation is not on the same gene as the original mutation. Intergenic suppression is useful for identifying and studying interactions between molecules, such as proteins. For example, a mutation which disrupts the complementary interaction between protein molecules may be compensated for by a second mutation elsewhere in the genome that restores or provides a suitable alternative interaction between those molecules. Several proteins of biochemical, signal transduction, and gene expression pathways have been identified using this approach. Examples of such pathways include receptor-ligand interactions as well as the interaction of components involved in DNA replication, transcription, and translation.",
+            "score": 28.09353232383728
+        },
+        {
+            "docid": "52482253_3",
+            "document": "Gsk3b interacting protein . This gene encodes a protein that is involved as a negative regulator of GSK3-beta in the Wnt signaling pathway. The encoded protein may play a role in the retinoic acid signaling pathway by regulating the functional interactions between GSK3-beta, beta-catenin and cyclin D1, and it regulates the beta-catenin/N-cadherin pool. The encoded protein contains a GSK3-beta interacting domain (GID) in its C-terminus, which is similar to the GID of Axin. The protein also contains an evolutionarily conserved RII-binding domain, which facilitates binding with protein kinase-A and GSK3-beta, enabling its role as an A-kinase anchoring protein. Alternatively spliced transcript variants have been observed for this gene.",
+            "score": 31.178483963012695
+        },
+        {
+            "docid": "4109042_20",
+            "document": "Cell signaling . A more complex signal transduction pathway is shown in Figure 3. This pathway involves changes of protein\u2013protein interactions inside the cell, induced by an external signal. Many growth factors bind to receptors at the cell surface and stimulate cells to progress through the cell cycle and divide. Several of these receptors are kinases that start to phosphorylate themselves and other proteins when binding to a ligand. This phosphorylation can generate a binding site for a different protein and thus induce protein\u2013protein interaction. In Figure 3, the ligand (called epidermal growth factor (EGF)) binds to the receptor (called EGFR). This activates the receptor to phosphorylate itself. The phosphorylated receptor binds to an adaptor protein (GRB2), which couples the signal to further downstream signaling processes. For example, one of the signal transduction pathways that are activated is called the mitogen-activated protein kinase (MAPK) pathway. The signal transduction component labeled as \"MAPK\" in the pathway was originally called \"ERK,\" so the pathway is called the MAPK/ERK pathway. The MAPK protein is an enzyme, a protein kinase that can attach phosphate to target proteins such as the transcription factor MYC and, thus, alter gene transcription and, ultimately, cell cycle progression. Many cellular proteins are activated downstream of the growth factor receptors (such as EGFR) that initiate this signal transduction pathway.",
+            "score": 37.042381048202515
+        },
+        {
+            "docid": "18482125_3",
+            "document": "Cyclic di-GMP-I riboswitch . The discovery of this riboswitch class answers the question of how genes are regulated in response to cyclic di-GMP levels in many different bacteria. However, some bacteria in which cyclic di-GMP has been studied lack cyclic di-GMP-I riboswitches, e.g. \"Pseudomonas aeruginosa\". Cyclic di-GMP-I riboswitches are the first kind of riboswitch to be discovered whose role is not primarily in regulating metabolism, but is instead part of signaling. A second class of riboswitch that binds cyclic di-GMP is called the cyclic di-GMP-II riboswitch. The two classes of cyclic di-GMP-binding riboswitches do not share any known sequence or structural features.",
+            "score": 94.08040285110474
+        },
+        {
+            "docid": "6020806_6",
+            "document": "Contact inhibition . Furthermore, it has been shown that cell-cell adhesion formation not only restricts growth and proliferation by imposing physical constraints such as cell area, but also by triggering signaling pathways that downregulate proliferation. One such pathway is the Hippo-YAP signaling pathway, which is largely responsible for inhibiting cell growth in mammals. This pathway consists primarily of a phosphorylation cascade involving serine kinases and is mediated by regulatory proteins, which regulate cell growth by binding to growth-controlling genes. The serine/threonine kinase Hippo (Mst1/Mst2 in mammals) activates a secondary kinase (Lats1/Lats2), which phosphorylates YAP, a transcriptional activator of growth genes. The phosphorylation of YAP serves to export it from the nucleus and prevent it from activating growth-promoting genes; this is how the Hippo-YAP pathway inhibits cell growth. More importantly, the Hippo-YAP pathway uses upstream elements to act in response to cell-cell contact and controls density-dependent inhibition of proliferation. For example, cadherins are transmembrane proteins that form cellular junctions via homophilic binding and thus act as detectors for cell-cell contact. Cadherin-mediated activation of the inhibitory pathway involves the transmembrane E-cadherin forming a homophilic bond in order to activate \u03b1- and \u03b2-catenin, which then stimulate downstream components of the Hippo-YAP pathway to ultimately downregulate cell growth. This is consistent with the finding that E-cadherin overexpression hinders metastasis and tumorigenesis. Because YAP is shown to be associated with mitogenic growth factor signaling and thus cell proliferation, it is likely that future studies will focus on the Hippo-YAP pathway's role in cancer cells.",
+            "score": 36.37014353275299
+        },
+        {
+            "docid": "2281317_16",
+            "document": "Nucleoside-diphosphate kinase . There was a lot of debate on whether NM23 gene is responsible for suppressing or activating metastasis. The two contradicting sides on this subject remained ambiguous and undefined throughout the course of NDPK studies. However, recent experiments began to show evidence for NM23 being a suppressor of metastasis. Nme2 was tagged as an anti-metastasis gene, using the tissue chip technology and immunohistochemistry. When Nme2 gene products were over-produced in gastric cancer cells, there was a decrease in proliferation, migration, and invasion of such cancer cells. The cell cultures revealed that Nme2 impacts gastric cancer cells, but the question still remains about what regulates Nme2 activities among various cancer types. Nme1 was found in great number in poorly metastatic sublines of melanoma cells. Also, the transfection of Nme1 into a highly metastatic melanoma line significantly reduced metastasis. This theory has been tested with mice as well; the Nme1-deficient mice formed greater lung metastases than wild type mice, showing that this gene has suppressing activity. Invasion of cancer occurs due to changes in cell adhesion and it is caused by gene expression changes in the epithelial-mesenchymal transition (EMT). Surprisingly, there are many adhesion molecules, motility factors, signaling pathways, proteolytic events, EMT hallmarks, and other transcriptional programs that have been linked to the Nme1 proteins. These proteins go about interrupting metastasis by binding metastasis-promoting proteins. The Nme1 proteins bind to viral proteins, oncogenes, and other metastasis-promoting factors. The binding may be indirect by using the signaling complex.",
+            "score": 24.433944702148438
+        },
+        {
+            "docid": "17288194_7",
+            "document": "CED9 (gene) . The cells developed during embryogenesis and early life in \"C. elegans\" have one of two fates, to live and differentiate or apoptose. Apoptosis during development is highly regulated and only occurs in specific cells at specific times. Every cell division and cell death in the development of \"C. elegans\" from embryo to adult has been studied and documented to reveal a fixed pattern between individual organisms. Apoptosis during development is important for the proper morphology and refractivity of C. elegans, but it is not always essential for survival. Thus, over 100 mutations have been observed and documented as affecting the apoptotic pathway of \"C. elegans\". Many proteins involved in the interaction cascade were discovered because of these mutations and their resulting phenotype. \"CED-9\" mutants are among the mutations that affect this pathway. \"CED-9\" gain of function mutations are unresponsive to apoptosis signalling and allow cells fated to die, to survive. A notable example of a \"CED-9\" dominant gain of function mutation would be the \"n1950\" mutation which was the first mutation documented for \"CED-9\" and responsible for the gene's discovery. Loss of function mutations cause inappropriate cell death in the absence of apoptosis stimuli. Mutations in \"CED-9\" also reveal its maternal effect; where the genotype of the mother determines the phenotype of the progeny. Homozygous, loss of function mutants from a heterozygous mother experience some unpredictable cell death, however, give rise to unviable progeny themselves.",
+            "score": 35.14329183101654
+        },
+        {
+            "docid": "3680029_3",
+            "document": "GRB7 . The product of this gene belongs to a small family of adaptor proteins that are known to interact with a number of receptor tyrosine kinases and signaling molecules. This gene encodes a growth factor receptor-binding protein that interacts with epidermal growth factor receptor (EGFR) and ephrin receptors. The protein plays a role in the integrin signaling pathway and cell migration by binding with focal adhesion kinase (FAK). Alternative splicing results in multiple transcript variants encoding different isoforms, although the full-length natures of only two of the variants have been determined to date.",
+            "score": 24.507485389709473
+        }
+    ],
+    "r": [
+        {
+            "docid": "40228929_4",
+            "document": "Urs Jenal . The research of Urs Jenal explores the molecular basis of signal transduction controlling the growth, development and behavior of bacteria. Jenal received international acclaim through his discovery of a new pathway, which is based on a new cyclic di-nucleotide (c-di-GMP) and which coordinates the formation of microbial biofilms and contributes to the development of chronic bacterial infections. With the model bacterium Caulobacter crescentus, Jenal discovered that c-di-GMP controls the transition from motile bacteria to a sedentary biofilm-forming structure and this process coordinates the replication cycle of the cells. Jenal\u2019s most recent work has investigated the importance of the c-di-GMP signaling network for chronic lung infections caused by Pseudomonas aeruginosa in patients with cystic fibrosis.",
+            "score": 133.55621337890625
+        },
+        {
+            "docid": "31902906_2",
+            "document": "PilZ domain . The PilZ protein family is named after the type IV pilus control protein first identified in \"Pseudomonas aeruginosa\", expressed as part of the \"pil\" operon. It has a cytoplasmic location and is essential for type IV fimbrial, or pilus, biogenesis. PilZ is a c-di-GMP binding domain and PilZ domain-containing proteins represent the best studied class of c-di-GMP effectors. C-di-GMP, cyclic diguanosine monophosphate, the second messenger in cells, is widespread in and unique to the bacterial kingdom. Elevated intracellular levels of c-di-GMP generally cause bacteria to change from a motile single-cell state to a sessile, adhesive surface-attached multicellular state called biofilm.",
+            "score": 119.6814956665039
+        },
+        {
+            "docid": "17913100_4",
+            "document": "Cyclic di-GMP . In bacteria, certain signals are communicated by synthesizing or degrading cyclic di-GMP. Cyclic di-GMP is synthesized by proteins with diguanylate cyclase activity. These proteins typically have a characteristic GGDEF motif, which refers to a conserved sequence of five amino acids. Degradation of cyclic di-GMP is effected by proteins with phosphodiesterase activity. These proteins have either an EAL or an HD-GYP amino acid motif. Processes that are known to be regulated by cyclic di-GMP, at least in some organisms, include biofilm formation, motility and virulence factor production.",
+            "score": 107.7422103881836
+        },
+        {
+            "docid": "28353172_2",
+            "document": "Cyclic di-GMP-II riboswitch . Cyclic di-GMP-II riboswitches (also c-di-GMP-II riboswitches) form a class of riboswitches that specifically bind cyclic di-GMP, a second messenger used in multiple bacterial processes such as virulence, motility and biofilm formation. Cyclic di-GMP II riboswitches are structurally unrelated to cyclic di-GMP-I riboswitches, though both have the same function.",
+            "score": 105.47264862060547
+        },
+        {
+            "docid": "17913100_5",
+            "document": "Cyclic di-GMP . Cyclic di-GMP levels are regulated using a variety of mechanisms. Many proteins with GGDEF, EAL or HD-GYP domains are found with other domains that can receive signals, such as PAS domains. Enzymes that degrade or synthesize cyclic di-GMP are believed to be localized to specific regions of the cell, where they influence receivers in a restricted space. In \"Gluconacetobacter xylinus,\" c-di-GMP stimulates the polymerization of glucose into cellulose as a high affinity allosteric activator of the enzyme cellulose synthase. Some diguanylate cyclase enzymes are allosterically inhibited by cyclic di-GMP.",
+            "score": 102.57742309570312
+        },
+        {
+            "docid": "31801841_10",
+            "document": "Diguanylate cyclase . Diguanylate cyclase participate in the formation of the ubiquitous second messenger, cyclic-di-GMP, involved in bacterial biofilm formation and persistence. The GGDEF domain was first identified in the regulatory protein, PleD of the bacterium \"Caulobacter crescentus\". It was later noted that numerous bacterial genomes encoded multiple proteins with a GGDEF domain. \"Pseudomonas aeruginosa\" PAO1 has 33 proteins with GGDEF domains, \"Escherichia coli\" K-12 has 19, and \"Vibrio cholerae\" O1 has 41. In the cell cycle of \"Caulobacter crescentus\", DGC PleD is known to control pole morphogenesis. In \"Pseudomonas fluorescens\" DGC WspR activity is hypothesized to be partially responsible for the wrinkly spreader (WS) phenotype. In \"Pseudomonas aeruginosa\", WspR has also been known to control autoaggregation.",
+            "score": 99.10446166992188
+        },
+        {
+            "docid": "18482125_2",
+            "document": "Cyclic di-GMP-I riboswitch . Cyclic di-GMP-I riboswitches are a class of riboswitch that specifically bind cyclic di-GMP, which is a second messenger that is used in a variety of microbial processes including virulence, motility and biofilm formation. Cyclic di-GMP-I riboswitches were originally identified by bioinformatics as a conserved RNA-like structure called the \"GEMM motif\". These riboswitches are present in a wide variety of bacteria, and are most common in Clostridia and certain varieties of Proteobacteria. The riboswitches are present in pathogens such as \"Clostridium difficile\", \"Vibrio cholerae\" (which causes cholera) and \"Bacillus anthracis\" (which causes anthrax). \"Geobacter uraniumreducens\" is predicted to have 30 instances of this riboswitch in its genome. A bacteriophage that infects \"C. difficile\" is predicted to carry a cyclic di-GMP-I riboswitch, which it might use to detect and exploit the physiological state of bacteria that it infects.",
+            "score": 97.81475830078125
+        },
+        {
+            "docid": "17913100_2",
+            "document": "Cyclic di-GMP . Cyclic di-GMP (also called cyclic diguanylate and c-di-GMP) is a second messenger used in signal transduction in a wide variety of bacteria. Cyclic di-GMP is not known to be used by archaea, and has only been observed in eukaryotes in \"Dictyostelium\". The biological role of cyclic di-GMP was first uncovered when it was identified as an allosteric activator of a cellulose synthase found in \"Gluconacetobacter xylinus\" in order to produce microbial cellulose.",
+            "score": 95.38519287109375
+        },
+        {
+            "docid": "32997191_2",
+            "document": "GGDEF domain . In molecular biology, the GGDEF domain is a protein domain which appears to be ubiquitous in bacteria and is often linked to a regulatory domain, such as a phosphorylation receiver or oxygen sensing domain. Its function is to act as a diguanylate cyclase and synthesize cyclic di-GMP, which is used as an intracellular signalling molecule in a wide variety of bacteria. Enzymatic activity can be strongly influenced by the adjacent domains. Processes regulated by this domain include exopolysaccharide synthesis, biofilm formation, motility and cell differentiation.",
+            "score": 94.51438903808594
+        },
+        {
+            "docid": "18482125_3",
+            "document": "Cyclic di-GMP-I riboswitch . The discovery of this riboswitch class answers the question of how genes are regulated in response to cyclic di-GMP levels in many different bacteria. However, some bacteria in which cyclic di-GMP has been studied lack cyclic di-GMP-I riboswitches, e.g. \"Pseudomonas aeruginosa\". Cyclic di-GMP-I riboswitches are the first kind of riboswitch to be discovered whose role is not primarily in regulating metabolism, but is instead part of signaling. A second class of riboswitch that binds cyclic di-GMP is called the cyclic di-GMP-II riboswitch. The two classes of cyclic di-GMP-binding riboswitches do not share any known sequence or structural features.",
+            "score": 94.08039855957031
+        },
+        {
+            "docid": "2459654_20",
+            "document": "Pseudomonas aeruginosa . Cyclic di-GMP is a major contributor to biofilm adherent properties. This signalling molecule in high quantities makes superadherent biofilms. When suppressed, the biofilms are less adherent and easier to treat. Polysaccharide synthesis locus (PSL) and cdi-GMP form a positive feedback loop. PSL stimulates cdi-GMP production, while high cd-GMP turns on the operon and increases activity of the operon.",
+            "score": 89.94688415527344
+        },
+        {
+            "docid": "17913100_6",
+            "document": "Cyclic di-GMP . Cyclic di-GMP levels regulate other processes via a number of mechanisms. The \"Gluconacetobacter xylinus\" cellulose synthase is allosterically stimulated by cyclic di-GMP, presenting a mechanism by which cyclic di-GMP can regulate cellulose synthase activity. The PilZ domain has been shown to bind cyclic di-GMP and is believed to be involved in cyclic di-GMP-dependent regulation, but the mechanism by which it does this is unknown. Recent structural studies of PilZ domains from two bacterial species have demonstrated that PilZ domains change conformation drastically upon binding to cyclic di-GMP. This leads to the strong inference that conformational changes in PilZ domains allow the activity of targeted effector proteins (such as cellulose synthase) to be regulated by cyclic di-GMP. Riboswitches called the cyclic di-GMP-I riboswitch and cyclic di-GMP-II riboswitch regulate gene expression in response to cyclic di-GMP concentrations in a variety of bacteria, but not all bacteria that are known to use cyclic di-GMP.",
+            "score": 89.59815216064453
+        },
+        {
+            "docid": "2459654_21",
+            "document": "Pseudomonas aeruginosa . Recent studies have shown that the dispersed cells from \"P. aeruginosa\" biofilms have lower c-di-GMP levels and different physiologies from those of planktonic and biofilm cells. Such dispersed cells are found to be highly virulent against macrophages and \"C. elegans\", but highly sensitive towards iron stress, as compared with planktonic cells.",
+            "score": 89.42730712890625
+        },
+        {
+            "docid": "31902906_4",
+            "document": "PilZ domain . Binding and mutagenesis studies of several PilZ domain proteins have shown that c-di-GMP binding depends on residues in RxxxR and D/NxSxxG sequence-motifs. The crystal structure, at 1.7 A, of a PilZ domain::c-di-GMP complex from \"Vibrio cholerae\" shows c-di-GMP contacting seven of nine strongly conserved residues. Binding of c-di-GMP causes a conformational switch whereby the C- and N-terminal domains are brought into close opposition forming a new allosteric interaction surface that spans these domains and the c-di-GMP at their interface.",
+            "score": 88.8775634765625
+        },
+        {
+            "docid": "47190749_16",
+            "document": "CGAS\u2013STING cytosolic DNA sensing pathway . Naturally occurring variations in human STING (hSTING) have been found at amino acid position 232 (R232 and H232). H232 variants have diminished type 1 IFN responses and mutation at this position to alanine abrogates the response to bacterial CDNs. Substitutions enhancing ligand binding were also found. G230A substitutions were shown to increase hSTING signaling upon c-di-GMP binding. This residue is found on the lid of the binding pocket, possibly increasing c-di-GMP binding ability.",
+            "score": 88.81586456298828
+        },
+        {
+            "docid": "18482125_5",
+            "document": "Cyclic di-GMP-I riboswitch . Some homologs of the c-di-GMP-I riboswitch structure actually function a riboswitches that recognize another signaling molecule, cyclic AMP-GMP.",
+            "score": 84.61129760742188
+        },
+        {
+            "docid": "47190749_11",
+            "document": "CGAS\u2013STING cytosolic DNA sensing pathway . Chemically synthesized cGAMP was shown to trigger IRF3 activation and IFN-\u03b2 production. cGAMP was found to be much more potent than other cyclic di-nucleotides (c-di-GMP and c-di-AMP). cGAMP was shown to definitively bind STING by using radiolabeled cGAMP cross-linked to STING. Adding in unlabeled cGAMP, c-di-GMP, or c-di-AMP was found to compete with radio-labeled cGAMP, suggesting that CDN binding sites overlap. It was later shown that cGAMP has a unique 2\u2019-5\u2019 phosphodiester bond, which differs from conventional 3\u2019-5\u2019 linked CDNs and that this bond may explain some of the unique signaling properties of cGAMP.",
+            "score": 81.6756591796875
+        },
+        {
+            "docid": "31801841_6",
+            "document": "Diguanylate cyclase . Diguanylate cyclases are characterized by the conserved amino acid sequence motifs \u201cGGDEF\u201d (Gly-Gly-Asp-Glu-Phe) or \u201cGGEEF\u201d (Gly-Gly-Glu-Glu-Phe), which constitute the domain of the DGC active site. These domains are often found coupled to other signaling domains within multidomain proteins. Often, GGDEF domains with DGC activity are found in the same proteins as c-di-GMP-specific phosphodiesterase (PDE) EAL (Glu-Ala-Leu) domains.",
+            "score": 80.94253540039062
+        },
+        {
+            "docid": "56012130_3",
+            "document": "Diadenylate cyclase . This enzyme has diadenylate cyclase activity, catalyzing the condensation of 2 ATP molecules into cyclic di-AMP (c-di-AMP). c-di-AMP likely acts as a signaling molecule that may couple DNA integrity with a cellular process. This rate-limiting step is the accessibility of the active site; mutating the possible exit tunnel (residues 128-130) increases product 2-fold despite Arg-130 being important for ATP-binding. Does not convert GTP to c-di-GMP.",
+            "score": 79.5732421875
+        },
+        {
+            "docid": "39037410_2",
+            "document": "Cyclic-guanylate-specific phosphodiesterase . Cyclic-guanylate-specific phosphodiesterase (, \"cyclic bis(3->5')diguanylate phosphodiesterase\", \"c-di-GMP-specific phosphodiesterase\", \"c-di-GMP phosphodiesterase\", \"phosphodiesterase\", \"phosphodiesterase A1\", \"PDEA1\", \"VieA\") is an enzyme with systematic name \"cyclic bis(3->5')diguanylate 3-guanylylhydrolase\". This enzyme catalyses the following chemical reaction",
+            "score": 79.39026641845703
+        },
+        {
+            "docid": "47190749_9",
+            "document": "CGAS\u2013STING cytosolic DNA sensing pathway . Cyclic GMP-AMP (cGAMP) is a cyclic dinucleotide (CDN) and the first to be found in metazoans. Other CDNs (c-di-GMP and c-di-AMP) are commonly found in bacteria, archaea, and protozoa. As the name suggests, cGAMP is cyclic molecule composed of one Adenine monophosphate (AMP) and one Guanine monophosphate (GMP) connected by two phosphodiester bonds. However, cGAMP differs from other CDNs in that it contains a unique phosphodiester bonds between the 2\u2019 OH of GMP and the 5\u2019 phosphate of AMP. The other bond is between the 3\u2019 OH of AMP and the 5\u2019 phosphate of GMP. The unique 2\u2019-5\u2019 phosphodiester bond may be advantageous because it is less susceptible to degradation caused by 3\u2019-5\u2019 phosphodiesterases. Other advantages of the unique 2\u2019-5\u2019 linkage may be that cGAMP is able to bind multiple allelic variants of STING found in the human population, while other CDNs, composed of only 3\u2019-5\u2019 linkages, are not.",
+            "score": 78.40825653076172
+        },
+        {
+            "docid": "41266304_4",
+            "document": "Tilman Schirmer . Tilman Schirmer investigates the mechanism of action of bacterial proteins based on their spatial structures, which are determined using X-ray crystallography. This has provided insights into light harvesting in photosynthetic antenna complexes, the allosteric regulation of phosphofructokinase and the translocation of small molecules through the porins of the outer membrane. As of 2013, Tilman Schirmer\u2019s research group at the Biozentrum in Basel is studying the mechanisms of signal transduction of the messenger substrate cyclic di-GMP and the structure-function relationships of bacterial effector proteins with AMP-transferase activity. The goal is the elucidation of fundamental biological interrelationships on the molecular level.",
+            "score": 76.4291000366211
+        },
+        {
+            "docid": "39226476_18",
+            "document": "Stimulator of interferon genes . Cyclic dinucleotides-second-messenger signaling molecules produced by diverse bacterial species were detected in the cytosol of mammalian cells during intracellular pathogen infection; this leads to activation of TBK1-IRF3 and the downstream production of type I interferon. STING has been shown to bind directly to cyclic di-GMP, and this recognition leads to the production of cytokines, such as type I interferon, that are essential for successful pathogen elimination.",
+            "score": 76.175048828125
+        },
+        {
+            "docid": "28353172_3",
+            "document": "Cyclic di-GMP-II riboswitch . Cyclic di-GMP-II riboswitches were discovered by bioinformatics, and are common in species within the class Clostridia and the genus \"Deinococcus\". They are also found in some other bacterial lineages. There is significant overlap between species that use cyclic di-GMP-I and cyclic di-GMP-II riboswitches, as both riboswitch classes are common in Clostridia.",
+            "score": 75.87105560302734
+        },
+        {
+            "docid": "31902906_5",
+            "document": "PilZ domain . The PilZ domain is also implicated in the bacterial pathogenicity of the Lyme disease spirochaete, \"Borrelia burgdorferi\", through its binding partner c-di-GMP.",
+            "score": 74.80657196044922
+        },
+        {
+            "docid": "161995_13",
+            "document": "Quorum sensing . The opportunistic pathogen \"Pseudomonas aeruginosa\" uses quorum sensing to coordinate the formation of biofilm, swarming motility, exopolysaccharide production, virulence, and cell aggregation. These bacteria can grow within a host without harming it, until they reach a threshold concentration. Then they become aggressive, developing to the point at which their numbers are sufficient to overcome the host's immune system, and form a biofilm, leading to disease within the host as the biofilm is a protective layer encasing the bacteria population. Another form of gene regulation that allows the bacteria to rapidly adapt to surrounding changes is through environmental signaling. Recent studies have discovered that anaerobiosis can significantly impact the major regulatory circuit of quorum sensing. This important link between quorum sensing and anaerobiosis has a significant impact on production of virulence factors of this organism. Garlic and ginseng experimentally block quorum sensing in \"Pseudomonas aeruginosa\". It is hoped that the therapeutic enzymatic degradation of the signaling molecules will prevent the formation of such biofilms and possibly weaken established biofilms. Disrupting the signalling process in this way is called \"quorum sensing inhibition\".",
+            "score": 73.57038879394531
+        },
+        {
+            "docid": "32150862_12",
+            "document": "Bacterial DNA binding protein . The functions of bacterial DNA-binding proteins are not limited to DNA replication. Researchers have been investigating other pathways these proteins affect. The DNA-binding protein H-NS has been known to play roles in chromosome organization and gene regulation; however, recent studies have also confirmed their role in indirectly regulating flagella functions. Some motility regulatory linkages that H-NS influences include the messenger molecule Cyclic di-GMP, the bio-film regulatory protein CsgD, and the sigma factors, \u03c3(S) and \u03c3(F). Further studies are aiming to characterize the ways this nucleoid-organizing protein affects the motility of the cell through other regulatory pathways.",
+            "score": 71.75355529785156
+        },
+        {
+            "docid": "21199455_10",
+            "document": "PAS domain . Often in the bacterial kingdom, PAS domains are positioned at the amino terminus of signaling proteins such as sensor histidine kinases, cyclic-di-GMP synthases and hydrolases, and methyl-accepting chemotaxis proteins.",
+            "score": 70.07858276367188
+        },
+        {
+            "docid": "31801841_4",
+            "document": "Diguanylate cyclase . The substrates of diguanylate cyclases (DGCs) are two molecules of guanosine triphosphate (GTP) and the products are two molecules of diphosphate and one molecule of cyclic di-3\u2019,5\u2019-guanylate (cyclic di-GMP).",
+            "score": 70.07374572753906
+        },
+        {
+            "docid": "503254_9",
+            "document": "Exotoxin . Some strains of \"E. coli\" produce heat-stable enterotoxins (ST), which are small peptides that are able to withstand heat treatment at 100\u00a0\u00b0C. Different STs recognize distinct receptors on the cell surface and thereby affect different intracellular signaling pathways. For example, STa enterotoxins bind and activate membrane-bound guanylate cyclase, which leads to the intracellular accumulation of cyclic GMP and downstream effects on several signaling pathways. These events lead to the loss of electrolytes and water from intestinal cells.",
+            "score": 69.54190063476562
+        },
+        {
+            "docid": "2459654_32",
+            "document": "Pseudomonas aeruginosa . Mutations in DNA gyrase are commonly associated with antibiotic resistance in \"P. aeruginosa\". These mutations, when combined with others, confer high resistance without hindering survival. Additionally, genes involved in cyclic-di-GMP signaling may contribute to resistance. When grown \"in vitro\" conditions designed to mimic a cystic fibrosis patient's lungs, these genes mutate repeatedly.",
+            "score": 69.46202087402344
+        },
+        {
+            "docid": "28253826_13",
+            "document": "Bacterial small RNA . Biofilm is a type of bacterial growth pattern where multiple layers of bacterial cells adhere to a host surface. This mode of growth is often found in pathogenic bacteria, including \"Pseudomonas aeruginosa\", which can form persistent biofilm within the respiratory tract and cause chronic infection. The \"P. aeruginosa\" sRNA SbrA was found to be necessary for full biofilm formation and pathogenicity. A mutant \"P. aeruginosa\" strain with SbrA deleted formed a 66% smaller biofilm and its ability to infect a nematode model was reduced by nearly half when compared to wildtype \"P. aeruginosa\".",
+            "score": 68.92566680908203
+        }
+    ]
+}

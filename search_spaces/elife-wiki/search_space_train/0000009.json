@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "26983153_3",
+            "document": "Pluripotency (biological compounds) . One type of pluripotent cell, called a hematopoietic stem cell, can differentiate into a large variety of cells with different functions. This stem cell can produce red blood cells, platelets, mast cells, dendritic cells, macrophages, lymphocytes, neutrophils, basophils, and eosinophils. Each of these cells have a different function, but they all work together as part of the immune system.  Monocytes can differentiate into either dendritic cells or macrophages. Macrophages are covered with chemical receptors and phagocytose foreign particles, but are specific about what immune responses to be involved in. Dendritic cells phagocytose invaders; then they present the antigen on their surface to stimulate the acquired immune system (lymphocytes) as backup.",
+            "score": 102.26657128334045
+        },
+        {
+            "docid": "14713923_19",
+            "document": "5-Hydroxyeicosatetraenoic acid . 5(\"S\")-HETE and other family members were first detected as products of arachidonic acid made by stimulated human polymorphonuclear neutrophils (PMN), a leukocyte blood cell type involved in host immune defense against infection but also implicated in aberrant pro-inflammatory immune responses such as arthritis; soon thereafter they found to be active also in stimulating these cells to migrate (i.e. chemotaxis), degranulate (i.e. release the anti-bacterial and tissue-injuring contents of their granules), produce bacteriocidal and tissue-injuring reactive oxygen species, and mount other pro-defensive as well as pro-inflammatory responses of the Innate immune system. For example, the gram-negative bacterium, Salmonella tryphimurium, and the outer surface of gram negative bacteria, Lipopolysaccharide, promote the production of 5-(\"S\")-HETE and 5-oxo-ETE by human neutrophils. The family members stimulate another blood cell of the innate immunity system, the human monocyte, acting synergistically with the pro-inflammatory CC chemokines, monocyte chemotactic protein-1 and monocyte chemotactic protein-3, to stimulate monocyte function. 5-Oxo-ETE also stimulates two other cell types that share responsibility with the PMN for regulating inflammation, the human lymphocyte and dendritic cell. And, in vivo studies, the injection of 5-oxo-ETE into the skin of human volunteers causes the local accumulation of PMN and monocyte-derived macrophages. Furthermore, the production of one or more 5(\"S\")-HETE family members as well as the expression of orthologs of the human OXER1 receptor occur in various mammalian species including dogs, cats, cows, sheep, elephants, pandas, opossums, and ferrets and in several species of fish; for example, cats undergoing experimentally induced asthma accumulate 5-oxo-ETE in their lung lavage fluid, feline leucocytes make as well as respond to 5-oxo-ETE by an oxer1-dependent mechanism; and an OXER1 ortholog and, apparently, 5-oxo-ETE are necessary for the inflammatory response to tissue damage caused by osmolarity insult in zebrafish.",
+            "score": 168.03336262702942
+        },
+        {
+            "docid": "44464978_33",
+            "document": "Regeneration in humans . It has been shown that bone marrow-derived cells could be the source of progenitor cells of multiple cell lineages, and a 2004 study suggested that one of these cell types was involved in lung regeneration. Therefore, a potential source of cells for lung regeneration has been found; however, due to advances in inducing stem cells and directing their differentiation, major progress in lung regeneration has consistently featured the use of patient-derived iPSCs and bioscaffolds. The extracellular matrix is the key to generating entire organs in vitro. It was found that by carefully removing the cells of an entire lung, a \u201cfootprint\u201d is left behind that can guide cellular adhesion and differentiation if a population of lung epithelial cells and chondrocytes are added. This has serious applications in regenerative medicine, particularly as a 2012 study successfully purified a population of lung progenitor cells that were derived from embryonic stem cells. These can then be used to re-cellularise a three-dimensional lung tissue scaffold.",
+            "score": 101.89529240131378
+        },
+        {
+            "docid": "443416_3",
+            "document": "Phagocyte . Phagocytes of humans and other animals are called \"professional\" or \"non-professional\" depending on how effective they are at phagocytosis. The professional phagocytes include many types of white blood cells (such as neutrophils, monocytes, macrophages, mast cells, and dendritic cells). The main difference between professional and non-professional phagocytes is that the professional phagocytes have molecules called receptors on their surfaces that can detect harmful objects, such as bacteria, that are not normally found in the body. Phagocytes are crucial in fighting infections, as well as in maintaining healthy tissues by removing dead and dying cells that have reached the end of their lifespan.",
+            "score": 185.0608320236206
+        },
+        {
+            "docid": "52135_15",
+            "document": "Pneumonia . Viruses may reach the lung by a number of different routes. Respiratory syncytial virus is typically contracted when people touch contaminated objects and then they touch their eyes or nose. Other viral infections occur when contaminated airborne droplets are inhaled through the mouth or nose. Once in the upper airway, the viruses may make their way in the lungs, where they invade the cells lining the airways, alveoli, or lung parenchyma. Some viruses such as measles and herpes simplex may reach the lungs via the blood. The invasion of the lungs may lead to varying degrees of cell death. When the immune system responds to the infection, even more lung damage may occur. Primarily white blood cells, mainly mononuclear cells, generate the inflammation. As well as damaging the lungs, many viruses simultaneously affect other organs and thus disrupt other body functions. Viruses also make the body more susceptible to bacterial infections; in this way, bacterial pneumonia can occur at the same time as viral pneumonia.",
+            "score": 133.05014073848724
+        },
+        {
+            "docid": "2913317_14",
+            "document": "Community-acquired pneumonia . Typically, a virus enters the lungs through the inhalation of water droplets and invades the cells lining the airways and the alveoli. This leads to cell death; the cells are killed by the virus or they self-destruct. Further lung damage occurs when the immune system responds to the infection. White blood cells, particularly lymphocytes, activate chemicals known as cytokines which cause fluid to leak into the alveoli. The combination of cell destruction and fluid-filled alveoli interrupts the transportation of oxygen into the bloodstream. In addition to their effects on the lungs, many viruses affect other organs. Viral infections weaken the immune system, making the body more susceptible to bacterial infection (including bacterial pneumonia).",
+            "score": 103.26382279396057
+        },
+        {
+            "docid": "36863_37",
+            "document": "Lung . The lungs possess several characteristics which protect against infection. The respiratory tract is lined by epithelia with hair-like projections called cilia that beat rhythmically and carry mucus. This mucociliary clearance is an important defence system against air-borne infection. The dust particles and bacteria in the inhaled air are caught in the mucosal surface of the airways, and are moved up towards the pharynx by the rhythmic upward beating action of the cilia. The lining of the lung also secretes immunoglobulin A which protects against respiratory infections; goblet cells secrete mucus which also contains several antimicrobial compounds such as defensins, antiproteases, and antioxidates. In addition, the lining of the lung also contains macrophages, immune cells which engulf and destroy debris and microbes that enter the lung in a process known as phagocytosis; and dendritic cells which present antigens to activate components of the adaptive immune system such as T-cells and B-cells.",
+            "score": 85.39738774299622
+        },
+        {
+            "docid": "3113497_17",
+            "document": "Innate immune system . Macrophages, from the Greek, meaning \"large eaters,\" are large phagocytic leukocytes, which are able to move outside of the vascular system by migrating across the walls of capillary vessels and entering the areas between cells in pursuit of invading pathogens. In tissues, organ-specific macrophages are differentiated from phagocytic cells present in the blood called monocytes. Macrophages are the most efficient phagocytes and can phagocytose substantial numbers of bacteria or other cells or microbes. The binding of bacterial molecules to receptors on the surface of a macrophage triggers it to engulf and destroy the bacteria through the generation of a \u201crespiratory burst\u201d, causing the release of reactive oxygen species. Pathogens also stimulate the macrophage to produce chemokines, which summon other cells to the site of infection.",
+            "score": 161.49905157089233
+        },
+        {
+            "docid": "169270_2",
+            "document": "Macrophage . Macrophages (, from Greek \"\u03bc\u03b1\u03ba\u03c1\u03cc\u03c2\" (\"makr\u00f3s\") = large, \"\u03c6\u03b1\u03b3\u03b5\u03af\u03bd\" (\"phage\u00edn\") = to eat) are a type of white blood cell, of the immune system, that engulfs and digests cellular debris, foreign substances, microbes, cancer cells, and anything else that does not have the type of proteins specific to healthy body cells on its surface in a process called phagocytosis. These large phagocytes are found in essentially all tissues, where they patrol for potential pathogens by amoeboid movement. They take various forms (with various names) throughout the body (e.g., histiocytes, Kupffer cells, alveolar macrophages, microglia, and others), but all are part of the mononuclear phagocyte system. Besides phagocytosis, they play a critical role in nonspecific defense (innate immunity) and also help initiate specific defense mechanisms (adaptive immunity) by recruiting other immune cells such as lymphocytes. For example, they are important as antigen presenters to T cells. In humans, dysfunctional macrophages cause severe diseases such as chronic granulomatous disease that result in frequent infections.",
+            "score": 141.39849078655243
+        },
+        {
+            "docid": "52135_16",
+            "document": "Pneumonia . Most bacteria enter the lungs via small aspirations of organisms residing in the throat or nose. Half of normal people have these small aspirations during sleep. While the throat always contains bacteria, potentially infectious ones reside there only at certain times and under certain conditions. A minority of types of bacteria such as \"Mycobacterium tuberculosis\" and \"Legionella pneumophila\" reach the lungs via contaminated airborne droplets. Bacteria can spread also via the blood. Once in the lungs, bacteria may invade the spaces between cells and between alveoli, where the macrophages and neutrophils (defensive white blood cells) attempt to inactivate the bacteria. The neutrophils also release cytokines, causing a general activation of the immune system. This leads to the fever, chills, and fatigue common in bacterial pneumonia. The neutrophils, bacteria, and fluid from surrounding blood vessels fill the alveoli, resulting in the consolidation seen on chest X-ray.",
+            "score": 103.44645583629608
+        },
+        {
+            "docid": "1552187_25",
+            "document": "Microglia . For a long time it was thought that microglial cells differentiate in the bone marrow from hematopoietic stem cells, the progenitors of all blood cells. However, recent studies show that microglia originate in the yolk sac during a remarkably restricted embryonal period and populate the brain mesenchyme. Additionally, they continuously renew themselves and persist throughout life without replenishment from peripheral monocytic precursors.  Monocytes can also differentiate into myeloid dendritic cells and macrophages in the peripheral systems. Like macrophages in the rest of the body, microglia use phagocytic and cytotoxic mechanisms to destroy foreign materials. Microglia and macrophages both contribute to the immune response by acting as antigen presenting cells, as well as promoting inflammation and homeostatic mechanisms within the body by secreting cytokines and other signaling molecules.",
+            "score": 147.33592307567596
+        },
+        {
+            "docid": "35033343_3",
+            "document": "Intravascular immunity . In a healthy individual, immune cells patrol blood vessels to detect and respond to danger through molecules frequently found on pathogens called PAMPs, and molecules that are released by damaged cells, DAMPs. Immune cells involved in intravascular surveillance are neutrophils, monocytes, invariant natural killer T cells, kupffer cells, platelets, and mast cells. These cells express particular receptors such as toll-like receptors and proteins like CD36 that allow them to recognize and respond to danger signals. Endothelial cells lining the vasculature are also a part of the intravasculature's cellular defense system. They express molecules such as, CD14, TLR2, TLR4, TLR9, MD2, and MyD88, to detect bacteria in the blood.",
+            "score": 94.8096913099289
+        },
+        {
+            "docid": "148367_3",
+            "document": "Dendritic cell . Dendritic cells are present in those tissues that are in contact with the external environment, such as the skin (where there is a specialized dendritic cell type called the Langerhans cell) and the inner lining of the nose, lungs, stomach and intestines. They can also be found in an immature state in the blood. Once activated, they migrate to the lymph nodes where they interact with T cells and B cells to initiate and shape the adaptive immune response. At certain development stages they grow branched projections, the \"dendrites\" that give the cell its name (\u03b4\u03ad\u03bd\u03b4\u03c1\u03bf\u03bd or d\u00e9ndron being Greek for \"tree\"). While similar in appearance, these are structures distinct from the dendrites of neurons. Immature dendritic cells are also called veiled cells, as they possess large cytoplasmic 'veils' rather than dendrites.",
+            "score": 101.49556708335876
+        },
+        {
+            "docid": "580852_6",
+            "document": "Mononuclear phagocyte system . Macrophages are diffusely scattered in the connective tissue and in liver (Kupffer cells), spleen and lymph nodes (sinus histiocytes), lungs (alveolar macrophages), and central nervous system (microglia). The half-life of blood monocytes is about 1 day, whereas the life span of tissue macrophages is several months or years. The mononuclear phagocyte system is part of both humoral and cell-mediated immunity. The mononuclear phagocyte system has an important role in defense against microorganisms, including mycobacteria, fungi, bacteria, protozoa, and viruses. Macrophages remove senescent erythrocytes, leukocytes, and megakaryocytes by phagocytosis and digestion.",
+            "score": 214.44361972808838
+        },
+        {
+            "docid": "443416_35",
+            "document": "Phagocyte . Dendritic cells are specialized antigen-presenting cells that have long outgrowths called dendrites, that help to engulf microbes and other invaders. Dendritic cells are present in the tissues that are in contact with the external environment, mainly the skin, the inner lining of the nose, the lungs, the stomach, and the intestines. Once activated, they mature and migrate to the lymphoid tissues where they interact with T cells and B cells to initiate and orchestrate the adaptive immune response. Mature dendritic cells activate T helper cells and cytotoxic T cells. The activated helper T cells interact with macrophages and B cells to activate them in turn. In addition, dendritic cells can influence the type of immune response produced; when they travel to the lymphoid areas where T cells are held they can activate T cells, which then differentiate into cytotoxic T cells or helper T cells.",
+            "score": 130.9431425333023
+        },
+        {
+            "docid": "148367_14",
+            "document": "Dendritic cell . As mentioned above, mDC probably arise from monocytes, white blood cells which circulate in the body and, depending on the right signal, can turn into either dendritic cells or macrophages. The monocytes in turn are formed from stem cells in the bone marrow. Monocyte-derived dendritic cells can be generated in vitro from peripheral blood mononuclear cell (PBMCs). Plating of PBMCs in a tissue culture flask permits adherence of monocytes. Treatment of these monocytes with interleukin 4 (IL-4) and granulocyte-macrophage colony stimulating factor (GM-CSF) leads to differentiation to immature dendritic cells (iDCs) in about a week. Subsequent treatment with tumor necrosis factor (TNF) further differentiates the iDCs into mature dendritic cells. Monocytes can be induced to differentiate into dendritic cells by a self-peptide Ep1.B derived from apolipoprotein E. These are primarily tolerogenic plasmacytoid dendritic cells.",
+            "score": 168.07796025276184
+        },
+        {
+            "docid": "4436749_6",
+            "document": "Progressive massive fibrosis . Immunologically, disease is caused primarily through the activity of lung macrophages, which phagocytose dust particles after their deposition. These macrophages seek to eliminate the dust particle through either the mucociliary mechanism, or through lymphatic vessels which drain the lungs. Macrophages also produce an inflammatory mediator known as interleukin-1 (IL-1), which is part of the immune systems first line defenses against infecting particles. IL-1 is responsible for 'activation' of local vasculature, causing endothelial cells to express certain cell adhesion molecules, which help the cells of the bodies immune system to migrate into tissues. Macrophages exposed to dust have been shown to have markedly decreased chemotaxis. Production of inflammatory mediators - and the tissue damage that ensues as an effect of this, as well as reduced motility of cells, is fundamental to the pathogenesis of pneumoconiosis and the accompanying inflammation, fibrosis, and emphysema.",
+            "score": 112.89011788368225
+        },
+        {
+            "docid": "28635428_6",
+            "document": "Lung on a chip . The response of the lung-on-a-chip to inhaled living pathogens was tested by introducing E. Coli bacteria into the air channel on the lung air sac side of the device, while flowing white blood cells through the channel on the blood vessel side. The lung cells detected the bacteria and, through the porous membrane, activated the blood vessel cells, which in turn triggered an immune response that ultimately caused the white blood cells to move to the air chamber and destroy the bacteria.",
+            "score": 81.82414102554321
+        },
+        {
+            "docid": "14522621_11",
+            "document": "Prostacyclin receptor . IP activators inhibit the adherence of circulating platelets and leukocytes adherence to vascular endothelium thereby blocking their entry into sites of tissue disturbance. The activators also inhibit vascular smooth muscle cells from proliferation by blocking these cells' growth cycle and triggering their apoptosis (i.e. cell death]]. These actions, along with its anti-inflammatory effects, may underlie the ability of IP gene knockout in an ApoE(\u2212/\u2212) mosue model to cause an accelerated rate of developing atherosclerosis. Mouse studies indicate that the PGI-IP axis activates cellular signaling pathways that tend to suppress allergic inflammation. The axis inhibits bone marrow-derived dendritic cells (i.e. antigen-presenting cells that process antigen material, present it on their surfaces for delivery to T cells, and otherwise regulate innate and adaptive immune system responses) from producing pro-inflammatory cytokines (e.g. IL-12, TNF-alpha, IL-1-alpha, and IL-6) while stimulating them to increase production of the anti-inflammatory cytokine, IL-10. IP receptor activation of these cells also blocks their lipopolysaccharide-stimulated expression of pro-inflammatory cell surface proteins (i.e. CD86, CD40, and MHC class II molecules) that are critical for developing adaptive immune responses. IL receptor-activated bone marrow-derived dendritic cells showed a greatly reduced ability to stimulate the proliferation of T helper cell as well as the ability of these cells to produce pro-allergic cytokines (i.e. IL-5 and IL-13)s. In a mouse model of allergic inflammation, PGI reduced the maturation and migration of lung mature dendritic cells to Mediastinal lymph nodes while increasing the egress of immature dendritic cells away from the lung. These effects resulted in a decrease in allergen-induced responses of the cells mediating allergic reactivity, TH-2 cells. These IP-induced responses likely contribute to its apparent function in inhibiting certain mouse inflammation responses as exemplified by the failure of IP receptor deficient mice to develop full lung airway allergic responses to ovalbumin in a model of allergic inflammation.",
+            "score": 90.55011916160583
+        },
+        {
+            "docid": "3008032_6",
+            "document": "Hemosiderin . Haemosiderin often forms after bleeding (haemorrhage). When blood leaves a ruptured blood vessel, the red blood cell dies, and the haemoglobin of the cell is released into the extracellular space. Phagocytic cells (of the mononuclear phagocyte system) called macrophages engulf (phagocytose) the haemoglobin to degrade it, producing haemosiderin and biliverdin. Excessive systemic accumulations of haemosiderin may occur in macrophages in the liver, lungs, spleen, kidneys, lymph nodes, and bone marrow. These accumulations may be caused by excessive red blood cell destruction (haemolysis), excessive iron uptake/hyperferraemia, or decreased iron utilization (e.g. anaemia of copper toxicity) /uptake hypoferraemia (which often leads to iron deficiency anaemia).",
+            "score": 116.76736497879028
+        },
+        {
+            "docid": "3113497_19",
+            "document": "Innate immune system . Dendritic cells (DCs) are phagocytic cells present in tissues that are in contact with the external environment, mainly the skin (where they are often called Langerhans cells), and the inner mucosal lining of the nose, lungs, stomach, and intestines. They are named for their resemblance to neuronal dendrites, but dendritic cells are not connected to the nervous system. Dendritic cells are very important in the process of antigen presentation, and serve as a link between the innate and adaptive immune systems.",
+            "score": 112.13983058929443
+        },
+        {
+            "docid": "966915_10",
+            "document": "Bacterial pneumonia . Bacteria typically enter the lung with inhalation, though they can reach the lung through the bloodstream if other parts of the body are infected. Often, bacteria live in parts of the upper respiratory tract and are continuously being inhaled into the alveoli, the cavities deep in the lungs where gas exchange takes place. Once inside the alveoli, bacteria travel into the spaces between the cells and also between adjacent alveoli through connecting pores. This invasion triggers the immune system to respond by sending white blood cells responsible for attacking microorganisms (neutrophils) to the lungs. The neutrophils engulf and kill the offending organisms but also release cytokines that result in a general activation of the immune system. This results in the fever, chills, and fatigue common in bacterial and fungal pneumonia. The neutrophils, bacteria, and fluid leaked from surrounding blood vessels fill the alveoli and result in impaired oxygen transportation.",
+            "score": 96.45206785202026
+        },
+        {
+            "docid": "5682997_2",
+            "document": "Plasmacytoid dendritic cell . Plasmacytoid dendritic cells (pDCs) are a rare type of immune cell that are known to secrete large quantities of type 1 interferon (IFNs) in response to a viral infection. They circulate in the blood and are found in peripheral lymphoid organs. They develop from bone marrow hematopoietic stem cells and constitute < 0.4% of peripheral blood mononuclear cells (PBMC). Other than conducting antiviral mechanisms, pDCs are considered to be key in linking the innate and adaptive immune systems. However, pDCs are also responsible for participating in and exacerbating certain autoimmune diseases like lupus.",
+            "score": 84.44996047019958
+        },
+        {
+            "docid": "8541393_5",
+            "document": "CCL18 . CCL18 is produced mainly by antigen-presenting cells of the innate immune system. These cells include dendritic cells, monocytes, and macrophages. Neither T-cells nor B-cells are known to produce CCL18. Its production is upregulated in these cells by IL-10, IL-4, and IL-13, which are cytokines that favour a T-helper 2 type response and are generally involved in humoral immunity or for immunosuppression. The presence of IFN-gamma, a T-helper 1 type response cytokine important for cell-mediated immunity, dampens the production of CCL18. Furthermore, CCL18 is induced by fibroblasts, specifically by induction of collagen produced by fibroblasts, which is important in tissue healing and repair. Finally, CCL18 is constitutively and highly expressed in the lungs, suggesting that CCL18 plays role in maintaining homeostasis.",
+            "score": 121.26893353462219
+        },
+        {
+            "docid": "40817590_22",
+            "document": "Ebola virus disease . EBOV is thought to infect humans through contact with mucous membranes or skin breaks. After infection, endothelial cells (cells lining the inside of blood vessels), liver cells, and several types of immune cells such as macrophages, monocytes, and dendritic cells are the main targets of attack. Following infection, immune cells carry the virus to nearby lymph nodes where further reproduction of the virus takes place. From there the virus can enter the bloodstream and lymphatic system and spread throughout the body. Macrophages are the first cells infected with the virus, and this infection results in programmed cell death. Other types of white blood cells, such as lymphocytes, also undergo programmed cell death leading to an abnormally low concentration of lymphocytes in the blood. This contributes to the weakened immune response seen in those infected with EBOV.",
+            "score": 120.51239550113678
+        },
+        {
+            "docid": "52520385_5",
+            "document": "Surface tension biomimetics . A lung is composed of many small sacks called alveoli that allow oxygen and carbon dioxide to diffuse in and out of the blood respectively as the blood is passed through small capillaries that surround these alveoli. Surface tension is exploited by alveoli by means of a surfactant that is produced by one of the cells and released to lower the surface tension of the fluid coating the inside of the alveoli to prevent these sacks from collapsing. Huh and his fellow researchers created a lung mimic that replicated the function of native alveolar cells. An extracellular matrix of gel, human alveolar epithelial cells, and human pulmonary microvascular endothelial cells were cultured on a polydimethylsiloxane membrane that was bound in a flexible vacuum diaphragm. Pressurization cycles of the vacuum diaphragm, which simulated breathing, showed similar form and function to an actual lung. The type II cells were also shown to emit the same surfactant that lowered the surface tension of the fluid coating the lung mimic. This research will hopefully some day lead to the creation of lungs that could be grown for patients that need to have a transplant or repair performed.",
+            "score": 81.69715201854706
+        },
+        {
+            "docid": "2777285_18",
+            "document": "Adult stem cell . Discoveries in recent years have suggested that adult stem cells might have the ability to differentiate into cell types from different germ layers. For instance, neural stem cells from the brain, which are derived from ectoderm, can differentiate into ectoderm, mesoderm, and endoderm. Stem cells from the bone marrow, which is derived from mesoderm, can differentiate into liver, lung, GI tract and skin, which are derived from endoderm and mesoderm. This phenomenon is referred to as stem cell transdifferentiation or plasticity. It can be induced by modifying the growth medium when stem cells are cultured \"in vitro\" or transplanting them to an organ of the body different from the one they were originally isolated from. There is yet no consensus among biologists on the prevalence and physiological and therapeutic relevance of stem cell plasticity. More recent findings suggest that pluripotent stem cells may reside in blood and adult tissues in a dormant state. These cells are referred to as \"Blastomere Like Stem Cells\" and \"very small embryonic like\" \u2013 \"VSEL\" stem cells, and display pluripotency in vitro. As BLSC's and VSEL cells are present in virtually all adult tissues, including lung, brain, kidneys, muscles, and pancreas Co-purification of BLSC's and VSEL cells with other populations of adult stem cells may explain the apparent pluripotency of adult stem cell populations. However, recent studies have shown that both human and murine VSEL cells lack stem cell characteristics and are not pluripotent.",
+            "score": 127.29354763031006
+        },
+        {
+            "docid": "8129870_7",
+            "document": "Alveolar macrophage . Type 1 pneumocytes (or membranous pneumocytes) form the structure of the alveolus and are responsible for the gas exchange in the alveolus. Type 1 pneumocytes are squamous epithelial cells which are characterized by a superficial layer consisting of large, thin, scale-like cells; they also cover 95% of the alveolar surface, although they are only half as numerous as Type 2 pneumocytes. Type 2 pneumocytes are important in that they can proliferate and differentiate into type 1 pneumocytes, which cannot replicate and are susceptible to a vast numbers of toxic insults. Type 2 pneumocytes are also important because they secrete pulmonary surfactant(PS), which consists 80\u201390% of phospholipids [(phosophatidylcholine(PC), phosphatidyglycerol(PG), phosphaditylinositol (PI)] and 5-10% of surfactant proteins (SP-A, SP-B, SP-C, AND SP-D). PS is synthesized as lamellar bodies, which are structures consisting of closely packed bilayers that are secreted and then undergo transformation into a morphological form called tubular myelin. PS plays an important role in maintaining normal respiratory mechanics by reducing alveolar surface tension. By lowering alveolar surface tension, PS reduces the energy required to inflate the lungs, and reduces the likelihood of alveolar collapse during expiration. Loosely attached to these alveoli sacs are the alveolar macrophages that protect the lungs from a broad array of microbes and aerosols by devouring and ingesting them through phagocytosis.  Alveolar macrophages are phagocytes that play a critical role in homeostasis, host defense, the response to foreign substances, and tissue remodeling. Since alveolar macrophages are pivotal regulators of local immunological homeostasis, their population density is decisive for the many processes of immunity in the lungs. They are highly adaptive components of the innate immune system and can be specifically modified to whatever functions needed depending on their state of differentiation and micro-environmental factors encountered. Alveolar macrophages release numerous secretory products and interact with other cells and molecules through the expression of several surface receptors. Alveolar macrophages are also involved in the phagocytosis of apoptotic and necrotic cells that have undergone cell-death. They must be selective of the material that is phagocytized because normal cells and structures of the body must not be compromised. To combat infection, the phagocytes of the innate immune system facilitates many pattern recognition receptors (PRR) to help recognize pathogen-associated molecular patterns (PAMPs) on the surface of pathogenic microorganisms. PAMPs all have the common features of being unique to a group of pathogens but invariant in their basic structure; and are essential for pathogenicity(ability of an organism to produce an infectious disease in another organism). Proteins involved in microbial pattern recognition include mannose receptor, complement receptors, DC-SIGN, Toll-like receptors(TLRs), the scavenger receptor, CD14, and Mac-1. PRRs can be divided into three classes:",
+            "score": 116.50440621376038
+        },
+        {
+            "docid": "14958_19",
+            "document": "Immune system . Dendritic cells (DC) are phagocytes in tissues that are in contact with the external environment; therefore, they are located mainly in the skin, nose, lungs, stomach, and intestines. They are named for their resemblance to neuronal dendrites, as both have many spine-like projections, but dendritic cells are in no way connected to the nervous system. Dendritic cells serve as a link between the bodily tissues and the innate and adaptive immune systems, as they present antigens to T cells, one of the key cell types of the adaptive immune system.",
+            "score": 124.720627784729
+        },
+        {
+            "docid": "10973660_18",
+            "document": "HSP60 . Infection and disease are extremely stressful on the cell. When a cell is under stress, it naturally increases the production of stress proteins, including heat shock proteins such as HSP60. In order for HSP60 to act as a signal it must be present in the extracellular environment. In recent research \u201cit has emerged that\u2026chaperonin 60 can be found on the surface of various prokaryotic and eukaryotic cells, and can even be released from cells\u201d. According to recent research, many different types of heat shock proteins are used in immune response signaling, but it appears that different proteins act and respond differently to other signaling molecules. HSP60 has been shown to be released from specific cells like peripheral blood mononuclear cells (PBMCs) when there are lipopolysaccharides (LPS) or GroEL present. This suggests that the cell has different receptors and responses to human and bacterial HSP60. In addition, it has been shown that HSP60 has the capability \u201cof activating monocytes, macrophages and dendritic cells\u2026and also of inducing secretion of a wide range of cytokines.\u201d The fact that HSP60 responds to other signal molecules like LPS or GroEL and has the ability to activate certain types of cells supports the idea that HSP60 is part of a danger signal cascade which is involved in activating an immune response.",
+            "score": 127.42013549804688
+        },
+        {
+            "docid": "20588935_3",
+            "document": "Myelopoiesis . The common myeloid progenitor can differentiate in the bone marrow into red blood cells and megakaryocytes (leading to platelets) as well as mast cells and myeloblasts, the latter leading to the myelocytic line (granulocytes) and to monocytes, macrophages, and dendritic cells of the innate immune system. The granulocytes, also called polymorphonuclear leukocytes because of their multilobed nuclei, are three short lived cell types including eosinophils, basophils, and neutrophils. A granulocyte differentiates into a distinct cell type by a process called granulopoiesis. In this process it first transforms from a common myeloblast (myeloid progenitor) to a common promyelocyte. This promyelocyte gives rise to a unique myelocyte that for the first time can be classified as an eosinophil, basophil, or neutrophil progenitor based on the histological staining affinity (eosinophilic, basophilic, or neutral granules). The unique myelocyte next differentiates into a metamyelocyte and then a band cell, with a \"C\" shaped nucleus, before becoming a mature eosinophil, basophil, or neutrophil. Macrophages come from monoblast progenitors that differentriate into promonocytes, which mature into monocytes. Monocytes eventually enter the tissues and become macrophages.",
+            "score": 131.2746467590332
+        },
+        {
+            "docid": "148367_12",
+            "document": "Dendritic cell . Dendritic cells are derived from hematopoietic bone marrow progenitor cells. These progenitor cells initially transform into immature dendritic cells. These cells are characterized by high endocytic activity and low T-cell activation potential. Immature dendritic cells constantly sample the surrounding environment for pathogens such as viruses and bacteria. This is done through pattern recognition receptors (PRRs) such as the toll-like receptors (TLRs). TLRs recognize specific chemical signatures found on subsets of pathogens. Immature dendritic cells may also phagocytose small quantities of membrane from live own cells, in a process called nibbling. Once they have come into contact with a presentable antigen, they become activated into mature dendritic cells and begin to migrate to the lymph node. Immature dendritic cells phagocytose pathogens and degrade their proteins into small pieces and upon maturation present those fragments at their cell surface using MHC molecules. Simultaneously, they upregulate cell-surface receptors that act as co-receptors in T-cell activation such as CD80 (B7.1), CD86 (B7.2), and CD40 greatly enhancing their ability to activate T-cells. They also upregulate CCR7, a chemotactic receptor that induces the dendritic cell to travel through the blood stream to the spleen or through the lymphatic system to a lymph node. Here they act as antigen-presenting cells: they activate helper T-cells and killer T-cells as well as B-cells by presenting them with antigens derived from the pathogen, alongside non-antigen specific costimulatory signals. Dendritic cells can also induce T-cell tolerance (unresponsiveness). Certain C-type lectin receptors (CLRs) on the surface of dendritic cells, some functioning as PRRs, help instruct dendritic cells as to when it is appropriate to induce immune tolerance rather than lymphocyte activation.",
+            "score": 50.28449273109436
+        }
+    ],
+    "r": [
+        {
+            "docid": "580852_2",
+            "document": "Mononuclear phagocyte system . In immunology, the mononuclear phagocyte system or mononuclear phagocytic system (MPS) (also known as the reticuloendothelial system or macrophage system) is a part of the immune system that consists of the phagocytic cells located in reticular connective tissue. The cells are primarily monocytes and macrophages, and they accumulate in lymph nodes and the spleen. The Kupffer cells of the liver and tissue histiocytes are also part of the MPS. The mononuclear phagocyte system and the monocyte macrophage system refer to two different entities, often mistakenly understood as one.",
+            "score": 228.26693725585938
+        },
+        {
+            "docid": "580852_6",
+            "document": "Mononuclear phagocyte system . Macrophages are diffusely scattered in the connective tissue and in liver (Kupffer cells), spleen and lymph nodes (sinus histiocytes), lungs (alveolar macrophages), and central nervous system (microglia). The half-life of blood monocytes is about 1 day, whereas the life span of tissue macrophages is several months or years. The mononuclear phagocyte system is part of both humoral and cell-mediated immunity. The mononuclear phagocyte system has an important role in defense against microorganisms, including mycobacteria, fungi, bacteria, protozoa, and viruses. Macrophages remove senescent erythrocytes, leukocytes, and megakaryocytes by phagocytosis and digestion.",
+            "score": 214.44361877441406
+        },
+        {
+            "docid": "42567_4",
+            "document": "Spleen . The spleen synthesizes antibodies in its white pulp and removes antibody-coated bacteria and antibody-coated blood cells by way of blood and lymph node circulation. A study published in 2009 using mice found that the red pulp of the spleen forms a reservoir that contains over half of the body's monocytes. These monocytes, upon moving to injured tissue (such as the heart after myocardial infarction), turn into dendritic cells and macrophages while promoting tissue healing. The spleen is a center of activity of the mononuclear phagocyte system and can be considered analogous to a large lymph node, as its absence causes a predisposition to certain infections.",
+            "score": 205.3018035888672
+        },
+        {
+            "docid": "71425_15",
+            "document": "Lymphatic system . The main functions of the spleen are: The spleen synthesizes antibodies in its white pulp and removes antibody-coated bacteria and antibody-coated blood cells by way of blood and lymph node circulation. A study published in 2009 using mice found that the spleen contains, in its reserve, half of the body's monocytes within the red pulp. These monocytes, upon moving to injured tissue (such as the heart), turn into dendritic cells and macrophages while promoting tissue healing. The spleen is a center of activity of the mononuclear phagocyte system and can be considered analogous to a large lymph node, as its absence causes a predisposition to certain infections.",
+            "score": 205.0397186279297
+        },
+        {
+            "docid": "443416_29",
+            "document": "Phagocyte . Monocytes develop in the bone marrow and reach maturity in the blood. Mature monocytes have large, smooth, lobed nuclei and abundant cytoplasm that contains granules. Monocytes ingest foreign or dangerous substances and present antigens to other cells of the immune system. Monocytes form two groups: a circulating group and a marginal group that remain in other tissues (approximately 70% are in the marginal group). Most monocytes leave the blood stream after 20\u201340 hours to travel to tissues and organs and in doing so transform into macrophages or dendritic cells depending on the signals they receive. There are about 500 million monocytes in one litre of human blood.",
+            "score": 197.1493377685547
+        },
+        {
+            "docid": "443416_3",
+            "document": "Phagocyte . Phagocytes of humans and other animals are called \"professional\" or \"non-professional\" depending on how effective they are at phagocytosis. The professional phagocytes include many types of white blood cells (such as neutrophils, monocytes, macrophages, mast cells, and dendritic cells). The main difference between professional and non-professional phagocytes is that the professional phagocytes have molecules called receptors on their surfaces that can detect harmful objects, such as bacteria, that are not normally found in the body. Phagocytes are crucial in fighting infections, as well as in maintaining healthy tissues by removing dead and dying cells that have reached the end of their lifespan.",
+            "score": 185.06082153320312
+        },
+        {
+            "docid": "454203_3",
+            "document": "Monocyte . Monocytes are amoeboid in appearance, and have a granulated cytoplasm. Containing unilobar nuclei, these cells are one of the types of mononuclear leukocytes which shelter azurophil granules. The archetypal geometry of the monocyte nucleus is ellipsoidal; metaphorically bean-shaped or kidney-shaped, although the most significant distinction is that the nuclear envelope should not be hyperbolically furcated into lobes. Contrast to this classification occurs in polymorphonuclear leukocytes. Monocytes compose 2% to 10% of all leukocytes in the human body and serve multiple roles in immune function. Such roles include: replenishing resident macrophages under normal conditions; migration within approximately 8\u201312 hours in response to inflammation signals from sites of infection in the tissues; and differentiation into macrophages or dendritic cells to effect an immune response. In an adult human, half of the monocytes are stored in the spleen. These change into macrophages after entering into appropriate tissue spaces, and can transform into foam cells in endothelium.",
+            "score": 185.0284423828125
+        },
+        {
+            "docid": "443416_32",
+            "document": "Phagocyte . Macrophages can be activated to perform functions that a resting monocyte cannot. T helper cells (also known as effector T cells or T cells), a sub-group of lymphocytes, are responsible for the activation of macrophages. T1 cells activate macrophages by signaling with IFN-gamma and displaying the protein CD40 ligand. Other signals include TNF-alpha and lipopolysaccharides from bacteria. T1 cells can recruit other phagocytes to the site of the infection in several ways. They secrete cytokines that act on the bone marrow to stimulate the production of monocytes and neutrophils, and they secrete some of the cytokines that are responsible for the migration of monocytes and neutrophils out of the bloodstream. T1 cells come from the differentiation of CD4 T cells once they have responded to antigen in the secondary lymphoid tissues. Activated macrophages play a potent role in tumor destruction by producing TNF-alpha, IFN-gamma, nitric oxide, reactive oxygen compounds, cationic proteins, and hydrolytic enzymes.",
+            "score": 182.54055786132812
+        },
+        {
+            "docid": "70425_20",
+            "document": "Inflammation . The \"cellular component\" involves leukocytes, which normally reside in blood and must move into the inflamed tissue via \"extravasation\" to aid in inflammation. Some act as phagocytes, ingesting bacteria, viruses, and cellular debris. Others release enzymatic granules that damage pathogenic invaders. Leukocytes also release inflammatory mediators that develop and maintain the inflammatory response. In general, acute inflammation is mediated by granulocytes, whereas chronic inflammation is mediated by mononuclear cells such as monocytes and lymphocytes.",
+            "score": 181.24818420410156
+        },
+        {
+            "docid": "454203_10",
+            "document": "Monocyte . Monocytes which migrate from the bloodstream to other tissues will then differentiate into tissue resident macrophages or dendritic cells. Macrophages are responsible for protecting tissues from foreign substances, but are also suspected to be important in the formation of important organs like the heart and brain. They are cells that possess a large smooth nucleus, a large area of cytoplasm, and many internal vesicles for processing foreign material.",
+            "score": 178.2813262939453
+        },
+        {
+            "docid": "580852_5",
+            "document": "Mononuclear phagocyte system . The spleen is the largest unit of the mononuclear phagocyte system. The monocyte is formed in the bone marrow and transported by the blood; it migrates into the tissues, where it transforms into a histiocyte or a macrophage.",
+            "score": 177.2963104248047
+        },
+        {
+            "docid": "169270_11",
+            "document": "Macrophage . Macrophages that reside in adult healthy tissues either derive from circulating monocytes or are established before birth and then maintained during adult life independently of monocytes. By contrast, most of the macrophages that accumulate at diseased sites typically derive from circulating monocytes. When a monocyte enters damaged tissue through the endothelium of a blood vessel, a process known as leukocyte extravasation, it undergoes a series of changes to become a macrophage. Monocytes are attracted to a damaged site by chemical substances through chemotaxis, triggered by a range of stimuli including damaged cells, pathogens and cytokines released by macrophages already at the site. At some sites such as the testis, macrophages have been shown to populate the organ through proliferation. Unlike short-lived neutrophils, macrophages survive longer in the body, up to several months.",
+            "score": 176.60806274414062
+        },
+        {
+            "docid": "7138421_9",
+            "document": "Wandering cell . Monocytes: Monocytes are white blood cells that will give rise to all the phagocytes of the mononuclear phagocytic system (see Ross et al., pg. 110, and Table 5.4, pg. 112). In CT, they give rise to macrophages (histiocytes).",
+            "score": 176.3953094482422
+        },
+        {
+            "docid": "148367_14",
+            "document": "Dendritic cell . As mentioned above, mDC probably arise from monocytes, white blood cells which circulate in the body and, depending on the right signal, can turn into either dendritic cells or macrophages. The monocytes in turn are formed from stem cells in the bone marrow. Monocyte-derived dendritic cells can be generated in vitro from peripheral blood mononuclear cell (PBMCs). Plating of PBMCs in a tissue culture flask permits adherence of monocytes. Treatment of these monocytes with interleukin 4 (IL-4) and granulocyte-macrophage colony stimulating factor (GM-CSF) leads to differentiation to immature dendritic cells (iDCs) in about a week. Subsequent treatment with tumor necrosis factor (TNF) further differentiates the iDCs into mature dendritic cells. Monocytes can be induced to differentiate into dendritic cells by a self-peptide Ep1.B derived from apolipoprotein E. These are primarily tolerogenic plasmacytoid dendritic cells.",
+            "score": 168.0779571533203
+        },
+        {
+            "docid": "14713923_19",
+            "document": "5-Hydroxyeicosatetraenoic acid . 5(\"S\")-HETE and other family members were first detected as products of arachidonic acid made by stimulated human polymorphonuclear neutrophils (PMN), a leukocyte blood cell type involved in host immune defense against infection but also implicated in aberrant pro-inflammatory immune responses such as arthritis; soon thereafter they found to be active also in stimulating these cells to migrate (i.e. chemotaxis), degranulate (i.e. release the anti-bacterial and tissue-injuring contents of their granules), produce bacteriocidal and tissue-injuring reactive oxygen species, and mount other pro-defensive as well as pro-inflammatory responses of the Innate immune system. For example, the gram-negative bacterium, Salmonella tryphimurium, and the outer surface of gram negative bacteria, Lipopolysaccharide, promote the production of 5-(\"S\")-HETE and 5-oxo-ETE by human neutrophils. The family members stimulate another blood cell of the innate immunity system, the human monocyte, acting synergistically with the pro-inflammatory CC chemokines, monocyte chemotactic protein-1 and monocyte chemotactic protein-3, to stimulate monocyte function. 5-Oxo-ETE also stimulates two other cell types that share responsibility with the PMN for regulating inflammation, the human lymphocyte and dendritic cell. And, in vivo studies, the injection of 5-oxo-ETE into the skin of human volunteers causes the local accumulation of PMN and monocyte-derived macrophages. Furthermore, the production of one or more 5(\"S\")-HETE family members as well as the expression of orthologs of the human OXER1 receptor occur in various mammalian species including dogs, cats, cows, sheep, elephants, pandas, opossums, and ferrets and in several species of fish; for example, cats undergoing experimentally induced asthma accumulate 5-oxo-ETE in their lung lavage fluid, feline leucocytes make as well as respond to 5-oxo-ETE by an oxer1-dependent mechanism; and an OXER1 ortholog and, apparently, 5-oxo-ETE are necessary for the inflammatory response to tissue damage caused by osmolarity insult in zebrafish.",
+            "score": 168.0333709716797
+        },
+        {
+            "docid": "443416_24",
+            "document": "Phagocyte . Phagocytes of humans and other jawed vertebrates are divided into \"professional\" and \"non-professional\" groups based on the efficiency with which they participate in phagocytosis. The professional phagocytes are the monocytes, macrophages, neutrophils, tissue dendritic cells and mast cells. One litre of human blood contains about six billion phagocytes.",
+            "score": 165.4646759033203
+        },
+        {
+            "docid": "1819733_2",
+            "document": "Agranulocyte . Agranulocytes, also known as mononuclear leukocytes, are white blood cells with a one-lobed nucleus. They are characterized by the absence of granules in their cytoplasm, which distinguishes them from granulocytes. Normal hematologic blood values of MLs are about 35% of all white blood cells. The 2 types of agranulocytes in the blood circulation are lymphocytes and monocytes. A third type of agranulocyte, the macrophage, is formed in the tissue when monocytes leave the circulation and differentiate into macrophages.",
+            "score": 165.3106689453125
+        },
+        {
+            "docid": "5106242_7",
+            "document": "Cytauxzoonosis . The life cycle of the protozoa has a tissue phase and an erythrocytic (red blood cell) phase. The organism goes through asexual reproduction phase that is called schizogony which occurs in the mononuclear phagocytic cells. In the tissue phase the macrophage cells that are infected often clog venules in organs such as the liver, spleen, lungs, and lymph nodes. It is this phase that is associated with clinical disease if the schizonts are numerous. Schizonts next form merozoites that break out of the macrophage cells and infect the red blood cells (erythrocytes). The erythrocytic disease is not as important for clinical disease but is often used to diagnose \"C. felis\" because piroplasms (erythrocytes that have phagocytized merozoites) can be seen on a peripheral blood smear under the microscope.",
+            "score": 162.43707275390625
+        },
+        {
+            "docid": "454203_9",
+            "document": "Monocyte . Monocytes are produced by the bone marrow from precursors called monoblasts, bipotent cells that differentiated from hematopoietic stem cells. Monocytes circulate in the bloodstream for about one to three days and then typically move into tissues throughout the body where they differentiate into macrophages and dendritic cells. They constitute between three and eight percent of the leukocytes in the blood. About half of the body's monocytes are stored as a reserve in the spleen in clusters in the red pulp's Cords of Billroth. Moreover, monocytes are the largest corpuscle in blood.",
+            "score": 162.2335968017578
+        },
+        {
+            "docid": "3113497_17",
+            "document": "Innate immune system . Macrophages, from the Greek, meaning \"large eaters,\" are large phagocytic leukocytes, which are able to move outside of the vascular system by migrating across the walls of capillary vessels and entering the areas between cells in pursuit of invading pathogens. In tissues, organ-specific macrophages are differentiated from phagocytic cells present in the blood called monocytes. Macrophages are the most efficient phagocytes and can phagocytose substantial numbers of bacteria or other cells or microbes. The binding of bacterial molecules to receptors on the surface of a macrophage triggers it to engulf and destroy the bacteria through the generation of a \u201crespiratory burst\u201d, causing the release of reactive oxygen species. Pathogens also stimulate the macrophage to produce chemokines, which summon other cells to the site of infection.",
+            "score": 161.49905395507812
+        },
+        {
+            "docid": "10250459_2",
+            "document": "CD68 . CD68 (Cluster of Differentiation 68) is a protein highly expressed by cells in the monocyte lineage (e.g., monocytic phagocytes, osteoclasts), by circulating macrophages, and by tissue macrophages (e.g., Kupffer cells, microglia).",
+            "score": 160.60731506347656
+        },
+        {
+            "docid": "27194925_17",
+            "document": "Zanvil A. Cohn . Looking into the genesis of macrophages, Cohn and his colleague Ralph van Furth \u201cused a radiolabeled isotope to label blood monocytes and trace their production and development. They identified the blood monocyte as the precursor for tissue macrophages and the bone marrow as the source of monocytes.\u201d At the same time, electron microscope studies he performed with Hirsch and Martha Fedorko provided further insight into macrophage formation and differentiation. This work, according to Moberg and Steinman, \u201cilluminated a pivotal pathway to host defense and captivated the minds and spirits of innumerable scientists,\u201d resulting in five international conferences on mononuclear phagocytes held at Leiden between 1969 and 1991.",
+            "score": 160.4771270751953
+        },
+        {
+            "docid": "37364851_2",
+            "document": "Tumor-associated macrophage . Tumor-associated macrophages (TAMs) are a class of immune cells present in high numbers in the microenvironment of solid tumors. They are heavily involved in cancer-related inflammation. Macrophages are known to originate from bone marrow-derived blood monocytes (monocyte-derived macrophages) or yolk sac progenitors (tissue-resident macrophages), but the exact origin of TAMs in human tumors remains to be elucidated. The composition of monocyte-derived macrophages and tissue-resident macrophages in the tumor microenvironment depends on the tumor type, stage, size, and location, thus it has been proposed that TAM identity and heterogeneity is the outcome of interactions between tumor-derived, tissue-specific, and developmental signals.",
+            "score": 160.24102783203125
+        },
+        {
+            "docid": "40854066_10",
+            "document": "Epigenetic clock . The median error of estimated age is 3.6 years across a wide spectrum of tissues and cell types . The epigenetic clock performs well in heterogeneous tissues (for example, whole blood, peripheral blood mononuclear cells, cerebellar samples, occipital cortex, buccal epithelium, colon, adipose, kidney, liver, lung, saliva, uterine cervix, epidermis, muscle) as well as in individual cell types such as CD4 T cells, CD14 monocytes, glial cells, neurons, immortalized B cells, mesenchymal stromal cells. However, accuracy depends to some extent on the source of the DNA.",
+            "score": 160.10679626464844
+        },
+        {
+            "docid": "31678753_15",
+            "document": "Paracytophagy . In peripheral tissues, \"Listeria\" can invade cells such as monocytes and dendritic cells from infected endothelial cells via the paracytophagous mode of invasion. Using these phagocytic cells as vectors, \"Listeria\" travels throughout the nerves and reaches tissues usually inaccessible to other bacterial pathogens. Similar to the mechanism seen in HIV, infected leukocytes in the blood cross the blood brain barrier and transport \"Listeria\" into the CNS. Once in the CNS, cell to cell spreading causes associated damage leading to brain encephalitis and bacterial meningitis. \"Listeria\" uses phagocytic leukocytes as a \u201cTrojan Horse\u201d to gain access to a greater range of target cells.",
+            "score": 158.4674072265625
+        },
+        {
+            "docid": "3804568_3",
+            "document": "Malignant histiocytosis . A histiocyte is a differentiated tissue cell that has its origin in the bone marrow. The source for histiocytes is the monocyte/macrophage line. Monocytes (found in the blood) and macrophages (found in tissue) are responsible for phagocytosis (ingestion) of foreign material in the body. Langerhans cells are dendritic cells found in the skin and function by internalizing antigens (foreign particles) and presenting them to T cells. They arise from monocytes. Histiocytic disorders refer to diseases that are caused by abnormal behavior of these cells. They include the following:",
+            "score": 156.57337951660156
+        },
+        {
+            "docid": "4800807_3",
+            "document": "Histiocytoma (dog) . A histiocyte is a differentiated tissue cell that has its origin in the bone marrow. The source for histiocytes is the monocyte/macrophage line. Monocytes (found in the blood) and macrophages (found in tissue) are responsible for phagocytosis (ingestion) of foreign material in the body. Langerhans cells are dendritic cells found in the skin and function by internalizing antigens (foreign particles) and presenting them to T cells. They arise from monocytes. Histiocytic disorders refer to diseases that are caused by abnormal behavior of these cells. They include the following:",
+            "score": 156.57337951660156
+        },
+        {
+            "docid": "514458_18",
+            "document": "Wound healing . The spleen contains half the body's monocytes in reserve ready to be deployed to injured tissue. Attracted to the wound site by growth factors released by platelets and other cells, monocytes from the bloodstream enter the area through blood vessel walls. Numbers of monocytes in the wound peak one to one and a half days after the injury occurs. Once they are in the wound site, monocytes mature into macrophages. Macrophages also secrete a number of factors such as growth factors and other cytokines, especially during the third and fourth post-wounding days. These factors attract cells involved in the proliferation stage of healing to the area.",
+            "score": 155.390380859375
+        },
+        {
+            "docid": "169270_28",
+            "document": "Macrophage . Macrophages are essential for wound healing. They replace polymorphonuclear neutrophils as the predominant cells in the wound by day two after injury. Attracted to the wound site by growth factors released by platelets and other cells, monocytes from the bloodstream enter the area through blood vessel walls. Numbers of monocytes in the wound peak one to one and a half days after the injury occurs. Once they are in the wound site, monocytes mature into macrophages. The spleen contains half the body's monocytes in reserve ready to be deployed to injured tissue.",
+            "score": 155.04708862304688
+        },
+        {
+            "docid": "1787566_2",
+            "document": "Histiocyte . A histiocyte is an animal cell that is part of the mononuclear phagocyte system (also known as the reticuloendothelial system or lymphoreticular system). The mononuclear phagocytic system is part of the organism's immune system. The histiocyte is a tissue macrophage or a dendritic cell (histio, diminutive of histo, meaning \"tissue\", and cyte, meaning \"cell\").",
+            "score": 153.95864868164062
+        },
+        {
+            "docid": "580852_7",
+            "document": "Mononuclear phagocyte system . The various cell types of the mononuclear phagocyte system are all part of the myeloid lineage from the CFU-GEMM (precursor of granulocytes, erythrocytes, monocytes and megakaryocytes.)",
+            "score": 151.782470703125
+        },
+        {
+            "docid": "1564528_2",
+            "document": "Cords of Billroth . The Cords of Billroth (also known as splenic cords or red pulp cords) are found in the red pulp of the spleen between the sinusoids, consisting of fibrils and connective tissue cells with a large population of monocytes and macrophages. These cords contain half of the mouse body's monocytes as a reserve so that after tissue injury these monocytes can move in and aid locally sourced monocytes in wound healing.",
+            "score": 151.6988067626953
+        }
+    ]
+}

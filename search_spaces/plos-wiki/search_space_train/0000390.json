@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "9418169_10",
+            "document": "Piwi . Recently, a novel class of longer-than-average miRNAs known as Piwi-interacting RNAs (piRNAs) has been defined in mammalian cells, about 26-31 nucleotides long as compared to the more typical miRNA or siRNA of about 21 nucleotides. These piRNAs are expressed mainly in spermatogenic cells in the testes of mammals. However recent studies have reported that piRNA expression can be found in the ovarian somatic cells and neuron cells in invertebrates, as well as in many other mammalian somatic cells. piRNAs have been identified in the genomes of mice, rats, and humans, with an unusual \"clustered\" genomic organization that may originate from repetitive regions of the genome such as retrotransposons or regions normally organized into heterochromatin, and which are normally derived exclusively from the antisense strand of double-stranded RNA. piRNAs have thus been classified as \"repeat-associated small interfering RNAs\" (rasiRNAs). Although their biogenesis is not yet well understood, piRNAs and Piwi proteins are thought to form an endogenous system for silencing the expression of selfish genetic elements such as retrotransposons and thus preventing the gene products of such sequences from interfering with germ cell formation.",
+            "score": 185.0370613336563
+        },
+        {
+            "docid": "8643335_2",
+            "document": "Piwi-interacting RNA . Piwi-interacting RNA (piRNA) is the largest class of small non-coding RNA molecules expressed in animal cells. piRNAs form RNA-protein complexes through interactions with piwi proteins. These piRNA complexes have been linked to both epigenetic and post-transcriptional gene silencing of retrotransposons and other genetic elements in germ line cells, particularly those in spermatogenesis. They are distinct from microRNA (miRNA) in size (26\u201331 nt rather than 21\u201324 nt), lack of sequence conservation, and increased complexity.",
+            "score": 154.41874241828918
+        },
+        {
+            "docid": "10021550_3",
+            "document": "Alfalfa mosaic virus . The genetic material of AMV consists of 3 linear single strands RNAs (RNA 1, RNA 2 and RNA 3) and a subgenomic RNA (RNA 4) which is obtained by transcription of the negative- sense strand of RNA 3. RNA 1 and 2 encode proteins needed for replication. RNA 3 is required for the synthesis of the protein responsible for cell-to-cell movement. RNA 4 encodes the capsid. Beside encapsidation and its role in movement the viral coat protein also plays a role in the initiation of RNA replication. This property is called genome activation and means that the genomic nucleic acid is not infectious without the capsid. Specific association of the coat protein with the RNA 3\u2019- terminal sequences or with the subgenomic mRNA is required for the infection. Bacilliform particles contain separately encapsidated RNAs 1, 2 and 3. Spheroidal particles each have two copies of RNA 4. The nucleotide sequence of the complete genome has been determined and the length of the genome is 8274 nucleotides ( or 9155 including the subgenomic RNA). RNA 1, 2, 3 and 4 are respectively 3644 (3.65kb), 2593 (2.6kb), 2037 (2.2kb) and 881 (0.88kb) nucleotides long.",
+            "score": 57.09476435184479
+        },
+        {
+            "docid": "8643335_5",
+            "document": "Piwi-interacting RNA . piRNAs are found in clusters throughout the genome; these clusters may contain as few as ten or up to many thousands of piRNAs and can vary in size from one to one hundred kb. The detection and annotation of piRNA clusters in genomes based on bioinformatic methods became more and more sophisticated during the past years. While the clustering of piRNAs is highly conserved across species, the sequences are not. While \"D. melanogaster\" and vertebrate piRNAs have been located in areas lacking any protein coding genes, piRNAs in \"C. elegans\" have been identified amidst protein coding genes.",
+            "score": 184.20414805412292
+        },
+        {
+            "docid": "8643335_15",
+            "document": "Piwi-interacting RNA . The wide variation in piRNA sequences and piwi function over species contributes to the difficulty in establishing the functionality of piRNAs. However, like other small RNAs, piRNAs are thought to be involved in gene silencing, specifically the silencing of transposons. The majority of piRNAs are antisense to transposon sequences, suggesting that transposons are the piRNA target. In mammals it appears that the activity of piRNAs in transposon silencing is most important during the development of the embryo, and in both \"C. elegans\" and humans, piRNAs are necessary for spermatogenesis.",
+            "score": 182.13818836212158
+        },
+        {
+            "docid": "8643335_8",
+            "document": "Piwi-interacting RNA . The biogenesis of piRNAs is not yet fully understood, although possible mechanisms have been proposed. piRNAs show a significant strand bias, that is, they are derived from one strand of DNA only, and this may indicate that they are the product of long single stranded precursor molecules. A primary processing pathway is suggested to be the only pathway used to produce pachytene piRNAs; in this mechanism, piRNA precursors are transcribed resulting in piRNAs with a tendency to target 5\u2019 uridines. Also proposed is a \u2018Ping Pong\u2019 mechanism wherein primary piRNAs recognise their complementary targets and cause the recruitment of piwi proteins. This results in the cleavage of the transcript at a point ten nucleotides from the 5\u2019 end of the primary piRNA, producing the secondary piRNA. These secondary piRNAs are targeted toward sequences that possess an adenine at the tenth position. Since the piRNA involved in the ping pong cycle directs its attacks on transposon transcripts, the ping pong cycle acts only at the level of transcription. One or both of these mechanisms may be acting in different species; \"C. elegans\", for instance, does have piRNAs, but does not appear to use the ping pong mechanism at all.",
+            "score": 173.3069131374359
+        },
+        {
+            "docid": "769409_7",
+            "document": "Sin Nombre virus . The entire genomic sequence of SNV has subsequently been determined by using RNA extracted from autopsy material as well as RNA extracted from cell culture-adapted virus. The L RNA is 6562 nucleotides (nt) in length; the M RNA is 3696 nt long; and the S RNA is 2059 to 2060 nt long. When the prototype sequence (NMH15) of SNV detected in tissues from an HPS case was compared with the sequence of the SNV isolate (NMR11; isolated in Vero E6 cells from \"Peromyscus maniculatus\" trapped in the residence of the same case), only 16 nucleotide changes were found, and none of these changes resulted in alterations in amino acid sequences of viral proteins. It had been assumed that in the process of adaptation to cell culture, selection of SNV variants which grow optimally in cell culture would occur, and selected variants would differ genetically from the parental virus. Though NMH10 and NMR11 are identical in protein sequence, nucleotide substitutions in nontranslated regions of the genome could be responsible for altered viral phenotypes, as could changes in protein glycosylation or virus membrane components.",
+            "score": 54.91685175895691
+        },
+        {
+            "docid": "57546_29",
+            "document": "Caenorhabditis elegans . RNA interference (RNAi) is a relatively straightforward method of disrupting the function of specific genes. Silencing the function of a gene can sometimes allow a researcher to infer its possible function(s). The nematode can be soaked in, injected with, or fed with genetically transformed bacteria that express the double-stranded RNA of interest, the sequence of which complements the sequence of the gene that the researcher wishes to disable. RNAi has emerged as a powerful tool in the study of functional genomics. In \"C. elegans\", it has been used to analyse gene functions and the report claims the promise of future findings in the systematic genetic interactions.",
+            "score": 88.30612850189209
+        },
+        {
+            "docid": "55694123_4",
+            "document": "Avian paramyxovirus 2 . Avian paramyxovirus 2 has a negative-sense RNA genome that upon entry into the cell, must be transcribed into a positive-sense mRNA in order to produce viral proteins and to replicate the genome. It has been hypothesized by electron microscopy, that the genome assumes a left-handed helical structure. The genome size of an isolated Yucaipa strain, isolated from chickens in Yucaipa, California in 1956, is 14,904 nucleotides long and contains a leader sequence of 55 nucleotides at the 3' end and a trailer sequence of 154 nt at the 5'end. However, other isolated strains of avian paramyxovirus 2 have been isolated that contain genomes of similar, but different, lengths. Avian paramyxovirus 2 is one of the smallest in the \"Paramyxoviridae\" family. The genome encodes six viral proteins that are separated from each other via intergenic regions that are between 3-23 nucleotides long. The six viral genes are surrounded by regions of transcription stop and start signals that aid in transcription of the genome and production of subgenomic RNAs. The viral genomes of most paramyxovirus serotypes encode genes for a nucleocapsid protein (N), a phosphoprotein (P), a matrix protein (M), a fusion protein (F), a hemagglutinin-neuraminidase (Hn) protein and a large polymerase protein (L).",
+            "score": 57.9081346988678
+        },
+        {
+            "docid": "446223_8",
+            "document": "Gene knockdown . A different means of silencing exogenous DNA that has been discovered in prokaryotes is a mechanism involving loci called 'Clustered Regularly Interspaced Short Palindromic Repeats', or CRISPRs. Proteins called 'CRISPR-associated genes' (cas genes) encode cellular machinery that cuts exogenous DNA into small fragments and inserts them into a CRISPR repeat locus. When this CRISPR region of DNA is expressed by the cell, the small RNAs produced from the exogenous DNA inserts serve as a template sequence that other Cas proteins use to silence this same exogenous sequence. The transcripts of the short exogenous sequences are used as a guide to silence these foreign DNA when they are present in the cell. This serves as a kind of acquired immunity, and this process is like a prokaryotic RNA interference mechanism. The CRISPR repeats are conserved amongst many species and have been demonstrated to be usable in human cells, bacteria, \"C. elegans\", zebrafish, and other organisms for effective genome manipulation. The use of CRISPRs as a versatile research tool can be illustrated by many studies making use of it to generate organisms with genome alterations.",
+            "score": 88.63269853591919
+        },
+        {
+            "docid": "198520_11",
+            "document": "Paramyxoviridae . Gene sequence within the genome is conserved across the family due to a phenomenon known as transcriptional polarity (see \"Mononegavirales\") in which genes closest to the 3\u2019 end of the genome are transcribed in greater abundance than those towards the 5\u2019 end. This is a result of structure of the genome. After each gene is transcribed, the RNA-Dependent RNA polymerase pauses to release the new mRNA when it encounters an intergenic sequence. When the RNA polymerase is paused, there is a chance that it will dissociate from the RNA genome. If it dissociates, it must reenter the genome at the leader sequence, rather than continuing to transcribe the length of the genome. The result is that the further downstream genes are from the leader sequence, the less they will be transcribed by RNA polymerase.",
+            "score": 69.30878567695618
+        },
+        {
+            "docid": "34678913_3",
+            "document": "\u0391r7 RNA . Smr7C sRNA was described by del Val et al. in the intergenic regions (IGRs) of the reference \"S. meliloti\" 1021 strain (Sinorhizobium meliloti 1021). Northern hybridization experiments detected two RNA species expressed from the \"smr7C\" locus, which accumulated differentially in free-living and endosymbiotic bacteria. TAP-based 5\u2019-RACE experiments mapped the transcription start site (TSS) to two close G residues. From the six independent sequences obtained, five mapped to residue 201,681 in the chromosome and one to the upstream residue 201,679. Furthermore, an additional 5\u2032-RACE product could be obtained from this transcript in both TAP- and mock-treated RNA samples. The sequence of this second RACE product mapped the processing site of Smr7C to residue 201,723 nt in the \"S. meliloti\" 1021 genome. The 3\u2019-end was assumed to be located at the 201,828 nt position matching the last residue of the consecutive stretch of Us of a bona fide Rho-independent terminator. Parallel and later studies in which Smr7C transcript is referred to as sra03 or Sm13, independently confirmed the expression this sRNA in \"S. melilloti\" and in its closely related strain 2011. Recent deep sequencing-based characterization of the small RNA fraction (50-350 nt) of \"S. meliloti\" 2021 further also confirmed the expression of Smr7C (here referred to as SmelC023), and mapped the 5\u2019- end of the full-length transcript to the same position in the \"S. meliloti\" 1021 genome, and the 3' end to position 201,825.",
+            "score": 73.39462924003601
+        },
+        {
+            "docid": "55694123_6",
+            "document": "Avian paramyxovirus 2 . Paramyxoviruses only encode one RNA polymerase and it is believed that replication takes place in the cytoplasm of the cell, with no involvement or entry into the host cell nucleus. Little is understood as to how the polymerase assists in both viral replication and transcription and how these processes can be regulated. The encoded polymerase consists of two proteins, a large subunit responsible for RNA synthesis and capping, and the encoded protein phosphoprotein (P) which acts as a cofactor. As described, the viral genome includes intergenic regions between the viral genes with specific start and stop signals. The polymerase recognizes these cis-acting elements within the viral genome and initiates transcription. Transcription first begins at the 3' end of the genome at a 40-55 nucleotide long promoter region. The polymerase produces subgenomic RNAs by transcribing each gene, releasing the produced RNA and then locating the next gene for transcription by the cis-acting elements present in the genome. The signal at which the polymerase releases the transcribed RNA of a single gene is believed to contain a Poly U tract, leading to the capping of a poly(A) tail to the transcribed RNA. In contrast to producing viral mRNA for viral protein synthesis, when replicating the viral genome, the polymerase does not start and stop at the indicated cis-acting elements between each gene. Instead, the polymerase elongates the RNA along the entire length of the genome. Described above is one model for the hypothesized viral replication and protein production of paramyxoviruses, however, other models exist that suggest the polymerase initiates replication and transcription at different areas in the genome.",
+            "score": 58.674936175346375
+        },
+        {
+            "docid": "11290659_6",
+            "document": "Leadzyme . Toxic metals like lead are environmental and health hazards and can enter biological systems upon exposure. Lead is a persistent metal and can accumulate in human body over time due to its frequent usage in industries and presence in our environment. Inhalation of lead can have effects that can be range from subtle symptoms to serious illnesses. It is possible that presence of lead in our biological systems can induce catalysis by lead ions. Since leadzyme is a relatively simple motif i.e., it has a simple fold, it appears that there are many sequences in the genomes of many natural systems which can potentially fold into a leadzyme structure. A simple search for this RNA motif in the genomes of humans, \"Drosophila melanogaster\", \"Caenorhabditis elegans\" and \"Arabidopsis thaliana\" revealed that on average this motif is present with the frequency of 2-9 motifs for 1 Mbp of DNA sequence. They also showed that leadzyme motif is very common in the mRNA sequences of these organisms as well. Thus, these sequences could potentially self-cleave in the presence of lead ions. The targeting of these RNA motifs by lead in mRNAs and other RNAs may explain lead-mediated toxicity resulting in cell death.",
+            "score": 105.05990707874298
+        },
+        {
+            "docid": "18771661_14",
+            "document": "Knockout rat . Transposons and retrotransposons are valuable tools for unbiased gene discovery as mobile pieces of DNA used for gene disruption. Retrotransposons, such as LINEs (long interspersed nuclear elements), mobilize via a \u201ccopy and paste\u201d mechanism and are abundant in many eukaryotic species. Several L1 retrotransposons have remained active in mice and humans. L1s contain a small internal promoter within a 5\u2019 untranslated region to drive expression, two open reading frames (ORFs), and a 3\u2019 untranslated region containing sequences for polyadenylation. The two ORFs encode proteins necessary for autonomous retrotransposition; ORF1 encodes an RNA-binding protein while ORF2 encodes a protein containing endonuclease (EN) and reverse transcriptase (RT) activity, which nick a site in DNA, then produce a copy via RT. These proteins exhibit an overwhelming specificity for binding to and acting on the transcript that encodes them, enabling near exclusive mobilization of the parental L1 RNA. Using the RT activity of the ORF2 protein, the transcribed L1 RNA is copied into DNA by a process termed target primed reverse transcription (TPRT), and integrated into the genome. Integration occurs with little bias for any particular genomic region, requiring a simple consensus sequence, 5\u2019TTTT\u2019A-3\u2019 (along with minor variations of this sequence). Integrated L1 sequences are often truncated at the 5\u2019 end, with an average total size of 1 Kb, many containing only 3\u2019 terminal sequences.",
+            "score": 70.61375737190247
+        },
+        {
+            "docid": "7955_46",
+            "document": "DNA . In many species, only a small fraction of the total sequence of the genome encodes protein. For example, only about 1.5% of the human genome consists of protein-coding exons, with over 50% of human DNA consisting of non-coding repetitive sequences. The reasons for the presence of so much noncoding DNA in eukaryotic genomes and the extraordinary differences in genome size, or \"C-value\", among species, represent a long-standing puzzle known as the \"C-value enigma\". However, some DNA sequences that do not code protein may still encode functional non-coding RNA molecules, which are involved in the regulation of gene expression. Some noncoding DNA sequences play structural roles in chromosomes. Telomeres and centromeres typically contain few genes but are important for the function and stability of chromosomes. An abundant form of noncoding DNA in humans are pseudogenes, which are copies of genes that have been disabled by mutation. These sequences are usually just molecular fossils, although they can occasionally serve as raw genetic material for the creation of new genes through the process of gene duplication and divergence.",
+            "score": 81.6130850315094
+        },
+        {
+            "docid": "7955_44",
+            "document": "DNA . DNA usually occurs as linear chromosomes in eukaryotes, and circular chromosomes in prokaryotes. The set of chromosomes in a cell makes up its genome; the human genome has approximately 3 billion base pairs of DNA arranged into 46 chromosomes. The information carried by DNA is held in the sequence of pieces of DNA called genes. Transmission of genetic information in genes is achieved via complementary base pairing. For example, in transcription, when a cell uses the information in a gene, the DNA sequence is copied into a complementary RNA sequence through the attraction between the DNA and the correct RNA nucleotides. Usually, this RNA copy is then used to make a matching protein sequence in a process called translation, which depends on the same interaction between RNA nucleotides. In alternative fashion, a cell may simply copy its genetic information in a process called DNA replication. The details of these functions are covered in other articles; here the focus is on the interactions between DNA and other molecules that mediate the function of the genome.",
+            "score": 53.82995688915253
+        },
+        {
+            "docid": "956493_3",
+            "document": "Rabies virus . The rabies virus has a cylindrical morphology and is the type species of the \"Lyssavirus\" genus of the \"Rhabdoviridae\" family. These viruses are enveloped and have a single stranded RNA genome with negative-sense. The genetic information is packaged as a ribonucleoprotein complex in which RNA is tightly bound by the viral nucleoprotein. The RNA genome of the virus encodes five genes whose order is highly conserved. These genes code for nucleoprotein (N), phosphoprotein (P), matrix protein (M), glycoprotein (G) and the viral RNA polymerase (L). The complete genome sequences range from 11,615 to 11,966 nt in length.",
+            "score": 49.4075049161911
+        },
+        {
+            "docid": "9516673_6",
+            "document": "RNA activation . In C. elegans, Argonaute CSR-1 interacts with 22G small RNAs derived from RNA-dependent RNA polymerase and antisense to germline-expressed transcripts to protect these mRNAs from Piwi-piRNA mediated silencing via promoting epigenetic activation. In C. elegans hypodermal seam cells, the transcription of lin-4 miRNA is positively regulated by lin-4 itself which binds to a conserved lin-4 complementary element in its promoter, constituting a positive autoregulatory loop.",
+            "score": 169.22193217277527
+        },
+        {
+            "docid": "34678940_3",
+            "document": "\u0391r14 RNA . Smr14C2 sRNA was described by del Val et al., as a result of a computational comparative genomic approach consisting in the integration of complementary strategies, designed to search for novel sRNA-encoding genes in the intergenic regions (IGRs) of the reference \"S. meliloti\" 1021 strain (http://iant.toulouse.inra.fr/bacteria/annotation/cgi/rhime.cgi) . Northern hybridization experiments confirmed that the predicted \"smr14C2\" locus did express a single transcript of the expected size, which accumulated differentially in free-living and endosymbiotic bacteria. TAP-based 5\u2019-RACE experiments mapped the transcription start site (TSS) of the full-length Smr14C transcript to the 1,667,613 nt position in the S. meliloti 1021 genome (http://iant.toulouse.inra.fr/bacteria/annotation/cgi/rhime.cgi) whereas the 3\u2019-end was assumed to be located at the 1,667,491 nt position matching the last residue of the consecutive stretch of Us of a bona fide Rho-independent terminator (Figure 5). Parallel and later studies in which Smr14C2 transcript is referred to as sra38 or Sm7', independently confirmed the expression this sRNA in \"S. melilloti\" and in its closely related strain 2011. Recent deep sequencing-based characterization of the small RNA fraction (50-350 nt) of \"S. meliloti\" 2011 further confirmed the expression of Smr14C2 (here referred to as SmelC397), and mapped the 5\u2019- and 3\u00b4-ends of the full-length transcript to the same position in the \"S. meliloti\" 1021 genome.",
+            "score": 76.80611288547516
+        },
+        {
+            "docid": "16018002_3",
+            "document": "Trans-Spliced Exon Coupled RNA End Determination . Spliced leader sequences are short sequences of non coding RNA, not found within a gene itself, that are attached to the 5\u2019 end of all, or a portion of, mRNAs transcribed in an organism. They have been found in several species to be responsible for separating polycistronic transcripts into single gene mRNAs, and in others to splice onto monocistronic transcripts. The major role of trans-splicing on monocistronic transcripts is largely unknown. It has been proposed that they may act as an independent promoter that aids in tissue specific expression of independent protein isoforms. Spliced leaders have been seen in trypanosomatids, Euglena, flatworms, Caenorhabditis. Some species contain only one spliced leader sequence found on all mRNAs. In C. elegans two are seen and are labeled SL1 and SL2.",
+            "score": 73.62063455581665
+        },
+        {
+            "docid": "1582612_9",
+            "document": "Arenavirus . The extreme termini of each RNA segment contains a 19 nucleotide highly conserved sequence that is critical for recruitment of the viral replication machinery and initiation of viral mRNA transcription and genomic replication. The conserved 5' and 3' RNA termini sequences are complementary and allows each RNA segment to adopt a double-stranded RNA panhandle structure that maintains the termini in close proximity and results in a circular appearance to purified arenavirus genomic templates visualized by electron microscopy. The double-stranded RNA panhandle structure is critical for efficient viral RNA synthesis, but potential intertermini double-stranded RNA interactions must be transiently relieved in order to recruit the viral polymerase.",
+            "score": 57.742414474487305
+        },
+        {
+            "docid": "196498_3",
+            "document": "Small RNA . Small RNA can be selected by MicroRNA sequencing, a technique that selects small RNA molecules, then sequences those of 21\u201325 bp size. The first analysis of small RNAs using miRNA-seq methods examined approximately 1.4 million small RNAs from the model plant \"Arabidopsis thaliana\" using Lynx Therapeutics' Massively Parallel Signature Sequencing (MPSS) sequencing platform. This study demonstrated the potential of novel, high-throughput sequencing technologies for the study of small RNAs, and it showed that genomes generate large numbers of small RNAs with plants as particularly rich sources of small RNAs. Later studies used other sequencing technologies, such as a study in \"C. elegans\" which identified 18 novel miRNA genes as well as a new class of nematode small RNAs termed 21U-RNAs. Another study comparing small RNA profiles of human cervical tumours and normal tissue, utilized the Illumina (company) Genome Analyzer to identify 64 novel human miRNA genes as well as 67 differentially expressed miRNAs. Applied Biosystems SOLiD sequencing platform has also been used to examine the prognostic value of miRNAs in detecting human breast cancer. Small RNA is useful for certain kinds of study because its molecules \"do not need to be fragmented prior to library preparation\".",
+            "score": 82.00017619132996
+        },
+        {
+            "docid": "1053858_2",
+            "document": "Functional genomics . Functional genomics is a field of molecular biology that attempts to make use of the vast wealth of data given by genomic and transcriptomic projects (such as genome sequencing projects and RNA sequencing) to describe gene (and protein) functions and interactions. Unlike structural genomics, functional genomics focuses on the dynamic aspects such as gene transcription, translation, regulation of gene expression and protein\u2013protein interactions, as opposed to the static aspects of the genomic information such as DNA sequence or structures. Functional genomics attempts to answer questions about the function of DNA at the levels of genes, RNA transcripts, and protein products. A key characteristic of functional genomics studies is their genome-wide approach to these questions, generally involving high-throughput methods rather than a more traditional \u201cgene-by-gene\u201d approach. The goal of functional genomics is to understand the function of larger numbers of genes or proteins, eventually all components of a genome. A more long-term goal is to understand the relationship between an organism's genome and its phenotype. The term functional genomics is often used broadly to refer to the many technical approaches to study an organism's genes and proteins, including the \"biochemical, cellular, and/or physiological properties of each and every gene product\" while some authors include the study of nongenic elements in his definition. Functional genomics may also include studies of natural genetic variation over time (such as an organism's development) or space (such as its body regions), as well as functional disruptions such as mutations.",
+            "score": 80.42628383636475
+        },
+        {
+            "docid": "57096001_2",
+            "document": "Hsa-piR-1082 . piwi-interacting RNA (piRNA) belongs to the small RNA class found in eukaryotic organisms, their major role is to regulate the expression of genes by the mRNA degradation or silencing . After the association with argonaute protein family, these short RNA guide the RNA-induced silencing complex (RISC) to their target by sequence complementarity . piRNAs have approximately from 26 to 31 nucleotides and are found in almost all metazoans.",
+            "score": 146.5061810016632
+        },
+        {
+            "docid": "55667699_4",
+            "document": "Feline morbillivirus . This virus has a spherical shape with an enveloped capsid and is approximately 150\u00a0nm in diameter. The capsid is covered by fusion and hemagglutinin proteins. Inside the capsid exists the negative-sense RNA genome, which is covered by nucleoproteins and matrix proteins, as well as a polymerase and phosphoprotein toward the end of the genetic material. The genome itself is arranged in a linear pattern and is about 15-16kb in length. It is known as the largest of all \"morbilliviruses\" due to its makeup of 16,050 base pairs. Guanine and cytosine pairings make up a considerable portion of the viral genome, ranging from 35.1% to 35.3%, in comparison to adenine and thymine. \"Morbilliviruses\" have a 3\u2019 leader sequence and a 5\u2019 trailer sequence typically made up of 40 or 41 nt. \"Feline morbillivirus\", however, breaks the typical 5\u2019 trailer sequence rule and has an unusually long sequence of 400 nt. The genome encodes for eight different proteins: N, C, P, V, M, F, H, and L. The L protein, also called large protein, is involved in ATP binding, RNA polymerase activity and mRNA methyltransferase activity. Thus, it is a multifunctional enzyme. The N gene exhibits the greatest incidence of nucleotide polymorphism, while P protein has the highest incidence of amino acid polymorphism.",
+            "score": 53.138418555259705
+        },
+        {
+            "docid": "34932939_4",
+            "document": "MicroRNA sequencing . MicroRNA sequencing (miRNA-seq) was developed to take advantage of next-generation sequencing or massively parallel high-throughput sequencing technologies in order to find novel miRNAs and their expression profiles in a given sample. miRNA sequencing in and of itself is not a new idea, initial methods of sequencing utilized Sanger sequencing methods. Sequencing preparation involved creating libraries by cloning of DNA reverse transcribed from endogenous small RNAs of 21\u201325 bp size selected by column and gel electrophoresis. However, this method is exhaustive in terms of time and resources, as each clone has to be individually amplified and prepared for sequencing. This method also inadvertently favors miRNAs that are highly expressed. Next-generation sequencing eliminates the need for sequence specific hybridization probes required in DNA microarray analysis as well as laborious cloning methods required in the Sanger sequencing method. Additionally, next-generation sequencing platforms in the miRNA-SEQ method facilitate the sequencing of large pools of small RNAs in a single sequencing run. miRNA-seq can be performed using a variety of sequencing platforms. The first analysis of small RNAs using miRNA-seq methods examined approximately 1.4 million small RNAs from the model plant \"Arabidopsis thaliana\" using Lynx Therapeutics' Massively Parallel Signature Sequencing (MPSS) sequencing platform. This study demonstrated the potential of novel, high-throughput sequencing technologies for the study of small RNAs, and it showed that genomes generate large numbers of small RNAs with plants as particularly rich sources of small RNAs. Later studies used other sequencing technologies, such as a study in \"C. elegans\" which identified 18 novel miRNA genes as well as a new class of nematode small RNAs termed 21U-RNAs. Another study comparing small RNA profiles of human cervical tumours and normal tissue, utilized the Illumina (company) Genome Analyzer to identify 64 novel human miRNA genes as well as 67 differentially expressed miRNAs. Applied Biosystems SOLiD sequencing platform has also been used to examine the prognostic value of miRNAs in detecting human breast cancer.",
+            "score": 84.82451045513153
+        },
+        {
+            "docid": "37879288_3",
+            "document": "Transposon silencing . Piwi-interacting RNA (piRNA), the largest class of the small RNAs, are between 26 and 31 nucleotides in length and function through interactions with piwi proteins from the Argonaute protein family (gene silencing proteins). Many piRNAs are derived from transposons and other repeated elements, and therefore lack specific loci. Other piRNAs that do map to specific locations are clustered in areas near the centromeres or telomeres of the chromosome. piRNA clusters make up ~1% of the genome (Khurana, 4).",
+            "score": 153.82756519317627
+        },
+        {
+            "docid": "11420921_11",
+            "document": "Hepatitis delta virus ribozyme . The second permissive structure enables the HDV ribozyme to self-cleave co-transcriptionally and this structure further includes the -54/-18 nt portion of the RNA transcript. The upstream inhibitory -24/-15 stretch from the aforementioned inhibitory conformation is now sequestered in a hairpin P(-1) located upstream of the cleavage site. The P(-1) motif, however, is only found in the genomic sequence, which may be correlated with the phenomenon that genomic HDV RNA copies are more abundant in the infected liver cells. Experimental evidence also supports this alternative structure. First, structural mapping via ribonuclease is used to probe the -54/-1 fragment instead of the whole precursor transcript due to the fast-cleaving nature of this structure, which agrees with the local hairpin P(-1) (between -54/-40 and -18/-30 nt). Secondly, evolutionary conservation is found in P(-1) and the linking region between P(-1) and P1 among 21 genomic HDV RNA isolates.",
+            "score": 83.80765378475189
+        },
+        {
+            "docid": "32513_14",
+            "document": "Viroid . There has long been uncertainty over how viroids induce symptoms in plants without encoding any protein products within their sequences. Evidence suggests that RNA silencing is involved in the process. First, changes to the viroid genome can dramatically alter its virulence. This reflects the fact that any siRNAs produced would have less complementary base pairing with target messenger RNA. Secondly, siRNAs corresponding to sequences from viroid genomes have been isolated from infected plants. Finally, transgenic expression of the noninfectious hpRNA of potato spindle tuber viroid develops all the corresponding viroid-like symptoms. This indicates that when viroids replicate via a double stranded intermediate RNA, they are targeted by a dicer enzyme and cleaved into siRNAs that are then loaded onto the RNA-induced silencing complex. The viroid siRNAs contain sequences capable of complementary base pairing with the plant's own messenger RNAs, and induction of degradation or inhibition of translation causes the classic viroid symptoms.",
+            "score": 67.38727760314941
+        },
+        {
+            "docid": "22095859_2",
+            "document": "Exome . The exome is the part of the genome composed of exons, the sequences which, when transcribed, remain within the mature RNA after introns are removed by RNA splicing and contribute to the final protein product encoded by that gene. It consists of all DNA that is transcribed into mature RNA in cells of any type, as distinct from the transcriptome, which is the RNA that has been transcribed only in a specific cell population. The exome of the human genome consists of roughly 180,000 exons constituting about 1% of the total genome, or about 30 megabases of DNA. Though composing a very small fraction of the genome, mutations in the exome are thought to harbor 85% of mutations that have a large effect on disease. Exome sequencing has proved to be an efficient strategy to determine the genetic basis of more than two dozen Mendelian or single gene disorders.",
+            "score": 52.12142825126648
+        },
+        {
+            "docid": "21673918_3",
+            "document": "Bacterial one-hybrid system . Across all living organisms, regulation of gene expression is controlled by interactions between DNA-binding regulatory proteins (transcription factors) and cis-regulatory elements, DNA sequences in or around genes that act as target sites for DNA-binding proteins. By binding to cis-regulatory sequences and to each other, transcription factors fine-tune transcriptional levels by stabilizing/destabilizing binding of RNA polymerase to a gene's promoter. But despite their importance and ubiquity, little is known about where exactly each of these regulatory proteins binds. Literature suggests that nearly 8% of human genes encode transcription factors and the functions and specificities of their interactions remain largely unexplored. We are on the brink of a convergence of high-throughput technologies and genomic theory that is allowing researchers to start mapping these interactions on a genome-wide scale. Only recently has a complete survey of DNA-binding specificities been attempted for a large family of DNA-binding domains. B1H is just one emerging technique among many that is useful for studying protein\u2013DNA interactions.",
+            "score": 79.83035063743591
+        }
+    ],
+    "r": [
+        {
+            "docid": "8643335_4",
+            "document": "Piwi-interacting RNA . piRNAs have been identified in both vertebrates and invertebrates, and although biogenesis and modes of action do vary somewhat between species, a number of features are conserved. piRNAs have no clear secondary structure motifs, the length of a piRNA is, by definition, between 26 and 31 nucleotides, and the bias for a 5\u2019 uridine is common to piRNAs in both vertebrates and invertebrates. piRNAs in \"Caenorhabditis elegans\" have a 5\u2019 monophosphate and a 3\u2019 modification that acts to block either the 2\u2019 or 3\u2019 oxygen, and this has also been confirmed to exist in \"Drosophila melanogaster\", zebrafish, mice and rats. This 3\u2019 modification is a 2\u2019-O-methylation; the reason for this modification is not clear, but it has been suggested to increase piRNA stability.  It is thought that there are many hundreds of thousands of different piRNA species found in mammals. Thus far, over 50,000 unique piRNA sequences have been discovered in mice and more than 13,000 in \"D. melanogaster\".",
+            "score": 187.23764038085938
+        },
+        {
+            "docid": "9418169_10",
+            "document": "Piwi . Recently, a novel class of longer-than-average miRNAs known as Piwi-interacting RNAs (piRNAs) has been defined in mammalian cells, about 26-31 nucleotides long as compared to the more typical miRNA or siRNA of about 21 nucleotides. These piRNAs are expressed mainly in spermatogenic cells in the testes of mammals. However recent studies have reported that piRNA expression can be found in the ovarian somatic cells and neuron cells in invertebrates, as well as in many other mammalian somatic cells. piRNAs have been identified in the genomes of mice, rats, and humans, with an unusual \"clustered\" genomic organization that may originate from repetitive regions of the genome such as retrotransposons or regions normally organized into heterochromatin, and which are normally derived exclusively from the antisense strand of double-stranded RNA. piRNAs have thus been classified as \"repeat-associated small interfering RNAs\" (rasiRNAs). Although their biogenesis is not yet well understood, piRNAs and Piwi proteins are thought to form an endogenous system for silencing the expression of selfish genetic elements such as retrotransposons and thus preventing the gene products of such sequences from interfering with germ cell formation.",
+            "score": 185.0370635986328
+        },
+        {
+            "docid": "8643335_5",
+            "document": "Piwi-interacting RNA . piRNAs are found in clusters throughout the genome; these clusters may contain as few as ten or up to many thousands of piRNAs and can vary in size from one to one hundred kb. The detection and annotation of piRNA clusters in genomes based on bioinformatic methods became more and more sophisticated during the past years. While the clustering of piRNAs is highly conserved across species, the sequences are not. While \"D. melanogaster\" and vertebrate piRNAs have been located in areas lacking any protein coding genes, piRNAs in \"C. elegans\" have been identified amidst protein coding genes.",
+            "score": 184.2041473388672
+        },
+        {
+            "docid": "8643335_15",
+            "document": "Piwi-interacting RNA . The wide variation in piRNA sequences and piwi function over species contributes to the difficulty in establishing the functionality of piRNAs. However, like other small RNAs, piRNAs are thought to be involved in gene silencing, specifically the silencing of transposons. The majority of piRNAs are antisense to transposon sequences, suggesting that transposons are the piRNA target. In mammals it appears that the activity of piRNAs in transposon silencing is most important during the development of the embryo, and in both \"C. elegans\" and humans, piRNAs are necessary for spermatogenesis.",
+            "score": 182.13818359375
+        },
+        {
+            "docid": "9418169_7",
+            "document": "Piwi . PIWI proteins play a crucial role in fertility and germline development across animals and ciliates. Recently identified as a polar granule component, PIWI proteins appear to control germ cell formation so much so that in the absence of PIWI proteins there is a significant decrease in germ cell formation. Similar observations were made with the mouse homologs of PIWI, MILI, MIWI and MIWI2. These homologs are known to be present in spermatogenesis. Miwi is expressed in various stages of spermatocyte formation and spermatid elongation where Miwi2 is expressed in Sertoli cells. Mice deficient in either Mili or Miwi-2 have experienced spermatogenic stem cell arrest and those lacking Miwi-2 underwent a degradation of spermatogonia. The effects of piwi proteins in human and mouse germlines seems to stem from their involvement in translation control as Piwi and the small noncoding RNA, piwi-interacting RNA (piRNA), have been known to co-fractionate polysomes. The piwi-piRNA pathway also induces heterochromatin formation at centromeres, thus affecting transcription. The piwi-piRNA pathway also appears to protect the genome. First observed in Drosophila, mutant piwi-piRNA pathways led to a direct increase in dsDNA breaks in ovarian germ cells. The role of the piwi-piRNA pathway in transposon silencing may be responsible for the reduction in dsDNA breaks in germ cells.",
+            "score": 174.74072265625
+        },
+        {
+            "docid": "8643335_8",
+            "document": "Piwi-interacting RNA . The biogenesis of piRNAs is not yet fully understood, although possible mechanisms have been proposed. piRNAs show a significant strand bias, that is, they are derived from one strand of DNA only, and this may indicate that they are the product of long single stranded precursor molecules. A primary processing pathway is suggested to be the only pathway used to produce pachytene piRNAs; in this mechanism, piRNA precursors are transcribed resulting in piRNAs with a tendency to target 5\u2019 uridines. Also proposed is a \u2018Ping Pong\u2019 mechanism wherein primary piRNAs recognise their complementary targets and cause the recruitment of piwi proteins. This results in the cleavage of the transcript at a point ten nucleotides from the 5\u2019 end of the primary piRNA, producing the secondary piRNA. These secondary piRNAs are targeted toward sequences that possess an adenine at the tenth position. Since the piRNA involved in the ping pong cycle directs its attacks on transposon transcripts, the ping pong cycle acts only at the level of transcription. One or both of these mechanisms may be acting in different species; \"C. elegans\", for instance, does have piRNAs, but does not appear to use the ping pong mechanism at all.",
+            "score": 173.30691528320312
+        },
+        {
+            "docid": "9516673_6",
+            "document": "RNA activation . In C. elegans, Argonaute CSR-1 interacts with 22G small RNAs derived from RNA-dependent RNA polymerase and antisense to germline-expressed transcripts to protect these mRNAs from Piwi-piRNA mediated silencing via promoting epigenetic activation. In C. elegans hypodermal seam cells, the transcription of lin-4 miRNA is positively regulated by lin-4 itself which binds to a conserved lin-4 complementary element in its promoter, constituting a positive autoregulatory loop.",
+            "score": 169.22193908691406
+        },
+        {
+            "docid": "49968817_3",
+            "document": "Retrotransposon silencing . Piwi-interacting RNA (piRNA) and endogenous short interfering RNA (esiRNA) are small RNA fragments that partner with cleaving proteins to act as guides to a retrotransposon. piRNA and PIWI protein complexes are a common defense mechanism against retrotransposons in the germline\u2014sperm or egg cells\u2014cells that are extremely vulnerable to retrotransposon induced mutations. Once retrotransposon RNA has been encountered, the piRNA/ PIWI protein complex cleaves the RNA, rendering it unable to reverse transcribe. EsiRNA and its protein complex may also function to promote heterochromatin creation near retrotransposon sites, silencing the DNA by making it difficult for DNA polymerases to access it. Although it is unclear how piRNAs and esiRNAs are produced, it is thought that retrotransposon cleaving by PIWI may produce new piRNA, in the so called ping pong theory. Production of piRNA in both the male and female germline is known to be regulated by the nuage, a protein-RNA hybrid also sometimes called the intermitochondrial cement, the absence of which causes infertility in males but not females. This may imply that retrotransposon induced mutations may be more prevalent or more devastating in the male germline. A microRNA\u2014another type of small RNA\u2014from strawberries has been shown to post transcriptionally silence retrotransposon function by blocking the binding site for proteins involved in reverse transcription.",
+            "score": 168.71275329589844
+        },
+        {
+            "docid": "37879288_4",
+            "document": "Transposon silencing . piRNAs were first observed in Drosophila in 1990 (Johnson, 2). In 2003, piRNAs derived largely from repeated sequence elements, including transposons, were found in abundance in male and female \"Drosophila\" germlines (Theurkauf, 5). Since then, several studies have identified various piRNAs and piwi-pathways involved in transposon silencing in various species. Two such genome defense systems against transposons are the silencing of the MuDR transposon in maize and the silencing of P elements in \"Drosophila\".",
+            "score": 160.2709503173828
+        },
+        {
+            "docid": "8643335_14",
+            "document": "Piwi-interacting RNA . The \"Drosophila\" piRNA pathway can be separated into two branches: the cytoplasmic branch consisting of Aub and Ago3 operating the Ping-Pong mechanism, and the nuclear branch, pertaining to the co-transcriptional silencing of genomic loci by Piwi in the nucleus. Through complementary strategies, two studies show that Aub and Ago3 target cleavage triggers the 'phased' loading of piRNA into Piwi. Phasing begins with the targeting and cleavage of a complementary target by either Aub or Ago3 associated with a 'responder' piRNA. Once cleaved, the targeted transcript is then processed further by a mechanism believed to require the mitochondrial-associated endonuclease, Zucchini, which leads to the loading of Piwi protein with sequential fragments of the targeted transcript. In this way, the Aub or Ago3 'responder' piRNA sequence cleaves a complementary target that is then sliced at periodic intervals of approximately 27 nucleotides that are sequentially loaded into Piwi protein. Once loaded with piRNA, Piwi then enters the germ cell nucleus to co-transcriptionally silence nascent transcripts with complementarity to its piRNA guide. It is currently unknown whether phasing occurs in other organisms.",
+            "score": 156.4199981689453
+        },
+        {
+            "docid": "8643335_2",
+            "document": "Piwi-interacting RNA . Piwi-interacting RNA (piRNA) is the largest class of small non-coding RNA molecules expressed in animal cells. piRNAs form RNA-protein complexes through interactions with piwi proteins. These piRNA complexes have been linked to both epigenetic and post-transcriptional gene silencing of retrotransposons and other genetic elements in germ line cells, particularly those in spermatogenesis. They are distinct from microRNA (miRNA) in size (26\u201331 nt rather than 21\u201324 nt), lack of sequence conservation, and increased complexity.",
+            "score": 154.4187469482422
+        },
+        {
+            "docid": "8643335_16",
+            "document": "Piwi-interacting RNA . piRNA has a role in RNA silencing via the formation of an RNA-induced silencing complex (RISC). piRNAs interact with piwi proteins that are part of a family of proteins called the Argonautes. These are active in the testes of mammals and are required for germ-cell and stem-cell development in invertebrates. Three piwi subfamily proteins \u2013 MIWI, MIWI2 and MILI \u2013 have been found to be essential for spermatogenesis in mice. piRNAs direct the piwi proteins to their transposon targets. A decrease or absence of PIWI gene expression is correlated with an increased expression of transposons. Transposons have a high potential to cause deleterious effect on their host, and, in fact, mutations in piRNA pathways are found to reduce fertility in \"D. melanogaster\". Further, it is thought that piRNA and endogenous small interfering RNA (endo-siRNA) may have comparable and even redundant functionality in transposon control in mammalian oocytes.",
+            "score": 154.111572265625
+        },
+        {
+            "docid": "37879288_3",
+            "document": "Transposon silencing . Piwi-interacting RNA (piRNA), the largest class of the small RNAs, are between 26 and 31 nucleotides in length and function through interactions with piwi proteins from the Argonaute protein family (gene silencing proteins). Many piRNAs are derived from transposons and other repeated elements, and therefore lack specific loci. Other piRNAs that do map to specific locations are clustered in areas near the centromeres or telomeres of the chromosome. piRNA clusters make up ~1% of the genome (Khurana, 4).",
+            "score": 153.8275604248047
+        },
+        {
+            "docid": "8643335_11",
+            "document": "Piwi-interacting RNA . The piRNA Ping-Pong pathway was first proposed from studies in \"Drosophila\" where the piRNA associated with the two cytoplasmic Piwi proteins, Aubergine (Aub) and Argonaute-3 (Ago3) exhibited a high frequency of sequence complementarity over exactly 10 nucleotides at their 5' ends. This relationship is known as the \"ping-pong signature\" and is also observed in associated piRNA from Mili and Miwi2 proteins isolated from mouse testes. The proposed function of Ping-Pong in \"Drosophila\" or in mouse remains to be understood, but a leading hypothesis is that the interaction between Aub and Ago3 allows for a cyclic refinement of piRNA that are best suited to target active transposon sequences. Aub piRNA are primarily antisense to transposable element transcripts and are believed to be the main factor in targeting deleterious transcripts through complementarity. Conversely, Ago3 piRNA sequences are predominantly of sense orientation to transposable element transcripts and are derived from the product of Aub cleavage of transposon mRNA. As such, Ago3 piRNA lack the ability to target transposable element transcripts directly. Therefore, it was proposed that Ago3 piRNA guide the production of piRNA that are loaded into Aub by targeting newly exported piRNA cluster transcripts. Several lines of evidence support the effect of Ago3 on the production of Aub piRNA, in particular from examining the piRNA repertoire in \"Drosophila\" ovaries that are mutant for Ago3 and the Tudor-domain protein Kumo/Qin.",
+            "score": 152.38711547851562
+        },
+        {
+            "docid": "50105198_9",
+            "document": "Ruth Lehmann . Currently, Lehmann is studying piRNA production and the role it plays in preventing transposable element insertion and movement across the \"Drosophila\" genome. She discovered that biogenesis of piRNAs and activation of the piRNA pathway is directly dependent on a number of proteins and epigenetic interactions. These results indicate that piRNAs play a paramount role in maintaining genomic integrity while allowing for genetic variation to occur.",
+            "score": 150.4034881591797
+        },
+        {
+            "docid": "57096001_2",
+            "document": "Hsa-piR-1082 . piwi-interacting RNA (piRNA) belongs to the small RNA class found in eukaryotic organisms, their major role is to regulate the expression of genes by the mRNA degradation or silencing . After the association with argonaute protein family, these short RNA guide the RNA-induced silencing complex (RISC) to their target by sequence complementarity . piRNAs have approximately from 26 to 31 nucleotides and are found in almost all metazoans.",
+            "score": 146.5061798095703
+        },
+        {
+            "docid": "8643335_6",
+            "document": "Piwi-interacting RNA . In mammals, piRNAs are found both in testes and ovaries, although they only seem to be required in males. In invertebrates, piRNAs have been detected in both the male and female germlines.",
+            "score": 145.2659912109375
+        },
+        {
+            "docid": "9458068_17",
+            "document": "RNA silencing . piRNAs represent the largest class of small non-coding RNA molecules expressed in animal cells, deriving from a large variety of sources, including repetitive DNA and transposons. However, the biogenesis of piRNAs is also the least well understood. piRNAs appear to act both at the post-transcriptional and chromatin levels. They are distinct from miRNA due to at least an increase in terms of size and complexity. Repeat associated small interfering RNA (rasiRNAs) are considered to be a subspecies of piRNA.",
+            "score": 143.22567749023438
+        },
+        {
+            "docid": "8643335_22",
+            "document": "Piwi-interacting RNA . Major advances in the piRNA field have been achieved thanks to the use of next-generation sequencing techniques, such as Solexa, 454, and Illumina platform sequencing. These techniques allow analysis of highly complex and heterogeneous RNA populations like piRNAs. Due to their small size, expression and amplification of small RNAs can be challenging, so specialised PCR-based methods have been developed in response to this difficulty.",
+            "score": 139.6314239501953
+        },
+        {
+            "docid": "22413672_2",
+            "document": "Partition function for Interacting RNAs . Partition function for Interacting RNAs (piRNA) is a parallel C++ package to compute joint and individual partition functions for two RNA sequences. From the partition functions, piRNA computes equilibrium concentrations of single and double species, ensemble energy, melting temperatures, and base pair probabilities. piRNA is part of TaveRNA RNA software suite.",
+            "score": 139.48590087890625
+        },
+        {
+            "docid": "9418169_2",
+            "document": "Piwi . Piwi (or PIWI) genes were identified as regulatory proteins responsible for stem cell and germ cell differentiation. Piwi is an abbreviation of P-element Induced WImpy testis in \"Drosophila\". Piwi proteins are highly conserved RNA-binding proteins and are present in both plants and animals. Piwi proteins belong to the Argonaute/Piwi family and have been classified as nuclear proteins. Studies on \"Drosophila\" have also indicated that Piwi proteins have slicer activity conferred by the presence of the Piwi domain. In addition, Piwi associates with Heterochromatin protein 1, an epigenetic modifier, and piRNA-complementary sequences. These are indications of the role Piwi plays in epigenetic regulation. Piwi proteins are also thought to control the biogenesis of piRNA as many Piwi-like proteins contain slicer activity which would allow Piwi proteins to process precursor piRNA into mature piRNA.",
+            "score": 139.16331481933594
+        },
+        {
+            "docid": "196493_26",
+            "document": "Non-coding RNA . Piwi-interacting RNAs (piRNAs) expressed in mammalian testes and somatic cells form RNA-protein complexes with Piwi proteins. These piRNA complexes (piRCs) have been linked to transcriptional gene silencing of retrotransposons and other genetic elements in germ line cells, particularly those in spermatogenesis.",
+            "score": 133.9337158203125
+        },
+        {
+            "docid": "36499301_38",
+            "document": "Pirna 014 . Pirna 014 Pirna 014-C Pirna 016 Pirna 018 Pirna 020 Survivors known to exist:",
+            "score": 131.91119384765625
+        },
+        {
+            "docid": "33790172_2",
+            "document": "Pirna station . Pirna station is the largest railway station of the town Pirna in the German state of Saxony. The station is integrated into the network of the Dresden S-Bahn. It is also the starting point of a Regionalbahn service and a Regional-Express stop.",
+            "score": 129.85850524902344
+        },
+        {
+            "docid": "38978090_4",
+            "document": "Maelstrom gene . Short RNAs are well-known to silence TEs (transposable elements) through the RNAi (RNA interference) pathway, and Piwi-associated RNAs (piRNAs) play a crucial role in transposon silencing in the germline. The Maelstrom protein forms a complex with piRISC to silence transposons and therefore stabilize the germline cell genome.",
+            "score": 129.76004028320312
+        },
+        {
+            "docid": "57723648_3",
+            "document": "Gregory Hannon . Hannon is known for his contributions to small RNA biology, cancer biology, and mammalian genomics. He has a history in discovery of oncogenes, beginning with work that led to the identification of CDK inhibitors and their links to cancer. More recently, his work has focused on small RNA biology, which led to an understanding of the biochemical mechanisms and biological functions of RNA interference (RNAi). He has developed widely used tools and strategies for manipulation of gene expression in mammalian cells and animals and has generated genome-wide short hairpin RNA (shRNA) libraries that are available to the cancer community and was among the first to demonstrate roles for microRNAs in cancer. His laboratory also discovered the piwi-interacting RNA (piRNA) pathway and linked this to transposon repression and the protection of germ cell genomes. His innovations include the development of selective re-sequencing strategies, broadly termed exome capture.",
+            "score": 125.78028869628906
+        },
+        {
+            "docid": "8643335_18",
+            "document": "Piwi-interacting RNA . piRNAs can be transmitted maternally, and based on research in \"D. melanogaster\", piRNAs may be involved in maternally derived epigenetic effects. The activity of specific piRNAs in the epigenetic process also requires interactions between piwi proteins and HP1a, as well as other factors.",
+            "score": 124.92090606689453
+        },
+        {
+            "docid": "8643335_3",
+            "document": "Piwi-interacting RNA . It remains unclear how piRNAs are generated, but potential methods have been suggested, and it is certain their biogenesis pathway is distinct from miRNA and siRNA, while rasiRNAs are a piRNA subspecies.",
+            "score": 124.89981079101562
+        },
+        {
+            "docid": "9458068_2",
+            "document": "RNA silencing . RNA silencing or RNA interference refers to a family of gene silencing effects by which gene expression is negatively regulated by non-coding RNAs such as microRNAs. RNA silencing may also be defined as sequence-specific regulation of gene expression triggered by double-stranded RNA (dsRNA). RNA silencing mechanisms are highly conserved in most eukaryotes. The most common and well-studied example is RNA interference (RNAi), in which endogenously expressed microRNA (miRNA) or exogenously derived small interfering RNA (siRNA) induces the degradation of complementary messenger RNA. Other classes of small RNA have been identified, including piwi-interacting RNA (piRNA) and its subspecies repeat associated small interfering RNA (rasiRNA).",
+            "score": 123.15055847167969
+        },
+        {
+            "docid": "14625155_2",
+            "document": "RasiRNA . Repeat associated small interfering RNA (rasiRNA) is a class of small RNA that is involved in the RNA interference (RNAi) pathway. RasiRNA are in fact Piwi-interacting RNAs (piRNAs), which are small RNA molecules that interact with Piwi proteins. Piwi proteins are a clade of the Argonaute family of proteins. In the germline, RasiRNA is involved in establishing and maintaining heterochromatin structure, controlling transcripts that emerge from repeat sequences, and silencing transposons and retrotransposons.",
+            "score": 120.7239761352539
+        },
+        {
+            "docid": "8643335_7",
+            "document": "Piwi-interacting RNA . At the cellular level, piRNAs have been found within both nuclei and cytoplasm, suggesting that piRNA pathways may function in both of these areas and, therefore, may have multiple effects.",
+            "score": 120.50294494628906
+        },
+        {
+            "docid": "8643335_20",
+            "document": "Piwi-interacting RNA . Many factors required for the piRNA pathway in \"Drosophila\" contain Tudor domains that are known to bind symmetrically dimethylated arginine residues (sDMA) present in methylation motifs of Piwi proteins. Piwi proteins are symmetrically dimethylated by the PRMT5 methylosome complex, consisting of Valois (MEP50) and Capsul\u00e8en (dart5; PRMT5).",
+            "score": 119.86380004882812
+        }
+    ]
+}

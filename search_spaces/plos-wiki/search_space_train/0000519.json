@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "14662962_3",
+            "document": "ATP synthase subunit C . ATPases (or ATP synthases) are membrane-bound enzyme complexes/ion transporters that combine ATP synthesis and/or hydrolysis with the transport of protons across a membrane. ATPases can harness the energy from a proton gradient, using the flux of ions across the membrane via the ATPase proton channel to drive the synthesis of ATP. Some ATPases work in reverse, using the energy from the hydrolysis of ATP to create a proton gradient. There are different types of ATPases, which can differ in function (ATP synthesis and/or hydrolysis), structure (F-, V- and A-ATPases contain rotary motors) and in the type of ions they transport.",
+            "score": 222.11418223381042
+        },
+        {
+            "docid": "209455_30",
+            "document": "Thylakoid . The molecular mechanism of ATP (Adenosine triphosphate) generation in chloroplasts is similar to that in mitochondria and takes the required energy from the proton motive force (PMF). However, chloroplasts rely more on the chemical potential of the PMF to generate the potential energy required for ATP synthesis. The PMF is the sum of a proton chemical potential (given by the proton concentration gradient) and a transmembrane electrical potential (given by charge separation across the membrane). Compared to the inner membranes of mitochondria, which have a significantly higher membrane potential due to charge separation, thylakoid membranes lack a charge gradient. To compensate for this, the 10,000 fold proton concentration gradient across the thylakoid membrane is much higher compared to a 10 fold gradient across the inner membrane of mitochondria. The resulting chemiosmotic potential between the lumen and stroma is high enough to drive ATP synthesis using the ATP synthase. As the protons travel back down the gradient through channels in ATP synthase, ADP + P are combined into ATP. In this manner, the light-dependent reactions are coupled to the synthesis of ATP via the proton gradient.",
+            "score": 180.73055696487427
+        },
+        {
+            "docid": "92236_22",
+            "document": "Electron transport chain . According to the chemiosmotic coupling hypothesis, proposed by Nobel Prize in Chemistry winner Peter D. Mitchell, the electron transport chain and oxidative phosphorylation are coupled by a proton gradient across the inner mitochondrial membrane. The efflux of protons from the mitochondrial matrix creates an electrochemical gradient (proton gradient). This gradient is used by the FF ATP synthase complex to make ATP via oxidative phosphorylation. ATP synthase is sometimes described as \"Complex V\" of the electron transport chain. The F component of ATP synthase acts as an ion channel that provides for a proton flux back into the mitochondrial matrix. It is composed of a, b and c subunits. Protons in the inter-membranous space of mitochondria first enters the ATP synthase complex through \"a\" subunit channel. Then protons move to the c subunits. The number of c subunits it has determines how many protons it will require to make the F turn one full revolution. For example, in humans, there are 8 c subunits, thus 8 protons are required. After \"c\" subunits, protons finally enters matrix using \"a\" subunit channel that opens into the mitochondrial matrix. This reflux releases free energy produced during the generation of the oxidized forms of the electron carriers (NAD and Q). The free energy is used to drive ATP synthesis, catalyzed by the F component of the complex. <br> Coupling with oxidative phosphorylation is a key step for ATP production. However, in specific cases, uncoupling the two processes may be biologically useful. The uncoupling protein, thermogenin\u2014present in the inner mitochondrial membrane of brown adipose tissue\u2014provides for an alternative flow of protons back to the inner mitochondrial matrix. Thyroxine is also a natural uncoupler. This alternative flow results in thermogenesis rather than ATP production. Synthetic uncouplers (e.g., 2,4-dinitrophenol, 2,4-dinitrocresol, CCCP) also exist, and can be lethal at high doses.",
+            "score": 194.56989991664886
+        },
+        {
+            "docid": "14875994_2",
+            "document": "ATP synthase alpha/beta subunits . ATPases (or ATP synthases) are membrane-bound enzyme complexes/ion transporters that combine ATP synthesis and/or hydrolysis with the transport of protons across a membrane. ATPases can harness the energy from a proton gradient, using the flux of ions across the membrane via the ATPase proton channel to drive the synthesis of ATP.",
+            "score": 202.3206958770752
+        },
+        {
+            "docid": "144602_20",
+            "document": "Active transport . In secondary active transport, also known as \"coupled transport\" or \"cotransport\", energy is used to transport molecules across a membrane; however, in contrast to primary active transport, there is no direct coupling of ATP; instead it relies upon the electrochemical potential difference created by pumping ions in/out of the cell. Permitting one ion or molecule to move down an electrochemical gradient, but possibly against the concentration gradient where it is more concentrated to that where it is less concentrated increases entropy and can serve as a source of energy for metabolism (e.g. in ATP synthase). The energy derived from the pumping of protons across a cell membrane is frequently used as the energy source in secondary active transport. In humans, sodium (Na) is a commonly co-transported ion across the plasma membrane, whose electrochemical gradient is then used to power the active transport of a second ion or molecule against its gradient. In bacteria and small yeast cells, a commonly cotransported ion is hydrogen. Hydrogen pumps are also used to create an electrochemical gradient to carry out processes within cells such as in the electron transport chain, an important function of cellular respiration that happens in the mitochondrion of the cell.",
+            "score": 203.72160255908966
+        },
+        {
+            "docid": "15217736_5",
+            "document": "ATP5E . Mitochondrial membrane ATP synthase (FF ATP synthase or Complex V) produces ATP from ADP in the presence of a proton gradient across the membrane which is generated by electron transport complexes of the respiratory chain. F-type ATPases consist of two structural domains, F - containing the extramembraneous catalytic core, and F - containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F is coupled via a rotary mechanism of the central stalk subunits to proton translocation. Part of the complex F domain and of the central stalk which is part of the complex rotary element. Rotation of the central stalk against the surrounding alphabeta subunits leads to hydrolysis of ATP in three separate catalytic sites on the beta subunits (By similarity).",
+            "score": 178.61480951309204
+        },
+        {
+            "docid": "22773_8",
+            "document": "Oxidative phosphorylation . ATP synthase releases this stored energy by completing the circuit and allowing protons to flow down the electrochemical gradient, back to the N-side of the membrane. The electrochemical gradient drives the rotation of part of the enzyme's structure and couples this motion to the synthesis of ATP.",
+            "score": 150.08050060272217
+        },
+        {
+            "docid": "14763133_5",
+            "document": "ATP synthase, H+ transporting, mitochondrial F1 complex, alpha 1 . Mitochondrial membrane ATP synthase (FF ATP synthase or Complex V) produces ATP from ADP in the presence of a proton gradient across the membrane which is generated by electron transport complexes of the respiratory chain. F-type ATPases consist of two structural domains, F - containing the extramembraneous catalytic core, and F - containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F is coupled via a rotary mechanism of the central stalk subunits to proton translocation. Subunits alpha and beta form the catalytic core in F. Rotation of the central stalk against the surrounding alpha(3)beta(3) subunits leads to hydrolysis of ATP in three separate catalytic sites on the beta subunits. Subunit alpha does not bear the catalytic high-affinity ATP-binding sites.",
+            "score": 181.39032971858978
+        },
+        {
+            "docid": "178220_11",
+            "document": "ATP synthase . The crystal structure of the F showed alternating alpha and beta subunits (3 of each), arranged like segments of an orange around a rotating asymmetrical gamma subunit. According to the current model of ATP synthesis (known as the alternating catalytic model), the transmembrane potential created by (H+) proton cations supplied by the electron transport chain, drives the (H+) proton cations from the intermembrane space through the membrane via the F region of ATP synthase. A portion of the F (the ring of c-subunits) rotates as the protons pass through the membrane. The c-ring is tightly attached to the asymmetric central stalk (consisting primarily of the gamma subunit), causing it to rotate within the alphabeta of F causing the 3 catalytic nucleotide binding sites to go through a series of conformational changes that lead to ATP synthesis. The major F subunits are prevented from rotating in sympathy with the central stalk rotor by a peripheral stalk that joins the alphabeta to the non-rotating portion of F. The structure of the intact ATP synthase is currently known at low-resolution from electron cryo-microscopy (cryo-EM) studies of the complex. The cryo-EM model of ATP synthase suggests that the peripheral stalk is a flexible structure that wraps around the complex as it joins F to F. Under the right conditions, the enzyme reaction can also be carried out in reverse, with ATP hydrolysis driving proton pumping across the membrane.",
+            "score": 186.65212678909302
+        },
+        {
+            "docid": "848862_16",
+            "document": "Nucleoside triphosphate . ATP is the primary energy currency of the cell. Despite being synthesized through the metabolic pathway described above, it is primarily synthesized during both cellular respiration and photosynthesis by ATP synthase. ATP synthase couples the synthesis of ATP from ADP and phosphate with an electrochemical gradient generated by the pumping of protons through either the inner mitochondrial membrane (cellular respiration) or the thylakoid membrane (photosynthesis). This electrochemical gradient is necessary because the formation of ATP is energetically unfavourable.",
+            "score": 181.43789637088776
+        },
+        {
+            "docid": "22773_7",
+            "document": "Oxidative phosphorylation . Oxidative phosphorylation works by using energy-releasing chemical reactions to drive energy-requiring reactions: The two sets of reactions are said to be \"coupled\". This means one cannot occur without the other. The flow of electrons through the electron transport chain, from electron donors such as NADH to electron acceptors such as oxygen, is an exergonic process\u00a0\u2013 it releases energy, whereas the synthesis of ATP is an endergonic process, which requires an input of energy. Both the electron transport chain and the ATP synthase are embedded in a membrane, and energy is transferred from electron transport chain to the ATP synthase by movements of protons across this membrane, in a process called \"chemiosmosis\". In practice, this is like a simple electric circuit, with a current of protons being driven from the negative N-side of the membrane to the positive P-side by the proton-pumping enzymes of the electron transport chain. These enzymes are like a battery, as they perform work to drive current through the circuit. The movement of protons creates an electrochemical gradient across the membrane, which is often called the \"proton-motive force\". It has two components: a difference in proton concentration (a H gradient, \u0394pH) and a difference in electric potential, with the N-side having a negative charge.",
+            "score": 181.44351947307587
+        },
+        {
+            "docid": "200195_5",
+            "document": "Crista . This electrochemical gradient creates potential energy (see \"\") across the inner mitochondrial membrane known as the proton-motive force. As a result, chemiosmosis occurs, and the enzyme ATP synthase produces ATP from ADP and a phosphate group. This harnesses the potential energy from the concentration gradient formed by the amount of H ions. H ions passively pass into the mitochondrial matrix by the ATP synthase, and later help to re-form HO (water).",
+            "score": 191.85063934326172
+        },
+        {
+            "docid": "178220_3",
+            "document": "ATP synthase . The formation of ATP from ADP and P is energetically unfavorable and would normally proceed in the reverse direction. In order to drive this reaction forward, ATP synthase couples ATP synthesis during cellular respiration to an electrochemical gradient created by the difference in proton (H) concentration across the mitochondrial membrane in eukaryotes or the plasma membrane in bacteria. During photosynthesis in plants, ATP is synthesized by ATP synthase using a proton gradient created in the thylakoid lumen through the thylakoid membrane and into the chloroplast stroma.",
+            "score": 172.38483047485352
+        },
+        {
+            "docid": "2705942_2",
+            "document": "F-ATPase . F-ATPase, also known as F-Type ATPase (also called ATP synthase), is an ATPase found in bacterial plasma membranes, in mitochondrial inner membranes (in oxidative phosphorylation, where it is known as Complex V), and in chloroplast thylakoid membranes. It uses a proton gradient to drive ATP synthesis by allowing the passive flux of protons across the membrane down their electrochemical gradient and using the energy released by the transport reaction to release newly formed ATP from the active site of F-ATPase. In some bacteria, sodium ions may be used instead of protons.",
+            "score": 181.50060153007507
+        },
+        {
+            "docid": "22773_4",
+            "document": "Oxidative phosphorylation . The energy released by electrons flowing through this electron transport chain is used to transport protons across the inner mitochondrial membrane, in a process called \"electron transport\". This generates potential energy in the form of a pH gradient and an electrical potential across this membrane. This store of energy is tapped when protons flow back across the membrane and down the potential energy gradient, through a large enzyme called ATP synthase; this process is known as chemiosmosis. The ATP synthase uses the energy to transform adenosine diphosphate (ADP) into adenosine triphosphate, in a phosphorylation reaction. The reaction is driven by the proton flow, which forces the rotation of a part of the enzyme; the ATP synthase is a rotary mechanical motor.",
+            "score": 199.23891305923462
+        },
+        {
+            "docid": "864490_6",
+            "document": "Chemiosmosis . Molecules such as glucose are metabolized to produce acetyl CoA as an energy-rich intermediate. The oxidation of acetyl coenzyme A (acetyl-CoA) in the mitochondrial matrix is coupled to the reduction of a carrier molecule such as nicotinamide adenine dinucleotide (NAD) and flavin adenine dinucleotide (FAD). The carriers pass electrons to the electron transport chain (ETC) in the inner mitochondrial membrane, which in turn pass them to other proteins in the ETC. The energy available in the electrons is used to pump protons from the matrix across the stroma, storing energy in the form of a transmembrane electrochemical gradient. The protons move back across the inner membrane through the enzyme ATP synthase. The flow of protons back into the matrix of the mitochondrion via ATP synthase provides enough energy for ADP to combine with inorganic phosphate to form ATP. The electrons and protons at the last pump in the ETC are taken up by oxygen to form water.",
+            "score": 168.4260082244873
+        },
+        {
+            "docid": "435420_5",
+            "document": "Anaerobic respiration . Cellular respiration (both aerobic and anaerobic) utilizes highly reduced chemical compounds such as NADH and FADH2 (for example produced during glycolysis and the citric acid cycle) to establish an electrochemical gradient (often a proton gradient) across a membrane, resulting in an electrical potential or ion concentration difference across the membrane. The reduced chemical compounds are oxidized by a series of respiratory integral membrane proteins with sequentially increasing reduction potentials with the final electron acceptor being oxygen (in aerobic respiration) or another chemical substance (in anaerobic respiration). A proton motive force drives protons down the gradient (across the membrane) through the proton channel of ATP synthase. The resulting current drives ATP synthesis from ADP and inorganic phosphate.",
+            "score": 164.24091839790344
+        },
+        {
+            "docid": "96910_6",
+            "document": "NADH:ubiquinone oxidoreductase (H+-translocating) . In this process, the complex translocates four protons across the inner membrane per molecule of oxidized NADH, helping to build the electrochemical potential difference used to produce ATP. \"Escherichia coli\" complex I (NADH dehydrogenase) is capable of proton translocation in the same direction to the established \u0394\u03c8, showing that in the tested conditions, the coupling ion is H. Na transport in the opposite direction was observed, and although Na was not necessary for the catalytic or proton transport activities, its presence increased the latter. H was translocated by the \"Paracoccus denitrificans\" complex I, but in this case, H transport was not influenced by Na, and Na transport was not observed. Possibly, the \"E. coli\" complex I has two energy coupling sites (one Na independent and the other Nadependent), as observed for the \"Rhodothermus marinus\" complex I, whereas the coupling mechanism of the \"P. denitrificans\" enzyme is completely Na independent. It is also possible that another transporter catalyzes the uptake of Na. Complex I energy transduction by proton pumping may not be exclusive to the \"R. marinus\" enzyme. The Na/H antiport activity seems not to be a general property of complex I. However, the existence of Na-translocating activity of the complex I is still in question.",
+            "score": 118.33094596862793
+        },
+        {
+            "docid": "2027148_14",
+            "document": "Substrate-level phosphorylation . An alternative method used to create ATP is through oxidative phosphorylation, which takes place during cellular respiration. This process utilizes the oxidation of NADH to NAD, yielding 3 ATP, and of FADH to FAD, yielding 2 ATP. The potential energy stored as an electrochemical gradient of protons (H) across the inner mitochondrial membrane is required to generate ATP from ADP and P (inorganic phosphate molecule), a key difference from substrate-level phosphorylation. This gradient is exploited by ATP synthase acting as a pore, allowing H from the mitochondrial intermembrane space to move down its electrochemical gradient into the matrix and coupling the release of free energy to ATP synthesis. Conversely, electron transfer provides the energy required to actively pump H out of the matrix.",
+            "score": 157.75850987434387
+        },
+        {
+            "docid": "1394307_4",
+            "document": "Photophosphorylation . ATP is made by an enzyme called ATP synthase. Both the structure of this enzyme and its underlying gene are remarkably similar in all known forms of life. ATP synthatase is powered by a transmembrane electrochemical potential gradient, usually in the form of a proton gradient. The function of the electron transport chain is to produce this gradient. In all living organisms, a series of redox reactions is used to produce a transmembrane electrochemical potential gradient, or a so-called proton motive force (pmf).",
+            "score": 165.08028936386108
+        },
+        {
+            "docid": "5969439_5",
+            "document": "GalP (protein) . The GalP symporter links galactose and proton import, using the favorable proton concentration gradient to move galactose against its concentration gradient. However, this mechanism, if in isolation, would result in acidification of the cytoplasm and cessation of galactose import(14). To prevent this, \"E. coli\" utilizes ion pumps designed to raise intracellular pH (13,14). During electron transport (a key step in ATP production in respiration), energy harnessed from electrons is used to pump protons into the periplasmic space to build a proton motive force. Primary proton pumps, responsible for pumping protons out of the cytoplasm, can be active without the synthesis of ATP and are the primary mechanism through which protons are exported (13,14). Coupling galactose/proton import with proton export would maintain pH homeostasis. As protons are charged molecules, their import or export could disrupt the membrane potential of the cell (14). However, simultaneous import and export of protons would result in no change in the net charge of the cell, thus no net change in membrane potential.",
+            "score": 153.901380777359
+        },
+        {
+            "docid": "4575803_2",
+            "document": "Ion transporter . In biology, an ion transporter (or ion pump) is a transmembrane protein that moves ions across a plasma membrane against their concentration gradient through active transport. These primary transporters are enzymes that convert energy from various sources\u2014including adenosine triphosphate (ATP), sunlight, and other redox reactions\u2014to potential energy stored in an electrochemical gradient. This potential energy is then used by secondary transporters, including ion carriers and ion channels, to drive vital cellular processes, such as ATP synthesis.",
+            "score": 156.01027989387512
+        },
+        {
+            "docid": "2821615_12",
+            "document": "Electrochemical gradient . Since the ions are charged, they cannot pass through the membrane via simple diffusion. Two different mechanisms can transport the ions across the membrane: active or passive transport. An example of active transport of ions is the Na-K-ATPase (NKA). NKA catalyzes the hydrolysis of ATP into ADP and an inorganic phosphate and for every molecule of ATP hydrolized, three Na are transported outside and two K are transported inside the cell. This makes the inside of the cell more negative than the outside and more specifically generates a V of about -60mV. An example of passive transport is ion fluxes through Na, K, Ca, and Cl channels. These ions tend to move down their concentration gradient. For example, since there is a high concentration of Na outside the cell, Na will flow through the Na channel into the cell. Since the electric potential inside the cell is negative, the influx of a positive ion depolarizes the membrane which brings the transmembrane electric potential closer to zero. However, Na will continue moving down its concentration gradient as long as the effect of the chemical gradient is greater than the effect of the electrical gradient. Once the effect of both gradients are equal (for Na this at a V of about +70mV), the influx of Na stops because the driving force (\u0394G) is zero. The equation for the driving force is:",
+            "score": 155.11018311977386
+        },
+        {
+            "docid": "92236_7",
+            "document": "Electron transport chain . The function of the electron transport chain is to produce a transmembrane proton electrochemical gradient as a result of the redox reactions. If protons flow back through the membrane, they enable mechanical work, such as rotating bacterial flagella. ATP synthase, an enzyme highly conserved among all domains of life, converts this mechanical work into chemical energy by producing ATP, which powers most cellular reactions. A small amount of ATP is available from substrate-level phosphorylation, for example, in glycolysis. In most organisms the majority of ATP is generated in electron transport chains, while only some obtain ATP by fermentation.",
+            "score": 183.6117980480194
+        },
+        {
+            "docid": "178220_21",
+            "document": "ATP synthase . In plants, ATP synthase is also present in chloroplasts (CFF-ATP synthase). The enzyme is integrated into thylakoid membrane; the CF-part sticks into stroma, where dark reactions of photosynthesis (also called the light-independent reactions or the Calvin cycle) and ATP synthesis take place. The overall structure and the catalytic mechanism of the chloroplast ATP synthase are almost the same as those of the mitochondrial enzyme. However, in chloroplasts, the proton motive force is generated not by respiratory electron transport chain but by primary photosynthetic proteins.",
+            "score": 163.30712723731995
+        },
+        {
+            "docid": "4256142_2",
+            "document": "V-ATPase . Vacuolar-type -ATPase (V-ATPase) is a highly conserved evolutionarily ancient enzyme with remarkably diverse functions in eukaryotic organisms. V-ATPases acidify a wide array of intracellular organelles and pump protons across the plasma membranes of numerous cell types. V-ATPases couple the energy of ATP hydrolysis to proton transport across intracellular and plasma membranes of eukaryotic cells. It is generally seen as the polar opposite of ATP synthase because ATP synthase is a proton channel that uses the energy from a proton gradient to produce ATP. V-ATPase however, is a proton pump that uses the energy from ATP hydrolysis to produce a proton gradient.",
+            "score": 191.20448637008667
+        },
+        {
+            "docid": "92236_2",
+            "document": "Electron transport chain . An electron transport chain (ETC) is a series of complexes that transfer electrons from electron donors to electron acceptors via redox (both reduction and oxidation occurring simultaneously) reactions, and couples this electron transfer with the transfer of protons (H ions) across a membrane. This creates an electrochemical proton gradient that drives the synthesis of adenosine triphosphate (ATP), a molecule that stores energy chemically in the form of highly strained bonds. The molecules of the chain include peptides, enzymes (which are proteins or protein complexes), and others. The final acceptor of electrons in the electron transport chain during aerobic respiration is molecular oxygen although a variety of acceptors other than oxygen such as sulfate exist in anaerobic respiration.",
+            "score": 110.5923159122467
+        },
+        {
+            "docid": "19179592_38",
+            "document": "Archaea . Phototrophic archaea use light to produce chemical energy in the form of ATP. In the Halobacteria, light-activated ion pumps like bacteriorhodopsin and halorhodopsin generate ion gradients by pumping ions out of and into the cell across the plasma membrane. The energy stored in these electrochemical gradients is then converted into ATP by ATP synthase. This process is a form of photophosphorylation. The ability of these light-driven pumps to move ions across membranes depends on light-driven changes in the structure of a retinol cofactor buried in the center of the protein.",
+            "score": 173.42736911773682
+        },
+        {
+            "docid": "214573_11",
+            "document": "Carbohydrate catabolism . The last process in aerobic respiration is oxidative phosphorylation, also known as the electron transport chain. Here NADH and FADH, which contain the energy in the form of electrons, deliver their electrons to the inner membranes of the mitochondrion to power the production of ATP. Oxidative phosphorylation contributes the majority of the ATP produced, compared to glycolysis and the Krebs cycle. While the ATP count is glycolysis and the Krebs cycle is two ATP molecules, the electron transport chain contributes, at most, twenty-eight ATP molecules. A contributing factor is due to the energy potentials of NADH and FADH. As they are brought from the initial process, glycolysis, to the electron transport chain, the energy stored in them are now utilized. A second contributing factor is that cristae, the inner membranes of mitochondria, increase the surface area and therefore the amount of proteins in the membrane that assist in the synthesis of ATP. Along the electron transport chain, there are separate compartments, each with their own concentration gradient of H + ions, which are the power source of ATP synthesis. To convert ADP to ATP, energy must be provided. That energy is provided by the H+ gradient. On one side of the membrane compartment, there is a high concentration of H+ ions compared to the other. The shuttling of H+ to one side of the membrane is driven by the exergonic flow of electrons throughout the membrane. These electrons are supplied by NADH and FADH as they transfer their potential energy. Once the H+ concentration gradient is established, a proton-motive force is established, which provides the energy to convert ADP to ATP. The H+ ions that were initially forced to one side of the mitochondrion membrane now naturally flow through a membrane protein called ATP synthase, a protein that converts ADP to ATP with the help of H+ ions.",
+            "score": 184.57671439647675
+        },
+        {
+            "docid": "20374_24",
+            "document": "Metabolism . Pumping protons out of the mitochondria creates a proton concentration difference across the membrane and generates an electrochemical gradient. This force drives protons back into the mitochondrion through the base of an enzyme called ATP synthase. The flow of protons makes the stalk subunit rotate, causing the active site of the synthase domain to change shape and phosphorylate adenosine diphosphate\u00a0\u2013 turning it into ATP.",
+            "score": 154.9710614681244
+        },
+        {
+            "docid": "89226_9",
+            "document": "Adenosine diphosphate . During the initial phases of glycolysis and the TCA cycle, cofactors such as NAD+ donate and accept electrons that aid in the electron transport chain's ability to produce a proton gradient across the inner mitochondrial membrane. The ATP synthase complex exists within the mitochondrial membrane (F portion) and protrudes into the matrix (Fportion). The energy derived as a result of the chemical gradient is then used to synthesize ATP by coupling the reaction of inorganic phosphate to ADP in the active site of the ATP synthase enzyme; the equation for this can be written as ADP + P \u2192 ATP.",
+            "score": 163.03519344329834
+        },
+        {
+            "docid": "14876844_4",
+            "document": "ATP synthase gamma subunit . Both the F1 and Fo complexes are rotary motors that are coupled back-to-back. In the F1 complex, the central gamma subunit forms the rotor inside the cylinder made of the alpha(3)beta(3) subunits, while in the Fo complex, the ring-shaped C subunits forms the rotor. The two rotors rotate in opposite directions, but the Fo rotor is usually stronger, using the force from the proton gradient to push the F1 rotor in reverse in order to drive ATP synthesis. These ATPases can also work in reverse to hydrolyse ATP to create a proton gradient.",
+            "score": 154.19927978515625
+        }
+    ],
+    "r": [
+        {
+            "docid": "14662962_3",
+            "document": "ATP synthase subunit C . ATPases (or ATP synthases) are membrane-bound enzyme complexes/ion transporters that combine ATP synthesis and/or hydrolysis with the transport of protons across a membrane. ATPases can harness the energy from a proton gradient, using the flux of ions across the membrane via the ATPase proton channel to drive the synthesis of ATP. Some ATPases work in reverse, using the energy from the hydrolysis of ATP to create a proton gradient. There are different types of ATPases, which can differ in function (ATP synthesis and/or hydrolysis), structure (F-, V- and A-ATPases contain rotary motors) and in the type of ions they transport.",
+            "score": 222.1141815185547
+        },
+        {
+            "docid": "144602_20",
+            "document": "Active transport . In secondary active transport, also known as \"coupled transport\" or \"cotransport\", energy is used to transport molecules across a membrane; however, in contrast to primary active transport, there is no direct coupling of ATP; instead it relies upon the electrochemical potential difference created by pumping ions in/out of the cell. Permitting one ion or molecule to move down an electrochemical gradient, but possibly against the concentration gradient where it is more concentrated to that where it is less concentrated increases entropy and can serve as a source of energy for metabolism (e.g. in ATP synthase). The energy derived from the pumping of protons across a cell membrane is frequently used as the energy source in secondary active transport. In humans, sodium (Na) is a commonly co-transported ion across the plasma membrane, whose electrochemical gradient is then used to power the active transport of a second ion or molecule against its gradient. In bacteria and small yeast cells, a commonly cotransported ion is hydrogen. Hydrogen pumps are also used to create an electrochemical gradient to carry out processes within cells such as in the electron transport chain, an important function of cellular respiration that happens in the mitochondrion of the cell.",
+            "score": 203.7216033935547
+        },
+        {
+            "docid": "14875994_2",
+            "document": "ATP synthase alpha/beta subunits . ATPases (or ATP synthases) are membrane-bound enzyme complexes/ion transporters that combine ATP synthesis and/or hydrolysis with the transport of protons across a membrane. ATPases can harness the energy from a proton gradient, using the flux of ions across the membrane via the ATPase proton channel to drive the synthesis of ATP.",
+            "score": 202.32069396972656
+        },
+        {
+            "docid": "22773_4",
+            "document": "Oxidative phosphorylation . The energy released by electrons flowing through this electron transport chain is used to transport protons across the inner mitochondrial membrane, in a process called \"electron transport\". This generates potential energy in the form of a pH gradient and an electrical potential across this membrane. This store of energy is tapped when protons flow back across the membrane and down the potential energy gradient, through a large enzyme called ATP synthase; this process is known as chemiosmosis. The ATP synthase uses the energy to transform adenosine diphosphate (ADP) into adenosine triphosphate, in a phosphorylation reaction. The reaction is driven by the proton flow, which forces the rotation of a part of the enzyme; the ATP synthase is a rotary mechanical motor.",
+            "score": 199.23890686035156
+        },
+        {
+            "docid": "529019_10",
+            "document": "Hydrogen ion . Hydrogen ions drive ATP synthase in photosynthesis. This happens when hydrogen ions get pushed across the membrane creating a high concentration inside the thylakoid membrane and a low concentration in the cytoplasm. However, because of osmosis, the H will force itself out of the membrane through ATP synthase. Using their kinetic energy to escape, the protons will spin the ATP synthase which in turn will create ATP. This happens in cellular respiration as well though the concentrated membrane will instead be the inner membrane of the mitochondria.",
+            "score": 194.63943481445312
+        },
+        {
+            "docid": "92236_22",
+            "document": "Electron transport chain . According to the chemiosmotic coupling hypothesis, proposed by Nobel Prize in Chemistry winner Peter D. Mitchell, the electron transport chain and oxidative phosphorylation are coupled by a proton gradient across the inner mitochondrial membrane. The efflux of protons from the mitochondrial matrix creates an electrochemical gradient (proton gradient). This gradient is used by the FF ATP synthase complex to make ATP via oxidative phosphorylation. ATP synthase is sometimes described as \"Complex V\" of the electron transport chain. The F component of ATP synthase acts as an ion channel that provides for a proton flux back into the mitochondrial matrix. It is composed of a, b and c subunits. Protons in the inter-membranous space of mitochondria first enters the ATP synthase complex through \"a\" subunit channel. Then protons move to the c subunits. The number of c subunits it has determines how many protons it will require to make the F turn one full revolution. For example, in humans, there are 8 c subunits, thus 8 protons are required. After \"c\" subunits, protons finally enters matrix using \"a\" subunit channel that opens into the mitochondrial matrix. This reflux releases free energy produced during the generation of the oxidized forms of the electron carriers (NAD and Q). The free energy is used to drive ATP synthesis, catalyzed by the F component of the complex. <br> Coupling with oxidative phosphorylation is a key step for ATP production. However, in specific cases, uncoupling the two processes may be biologically useful. The uncoupling protein, thermogenin\u2014present in the inner mitochondrial membrane of brown adipose tissue\u2014provides for an alternative flow of protons back to the inner mitochondrial matrix. Thyroxine is also a natural uncoupler. This alternative flow results in thermogenesis rather than ATP production. Synthetic uncouplers (e.g., 2,4-dinitrophenol, 2,4-dinitrocresol, CCCP) also exist, and can be lethal at high doses.",
+            "score": 194.5699005126953
+        },
+        {
+            "docid": "200195_5",
+            "document": "Crista . This electrochemical gradient creates potential energy (see \"\") across the inner mitochondrial membrane known as the proton-motive force. As a result, chemiosmosis occurs, and the enzyme ATP synthase produces ATP from ADP and a phosphate group. This harnesses the potential energy from the concentration gradient formed by the amount of H ions. H ions passively pass into the mitochondrial matrix by the ATP synthase, and later help to re-form HO (water).",
+            "score": 191.8506317138672
+        },
+        {
+            "docid": "4256142_2",
+            "document": "V-ATPase . Vacuolar-type -ATPase (V-ATPase) is a highly conserved evolutionarily ancient enzyme with remarkably diverse functions in eukaryotic organisms. V-ATPases acidify a wide array of intracellular organelles and pump protons across the plasma membranes of numerous cell types. V-ATPases couple the energy of ATP hydrolysis to proton transport across intracellular and plasma membranes of eukaryotic cells. It is generally seen as the polar opposite of ATP synthase because ATP synthase is a proton channel that uses the energy from a proton gradient to produce ATP. V-ATPase however, is a proton pump that uses the energy from ATP hydrolysis to produce a proton gradient.",
+            "score": 191.20448303222656
+        },
+        {
+            "docid": "178220_11",
+            "document": "ATP synthase . The crystal structure of the F showed alternating alpha and beta subunits (3 of each), arranged like segments of an orange around a rotating asymmetrical gamma subunit. According to the current model of ATP synthesis (known as the alternating catalytic model), the transmembrane potential created by (H+) proton cations supplied by the electron transport chain, drives the (H+) proton cations from the intermembrane space through the membrane via the F region of ATP synthase. A portion of the F (the ring of c-subunits) rotates as the protons pass through the membrane. The c-ring is tightly attached to the asymmetric central stalk (consisting primarily of the gamma subunit), causing it to rotate within the alphabeta of F causing the 3 catalytic nucleotide binding sites to go through a series of conformational changes that lead to ATP synthesis. The major F subunits are prevented from rotating in sympathy with the central stalk rotor by a peripheral stalk that joins the alphabeta to the non-rotating portion of F. The structure of the intact ATP synthase is currently known at low-resolution from electron cryo-microscopy (cryo-EM) studies of the complex. The cryo-EM model of ATP synthase suggests that the peripheral stalk is a flexible structure that wraps around the complex as it joins F to F. Under the right conditions, the enzyme reaction can also be carried out in reverse, with ATP hydrolysis driving proton pumping across the membrane.",
+            "score": 186.65211486816406
+        },
+        {
+            "docid": "214573_11",
+            "document": "Carbohydrate catabolism . The last process in aerobic respiration is oxidative phosphorylation, also known as the electron transport chain. Here NADH and FADH, which contain the energy in the form of electrons, deliver their electrons to the inner membranes of the mitochondrion to power the production of ATP. Oxidative phosphorylation contributes the majority of the ATP produced, compared to glycolysis and the Krebs cycle. While the ATP count is glycolysis and the Krebs cycle is two ATP molecules, the electron transport chain contributes, at most, twenty-eight ATP molecules. A contributing factor is due to the energy potentials of NADH and FADH. As they are brought from the initial process, glycolysis, to the electron transport chain, the energy stored in them are now utilized. A second contributing factor is that cristae, the inner membranes of mitochondria, increase the surface area and therefore the amount of proteins in the membrane that assist in the synthesis of ATP. Along the electron transport chain, there are separate compartments, each with their own concentration gradient of H + ions, which are the power source of ATP synthesis. To convert ADP to ATP, energy must be provided. That energy is provided by the H+ gradient. On one side of the membrane compartment, there is a high concentration of H+ ions compared to the other. The shuttling of H+ to one side of the membrane is driven by the exergonic flow of electrons throughout the membrane. These electrons are supplied by NADH and FADH as they transfer their potential energy. Once the H+ concentration gradient is established, a proton-motive force is established, which provides the energy to convert ADP to ATP. The H+ ions that were initially forced to one side of the mitochondrion membrane now naturally flow through a membrane protein called ATP synthase, a protein that converts ADP to ATP with the help of H+ ions.",
+            "score": 184.5767059326172
+        },
+        {
+            "docid": "92236_7",
+            "document": "Electron transport chain . The function of the electron transport chain is to produce a transmembrane proton electrochemical gradient as a result of the redox reactions. If protons flow back through the membrane, they enable mechanical work, such as rotating bacterial flagella. ATP synthase, an enzyme highly conserved among all domains of life, converts this mechanical work into chemical energy by producing ATP, which powers most cellular reactions. A small amount of ATP is available from substrate-level phosphorylation, for example, in glycolysis. In most organisms the majority of ATP is generated in electron transport chains, while only some obtain ATP by fermentation.",
+            "score": 183.61180114746094
+        },
+        {
+            "docid": "2705942_2",
+            "document": "F-ATPase . F-ATPase, also known as F-Type ATPase (also called ATP synthase), is an ATPase found in bacterial plasma membranes, in mitochondrial inner membranes (in oxidative phosphorylation, where it is known as Complex V), and in chloroplast thylakoid membranes. It uses a proton gradient to drive ATP synthesis by allowing the passive flux of protons across the membrane down their electrochemical gradient and using the energy released by the transport reaction to release newly formed ATP from the active site of F-ATPase. In some bacteria, sodium ions may be used instead of protons.",
+            "score": 181.50059509277344
+        },
+        {
+            "docid": "22773_7",
+            "document": "Oxidative phosphorylation . Oxidative phosphorylation works by using energy-releasing chemical reactions to drive energy-requiring reactions: The two sets of reactions are said to be \"coupled\". This means one cannot occur without the other. The flow of electrons through the electron transport chain, from electron donors such as NADH to electron acceptors such as oxygen, is an exergonic process\u00a0\u2013 it releases energy, whereas the synthesis of ATP is an endergonic process, which requires an input of energy. Both the electron transport chain and the ATP synthase are embedded in a membrane, and energy is transferred from electron transport chain to the ATP synthase by movements of protons across this membrane, in a process called \"chemiosmosis\". In practice, this is like a simple electric circuit, with a current of protons being driven from the negative N-side of the membrane to the positive P-side by the proton-pumping enzymes of the electron transport chain. These enzymes are like a battery, as they perform work to drive current through the circuit. The movement of protons creates an electrochemical gradient across the membrane, which is often called the \"proton-motive force\". It has two components: a difference in proton concentration (a H gradient, \u0394pH) and a difference in electric potential, with the N-side having a negative charge.",
+            "score": 181.44351196289062
+        },
+        {
+            "docid": "848862_16",
+            "document": "Nucleoside triphosphate . ATP is the primary energy currency of the cell. Despite being synthesized through the metabolic pathway described above, it is primarily synthesized during both cellular respiration and photosynthesis by ATP synthase. ATP synthase couples the synthesis of ATP from ADP and phosphate with an electrochemical gradient generated by the pumping of protons through either the inner mitochondrial membrane (cellular respiration) or the thylakoid membrane (photosynthesis). This electrochemical gradient is necessary because the formation of ATP is energetically unfavourable.",
+            "score": 181.43789672851562
+        },
+        {
+            "docid": "14763133_5",
+            "document": "ATP synthase, H+ transporting, mitochondrial F1 complex, alpha 1 . Mitochondrial membrane ATP synthase (FF ATP synthase or Complex V) produces ATP from ADP in the presence of a proton gradient across the membrane which is generated by electron transport complexes of the respiratory chain. F-type ATPases consist of two structural domains, F - containing the extramembraneous catalytic core, and F - containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F is coupled via a rotary mechanism of the central stalk subunits to proton translocation. Subunits alpha and beta form the catalytic core in F. Rotation of the central stalk against the surrounding alpha(3)beta(3) subunits leads to hydrolysis of ATP in three separate catalytic sites on the beta subunits. Subunit alpha does not bear the catalytic high-affinity ATP-binding sites.",
+            "score": 181.39031982421875
+        },
+        {
+            "docid": "209455_30",
+            "document": "Thylakoid . The molecular mechanism of ATP (Adenosine triphosphate) generation in chloroplasts is similar to that in mitochondria and takes the required energy from the proton motive force (PMF). However, chloroplasts rely more on the chemical potential of the PMF to generate the potential energy required for ATP synthesis. The PMF is the sum of a proton chemical potential (given by the proton concentration gradient) and a transmembrane electrical potential (given by charge separation across the membrane). Compared to the inner membranes of mitochondria, which have a significantly higher membrane potential due to charge separation, thylakoid membranes lack a charge gradient. To compensate for this, the 10,000 fold proton concentration gradient across the thylakoid membrane is much higher compared to a 10 fold gradient across the inner membrane of mitochondria. The resulting chemiosmotic potential between the lumen and stroma is high enough to drive ATP synthesis using the ATP synthase. As the protons travel back down the gradient through channels in ATP synthase, ADP + P are combined into ATP. In this manner, the light-dependent reactions are coupled to the synthesis of ATP via the proton gradient.",
+            "score": 180.73056030273438
+        },
+        {
+            "docid": "15217736_5",
+            "document": "ATP5E . Mitochondrial membrane ATP synthase (FF ATP synthase or Complex V) produces ATP from ADP in the presence of a proton gradient across the membrane which is generated by electron transport complexes of the respiratory chain. F-type ATPases consist of two structural domains, F - containing the extramembraneous catalytic core, and F - containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F is coupled via a rotary mechanism of the central stalk subunits to proton translocation. Part of the complex F domain and of the central stalk which is part of the complex rotary element. Rotation of the central stalk against the surrounding alphabeta subunits leads to hydrolysis of ATP in three separate catalytic sites on the beta subunits (By similarity).",
+            "score": 178.61480712890625
+        },
+        {
+            "docid": "22773_45",
+            "document": "Oxidative phosphorylation . In some bacteria and archaea, ATP synthesis is driven by the movement of sodium ions through the cell membrane, rather than the movement of protons. Archaea such as \"Methanococcus\" also contain the AA synthase, a form of the enzyme that contains additional proteins with little similarity in sequence to other bacterial and eukaryotic ATP synthase subunits. It is possible that, in some species, the AA form of the enzyme is a specialized sodium-driven ATP synthase, but this might not be true in all cases.",
+            "score": 177.36090087890625
+        },
+        {
+            "docid": "864490_10",
+            "document": "Chemiosmosis . Lipid bilayers of biological membranes, however, are barriers for ions. This is why energy can be stored as a combination of these two gradients across the membrane. Only special membrane proteins like ion channels can sometimes allow ions to move across the membrane (see also: Membrane transport). In chemiosmotic theory transmembrane ATP synthases are very important. They convert energy of spontaneous flow of protons through them into chemical energy of ATP bonds.",
+            "score": 177.2178955078125
+        },
+        {
+            "docid": "864490_4",
+            "document": "Chemiosmosis . ATP synthase is the enzyme that makes ATP by chemiosmosis. It allows protons to pass through the membrane and uses the free energy difference to phosphorylate adenosine diphosphate (ADP), making ATP. The generation of ATP by chemiosmosis occurs in mitochondria and chloroplasts, as well as in most bacteria and archaea, an electron transport chain pumps H+ ions in the thylakoid spaces through thylakoid membranes. The energy from the electron movement through electron transport chains cross through ATP synthase which allows the proton to pass through them and use this free energy difference to photophosphorylate ADP making ATP.",
+            "score": 176.98187255859375
+        },
+        {
+            "docid": "35589912_3",
+            "document": "P/O ratio . The P/O ratio is dependent on the quantity of hydrogen atoms transported outward across an electrochemical gradient, and the number of protons which return inward through the membrane via an enzyme such as ATP synthase. The ATP generated will be dependent on the amount of ATP produced per rotation of the ATP synthase rotor, and the number of hydrogen atoms necessary to complete a rotation.",
+            "score": 175.96371459960938
+        },
+        {
+            "docid": "315620_11",
+            "document": "Brown adipose tissue . The mitochondria in a eukaryotic cell utilize fuels to produce energy in the form of adenosine triphosphate (ATP). This process involves storing energy as a proton gradient, also known as the proton motive force (PMF), across the mitochondrial inner membrane. This energy is used to synthesize ATP when the protons flow across the membrane (down their concentration gradient) through the ATP synthase enzyme; this is known as chemiosmosis.",
+            "score": 173.81103515625
+        },
+        {
+            "docid": "19179592_38",
+            "document": "Archaea . Phototrophic archaea use light to produce chemical energy in the form of ATP. In the Halobacteria, light-activated ion pumps like bacteriorhodopsin and halorhodopsin generate ion gradients by pumping ions out of and into the cell across the plasma membrane. The energy stored in these electrochemical gradients is then converted into ATP by ATP synthase. This process is a form of photophosphorylation. The ability of these light-driven pumps to move ions across membranes depends on light-driven changes in the structure of a retinol cofactor buried in the center of the protein.",
+            "score": 173.4273681640625
+        },
+        {
+            "docid": "178220_3",
+            "document": "ATP synthase . The formation of ATP from ADP and P is energetically unfavorable and would normally proceed in the reverse direction. In order to drive this reaction forward, ATP synthase couples ATP synthesis during cellular respiration to an electrochemical gradient created by the difference in proton (H) concentration across the mitochondrial membrane in eukaryotes or the plasma membrane in bacteria. During photosynthesis in plants, ATP is synthesized by ATP synthase using a proton gradient created in the thylakoid lumen through the thylakoid membrane and into the chloroplast stroma.",
+            "score": 172.38482666015625
+        },
+        {
+            "docid": "864490_12",
+            "document": "Chemiosmosis . In most cases the proton-motive force is generated by an electron transport chain which acts as a proton pump, using the Gibbs free energy of redox reactions to pump protons (hydrogen ions) out across the membrane, separating the charge across the membrane. In mitochondria, energy released by the electron transport chain is used to move protons from the mitochondrial matrix (N side) to the stroma (P side). Moving the protons out of the mitochondrion creates a lower concentration of positively charged protons inside it, resulting in excess negative charge on the inside of the membrane. The electrical potential gradient is about -170 mV , negative inside (N). These gradients - charge difference and the proton concentration difference both create a combined electrochemical gradient across the membrane, often expressed as the proton-motive force (PMF). In mitochondria, the PMF is almost entirely made up of the electrical component but in chloroplasts the PMF is made up mostly of the pH gradient because the charge of protons H is neutralized by the movement of Cl and other anions. In either case, the PMF needs to be greater than about 460 mV (45 kJ/mol) for the ATP synthase to be able to make ATP.",
+            "score": 168.5088653564453
+        },
+        {
+            "docid": "864490_6",
+            "document": "Chemiosmosis . Molecules such as glucose are metabolized to produce acetyl CoA as an energy-rich intermediate. The oxidation of acetyl coenzyme A (acetyl-CoA) in the mitochondrial matrix is coupled to the reduction of a carrier molecule such as nicotinamide adenine dinucleotide (NAD) and flavin adenine dinucleotide (FAD). The carriers pass electrons to the electron transport chain (ETC) in the inner mitochondrial membrane, which in turn pass them to other proteins in the ETC. The energy available in the electrons is used to pump protons from the matrix across the stroma, storing energy in the form of a transmembrane electrochemical gradient. The protons move back across the inner membrane through the enzyme ATP synthase. The flow of protons back into the matrix of the mitochondrion via ATP synthase provides enough energy for ADP to combine with inorganic phosphate to form ATP. The electrons and protons at the last pump in the ETC are taken up by oxygen to form water.",
+            "score": 168.42601013183594
+        },
+        {
+            "docid": "6355_134",
+            "document": "Chloroplast . Like mitochondria, chloroplasts use the potential energy stored in an H, or hydrogen ion gradient to generate ATP energy. The two photosystems capture light energy to energize electrons taken from water, and release them down an electron transport chain. The molecules between the photosystems harness the electrons' energy to pump hydrogen ions into the thylakoid space, creating a concentration gradient, with more hydrogen ions (up to a thousand times as many) inside the thylakoid system than in the stroma. The hydrogen ions in the thylakoid space then diffuse back down their concentration gradient, flowing back out into the stroma through ATP synthase. ATP synthase uses the energy from the flowing hydrogen ions to phosphorylate adenosine diphosphate into adenosine triphosphate, or ATP. Because chloroplast ATP synthase projects out into the stroma, the ATP is synthesized there, in position to be used in the dark reactions.",
+            "score": 167.5081329345703
+        },
+        {
+            "docid": "4575803_6",
+            "document": "Ion transporter . ATP producing transporters run in the opposite direction of ATP Utilizing transporters. These proteins transport ions from high to low concentration with the gradient but in the process ATP is formed. Potential energy in the form of the concentration gradient is used to generate ATP. In animals, this ATP synthesis takes place in the mitochondria using F- type ATPase otherwise known as ATP synthase. V-type ATPase serves the opposite function as F-type ATPase and is used in plants to hydrolyze ATP to create a proton gradient. Examples of this are lysosomes that use V-type ATPase acidify vesicles or plant vacuoles during process of photosynthesis in the chloroplasts. This process can be regulated through various methods such as pH.",
+            "score": 166.23849487304688
+        },
+        {
+            "docid": "1394307_4",
+            "document": "Photophosphorylation . ATP is made by an enzyme called ATP synthase. Both the structure of this enzyme and its underlying gene are remarkably similar in all known forms of life. ATP synthatase is powered by a transmembrane electrochemical potential gradient, usually in the form of a proton gradient. The function of the electron transport chain is to produce this gradient. In all living organisms, a series of redox reactions is used to produce a transmembrane electrochemical potential gradient, or a so-called proton motive force (pmf).",
+            "score": 165.08029174804688
+        },
+        {
+            "docid": "435420_5",
+            "document": "Anaerobic respiration . Cellular respiration (both aerobic and anaerobic) utilizes highly reduced chemical compounds such as NADH and FADH2 (for example produced during glycolysis and the citric acid cycle) to establish an electrochemical gradient (often a proton gradient) across a membrane, resulting in an electrical potential or ion concentration difference across the membrane. The reduced chemical compounds are oxidized by a series of respiratory integral membrane proteins with sequentially increasing reduction potentials with the final electron acceptor being oxygen (in aerobic respiration) or another chemical substance (in anaerobic respiration). A proton motive force drives protons down the gradient (across the membrane) through the proton channel of ATP synthase. The resulting current drives ATP synthesis from ADP and inorganic phosphate.",
+            "score": 164.2409210205078
+        },
+        {
+            "docid": "178220_21",
+            "document": "ATP synthase . In plants, ATP synthase is also present in chloroplasts (CFF-ATP synthase). The enzyme is integrated into thylakoid membrane; the CF-part sticks into stroma, where dark reactions of photosynthesis (also called the light-independent reactions or the Calvin cycle) and ATP synthesis take place. The overall structure and the catalytic mechanism of the chloroplast ATP synthase are almost the same as those of the mitochondrial enzyme. However, in chloroplasts, the proton motive force is generated not by respiratory electron transport chain but by primary photosynthetic proteins.",
+            "score": 163.30712890625
+        },
+        {
+            "docid": "89226_9",
+            "document": "Adenosine diphosphate . During the initial phases of glycolysis and the TCA cycle, cofactors such as NAD+ donate and accept electrons that aid in the electron transport chain's ability to produce a proton gradient across the inner mitochondrial membrane. The ATP synthase complex exists within the mitochondrial membrane (F portion) and protrudes into the matrix (Fportion). The energy derived as a result of the chemical gradient is then used to synthesize ATP by coupling the reaction of inorganic phosphate to ADP in the active site of the ATP synthase enzyme; the equation for this can be written as ADP + P \u2192 ATP.",
+            "score": 163.03518676757812
+        }
+    ]
+}

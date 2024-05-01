@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "24837895_3",
+            "document": "Phosphoribosylglycinamide formyltransferase . This THF dependent enzyme catalyzes a nucleophilic acyl substitution of the formyl group from 10-formyltetrahydrofolate (fTHF) to N-(5-phospho-D-ribosyl)glycinamide (GAR) to form N-formyl-N-(5-phospho-D-ribosyl)glycinamide (fGAR) as shown above. This reaction plays an important role in the formation of purine through the \"de novo\" purine biosynthesis pathway. This pathway creates inosine monophosphate (IMP), a precursor to adenosine monophosphate (AMP) and guanosine monophosphate (GMP). AMP is a building block for important energy carriers such as ATP, NAD and FAD, and signaling molecules such as cAMP. GARTfase's role in \"de novo\" purine biosynthesis makes it a target for anti-cancer drugs and its overexpression during postnatal development has been connected to Down syndrome. There are two known types of genes encoding GAR transformylase in E.coli: purN and purT, while only purN is found in humans. Many residues in the active site are conserved across bacterial, yeast, avian and human enzymes.",
+            "score": 50.540050745010376
+        },
+        {
+            "docid": "26734424_3",
+            "document": "IMPDH2 . IMP dehydrogenase 2 is the rate-limiting enzyme in the de novo guanine nucleotide biosynthesis. It is thus involved in maintaining cellular guanine deoxy- and ribonucleotide pools needed for DNA and RNA synthesis. IMPDH2 catalyzes the NAD-dependent oxidation of inosine-5'-monophosphate into xanthine-5'-monophosphate, which is then converted into guanosine-5'-monophosphate. IMPDH2 has been identified as an intracellular target of the natural product sanglifehrin A",
+            "score": 35.23707580566406
+        },
+        {
+            "docid": "1158225_3",
+            "document": "Hypoxanthine-guanine phosphoribosyltransferase . HGPRT is a transferase that catalyzes conversion of hypoxanthine to inosine monophosphate and guanine to guanosine monophosphate. This reaction transfers the 5-phosphoribosyl group from 5-phosphoribosyl 1-pyrophosphate (PRPP) to the purine. HGPRT plays a central role in the generation of purine nucleotides through the purine salvage pathway.",
+            "score": 38.60440135002136
+        },
+        {
+            "docid": "530470_13",
+            "document": "Mycophenolic acid . Purines can either be synthesized \"de novo\" using ribose 5-phosphate or they can be salvaged from free nucleotides. Mycophenolic acid is potent, reversible, non-competitive inhibitor of inosine-5\u2032-monophosphate dehydrogenase (IMPDH), an enzyme essential to the \"de novo\" synthesis of guanosine-5'-monophosphate(GMP) from inosine-5'-monophosphate(IMP) . IMPDH inhibition particularly affects lymphocytes since they rely almost exclusively \"de novo\" purine synthesis. In contrast, many other cell types use both pathways, and some cells, such as terminally differentiated neurons, depend completely on purine nucleotide salvage. Thus, use of mycophenolic acid leads to a relatively selective inhibition of DNA replication in T cells and B cells.",
+            "score": 48.68939232826233
+        },
+        {
+            "docid": "11288968_2",
+            "document": "GMP reductase . GMP reductase (Guanosine 5'-monophosphate oxidoreductase ) is an enzyme that catalyses the irreversible and NADPH-dependent reductive deamination of GMP into IMP.",
+            "score": 32.92250394821167
+        },
+        {
+            "docid": "12417_2",
+            "document": "Guanosine . Guanosine is a purine nucleoside comprising guanine attached to a ribose (ribofuranose) ring via a \u03b2-N-glycosidic bond. Guanosine can be phosphorylated to become guanosine monophosphate (GMP), cyclic guanosine monophosphate (cGMP), guanosine diphosphate (GDP), and guanosine triphosphate (GTP). These forms play important roles in various biochemical processes such as synthesis of nucleic acids and proteins, photosynthesis, muscle contraction, and intracellular signal transduction (cGMP). When guanine is attached by its N9 nitrogen to the C1 carbon of a deoxyribose ring it is known as deoxyguanosine.",
+            "score": 50.646772384643555
+        },
+        {
+            "docid": "2736775_16",
+            "document": "Myristoylation . Certain NMTs are therapeutic targets for development of drugs against bacterial infections. Myristoylation has been shown to be necessary for the survival of a number of disease-causing fungi including \"C. albicans\" and \"C. neoformans\". In addition to prokaryotic bacteria, the NMTs of numerous disease-causing eukaryotic organisms have been identified as drug targets as well. Proper NMT functioning in the protozoa \"Leishmania major\" and \"Leishmania donovani\" (leishmaniasis), \"Trypanosoma brucei\" (African sleeping sickness) and \"P. falciparum\" (malaria) is necessary for survival of the parasites. Inhibitors of these organisms is under current investigation. A pyrazole sulphonamide inhibitor has been identified that selectively binds \"T. brucei\", competing for the peptide binding site, thus inhibiting enzymatic activity and eliminating the parasite from the bloodstream of mice with African sleeping sickness.",
+            "score": 86.82644414901733
+        },
+        {
+            "docid": "71581_9",
+            "document": "Ribavirin . It is a guanosine (ribonucleic) analog used to stop viral RNA synthesis and viral mRNA capping, thus, it is a nucleoside inhibitor. Ribavirin is a prodrug, which when metabolized resembles purine RNA nucleotides. In this form, it interferes with RNA metabolism required for viral replication. Over five direct and indirect mechanisms have been proposed for its mechanism of action.",
+            "score": 63.15572929382324
+        },
+        {
+            "docid": "41069188_22",
+            "document": "Discovery and development of phosphodiesterase 5 inhibitors . Penile erection is a hemodynamic event in the smooth muscle of corpus cavernous. PDE5 is the main cGMP hydrolysing enzyme found in penile corpus cavernous. Erection is triggered by release of the neurotransmitter nitric oxide (NO) from non-adrenergic and non-cholinergic neurons from nerve ending in the penis as well as from endothelial cells. NO activates soluble guanylyl cyclase in smooth muscle cells in the penis which results in increased production of 3'-5'-cyclic guanosine monophosphate from guanosine-5'-triphosphate (GTP). Cyclic GMP binds to the cGMP-dependent protein kinase (PKG1) which phosphorylates several proteins that results in decreased intracellular calcium. Lower intracellular calcium leads to smooth muscle relaxation and ultimately penile erection. This pathway is demonstrated in .",
+            "score": 23.94571018218994
+        },
+        {
+            "docid": "6055772_4",
+            "document": "AMP deaminase . Adenosine monophosphate deaminase 1 catalyzes the deamination of AMP to IMP in skeletal muscle and plays an important role in the purine nucleotide cycle. Two other genes have been identified, AMPD2 and AMPD3, for the liver- and erythrocyte-specific isoforms, respectively. Deficiency of the muscle-specific enzyme is apparently a common cause of exercise-induced myopathy and probably the most common cause of metabolic myopathy in the human.",
+            "score": 41.90486145019531
+        },
+        {
+            "docid": "24717561_2",
+            "document": "5'-Guanylyl imidodiphosphate . 5'-Guanylyl imidodiphosphate is a purine nucleotide. It is an analog of guanosine triphosphate in which one of the oxygen atoms is replaced with an amine, producing a non-hydrolyzable functional group. Guanylyl imidodiphosphate binds tightly to G-proteins in the presence of Mg. Guanylyl imidodiphosphate is a potent stimulator of adenylate cyclase. It is often used in studies of protein synthesis.",
+            "score": 22.355547189712524
+        },
+        {
+            "docid": "14334698_5",
+            "document": "GDP-mannose 4,6-dehydratase . The enzyme GDP-Mannose 4, 6-Dehydratase is in the lyase family of enzymes, specifically the hydro-lyases. Other names in use include guanosine 5'-diphosphate-D-mannose oxidoreductase, guanosine diphosphomannose oxidoreductase, guanosine diphosphomannose 4,6-dehydratase, GDP-D-mannose dehydratase, GDP-D-mannose 4,6-dehydratase, GMD, and GDP-mannose 4,6-hydro-lyase. The enzyme is a part of the GDP-Fucose de novo synthesis pathway and catalyzes the first step in the process that gives us GDP-Fucose which is essential for the transfer of Fucose sugars. Its primary structure contains 372 amino acids. This is an essential enzyme in that fucose plays a major role in cell immunity and signaling. Currently GDP-Mannose 4, 6-Dehydratase is not the target of any available drugs, however it is being experimentally targeted with the drug Guanosine-5'-Diphosphate. The chemical reaction of GDP-Mannose 4, 6-Dehydratase is as shown:",
+            "score": 34.34505105018616
+        },
+        {
+            "docid": "11070797_5",
+            "document": "Alternative oxidase . Unusually, the bloodstream form of the protozoan parasite \"Trypanosoma brucei\", which is the cause of sleeping sickness, depends entirely on the alternative oxidase pathway for cellular respiration through its electron transport chain. This major metabolic difference between the parasite and its human host has made the \"T. brucei\" alternative oxidase an attractive target for drug design. Of the known inhibitors of alternative oxidases, the antibiotic ascofuranone inhibits the \"T. brucei\" enzyme and cures infection in mice.",
+            "score": 112.0347969532013
+        },
+        {
+            "docid": "141029_38",
+            "document": "African trypanosomiasis . The genome of the parasite has been sequenced and several proteins have been identified as potential targets for drug treatment. Analysis of the genome also revealed the reason why generating a vaccine for this disease has been so difficult. \"T. brucei\" has over 800 genes that make proteins the parasite \"mixes and matches\" to evade immune system detection.",
+            "score": 75.72624039649963
+        },
+        {
+            "docid": "11289107_2",
+            "document": "Adenylosuccinate synthase . In molecular biology, Adenylosuccinate synthase (or adenylosuccinate synthetase) () is an enzyme that plays an important role in purine biosynthesis, by catalysing the guanosine triphosphate (GTP)-dependent conversion of inosine monophosphate (IMP) and aspartic acid to guanosine diphosphate (GDP), phosphate and N(6)-(1,2-dicarboxyethyl)-AMP. Adenylosuccinate synthetase has been characterised from various sources ranging from \"Escherichia coli\" (gene purA) to vertebrate tissues. In vertebrates, two isozymes are present: one involved in purine biosynthesis and the other in the purine nucleotide cycle.",
+            "score": 40.91359543800354
+        },
+        {
+            "docid": "21505_4",
+            "document": "Nucleotide . Nucleotides also play a central role in metabolism at a fundamental, cellular level. They carry packets of chemical energy\u2014\u2014in the form of the nucleoside triphosphates Adenosine triphosphate(ATP), Guanosine triphosphate(GTP), Cytidine triphosphate(CTP) and Uridine triphosphate(UTP)\u2014\u2014throughout the cell to the many cellular functions that demand energy, which include: synthesizing amino acids, proteins and cell membranes and parts, moving the cell and moving cell parts (both internally and intercellularly), dividing the cell, etc. In addition, nucleotides participate in cell signaling (cyclic guanosine monophosphate or cGMP and cyclic adenosine monophosphate or cAMP), and are incorporated into important cofactors of enzymatic reactions (e.g. coenzyme A, FAD, FMN, NAD, and NADP).",
+            "score": 37.174068212509155
+        },
+        {
+            "docid": "6360807_16",
+            "document": "Nucleic acid metabolism . Purine degradation takes place mainly in the liver of humans and requires an assortment of enzymes to degrade purines to uric acid. First, the nucleotide will lose its phosphate through 5'-nucleotidase. The nucleoside, adenosine, is then deaminated and hydrolyzed to form hypoxanthine via adenosine deaminase and nucleosidase respectively. Hypoxanthine is then oxidized to form xanthine and then uric acid through the action of xanthine oxidase. The other purine nucleoside, guanosine, is cleaved to form guanine. Guanine is then deaminated via guanine deaminase to form xanthine which is then converted to uric acid. Oxygen is the final electron acceptor in the degradation of both purines. Uric acid is then excreted from the body in different forms depending on the animal.",
+            "score": 43.12046718597412
+        },
+        {
+            "docid": "1458783_2",
+            "document": "Pentose phosphate pathway . The pentose phosphate pathway (also called the phosphogluconate pathway and the hexose monophosphate shunt) is a metabolic pathway parallel to glycolysis. It generates NADPH and pentoses (5-carbon sugars) as well as ribose 5-phosphate, the last one a precursor for the synthesis of nucleotides. While it does involve oxidation of glucose, its primary role is anabolic rather than catabolic. The pathway is especially important in red blood cells (erythrocytes).",
+            "score": 38.87717056274414
+        },
+        {
+            "docid": "4253583_5",
+            "document": "Orthoreovirus . Group: dsRNA Mammalian Orthoreovirus virions are non-enveloped with icosahedral symmetry created by a double-layered capsid reaching about 80\u00a0nm wide. Each capsid contains 10 segments of double stranded RNA (dsRNA) genome. The inner capsid or core particle (T=2) contains five different proteins: \u03c32, \u03bb1, \u03bb2, \u03bb3, and \u03bc2 and is approximately 70\u00a0nm in diameter. One hundred and twenty copies of the \u03bb1 protein arranged in 12 decameric units make up the shell of the inner capsid structure. This shell is stabilized by one hundred and fifty copies of the \u03c32 protein that 'clamp' adjacent \u03bb1 monomers together. At the 12 five-fold axes of symmetry, pentamers of the \u03bb2 protein form turret-like structures that protrudes from the surface of the shell. In the center of the \u03bb2 turret a channel allows viral mRNAs to be extruded during transcription. The channel is 70\u00c5 at its base and 15\u00c5 at its narrowest point. The core also contains within it twelve copies of \u03bb3, the RNA-dependent RNA polymerase. One \u03bb3 protein is found slightly offset from each of the twelve pentameric \u03bb2 turrets. Closely associated with \u03bb3 are one or two copies of \u03bc2, a transcriptase cofactor. \u03bc2 has been found to have some enzymatic functions, such as NTPase activity. The \u03bb3 protein is responsible for transcription of the double-stranded RNA genome segments. Each transcript is threaded through the \u03bb2 pentameric turret as it is being extruded. Guanylyltransferase enzmatic activity in the \u03bb2 turret adds a 5' guanosine cap to the extruded mRNA. In addition, two methyltransferase domains found in the \u03bb2 structure act to methylate the 7N position of the added guanosine and the 2' O of the first templated nucleotide, which in all cases is also a guanosine. The outer capsid (T=13) is composed of \u03bc1 and \u03c33 proteins with \u03bb2, in compound with \u03c31, interspersed around the capsid. It has been proposed that \u03bb2 is involved in replication due to its placement at the fivefold axes and its ability to interact with \u03bb3 in solution. \u03c31, a filamentous trimer extruding from the outer capsid, is responsible for cell attachment by interacting with sialic acid and other entry receptors. \u03bc1 and \u03c33 are both involved in the attachment and thus entry of the virus via receptor-mediated endocytosis involving the formation of clathrin-coated pits. The only orthoreovirus to not produce syncytia, mammalian orthoreoviruses have the capability of infecting all mammals, but do not cause disease, except in young populations enabling them to be studied frequently as a model for viral replication and pathogenesis.  This orthoreovirus has been extracted from the heart blood of a fruit bat (\"Pteropus policephalus\") in Australia with different viruses being isolated from different species, such as the flying fox (\"Pteropus hypomelanus\") which have been found to cause respiratory infections in humans in Southeast Asia. The Nelson Bay Orthoreovirus, like the Avian orthoreovirus, has 3 open reading frames (ORFs) which encode for three different proteins: P10 which promotes syncytia formation, P17, and \u03c3C involved in cell attachment. The syncytia inducing capabilities of this class of orthoreoviruses combined with their association to encephalitis in baboons, distinguish them from other mammalian orthoreoviruses. While these viruses have the signature Orthoreovirus genome, they have not been found to encode for a cell attachment protein (\u03c3C), they do not encode any S-class genome segments, and are organized differently from the other species of fusogenic orthoreoviruses. The BRV genome contains 2 ORFs and contains two proteins, p15 and p16, that are not homologous to known viral or cellular proteins; however, p15 has been found to be the cell fusion protein in BRV. The Avian Orthoreovirus has a similar structure compared to the Mammalian Orthoreovirus with the differences mainly existing in the proteins that it encodes: 10 structural proteins and 4 non-structural proteins. However, these proteins have not been studied in depth, so there is some skepticism regarding their exact functions. The pathogenesis of this virus has been studied in an attempt to determine the pathway of inducing apoptosis. Avian orthoreovirus induces apoptosis by what has been proposed as an upregulation of p53 and Bax, a mitochondria-mediated pathway. P17 has also been found to play a role in growth retardation involved in the p53 pathway. Avian Orthoreoviruses have been found to cause diseases in poultry including chronic respiratory disease, malabsorption syndrome, and arthritis representing economic losses that make this virus particularly important to study. These orthoreoviruses were first isolated in 1987 from a moribund python (\"Python regius\") and was found to cause high levels of syncytium formation but did not cause hemagglutination in human red blood cells (RBCs). In reptiles the virus has been found widely but is not necessarily associated with any specific disease. The virus has been found to have 2 ORFs encoding for p14, a cell fusion protein and \u03c3C. RRVs belong to the fusogenic subgroup and has only recently been classified as a distinct subgroup of orthoreoviruses. Also known as Piscene Reovirus or PRV, was initially discovered in Atlantic salmon and subsequently in Pacific salmon and is associated with Heart and Skeletal Muscle Inflammation (HSMI)",
+            "score": 40.76820945739746
+        },
+        {
+            "docid": "6231567_5",
+            "document": "Nucleotidase . 5'-Nucleotidases cleave off the phosphate from the 5' end of the sugar moiety. They can be classified into various kinds depending on their substrate preferences and subcellular localization. Membrane-bound 5'-nucleotidases display specificity toward adenosine monophosphates and are involved predominantly in the salvage of preformed nucleotides and in signal transduction cascades involving purinergic receptors. Soluble 5'-nucleotidases are all known to belong to the haloacid dehalogenase superfamily of enzymes, which are two domain proteins characterised by a modified Rossman fold as the core and variable cap or hood. The soluble forms are further subclassified based on the criterion mentioned above. mdN and cdN are mitochondrial and cytosolic 5'-3'-pyrimidine nucleotidases. cN-I is a cytosolic nucleotidase(cN) characterized by its affinity toward AMP as its substrate. cN-II is identified by its affinity toward either IMP or GMP or both. cN-III is a pyrimidine 5'-nucleotidase. 5'-Nucleotidases are involved in varied functions like cell\u2013cell communication, nucleic acid repair, purine salvage pathway for the synthesis of nucleotides, signal transduction, membrane transport, etc.",
+            "score": 35.98890161514282
+        },
+        {
+            "docid": "39047258_2",
+            "document": "Cyclic guanosine monophosphate\u2013adenosine monophosphate . Cyclic guanosine monophosphate\u2013adenosine monophosphate (cyclic GMP-AMP, cGAMP) is the first cyclic di-nucleotide found in metazoa.  In mammalian cells, cGAMP is synthesized by cyclic GMP-AMP synthase (cGAS) from ATP and GTP upon cytosolic DNA stimulation. cGAMP produced by cGAS contains mixed phosphodiester linkages, with one between 2'-OH of GMP and 5'-phosphate of AMP and the other between 3'-OH of AMP and 5'-phosphate of GMP.",
+            "score": 43.484602212905884
+        },
+        {
+            "docid": "30160421_17",
+            "document": "Acyrthosiphon pisum . Individually, the metabolic pathways of \"A. pisum\" and \"Buchnera\" are incomplete. Jointly, the genomes of these two organisms complement each other to produce complete metabolic pathways for the biosynthesis of nutrients such as amino acids and other essential molecules. The ancestral partners of this symbiosis are likely to have had complete metabolic pathways, however pressure to maintain these pathway genes was reduced due to redundancy as a result of the presence of the other partner\u2019s genome. Unlike other related insects, the A. pisum genome is missing genes necessary for the urea cycle. the purine salvage pathway, and other genes that code enzymes necessary for the biosynthesis of molecules. These missing reaction intermediates are likely provided by genes within the \"Buchnera\" genome. For example, \"A. pisum\" is the only species with a sequenced genome known to be missing key components of the purine salvage pathway, essential for the production of DNA, RNA, signaling molecules, and ATP. The \"Buchnera\" genome contains the necessary genes to encode the reaction intermediates missing from the \"A. pisum\" genome. Through this complementation, the nucleotide requirements of both organisms are fulfilled: the purine salvage pathway is completed for \"A. pisum\" and \"Buchnera\" receives necessary guanosine.",
+            "score": 31.761826276779175
+        },
+        {
+            "docid": "396089_2",
+            "document": "Guanosine triphosphate . Guanosine-5'-triphosphate (GTP) is a purine nucleoside triphosphate. It is one of the building blocks needed for the synthesis of RNA during the transcription process. Its structure is similar to that of the guanine nucleobase, the only difference being that nucleotides like GTP have a ribose sugar and three phosphates, with the nucleobase attached to the 1' and the triphosphate moiety attached to the 5' carbons of the ribose.",
+            "score": 34.99431610107422
+        },
+        {
+            "docid": "5951626_6",
+            "document": "Antigenic variation . Trypanosoma brucei, the organism that causes sleeping sickness, replicates extracellularly in the bloodstream of infected mammals. In later stages, the parasite crosses the blood brain barrier, resulting in a devastating and usually fatal outcome. As a result of replicating in the bloodstream, \"T. brucei\" parasites are subjected to numerous host defense mechanisms including soluble components of the immune system ( i.e. complement), as well as cellular components of the innate and adaptive immune systems. In order to protect itself from host defenses, the parasite decorates itself with a dense, homogeneous coat (~10^7 molecules) of glycoprotein known as the variant surface glycoprotein (VSG).  In the early stages of invasion, the dense protein coat is sufficient to protect the parasite from immune detection. However, the host eventually identifies the VSG as a foreign antigen and mounts an attack against the microbe. The \"T. brucei\" parasite has evolved an elegant mechanism to display a completely new coat of VSG antigen, rendering it once again invisible to the host\u2019s immune system. The parasite\u2019s genome has over 1,000 genes that code for different variants of the VSG protein. VSG genes can be found on the subtelomeric portion of large chromosomes, or on intermediate chromosomes. VSG genes also exist in arrays and many exist as pseudogenes.  There is a hierarchy by which the VSG genes are activated. Telomeric VSGs are activated first, followed by array VSGs, and finally pseudogene VSGs. Switching of VSG proteins occurs at a rate substantially higher than the background mutation rate of other genes in the parasite (suggesting that it is a regulated process). The process is partially dependent on homologous recombination of DNA, which is mediated in part by the interaction of the \"T. brucei\" BRCA2 gene with RAD51 (however, this is not the only responsible mechanism, as BRCA2 variants still display some VSG switching). In addition to homologous recombination, transcriptional regulation also plays an important role in antigen switching. This is in contrast to other pathogens, where antigenic variation is typically mediated by DNA rearrangements or transcriptional regulation. The process by which VSG switching occurs has not been fully elucidated, but it is known that activation of VSGs requires recombination of the VSG genes into a VSG expression site (ES). The ES consists of a single \"vsg\" gene flanked by an upstream array of 70 base pair repeats and expression site associated genes (ESAGs). \"T. brucei\" expresses one VSG at any given time, and the active VSG can either be selected by activation of a previously silent ES, or by recombination of a VSG sequence into the active ES (see the figure \"Mechanisms of VSG Switching in \"T. brucei\"\"). Although the biological triggers that result in VSG switching are not fully known, mathematical modeling suggests that the ordered appearance of different VSG variants is controlled by at least two key parasite-derived factors: differential activation rates of parasite VSG and density-dependent parasite differentiation.",
+            "score": 74.79236018657684
+        },
+        {
+            "docid": "3247252_10",
+            "document": "Glutathione reductase . GSH is a key cellular antioxidant and plays a major role in the phase 2 metabolic clearance of electrophilic xenobiotics. The importance of the GSH pathway and enzymes that affect this delicate balance is gaining an increased level of attention in recent years. Although glutathione reductase has been an attractive target for many pharmaceuticals, there have been no successful glutathione reductase related therapeutic compounds created to date. In particular, glutathione reductase appears to be a good target for anti-malarials, as the glutathione reductase of the malaria parasite \"Plasmodium falciparum\" has a significantly different protein fold than that of mammalian glutathione reductase. By designing drugs specific to \"p. falciparum\" it may be possible to selectively induce oxidative stress in the parasite, while not affecting the host.",
+            "score": 53.36236834526062
+        },
+        {
+            "docid": "431968_2",
+            "document": "Cyclic guanosine monophosphate . Cyclic guanosine monophosphate (cGMP) is a cyclic nucleotide derived from guanosine triphosphate (GTP). cGMP acts as a second messenger much like cyclic AMP. Its most likely mechanism of action is activation of intracellular protein kinases in response to the binding of membrane-impermeable peptide hormones to the external cell surface.",
+            "score": 39.32459759712219
+        },
+        {
+            "docid": "11288874_5",
+            "document": "GMP synthase (glutamine\u2014hydrolysing) . This enzyme belongs to the family of ligases, specifically those forming carbon-nitrogen bonds carbon-nitrogen ligases with glutamine as amido-N-donor. The systematic name of this enzyme class is xanthosine-5'-phosphate:-glutamine amido-ligase (AMP-forming). Other names in common use include GMP synthetase (glutamine-hydrolysing), guanylate synthetase (glutamine-hydrolyzing), guanosine monophosphate synthetase (glutamine-hydrolyzing), xanthosine 5'-phosphate amidotransferase, and guanosine 5'-monophosphate synthetase. This enzyme participates in purine metabolism and glutamate metabolism. At least one compound, Psicofuranin is known to inhibit this enzyme.",
+            "score": 48.39227342605591
+        },
+        {
+            "docid": "1123902_17",
+            "document": "Biosynthesis . The DNA nucleotides adenosine and guanosine consist of a purine base attached to a ribose sugar with a glycosidic bond. In the case of RNA nucleotides deoxyadenosine and deoxyguanosine, the purine bases are attached to a deoxyribose sugar with a glycosidic bond. The purine bases on DNA and RNA nucleotides are synthesized in a twelve-step reaction mechanism present in most single-celled organisms. Higher eukaryotes employ a similar reaction mechanism in ten reaction steps. Purine bases are synthesized by converting phosphoribosyl pyrophosphate (PRPP) to inosine monophosphate (IMP), which is the first key intermediate in purine base biosynthesis.<ref name=\"Kappock/Purine\"></ref> Further enzymatic modification of IMP produces the adenosine and guanosine bases of nucleotides.",
+            "score": 33.52820086479187
+        },
+        {
+            "docid": "19628581_13",
+            "document": "Nitrovasodilator . NO stimulates the soluble form of the enzyme guanylate cyclase in the smooth muscle cells of blood vessels. Guanylate cyclase produces cyclic guanosine monophosphate (cGMP) from guanosine triphosphate (GTP). cGMP in turn activates cyclic nucleotide-dependent protein kinase G, which phosphorylates various proteins that play a role in decreasing intracellular calcium levels, leading to relaxation of the muscle cells and thus to dilation of blood vessels.",
+            "score": 31.684215307235718
+        },
+        {
+            "docid": "89111_4",
+            "document": "Inosine . Knowledge of inosine metabolism has led to advances in immunotherapy in recent decades. Inosine monophosphate is oxidised by the enzyme inosine monophosphate dehydrogenase, yielding xanthosine monophosphate, a key precursor in purine metabolism. Mycophenolate mofetil is an anti-metabolite, anti-proliferative drug that acts as an inhibitor of inosine monophosphate dehydrogenase. It is used in the treatment of a variety of autoimmune diseases including granulomatosis with polyangiitis because the uptake of purine by actively dividing B cells can exceed 8 times that of normal body cells, and, therefore, this set of white cells (which cannot operate purine salvage pathways) is selectively targeted by the purine deficiency resulting from inosine monophosphate dehydrogenase (IMD) inhibition.",
+            "score": 49.186196088790894
+        },
+        {
+            "docid": "11289098_2",
+            "document": "Adenylosuccinate . Adenylosuccinate is an intermediate in the interconversion of purine nucleotides inosine monophosphate (IMP) and adenosine monophosphate (AMP). The enzyme adenylosuccinate synthase carries out the reaction by the addition of aspartate to IMP and requires the input of energy from a phosphoanhydride bond in the form of guanosine triphosphate (GTP). GTP is used instead of adenosine triphosphate (ATP), so the reaction is not dependent on its products.",
+            "score": 44.32532453536987
+        },
+        {
+            "docid": "11403513_6",
+            "document": "Ribose-phosphate diphosphokinase . The product of this reaction, phosphoribosyl pyrophosphate (PRPP), is used in numerous biosynthesis (de novo and salvage) pathways. PRPP provides the ribose sugar in de novo synthesis of purines and pyrimidines, used in the nucleotide bases that form RNA and DNA. PRPP reacts with orotate to form orotidylate, which can be converted to uridylate (UMP). UMP can then be converted to the nucleotide cytidine triphosphate (CTP). The reaction of PRPP, glutamine, and ammonia forms 5-Phosphoribosyl-1-amine, a precursor to inosinate (IMP), which can ultimately be converted to adenosine triphosphate (ATP) or guanosine triphosphate (GTP). PRPP plays a role in purine salvage pathways by reacting with free purine bases to form adenylate, guanylate, and inosinate. PRPP is also used in the synthesis of NAD: the reaction of PRPP with nicotinic acid yields the intermediate nicotinic acid mononucleotide.",
+            "score": 21.979210138320923
+        }
+    ],
+    "r": [
+        {
+            "docid": "2198661_2",
+            "document": "Trypanosoma brucei . Trypanosoma brucei is a species of parasitic kinetoplastid belonging to the genus \"Trypanosoma\". The parasite is the cause of a vector-borne disease of vertebrate animals, including humans, carried by genera of tsetse fly in sub-Saharan Africa. In humans \"T. brucei\" causes African trypanosomiasis, or sleeping sickness. In animals it causes animal trypanosomiasis, also called nagana in cattle and horses. \"T. brucei\" has traditionally been grouped into three subspecies: \"T. b. brucei\", \"T. b. gambiense\" and \"T. b. rhodesiense\". The first is a parasite of non-human vertebrates, while the latter two are the known parasites of humans. Only rarely can the \"T. b. brucei\" infect a human.",
+            "score": 118.1355972290039
+        },
+        {
+            "docid": "141029_6",
+            "document": "African trypanosomiasis . \"Trypanosoma brucei gambiense\" accounts for the majority of African trypanosomiasis cases, with humans as the main reservoir needed for the transmission, while \"Trypanosoma brucei rhodesiense\" is mainly zoonotic, with the occasional human infection. African Trypanosomiasis is dependent on the interaction of the parasite (trypanosome) with the tsetse flies (vector), as well as the host (human for \"Trypanosoma brucei gambiense\", and animals for \"Trypanosoma brucei rhodesiense\"). The risk of contracting African Trypanosomiasis is dependent on coming in contact with an infected tsetse fly.",
+            "score": 117.8887710571289
+        },
+        {
+            "docid": "11070797_5",
+            "document": "Alternative oxidase . Unusually, the bloodstream form of the protozoan parasite \"Trypanosoma brucei\", which is the cause of sleeping sickness, depends entirely on the alternative oxidase pathway for cellular respiration through its electron transport chain. This major metabolic difference between the parasite and its human host has made the \"T. brucei\" alternative oxidase an attractive target for drug design. Of the known inhibitors of alternative oxidases, the antibiotic ascofuranone inhibits the \"T. brucei\" enzyme and cures infection in mice.",
+            "score": 112.03479766845703
+        },
+        {
+            "docid": "141029_2",
+            "document": "African trypanosomiasis . African trypanosomiasis, also known as sleeping sickness, is an insect-borne parasitic disease of humans and other animals. It is caused by protozoa of the species \"Trypanosoma brucei\". There are two types that infect humans, \"Trypanosoma brucei gambiense\" (TbG) and \"Trypanosoma brucei rhodesiense\" (TbR). TbG causes over 98% of reported cases. Both are usually transmitted by the bite of an infected tsetse fly and are most common in rural areas. Initially, in the first stage of the disease, there are fevers, headaches, itchiness and joint pains. This begins one to three weeks after the bite. Weeks to months later the second stage begins with confusion, poor coordination, numbness and trouble sleeping. Diagnosis is via finding the parasite in a blood smear or in the fluid of a lymph node. A lumbar puncture is often needed to tell the difference between first and second stage disease. Prevention of severe disease involves screening the population at risk with blood tests for TbG. Treatment is easier when the disease is detected early and before neurological symptoms occur. Treatment of the first stage is with the medications pentamidine or suramin. Treatment of the second stage involves eflornithine or a combination of nifurtimox and eflornithine for TbG. While melarsoprol works for both stages, it is typically only used for TbR, due to serious side effects. Without treatment it typically results in death. The disease occurs regularly in some regions of sub-Saharan Africa with the population at risk being about 70 million in 36 countries. An estimated 11,000 people are currently infected with 2,800 new infections in 2015. In 2015 it caused around 3,500 deaths, down from 34,000 in 1990. More than 80% of these cases are in the Democratic Republic of the Congo. Three major outbreaks have occurred in recent history: one from 1896 to 1906 primarily in Uganda and the Congo Basin and two in 1920 and 1970 in several African countries. It is classified as a neglected tropical disease. Other animals, such as cows, may carry the disease and become infected in which case it is known as animal trypanosomiasis.",
+            "score": 101.75273895263672
+        },
+        {
+            "docid": "2198661_16",
+            "document": "Trypanosoma brucei . The insect vectors for \"T. brucei\" are different species of tsetse fly (genus \"Glossina\"). The major vectors of \"T. b. gambiense\", causing West African sleeping sickness, are \"G. palpapalis\", \"G. tachinoides\", and \"G. fuscipes\". While the principal vectors of \"T. b. rhodesiense\", causing East African sleeping sickness, are \"G. morsitans\", \"G. pallidipes\", and \"G. Swynnertoni\". Animal trypanosomiasis is transmitted by a dozen species of \"Glossina\".",
+            "score": 98.59752655029297
+        },
+        {
+            "docid": "2198661_3",
+            "document": "Trypanosoma brucei . \"T. brucei\" is transmitted between mammal hosts by an insect vector belonging to different species of tsetse fly (\"Glossina\"). Transmission occurs by biting during the insect's blood meal. The parasites undergo complex morphological changes as they move between insect and mammal over the course of their life cycle. The mammalian bloodstream forms are notable for their cell surface proteins, variant surface glycoproteins, which undergo remarkable antigenic variation, enabling persistent evasion of host adaptive immunity leading to chronic infection. \"T. brucei\" is one of only a few pathogens known to cross the blood brain barrier. There is an urgent need for the development of new drug therapies, as current treatments can have severe side effects and can prove fatal to the patient.",
+            "score": 96.6113510131836
+        },
+        {
+            "docid": "732808_3",
+            "document": "Suramin . Suramin is used for treatment of human sleeping sickness caused by trypanosomes. Specifically, it is used for treatment of first-stage African trypanosomiasis caused by \"Trypanosoma brucei rhodesiense\" without involvement of central nervous system. It is considered second-line treatment for early-stage disease due to its side effects.",
+            "score": 95.43450164794922
+        },
+        {
+            "docid": "2198682_2",
+            "document": "Trypanosoma equiperdum . \u03a4rypanosoma equiperdum is a species of excavate parasites that causes Dourine or covering sickness in horses and other animals in the family equidae. Genetic analyses have revealed \"T. equiperdum\" to be a derivative of \"Trypanosoma brucei\", the causative agent of African trypanosomiasis. Unlike \"T. brucei\", \"T. equiperdum\" is spread primarily via sexual transmission, an adaptation that has allowed it to escape beyond the range of the tsetse fly and attain a cosmopolitan distribution. Mother-foal transmission has also been documented. \u03a4he donkey shows no symptoms but is a carrier of this parasite. Can be found in genital organs and secretions.",
+            "score": 94.1405258178711
+        },
+        {
+            "docid": "3325923_2",
+            "document": "Winterbottom's sign . Winterbottom's sign is seen in the early phase of African trypanosomiasis, a disease caused by the parasites \"Trypanosoma brucei rhodesiense\" and \"Trypanosoma brucei gambiense\" which is more commonly known as African sleeping sickness. Dr. Anthony Martinelli describes Winterbottom's sign as the swelling of lymph nodes (lymphadenopathy) along the back of the neck, in the posterior cervical chain of lymph nodes, as trypanosomes travel in the lymphatic fluid and cause inflammation.",
+            "score": 93.39582061767578
+        },
+        {
+            "docid": "2198661_17",
+            "document": "Trypanosoma brucei . In later stages of a \"T. brucei\" infection of a mammalian host the parasite may migrate from the bloodstream to also infect the lymph and cerebrospinal fluids. It is under this tissue invasion that the parasites produce the sleeping sickness.",
+            "score": 92.5400619506836
+        },
+        {
+            "docid": "152878_3",
+            "document": "Trypanosomatida . The three major human diseases caused by trypanosomatids are; African trypanosomiasis (sleeping sickness, caused by \"Trypanosoma brucei\" and transmitted by tsetse flies), South American trypanosomiasis (Chagas disease, caused by \"Trypanosoma cruzi\" and transmitted by triatomine bugs), and leishmaniasis (a set of trypanosomal diseases caused by various species of \"Leishmania\" transmitted by sandflies).",
+            "score": 91.90028381347656
+        },
+        {
+            "docid": "141029_7",
+            "document": "African trypanosomiasis . There are two subspecies of the parasite that are responsible for starting the disease in humans. \"Trypanosoma brucei gambiense\" causes the diseases in west and central Africa, whereas \"Trypanosoma brucei rhodesiense\" has a limited geographical range and is responsible for causing the disease in east and southern Africa. In addition, a third subspecies of the parasite known as \"Trypanosoma brucei brucei\" is responsible for affecting animals but not humans.",
+            "score": 91.37849426269531
+        },
+        {
+            "docid": "32451857_5",
+            "document": "Tryptophol . It is produced by the trypanosomal parasite (\"Trypanosoma brucei\") in sleeping sickness (African trypanosomiasis).",
+            "score": 90.64384460449219
+        },
+        {
+            "docid": "2568137_2",
+            "document": "Animal trypanosomiasis . Animal trypanosomiasis, also known as nagana and nagana pest, or sleeping sickness, is a disease of vertebrates. The disease is caused by trypanosomes of several species in the genus \"Trypanosoma\" such as \"Trypanosoma brucei\". \"Trypanosoma vivax\" causes nagana mainly in West Africa, although it has spread to South America. The trypanosomes infect the blood of the vertebrate host, causing fever, weakness, and lethargy, which lead to weight loss and anemia; in some animals the disease is fatal unless treated. The trypanosomes are transmitted by tsetse flies.",
+            "score": 90.24491882324219
+        },
+        {
+            "docid": "8129403_3",
+            "document": "Kinetoplast . In trypanosomes, a group of flagellated protozoans, the kinetoplast exists as a dense granule of DNA within the large mitochondrion. \"Trypanosoma brucei\", the parasite which causes African trypanosomiasis (African sleeping sickness), is an example of a trypanosome with a kinetoplast. Its kinetoplast is easily visible in samples stained with DAPI, a fluorescent DNA stain, or by the use of fluorescent in situ hybridization (FISH) with BrdU, a thymidine analogue.",
+            "score": 89.51160430908203
+        },
+        {
+            "docid": "1453225_7",
+            "document": "Eflornithine . After its introduction to the market in the 1980s, eflornithine has replaced melarsoprol as the first line medication against Human African trypanosomiasis (HAT) due to its reduced toxicity to the host. \"Trypanosoma brucei\" resistant to eflornithine has been reported as early as the mid-1980s.",
+            "score": 88.57929992675781
+        },
+        {
+            "docid": "160067_43",
+            "document": "Tsetse fly . Human African trypanosomiasis, also called sleeping sickness, is caused by trypanosomes of the species \"Trypanosoma brucei\". This disease is invariably fatal unless treated but can almost always be cured with current medicines, if the disease is diagnosed early enough.",
+            "score": 88.41585540771484
+        },
+        {
+            "docid": "160067_45",
+            "document": "Tsetse fly . The species \"Trypanosoma brucei\", which causes the disease, has often been subdivided into three subspecies that were identified based either on the vertebrate hosts which the strain could infect or on the virulence of the disease in humans. The trypanosomes infectious to animals and not to humans were named \"Trypanosoma brucei brucei\". Strains that infected humans were divided into two subspecies based on their different virulences: \"Trypanosoma brucei gambiense\" was thought to have a slower onset and \"Trypanosoma brucei rhodesiense\" refers to strains with a more rapid, virulent onset. This characterization has always been problematic but was the best that could be done given the knowledge of the time and the tools available for identification. A recent molecular study using restriction fragment length polymorphism analysis suggests that the three subspecies are polyphyletic, so the elucidation of the strains of \"T. brucei\" infective to humans requires a more complex explanation. Procyclins are proteins developed in the surface coating of trypanosomes whilst in their tsetse fly vector.",
+            "score": 88.01358032226562
+        },
+        {
+            "docid": "935178_8",
+            "document": "Trypanosoma . The monophyly of the genus \"Trypanosoma\" is not supported by a number of different methods. Rather, the American and African trypanosomes constitute distinct clades, implying that the major human disease agents \"T. cruzi\" (cause of Chagas\u2019 disease) and \"T. brucei\" (cause of African sleeping sickness) are not closely related to each other.",
+            "score": 87.0501937866211
+        },
+        {
+            "docid": "2736775_16",
+            "document": "Myristoylation . Certain NMTs are therapeutic targets for development of drugs against bacterial infections. Myristoylation has been shown to be necessary for the survival of a number of disease-causing fungi including \"C. albicans\" and \"C. neoformans\". In addition to prokaryotic bacteria, the NMTs of numerous disease-causing eukaryotic organisms have been identified as drug targets as well. Proper NMT functioning in the protozoa \"Leishmania major\" and \"Leishmania donovani\" (leishmaniasis), \"Trypanosoma brucei\" (African sleeping sickness) and \"P. falciparum\" (malaria) is necessary for survival of the parasites. Inhibitors of these organisms is under current investigation. A pyrazole sulphonamide inhibitor has been identified that selectively binds \"T. brucei\", competing for the peptide binding site, thus inhibiting enzymatic activity and eliminating the parasite from the bloodstream of mice with African sleeping sickness.",
+            "score": 86.82644653320312
+        },
+        {
+            "docid": "20105022_7",
+            "document": "Paleoparasitology . Assumptions of true parasitism in paleontological settings which are based on analogy to known present-day parasitic relationships may not be valid, due to host-specificity. For example, \"Trypanosoma brucei gambiense\" and \"Trypanosoma brucei rhodesiense\" are both devastating human parasites, but the related subspecies \"Trypanosoma brucei brucei\" will infect a number of animal hosts, but cannot even survive in the human blood stream, much less reproduce and infect a human host. So a related (or unidentifiable) species of \"Trypanosoma\" found in a paleontological or archaeological context may not be a true human parasite, even though it appears identical (or very similar) to the modern parasitic forms.",
+            "score": 85.8869857788086
+        },
+        {
+            "docid": "28147113_12",
+            "document": "Parasitic nutrition . Tsetse flies, the insect vector of Trypanosoma brucei, the causative agent of African trypanosomiasis are an example of an ectoparasite. These insects have a specialised structure, a \"proboscis\", that they use to pierce and draw nutrients from their host. These then employ transport proteins to transport the essential nutrients across membranes, ultimately from the host to the tsetse fly gut for digestion. Various permeases have been characterised including those that import hexoses, carboxylates, and amino acids.",
+            "score": 85.39724731445312
+        },
+        {
+            "docid": "2198661_11",
+            "document": "Trypanosoma brucei . \"T. brucei\" completes its life cycle between tsetsefly (of the genus \"Glossina\") and mammalian hosts, including humans, cattle, horses, and wild animals.",
+            "score": 83.62539672851562
+        },
+        {
+            "docid": "1339605_2",
+            "document": "Melarsoprol . Melarsoprol is a medication used for the treatment of sleeping sickness (African trypanosomiasis). It is specifically used for second-stage disease caused by \"Trypanosoma brucei rhodesiense\" when the central nervous system is involved. For \"Trypanosoma brucei gambiense\", the medication eflornithine is usually preferred. It is given by injection into a vein. Melarsoprol has a high number of side effects. Common side effects include brain dysfunction, numbness, rashes, and kidney and liver problems. In those with glucose-6-phosphate dehydrogenase (G6PD) deficiency, red blood cell breakdown may occur. It has not been studied in pregnancy. It works by blocking pyruvate kinase, an enzyme required for the parasite to make adenosine triphosphate. Melarsoprol has been used medically since 1949. It is on the World Health Organization's List of Essential Medicines, the most effective and safe medicines needed in a health system. In regions of the world where the disease is common, melarsoprol is provided for free by the World Health Organization. It is not commercially available in Canada or the United States. In the United States, it may be obtained from the Centers for Disease Control and Prevention, while in Canada it is available from Health Canada.",
+            "score": 83.22154998779297
+        },
+        {
+            "docid": "12591953_5",
+            "document": "Crithidia fasciculata . \"C. fasciculata\" is an example of a non-human infective trypanosomatid and is related to several human parasites, including \"Trypanosoma brucei\" (which causes African trypanosomiasis) and \"Leishmania\" spp. (which cause Leishmaniasis). \"C. fasciculata\" parasitizes several species of insects and has been widely used to test new therapeutic strategies against parasitic infections. \"C. fasciculata\" is often used as a model organism in research into trypanosomatid biology that may then be applied to understanding the biology of the human infective species.",
+            "score": 82.70099639892578
+        },
+        {
+            "docid": "644499_3",
+            "document": "Trypanosomiasis . Approximately 30,000 people in 36 countries of sub-Saharan Africa have African trypanosomiasis, which is caused by either \"Trypanosoma brucei gambiense\" or \"Trypanosoma brucei rhodesiense\". Chagas disease causes 21,000 deaths per year mainly in Latin America.",
+            "score": 80.91731262207031
+        },
+        {
+            "docid": "1914_59",
+            "document": "Antimicrobial resistance . Trypanosomes are parasitic protozoa that cause African trypanosomiasis and Chagas disease (American trypanosomiasis). There are no vaccines to prevent these infections so drugs such as pentamidine and suramin, benznidazole and nifurtimox are used to treat infections. These drugs are effective but infections caused by resistant parasites have been reported.",
+            "score": 80.6351547241211
+        },
+        {
+            "docid": "1453225_26",
+            "document": "Eflornithine . Eflornithine was initially developed for cancer treatment at Merrell Dow Research Institute in the late 1970s, but was found to be ineffective in treating malignancies. However, it was discovered to be highly effective in reducing hair growth, as well as in the treatment of African trypanosomiasis (sleeping sickness), especially the West African form (Trypanosoma brucei gambiense).",
+            "score": 79.44975280761719
+        },
+        {
+            "docid": "2198661_27",
+            "document": "Trypanosoma brucei . The surface of the trypanosome is covered by a dense coat of ~5 x 10 molecules of variant surface glycoprotein (VSG). This coat enables an infecting \"T. brucei\" population to persistently evade the host's immune system, allowing chronic infection. VSG is highly immunogenic, and an immune response raised against a specific VSG coat rapidly kills trypanosomes expressing this variant. Antibody-mediated trypanosome killing can also be observed in vitro by a complement-mediated lysis assay. However, with each cell division there is a possibility that one or both of the progeny will switch expression to change the VSG that is being expressed. The frequency of VSG switching has been measured to be approximately 0.1% per division. As \"T. brucei\" populations can peak at a size of 10 within a host this rapid rate of switching ensures that the parasite population is typically highly diverse. Because host immunity against a specific VSG does not develop immediately, some parasites will have switched to an antigenically-distinct VSG variant, and can go on to multiply and continue the infection. The clinical effect of this cycle is successive 'waves' of parasitemia (trypanosomes in the blood).",
+            "score": 78.27136993408203
+        },
+        {
+            "docid": "141029_9",
+            "document": "African trypanosomiasis . \"T. b. rhodesiense\" is the acute form of the disease, and death can occur within months since the symptoms emerge within weeks and it is more virulent and faster developing than \"T. b. gambiense\". Furthermore, trypanosomes are surrounded by a coat that is composed of variant surface glycoproteins (VSG). These proteins act to protect the parasite from any lytic factors that are present in human plasma. The host's immune system recognizes the glycoproteins present on the coat of the parasite leading to the production of different antibodies (IgM and IgG).",
+            "score": 75.99986267089844
+        },
+        {
+            "docid": "935178_19",
+            "document": "Trypanosoma . Evidence has been obtained for meiosis in \"T. cruzi\", and for genetic exchange. \"T. brucei\" is able to undergo meiosis within the salivary glands of its tsetse fly host, and meiosis is considered to be an intrinsic part of the \"T. brucei\" developmental cycle. An adaptive benefit of meiosis for \"T. crucei\" and \"T. brucei\" may be the recombinational repair of DNA damages that are acquired in the hostile environment of their respective hosts.",
+            "score": 75.8121337890625
+        },
+        {
+            "docid": "141029_38",
+            "document": "African trypanosomiasis . The genome of the parasite has been sequenced and several proteins have been identified as potential targets for drug treatment. Analysis of the genome also revealed the reason why generating a vaccine for this disease has been so difficult. \"T. brucei\" has over 800 genes that make proteins the parasite \"mixes and matches\" to evade immune system detection.",
+            "score": 75.72624206542969
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "53820834_3",
+            "document": "Francisella small RNAs . Ftr A and Ftr B (\"Francisella tularensis\" sRNA A and B) were the first sRNAs identified in \"F. tularensis.\" Experimental analysis confirmed the expression of the well known non-coding RNAs: tmRNA and 4.5S RNA as well as identification of the 2 new sRNAs Ftr A and Ftr B. A genome-wide \"in silico\" search found several other sRNAs. Ftr A and Ftr B share no sequence similarity or conserved genomic context with any previously annotated regulatory RNAs. Deletion of Ftr A and Ftr B led to significant changes in the expression of several mRNAs. However, it did not alter \"Francisella\"'s survival during normal growth or under stress conditions. Also deletion of those sRNAs did not affect bacterium ability to induce disease in a mouse model.",
+            "score": 64.50992405414581
+        },
+        {
+            "docid": "55486640_2",
+            "document": "Methanosarcina sRNAs . sRNA162, sRNA154, sRNA41 are small non-coding RNA (sRNA) identified together with 248 other sRNA candidates by RNA sequencing in methanogenic archaeon \"Methanosarcina mazei\" G\u00f61. These sRNAs were further characterised. It was shown that sRNA162 can interact with both, a \"cis-\" and a \"trans\"-encoded mRNAs using two distinct domains. The sRNA overlaps the 5'UTR of the MM2442 mRNA and acts as a cis-encoded antisense RNA, and it also regulates MM2441 expression as a trans-encoded sRNA. It exhibits a regulatory role in the metabolic switch between methanol and trimethylamine as carbon and energy source. sRNA154, exclusively expressed under nitrogen deficiency, has a central regulatory role in nitrogen metabolism affecting nitrogenase and glutamine synthetase by masking the ribosome binding site or positively affecting transcript stability. sRNA41, highly expressed during nitrogen sufficiency, is capable to bind several ribosome binding sites independently within a polycistronic mRNA. It was proposed to inhibits translation initiation of all ACDS (acetyl-CoA decarbonylase/synthase complex) genes in N-dependent manner.",
+            "score": 64.40854895114899
+        },
+        {
+            "docid": "31360194_2",
+            "document": "Escherichia coli sRNA . \"Escherichia coli\" contains a number of small RNAs located in intergenic regions of its genome. The presence of at least 55 of these has been verified experimentally. 275 potential sRNA-encoding loci were identified computationally using the QRNA program. These loci will include false positives, so the number of sRNA genes in \"E. coli\" is likely to be less than 275. A computational screen based on promoter sequences recognised by the sigma factor sigma 70 and on Rho-independent terminators predicted 24 putative sRNA genes, 14 of these were verified experimentally by northern blotting. The experimentally verified sRNAs included the well characterised sRNAs RprA and RyhB. Many of the sRNAs identified in this screen, including RprA, RyhB, SraB and SraL, are only expressed in the stationary phase of bacterial cell growth. A screen for sRNA genes based on homology to \"Salmonella\" and \"Klebsiella\" identified 59 candidate sRNA genes. From this set of candidate genes, microarray analysis and northern blotting confirmed the existence of 17 previously undescribed sRNAs, many of which bind to the chaperone protein Hfq and regulate the translation of RpoS (Sigma 38). UptR sRNA transcribed from the \"uptR\" gene is implicated in suppressing extracytoplasmic toxicity by reducing the amount of membrane-bound toxic hybrid protein.",
+            "score": 47.80372416973114
+        },
+        {
+            "docid": "53694969_3",
+            "document": "Soft rot Enterobacteriaceae (SRE) small RNAs . When they live in soil outside of their plant hosts they starve and have to adapt to this new condition. By using strand-specific RNA-seq analysis and \"in silico\" sRNA predictions 137 small RNAs candidates were identified in \"Pectobacterium atrosepticum\" under starvation conditions. This suggests that sRNAs play roles in bacterial adaptive response. The expression of 9 novel candidate sRNAs was validated by RT-PCR. Those included antisense RNAs and UTR regions.",
+            "score": 68.98143267631531
+        },
+        {
+            "docid": "219940_15",
+            "document": "Vibrio . \"V. cholerae\" has been used in discoveries of many bacterial small RNAs. Using sRNA-Seq and Northern blot candidate sRNAs were identified and characterised as IGR-sRNA (\"intragenic region)\", AS-sRNAs (transcribed from the antisense strand of the ORF) and ORF-derived. One of the candidates from this study, IGR7, was shown to be involved in carbon metabolism and later renamed MtlS RNA. Other sRNAs identified in \"V. cholerae\" through genetic screens and computational methods include Qrr RNA, Vibrio regulatory RNA of OmpA, MicX sRNA, Vibrio cholerae ToxT activated RNAs, tfoR RNA, and VqmR sRNA.",
+            "score": 59.34459567070007
+        },
+        {
+            "docid": "50126035_2",
+            "document": "Brucella sRNA . Bacterial small RNAs (sRNA) are an important class of regulatory molecules in bacteria such as \"Brucella\". They are often bound to the chaperone protein Hfq, which allows them to interact with mRNA(s). In \"Brucella suis 1330\" RNA sequencing identified a novel list of 33 sRNAs and 62 Hfq-associated mRNAs. In \"Brucella melitensis\" eight novel sRNA genes were identified using bioinformatic and experimental approach. One of them BSR0602 was found to modulate the intracellular survival of \"B. melitensis\". In another large-scale deep sequencing study 1321 sRNAs were identified in \"B. melitensis.\" BSR0441 sRNA was further investigated in this study and shown to play role in the intracellular survival. sRNA BM-sr0117 from \"Brucella melitensis\" was identified and shown to be bound to and cleaved by Bm-RNase III. AbcR and AbcR2 (orthologs of SmrC15 and SmrC16) were studied \"B. abortus\". Seven novel sRNAs were validated and their interaction with a putative target sequence was verified in \"B. abortus\".",
+            "score": 76.95075964927673
+        },
+        {
+            "docid": "11670572_7",
+            "document": "Aggregatibacter actinomycetemcomitans . In bacteria small RNAs are involved in gene regulation. Jorth et al. identified 9 sRNA by Northern blotting from computer predicted candidates in strain VT1169 and 202 sRNA by RNA seq in strain 624. A systematic screen by RNA-seq and RT-PCR in HK1651 strain (a clinical isolate from an aggressive periodontitis patient), quantified 70 sRNAs and further identified 17 differentially expressed sRNAs during growth phases. Target prediction indicated possibility of sRNA interaction with several virulence genes. This study confirmed the presence of one of previously identified Fur regulated sRNAs JA04 identified in strain HK1651.",
+            "score": 70.43044948577881
+        },
+        {
+            "docid": "23873979_3",
+            "document": "Listeria monocytogenes non-coding RNA . Tiling arrays and mutagenesis identified many non-coding RNAs within the \"L. monocytogenes\" genome and the location of these non-coding RNAs within the bacterial genome was confirmed by RACE (rapid amplification of cDNA ends) analysis. These studies showed that the expression of many non-coding RNAs was dependent on the environment and that several of these non-coding RNAs act as cis-regulatory elements. Comparisons between previously characterized non-coding RNAs and those present in the \"L. monocyotogenes\" genome identified 50 novel non-coding RNAs in \"L. monocyotogenes\". An additional comparative study between the pathogenic \"L. monocytogenes\" strain and the non pathogenic \"L. innocua\" strain identified several non-coding RNAs that are only present within \"L. monocytogenes\" which suggests that these ncRNAs may have a role in pathogenesis. The tables below summarizes the location, flanking genes and also the characteristics of the novel small non-coding RNAs identified and the previously characterized non-coding RNAs present in \"L. monocytogenes\"",
+            "score": 76.8970936536789
+        },
+        {
+            "docid": "49521271_2",
+            "document": "PinT small RNA . In bacteria, PinT small RNA is a small regulatory RNA (sRNA) that is activated during stress and virulence conditions. sRNAs base-pair with target mRNAs and modulate their stability or translation. The expression of PhoP-activated sRNA called PinT is highly induced during \"Salmonella enterica\" infection. PinT temporally controls \"Salmonella\" virulence genes. On bacterial internalization it controls the expression of invasion associated effectors (SPI-1) through the direct base-pairing with the mRNA. Later in infection it represses the virulence genes (SPI-2) allowing the switch from an invasive state to the state of intracellular replication.",
+            "score": 97.29587483406067
+        },
+        {
+            "docid": "1454374_6",
+            "document": "Ruegeria . Highly abundant bacterial small RNAs have been shown to be present in the bacteria subjected to chronic nutrient limitation. In \"Ruegeria pomeroyi\" RNAseq analysis identified 99 putative sRNAs. The bacterial sRNAs regulatory mechanisms are typically based on direct RNA-RNA interaction with a target mRNA. The target gene groups identified by Rivers et al. were genes involved in transport, genes mediating cell-cell interactions, signal transduction and transcriptional regulation.",
+            "score": 84.34819531440735
+        },
+        {
+            "docid": "20183045_2",
+            "document": "Hfq binding sRNA . An Hfq binding sRNA is an sRNA that binds the bacterial RNA binding protein called Hfq. A number of bacterial small RNAs which have been shown to bind to Hfq have been characterised (see list). Many of these RNAs share a similar structure composed of three stem-loops. Several studies have expanded this list, and experimentally validated a total of 64 Hfq binding sRNA in \"Salmonella Typhimurium\". A transcriptome wide study on Hfq binding sites in \"Salmonella\" mapped 126 Hfq binding sites within sRNAs. Genomic SELEX has been used to show that Hfq binding RNAs are enriched in the sequence motif 5'-AAYAAYAA-3'. Genome-wide study identified 40 candidate Hfq-dependent sRNAs in plant pathogen \"Erwinia amylovora.\" 12 of them were confirmed by Northern blot.",
+            "score": 61.927812337875366
+        },
+        {
+            "docid": "13629249_2",
+            "document": "Listeria Hfq binding LhrC . Listeria LhrC ncRNA was identified by screening for RNA molecules which co-immunoprecipitated with the RNA chaperone Hfq. However, neither the stability nor the activity of LhrC seem to depend on the presence of Hfq. This RNA is transcribed from an intergenic region between the protein coding genes cysK, a putative cysteine synthase and sul, a putative dihydropteroate synthase. In Listeria monocytogenes four additional copies of lhrC have been identified in the genome, three of which are located in tandem repeat upstream of the originally characterised lhrC. This RNA molecule appears to be conserved amongst Listeria species but has not been identified in other bacterial species. It is involved in virulence. The direct mRNA targets of LhrC are the virulence adhesion LapB, and the oligo-peptide binding protein OppA. The 3 conserved UCCC motifs common to all copies of LhrC are involved in the mRNA binding and post-transcriptional repression of the target genes. Two other \"Listerina monocytogenes\" sRNAs Rli22 and Rli33 contain 2 UCCC motifs and use them to repress \"oppA\" mRNA expression.",
+            "score": 61.97146391868591
+        },
+        {
+            "docid": "53470897_2",
+            "document": "HrrF RNA . HrrF RNA (\"Haemophilus\" regulatory RNA responsive to iron Fe) is a small non-coding RNA involved in iron homeostasis in \"Haemophilus\" species. Orthologues exist only among other \"Pasteurellacae.\" Iron- regulated sRNAs JA01- JA04 were identified in related \"Aggregatibacte\"r. It is an analog to PrrF and RyhB RNAs. HrrF is maximally expressed when iron levels are low. Ferric uptake regulator (Fur) binds upstream of the \"hrrF\" promoter. HrrF stability is not dependant on the RNA chaperone Hfq. RNA-seq has shown that that HrrF targets are mRNAs of genes whose products are involved in molybdate uptake, deoxyribonucleotide synthesis, and amino acid synthesis.",
+            "score": 64.6132869720459
+        },
+        {
+            "docid": "9458068_31",
+            "document": "RNA silencing . Bioinformatics approaches to identify small RNAs and their targets have returned several hundred, if not thousands of, small RNA candidates predicted to affect gene expression in plants, C. elegans, D. melanogaster, zebrafish, mouse, rat, and human. These methods are largely directed to identifying small RNA candidates for knock-out experiments but may have broader applications. One bioinformatics approach evaluated sequence conservation criteria by filtering seed complementary target-binding sites. The cited study predicted that approximately one third of mammalian genes were to be regulated by, in this case, miRNAs.",
+            "score": 77.52576327323914
+        },
+        {
+            "docid": "34678851_4",
+            "document": "Small non-coding RNAs in the endosymbiotic diazotroph \u03b1-proteobacterium Sinorhizobium meliloti . Two complementary computational screens, eQRNA and RNAz, were used to search for novel sRNA-encoding genes in the intergenic regions \"IGRs\" of \"S. meliloti\". Verification of eQRNA/RNAz predictions by Northern hybridization and RACE mapping led to the identification of eight previously unknown genes, with recognizable promoter and termination signatures, expressing small transcripts. These new genomic \"loci\" were referred to as \"smr\", for \"S. meliloti\" RNA. Seven of the Smr transcripts, which conservation is restricted to phylogenetically related \u03b1-proteobacteria, accumulated differentially in free-living and endosymbiotic bacteria. These findings anticipate a function for these sRNAs as \"trans\"-acting antisense riboregulators of \u03b1-proteobacteria-eukaryote interactions.",
+            "score": 42.39112329483032
+        },
+        {
+            "docid": "1158788_4",
+            "document": "Antisense RNA . Unlike micF RNA being discovered by accident, the majority of asRNAs were discovered by genome wide searches for small regulatory RNAs and by transcriptome analysis. Conventionally, the first step involves computational predictions based on some known characteristics of asRNAs. During computational searches, the encoding regions are excluded. The regions that are predicted to have conserved RNA structures and act as orphan promoters and Rho-independent terminators are preferenced during analysis. Because computational searches focuses on the intergenic region, the asRNAs that are transcribed from the opposite strand of an encoding gene are likely to be missed using this method. To detect asRNA transcribed from the encoding region, oligonucleotide microarrays can be used. In this methods, one or both strands of encoding genes can be used as probes. In addition to computational searches and microarrays, some asRNAs were discovered by sequencing cDNA clones as well as mapping promoter elements. Although many findings from the approaches mentioned above gave rise to a lot of possible asRNAs, only few were proven to be actual asRNAs via further functional tests. To minimize the number of false positive results, new approaches from recent years have been focusing on strand-specific transcription, chromatin binding noncoding RNAs and single cell studies.",
+            "score": 70.30068922042847
+        },
+        {
+            "docid": "11421121_4",
+            "document": "Infectious bronchitis virus D-RNA . IBV D-RNA is often used in the reverse genetics approach to experimentally induce heterologous gene expression and site-specific mutagenesis of the coronavirus genome. However, a translation associated sequence (TAS), which is normally used to transcribe sg mRNA and is derived from gene 5 of the Beaudette strain of IBV, is needed as a promoter to regulate heterologous gene expression. It is also thought that TAS may program some IBV D-RNA to synthesize sg mRNA, which are necessary for homologous gene protein synthesis. In particular, IBV D-RNA CD-61 is used to experimentally produce recombinant IBV vaccines. D-RNA CD-61 was created from the naturally occurring IBV D-RNA CD-91, which is produced by multiple passage of high concentration IBV in chick kidney (CK) cells. The IBV D-RNA CD-61 resulted from deletion mutagenesis of CD-91 and lacks much of the genome but retains the sequences necessary for replication and packaging of viral particles in the presence of a helper virus.",
+            "score": 57.95431101322174
+        },
+        {
+            "docid": "53277574_4",
+            "document": "Gisela Storz . Dr. Storz's research interests include the characterization of small non-coding RNA and small proteins of 50 amino acids or less. An early focus of her research was the study of redox-sensitive transcription factors and the bacterial and yeast responses to oxidative stress. She discovered that the activity of the \"Escherichia coli\" transcription factor OxyR, now a paradigm for other redox-sensitive proteins, is regulated by reversible disulfide bond formation and elucidated how disulfide bond formation controls the nuclear localization of the \"Saccharomyces cerevisiae\" transcription factor Yap1. As a result of her group's serendipitous detection of the OxyS RNA, one of the first small regulatory RNAs to be discovered, attention shifted to the genome-wide identification and characterization of small regulatory RNAs in the model organism \"Escherichia coli\". Work on small RNAs in Dr. Storz's lab revealed that the RNA chaperone Hfq stimulates the pairing of the majority of the small RNAs with mRNA targets and that small RNAs are integral to most regulatory circuits in bacteria. While identifying these small RNAs, her lab discovered that some of these small RNAs encode small proteins that had previously been overlooked because they are not detected in many traditional biochemical assays and the corresponding genes are poorly annotated. Her research group demonstrated that one such small protein, AcrZ, binds to the multidrug efflux pump protein AcrB to affect its ability to export certain classes of antibiotics. The Storz lab currently seeks to identify characterize the function of other small proteins from \"Escherichia coli\".",
+            "score": 90.16133427619934
+        },
+        {
+            "docid": "3650770_16",
+            "document": "Yersinia pseudotuberculosis . Numerous bacterial small non-coding RNAs have been identified to play regulatory functions. Some can regulate the virulence genes. 150 unannotated sRNAs were identified by sequencing of \"Y. pseudotuberculosis\" RNA libraries from bacteria grown at 26\u00a0\u00b0C and 37\u00a0\u00b0C, suggesting they may play a role in pathogenesis. By using single-molecule fluorescence in situ hybridisation smFISH technique it was shown that the number of YSR35 RNA increased 2.5 times upon temperature shift from 25\u00a0\u00b0C to 37\u00a0\u00b0C. Another study uncovered that a temperature-induced global reprogramming of central metabolic functions are likely to support intestinal colonization of the pathogen. Environmentally controlled regulatory RNAs coordinate control of metabolism and virulence allowing rapid adaptation and high flexibility during life-style changes. High-throughput RNA structure probing identified many thermoresponsive RNA structures.",
+            "score": 133.64512515068054
+        },
+        {
+            "docid": "21731590_26",
+            "document": "RNA-Seq . Compared with microarrays, NGS technology has identified novel and low frequency RNAs associated with disease processes. This advantage aids in the diagnosis and possible future treatments of diseases, including cancer. For example, NGS technology identified several previously undocumented differentially-expressed transcripts in rats treated with AFB1, a potent hepatocarcinogen. Nearly 50 new differentially-expressed transcripts were identified between the controls and AFB1-treated rats. Additionally potential new exons were identified, including some that are responsive to AFB1. The next-generation sequencing pipeline identified more differential gene expressions compared with microarrays, particularly when DESeq software was utilized. Cufflinks identified two novel transcripts that were not previously annotated in the Ensembl database; these transcripts were confirmed using PCR-cloning. A followup study identified twenty-five, unannotated AFB1 transcripts from RNA-Seq as long noncoding RNAs. Numerous other studies have demonstrated NGS's ability to detect aberrant mRNA and small non-coding RNA expression in disease processes above that provided by microarrays. The lower cost and higher throughput offered by NGS confers another advantage to researchers.",
+            "score": 66.44558262825012
+        },
+        {
+            "docid": "49156978_2",
+            "document": "RnaG . RnaG is a small regulatory non-coding RNA encoded by the virulence plasmid of \"Shigella flexneri\", a Gram-negative pathogenic bacterium that causes human bacillary dysentery. It is a first regulatory RNA characterised in \"S. flexneri\". The RNA is 450 nucleotides long (which makes it one of the largest regulatory sRNAs) and it contains a region with specific secondary structure that interacts with \"icsA\" (\"virG\") mRNA and forms a transcription terminator. Acting as antisense, RnaG is transcribed from the complementary strand of its target, \"icsA\" mRNA. The activity of the incA protein is crucial for spreading of the bacterial pathogen in the host cells.",
+            "score": 81.41660666465759
+        },
+        {
+            "docid": "9458068_26",
+            "document": "RNA silencing . Artificial introduction of long dsRNAs or siRNAs has been adopted as a tool to inactivate gene expression, both in cultured cells and in living organisms. Structural and functional resolution of small RNAs as the effectors of RNA silencing has had a direct impact on experimental biology. For example, dsRNA may be synthesized to have a specific sequence complementary to a gene of interest. Once introduced into a cell or biological system, it is recognized as exogenous genetic material and activates the corresponding RNA silencing pathway. This mechanism can be used to effect decreases in gene expression with respect to the target, useful for investigating loss of function for genes relative to a phenotype. That is, studying the phenotypic and/or physiologic effects of expression decreases can reveal the role of a gene product. The observable effects can be nuanced, such that some methods can distinguish between \u201cknockdown\u201d (decrease expression) and \u201cknockout\u201d (eliminate expression) of a gene. RNA interference technologies have been noted recently as one of the most widely utilized techniques in functional genomics. Screens developed using small RNAs have been used to identify genes involved in fundamental processes such as cell division, apoptosis and fat regulation.",
+            "score": 77.87949085235596
+        },
+        {
+            "docid": "28253826_6",
+            "document": "Bacterial small RNA . sRNAs that interact with mRNA can also be categorized as \"cis-\" or \"trans-\"acting. C\"is\"-acting sRNAs interact with genes encoded on the same genetic locus as the sRNA. Some \"cis\"-acting sRNAs act as riboswitches, which have receptors for specific environmental or metabolic signals and activate or repress genes based on these signals. Conversely, \"trans\"-encoded sRNAs interact with genes on separate loci.",
+            "score": 52.536072731018066
+        },
+        {
+            "docid": "15939934_6",
+            "document": "Rhodobacter sphaeroides . Bacterial small RNAs have been identified as components of many regulatory networks. Twenty sRNAs were experimentally identified in \"Rhodobacter spheroids,\" and the abundant ones were shown to be affected by singlet oxygen (O) exposure. O which generates photooxidative stress, is made by bacteriochlorophyll upon exposure to oxygen and light. One of the O induced sRNAs SorY (O resistance RNA Y) was shown to be induced under several stress conditions and conferred resistance against O by affecting a metabolite transporter. SorX is the second O induced sRNA that couteracts oxidative stress by targeting mRNA for a transporter. It also has an impact on resistance against organic hydroperoxides. A cluster of four homologous sRNAs called CcsR for conserved CCUCCUCCC motif stress-induced RNA has been shown to play a role in photo-oxidative stress resistance as well. PcrZ (photosynthesis control RNA Z) identified in \"R. sphaeroides,\" is a \"trans\"-acting sRNA which counteracts the redox-dependent induction of photosynthesis genes, mediated by protein regulators.",
+            "score": 72.3158723115921
+        },
+        {
+            "docid": "53126088_2",
+            "document": "Anti small RNA . In bacteria small RNAs play a major role as a regulators of mRNA translation and stability. It was shown in a study using the that unusually short (between 50 and 60 nucleotide long) small RNAs are expressed by bacteriophages and bacteriophage-derived pathogenicity islands. They modulate the activities of bacterial host small RNAs. AsxR sRNA acts to increase expression of the ChuS heme oxygenase via destabilisation of FnrS sRNA and AgvB sRNA inhibits GcvB sRNA repression.",
+            "score": 77.31861019134521
+        },
+        {
+            "docid": "31473595_5",
+            "document": "M. Ahmad Chaudhry . Ionizing radiation interferes with cellular functions at all levels of cell organization. The ionizing radiation-induced stress response is very complex and involves many cellular processes. Dr. Chaudry is investigating the involvement of small non-coding micro-RNA in the response of human cells exposed to ionizing radiation. Micro RNAs (miRNAs) are small non-protein-coding single-stranded RNAs of ~22 nucleotides that function as negative gene regulators. miRNA negatively regulate their targets either by binding with perfect or nearly perfect complementarity to protein coding mRNA sequences to induce the RNA-mediated interference (RNAi) pathway. Most miRNAs do not cleave their mRNA targets as a mechanism of gene regulation. These miRNAs bind to imperfect complementary sites within the 3\u2032 untranslated regions (UTRs) of their mRNA targets. In this case the target-gene repression occurs post-transcriptionally at the level of translation resulting in reduced protein levels but the mRNA levels remain unaffected. A single miRNA has the capability to bind to as many as 200 diverse gene targets ranging from transcription factors, secreted factors, receptors and transporters, thus potentially controlling the expression of about one-third of human mRNAs. Research has identified cell type specific modulation of several miRNA in gamma radiation and X-ray-treated human cells. Other studies from our laboratory showed that the expression of many miRNA markedly differ within the same cell line after exposure to either low or high doses of radiation. His work also identified radiation-induced modulation of miRNA in cells with altered DNA repair capability. These studies have provided evidence that miRNA are involved in the response to ionizing radiation exposure in human cells.",
+            "score": 70.1059582233429
+        },
+        {
+            "docid": "21731590_16",
+            "document": "RNA-Seq . Coexpression networks are data-derived representations of genes behaving in a similar way across tissues and experimental conditions. Their main purpose lies in hypothesis generation and guilt-by-association approaches for inferring functions of previously unknown genes. RNASeq data has been recently used to infer genes involved in specific pathways based on Pearson correlation, both in plants and mammals. The main advantage of RNASeq data in this kind of analysis over the microarray platforms is the capability to cover the entire transcriptome, therefore allowing the possibility to unravel more complete representations of the gene regulatory networks. Differential regulation of the splice isoforms of the same gene can be detected and used to predict and their biological functions.  Weighted gene co-expression network analysis has been successfully used to identify co-expression modules and intramodular hub genes based on RNA seq data. Co-expression modules may corresponds to cell types or pathways. Highly connected intramodular hubs can be interpreted as representatives of their respective module. Variance-Stabilizing Transformation approaches for estimating correlation coefficients based on RNA seq data have been proposed.",
+            "score": 64.54249835014343
+        },
+        {
+            "docid": "16770101_22",
+            "document": "Long non-coding RNA . In addition to regulating transcription, ncRNAs also control various aspects of post-transcriptional mRNA processing. Similar to small regulatory RNAs such as microRNAs and snoRNAs, these functions often involve complementary base pairing with the target mRNA. The formation of RNA duplexes between complementary ncRNA and mRNA may mask key elements within the mRNA required to bind trans-acting factors, potentially affecting any step in post-transcriptional gene expression including pre-mRNA processing and splicing, transport, translation, and degradation.",
+            "score": 70.78297877311707
+        },
+        {
+            "docid": "56691617_2",
+            "document": "Neisseria sibling sRNAs NmsR/RcoF . NmsR and NmsR (Neisseria metabolic switch regulator), RcoF1 and RcoF2 (RNA regulating colonization factor) as well as NgncR_162 and NgncR_163 (Neisseria gonorrhoeae non-coding RNA) are all names of neisserial sibling small regulatory RNAs described and independently named in three publications. NmsR/RcoF1/NgncR_163 was shown to be the predominant sibling. The sRNAs are tandemly arranged, structurally nearly identical and share 70% sequence identity. They translationally down-regulate genes involved in basic metabolic processes including tricarboxylic acid cycle enzymes and amino acid uptake and degradation. The target genes include: \"fumC\", \"sdhC\", \"gltA\", \"sucC\", \"prpB\" and \"prpC\". The expression of the sRNAs is presumably under the control of RelA, as shown for \"N. meningitidis\". Furthermore, the sRNAs interact with Hfq protein and target repression of putative colonization factor of the human nasopharynx PrpB mRNA, hence one of the proposed names is RNA regulating colonization factor.",
+            "score": 68.30661129951477
+        },
+        {
+            "docid": "9458068_5",
+            "document": "RNA silencing . RNA silencing functions by repressing translation or by cleaving messenger RNA (mRNA), depending on the amount of complementarity of base-pairing. RNA has been largely investigated within its role as an intermediary in the translation of genes into proteins. More active regulatory functions, however, only began to be addressed by researchers beginning in the late-1990s. The landmark study providing an understanding of the first identified mechanism was published in 1998 by Fire et al., demonstrating that double-stranded RNA could act as a trigger for gene silencing. Since then, various other classes of RNA silencing have been identified and characterized. Presently, the therapeutic potential of these discoveries is being explored, for example, in the context of targeted gene therapy.",
+            "score": 77.8124167919159
+        },
+        {
+            "docid": "15993546_2",
+            "document": "Cis-natural antisense transcript . Natural antisense transcripts (NATs) are a group of RNAs encoded within a cell that have transcript complementarity to other RNA transcripts. They have been identified in multiple eukaryotes, including humans, mice, yeast and \"Arabidopsis thaliana\". This class of RNAs includes both protein-coding and non-coding RNAs. Current evidence has suggested a variety of regulatory roles for NATs, such as RNA interference (RNAi), alternative splicing, genomic imprinting, and X-chromosome inactivation. NATs are broadly grouped into two categories based on whether they act in cis or in trans. Trans-NATs are transcribed from a different location than their targets and usually have complementarity to multiple transcripts with some mismatches. MicroRNAs (miRNA) are an example of trans-NATs that can target multiple transcripts with a few mismatches. Cis-natural antisense transcripts (cis-NATs) on the other hand are transcribed from the same genomic locus as their target but from the opposite DNA strand and form perfect pairs.",
+            "score": 60.36678194999695
+        },
+        {
+            "docid": "11421175_2",
+            "document": "MicF RNA . The micF RNA is a non-coding RNA stress response gene found in \"Escherichia coli\" and related bacteria that post-transcriptionally controls expression of the outer membrane porin gene ompF. The micF gene encodes a non-translated 93 nucleotide antisense RNA that binds its target ompF mRNA and regulates ompF expression by inhibiting translation and inducing degradation of the message. In addition, other factors, such as the RNA chaperone protein StpA also play a role in this regulatory system. Expression of micF is controlled by both environmental and internal stress factors. Four transcriptional regulators are known to bind the micF promoter region and activate micF expression.",
+            "score": 75.56224143505096
+        }
+    ],
+    "r": [
+        {
+            "docid": "18482125_2",
+            "document": "Cyclic di-GMP-I riboswitch . Cyclic di-GMP-I riboswitches are a class of riboswitch that specifically bind cyclic di-GMP, which is a second messenger that is used in a variety of microbial processes including virulence, motility and biofilm formation. Cyclic di-GMP-I riboswitches were originally identified by bioinformatics as a conserved RNA-like structure called the \"GEMM motif\". These riboswitches are present in a wide variety of bacteria, and are most common in Clostridia and certain varieties of Proteobacteria. The riboswitches are present in pathogens such as \"Clostridium difficile\", \"Vibrio cholerae\" (which causes cholera) and \"Bacillus anthracis\" (which causes anthrax). \"Geobacter uraniumreducens\" is predicted to have 30 instances of this riboswitch in its genome. A bacteriophage that infects \"C. difficile\" is predicted to carry a cyclic di-GMP-I riboswitch, which it might use to detect and exploit the physiological state of bacteria that it infects.",
+            "score": 139.0604248046875
+        },
+        {
+            "docid": "3650770_16",
+            "document": "Yersinia pseudotuberculosis . Numerous bacterial small non-coding RNAs have been identified to play regulatory functions. Some can regulate the virulence genes. 150 unannotated sRNAs were identified by sequencing of \"Y. pseudotuberculosis\" RNA libraries from bacteria grown at 26\u00a0\u00b0C and 37\u00a0\u00b0C, suggesting they may play a role in pathogenesis. By using single-molecule fluorescence in situ hybridisation smFISH technique it was shown that the number of YSR35 RNA increased 2.5 times upon temperature shift from 25\u00a0\u00b0C to 37\u00a0\u00b0C. Another study uncovered that a temperature-induced global reprogramming of central metabolic functions are likely to support intestinal colonization of the pathogen. Environmentally controlled regulatory RNAs coordinate control of metabolism and virulence allowing rapid adaptation and high flexibility during life-style changes. High-throughput RNA structure probing identified many thermoresponsive RNA structures.",
+            "score": 133.64512634277344
+        },
+        {
+            "docid": "55868631_11",
+            "document": "List of antibiotic resistant bacteria . \"Clostridium difficile\" is a nosocomial pathogen that causes diarrheal disease worldwide. Diarrhea caused by \"C. difficile\" can be life-threatening. Infections are most frequent in people who have had recent medical and/or antibiotic treatment. \"C. difficile\" infections commonly occur during hospitalization.",
+            "score": 126.38921356201172
+        },
+        {
+            "docid": "44430316_5",
+            "document": "Host adaptation . Another intestinal pathogen in the genus Cryptosporidium, which was not always a human pathogen, \"recently\" adapted to the human host environment. Numerous phylogenetic analyses in a paper by Xiao et al 2002 indicated that the Cryptosporidium parvum bovine genotype and Cryptosporidium meleagridis were originally parasites of rodents and mammals, respectively. However, this parasite 'recently' expanded into humans. As was previously mentioned, the ability to survive in different host species is an adaptation that is highly advantageous to pathogens because it increases their chances for survival and circulation. Some pathogens can evolve to become resistant to the body's natural immune defenses and/or to outside intervention like drugs. For instance, Clostridium difficile is the most frequent cause of nosocomial diarrhea worldwide, and reports in the early 2000s indicated the advent of a hypervirulent strain in North America and Europe. In study by Stabler et al 2006, comparative phylogenomics (whole-genome comparisons using DNA microarrays combined with Bayesian phylogenies) were used to model the phylogeny of C. difficile. Phylogenetic analysis identified four distinct statistically significant 'clusters' making a hypervirulent clade, a toxin A\u2212 B+ clade, and two clades with human and animal isolates. Genetic differences between the four groups revealed significant findings related to virulence. The authors saw that hypervirulent strains had undergone various types of niche adaptation like antibiotic resistance, motility, adhesion, and enteric metabolism.",
+            "score": 119.4527587890625
+        },
+        {
+            "docid": "466440_18",
+            "document": "Clostridium difficile infection . The use of systemic antibiotics, including any penicillin-based antibiotic such as ampicillin, cephalosporins, and clindamycin, causes the normal bacterial flora of the bowel to be altered. In particular, when the antibiotic kills off other competing bacteria in the intestine, any bacteria remaining will have less competition for space and nutrients. The net effect is to permit more extensive growth than normal of certain bacteria. \"C. difficile\" is one such type of bacterium. In addition to proliferating in the bowel, \"C. difficile\" also produces toxins. Without either toxin A or toxin B, \"C. difficile\" may colonize the gut, but is unlikely to cause pseudomembranous colitis. The colitis associated with severe infection is part of an inflammatory reaction, with the \"pseudomembrane\" formed by a viscous collection of inflammatory cells, fibrin, and necrotic cells.",
+            "score": 118.37873840332031
+        },
+        {
+            "docid": "26839222_25",
+            "document": "Antimicrobial properties of copper . \"Clostridium difficile\", an anaerobic bacterium, is a major cause of potentially life-threatening disease, including nosocomial diarrheal infections, especially in developed countries. \"C. difficile\" endospores can survive for up to five months on surfaces. The pathogen is frequently transmitted by the hands of healthcare workers in hospital environments. \"C. difficile\" is currently a leading hospital-acquired infection in the UK, and rivals MRSA as the most common organism to cause hospital acquired infections in the US It is responsible for a series of intestinal health complications, often referred to collectively as \"Clostridium difficile\" Associated Disease (CDAD).",
+            "score": 115.44580841064453
+        },
+        {
+            "docid": "20637118_19",
+            "document": "Clostridium difficile toxin A . Since the 1980s and early 1990s, the roles of TcdA and TcdB in \"C. difficile\" infection have been much debated. Previous reports with purified toxins indicated that TcdA alone was enough to cause symptoms of infection and TcdB was unable to do so unless combined with TcdA. A more recent experiment indicated that TcdB was, in fact, essential for virulence. Earlier research established TcdA strictly as an enterotoxin, and TcdB as a cytotoxin, but later both toxins were found to have the same mechanism of action. To fully investigate the role of both toxins in pathogenesis of \"C. difficile\" infection, a gene knockout system in a hamster infection model was developed. By permanently knocking out \"tcdA\", \"tcdB\", or both (double knockout), it was shown that \"C. difficile\" producing one or both toxins was capable of cytotoxic activity, and this activity translated directly to virulence in vivo. It was also found that a double \"tcdAtcdB\" knockout was completely attenuated in virulence. Overall, this research has demonstrated the importance of both TcdA and TcdB in \"C. difficile\" infection, showing that either toxin is capable of cytotoxicity.",
+            "score": 114.71607971191406
+        },
+        {
+            "docid": "43695865_5",
+            "document": "Clostridium difficile (bacteria) . Pathogenic \"C. difficile\" strains produce multiple toxins. The best-characterized are enterotoxin (\"Clostridium difficile\" toxin A) and cytotoxin (\"Clostridium difficile\" toxin B), both of which may produce diarrhea and inflammation in infected patients (\"Clostridium difficile\" colitis), although their relative contributions have been debated. The diarrhea may range from a few days of intestinal fluid loss to life-threatening pseudomembranous colitis. Pseudomembranous colitis is associated with intense inflammation of the colon and formation of pseudomembranes on the intestinal mucosal surface. Toxins A and B are glucosyltransferases that target and inactivate the Rho family of GTPases. Toxin B (cytotoxin) induces actin depolymerization by a mechanism correlated with a decrease in the ADP-ribosylation of the low molecular mass GTP-binding Rho proteins. Another toxin, binary toxin, also has been described, but its role in disease is not fully understood.",
+            "score": 112.83399963378906
+        },
+        {
+            "docid": "43695865_7",
+            "document": "Clostridium difficile (bacteria) . Antibiotic treatment of \"C. diff\" infections may be difficult, due both to antibiotic resistance and physiological factors of the bacterium (spore formation, protective effects of the pseudomembrane). The emergence of a new, highly toxic strain of \"C. difficile\", resistant to fluoroquinolone antibiotics, such as ciprofloxacin and levofloxacin, said to be causing geographically dispersed outbreaks in North America, was reported in 2005. The U.S. Centers for Disease Control (CDC) in Atlanta warned of the emergence of an epidemic strain with increased virulence, antibiotic resistance, or both.",
+            "score": 112.3205795288086
+        },
+        {
+            "docid": "43695865_4",
+            "document": "Clostridium difficile (bacteria) . \"C. difficile\" may become established in the human colon; it is present in 2\u20135% of the adult population. Sometimes antibiotic therapy for various infections has the adverse effect of disrupting the normal balance of the gut flora, in which case \"C. difficile\" may opportunistically dominate, causing \"Clostridium difficile\" infection. This species has been officially renamed, in 2016, to \"Clostridioides difficile\". This new name reflects the taxonomic differences between this species and other members of the \"Clostridium\" genus, while maintaining the common name as C. diff. Currently, the only other species in this new \"Clostridioides\" genus is \"Clostridioides mangenotii (formerly\" known as \"Clostridium mangenotii)\".",
+            "score": 111.42890167236328
+        },
+        {
+            "docid": "466440_2",
+            "document": "Clostridium difficile infection . \"Clostridium difficile\" infection (CDI or C-dif) is a symptomatic infection due to the spore-forming bacterium, \"Clostridium difficile\". Symptoms include watery diarrhea, fever, nausea, and abdominal pain. It makes up about 20% of cases of antibiotic-associated diarrhea. Complications may include pseudomembranous colitis, toxic megacolon, perforation of the colon, and sepsis. \"Clostridium difficile\" infection is spread by bacterial spores found within feces. Surfaces may become contaminated with the spores with further spread occurring via the hands of healthcare workers. Risk factors for infection include antibiotic or proton pump inhibitors use, hospitalization, other health problems, and older age. Diagnosis is by stool culture or testing for the bacteria's DNA or toxins. If a person tests positive but has no symptoms, the condition is known as \"C. difficile\" colonization rather than an infection. Prevention is by hand washing, terminal room cleaning in hospital, and limiting antibiotic use. Discontinuation of antibiotics may result in resolution of symptoms within three days in about 20% of those infected. Often the antibiotics metronidazole, vancomycin or fidaxomicin will cure the infection. Retesting after treatment, as long as the symptoms have resolved, is not recommended, as the person may remain colonized. Recurrences have been reported in up to 25% of people. Some tentative evidence indicates fecal microbiota transplantation and probiotics may decrease the risk of recurrence. \"C. difficile\" infections occur in all areas of the world. About 453,000 cases occurred in the United States in 2011, resulting in 29,000 deaths. Rates of disease globally have increased between 2001 and 2016. Women are more often affected than men. The bacterium was discovered in 1935 and found to be disease-causing in 1978. In the United States, health\u2013care associated infections increase the cost of care by US$1.5 billion each year. Signs and symptoms of CDI range from mild diarrhea to severe life-threatening inflammation of the colon.",
+            "score": 110.69561004638672
+        },
+        {
+            "docid": "20637113_17",
+            "document": "Clostridium difficile toxin B . By adding antimicrobial, e.g. clindamycin, into the culture growth medium, studies have shown that the cytotoxic activity in \"C. difficile\" cultures increases by 4\u20138 fold. Moreover, knowing the role of antibiotics on the causes of PMC, many earlier studies focused on the effects of antimicrobials production of toxins. As a result, studies were able to conclude that the subinhibitory nature of vancomycin and penicillin levels were increasing the toxin production in cultures of \"C. difficile\". The amounts of toxin production were correlated with the usage of growth medium for the organisms. Another study illustrated that the high levels of toxin production of TcdB were observed in complex mediums such as brain and heart infusion broth. High levels of toxins were produced with isolation of highly virulent. Conversely, low levels of toxins were produced with isolation of weakly virulent. Thus, it shows that the productions of toxins were co-regulated. Although the mechanism behind the environment's involvement in modulating the signals expressing the toxins is not understood, in vitro studies have shown that expression of toxin is strengthened by catabolite repression and stress, e.g. antibiotics. Another study has shown that limiting biotin in well-characterized medium increases the production of TcdB by 64-fold and TcdA by 35-fold. This was done with \"C. difficile\" and doses of biotin as small as 0.05nM. Several other early studies have argued against the theory that the production of toxin has anything to deal with stress or catabolite repression of either toxin TcdA or TcdB. Also, many studies say the main reason for the differences among other studies is due to toxin production not occurring with all isolates of \"C. difficile\".",
+            "score": 110.67428588867188
+        },
+        {
+            "docid": "1001846_19",
+            "document": "Trehalose . In January 2018 research was published showing that some strains of \"Clostridium difficile\" found in the human gut microbiome are especially responsive to trehalose; the study found that in the lab and in mice, these strains grew better and produced more toxins when fed trehalose. The authors pointed out a correlation between the timing of the introduction of trehalose into the food supply when the cost of production came down around 2000, and a rise in cases of hospital-acquired \"C. difficile\" infections, and suggested that trehalose might be causing the rise in infections. It was not known at that time whether trehalose actually caused the rise in \"C. difficile\" infections or affects \"C. difficile\" in the human gut.",
+            "score": 109.79135131835938
+        },
+        {
+            "docid": "466440_9",
+            "document": "Clostridium difficile infection . Antibiotic treatment of CDIs may be difficult, due both to antibiotic resistance and physiological factors of the bacteria (spore formation, protective effects of the pseudomembrane). The emergence of a new and highly toxic strain of \"C. difficile\" that is resistant to fluoroquinolone antibiotics such as ciprofloxacin and levofloxacin, said to be causing geographically dispersed outbreaks in North America, was reported in 2005. The U.S. Centers for Disease Control and Prevention in Atlanta warned of the emergence of an epidemic strain with increased virulence, antibiotic resistance, or both.",
+            "score": 107.7450180053711
+        },
+        {
+            "docid": "43695865_11",
+            "document": "Clostridium difficile (bacteria) . \"C. difficile\" is common in the human digestive system. However, \"C. difficile\" is a poor competitor, and is often out competed by other bacteria for nutrients in the digestive system. As a result, \"C. difficile\" is kept to a manageable amount. If the sudden introduction of antibiotic disrupts the microbiome, \"C. difficile\" may be able to grow as a result of many of its competitors being killed off. The incubation period is 5\u201310 days, with a range of 1 day to weeks following antibiotic treatment for AAD (antibiotic associated diarrhea). Additionally, carriage of C. difficile with high levels of toxins are common in young children while disease is rare. The production of one or even both toxins is not always sufficient for producing symptoms.",
+            "score": 107.53814697265625
+        },
+        {
+            "docid": "22667006_4",
+            "document": "Clostridium butyricum . Its usefulness stems primarily from its ability to interfere with the growth of highly pathogenic \"Clostridium difficile\" by antagonizing its multiplication. It is often used in Japanese hospitals for \"C. difficile\" prophylaxis among in-patients and, particularly, during administration of certain powerful antibiotics (i.e.: Levofloxacin) associated with opportunistic \"C. difficile\" infection.",
+            "score": 107.45012664794922
+        },
+        {
+            "docid": "20637118_2",
+            "document": "Clostridium difficile toxin A . Clostridium difficile toxin A (TcdA) is a toxin generated by \"Clostridium difficile\". It is similar to \"Clostridium difficile\" Toxin B. The toxins are the main virulence factors produced by the gram positive, anaerobic, \"Clostridium difficile\" bacteria. The toxins function by damaging the intestinal mucosa and cause the symptoms of \"C. difficile\" infection, including pseudomembranous colitis.",
+            "score": 106.20723724365234
+        },
+        {
+            "docid": "43695865_20",
+            "document": "Clostridium difficile (bacteria) . The first complete genome sequence of a \"C. difficile\" strain was first published in 2005 by Sanger Institute in the UK. This was of the strain 630, a virulent and multiple drug-resistant strain isolated in Switzerland in 1982. Scientists at Sanger Institute have sequenced genomes of about 30 \"C. difficile\" isolates using next-generation sequencing technologies from 454 Life Sciences and Illumina.",
+            "score": 105.44667053222656
+        },
+        {
+            "docid": "466440_8",
+            "document": "Clostridium difficile infection . Pathogenic \"C. difficile\" strains produce multiple toxins. The most well-characterized are enterotoxin (\"Clostridium difficile\" toxin A) and cytotoxin (\"Clostridium difficile\" toxin B), both of which may produce diarrhea and inflammation in infected patients, although their relative contributions have been debated. Toxins A and B are glucosyltransferases that target and inactivate the Rho family of GTPases. Toxin B (cytotoxin) induces actin depolymerization by a mechanism correlated with a decrease in the ADP-ribosylation of the low molecular mass GTP-binding Rho proteins. Another toxin, binary toxin, also has been described, but its role in disease is not fully understood.",
+            "score": 105.39241790771484
+        },
+        {
+            "docid": "466440_5",
+            "document": "Clostridium difficile infection . Infection with \"C. difficile\" bacteria are responsible for \"C. difficile\" diarrhea.",
+            "score": 102.68864440917969
+        },
+        {
+            "docid": "20637118_18",
+            "document": "Clostridium difficile toxin A . TcdA and TcdB are present in supernatant fluids of \"Clostridium difficile\" cultures and can be purified from filtrates. Both toxins are consistently detected in fecal samples from humans and animals and are now used as markers to diagnose \"C. difficile\" infection. Over 90% of patients infected with \"C. difficile\" were found to have cytotoxic activity in their stool. Glucosylation of Rho GTPases inactivates the GTPase proteins, leading to collapse of the cytoskelton, resulting in cell rounding. A tissue culture assay has been developed to detect \"C. difficile\" toxins in stool samples. A cell rounding assay (cytotoxicity assay) has been developed to diagnose \"C. difficile\" infection. Enzyme-linked immunosorbent assays (ELISAs) have been used to detect TcdA and TcdB with specific antibodies. When used with an ELISA, the cytotoxicity assay is the \"gold standard\" when used on Vero cells for \"C. difficile\" diagnosis.",
+            "score": 100.27982330322266
+        },
+        {
+            "docid": "466440_24",
+            "document": "Clostridium difficile infection . Self containment by housing people in private rooms is important to prevent the spread of \"C. difficile\" between patients. Contact precautions are an important part of preventing the spread of \u00a0C. difficile. C. difficile does not often occur in people who are not taking antibiotics so limiting use of antibiotics decreases the risk.",
+            "score": 99.6953125
+        },
+        {
+            "docid": "55801562_2",
+            "document": "Neisseria RNA thermometer . RNA thermometers\u00a0(RNATs) regulate gene expression in response to temperature, allowing pathogens like\u00a0\"Neisseria\u00a0meningitis\" to switch on silent genes after entering the host organism. However the temperature for expression of Neisseria virulence-associated traits is 42\u00a0\u00b0C while other bacterial pathogen RNATs require 37\u00a0\u00b0C. This is probably because \"N. meningitis\" is an obligate commensal of the human nasopharynx and becomes pathogenic during inflammation due to viral infection. Three independent RNA thermosensors were identified in the 5'UTRs of genes needed for: capsule biosynthesis (cssA), the expression of factor H binding protein (fHbp) and sialylation of lipopolysaccharide, which is essential for bacterial resistance against immune killing (lst). The very different nucleotide sequence and predicted inhibitory structures of the three RNATs indicate that they have evolved independently.",
+            "score": 99.3087158203125
+        },
+        {
+            "docid": "25762914_5",
+            "document": "Colitis-X . To date, the precise causative factor has not been verified, and the disease has been attributed by various sources to viruses, parasites, bacteria, use of antibiotics and sulfonamides, and heavy metal poisoning. Other possible causes include peracute salmonellosis, clostridial enterocolitis, and endotoxemia. \"Clostridium difficile\" toxins isolated in the horse have a genotype like the current human \"epidemic strain\", which is associated with human \"C. difficile\"-associated disease of greater than historical severity. \"C. difficile\" can cause pseudomembranous colitis in humans, and in hospitalized patients who develop it, fulminant \"C. difficile\" colitis is a significant and increasing cause of death.",
+            "score": 98.43883514404297
+        },
+        {
+            "docid": "20637113_21",
+            "document": "Clostridium difficile toxin B . In early stages of the disease of PMC, many studies have speculated that TcdA is more potent than TcdB. This has been deduced from in vivo experiments where toxin productions of TcdA were more severe than TcdB with antibiotics cecitis. Later, several studies showed that TcdB plays a major role in the disease of PMC and ADD. The study demonstrated that even though \"C. difficile\" did not produces TcdA, it still showed symptoms for the disease. Furthermore, later studies have shown that a purified form of TcdB is a more lethal enterotoxin in comparison to TcdA, and also, that intestinal epithelium is severely damaged and causes an acute inflammatory response. With better understanding of the toxin, researchers were able to state that TcdB is the major virulence factor that causes CDI over TcdA. However, when TcdA is present in the gut, it helps to facilitate TcdB's activity to have broader impacts, consequently, affecting multiple organ systems. In addition, when hamsters were vaccinated against TcdA, it showed hamsters were not fully protected from the \"C. difficile\" disease and this lead studies to conclude that TcdB is very lethal and potent. Furthermore, injecting a small dose of TcdA with a lethal dose of TcdB intravenously or intraperitoneally proved sufficient in causing the death of an animal. Therefore, TcdA works as a facilitator of TcdB exiting from the gut.",
+            "score": 97.80461120605469
+        },
+        {
+            "docid": "466440_13",
+            "document": "Clostridium difficile infection . Some research suggests the routine use of antibiotics in the raising of livestock is contributing to outbreaks of bacterial infections such as \"C. difficile\".",
+            "score": 97.5432357788086
+        },
+        {
+            "docid": "49521271_2",
+            "document": "PinT small RNA . In bacteria, PinT small RNA is a small regulatory RNA (sRNA) that is activated during stress and virulence conditions. sRNAs base-pair with target mRNAs and modulate their stability or translation. The expression of PhoP-activated sRNA called PinT is highly induced during \"Salmonella enterica\" infection. PinT temporally controls \"Salmonella\" virulence genes. On bacterial internalization it controls the expression of invasion associated effectors (SPI-1) through the direct base-pairing with the mRNA. Later in infection it represses the virulence genes (SPI-2) allowing the switch from an invasive state to the state of intracellular replication.",
+            "score": 97.2958755493164
+        },
+        {
+            "docid": "156964_8",
+            "document": "MicroRNA . A year later, the \"lin-4\" and \"let-7\" RNAs were found to be part of a large class of small RNAs present in \"C. elegans\", \"Drosophila\" and human cells. The many RNAs of this class resembled the \"lin-4\" and \"let-7\" RNAs, except their expression patterns were usually inconsistent with a role in regulating the timing of development. This suggested that most might function in other types of regulatory pathways. At this point, researchers started using the term \"microRNA\" to refer to this class of small regulatory RNAs.",
+            "score": 96.69989776611328
+        },
+        {
+            "docid": "56700976_2",
+            "document": "SrbA sRNA . SrbA (sRNA regulator of biofilms A) is a small regulatory non-coding RNA identified in pathogenic \"Pseudomonas aeruginosa\"\".\" It is important for biofilm formation and pathogenicity. Bacterial strain with deleted SrbA had reduced biofilm mass. As the ability to form biofilms can contribute to the ability a pathogen to thrive within the host, the \"C. elegans\" hosts infected with the srbA deleted strain displayed significantly lower mortality rate than the wild-type strain. However, the deletion of srbA had no effect on growth or antibiotic resistance in \"P. aeruginosa\".",
+            "score": 96.51020050048828
+        },
+        {
+            "docid": "3135637_41",
+            "document": "Gut flora . A reduction in levels of native bacterial species also disrupts their ability to inhibit the growth of harmful species such as \"C. difficile\" and \"Salmonella kedougou\", and these species can get out of hand, though their overgrowth may be incidental and not be the true cause of diarrhea. Emerging treatment protocols for C. difficile infections involve fecal microbiota transplantation of donor feces. (see Fecal transplant). Initial reports of treatment describe success rates of 90%, with few side effects. Efficacy is speculated to result from restoring bacterial balances of bacteroides and firmicutes classes of bacteria.",
+            "score": 96.34580993652344
+        },
+        {
+            "docid": "2146034_10",
+            "document": "CRISPR . Experimental work by several groups revealed the basic mechanisms of CRISPR-Cas immunity. In 2007 the first experimental evidence that CRISPR was an adaptive immune system was published. A CRISPR region in \"Streptococcus thermophilus\" acquired spacers from the DNA of an infecting bacteriophage. The researchers manipulated the resistance of \"S. thermophilus\" to phage by adding and deleting spacers whose sequence matched those found in the tested phages. In 2008, Brouns and Van der Oost identified a complex of Cas proteins (called Cascade) that in \"E. coli\" cut the CRISPR RNA precursor within the repeats into mature spacer-containing RNA molecules (crRNA), which remained bound to the protein complex. Moreover, it was found that Cascade, crRNA and a helicase/nuclease (Cas3) were required to provide a bacterial host with immunity against infection by a DNA virus. By designing an anti-virus CRISPR, they demonstrated that two orientations of the crRNA (sense/antisense) provided immunity, indicating that the crRNA guides were targeting dsDNA. That year Marraffini and Sontheimer indeed confirmed that a CRISPR sequence of \"S. epidermidis\" targeted DNA and not RNA to prevent conjugation. This finding was at odds with the proposed RNA-interference-like mechanism of CRISPR-Cas immunity, although a CRISPR-Cas system that targets foreign RNA was later found in \"Pyrococcus furiosus\". A 2010 study showed that CRISPR-Cas cuts both strands of phage and plasmid DNA in \"S. thermophilus\".",
+            "score": 96.34358978271484
+        },
+        {
+            "docid": "28253826_11",
+            "document": "Bacterial small RNA . In some bacteria sRNAs regulate virulence genes. In \"Salmonella\", the pathogenicity island encoded InvR RNA represses synthesis of the major outer membrane protein OmpD; another co-activated DapZ sRNA from 3'-UTR represses abundant membrane Opp/Dpp transporters of oligopeptides; and SgrS sRNA regulates the expression of the secreted effector protein SopD. In \"Staphylococcus aureus\", RNAIII regulates a number of genes involved in toxin and enzyme production and cell-surface proteins. The FasX sRNA is the only well-characterized regulatory RNA known to control the regulation of several virulence factors in \"Streptococcus pyogenes\", including both cell-surface associated adhesion proteins as well as secreted factors.",
+            "score": 96.1893539428711
+        }
+    ]
+}

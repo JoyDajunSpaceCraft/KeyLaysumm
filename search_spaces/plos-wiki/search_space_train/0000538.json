@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "1434061_18",
+            "document": "Affinity chromatography . For thoroughness the GST protein and the GST-fusion protein can each be coupled separately. The serum is initially allowed to bind to the GST affinity matrix. This will remove antibodies against the GST part of the fusion protein. The serum is then separated from the solid support and allowed to bind to the GST-fusion protein matrix. This allows any antibodies that recognize the antigen to be captured on the solid support. Elution of the antibodies of interest is most often achieved using a low pH buffer such as glycine pH 2.8. The eluate is collected into a neutral tris or phosphate buffer, to neutralize the low pH elution buffer and halt any degradation of the antibody's activity. This is a nice example as affinity purification is used to purify the initial GST-fusion protein, to remove the undesirable anti-GST antibodies from the serum and to purify the target antibody.",
+            "score": 85.45118999481201
+        },
+        {
+            "docid": "4646238_4",
+            "document": "Myricetin . Antioxidants are molecules present in fruits and vegetables that have been demonstrated to protect against some forms of cancer and cardiovascular disease. Biomolecules and cell structures can experience oxidative stress due to the presence and activity of reactive oxygen species (ROS). ROS like \u2022OH, \u2022O, and HO are produced during cellular metabolism processes (aerobic respiration). ROS can damage lipids, DNA, and proteins. Gradual but steady accretion of such damage can lead to the development of many diseases and conditions including thrombosis, diabetes, persistent inflammation, cancer, and atherosclerosis. Flavonoids including myricetin are able to scavenge for ROS and can chelate intracellular transition metal ions that ultimately produce ROS. Myricetin also enhances the effects of other antioxidants. Myricetin can induce the enzyme glutathione S-transferase (GST). GST has been suggested to protect cells against oxidative stress by protecting cells against free-radicals. \"In vitro\" studies have shown that myricetin significantly increased GST activity.",
+            "score": 138.61063301563263
+        },
+        {
+            "docid": "14653597_5",
+            "document": "Glutathione S-transferase, C-terminal domain . In eukaryotes, glutathione S-transferases (GSTs) participate in the detoxification of reactive electrophilic compounds by catalysing their conjugation to glutathione. The GST domain is also found in S-crystallins from squid, and proteins with no known GST activity, such as eukaryotic elongation factors 1-gamma and the HSP26 family of stress-related proteins, which include auxin-regulated proteins in plants and stringent starvation proteins in \"Escherichia coli\". The major lens polypeptide of cephalopods is also a GST.",
+            "score": 88.51696848869324
+        },
+        {
+            "docid": "1240612_25",
+            "document": "Glutathione S-transferase . GST can be added to a protein of interest to purify it from solution in a process known as a pull-down assay. This is accomplished by inserting the GST DNA coding sequence next to that which codes for the protein of interest. Thus, after transcription and translation, the GST protein and the protein of interest will be expressed together as a fusion protein. Because the GST protein has a strong binding affinity for GSH, beads coated with the compound can be added to the protein mixture; as a result, the protein of interest attached to the GST will stick to the beads, isolating the protein from the rest of those in solution. The beads are recovered and washed with free GSH to detach the protein of interest from the beads, resulting in a purified protein. This technique can be used to elucidate direct protein\u2013protein interactions. A drawback of this assay is that the protein of interest is attached to GST, altering its native state.",
+            "score": 81.86982917785645
+        },
+        {
+            "docid": "390926_2",
+            "document": "Wuchereria bancrofti . Wuchereria bancrofti is a human parasitic roundworm that is the major cause of lymphatic filariasis. It is one of the three parasitic worms, together with \"Brugia malayi\" and \"B. timori\", that infect the lymphatic system to cause lymphatic filariasis. These filarial worms are spread by a variety of mosquito vector species. \"W. bancrofti\" is the most prevalent of the three and affects over 120 million people, primarily in Central Africa and the Nile delta, South and Central America, the tropical regions of Asia including southern China, and the Pacific islands. If left untreated, the infection can develop into a chronic disease called elephantiasis. In rare conditions it also causes tropical eosinophilia, an asthmatic disease. There is no commercially available vaccine, however high rates of cure have been achieved with various anti-filarial regimens and lymphatic filariasis is the target of the WHO Global Program to Eliminate Lymphatic Filariasis with the aim to eradicate the disease as a public health problem by 2020.",
+            "score": 95.20186054706573
+        },
+        {
+            "docid": "1240612_26",
+            "document": "Glutathione S-transferase . A GST-tag is often used to separate and purify proteins that contain the GST-fusion protein. The tag is 220 amino acids (roughly 26 KDa) in size, which, compared to tags such as the Myc-tag or the FLAG-tag, is quite large. It can be fused to either the N-terminus or C-terminus of a protein. However, many commercially available sources of GST-tagged plasmids include a thrombin domain for cleavage of the GST tag during protein purification.",
+            "score": 78.82274746894836
+        },
+        {
+            "docid": "1240612_7",
+            "document": "Glutathione S-transferase . In clinical chemistry and toxicology, the terms alpha GST, mu GST, and pi GST are most commonly used.",
+            "score": 69.37962031364441
+        },
+        {
+            "docid": "14653597_6",
+            "document": "Glutathione S-transferase, C-terminal domain . Bacterial GSTs of known function often have a specific, growth-supporting role in biodegradative metabolism: epoxide ring opening and tetrachlorohydroquinone reductive dehalogenation are two examples of the reactions catalysed by these bacterial GSTs. Some regulatory proteins, like the stringent starvation proteins, also belong to the GST family. GST seems to be absent from Archaea in which gamma-glutamylcysteine substitute to glutathione as major thiol.",
+            "score": 75.71107196807861
+        },
+        {
+            "docid": "1434061_17",
+            "document": "Affinity chromatography . Another use for the procedure is the affinity purification of antibodies from blood serum. If the serum is known to contain antibodies against a specific antigen (for example if the serum comes from an organism immunized against the antigen concerned) then it can be used for the affinity purification of that antigen. This is also known as Immunoaffinity Chromatography. For example, if an organism is immunised against a GST-fusion protein it will produce antibodies against the fusion-protein, and possibly antibodies against the GST tag as well. The protein can then be covalently coupled to a solid support such as agarose and used as an affinity ligand in purifications of antibody from immune serum.",
+            "score": 76.5898449420929
+        },
+        {
+            "docid": "1240612_2",
+            "document": "Glutathione S-transferase . Glutathione \"S\"-transferases (GSTs), previously known as ligandins, comprise a family of eukaryotic and prokaryotic phase II metabolic isozymes best known for their ability to catalyze the conjugation of the reduced form of glutathione (GSH) to xenobiotic substrates for the purpose of detoxification. The GST family consists of three superfamilies: the cytosolic, mitochondrial, and microsomal\u2014also known as MAPEG\u2014proteins. Members of the GST superfamily are extremely diverse in amino acid sequence, and a large fraction of the sequences deposited in public databases are of unknown function. The Enzyme Function Initiative (EFI) is using GSTs as a model superfamily to identify new GST functions.",
+            "score": 86.95599699020386
+        },
+        {
+            "docid": "1240612_20",
+            "document": "Glutathione S-transferase . Because diabetes is a disease that involves oxidative damage, and GSH metabolism is dysfunctional in diabetic patients, GSTs may represent a potential target for diabetic drug treatment. In addition, insulin administration is known to result in increased GST gene expression through the PI3K/AKT/mTOR pathway and reduced intracellular oxidative stress, while glucagon decreases such gene expression.",
+            "score": 86.29547548294067
+        },
+        {
+            "docid": "1240612_22",
+            "document": "Glutathione S-transferase . The high intracellular concentrations of GSTs coupled with their cell-specific cellular distribution allows them to function as biomarkers for localising and monitoring injury to defined cell types. For example, hepatocytes contain high levels of alpha GST and serum alpha GST has been found to be an indicator of hepatocyte injury in transplantation, toxicity and viral infections.",
+            "score": 72.89765310287476
+        },
+        {
+            "docid": "1240612_8",
+            "document": "Glutathione S-transferase . The glutathione binding site, or \"G-site,\" is located in the thioredoxin-like domain of both cytosolic and mitochondrial GSTs. The region containing the greatest amount of variability between the assorted classes is that of helix \u03b12, where one of three different amino acid residues interacts with the glycine residue of glutathione. Two subgroups of cytosolic GSTs have been characterized based upon their interaction with glutathione: the Y-GST group, which uses a tyrosine residue to activate glutathione, and the S/C-GST, which instead uses serine or cysteine residues.",
+            "score": 71.57289695739746
+        },
+        {
+            "docid": "1240612_14",
+            "document": "Glutathione S-transferase . Most mammalian isoenzymes have affinity for the substrate 1-chloro-2,4-dinitrobenzene, and spectrophotometric assays utilising this substrate are commonly used to report GST activity. However, some endogenous compounds, e.g., bilirubin, can inhibit the activity of GSTs. In mammals, GST isoforms have cell specific distributions (e.g., alpha GST in hepatocytes and pi GST in the biliary tract of the human liver).",
+            "score": 73.66092157363892
+        },
+        {
+            "docid": "495045_9",
+            "document": "Epitope . Epitopes are often used in proteomics and the study of other gene products. Using recombinant DNA techniques genetic sequences coding for epitopes that are recognized by common antibodies can be fused to the gene. Following synthesis, the resulting epitope tag allows the antibody to find the protein or other gene product enabling lab techniques for localisation, purification, and further molecular characterization. Common epitopes used for this purpose are Myc-tag, HA-tag, FLAG-tag, GST-tag, 6xHis, V5-tag and OLLAS. Peptides can also be bound by proteins that form covalent bonds to the peptide, allowing irreversible immobilisation These strategies have also been successfully applied to the development of \"epitope-focused\" vaccine design.",
+            "score": 66.4732255935669
+        },
+        {
+            "docid": "21116621_7",
+            "document": "Hookworm vaccine . Examples of antigenic targets of hookworm vaccines currently in clinical trials include \"Na\"-ASP-2 from \"N. americanus,\" \"Ac\"-APR-1 from \"Ancylostoma caninum, \"Ac'-APR-1 and \"Na-\"GST-1/Alhydroge. In a clinical trial a vaccine containing recombinant Na-ASP-2 with Alhydrogel as an adjuvant was found to increase T2 helper cells and IgE. Both the Th2 helper cells and IgE antibody are important players in recognition and immunoregulation against parasites. The vaccine containing recombinant Na-ASP-2 resulted in significantly decreased risk of a hookworm infection.",
+            "score": 88.96418118476868
+        },
+        {
+            "docid": "1240612_5",
+            "document": "Glutathione S-transferase . Standardized GST nomenclature first proposed in 1992 identifies the species to which the isozyme of interest belongs with a lower-case initial (e.g., \"h\" for human), which precedes the abbreviation GST. The isozyme class is subsequently identified with an upper-case letter (e.g., \"A\" for alpha), followed by an Arabic numeral representing the class subfamily (or subunit). Because both mitochondrial and cytosolic GSTs exist as dimers, and only heterodimers form between members of the same class, the second subfamily component of the enzyme dimer is denoted with a hyphen, followed by an additional Arabic numeral. Therefore, if a human glutathione \"S\"-transferase is a homodimer in the pi-class subfamily 1, its name will be written as \"hGSTP1-1.\"",
+            "score": 67.25954031944275
+        },
+        {
+            "docid": "16276793_7",
+            "document": "Cell-free protein array . Various research groups have developed their own methods, each differing in their approach, but can be summarized into 3 main groups. NAPPA uses DNA template that has already been immobilized onto the same protein capture surface. The DNA template is biotinylated and is bound to avidin that is pre-coated onto the protein capture surface. Newly synthesized proteins which are tagged with GST are then immobilized next to the template DNA by binding to the adjacent polyclonal anti-GST capture antibody that is also pre-coated onto the capture surface. The main drawback of this method is the extra and tedious preparation steps at the beginning of the process: (1) the cloning of cDNAs in an expression-ready vector; and (2) the need to biotinylate the plasmid DNA but not to interfere with transcription. Moreover, the resulting protein array is not \u2018pure\u2019 because the proteins are co-localized with their DNA templates and capture antibodies.",
+            "score": 67.97181558609009
+        },
+        {
+            "docid": "1513442_24",
+            "document": "Chloride channel . Structural studies showed that in the soluble form, CLIC proteins adopt a glutathione S-transferase (GST) fold with an active site exhibiting a conserved glutaredoxin monothiol motif, similar to the omega class GSTs. Al Khamici \"et al.\" demonstrated that CLIC proteins have glutaredoxin-like glutathione-dependent oxidoreductase enzymatic activity. CLICs 1, 2 and 4 demonstrate typical glutaredoxin-like activity using 2-hydroxyethyl disulfide as a substrate. This activity may regulate CLIC ion channel function.",
+            "score": 78.25889921188354
+        },
+        {
+            "docid": "1628994_7",
+            "document": "Goods and Services Tax (New Zealand) . GST-registered organisations and individuals pay GST only on the difference between GST-liable sales and GST-liable supplies (i.e., they pay GST on the difference between what they sell and what they buy: income less expenditure). This is accomplished by reconciling GST received (through sales) and GST paid (through purchases) at regular periods (typically every two months, with some qualifying companies opting for one-month or six-month periods), then either paying the difference to the Inland Revenue (IRD) if the GST collected on sales is higher or receiving a refund from IRD if the GST paid on purchases is higher.",
+            "score": 58.069429874420166
+        },
+        {
+            "docid": "7925814_17",
+            "document": "Goods and Services Tax (Singapore) . In addition, the experience of other countries have shown that exempting or reducing GST on certain items did not mean that tax savings would be passed on to consumers. Therefore, the GST should be kept broad-based to keep the GST low and the GST system simple, while help is directly provided to the lower-income through transfers and subsidies. In addition, the government has been absorbing GST in full for all subsidised patients in public hospitals and polyclinics since the GST was introduced in 1994. GST has also been absorbed for all subsidised patients receiving long-term care services.",
+            "score": 65.80835676193237
+        },
+        {
+            "docid": "13398460_6",
+            "document": "Meir Wilchek . Affinity chromatography is a method of separating biochemical mixtures, based on a highly specific biologic interaction such as that between antigen and antibody, enzyme and substrate, or receptor and ligand. The method was subsequently adopted for a variety of other techniques. Specific uses of affinity chromatography include antibody affinity, Immobilized metal ion affinity chromatography and purification of recombinant proteins - possibly the most common use of the method. To purify, proteins are tagged e.g. using His-tags or GST (glutathione-S-transferase) tags, which can be recognized by a metal ion ligand, such as imidazole.",
+            "score": 67.17129337787628
+        },
+        {
+            "docid": "1240612_19",
+            "document": "Glutathione S-transferase . In addition to their roles in cancer development and chemotherapeutic drug resistance, GSTs are implicated in a variety of diseases by virtue of their involvement with GSH. Although the evidence is minimal for the influence of GST polymorphisms of the alpha, mu, pi, and theta classes on susceptibility to various types of cancer, numerous studies have implicated such genotypic variations in asthma, atherosclerosis, allergies, and other inflammatory diseases.",
+            "score": 69.68617534637451
+        },
+        {
+            "docid": "1240612_3",
+            "document": "Glutathione S-transferase . GSTs can constitute up to 10% of cytosolic protein in some mammalian organs. GSTs catalyse the conjugation of GSH\u2014via a sulfhydryl group\u2014to electrophilic centers on a wide variety of substrates in order to make the compounds more water-soluble. This activity detoxifies endogenous compounds such as peroxidised lipids and enables the breakdown of xenobiotics. GSTs may also bind toxins and function as transport proteins, which gave rise to the early term for GSTs, \"ligandin\".",
+            "score": 72.25418829917908
+        },
+        {
+            "docid": "12271250_11",
+            "document": "Mansonella perstans . Another study evaluated the effectiveness of ivermectin and albendazole in \"M. perstans\" and \"Wuchereria bancrofti\" coinfection in a filarial endemic region of Mali, finding that \"M. perstans\" infection did not have a significant effect on the treatment of \"W. bancrofti\". Other studies have evaluated the efficacy of other treatments on co-infection with other filarial parasites and \"M. perstans\".",
+            "score": 60.672112703323364
+        },
+        {
+            "docid": "1240612_24",
+            "document": "Glutathione S-transferase . In rodent pre-clinical studies, urinary and serum alpha GST have been shown to be sensitive and specific indicators of renal proximal tubular and hepatocyte necrosis respectively.",
+            "score": 62.20504903793335
+        },
+        {
+            "docid": "1539801_25",
+            "document": "Brugia malayi . The ICT antigen card test is widely used in the diagnosis of \"W. bancrofti\", but commercial antigens of \"B. malayi\" have not been widely available. However, new research developments have identified a recombinant antigen (BmR1) that is both specific and sensitive in the detection of IgG4 antibodies against \"B. malayi\" and \"B. timori\" in an enzyme-linked immunosorbent assay and an immunochromatographic rapid dipstick (Brugia Rapid) test. However, it appears that immunoreactivity to this antigen is variable in individuals infected with other filarial nematodes. This research has led to the development of two new rapid immunochromatographic IgG4 cassette tests \u2013 WB rapid and panLF rapid \u2013 which detect Bancroftian filariasis and all three species of lymphatic filariasis, respectively, with high sensitivity and selectivity.",
+            "score": 78.6383445262909
+        },
+        {
+            "docid": "1240612_15",
+            "document": "Glutathione S-transferase . Although best known for their ability to conjugate xenobiotics to GSH and thereby detoxify cellular environments, GSTs are also capable of binding nonsubstrate ligands, with important cell signaling implications. Several GST isozymes from various classes have been shown to inhibit the function of a kinase involved in the MAPK pathway that regulates cell proliferation and death, preventing the kinase from carrying out its role in facilitating the signaling cascade.",
+            "score": 76.85026454925537
+        },
+        {
+            "docid": "1240612_4",
+            "document": "Glutathione S-transferase . Protein sequence and structure are important additional classification criteria for the three superfamilies (cytosolic, mitochondrial, and MAPEG) of GSTs: while classes from the cytosolic superfamily of GSTs possess more than 40% sequence homology, those from other classes may have less than 25%. Cytosolic GSTs are divided into 13 classes based upon their structure: alpha, beta, delta, epsilon, zeta, theta, mu, nu, pi, sigma, tau, phi, and omega. Mitochondrial GSTs are in class kappa. The MAPEG superfamily of microsomal GSTs consists of subgroups designated I-IV, between which amino acid sequences share less than 20% identity. Human cytosolic GSTs belong to the alpha, zeta, theta, mu, pi, sigma, and omega classes, while six isozymes belonging to classes I, II, and IV of the MAPEG superfamily are known to exist.",
+            "score": 67.67355620861053
+        },
+        {
+            "docid": "16276793_6",
+            "document": "Cell-free protein array . In the \"in situ\" method, protein synthesis is carried out on a protein array surface that is pre-coated with a protein-capturing reagent or antibody. Once the newly synthesized proteins are released from the ribosome, the tag sequence that is also synthesized at the N- or C-terminus of each nascent protein will be bound by the capture reagent or antibody, thus immobilizing the proteins to form an array. Commonly used tags include polyhistidine (His)6 and glutathione s-transferase (GST).",
+            "score": 66.90168690681458
+        },
+        {
+            "docid": "46645289_15",
+            "document": "Goods and Services Tax (India) . India adopted a dual GST model, meaning that taxation is administered by both the Union and State Governments. Transactions made within a single state are levied with Central GST (CGST) by the Central Government and State GST (SGST) by the State governments. For inter-state transactions and imported goods or services, an Integrated GST (IGST) is levied by the Central Government. GST is a consumption-based tax/destination-based tax, therefore, taxes are paid to the state where the goods or services are consumed not the state in which they were produced. IGST complicates tax collection for State Governments by disabling them from collecting the tax owed to them directly from the Central Government. Under the previous system, a state would only have to deal with a single government in order to collect tax revenue.",
+            "score": 59.486847043037415
+        },
+        {
+            "docid": "1434061_23",
+            "document": "Affinity chromatography . Possibly the most common use of affinity chromatography is for the purification of recombinant proteins. Proteins with a known affinity are protein tagged in order to aid their purification. The protein may have been genetically modified so as to allow it to be selected for affinity binding; this is known as a fusion protein. Tags include glutathione-S-transferase (GST), hexahistidine (His), and maltose binding protein (MBP). Histidine tags have an affinity for nickel or cobalt ions which have been immobilized by forming coordinate covalent bonds with a chelator incorporated in the stationary phase. For elution, an excess amount of a compound able to act as a metal ion ligand, such as imidazole, is used. GST has an affinity for glutathione which is commercially available immobilized as glutathione agarose. During elution, excess glutathione is used to displace the tagged protein.",
+            "score": 71.77678966522217
+        }
+    ],
+    "r": [
+        {
+            "docid": "4646238_4",
+            "document": "Myricetin . Antioxidants are molecules present in fruits and vegetables that have been demonstrated to protect against some forms of cancer and cardiovascular disease. Biomolecules and cell structures can experience oxidative stress due to the presence and activity of reactive oxygen species (ROS). ROS like \u2022OH, \u2022O, and HO are produced during cellular metabolism processes (aerobic respiration). ROS can damage lipids, DNA, and proteins. Gradual but steady accretion of such damage can lead to the development of many diseases and conditions including thrombosis, diabetes, persistent inflammation, cancer, and atherosclerosis. Flavonoids including myricetin are able to scavenge for ROS and can chelate intracellular transition metal ions that ultimately produce ROS. Myricetin also enhances the effects of other antioxidants. Myricetin can induce the enzyme glutathione S-transferase (GST). GST has been suggested to protect cells against oxidative stress by protecting cells against free-radicals. \"In vitro\" studies have shown that myricetin significantly increased GST activity.",
+            "score": 138.6106414794922
+        },
+        {
+            "docid": "10280304_14",
+            "document": "Malaria vaccine . The life cycle of the malaria parasite is particularly complex, presenting initial developmental problems. Despite the huge number of vaccines available at the current time, there are none that target parasitic infections. The distinct developmental stages involved in the life cycle present numerous opportunities for targeting antigens, thus potentially eliciting an immune response. Theoretically, each developmental stage could have a vaccine developed specifically to target the parasite. Moreover, any vaccine produced would ideally have the ability to be of therapeutic value as well as preventing further transmission and is likely to consist of a combination of antigens from different phases of the parasite\u2019s development. More than 30 of these antigens are currently being researched by teams all over the world in the hope of identifying a combination that can elicit immunity in the inoculated individual. Some of the approaches involve surface expression of the antigen, inhibitory effects of specific antibodies on the life cycle and the protective effects through immunization or passive transfer of antibodies between an immune and a non-immune host. The majority of research into malarial vaccines has focused on the \"Plasmodium falciparum\" strain due to the high mortality caused by the parasite and the ease of a carrying out in vitro/in vivo studies. The earliest vaccines attempted to use the parasitic circumsporozoite (CS) protein. This is the most dominant surface antigen of the initial pre-erythrocytic phase. However, problems were encountered due to low efficacy, reactogenicity and low immunogenicity.",
+            "score": 116.75894927978516
+        },
+        {
+            "docid": "2188496_28",
+            "document": "Schistosoma mansoni . Adult and larval worms migrate through the host's blood circulation avoiding the host's immune system. The worms have many tools that help in this evasion, including the tegument, antioxidant proteins, and defenses against host membrane attack complex (MAC). The tegument coats the worm and acts as a physical barrier to host antibodies and complement. Host immune defenses are capable of producing superoxide, but these are counter attacked by antioxidant proteins produced by the parasite. Schistosomes have four superoxide dismutases, and levels of these proteins increase as the schistosome grows. Antioxidant pathways were first recognised as a chokepoints for schistosomes, and later extended to other trematodes and cestodes. Targeting of this pathway with different inhibitors of the central antioxidant enzyme thioredoxin glutathione reductase (TGR) results in reduced viability of worms. Decay accelerating factor (DAF) protein is present on the parasite tegument and protects host cells by blocking formation of MAC. In addition, schistosomes have six homologues of human CD59 which are strong inhibitors of MAC.",
+            "score": 112.16412353515625
+        },
+        {
+            "docid": "49996875_12",
+            "document": "Ostertagia ostertagi . Gastrointestinal nematodes may elicit a variety of host immune responses depending on the initial immune status of the host, parasite species, and environmental conditions. The body has several physical defense mechanisms against parasites including the continual sloughing of the gut epithelium to prevent parasite attachment. However, once an infection has occurred, the host\u2019s immune system attempts to limit the damage caused by the worm. Apart from the importance of the extrinsic factors of weather, climate and grazing management, the immune status of cattle is perhaps the most significant of all host factors influencing infection with \"O. ostertagi\". Unlike other common gastrointestinal nematodes of cattle, who are subject to a quick host immune response after relatively short periods of exposure and immune system memory, a protective host immune response against \"O. ostertagi\" requires far longer periods of exposure and is not always permanent. The failure to respond quickly to \"Ostertagia\" may be a result of the suggested immunosuppression or impairment of antibody and cellular responses. \"O. ostertagi\" has been shown to induce cytokines and T-cells in the adaptive immune response in cattle, and recent advances have been made to produce suitable vaccines targeting adult stage \"Ostertagia\". The major limitations to reducing parasitic load using vaccines is the complex and dynamic host-parasite interaction that is unique to each species of host and parasite, which is often influenced by several environmental factors.",
+            "score": 103.75463104248047
+        },
+        {
+            "docid": "1539801_39",
+            "document": "Brugia malayi . Another hopeful use for the research is in the area of transplant research. Because the \"B. malayi\" genome is the first parasitic genome to have been sequenced, the implications on the mechanism of parasitism in humans are crucial to understand. According to Alan L. Scott, Ph.D., a collaborator at Johns Hopkins University, understanding how a particular parasite, such as \"B. malayi\", can adapt to humans, may yield medical benefits far beyond treating elephantiasis. According to the author, \"This worm can reside in the host for years and not necessarily cause disease, in fact the less disease the individual has, the more worms there are in circulation. Now that we know those genes don't exist in humans we can target them to control disease.\" Some of the predicted proteins for these new genes appear similar to known immuno-modulator proteins, regulators of the immune system, suggesting that they are involved in deactivating the host's immune system to ensure the parasite remains undetected. Knowledge of these previously unknown immune suppressors could also be of use in organ transplants and to help treat autoimmune disease.",
+            "score": 100.79006958007812
+        },
+        {
+            "docid": "1539801_31",
+            "document": "Brugia malayi . There is currently no licensed vaccine to prevent lymphatic filariasis. However, recent research has produced vaccine candidates with good results in experimental animals. A glutathione-S-transferase, a detoxification enzyme in parasites isolated from \"Setaria cervi\", a bovine filarial parasite, reduced \"B. malayi\" adult parasite burden by more than 82% for 90 days after treatment.",
+            "score": 100.66243743896484
+        },
+        {
+            "docid": "1539801_40",
+            "document": "Brugia malayi . According to the Filarial Genome Project being done by The Special Programme for Research and Training in Tropical Diseases, the \"Brugia malayi\" MIF gene is expressed in all life-cycle stages of the parasite, and results suggest that \"B. malayi\" MIF may interact with the human immune system during the course of infection by altering the function of macrophages in the infected individual. Studies are currently testing the hypothesis that MIF may be involved in reducing the host's immune response to the microfilariae. Understanding how this particular parasite has adapted to humans may help organ transplant researchers by figuring out how to prevent the immune system from attacking the transplanted tissue.",
+            "score": 97.99497985839844
+        },
+        {
+            "docid": "6028064_25",
+            "document": "Lymphatic filariasis . Researchers at the University of Illinois at Chicago (UIC) have developed a novel vaccine for the prevention of lymphatic filariasis. This vaccine has been shown to elicit strong, protective immune responses in mouse models of lymphatic filariasis infection. The immune response elicited by this vaccine has been demonstrated to be protective against both \"W. bancrofti\" and \"B. malayi\" infection in the mouse model and may prove useful in the human.",
+            "score": 95.62847900390625
+        },
+        {
+            "docid": "390926_2",
+            "document": "Wuchereria bancrofti . Wuchereria bancrofti is a human parasitic roundworm that is the major cause of lymphatic filariasis. It is one of the three parasitic worms, together with \"Brugia malayi\" and \"B. timori\", that infect the lymphatic system to cause lymphatic filariasis. These filarial worms are spread by a variety of mosquito vector species. \"W. bancrofti\" is the most prevalent of the three and affects over 120 million people, primarily in Central Africa and the Nile delta, South and Central America, the tropical regions of Asia including southern China, and the Pacific islands. If left untreated, the infection can develop into a chronic disease called elephantiasis. In rare conditions it also causes tropical eosinophilia, an asthmatic disease. There is no commercially available vaccine, however high rates of cure have been achieved with various anti-filarial regimens and lymphatic filariasis is the target of the WHO Global Program to Eliminate Lymphatic Filariasis with the aim to eradicate the disease as a public health problem by 2020.",
+            "score": 95.20185852050781
+        },
+        {
+            "docid": "2200815_24",
+            "document": "Eimeria . Infection with \"Eimeria\" results in life-long immunity to that particular parasite species, but does not give cross protection against other species. For these reasons, vaccines for control seem promising, of which live attenuated vaccines are most effective. However, the search for highly immunogenic antigens and overcoming antigenic variation of the parasites remains a challenge. Immunity to the parasite varies depending on parasite and host species, as well as the site of invasion. CD4+ T cells and interferon gamma (\u03b3) are crucial components of natural immunity to infection. Humoral immunity is thought to play little role in protection, and is most likely mediated through secretory IgA antibodies.",
+            "score": 93.79922485351562
+        },
+        {
+            "docid": "4083404_11",
+            "document": "Diallyl disulfide . Diallyl disulfide is an efficient agent for detoxication of the cells. It significantly increases the production of the enzyme glutathione S-transferase (GST), which binds electrophilic toxins in the cell. Garlic therefore supports, for example, the detoxification function of liver cells \"in vitro\" and protects nerve cells from oxidative stress, also \"in vitro\". The detoxification effect may prevent symptoms of inflammation. This was confirmed in a study on rats where prolonged administration of diallyl disulfide protected poisoning of their intestinal cells. This study also showed that certain side effects of high doses of garlic oil are not attributable to the diallyl disulfide. By supporting the detoxification activity in the liver, diallyl disulfide might offer liver protection during the chemotherapy, e.g. against cyanide detoxification.",
+            "score": 93.54435729980469
+        },
+        {
+            "docid": "1079203_62",
+            "document": "Hookworm infection . Co-infection with hookworm and \"Plasmodium falciparum\" is common in Africa. Although exact numbers are unknown, preliminary analyses estimate that as many as a quarter of African schoolchildren (17.8\u201332.1 million children aged 5\u201314 years) may be coincidentally at-risk of both \"P. falciparum\" and hookworm. While original hypotheses stated that co-infection with multiple parasites would impair the host\u2019s immune response to a single parasite and increase susceptibility to clinical disease, studies have yielded contrasting results. For example, one study in Senegal showed that the risk of clinical malaria infection was increased in helminth-infected children in comparison to helminth-free children while other studies have failed to reproduce such results, and even among laboratory mouse experiments the effect of helminths on malaria is variable. Some hypotheses and studies suggest that helminth infections may protect against cerebral malaria due to the possible modulation of pro-inflammatory and anti-inflammatory cytokines responses. Furthermore, the mechanisms underlying this supposed increased susceptibility to disease are unknown. For example, helminth infections cause potent and highly polarized immune response characterized by increased T-helper cell type 2 (T2) cytokine and Immunoglobulin E(IgE) production. However, the effect of such responses on the human immune response is unknown. Additionally, both malaria and helminth infection can cause anemia, but the effect of co-infection and possible enhancement of anemia is poorly understood.",
+            "score": 92.41313934326172
+        },
+        {
+            "docid": "21354427_11",
+            "document": "Human T-lymphotropic virus . While there is no present licensed vaccine, there are many factors which make a vaccine against HTLV-1 feasible. The virus displays relatively low antigenic variability, natural immunity does occur in humans, and experimental vaccination using envelope antigens has been shown to be successful in animal models. Plasmid DNA vaccines elicit potent and protective immune responses in numerous small-animal models of infectious diseases. However, their immunogenicity in primates appears less potent. In the past two decades a large initiative has been put forth to understand the biological and pathogenic properties of the human T-cell lymphotropic virus type 1 (HTLV-1); this has ultimately led to the development of various experimental vaccination and therapeutic strategies to combat HTLV-1 infection. These strategies include the development of envelope glycoprotein derived B-cell epitopes for the induction of neutralizing antibodies, as well as a strategy to generate a multivalent cytotoxic T-lymphocyte (CTL) response against the HTLV-1 Tax antigen. A vaccine candidate that can elicit or boost anti-gp46 neutralizing antibody response may have a potential for prevention and therapy against HTLV-1 infection.",
+            "score": 89.99720764160156
+        },
+        {
+            "docid": "21116621_7",
+            "document": "Hookworm vaccine . Examples of antigenic targets of hookworm vaccines currently in clinical trials include \"Na\"-ASP-2 from \"N. americanus,\" \"Ac\"-APR-1 from \"Ancylostoma caninum, \"Ac'-APR-1 and \"Na-\"GST-1/Alhydroge. In a clinical trial a vaccine containing recombinant Na-ASP-2 with Alhydrogel as an adjuvant was found to increase T2 helper cells and IgE. Both the Th2 helper cells and IgE antibody are important players in recognition and immunoregulation against parasites. The vaccine containing recombinant Na-ASP-2 resulted in significantly decreased risk of a hookworm infection.",
+            "score": 88.96417999267578
+        },
+        {
+            "docid": "14653597_5",
+            "document": "Glutathione S-transferase, C-terminal domain . In eukaryotes, glutathione S-transferases (GSTs) participate in the detoxification of reactive electrophilic compounds by catalysing their conjugation to glutathione. The GST domain is also found in S-crystallins from squid, and proteins with no known GST activity, such as eukaryotic elongation factors 1-gamma and the HSP26 family of stress-related proteins, which include auxin-regulated proteins in plants and stringent starvation proteins in \"Escherichia coli\". The major lens polypeptide of cephalopods is also a GST.",
+            "score": 88.51697540283203
+        },
+        {
+            "docid": "3524301_11",
+            "document": "Burkholderia mallei . \"B. mallei\" is responsible for causing glanders disease, which historically mostly affected animals, such as horses, mules, and donkeys, and rarely humans. Horses are considered the natural host for \"B. mallei\" infection and are highly susceptible to it. \"B. mallei\" infects and gains access to the cell of its host through lysis of the entry vacuole. \"B. mallei\" has bacterial protein-dependent, actin-based motility once inside the cell. It is also able to initiate host cell fusion that results in multinucleated giant cells (MNGCs). The consequence of MNGCs has yet to be determined, but it may allow the bacteria to spread to different cells, evade responses by the infected host\u2019s immune system, or allow the bacteria to remain in the host longer. \"B. mallei\" is able to survive inside host cells through its capabilities in disrupting the bacteria-killing functions of the cell. It leaves the vacuoles early, which allows for efficient replication of the bacteria inside the cell. Leaving the cell early also keeps the bacteria from being destroyed by lysosomal defensins and other pathogen-killing agents. MNGCs may help protect the bacteria from immune responses. \"B. mallei\"\u2019s ability to live within the host cell makes developing a vaccine against it difficult and complex. The vaccine would need to create a cell-mediated immune response, as well as a humoral response to the bacteria in to be effective in protecting against \"B. mallei\". In regards to a vaccine against \"B. mallei\", the closeness of \"B. mallei\" to \"B. pseudomallei\" may make it possible that a vaccine developed for either type would be effective against the other.",
+            "score": 87.45526885986328
+        },
+        {
+            "docid": "35349626_9",
+            "document": "Herpes simplex research . David M. Knipe, a Professor at Harvard Medical School has developed \"dl\"5-29. The \"dl\"5-29 vaccine is also known under the name ACAM-529 or HSV-529, a replication-defective vaccine that has proved successful in preventing both HSV-2 and HSV-1 infections and in combating the virus in already-infected hosts, in animal models. The HSV-529 is a leading vaccine candidate which has been investigated in numerous research publications, and is endorsed by many researchers in the field (i.a. Lynda A. Morrison and Jeffrey Cohen). It has also been shown that the vaccine induces strong HSV-2-specific antibody and T-cell responses, protects against challenge with a wild-type HSV-2 virus, reduces the severity of recurrent disease, provides cross-protection against HSV-1. The ongoing trials would prove if a durable immune response in humans is to be successfully achieved or if the vaccine is too over attenuated to do the same. The vaccine is now being researched and developed by Sanofi Pasteur. Both Sanofi Pasteur and the clinical-stage immunotherapy company Immune Design have entered a broad collaboration, which will explore the potential of various combinations of agents against HSV-2, including an adjuvanted trivalent vaccine candidate G103, consisting of recombinantly-expressed viral proteins.",
+            "score": 87.0460205078125
+        },
+        {
+            "docid": "1240612_2",
+            "document": "Glutathione S-transferase . Glutathione \"S\"-transferases (GSTs), previously known as ligandins, comprise a family of eukaryotic and prokaryotic phase II metabolic isozymes best known for their ability to catalyze the conjugation of the reduced form of glutathione (GSH) to xenobiotic substrates for the purpose of detoxification. The GST family consists of three superfamilies: the cytosolic, mitochondrial, and microsomal\u2014also known as MAPEG\u2014proteins. Members of the GST superfamily are extremely diverse in amino acid sequence, and a large fraction of the sequences deposited in public databases are of unknown function. The Enzyme Function Initiative (EFI) is using GSTs as a model superfamily to identify new GST functions.",
+            "score": 86.95600128173828
+        },
+        {
+            "docid": "10611249_2",
+            "document": "Helminth protein . A helminth protein, or helminthic antigen, is a protein derived from a parasitic worm that causes an immune reaction. When secreted, these proteins may modify the host's immune response in order to promote longevity of the parasite. Helminth proteins can result in a deregulated response to infection, and are implicated in reduced reactivity to other antigens. Other helminth proteins promote parasite survival in other ways, particularly since parasites must depend on hosts for the supply of essential nutrients. Despite their pathogenic properties, helminth proteins have potential to be co-opted to treat a number of other human diseases.",
+            "score": 86.69291687011719
+        },
+        {
+            "docid": "10280304_5",
+            "document": "Malaria vaccine . RTS,S/AS01 (commercial name Mosquirix), was engineered using genes from the outer protein of \"P. falciparum\" malaria parasite and a portion of a hepatitis B virus plus a chemical adjuvant to boost the immune response. Infection is prevented by inducing high antibody titers that block the parasite from infecting the liver. The developers are non-profit In November 2012 a Phase III trial of RTS,S found that it provided modest protection against both clinical and severe malaria in young infants.",
+            "score": 86.59725952148438
+        },
+        {
+            "docid": "3340565_5",
+            "document": "Heligmosomoides polygyrus . Upon infection with \"H. polygyrus\", innate and adaptive host immune responses are generated to prevent the establishment of the parasite in the gut. A strong wound healing immune response (Th2-type) associated with intestinal pathology is mounted. Similar to other roundworm infections Th2 immunity focuses on eliminating the parasite or confining it to minimize host damage.Mucus secreted by goblet cells of the intestine, acts as the first line of defense, hence increases in goblet cell number are a major observable change during \"H. polygyrus\" infection. Macrophages are activated through Th2 cytokines and they are important in parasite clearance by increase intestinal motility and to induce fibrosis and healing. These immune cells are also important in granuloma formation. This is a defensive response by the host to trap the parasite and minimize its damage to the gut. In addition, these cells are important in increasing contractions of the gut wall, which facilitates worm expulsion. The spleen, mesenteric lymph nodes, Peyer\u2019s patches and lamina propria lymphocytes induce a strong Th2 immune response by producing different cytokines (Interleukin 3, IL4, IL5, IL9, IL10 and IL13) which are important in controlling and expelling worms. These cytokines aid in generating CD4 T helper 2 effector cells necessary for adaptive immune responses against the parasite. In addition costimulatory signals via CD80 and CD86 has also be shown important in mounting a Th2 immune response and producing immunoglobulin E (IgE). In the humoral arm of immunity, parasite specific IgG1 plays a greater role in protection during infection and IgA has been shown to have a minor effect. But IgM and IgE has not been shown important against \"H. polygyrus\" protection.",
+            "score": 86.57088470458984
+        },
+        {
+            "docid": "14799275_5",
+            "document": "NFE2L1 . NFE2L1 regulates a wide variety of cellular responses, several of which are related to important aspects of protection from stress stimuli. NFE2L1 is involved in providing cellular protection against oxidative stress through the induction of antioxidant genes. The glutathione synthesis pathway is catalyzed by glutamate-cysteine ligase, which contains the catalytic GCLC and regulatory GCLM, and glutathione synthetase (GSS). Nfe2l1 was found to regulate Gclm and Gss expression in mouse fibroblasts. Gclm was found to be a direct target of Nfe2l1, and Nfe2l1 also regulates Gclc expression through an indirect mechanism. Nfe2l1 knockout mice also exhibit down-regulation of Gpx1 and Hmox1, and Nfe2l1 (this gene)-deficient hepatocytes from liver-specific Nfe2l1 knockout mice showed decreased expression of various Gst genes. Metallothioenein-1 and Metallothioenein-2 genes, which protect cells against cytotoxicity induced by toxic metals, are also direct targets of Nfe2l1.",
+            "score": 86.54866790771484
+        },
+        {
+            "docid": "1240612_20",
+            "document": "Glutathione S-transferase . Because diabetes is a disease that involves oxidative damage, and GSH metabolism is dysfunctional in diabetic patients, GSTs may represent a potential target for diabetic drug treatment. In addition, insulin administration is known to result in increased GST gene expression through the PI3K/AKT/mTOR pathway and reduced intracellular oxidative stress, while glucagon decreases such gene expression.",
+            "score": 86.29547882080078
+        },
+        {
+            "docid": "57177527_4",
+            "document": "Cancer vaccine targeting CD4+ T cells . Recent studies show the crucial role of proliferating, activated effector memory Th1 CD4+ T cells in effective antitumor immunity and reveal that CD4+ T cells induce more durable immune-mediated tumor control than CD8+ T cells. Given that CD4+ T cells are known to play such a central role in regulating virtually all antigen-specific immune responses, they are still not paid much attention to playing a role in immune responses to tumor antigens. The preferred attention to antitumor responses by CD8+ T cells stems from two facts: first, most tumors are positive for MHC class one but negative for MHC class two; and second, CD8+ cytotoxic T lymphocytes (CTLs) are able to induce tumor killing upon direct recognition of peptide antigens, presented by the tumor\u2019s MHC class one molecules. This preference has been bolstered by numerous adoptive transfer studies in which CD8+ T cell lines and CD8+ clones specific for tumor antigens\u2014that have been stimulated in \"vitro\"\u2014can mediate antitumor immunity when transferred back into tumor-bearing hosts; furthermore, recent reports suggest that immunization\u2014using either adjuvant or dendritic cells with pure tumor peptides\u2014can result in productive antitumor immunity that is restricted by MHC class one. Finally, elimination of CD8+ T cells from mice\u2014at least partially abrogates antitumor immunity induced by most cancer vaccines. Similarly, a critical role for CD4+ T cells in induced antitumor immunity has been consistently demonstrated in vaccine/challenge experiments employing antibody-mediated depletion of CD4+ T cells or using CD4-knockout mice. Abrogation of antitumor immunity in CD4-knockout mice or mice depleted of CD4+ T cells has been demonstrated in cases of cell-based vaccines, recombinant viral vaccines and recombinant bacterial vaccines. While most adoptive transfer experiments have been performed with tumor-specific CD8+ T cells, activated CD4+ T cell clones specific for the murine leukemias have been demonstrated to confer systemic antitumor immunity upon transfer into tumor-bearing hosts.",
+            "score": 86.28184509277344
+        },
+        {
+            "docid": "10844157_5",
+            "document": "Parasite Rex . Several chapters are given to discussing various types of parasites and how they infect and control their hosts, along with the biochemistry involved in their take-over or evasion of their host's immune system, eventually leading to their dispersal into their next form and life cycle. A significant focus is also given on the workings of immunology and how the immune systems of living beings respond to parasite infection, along with the methods that bodily functions are used to counteract and potentially kill invading microorganisms. Woven into this discussion are several specific sites that Zimmer visited during his writing of \"Parasite Rex\" and the scientists he worked with to understand different biosystems and all the parasites that live within them, including human sleeping sickness infections in Sudan from the tsetse fly, the parasites of frogs in Costa Rica, primarily showcased by filarial worms that infect humans and a variety of species, and the USDA National Parasite Collection based out of Maryland.",
+            "score": 86.23263549804688
+        },
+        {
+            "docid": "12271250_3",
+            "document": "Mansonella perstans . Compared to infections with other filarial parasites such as \"Wuchereria bancrofti\", \"Brugia malayi\", and \"Loa loa\", \"Mansonella\" infections are relatively mild. However, the pathogenicity of \"M. perstans\" infection has been recently reconsidered in various studies. These studies have demonstrated that \"M. perstans\" has the ability to induce a variety of clinical features, including angioedema Calabar-like swellings, pruritus, fever, headache, eosinophilia, and abdominal pain. The overall disability among populations in regions where filariae are endemic has been difficult to determine because of high rates of coinfection with other filariae and the nonspecificity of \"M. perstan\" infections. Furthermore, treatment of \"M. perstans\" is challenging because the most antifilarial drugs, such as ivermectin, diethylcarbamazine, and albendazole are not effective. The optimal treatment for \"M. perstans\" infection remains unclear. Most current studies are focused on coinfection of \"M. perstans\" with other filarial parasites, and the study of \"Wolbachia\" bacteria as endosymbionts in \"M. perstans\" and other filarial parasites.",
+            "score": 86.06196594238281
+        },
+        {
+            "docid": "1539801_36",
+            "document": "Brugia malayi . Sequence comparisons between the two genomes allow for mapping of \"C. elegans\" orthologs to \"B. malayi\" genes. By using orthology mappings (between \"C. elegans\" and \"B.malayi\") and incorporating the extensive genomic and functional genomic data, including genome-wide RNAi screens that already exist for \"C. elegans\", potentially essential genes in \"B. malayi\" can be identified. Scientists are hoping to be able to target these genes as potential new targets for drug treatments. The longevity of this parasite complicates treatment because most existing drugs target the larvae and thus do not kill adult worms. The drugs often must be taken periodically for years, and the worms can cause a massive immune reaction when they die and releases foreign molecules in the body. Drug treatments for filariasis have not changed significantly in over 20 years, and with the risk of resistance rising, there is an urgent need for the development of new anti-filarial drug therapies. From the genome sequence, several metabolic pathways have been identified, containing dozens of gene products that may be helpful in the discovery of more targeted and effective drug therapies.",
+            "score": 86.03962707519531
+        },
+        {
+            "docid": "1653221_13",
+            "document": "Parasite load . Parasite load has been shown to affect the spread of infectious diseases. For example, parasitologists at the Universidade de S\u00e3o Paulo researched the effect of Chaga's disease on the immune system. They found that individuals who survived the acute phase of infection develop parasite-specific immune response that reduces parasite levels in tissues and blood. This research aims to discover if the parasite load during the acute stage of infection effects if the host will eventually have a positive immune response. The research was conducted on mice, with the intension of eventually using the information gleaned from the experiments to assist humans who have contracted Chaga's disease. Marinho \"et al.\" found that parasite loads in the acute phase of infection correlates at the late chronic stage of the disease, with the intensity of the activation and response of the immune system of the host. This research could lead to new discoveries in parasitology. This could potentially prevent the spread of parasites and therefore diseases linked to parasite infection within a given population.",
+            "score": 85.93020629882812
+        },
+        {
+            "docid": "33894099_28",
+            "document": "Ticks of domestic animals . Vaccination against \"An. marginale\" is done using live strains of the cross-reactive \"An. centrale\". Vaccines are available on a commercial basis to immunize cattle against \"Babesia bovis\". This is made by serial infection of calves to attenuate the virulence of the strain of \"Babesia\", followed by splenectomy to produce many of the piroplasm stage in blood, which is then bottled for use. The vaccine is delivered containing the live protozoa to induce immunity without acute disease. \"Theileria annulata\" can be grown and attenuated in virulence by means of infecting cell cultures with the schizont stage of the protozoan. This is delivered as a frozen vaccine from which live parasites are thawed out before injection. Cattle can be protected against East Coast fever by an infection-and-treatment procedure. \"Rhipicephalus appendiculatus\" ticks are infected with \"Theileria parva\" under laboratory conditions; theilerial sporozoites are extracted from the ticks and stored in liquid nitrogen; infective doses of the live vaccine are delivered to identified cattle and a few days later a protective dose of antibiotic is delivered to stop the infection from developing into clinical East Coast fever. Vaccines are often highly effective, but the live parasite vaccines have problems of potential contamination with other microbes and induction of a carrier state which may be unwanted. Intensive attempts are made to develop vaccines to control these diseases using recombinant DNA techniques to synthesize the relevant antigens, but as with vaccines against human malaria this is a difficult technological challenge.",
+            "score": 85.50859832763672
+        },
+        {
+            "docid": "1434061_18",
+            "document": "Affinity chromatography . For thoroughness the GST protein and the GST-fusion protein can each be coupled separately. The serum is initially allowed to bind to the GST affinity matrix. This will remove antibodies against the GST part of the fusion protein. The serum is then separated from the solid support and allowed to bind to the GST-fusion protein matrix. This allows any antibodies that recognize the antigen to be captured on the solid support. Elution of the antibodies of interest is most often achieved using a low pH buffer such as glycine pH 2.8. The eluate is collected into a neutral tris or phosphate buffer, to neutralize the low pH elution buffer and halt any degradation of the antibody's activity. This is a nice example as affinity purification is used to purify the initial GST-fusion protein, to remove the undesirable anti-GST antibodies from the serum and to purify the target antibody.",
+            "score": 85.4511947631836
+        },
+        {
+            "docid": "33769881_25",
+            "document": "Immunomics . As quoted by Stefania Bambini and Rino Rappuoli, \u201cNew powerful genomics technologies have increased the number of disease that can be addressed by vaccination, and decreased the time for discover research and vaccine development.\u201d The availability of complete genome sequences of pathogens in combination with high-throughput genomics technologies have helped to accelerate vaccine development. Reverse vaccinology uses genomic sequences of viral, bacterial, or parasitic pathogens to identify genes potentially encoding genes that promote pathogenesis. The first application of reverse vaccinology identified vaccine candidates against \"Neisseria meningitidis\" serogroup B. Computational tools identified 600 putative surface-exposed or secreted proteins from the complete genome sequence of a MenB pathogenic strain, on the basis of sequence features. These putative proteins were expressed in E. coli, purified, and used to immunize mice. Tests using mice immune sera estimated the ability of antibodies to protect against these proteins. The proteins able to solicit a robust immune response were checked for sequence conservation across a panel of meningitides strains and allowed for further selection of antigen able to elicit an immune response against most strains in the panel. On the basis of these antigen sequences, scientists have been able to develop a universal \u201ccocktail\u201d vaccine against \"Neisseria meninitidis\" that uses five antigens to promote immunity. Similar approaches have been used for a variety of other human pathogens, such as \"Streptococcus pneumoniae\", \"Chlamydia pneumoniae\", \"Bacillus anthracis\", \"Porphyromonas gingivalis\", \"Mycobacterium tuberculosis\", \"Helicobacter pylori\", amongst others. Additionally, studies have started for the development of vaccines against viruses.",
+            "score": 84.40064239501953
+        },
+        {
+            "docid": "56144908_6",
+            "document": "Owais Mohammad . In general, specialized groups of pathogens adapt intra-cellular parasitism as a strategy to avoid antibody onslaught. Keeping into consideration the non-effectiveness of humoral immune response against such intracellular pathogens, Dr. Owais evaluated potential of fusogenic lipid based vaccines as an alternative prophylactic strategy. In this regard, he has compared lipid compositions of plasma membranes of both prokaryotic as well as eukaryotic cells. These studies established a correlation between the lipid compositions of plasma membranes of living organisms with evolutionary trend. Lipid isolated from lower organisms possesses strong fusogenic potential. He established that model antigens entrapped in liposomes made up of fusogenic lipids, can be delivered to the target cells including antigen presenting cells (APCs), resulting in both the endo/lysosomal and cytosolic degradation pathways for antigen processing. The dual processing of antigens in the antigen presenting cells activated both the CD4+ T helper as well as CD8+ cytotoxic T cells. Further, he established that immunization with fusogenic liposomes resulted in expression of both IL-2 and IFN-\u03b3, the two key cytokines that eventually help in protection against intracellular infections.",
+            "score": 83.8074722290039
+        }
+    ]
+}

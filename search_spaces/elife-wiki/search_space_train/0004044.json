@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "966654_4",
+            "document": "DNA-binding protein . Structural proteins that bind DNA are well-understood examples of non-specific DNA-protein interactions. Within chromosomes, DNA is held in complexes with structural proteins. These proteins organize the DNA into a compact structure called chromatin. In eukaryotes, this structure involves DNA binding to a complex of small basic proteins called histones. In prokaryotes, multiple types of proteins are involved. The histones form a disk-shaped complex called a nucleosome, which contains two complete turns of double-stranded DNA wrapped around its surface. These non-specific interactions are formed through basic residues in the histones making ionic bonds to the acidic sugar-phosphate backbone of the DNA, and are therefore largely independent of the base sequence. Chemical modifications of these basic amino acid residues include methylation, phosphorylation and acetylation. These chemical changes alter the strength of the interaction between the DNA and the histones, making the DNA more or less accessible to transcription factors and changing the rate of transcription. Other non-specific DNA-binding proteins in chromatin include the high-mobility group (HMG) proteins, which bind to bent or distorted DNA. Biophysical studies show that these architectural HMG proteins bind, bend and loop DNA to perform its biological functions. These proteins are important in bending arrays of nucleosomes and arranging them into the larger structures that form chromosomes.",
+            "score": 267.3319625854492
+        },
+        {
+            "docid": "9896453_77",
+            "document": "Eukaryotic DNA replication . The heterotrimeric chaperone chromatin assembly factor 1 (CAF-1) is a chromatin formation protein that is involved in depositing histones onto both newly replicated DNA strands to form chromatin. CAF-1 contains a PCNA-binding motif, called a PIP-box, that allows CAF-1 to associate with the replisome through PCNA and is able to deposit histone H3-H4 dimers onto newly synthesized DNA. The Rtt106 chaperone is also involved in this process, and associated with CAF-1 and H3-H4 dimers during chromatin formation. These processes load newly synthesized histones onto DNA.",
+            "score": 390.88983130455017
+        },
+        {
+            "docid": "41118075_9",
+            "document": "Deficiency of RbAp48 protein and memory loss . Proteins RbAp48 is a key player in the assembly of nucleosomes. RbAp48 protein is a subunit of the chromatin-assembly factor-1 (CAF-1) complex, which assembles histones H3 and H4 onto newly replicated DNA to initiate nucleosomes assembly. RbAp48 protein is also found in numerous other protein complexes for regulation of chromatin structure. Studies show that RbAp48 interacts with H3-H4 dimers and imply that the function of RbAp48 is involved in numerous process such as chromatin assembly, remodeling and modifications; therefore, in many other chromatin-related processes, histones H3-H4 might be handled as a dimer. More generally, it seems plausible that the presence of RbAp48 may reflex the post-translational modifications of the nucleosome. As a result, this can affect the activities of neurons and ultimately impact the memory encoding ability",
+            "score": 378.72225844860077
+        },
+        {
+            "docid": "7955_53",
+            "document": "DNA . Structural proteins that bind DNA are well-understood examples of non-specific DNA-protein interactions. Within chromosomes, DNA is held in complexes with structural proteins. These proteins organize the DNA into a compact structure called chromatin. In eukaryotes, this structure involves DNA binding to a complex of small basic proteins called histones, while in prokaryotes multiple types of proteins are involved. The histones form a disk-shaped complex called a nucleosome, which contains two complete turns of double-stranded DNA wrapped around its surface. These non-specific interactions are formed through basic residues in the histones, making ionic bonds to the acidic sugar-phosphate backbone of the DNA, and are thus largely independent of the base sequence. Chemical modifications of these basic amino acid residues include methylation, phosphorylation, and acetylation. These chemical changes alter the strength of the interaction between the DNA and the histones, making the DNA more or less accessible to transcription factors and changing the rate of transcription. Other non-specific DNA-binding proteins in chromatin include the high-mobility group proteins, which bind to bent or distorted DNA. These proteins are important in bending arrays of nucleosomes and arranging them into the larger structures that make up chromosomes.",
+            "score": 266.6025581359863
+        },
+        {
+            "docid": "33560980_7",
+            "document": "Bruce William Stillman . Stillman has also studied how the proteins associated with the cellular DNA are inherited as cells divide. The proteins that combine with DNA to organize the genome into a chromatin structure include histones. He developed a biochemical system to study DNA replication-coupled chromatin assembly in a test tube and discovered proteins such as Chromatin Assembly Factor-1 (CAF-1) that cooperate with the DNA replication machinery to assemble new histones onto the DNA. These studies resulted in understanding how chromatin is inherited.",
+            "score": 337.60933232307434
+        },
+        {
+            "docid": "41118075_8",
+            "document": "Deficiency of RbAp48 protein and memory loss . In eukaryotic cells, DNA is wrapped around an octamer of histone proteins to form nucleosomes, which fold into higher-order chromatin structures. The nucleosome comprises two copies of histone H3 and histone H4. These nucleosomes form a heterotetramer and bind to DNA in the first step of nucleosome assembly. When DNA is replicated, nucleosomes need to be disassembled in front of the fork and the histones must then be transferred to the newly duplicated strands for reassembly. Studies of the in- vivo composition of histone H3 complexes, as well as the structural of the ASF1-H3-H4 complex, have shown that histone H3-H4 complexes are handled as a protein dimer.",
+            "score": 356.82368183135986
+        },
+        {
+            "docid": "14776716_3",
+            "document": "ASF1A . This gene encodes a member of the H3/H4 family of histone chaperone proteins and is similar to the anti-silencing function-1 gene in yeast. The protein is a key component of a histone donor complex that functions in nucleosome assembly. It interacts with histones H3 and H4, and functions together with a chromatin assembly factor during DNA replication and repair.",
+            "score": 334.52095890045166
+        },
+        {
+            "docid": "21843_28",
+            "document": "Nucleosome . Histones H3 and H4 from dissembled old nucleosomes are kept in the vicinity and randomly distributed on the newly synthesized DNA. They are assembled by the chromatin assembly factor-1 (CAF-1) complex, which consists of three subunits (p150, p60, and p48). Newly synthesized H3 and H4 are assembled by the replication coupling assembly factor (RCAF). RCAF contains the subunit Asf1, which binds to newly synthesized H3 and H4 proteins. The old H3 and H4 proteins retain their chemical modifications which contributes to the passing down of the epigenetic signature. The newly synthesized H3 and H4 proteins are gradually acetylated at different lysine residues as part of the chromatin maturation process. It is also thought that the old H3 and H4 proteins in the new nucleosomes recruit histone modifying enzymes that mark the new histones, contributing to epigenetic memory.",
+            "score": 374.07228350639343
+        },
+        {
+            "docid": "553612_34",
+            "document": "Histone acetyltransferase . Histone acetyltransferases serve many biological roles inside the cell. Chromatin is a combination of proteins and DNA found in the nucleus, and it undergoes many structural changes as different cellular events such as DNA replication, DNA repair, and transcription occur. Chromatin in the cell can be found in two states: condensed and uncondensed. The latter, known as euchromatin, is transcriptionally active, whereas the former, known as heterochromatin, is transcriptionally inactive. Histones comprise the protein portion of chromatin. There are five different histone proteins: H1, H2A, H2B, H3, and H4. A core histone is formed when two of each histone subtype, excluding H1, form a quaternary complex. This octameric complex, in association with the 147 base pairs of DNA coiled around it, forms the nucleosome. Histone H1 locks the nucleosome complex together, and it is the last protein to bind in the complex.",
+            "score": 279.6403126716614
+        },
+        {
+            "docid": "4718833_7",
+            "document": "Eukaryotic chromosome structure . Packaging of DNA is facilitated by the electrostatic charge distribution: phosphate groups cause DNA to have a negative charge, whilst the histones are positively charged. Most eukaryotic cells contain histones (with a few exceptions) as well as the kingdom Archaea. Histones are positively charged molecules as they contain lysine and arginine in larger quantities and DNA is negatively charged. So they make a strong ionic bond in between them to form nucleosome. Packaging is also accomplished by specialized proteins that bind and fold the DNA. This generates a series of loops and coils that provide increasingly higher levels of organization and prevent the DNA from becoming tangled and unmanageable. This complex of DNA and proteins are called chromatin. But in addition to proteins involved with packaging, chromosomes are associated with proteins involved with DNA replication, DNA repair, and gene expression.",
+            "score": 227.68594658374786
+        },
+        {
+            "docid": "32150862_3",
+            "document": "Bacterial DNA binding protein . Histone-like proteins are present in many Eubacteria, Cyanobacteria, and Archaebacteria. These proteins participate in all DNA-dependent functions; in these processes, bacterial DNA binding proteins have an architectural role, maintaining structural integrity as transcription, recombination, replication, or any other DNA-dependent process proceeds. Eukaryotic histones were first discovered through experiments in 0.4M NaCl. In these high salt concentrations, the eukaryotic histone protein is eluted from a DNA solution in which single stranded DNA is bound covalently to cellulose. Following elution, the protein readily binds DNA, indicating the protein's high affinity for DNA. Histone-like proteins were unknown to be present in bacteria until similarities between eukaryotic histones and the HU-protein were noted, particularly because of the abundancy, basicity, and small size of both of the proteins. Upon further investigation, it was discovered that the amino acid composition of HU resembles that of eukaryotic histones, thus prompting further research into the exact function of bacterial DNA binding proteins and discoveries of other related proteins in bacteria.",
+            "score": 228.3769155740738
+        },
+        {
+            "docid": "21496_15",
+            "document": "Nucleic acid . Deoxyribonucleic acid (DNA) is a nucleic acid containing the genetic instructions used in the development and functioning of all known living organisms. The DNA segments carrying this genetic information are called genes. Likewise, other DNA sequences have structural purposes, or are involved in regulating the use of this genetic information. Along with RNA and proteins, DNA is one of the three major macromolecules that are essential for all known forms of life. DNA consists of two long polymers of simple units called nucleotides, with backbones made of sugars and phosphate groups joined by ester bonds. These two strands run in opposite directions to each other and are, therefore, anti-parallel. Attached to each sugar is one of four types of molecules called nucleobases (informally, bases). It is the sequence of these four nucleobases along the backbone that encodes information. This information is read using the genetic code, which specifies the sequence of the amino acids within proteins. The code is read by copying stretches of DNA into the related nucleic acid RNA in a process called transcription. Within cells DNA is organized into long structures called chromosomes. During cell division these chromosomes are duplicated in the process of DNA replication, providing each cell its own complete set of chromosomes. Eukaryotic organisms (animals, plants, fungi, and protists) store most of their DNA inside the cell nucleus and some of their DNA in organelles, such as mitochondria or chloroplasts. In contrast, prokaryotes (bacteria and archaea) store their DNA only in the cytoplasm. Within the chromosomes, chromatin proteins such as histones compact and organize DNA. These compact structures guide the interactions between DNA and other proteins, helping control which parts of the DNA are transcribed.",
+            "score": 194.60383212566376
+        },
+        {
+            "docid": "48827290_2",
+            "document": "CAF-1 . CAF-1 (chromatin assembly factor-1) is a complex, including Chaf1a (p150), Chaf1b (p60) and p50 subunits that assembles histone tetramers onto replicating DNA \"in vitro\" This complex is histone chaperone involved in creating cellular memory of somatic cell identity \u2013 cellular differentiation. CAF-1 mediates the first step in nucleosome formation by tetramerization and depositing newly synthesized histone H3/H4 onto DNA rapidly behind replication forks. Several studies have shown that the interaction between CAF-1 and PCNA, which stabilizes CAF-1 at replication forks, is important for CAF-1's role in nucleosome assembly",
+            "score": 391.5200164318085
+        },
+        {
+            "docid": "14774943_3",
+            "document": "CHAF1B . Chromatin assembly factor I (CAF-1) is required for the assembly of histone octamers onto newly-replicated DNA. CAF-I is composed of three protein subunits, p50, p60, and p150. The protein encoded by this gene corresponds to the p60 subunit and is required for chromatin assembly after replication. The encoded protein is differentially phosphorylated in a cell cycle-dependent manner. In addition, it is normally found in the nucleus except during mitosis, when it is released into the cytoplasm. This protein is a member of the WD-repeat HIR1 family and may also be involved in DNA repair.",
+            "score": 279.6619772911072
+        },
+        {
+            "docid": "58894_23",
+            "document": "Phosphorylation . Eukaryotic DNA is organized with histone proteins in specific complexes called chromatin. The chromatin structure functions and facilitates the packaging, organization and distribution of eukaryotic DNA. However, it has a negative impact on several fundamental biological processes such as transcription, replication and DNA repair by restricting the accessibility of certain enzymes and proteins. Post-translational modification of histones such as histone phosphorylation has been shown to modify the chromatin structure by changing protein:DNA or protein:protein interactions. Histone post-translational modifications modify the chromatin structure. The most commonly associated histone phosphorylation occurs during cellular responses to DNA damage, when phosphorylated histone H2A separates large chromatin domains around the site of DNA breakage. Researchers investigated whether modifications of histones directly impact RNA polymerase II directed transcription. Researchers choose proteins that are known to modify histones to test their effects on transcription, and found that the stress-induced kinase, MSK1, inhibits RNA synthesis. Inhibition of transcription by MSK1 was most sensitive when the template was in chromatin, since DNA templates not in chromatin were resistant to the effects of MSK1. It was shown that MSK1 phosphorylated histone H2A on serine 1, and mutation of serine 1 to alanine blocked the inhibition of transcription by MSK1. Thus results suggested that the acetylation of histones can stimulate transcription by suppressing an inhibitory phosphorylation by a kinase as MSK1.",
+            "score": 228.99420166015625
+        },
+        {
+            "docid": "14761030_3",
+            "document": "HMGB2 . This gene encodes a member of the non-histone chromosomal high-mobility group protein family. The proteins of this family are chromatin-associated and ubiquitously distributed in the nucleus of higher eukaryotic cells. In vitro studies have demonstrated that this protein is able to efficiently bend DNA and form DNA circles. These studies suggest a role in facilitating cooperative interactions between cis-acting proteins by promoting DNA flexibility. This protein was also reported to be involved in the final ligation step in DNA end-joining processes of DNA double-strand breaks repair and V(D)J recombination.",
+            "score": 184.7520477771759
+        },
+        {
+            "docid": "14760114_3",
+            "document": "ORC2 . The origin recognition complex (ORC) is a highly conserved six subunits protein complex essential for the initiation of the DNA replication in eukaryotic cells. Studies in yeast demonstrated that ORC binds specifically to origins of replication and serves as a platform for the assembly of additional initiation factors such as Cdc6 and Mcm proteins. The protein encoded by this gene is a subunit of the ORC complex. This protein forms a core complex with ORC3, ORC4, and ORC5. It also interacts with CDC45L and MCM10, which are proteins known to be important for the initiation of DNA replication. This protein has been demonstrated to specifically associate with the origin of replication of Epstein-Barr virus in human cells, and is thought to be required for DNA replication from viral origin of replication.",
+            "score": 169.05709755420685
+        },
+        {
+            "docid": "553745_4",
+            "document": "Histone fold . The histone fold\u2019s evolution can be found by different combinations of ancestral sets of peptides that make up helix-strand-helix motif that come from the three folds from the ancestral fragments. These peptide chains can be found in the archaeal histones, which could have come from eukaryotic H3-H4 tetramer. The eukaryotic histone-like domain of the son of seven less protein. The archaeal single-chain histones are also found in the bacterium Aquifex aeolicus. Which helps the diverse bacteria phylogeny coming from the ancestry of eukaryotes and archaea with lateral gene transfers to get to the bacteria. These lead into the octamer articulated protein endoskeleton for DNA compaction. From this endoskeleton it has a central segment that folds for the histone dimerization. This then leads into the end segments of the fold to make properties of dimer-dimer contacts that also cap the protein super helix at the octamer. One species that looked at is Drosophila, and in the subunits of the Drosophila transcription initiation factor has specific amino acid sequences that have different characteristics of the histone folds that make up the two proteins make up the subunits. When just looking at the histone fold motif in the Drosophila the protein-protein and the protein DNA interaction of the core histone proteins can be found by looking at the non-histone proteins. This can then be used in \u201cStructural studies on the TAFII42/TAFII62 complex from Drosophila and HMfB from Methanococcus fervidus, proteins identified as containing the histone fold in the aforementioned searches, confirmed that a histone-like substructure exists in these proteins, with the individual proteins folding into the canonical histone fold motif\u201d. The evolutionary structure and range of the histone protein-protein and DNA-protein interactions of the histone fold proteins has a very wide range of evolutionary traits that form the structures and other proteins.",
+            "score": 251.56919765472412
+        },
+        {
+            "docid": "31474_21",
+            "document": "Transcription factor . In eukaryotes, DNA is organized with the help of histones into compact particles called nucleosomes, where sequences of about 147 DNA base pairs make ~1.65 turns around histone protein octamers. DNA within nucleosomes is inaccessible to many transcription factors. Some transcription factors, so-called pioneering factors are still able to bind their DNA binding sites on the nucleosomal DNA. For most other transcription factors, the nucleosome should be actively unwound by molecular motors such as chromatin remodelers. Alternatively, the nucleosome can be partially unwrapped by thermal fluctuations, allowing temporary access to the transcription factor binding site. In many cases, a transcription factor needs to compete for binding to its DNA binding site with other transcription factors and histones or non-histone chromatin proteins. Pairs of transcription factors and other proteins can play antagonistic roles (activator versus repressor) in the regulation of the same gene.",
+            "score": 263.2658576965332
+        },
+        {
+            "docid": "15094590_4",
+            "document": "FACT (biology) . Co-immunoprecipitation assays with tagged recombinant proteins showed that the Spt16 subunit interacts with H2A/H2B dimers and mononucleosomes, but not H3/H4 tetramers, whereas the SSRP1 subunit interacts only with H3/H4 tetramers and not mononucleosomes. Deletion of the highly acidic carboxy-terminus of Spt16 (a common feature of known histone chaperones) does not prevent Spt16 from forming a stable complex with SSRP1, but it does eliminate interaction with mononucleosomes and ability to stimulate in vitro transcription on chromatinized templates. The two subunits together, but neither alone, can stimulate formation of nucleosomes from free histones and DNA (histone chaperone activity). These two subunits are highly conserved across all eukaryotes, and in addition to transcription, have been shown to affect DNA repair and replication as well.",
+            "score": 237.37800121307373
+        },
+        {
+            "docid": "30115036_3",
+            "document": "ORC1 . The origin recognition complex (ORC) is a highly conserved six subunits protein complex essential for the initiation of the DNA replication in eukaryotic cells. Studies in yeast demonstrated that ORC binds specifically to origins of replication and serves as a platform for the assembly of the pre-replication complex, which includes additional initiation factors such as Cdc6 and Mcm proteins. The protein encoded by this gene is the largest subunit of the origin recognition complex. While other ORC subunits are stable throughout the cell cycle, the levels of this protein vary during the cell cycle, which has been shown to be controlled by ubiquitin-mediated proteolysis after initiation of DNA replication. This protein is found to be selectively phosphorylated during mitosis. It is also reported to interact with MYST histone acetyltransferase 2 (MYST2/HBO1), a protein involved in control of transcription silencing.",
+            "score": 203.35178744792938
+        },
+        {
+            "docid": "7805539_4",
+            "document": "Ty5 retrotransposon . Heterochromatin in \"S. cerevisiae\" is composed of a wide array of proteins and plays several roles. The first stage of heterochromatin formation requires DNA binding proteins, which interact with specific cis DNA sequences at the telomeres, rDNA and HM loci. These proteins, including Rap1p and the origin recognition complex (ORC), serve as a platform for other proteins to bind, condense the DNA, and modify neighboring histones. Some of these proteins, notably Rap1p, also play other roles, including initiation of transcription. The first known step in the formation of dedicated heterochromatin is the binding of Sir4p to Rap1p (Luo, Vega-Palas et al. 2002). Sir4p is one of four \u2018Silent Information Regulator\u2019 proteins that also include Sir1p, Sir2p and Sir3p. Of these, Sir2p, Sir3p and Sir4p form the core of heterochromatin. Sir4p serves as a binding site for Sir2p, which is the next to bind. Sir2p deacetylates adjacent histones, which is thought to further condense the chromatin and prevent the binding of other transcription promoting histone modification enzymes. Sir3p binding follows, further condensing the heterochromatin. Sir1p plays a role in the initiation of silencing at the HM loci. A large number of other proteins act in both a synergistic and antagonistic manner.",
+            "score": 201.6260461807251
+        },
+        {
+            "docid": "7955_7",
+            "document": "DNA . Within eukaryotic cells, DNA is organized into long structures called chromosomes. During cell division these chromosomes are duplicated in the process of DNA replication, providing each cell its own complete set of chromosomes. Eukaryotic organisms (animals, plants, fungi and protists) store most of their DNA inside the cell nucleus and some of their DNA in organelles, such as mitochondria or chloroplasts. In contrast prokaryotes (bacteria and archaea) store their DNA only in the cytoplasm. Within the eukaryotic chromosomes, chromatin proteins such as histones compact and organize DNA. These compact structures guide the interactions between DNA and other proteins, helping control which parts of the DNA are transcribed.",
+            "score": 205.104638338089
+        },
+        {
+            "docid": "12197312_3",
+            "document": "Chromatin remodeling . The transcriptional regulation of the genome is controlled primarily at the preinitiation stage by binding of the core transcriptional machinery proteins (namely, RNA polymerase, transcription factors, and activators and repressors) to the core promoter sequence on the coding region of the DNA. However, DNA is tightly packaged in the nucleus with the help of packaging proteins, chiefly histone proteins to form repeating units of nucleosomes which further bundle together to form condensed chromatin structure. Such condensed structure occludes many DNA regulatory regions, not allowing them to interact with transcriptional machinery proteins and regulate gene expression. To overcome this issue and allow dynamic access to condensed DNA, a process known as chromatin remodeling alters nucleosome architecture to expose or hide regions of DNA for transcriptional regulation.",
+            "score": 209.79041576385498
+        },
+        {
+            "docid": "6933_2",
+            "document": "Chromatin . Chromatin is a complex of macromolecules found in cells, consisting of DNA, protein, and RNA. The primary functions of chromatin are 1) to package DNA into a more compact, denser shape, 2) to reinforce the DNA macromolecule to allow mitosis, 3) to prevent DNA damage, and 4) to control gene expression and DNA replication. The primary protein components of chromatin are histones that compact the DNA. Chromatin is only found in eukaryotic cells (cells with defined nuclei). Prokaryotic cells have a different organization of their DNA (the prokaryotic chromosome equivalent is called genophore and is localized within the nucleoid region).",
+            "score": 187.60851740837097
+        },
+        {
+            "docid": "14062118_4",
+            "document": "HMGB1 . Like the histones, HMGB1 is among the most important chromatin proteins. In the nucleus HMGB1 interacts with nucleosomes, transcription factors, and histones. This nuclear protein organizes the DNA and regulates transcription. After binding, HMGB1 bends DNA, which facilitates the binding of other proteins. HMGB1 supports transcription of many genes in interactions with many transcription factors. It also interacts with nucleosomes to loosen packed DNA and remodel the chromatin. Contact with core histones changes the structure of nucleosomes.",
+            "score": 251.40361714363098
+        },
+        {
+            "docid": "32150862_4",
+            "document": "Bacterial DNA binding protein . Research suggests that bacterial DNA binding protein has an important role during DNA replication; the protein is involved in stabilizing the lagging strand as well as interacting with DNA polymerase III. The role of single-stranded DNA binding (SSB) protein during DNA replication in \"Escherichia coli\" cells has been studied, specifically the interactions between SSB and the \u03c7 subunit of DNA polymerase III in environments of varying salt concentrations.",
+            "score": 119.16120767593384
+        },
+        {
+            "docid": "18393_58",
+            "document": "Life . Within cells, DNA is organized into long structures called chromosomes. During cell division these chromosomes are duplicated in the process of DNA replication, providing each cell its own complete set of chromosomes. Eukaryotic organisms (animals, plants, fungi, and protists) store most of their DNA inside the cell nucleus and some of their DNA in organelles, such as mitochondria or chloroplasts. In contrast, prokaryotes (bacteria and archaea) store their DNA only in the cytoplasm. Within the chromosomes, chromatin proteins such as histones compact and organize DNA. These compact structures guide the interactions between DNA and other proteins, helping control which parts of the DNA are transcribed.",
+            "score": 199.9556314945221
+        },
+        {
+            "docid": "14029_2",
+            "document": "Histone . In biology, histones are highly alkaline proteins found in eukaryotic cell nuclei that package and order the DNA into structural units called nucleosomes. They are the chief protein components of chromatin, acting as spools around which DNA winds, and playing a role in gene regulation. Without histones, the unwound DNA in chromosomes would be very long (a length to width ratio of more than 10 million to 1 in human DNA). For example, each human diploid cell (containing 23 pairs of chromosomes) has about 1.8 meters of DNA; wound on the histones, the diploid cell has about 90 micrometers (0.09\u00a0mm) of chromatin. When the diploid cells are duplicated and condensed during mitosis, the result is about 120 micrometers of chromosomes.",
+            "score": 262.224835395813
+        },
+        {
+            "docid": "17704946_11",
+            "document": "Epigenomics . In eukaryotes, genomic DNA is coiled into protein-DNA complexes called chromatin. Histones, which are the most prevalent type of protein found in chromatin, function to condense the DNA; the net positive charge on histones facilitates their bonding with DNA, which is negatively charged. The basic and repeating units of chromatin, nucleosomes, consist of an octamer of histone proteins (H2A, H2B, H3 and H4) and a 146 bp length of DNA wrapped around it. Nucleosomes and the DNA connecting form a 10\u00a0nm diameter chromatin fiber, which can be further condensed.",
+            "score": 268.38479018211365
+        },
+        {
+            "docid": "9957063_4",
+            "document": "Histone acetylation and deacetylation . Nucleosomes are portions of double-stranded DNA (dsDNA) that are wrapped around protein complexes called histone cores. These histone cores are composed of 8 subunits, two each of H2A, H2B, H3 and H4 histones. This protein complex forms a cylindrical shape that dsDNA wraps around with approximately 147 base pairs. Nucleosomes are formed as a beginning step for DNA compaction that also contributes to structural support as well as serves functional roles. These functional roles are contributed by the tails of the histone subunits. The histone tails insert themselves in the minor grooves of the DNA and extend through the double helix, which leaves them open for modifications involved in transcriptional activation. Acetylation has been closely associated with increases in transcriptional activation while deacetylation has been linked with transcriptional deactivation. These reactions occur post-translation and are reversible.",
+            "score": 248.33544921875
+        },
+        {
+            "docid": "412097_4",
+            "document": "BRCA1 . BRCA1 combines with other tumor suppressors, DNA damage sensors and signal transducers to form a large multi-subunit protein complex known as the BRCA1-associated genome surveillance complex (BASC). The BRCA1 protein associates with RNA polymerase II, and through the C-terminal domain, also interacts with histone deacetylase complexes. Thus, this protein plays a role in transcription, DNA repair of double-strand breaks ubiquitination, transcriptional regulation as well as other functions.",
+            "score": 149.92108249664307
+        }
+    ],
+    "r": [
+        {
+            "docid": "48827290_2",
+            "document": "CAF-1 . CAF-1 (chromatin assembly factor-1) is a complex, including Chaf1a (p150), Chaf1b (p60) and p50 subunits that assembles histone tetramers onto replicating DNA \"in vitro\" This complex is histone chaperone involved in creating cellular memory of somatic cell identity \u2013 cellular differentiation. CAF-1 mediates the first step in nucleosome formation by tetramerization and depositing newly synthesized histone H3/H4 onto DNA rapidly behind replication forks. Several studies have shown that the interaction between CAF-1 and PCNA, which stabilizes CAF-1 at replication forks, is important for CAF-1's role in nucleosome assembly",
+            "score": 391.52001953125
+        },
+        {
+            "docid": "9896453_77",
+            "document": "Eukaryotic DNA replication . The heterotrimeric chaperone chromatin assembly factor 1 (CAF-1) is a chromatin formation protein that is involved in depositing histones onto both newly replicated DNA strands to form chromatin. CAF-1 contains a PCNA-binding motif, called a PIP-box, that allows CAF-1 to associate with the replisome through PCNA and is able to deposit histone H3-H4 dimers onto newly synthesized DNA. The Rtt106 chaperone is also involved in this process, and associated with CAF-1 and H3-H4 dimers during chromatin formation. These processes load newly synthesized histones onto DNA.",
+            "score": 390.88983154296875
+        },
+        {
+            "docid": "41118075_9",
+            "document": "Deficiency of RbAp48 protein and memory loss . Proteins RbAp48 is a key player in the assembly of nucleosomes. RbAp48 protein is a subunit of the chromatin-assembly factor-1 (CAF-1) complex, which assembles histones H3 and H4 onto newly replicated DNA to initiate nucleosomes assembly. RbAp48 protein is also found in numerous other protein complexes for regulation of chromatin structure. Studies show that RbAp48 interacts with H3-H4 dimers and imply that the function of RbAp48 is involved in numerous process such as chromatin assembly, remodeling and modifications; therefore, in many other chromatin-related processes, histones H3-H4 might be handled as a dimer. More generally, it seems plausible that the presence of RbAp48 may reflex the post-translational modifications of the nucleosome. As a result, this can affect the activities of neurons and ultimately impact the memory encoding ability",
+            "score": 378.7222595214844
+        },
+        {
+            "docid": "21843_28",
+            "document": "Nucleosome . Histones H3 and H4 from dissembled old nucleosomes are kept in the vicinity and randomly distributed on the newly synthesized DNA. They are assembled by the chromatin assembly factor-1 (CAF-1) complex, which consists of three subunits (p150, p60, and p48). Newly synthesized H3 and H4 are assembled by the replication coupling assembly factor (RCAF). RCAF contains the subunit Asf1, which binds to newly synthesized H3 and H4 proteins. The old H3 and H4 proteins retain their chemical modifications which contributes to the passing down of the epigenetic signature. The newly synthesized H3 and H4 proteins are gradually acetylated at different lysine residues as part of the chromatin maturation process. It is also thought that the old H3 and H4 proteins in the new nucleosomes recruit histone modifying enzymes that mark the new histones, contributing to epigenetic memory.",
+            "score": 374.0722961425781
+        },
+        {
+            "docid": "41118075_8",
+            "document": "Deficiency of RbAp48 protein and memory loss . In eukaryotic cells, DNA is wrapped around an octamer of histone proteins to form nucleosomes, which fold into higher-order chromatin structures. The nucleosome comprises two copies of histone H3 and histone H4. These nucleosomes form a heterotetramer and bind to DNA in the first step of nucleosome assembly. When DNA is replicated, nucleosomes need to be disassembled in front of the fork and the histones must then be transferred to the newly duplicated strands for reassembly. Studies of the in- vivo composition of histone H3 complexes, as well as the structural of the ASF1-H3-H4 complex, have shown that histone H3-H4 complexes are handled as a protein dimer.",
+            "score": 356.82366943359375
+        },
+        {
+            "docid": "33560980_7",
+            "document": "Bruce William Stillman . Stillman has also studied how the proteins associated with the cellular DNA are inherited as cells divide. The proteins that combine with DNA to organize the genome into a chromatin structure include histones. He developed a biochemical system to study DNA replication-coupled chromatin assembly in a test tube and discovered proteins such as Chromatin Assembly Factor-1 (CAF-1) that cooperate with the DNA replication machinery to assemble new histones onto the DNA. These studies resulted in understanding how chromatin is inherited.",
+            "score": 337.60931396484375
+        },
+        {
+            "docid": "14776716_3",
+            "document": "ASF1A . This gene encodes a member of the H3/H4 family of histone chaperone proteins and is similar to the anti-silencing function-1 gene in yeast. The protein is a key component of a histone donor complex that functions in nucleosome assembly. It interacts with histones H3 and H4, and functions together with a chromatin assembly factor during DNA replication and repair.",
+            "score": 334.5209655761719
+        },
+        {
+            "docid": "14754990_3",
+            "document": "HIST2H3C . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. This structure consists of approximately 146 bp of DNA wrapped around a nucleosome, an octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. This gene is intronless and encodes a member of the histone H3 family. Transcripts from this gene lack polyA tails; instead, they contain a palindromic termination element. This gene is found in a histone cluster on chromosome 1. This gene is one of four histone genes in the cluster that are duplicated; this record represents the telomeric copy.",
+            "score": 307.91015625
+        },
+        {
+            "docid": "14761587_3",
+            "document": "HIST2H2AA3 . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a member of the histone H2A family. Transcripts from this gene lack polyA tails but instead contain a palindromic termination element. This gene is found in a histone cluster on chromosome 1. This gene is one of four histone genes in the cluster that are duplicated; this record represents the centromeric copy.",
+            "score": 306.25604248046875
+        },
+        {
+            "docid": "57438369_3",
+            "document": "Histone cluster 2 h3 family member d . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a replication-dependent histone that is a member of the histone H3 family. [provided by RefSeq, Aug 2015].",
+            "score": 289.4994201660156
+        },
+        {
+            "docid": "15063795_3",
+            "document": "ASF1B . This gene encodes a member of the H3/H4 family of histone chaperone proteins and is similar to the anti-silencing function-1 gene in yeast. The encoded protein is the substrate of the tousled-like kinase family of cell cycle-regulated kinases, and may play a key role in modulating the nucleosome structure of chromatin by ensuring a constant supply of histones at sites of nucleosome assembly.",
+            "score": 286.5453186035156
+        },
+        {
+            "docid": "9896453_74",
+            "document": "Eukaryotic DNA replication . Eukaryotic DNA must be tightly compacted in order to fit within the confined space of the nucleus. Chromosomes are packaged by wrapping 147 nucleotides around an octamer of histone proteins, forming a nucleosome. The nucleosome octamer includes two copies of each histone H2A, H2B, H3, and H4. Due to the tight association of histone proteins to DNA, eukaryotic cells have proteins that are designed to remodel histones ahead of the replication fork, in order to allow smooth progression of the replisome. There are also proteins involved in reassembling histones behind the replication fork to reestablish the nucleosome conformation.",
+            "score": 284.0666809082031
+        },
+        {
+            "docid": "4421042_3",
+            "document": "Histone H2A . Histones are proteins that package DNA into nucleosomes. Histones are responsible for maintaining the shape and structure of a nucleosome. One chromatin molecule is composed of at least one of each core histones per 100 base pairs of DNA. There are five families of histones known to date; these histones are termed H1/H5, H2A, H2B, H3, and H4. H2A is considered a core histone, along with H2B, H3 and H4. Core formation first occurs through the interaction of two H2A molecules. Then, H2A forms a dimer with H2B; the core molecule is complete when H3-H4 also attaches to form a tetramer.",
+            "score": 283.63018798828125
+        },
+        {
+            "docid": "24764496_3",
+            "document": "H1FOO . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Nucleosomes consist of approximately 146 bp of DNA wrapped around a histone octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. The protein encoded is a member of the histone H1 family. This gene contains introns, unlike most histone genes. The protein encoded is a member of the histone H1 family. The related mouse gene is expressed only in oocytes.",
+            "score": 282.4133605957031
+        },
+        {
+            "docid": "39533297_3",
+            "document": "H3F3B (gene) . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures.",
+            "score": 281.32513427734375
+        },
+        {
+            "docid": "553741_2",
+            "document": "Histone octamer . A histone octamer is the eight protein complex found at the center of a nucleosome core particle. It consists of two copies of each of the four core histone proteins (H2A, H2B, H3 and H4). The octamer assembles when a tetramer, containing two copies of both H3 and H4, complexes with two H2A/H2B dimers. Each histone has both an N-terminal tail and a C-terminal histone-fold. Both of these key components interact with DNA in their own way through a series of weak interactions, including hydrogen bonds and salt bridges. These interactions keep the DNA and histone octamer loosely associated and ultimately allow the two to re-position or separate entirely.",
+            "score": 281.2322082519531
+        },
+        {
+            "docid": "15226281_3",
+            "document": "HIST1H4C . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a member of the histone H4 family. Transcripts from this gene lack polyA tails but instead contain a palindromic termination element. This gene is found in the large histone gene cluster on chromosome 6.",
+            "score": 280.1671142578125
+        },
+        {
+            "docid": "16858573_3",
+            "document": "HIST1H4L . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a member of the histone H4 family. Transcripts from this gene lack polyA tails but instead contain a palindromic termination element. This gene is found in the small histone gene cluster on chromosome 6p22-p21.3.",
+            "score": 280.1671142578125
+        },
+        {
+            "docid": "14774943_3",
+            "document": "CHAF1B . Chromatin assembly factor I (CAF-1) is required for the assembly of histone octamers onto newly-replicated DNA. CAF-I is composed of three protein subunits, p50, p60, and p150. The protein encoded by this gene corresponds to the p60 subunit and is required for chromatin assembly after replication. The encoded protein is differentially phosphorylated in a cell cycle-dependent manner. In addition, it is normally found in the nucleus except during mitosis, when it is released into the cytoplasm. This protein is a member of the WD-repeat HIR1 family and may also be involved in DNA repair.",
+            "score": 279.6619873046875
+        },
+        {
+            "docid": "553612_34",
+            "document": "Histone acetyltransferase . Histone acetyltransferases serve many biological roles inside the cell. Chromatin is a combination of proteins and DNA found in the nucleus, and it undergoes many structural changes as different cellular events such as DNA replication, DNA repair, and transcription occur. Chromatin in the cell can be found in two states: condensed and uncondensed. The latter, known as euchromatin, is transcriptionally active, whereas the former, known as heterochromatin, is transcriptionally inactive. Histones comprise the protein portion of chromatin. There are five different histone proteins: H1, H2A, H2B, H3, and H4. A core histone is formed when two of each histone subtype, excluding H1, form a quaternary complex. This octameric complex, in association with the 147 base pairs of DNA coiled around it, forms the nucleosome. Histone H1 locks the nucleosome complex together, and it is the last protein to bind in the complex.",
+            "score": 279.64031982421875
+        },
+        {
+            "docid": "35049694_3",
+            "document": "HIST1H4J . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene is intronless and encodes a member of the histone H4 family. Transcripts from this gene lack polyA tails but instead contain a palindromic termination element. This gene is found in the small histone gene cluster on chromosome 6p22-p21.3. [provided by RefSeq, Jul 2008].",
+            "score": 278.7269592285156
+        },
+        {
+            "docid": "27069285_3",
+            "document": "H2AFB2 . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Nucleosomes consist of approximately 146 bp of DNA wrapped around a histone octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. This gene encodes a member of the histone H2A family. This gene is part of a region that is repeated three times on chromosome X, once in intron 22 of the F8 gene and twice closer to the Xq telomere. This record represents the middle copy.",
+            "score": 278.4506530761719
+        },
+        {
+            "docid": "35049648_3",
+            "document": "H2BFWT . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Two molecules of each of the four core histones (H2A, H2B, H3, and H4) form an octamer, around which approximately 146 bp of DNA is wrapped in repeating units, called nucleosomes. The linker histone, H1, interacts with linker DNA between nucleosomes and functions in the compaction of chromatin into higher order structures. This gene encodes a member of the H2B histone family that is specifically expressed in sperm nuclei. A polymorphism in the 5' UTR of this gene is associated with male infertility.[provided by RefSeq, Jan 2010].",
+            "score": 275.5537109375
+        },
+        {
+            "docid": "35746225_8",
+            "document": "Cancer epigenetics . Eukaryotic DNA has a complex structure. It is generally wrapped around special proteins called histones to form a structure called a nucleosome. A nucleosome consists of 2 sets of 4 histones: H2A, H2B, H3, and H4. Additionally, histone H1 contributes to DNA packaging outside of the nucleosome. Certain histone modifying enzymes can add or remove functional groups to the histones, and these modifications influence the level of transcription of the genes wrapped around those histones and the level of DNA replication. Histone modification profiles of healthy and cancerous cells tend to differ.",
+            "score": 274.70404052734375
+        },
+        {
+            "docid": "4421044_4",
+            "document": "Histone H2B . Two copies of histone H2B come together with two copies each of histone H2A, histone H3, and histone H4 to form the octamer core of the nucleosome to give structure to DNA. To facilitate this formation, histone H2B first binds to histone H2A to form a heterodimer. Two of these heterodimers then bind together with a heterotetramer made of histone H3 and histone H4, giving the nucleosome its characteristic disk shape. DNA is then wrapped around the entire nucleosome in groups of approximately 160 base pairs of DNA. The wrapping continues until all chromatin has been packaged with the nucleosomes.",
+            "score": 274.494873046875
+        },
+        {
+            "docid": "35049590_3",
+            "document": "H2AFB3 . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Nucleosomes consist of approximately 146 bp of DNA wrapped around a histone octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. This gene encodes a member of the histone H2A family. This gene is part of a region that is repeated three times on chromosome X, once in intron 22 of the F8 gene and twice closer to the Xq telomere. This record represents the most telomeric copy. [provided by RefSeq, Jul 2008].",
+            "score": 273.80755615234375
+        },
+        {
+            "docid": "27069034_3",
+            "document": "H2AFB1 . Histones are basic nuclear proteins that are responsible for the nucleosome structure of the chromosomal fiber in eukaryotes. Nucleosomes consist of approximately 146 bp of DNA wrapped around a histone octamer composed of pairs of each of the four core histones (H2A, H2B, H3, and H4). The chromatin fiber is further compacted through the interaction of a linker histone, H1, with the DNA between the nucleosomes to form higher order chromatin structures. This gene encodes a member of the histone H2A family. This gene is part of a region that is repeated three times on chromosome X, once in intron 22 of the F8 gene and twice closer to the Xq telomere. This record represents the most centromeric copy which is in intron 22 of the F8 gene.",
+            "score": 272.169921875
+        },
+        {
+            "docid": "4440593_4",
+            "document": "Histone methylation . The fundamental unit of chromatin, called a nucleosome, contains DNA wound around a protein octamer. This octamer consists of two copies each of four histone proteins: H2A, H2B, H3, and H4. Each one of these proteins has a tail extension, and these tails are the targets of nucleosome modification by methylation. DNA activation or inactivation is largely dependent on the specific tail residue methylated and its degree of methylation. Histones can be methylated on lysine (K) and arginine (R) residues only, but methylation is most commonly observed on lysine residues of histone tails H3 and H4. The tail end furthest from the nucleosome core is the N-terminal (residues are numbered starting at this end). Common sites of methylation associated with gene activation include H3K4, H3K48, and H3K79. Common sites for gene inactivation include H3K9 and H3K27. Studies of these sites have found that methylation of histone tails at different residues serve as markers for the recruitment of various proteins or protein complexes that serve to regulate chromatin activation or inactivation.",
+            "score": 271.74395751953125
+        },
+        {
+            "docid": "14170524_6",
+            "document": "CUL4A . CUL4A's role in modifying chromatin is largely related to DNA repair activities and occurs after DNA damage induction. Both CUL4A and its closely related homolog CUL4B may ubiquitinate histones H2A, H3 and H4. The yeast homolog of CUL4A, Rtt101, ubiquitinates histone H3 and promotes nucleosome assembly and CRL4A complexes perform similar functions in human cells. CRL4 complexes also affect histone methylation events and chromatin structure through regulation of histone methyltransferases. The histone H4 monomethylase PR-Set7/SET8 is ubiquitinated on chromatin by CRL4(Cdt2) complexes during S phase and following DNA damage in a PCNA-dependent manner.",
+            "score": 270.0987548828125
+        },
+        {
+            "docid": "28268694_7",
+            "document": "DNA condensation . Eukaryotic DNA with a typical length of dozens of centimeters should be orderly packed to be readily accessible inside the micrometer-size nucleus. In unicellular eukaryotes known as dinoflagellates, it is possible to distinguish liquid-crystalline chromosomal ordering, that they do not contain easily detectable histones, until recently it was thought that they were completely absent and that dinoflagellates were mesokaryotic though this is no longer the case and they are now classified as alveolates. In other eukaryotes, DNA is arranged in the cell nucleus with the help of histones. In this case, the basic level of DNA compaction is the nucleosome, where the double helix is wrapped around the histone octamer containing two copies of each histone H2A, H2B, H3 and H4. Linker histone H1 binds the DNA between nucleosomes and facilitates packaging of the 10\u00a0nm \"beads on the string\" nucleosomal chain into a more condensed 30\u00a0nm fiber. Most of the time, between cell divisions, chromatin is optimized to allow easy access of transcription factors to active genes, which are characterized by a less compact structure called euchromatin, and to alleviate protein access in more tightly packed regions called heterochromatin. During the cell division, chromatin compaction increases even more to form chromosomes, which can cope with large mechanical forces dragging them into each of the two daughter cells.",
+            "score": 269.71246337890625
+        },
+        {
+            "docid": "52156116_5",
+            "document": "H3K27me3 . The genomic DNA of eukaryotic cells is wrapped around special protein molecules known as Histones. The complexes formed by the looping of the DNA are known as Chromatin. The basic structural unit of chromatin is the Nucleosome: this consists of the core octamer of histones (H2A, H2B, H3 and H4) as well as a linker histone and about 180 base pairs of DNA. These core histones are rich in lysine and arginine residues. The carboxyl (C) terminal end of these histones contribute to histone-histone interactions, as well as histone-DNA interactions. The amino (N) terminal charged tails are the site of the post-translational modifications, such as the one seen in H3K27me3.",
+            "score": 268.70513916015625
+        },
+        {
+            "docid": "17704946_11",
+            "document": "Epigenomics . In eukaryotes, genomic DNA is coiled into protein-DNA complexes called chromatin. Histones, which are the most prevalent type of protein found in chromatin, function to condense the DNA; the net positive charge on histones facilitates their bonding with DNA, which is negatively charged. The basic and repeating units of chromatin, nucleosomes, consist of an octamer of histone proteins (H2A, H2B, H3 and H4) and a 146 bp length of DNA wrapped around it. Nucleosomes and the DNA connecting form a 10\u00a0nm diameter chromatin fiber, which can be further condensed.",
+            "score": 268.3847961425781
+        }
+    ]
+}

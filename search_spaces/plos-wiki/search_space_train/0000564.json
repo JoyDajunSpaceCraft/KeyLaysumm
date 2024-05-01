@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "425158_22",
+            "document": "Microbicides for sexually transmitted diseases . Efforts are underway to develop safe and effective topical microbicides. Several different gel formulations are currently undergoing testing in phase III clinical efficacy trials, and about two dozen other products are in various phases of development. Results from CAPRISA 004, while promising, may need to be confirmed by other clinical trials before the microbicide tenofovir gel is made available to the public. This decision rests with regulators, particularly in South Africa. In 2013, the VOICE study (MTN 003), another large-scale trial, is scheduled to release results. VOICE is evaluating three different strategies to prevent HIV in women: one ARV-based microbicide and two regimens consisting of oral ARVs on a daily basis. The VOICE trial is testing 1% tenofovir vaginal gel in a once-daily formulation. It is not known at this time if VOICE will be considered a confirmatory trial for CAPRISA 004, which used a different dosing strategy. Products known as Pre-Exposure Prophylaxis, or PrEP, are also being tested at various stages of the development process. These products, administered orally or via injection, would contain ARVs to protect HIV-negative people from becoming infected. Individuals would receive ARVs before they were exposed to HIV, with the goal of lowering their risk or preventing infection. One of the potential advantages of PrEP is that an individual could use it autonomously (without the need to negotiate with a partner), and it is not dependent on the time of sex. It is hoped that those unable to negotiate condom use with their sexual partners would be able to reduce their risk of HIV infection with the use of an oral (or injectable) prophylactic drug. Current PrEP candidates in development include tenofovir and Truvada (a combination of two ARV compounds, tenofovir and emtricitabine). One potential risk of the PrEP approach is that drugs present in systemic circulation might, over time, create ARV-resistant HIV strains.",
+            "score": 138.61951220035553
+        },
+        {
+            "docid": "46232572_4",
+            "document": "In silico clinical trials . The traditional model for the development of medical treatments and devices begins with pre-clinical development. In laboratories, test-tube and other \"in vitro\" experiments establish the plausibility for the efficacy of the treatment. Then \"in vivo\" animal models, with different species, provide guidance on the efficacy and safety of the product for humans. With success in both \"in vitro\" and \"in vivo\" studies, scientist can propose that clinical trials test whether the product be made available for humans. Clinical trials are often divided into four phases. Phase 3 involves testing a large number of people. When a medication fails at this stage, the financial losses can be catastrophic. Predicting low-frequency side effects has been difficult, because such side effects need not become apparent until the treatment is adopted by many patients. The appearance of severe side-effects in phase three often causes development to stop, for ethical and economic reasons. Also, in recent years many candidate drugs failed in phase 3 trials because of lack of efficacy rather than for safety reasons. One reason for failure is that traditional trials aim to establish efficacy and safety for most subjects, rather than for individual subjects, and so efficacy is determined by a statistic of central tendency for the trial. Traditional trials do not adapt the treatment to the covariates of subjects:",
+            "score": 74.2783066034317
+        },
+        {
+            "docid": "17455004_3",
+            "document": "Pharmacokinetics simulation . Pharmacokinetics simulation gives an insight to drug efficacy and safety before exposure of individuals to the new drug that might help to improve the design of a clinical trial.  Pharmacokinetics simulations help in addition in therapy planning, to stay within the therapeutic range under various physiological and pathophysiological conditions, e.g., renal insufficiency.",
+            "score": 40.81498622894287
+        },
+        {
+            "docid": "5295343_21",
+            "document": "Pre-exposure prophylaxis . Most PrEP studies utilize the drug tenofovir or a tenofovir/emtricitabine combination (Truvada) that is delivered orally. Initial studies of PrEP strategies in non-human primates showed a reduced risk of infection among animals that receive ARVs prior to exposure to a simian form of HIV. A 2007 study at UT-Southwestern (Dallas) and the University of Minnesota showed PrEP to be effective in \"humanized\" laboratory mice. In 2008, the iPrEx study demonstrated 42% reduction of HIV infection among men who have sex with men, and subsequent analysis of the data has suggested that 99% protection is achievable if the drugs are taken every day. Below is a table summarizing some of the major research studies that demonstrated PrEP with Truvada to be effective across different populations.",
+            "score": 117.6953935623169
+        },
+        {
+            "docid": "30025172_5",
+            "document": "Evandro Chagas Institute . The IEC organized local volunteers to participate in the iPrEx study, which was a clinical trial testing the efficacy of a drug used as a pre-exposure prophylaxis against HIV infection.",
+            "score": 53.574281454086304
+        },
+        {
+            "docid": "30022296_3",
+            "document": "Fundaci\u00f3n Ecuatoriana Equidad . Fundaci\u00f3n Ecuatoriana Equidad organized local volunteers to participate in the iPrEx study, which was a clinical trial testing the efficacy of a drug used as a pre-exposure prophylaxis against HIV infection.",
+            "score": 52.99756360054016
+        },
+        {
+            "docid": "7800672_21",
+            "document": "History of animal testing . The non-human primate models of AIDS, using HIV-2, SHIV, and SIV in macaques, have been used as a complement to ongoing research efforts against the virus. The drug tenofovir has had its efficacy and toxicology evaluated in macaques and found long-term/high-dose treatments had adverse effects not found using short-term/high-dose treatment followed by long-term/low-dose treatment. This finding in macaques was translated into human dosing regimens. Prophylactic treatment with anti-virals has been evaluated in macaques because an introduction of the virus can only be controlled in an animal model. The finding that prophylaxis can be effective at blocking infection has altered the treatment for occupational exposures, such as needle exposures. Such exposures are now followed rapidly with anti-HIV drugs, and this practice has resulted in measurable transient virus infection similar to the NHP model. Similarly, the mother-to-fetus transmission, and its fetal prophylaxis with antivirals such as tenofovir and AZT, has been evaluated in controlled testing in macaques not possible in humans, and this knowledge has guided antiviral treatment in pregnant mothers with HIV. \"The comparison and correlation of results obtained in monkey and human studies are leading to a growing validation and recognition of the relevance of the animal model. Although each animal model has its limitations, carefully designed drug studies in nonhuman primates can continue to advance our scientific knowledge and guide future clinical trials.\"",
+            "score": 84.68878650665283
+        },
+        {
+            "docid": "8010519_40",
+            "document": "Animal testing on non-human primates . The non-human primate models of AIDS, using HIV-2, SHIV, and SIV in macaques, have been used as a complement to ongoing research efforts against the virus. The drug tenofovir has had its efficacy and toxicology evaluated in macaques, and found longterm-highdose treatments had adverse effects not found using short term-high dose treatment followed by long term-low dose treatment. This finding in macaques was translated into human dosing regimens. Prophylactic treatment with anti-virals has been evaluated in macaques, because introduction of the virus can only be controlled in an animal model. The finding that prophylaxis can be effective at blocking infection has altered the treatment for occupational exposures, such as needle exposures. Such exposures are now followed rapidly with anti-HIV drugs, and this practice has resulted in measurable transient virus infection similar to the NHP model. Similarly, the mother-to-fetus transmission, and its fetal prophylaxis with antivirals such as tenofovir and AZT, has been evaluated in controlled testing in macaques not possible in humans, and this knowledge has guided antiviral treatment in pregnant mothers with HIV. \"The comparison and correlation of results obtained in monkey and human studies is leading to a growing validation and recognition of the relevance of the animal model. Although each animal model has its limitations, carefully designed drug studies in nonhuman primates can continue to advance our scientific knowledge and guide future clinical trials.\"",
+            "score": 83.82479310035706
+        },
+        {
+            "docid": "5295343_22",
+            "document": "Pre-exposure prophylaxis . PrEP approaches with agents besides oral Truvada are being investigated. There has been some evidence that other regimens, like ones based on the antiretroviral agent Maraviroc, could potentially prevent HIV infection. Similarly, researchers are investigating whether drugs could be used in ways other than a daily oral pill to prevent HIV, including taking a long-acting PrEP injection, PrEP-releasing implants, or rectally administered PrEP. However, it is important to keep in mind that as of 2017 major public health organizations such as the US Centers for Disease Control and the World Health Organization recommend only daily oral Truvada for use as PrEP.",
+            "score": 128.9601752758026
+        },
+        {
+            "docid": "34382035_4",
+            "document": "Phases of clinical research . Before pharmaceutical companies start clinical trials on a drug, they conduct extensive pre-clinical studies. These involve in vitro (test tube or cell culture) and in vivo (animal) experiments using wide-ranging doses of the study drug to obtain preliminary efficacy, toxicity and pharmacokinetic information. Such tests assist pharmaceutical companies to decide whether a drug candidate has scientific merit for further development as an investigational new drug.",
+            "score": 49.15107035636902
+        },
+        {
+            "docid": "24034899_4",
+            "document": "Biosimulation . Biosimulation is becoming increasingly important for drug development. Since on average only 11% of all drug candidates are approved, it is anticipated that biosimulation may be the tool to predict whether a candidate drug will fail in the development process e.g. in clinical trials due to adverse side effects, bad pharmacokinetics or even toxicity. The early prediction if a drug will fail in animals or humans would be a key to reduce both drug development costs and the amount of required animal experiments and clinical trials. The latter is also in line with the so-called \"3Rs\" which refer to the principle of reduction and replacement of animal experiments as well as to the refinement of the methodology in cases where animal tests are still necessary. In a future scenario, biosimulation would change the way substances are tested, in which in vivo and in vitro tests are substituted by tests in silico.",
+            "score": 72.11314964294434
+        },
+        {
+            "docid": "31328278_9",
+            "document": "CONRAD (organization) . ADHERENCE: Adherence to a study product is essential for the reliable evaluation of its efficacy and safety in a clinical trial. When adherence is poor, a potentially effective drug can be erroneously judged to be ineffective. Pre-exposure prophylaxis (PrEP) trials which tested daily use of an oral antiretroviral in women and several vaginal gel trials for HIV prevention have been challenged by poor adherence. There is a clear need for cost-saving and efficient trial designs to test safety and efficacy. CONRAD, AVAC and the Forum for Collaborative HIV Research joined forces to convene a workshop in June 2014 to explore the potential of alternative trial designs for microbicides that can help address the issue of poor adherence.",
+            "score": 88.82648754119873
+        },
+        {
+            "docid": "5295343_4",
+            "document": "Pre-exposure prophylaxis . Currently, the only drug that any health organization recommends for HIV/AIDS PrEP is Truvada, which is the brand name of the Gilead Sciences drug combination of tenofovir/emtricitabine. Patients on PrEP take Truvada every day and must also agree to see their healthcare provider at least every three months for follow-up testing. When used as directed, PrEP has been shown to be highly effective at reducing the risk of contracting HIV. PrEP is intended for use along with other risk reduction strategies such as condoms because people taking PrEP are still at some risk of contracting HIV, especially those who do not take PrEP consistently, and because people on PrEP remain at risk for other types of sexually transmitted infection.",
+            "score": 113.54561841487885
+        },
+        {
+            "docid": "5295343_11",
+            "document": "Pre-exposure prophylaxis . Truvada was previously only approved by the US Food and Drug Administration to treat HIV in those already infected. In 2012, the FDA approved the drug for use as PrEP, based on growing evidence that the drug was safe and effective at preventing HIV in populations at increased risk of infection.",
+            "score": 101.60584306716919
+        },
+        {
+            "docid": "8580041_7",
+            "document": "HIV/AIDS in the United Kingdom . Pre-exposure prophylaxis (\"PrEP\") using a drug which can prevent HIV infection, is available to high risk individuals as part of a three-year trial on the NHS, after a legal battle in the High Court. Use of PrEP in London, both as part of a trial and from private purchases, was partially credited in a drop in diagnoses among men who have sex with men, after a five-year plateau in diagnoses.",
+            "score": 92.79402875900269
+        },
+        {
+            "docid": "21687337_10",
+            "document": "Medicines for Malaria Venture . Investigational new drugs (IND) are clinical candidates that are safe and efficacious in the animal models of infection. Usually, these are new chemical entities (NCE) with a novel mechanism of action. Investigational new drugs have to be approved by the national or international medical regulatory authorities, for clinical testing and development in humans. IND's are usually discovered and developed to overcome the limitations of drugs that are or have been in clinical use.",
+            "score": 31.964858055114746
+        },
+        {
+            "docid": "425158_12",
+            "document": "Microbicides for sexually transmitted diseases . Researchers have begun to focus on another class of microbicides, the antiretroviral (ARV) agents. ARVs work either by preventing the HIV virus from entering a human host cell, or by preventing its replication after it has already entered. Examples of ARV drugs being tested for prevention include tenofovir, dapivirine (a diarylpyrimidine inhibitor of HIV reverse transcriptase) and UC-781. These next-generation microbicides have received attention and support because they are based on the same ARV drugs currently used to extend the survival (and improve the quality of life) of HIV-positive people. ARVs are also used to prevent vertical transmission of HIV from mother to child during childbirth, and are used to prevent HIV infection from developing immediately after exposure to the virus. Such ARV-based compounds could be formulated into topical microbicides to be administered locally in the rectum or vagina or systemically through oral or injectable formulations (pre-exposure prophylaxis). ARV-based microbicides may be formulated as long-acting vaginal rings, gels and films. The results of the first efficacy trial of an ARV-based microbicide, CAPRISA 004, tested 1% tenofovir in gel form to prevent male-to-female HIV transmission. The trial showed that the gel (which was applied topically to the vagina), was 39% effective at preventing HIV transmission. CAPRISA 004 was the 12th microbicide-efficacy study to be completed, and the first to demonstrate a significant reduction in HIV transmission. The results of this trial are statistically significant and offer proof of concept that ARVs, topically applied to the vaginal mucosa, can offer protection against HIV (and other) pathogens.",
+            "score": 72.98647201061249
+        },
+        {
+            "docid": "560876_42",
+            "document": "Pharmaceutical industry . In the United States, new pharmaceutical products must be approved by the Food and Drug Administration (FDA) as being both safe and effective. This process generally involves submission of an Investigational New Drug filing with sufficient pre-clinical data to support proceeding with human trials. Following IND approval, three phases of progressively larger human clinical trials may be conducted. Phase I generally studies toxicity using healthy volunteers. Phase II can include pharmacokinetics and dosing in patients, and Phase III is a very large study of efficacy in the intended patient population. Following the successful completion of phase III testing, a New Drug Application is submitted to the FDA. The FDA review the data and if the product is seen as having a positive benefit-risk assessment, approval to market the product in the US is granted.",
+            "score": 36.07782697677612
+        },
+        {
+            "docid": "3999292_5",
+            "document": "Emtricitabine/tenofovir . In the US it has been approved for pre-exposure prophylaxis (PrEP) against HIV infection. The Food and Drug Administration approved it for preventative use on July 16, 2012. In the UK a large scale clinical trial has been approved.",
+            "score": 84.60101675987244
+        },
+        {
+            "docid": "1805_14",
+            "document": "Antibiotic . The successful outcome of antimicrobial therapy with antibacterial compounds depends on several factors. These include host defense mechanisms, the location of infection, and the pharmacokinetic and pharmacodynamic properties of the antibacterial. A bactericidal activity of antibacterials may depend on the bacterial growth phase, and it often requires ongoing metabolic activity and division of bacterial cells. These findings are based on laboratory studies, and in clinical settings have also been shown to eliminate bacterial infection. Since the activity of antibacterials depends frequently on its concentration, \"in vitro\" characterization of antibacterial activity commonly includes the determination of the minimum inhibitory concentration and minimum bactericidal concentration of an antibacterial. To predict clinical outcome, the antimicrobial activity of an antibacterial is usually combined with its pharmacokinetic profile, and several pharmacological parameters are used as markers of drug efficacy.",
+            "score": 47.102821826934814
+        },
+        {
+            "docid": "50957141_4",
+            "document": "HIV/AIDS in New York City . Improvements of both drug therapies and prevention education have led to a decreased number of AIDS cases. In June, 2014, New York Governor Andrew Cuomo announced a new strategy designed to \"End the Epidemic\" in the state through a combination of increased HIV screening and testing, promotion of Pre-exposure Prophylaxis (PrEP) and improved linkage and retention in clinical care for HIV-positive persons. Two years later the New York City Department of Health and Mental Hygiene reported a decline in new infections of nearly 8 percent annually or approximately 15% since the campaign was launched.",
+            "score": 66.7266435623169
+        },
+        {
+            "docid": "425158_8",
+            "document": "Microbicides for sexually transmitted diseases . \"Carrageenan\" preparations (such as 0.5% PRO 2000 and 3% Carraguard vaginal microbicide gels) have failed to demonstrate efficacy in preventing HIV transmission in phase III clinical multicenter trials. PRO 2000 was demonstrated to be safe, but it did not reduce the risk of HIV infection in women (as explained in the MDP 301 trial results, released in December 2009). Similarly, the phase III efficacy trial of Carraguard showed that the drug was safe for use but ineffective in preventing HIV transmission in women.",
+            "score": 32.308098554611206
+        },
+        {
+            "docid": "883664_6",
+            "document": "Post-exposure prophylaxis . Later the questions arose of whether to give HIV treatment after known exposure or high risk of exposure. Early data from pre-clinical studies established the efficacy of AZT in preventing transmission of HIV infection. AZT was also seen to reduce maternal-infant transmission of HIV in a randomized controlled trial, suggesting AZT's post-exposure prophylaxis (PEP) use. Subsequent data show combination antiretroviral therapy is significantly superior than AZT in reducing perinatal transmission rates. In addition, AZT is generally no longer recommended due to poor tolerance resulting in high rates of patient noncompliance.",
+            "score": 68.7641453742981
+        },
+        {
+            "docid": "31330718_33",
+            "document": "Prevention of HIV/AIDS . The Partners PrEP (pre-exposure prophylaxis) trial was funded by the Bill and Melinda Gates Foundation and conducted by the International Clinical Research Center at the University of Washington. The trial followed 4758 heterosexual couples in Kenya and Uganda, in which one individual was HIV positive and the other was HIV negative. The uninfected (HIV negative) partner was given either a once-daily tenofovir tablet, a once-daily combination tablet of tenofovir and emtricitabine, or a placebo tablet containing no antiretroviral drug. These couples also received counselling and had access to free male and female condoms. In couples taking tenofovir and tenofovir/emtricitabine, there was a 62% and 73% decrease, respectively, in the number of HIV infections as compared to couples who were receiving the placebo.",
+            "score": 76.88816213607788
+        },
+        {
+            "docid": "5295343_10",
+            "document": "Pre-exposure prophylaxis . Fat Redistribution and accumulation has been observed in patients receiving antiretroviral therapy, particularly older antiretrovirals, including fat reductions in the face, limbs, and buttocks and increases in visceral fat of the abdomen and accumulations in the upper back. However, recent research and study outcome analysis suggests that emtricitabine/tenofovir does not have a significant effect on fat redistribution or accumulation when used as pre-exposure prophylaxis (PrEP) in HIV negative individuals, As of early 2018 these studies have not assessed in detail subtle changes in fat distribution that may be possible with the drug when used as PrEP, and statistically significant - though transient - weight changes have been attributed to detectible drug concentrations in the body. Anecdotal evidence does not currently suggest significant reductions in facial or gluteal region adipose tissue and among PrEP users; the drug does not have a \"reputation\" as a cause of fat changes.",
+            "score": 92.54348993301392
+        },
+        {
+            "docid": "571274_3",
+            "document": "Drug discovery . Modern drug discovery involves the identification of screening hits, medicinal chemistry and optimization of those hits to increase the affinity, selectivity (to reduce the potential of side effects), efficacy/potency, metabolic stability (to increase the half-life), and oral bioavailability. Once a compound that fulfills all of these requirements has been identified, it will begin the process of drug development prior to clinical trials. One or more of these steps may, but not necessarily, involve computer-aided drug design. Modern drug discovery is thus usually a capital-intensive process that involves large investments by pharmaceutical industry corporations as well as national governments (who provide grants and loan guarantees). Despite advances in technology and understanding of biological systems, drug discovery is still a lengthy, \"expensive, difficult, and inefficient process\" with low rate of new therapeutic discovery. In 2010, the research and development cost of each new molecular entity was about US$1.8 billion. Drug discovery is done by pharmaceutical companies, with research assistance from universities. The \"final product\" of drug discovery is a patent on the potential drug. The drug requires very expensive Phase I, II and III clinical trials, and most of them fail. Small companies have a critical role, often then selling the rights to larger companies that have the resources to run the clinical trials.",
+            "score": 36.82551383972168
+        },
+        {
+            "docid": "1013155_25",
+            "document": "National Institute of Allergy and Infectious Diseases . \"Vaccine News Daily\" reports that Duke University received a $2 million award to start a clinical research network focused on antibacterial resistance, partnering with NIAID to do a leadership group. The group and clinical trials will be headquartered at Duke University. NIAD will help lead the trials to test diagnostics, examine best practices in infection control programs to prevent the spread and development of resistant infections, perform clinical trials to optimize currently licensed antibacterial drugs to reduce resistance risk and conduct early-stage clinical evaluation of new antibacterial drugs.",
+            "score": 23.392669677734375
+        },
+        {
+            "docid": "15821461_10",
+            "document": "Eglumegad . Development of this drug and related compounds is continuing, with several clinical trials completed and more planned. Poor oral bioavailability of the original formulation led to limited efficacy in the initial human trials, and so the prodrug form LY544344 did seem to be a more likely drug candidate for further development. However a clinical trial of LY544344 was discontinued early based on findings of convulsions in preclinical studies.",
+            "score": 40.66869068145752
+        },
+        {
+            "docid": "14168046_19",
+            "document": "PCSK9 . Drugs can inhibit PCSK9, leading to lowered circulating LDL particle concentrations. Since LDL particle concentrations are a driver of cardiovascular disease like heart attacks, it is plausible that these drugs may also reduce the risk of such diseases. Clinical studies, including phase III clinical trials, are now underway to describe the effect of PCSK9 inhibition on cardiovascular disease, and the safety and efficacy profile of the drugs. Among those inhibitors under development in December 2013 were the antibodies alirocumab, evolocumab, 1D05-IgG2 (Merck), RG-7652 and LY3015014, as well as the RNAi therapeutic inclisiran. PCSK9 inhibitors are promising therapeutics for the treatment of people who exhibit statin intolerance, or as a way to bypass frequent dosage of statins for higher LDL concentration reduction.",
+            "score": 28.32449173927307
+        },
+        {
+            "docid": "104066_18",
+            "document": "Rhinovirus . Pleconaril is an orally bioavailable antiviral drug being developed for the treatment of infections caused by picornaviruses. This drug acts by binding to a hydrophobic pocket in VP1, and stabilizes the protein capsid to such an extent that the virus cannot release its RNA genome into the target cell. When tested in volunteers, during the clinical trials, this drug caused a significant decrease in mucus secretions and illness-associated symptoms. Pleconaril is not currently available for treatment of human rhinoviral infections, as its efficacy in treating these infections is under further evaluation.",
+            "score": 27.532076597213745
+        },
+        {
+            "docid": "57413297_3",
+            "document": "Murepavadin . Murepavadin exhibits a specific and potent bactericidal activity \"in vitro\" against \"P. aeruginosa\" including carbapenemase-producing and colistin-resistant isolates and was shown to be largely inactive against other Gram-negative bacteria, and Gram-positive bacteria. When tested in a large minimum inhibitory concentration (MIC) surveillance study, against 1219 contemporary clinical isolates from the USA, Europe, and China of which 28% were MDR strains, murepavadin exhibited a potent antimicrobial activity having a minimum inhibitory concentration for 90% of strains of 0.12\u00a0mg/L. There were no significant differences between geographic locations, and there was little difference in activity between MDR/and non-MDR isolates and no cross-resistance was observed with any other antimicrobial tested which supports its novel mechanism of action. Murepavadin showed outstanding \"in vivo\" efficacy in mouse septicemia (ED50 of 0.25 - 0.55\u00a0mg/kg) and lung and thigh infection models. It displays linear pharmacokinetics, is dose proportional with a good penetration into the epithelial lung fluid which underscores its potent \"in vivo\" activity in lung infection models including extensively drug-resistant (XDR) isolates. In phase I clinical trial in healthy volunteers, single doses were well tolerated at plasma concentrations expected to meet or exceed efficacious levels, with no serious adverse events reported. The favorable \"in vitro\" and \"in vivo\" properties of murepavadin combined with an appropriate safety pharmacology and toxicology profile led to the clinical development of murepavadin for the treatment of serious infections caused by \"P. aeruginosa\". Murepavadin successfully completed phase-II clinical tests in hospital patients with life-threatening \"Pseudomonas\" lung infections and is in phase III development for the treatment of bacterial HAP/ bacterial VAP due to \"P. aeruginosa\" infection.",
+            "score": 42.9032427072525
+        },
+        {
+            "docid": "8899965_7",
+            "document": "Bapineuzumab . The efficacy of drugs targeted to brain plaques in Alzheimer's patients has been called into question, although such drugs may still be effective for prophylaxis if given to individuals who have not yet developed clinical symptoms. On August 6, 2012, Pfizer Inc. and Johnson & Johnson said they are ending development of an intravenous formulation of bapineuzumab. Testing showed the drug did not work better than placebo in two late-stage trials in patients who had mild to moderate Alzheimer's disease.",
+            "score": 54.92067885398865
+        }
+    ],
+    "r": [
+        {
+            "docid": "425158_22",
+            "document": "Microbicides for sexually transmitted diseases . Efforts are underway to develop safe and effective topical microbicides. Several different gel formulations are currently undergoing testing in phase III clinical efficacy trials, and about two dozen other products are in various phases of development. Results from CAPRISA 004, while promising, may need to be confirmed by other clinical trials before the microbicide tenofovir gel is made available to the public. This decision rests with regulators, particularly in South Africa. In 2013, the VOICE study (MTN 003), another large-scale trial, is scheduled to release results. VOICE is evaluating three different strategies to prevent HIV in women: one ARV-based microbicide and two regimens consisting of oral ARVs on a daily basis. The VOICE trial is testing 1% tenofovir vaginal gel in a once-daily formulation. It is not known at this time if VOICE will be considered a confirmatory trial for CAPRISA 004, which used a different dosing strategy. Products known as Pre-Exposure Prophylaxis, or PrEP, are also being tested at various stages of the development process. These products, administered orally or via injection, would contain ARVs to protect HIV-negative people from becoming infected. Individuals would receive ARVs before they were exposed to HIV, with the goal of lowering their risk or preventing infection. One of the potential advantages of PrEP is that an individual could use it autonomously (without the need to negotiate with a partner), and it is not dependent on the time of sex. It is hoped that those unable to negotiate condom use with their sexual partners would be able to reduce their risk of HIV infection with the use of an oral (or injectable) prophylactic drug. Current PrEP candidates in development include tenofovir and Truvada (a combination of two ARV compounds, tenofovir and emtricitabine). One potential risk of the PrEP approach is that drugs present in systemic circulation might, over time, create ARV-resistant HIV strains.",
+            "score": 138.6195068359375
+        },
+        {
+            "docid": "5295343_22",
+            "document": "Pre-exposure prophylaxis . PrEP approaches with agents besides oral Truvada are being investigated. There has been some evidence that other regimens, like ones based on the antiretroviral agent Maraviroc, could potentially prevent HIV infection. Similarly, researchers are investigating whether drugs could be used in ways other than a daily oral pill to prevent HIV, including taking a long-acting PrEP injection, PrEP-releasing implants, or rectally administered PrEP. However, it is important to keep in mind that as of 2017 major public health organizations such as the US Centers for Disease Control and the World Health Organization recommend only daily oral Truvada for use as PrEP.",
+            "score": 128.96017456054688
+        },
+        {
+            "docid": "30305257_35",
+            "document": "Scott Wiener . In September 2014, Wiener announced in an online essay on the Huffington Post that he was taking Truvada, a pre-exposure prophylaxis (PrEP) that reduces the risk of HIV infection. Wiener stated that he disclosed his usage of PrEP in an effort to reduce the stigma around taking the HIV prevention medication. Wiener also cited the need for more awareness and expanding access as other keys for making PrEP successful. He also worked with David Campos to support ensuring low-cost access to Truvada for pre-exposure prophylaxis against HIV after announced his own PrEP use.",
+            "score": 126.7657470703125
+        },
+        {
+            "docid": "5295343_21",
+            "document": "Pre-exposure prophylaxis . Most PrEP studies utilize the drug tenofovir or a tenofovir/emtricitabine combination (Truvada) that is delivered orally. Initial studies of PrEP strategies in non-human primates showed a reduced risk of infection among animals that receive ARVs prior to exposure to a simian form of HIV. A 2007 study at UT-Southwestern (Dallas) and the University of Minnesota showed PrEP to be effective in \"humanized\" laboratory mice. In 2008, the iPrEx study demonstrated 42% reduction of HIV infection among men who have sex with men, and subsequent analysis of the data has suggested that 99% protection is achievable if the drugs are taken every day. Below is a table summarizing some of the major research studies that demonstrated PrEP with Truvada to be effective across different populations.",
+            "score": 117.69539642333984
+        },
+        {
+            "docid": "5295343_4",
+            "document": "Pre-exposure prophylaxis . Currently, the only drug that any health organization recommends for HIV/AIDS PrEP is Truvada, which is the brand name of the Gilead Sciences drug combination of tenofovir/emtricitabine. Patients on PrEP take Truvada every day and must also agree to see their healthcare provider at least every three months for follow-up testing. When used as directed, PrEP has been shown to be highly effective at reducing the risk of contracting HIV. PrEP is intended for use along with other risk reduction strategies such as condoms because people taking PrEP are still at some risk of contracting HIV, especially those who do not take PrEP consistently, and because people on PrEP remain at risk for other types of sexually transmitted infection.",
+            "score": 113.54561614990234
+        },
+        {
+            "docid": "5295343_15",
+            "document": "Pre-exposure prophylaxis . In Australia, the country's Therapeutic Goods Administration approved the use of Truvada as PrEP in May 2016, allowing Australian providers to legally prescribe the medication. In February 2018, Australia's Pharmaceutical Benefits Advisory Committee recommended including Truvada as PrEP on the country's Pharmaceutical Benefits Scheme (PBS), slashing the cost of access to the drug from $10,000 to under $500 a year. The drug begins being listed on the PBS from 1 April 2018.",
+            "score": 110.61276245117188
+        },
+        {
+            "docid": "56233936_9",
+            "document": "Raymond F. Schinazi . Schinazi\u2019s work led to the discovery of a second nucleoside analog, emtricitabine (FTC), subsequently resulting in a potent, safe nucleoside analog commonly used in treatment regimens. The discovery of FTC was first published in 1992 in Antimicrobial Agents and Chemotherapy as another new anti-HIV compound. The mechanism of action of FTC is by incorporation of FTC-TP into the growing viral DNA strand results in chain termination, disrupting viral DNA synthesis. Disruption of this process results in rapid reduction of systemic viral loads to undetectable in HIV-infected individuals, effectively allowing for significant rebound of CD4+ T-cells, effectively providing a tandem mechanism resulting in control of systemic viremia and restoration of functional immunity. In addition, FTC in combination with tenofovir disoproxil fumarate (Truvada) was approved as a prophylactic drug (part of PrEP) to prevent transmission of HIV, further broadening its utility beyond HIV-infected individuals to that of prophylaxis, underscoring a novel and previously unmet need with ramifications for global health worldwide. Today, this drug is widely used as part of fixed-dose combination drug regimens, including Truvada, Atripla, Complera, Stribild, Descovy, Genvoya, Stribild, Odefsey, and Eviplera. Like 3TC, FTC was found to be active against HBV, but was never approved for this indication by the US FDA.",
+            "score": 107.28125
+        },
+        {
+            "docid": "19337374_29",
+            "document": "Michael Lucas (director) . In 2013 Lucas wrote an op-ed column at Out.com where he discussed his use of Truvada (which he began using in June of that year), the medication used as a pre-exposure prophylaxis (PrEP) to prevent contracting the HIV virus. In his column Lucas wrote: \"The more I learn about PrEP, the more shocked I'm becoming that gay men are not shouting from the rooftops about this potential game changer in the fight to prevent new HIV infections, which we're losing badly. I'm ready to shout about it. Here's what helped convince me: Dr. Robert Grant of UCSF, the researcher who led the multinational study on PrEP, was quoted at an AIDS conference as saying that 'No one in iPrEx [the PrEP study] acquired HIV infection with a drug level that would have been expected with daily dosing.' Was this really possible? Whether they used condoms or not, people who took Truvada, as prescribed, were protected from the virus?\"",
+            "score": 104.57372283935547
+        },
+        {
+            "docid": "5295343_9",
+            "document": "Pre-exposure prophylaxis . Research has shown that PrEP is generally safe and well tolerated for most patients, although some side effects have been noted to occur. Some patients experience a \"start-up syndrome\" involving nausea, headache, and/or stomach issues, which generally resolve within a few weeks of starting the PrEP medication. Research has shown that the use of Truvada as PrEP has been associated with mild declines in kidney function. These declines were mild, stabilized after several weeks of being on the drug, and reversed once the drug was discontinued.",
+            "score": 101.713623046875
+        },
+        {
+            "docid": "5295343_11",
+            "document": "Pre-exposure prophylaxis . Truvada was previously only approved by the US Food and Drug Administration to treat HIV in those already infected. In 2012, the FDA approved the drug for use as PrEP, based on growing evidence that the drug was safe and effective at preventing HIV in populations at increased risk of infection.",
+            "score": 101.60584259033203
+        },
+        {
+            "docid": "1828004_9",
+            "document": "Bareback (sex) . Bareback sex has also become more acceptable since the introduction of pre exposure prophylaxis (PrEP). One of the most popular forms of PrEP is Truvada, a medication previously taken for HIV treatment that, when taken properly, has been shown to prevent HIV-negative users from contracting HIV from infected partners. While these drugs do not necessarily prevent the transmission of other STIs, they have stirred a discussion on what \"safe\" sex without the use of condoms really entails.",
+            "score": 101.35723114013672
+        },
+        {
+            "docid": "5295343_8",
+            "document": "Pre-exposure prophylaxis . PrEP has been shown to be effective at reducing the risk of contracting HIV in individuals at increased risk. However, PrEP is not 100% effective at preventing HIV, even in people who take the medication as prescribed. There have been several reported cases of people who despite taking PrEP became infected with HIV. People taking PrEP are recommended to use other risk reducing strategies along with PrEP, like condoms. If someone on PrEP contracts HIV, they may experience the Signs and symptoms of HIV/AIDS.",
+            "score": 101.0653305053711
+        },
+        {
+            "docid": "43456997_10",
+            "document": "HIV and pregnancy . Many serodiscordant couples use pre-exposure prophylaxis (PrEP) to limit transmission of the infection to the uninfected partner. Daily use of PrEP has been shown to decrease transmission of the infection by an average of 63-75%. However, use of PrEP during pregnancy has not yet been studied and its long-term effects are unknown and should not be the only safety feature in the prevention process.",
+            "score": 98.45111083984375
+        },
+        {
+            "docid": "51418643_16",
+            "document": "Transgender sex worker . Pre-exposure prophylaxis, or PrEP, is an effective method of preventing HIV contraction when taken regularly and used in combination with condoms. However, barriers to accessing general health care prevent transgender sex workers from accessing PrEP and other HIV-preventing medications as well. Demand for PrEP exists within the transgender sex worker community but low awareness of the drug, cost of the medication, and confusion about where to get PrEP create an environment in which sex workers cannot effectively access it. A study on PrEP usage in the men who have sex with men and transgender women sex worker communities recommended increasing access to PrEP by spreading more accurate information about PrEP as well as providing ways to get PrEP for a cheaper price.",
+            "score": 93.06468963623047
+        },
+        {
+            "docid": "8580041_7",
+            "document": "HIV/AIDS in the United Kingdom . Pre-exposure prophylaxis (\"PrEP\") using a drug which can prevent HIV infection, is available to high risk individuals as part of a three-year trial on the NHS, after a legal battle in the High Court. Use of PrEP in London, both as part of a trial and from private purchases, was partially credited in a drop in diagnoses among men who have sex with men, after a five-year plateau in diagnoses.",
+            "score": 92.79402923583984
+        },
+        {
+            "docid": "5295343_19",
+            "document": "Pre-exposure prophylaxis . Since the FDA approval of PrEP for the prevention of HIV, moves toward greater adoption of PrEP have been met with controversy, especially around the overall public health effect of widespread adoption, the cost of PrEP and associated disparities in availability and access. Many public health organizations and governments have embraced PrEP as a part of their overall strategy for reducing HIV. For example, in 2014 New York state governor Andrew Cuomo initiated a three-part plan to reduce HIV across New York that specifically emphasized access to PrEP. Similarly, the city of San Francisco launched a \"Getting to Zero\" campaign. The campaign aims to dramatically reduce the number of new HIV infections in the city and relies on expanding access to PrEP as a key strategy for achieving that goal. Public health officials report that since 2013 the number of new HIV infections in San Francisco has decreased almost 50% and that such improvements are likely related to the city's campaign to reduce new infections. Additionally, numerous public health campaigns have been launched to educate the public about PrEP. For instance, in New York City in 2016 Gay Men's Health Crisis launched an ad campaign in bus shelters across the city reminding riders that adherence to PrEP is important to ensuring the regimen is maximally effective.",
+            "score": 92.74602508544922
+        },
+        {
+            "docid": "5295343_10",
+            "document": "Pre-exposure prophylaxis . Fat Redistribution and accumulation has been observed in patients receiving antiretroviral therapy, particularly older antiretrovirals, including fat reductions in the face, limbs, and buttocks and increases in visceral fat of the abdomen and accumulations in the upper back. However, recent research and study outcome analysis suggests that emtricitabine/tenofovir does not have a significant effect on fat redistribution or accumulation when used as pre-exposure prophylaxis (PrEP) in HIV negative individuals, As of early 2018 these studies have not assessed in detail subtle changes in fat distribution that may be possible with the drug when used as PrEP, and statistically significant - though transient - weight changes have been attributed to detectible drug concentrations in the body. Anecdotal evidence does not currently suggest significant reductions in facial or gluteal region adipose tissue and among PrEP users; the drug does not have a \"reputation\" as a cause of fat changes.",
+            "score": 92.54349517822266
+        },
+        {
+            "docid": "13214434_49",
+            "document": "HIV/AIDS in Australia . Pre-exposure prophylaxis (PrEP) drugs are used as a means of reducing HIV risk for people who do not have HIV, with some advocates saying it will allow condomless safe-sex. Currently it costs $750 per month to import the drug from overseas. In Australia, PrEP drugs are available, at \"about $1,200 per month\", following the May 2016 approval of the Therapeutic Goods Administration. Despite the lobbying to have these PrEP drugs subsidised under the Pharmaceutical Benefits Scheme, in August 2016 it was announced that the Pharmaceutical Benefits Advisory Committee had rejected the proposal for this drug to be PBS-subsidised. On 9 February 2018, the Pharmaceutical Benefits Advisory Committee (PBAC) has announced that PrEP will be subsidised by the Australian Government through the Pharmaceutical Benefit Scheme (PBS)",
+            "score": 91.4188232421875
+        },
+        {
+            "docid": "53891312_5",
+            "document": "Evan J. Peterson . In 2017 Peterson released the nonfiction book \"The PrEP Diaries: A Safe(r) Sex Memoir\", published by Lethe Press. The book discusses the drug Truvada, the cultural impact of HIV, and controversial conversations about HIV prevention and safe sex. One reviewer described the book as \u201can accessible introduction to a complex but unquestionably important moment in our cultural relationship with HIV/AIDS.\u201d In addition to discussing the specifics of pre-exposure prophylaxis with Truvada, the book also discusses \u201cself-care, sex-positivity, and taking control of your own health.\u201d",
+            "score": 90.16177368164062
+        },
+        {
+            "docid": "5295343_20",
+            "document": "Pre-exposure prophylaxis . Despite those efforts, PrEP remains controversial among some who worry that widespread PrEP adoption could cause public health issues by enabling risky sexual behaviors. For instance, AIDS Healthcare Foundation founder and director Michael Weinstein has been vocal in his opposition to PrEP adoption, suggesting that PrEP causes people to make riskier decisions about sex than they would otherwise make. Some researchers, however, believe that there is insufficient data to determine whether or not PrEP implementation has an effect on the rate of other sexually transmitted infections. Other critics point out that despite implementation of PrEP, significant disparities exist. For example, some point out that African Americans bear a disproportionate burden of HIV infections but may be less likely than whites to access PrEP. Still other critics of PrEP object to the high cost of the regimen. For example, the U.K.'s NHS initially refused to offer PrEP to patients citing concerns about cost and suggested that local officials ought to bear the responsibility of paying for the drug. However, following significant advocacy efforts, the NHS has started to offer PrEP to patients in the UK in 2017.",
+            "score": 89.93653869628906
+        },
+        {
+            "docid": "11879571_11",
+            "document": "Jerusalem Open House . In 2008 JOH opened a clinic which offers anonymous HIV testing and counseling to anyone. The clinic can also prescribe post-exposure prophylaxis (PEP), but pre-exposure prophylaxis (PrEP) is not available in Israel.",
+            "score": 89.61199951171875
+        },
+        {
+            "docid": "5295343_17",
+            "document": "Pre-exposure prophylaxis . PrEP drugs can also be expensive, with tremendous variation in cost across different countries. In the US, a prescription for PrEP can cost $8,000-$14,000/year. In the UK, a prescription for PrEP can cost about \u00a34,200/year Some health organizations, including the U.K.'s NHS, have challenged the funding of PrEP out of concern for the cost.",
+            "score": 89.51197814941406
+        },
+        {
+            "docid": "51229157_2",
+            "document": "PROUD (clinical trial) . PROUD (a backronym for \"Pre-exposure Option for reducing HIV in the UK: immediate or Deferred\") was an open-label randomised clinical trial of pre-exposure prophylaxis (PrEP) by the MRC Clinical Trials Unit at University College London. It sought to evaluate the effectiveness of PrEP at preventing the spread of HIV in sexually active gay men in a non-controlled real-world environment. The study recruited participants at several different locations: Brighton, Birmingham, York, Manchester, Sheffield, and eight locations in London.",
+            "score": 88.96947479248047
+        },
+        {
+            "docid": "31328278_9",
+            "document": "CONRAD (organization) . ADHERENCE: Adherence to a study product is essential for the reliable evaluation of its efficacy and safety in a clinical trial. When adherence is poor, a potentially effective drug can be erroneously judged to be ineffective. Pre-exposure prophylaxis (PrEP) trials which tested daily use of an oral antiretroviral in women and several vaginal gel trials for HIV prevention have been challenged by poor adherence. There is a clear need for cost-saving and efficient trial designs to test safety and efficacy. CONRAD, AVAC and the Forum for Collaborative HIV Research joined forces to convene a workshop in June 2014 to explore the potential of alternative trial designs for microbicides that can help address the issue of poor adherence.",
+            "score": 88.82648468017578
+        },
+        {
+            "docid": "5295343_12",
+            "document": "Pre-exposure prophylaxis . In 2012, the World Health Organization issued guidelines for PrEP and made similar recommendations for its use among men and transgender women who have sex with men. The WHO noted that \"international scientific consensus is emerging that antiretroviral drugs, including PrEP, significantly reduce the risk of sexual acquisition and transmission of HIV regardless of population or setting.\" In 2014, on the basis of further evidence, the WHO updated the recommendation for men who have sex with men to state that PrEP \"is recommended as an additional HIV prevention choice within a comprehensive HIV prevention package.\" In November 2015 the WHO expanded this further, on the basis of further evidence, and stated that it had \"broadened the recommendation to include all population groups at substantial risk of HIV infection\" and emphasized that PrEP should be \"an additional prevention choice in a comprehensive package of services.\"",
+            "score": 88.29774475097656
+        },
+        {
+            "docid": "29823760_2",
+            "document": "IPrEx . iPrEx (from , \"pre-exposure prophylaxis initiative\") was a phase III clinical trial to determine whether the antiretroviral medication emtricitabine/tenofovir (as tenofovir disoproxil fumarate) could safely and effectively prevent HIV acquisition through sex in men who have sex with men and transgender women. iPrEx was the first human study of an HIV prevention strategy known as pre-exposure prophylaxis, or PrEP.",
+            "score": 87.70437622070312
+        },
+        {
+            "docid": "5295343_7",
+            "document": "Pre-exposure prophylaxis . Often, lab testing is required before starting PrEP, including a test for HIV. Once PrEP is initiated, patients are asked to see their provider at least every three to six months. During those visits, healthcare providers may want to repeat testing for HIV, test for other sexually transmitted infections, monitor kidney function, and/or test for pregnancy.",
+            "score": 86.57842254638672
+        },
+        {
+            "docid": "51229322_2",
+            "document": "IPERGAY . IPERGAY was a French clinical trial of pre-exposure prophylaxis (PrEP) in sexually active gay men in a community setting. It demonstrated 86% effectiveness in preventing HIV transmission.",
+            "score": 86.10615539550781
+        },
+        {
+            "docid": "5295343_18",
+            "document": "Pre-exposure prophylaxis . Multiple programs exist to help make PrEP more accessible to those who might benefit from the drug. In 2015, the US CDC published guidelines to help American patients figure out how to pay for PrEP. Those with health insurance can find out from their health insurer whether PrEP and the associated costs (e.g. visits to the doctor, lab tests) would be covered. Those without health insurance or for whom health insurance has declined to pay for PrEP may be eligible for free PrEP from the drug's manufacturer, Gilead. A similar program exists to reduce or eliminate the cost of the copayment for PrEP among insured patients, also sponsored by Gilead. Others turn to online pharmacies to access cheaper generic versions of PrEP. For instance, a dramatic decline in new HIV infections in London, UK in 2016 has been attributed by some to access to PrEP through online pharmacies, although others have expressed concerns about the safety and reliability of accessing PrEP through such online pharmacies.",
+            "score": 85.76226806640625
+        },
+        {
+            "docid": "5295343_14",
+            "document": "Pre-exposure prophylaxis . New Zealand was one of the first countries in the world to publicly fund PrEP for the prevention of HIV from 1 March 2018. Funded access to PrEP will require that people undergo regular testing for HIV and other sexually transmitted infections, and are monitored for risk of side effects. People taking funded PrEP will receive advice on ways to reduce the risk of HIV and sexually transmitted infections.",
+            "score": 84.97309875488281
+        },
+        {
+            "docid": "7800672_21",
+            "document": "History of animal testing . The non-human primate models of AIDS, using HIV-2, SHIV, and SIV in macaques, have been used as a complement to ongoing research efforts against the virus. The drug tenofovir has had its efficacy and toxicology evaluated in macaques and found long-term/high-dose treatments had adverse effects not found using short-term/high-dose treatment followed by long-term/low-dose treatment. This finding in macaques was translated into human dosing regimens. Prophylactic treatment with anti-virals has been evaluated in macaques because an introduction of the virus can only be controlled in an animal model. The finding that prophylaxis can be effective at blocking infection has altered the treatment for occupational exposures, such as needle exposures. Such exposures are now followed rapidly with anti-HIV drugs, and this practice has resulted in measurable transient virus infection similar to the NHP model. Similarly, the mother-to-fetus transmission, and its fetal prophylaxis with antivirals such as tenofovir and AZT, has been evaluated in controlled testing in macaques not possible in humans, and this knowledge has guided antiviral treatment in pregnant mothers with HIV. \"The comparison and correlation of results obtained in monkey and human studies are leading to a growing validation and recognition of the relevance of the animal model. Although each animal model has its limitations, carefully designed drug studies in nonhuman primates can continue to advance our scientific knowledge and guide future clinical trials.\"",
+            "score": 84.68878936767578
+        },
+        {
+            "docid": "3999292_5",
+            "document": "Emtricitabine/tenofovir . In the US it has been approved for pre-exposure prophylaxis (PrEP) against HIV infection. The Food and Drug Administration approved it for preventative use on July 16, 2012. In the UK a large scale clinical trial has been approved.",
+            "score": 84.60101318359375
+        }
+    ]
+}

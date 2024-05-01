@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "50601_20",
+            "document": "Cystic fibrosis . Several mutations in the \"CFTR\" gene can occur, and different mutations cause different defects in the CFTR protein, sometimes causing a milder or more severe disease. These protein defects are also targets for drugs which can sometimes restore their function. \u0394F508-CFTR, which occurs in >90% of patients in the U.S., creates a protein that does not fold normally and is not appropriately transported to the cell membrane, resulting in its degradation. Other mutations result in proteins that are too short (truncated) because production is ended prematurely. Other mutations produce proteins that do not use energy (in the form of ATP) normally, do not allow chloride, iodide, and thiocyanate to cross the membrane appropriately, and degrade at a faster rate than normal. Mutations may also lead to fewer copies of the CFTR protein being produced.",
+            "score": 328.4670124053955
+        },
+        {
+            "docid": "611074_20",
+            "document": "Point mutation . A defect in the cystic fibrosis transmembrane conductance regulator (CFTR) gene causes cystic fibrosis (CF). A protein made by this gene controls the movement of the water and salt in and out of the body's cells. Genes in people with CF incorrectly code proteins. This causes thick, sticky mucus and very salty sweat.",
+            "score": 273.01768469810486
+        },
+        {
+            "docid": "50601_17",
+            "document": "Cystic fibrosis . CF is caused by a mutation in the gene cystic fibrosis transmembrane conductance regulator (\"CFTR\"). The most common mutation, \u0394F508, is a deletion (\u0394 signifying deletion) of three nucleotides that results in a loss of the amino acid phenylalanine (F) at the 508th position on the protein. This mutation accounts for two-thirds (66\u201370%) of CF cases worldwide and 90% of cases in the United States; however, over 1500 other mutations can produce CF. Although most people have two working copies (alleles) of the \"CFTR\" gene, only one is needed to prevent cystic fibrosis. CF develops when neither allele can produce a functional CFTR protein. Thus, CF is considered an autosomal recessive disease.",
+            "score": 262.2971658706665
+        },
+        {
+            "docid": "617210_11",
+            "document": "Aminoglycoside . The interference with mRNA proofreading has been exploited to treat genetic diseases that result from premature stop codons (leading to early termination of protein synthesis and truncated proteins). Aminoglycosides can cause the cell to overcome the stop codons, insert a random amino acid, and express a full-length protein. The aminoglycoside gentamicin has been used to treat cystic fibrosis (CF) cells in the laboratory to induce them to grow full-length proteins. CF is caused by a mutation in the gene coding for the \"cystic fibrosis transmembrane conductance regulator\" (\"CFTR\") protein. In approximately 10% of CF cases, the mutation in this gene causes its early termination during translation, leading to the formation of is truncated and non-functional CFTR protein. It is believed that gentamicin distorts the structure of the ribosome-RNA complex, leading to a mis-reading of the termination codon, causing the ribosome to \"skip\" over the stop sequence and to continue with the normal elongation and production of the CFTR protein.",
+            "score": 271.5806133747101
+        },
+        {
+            "docid": "14161937_10",
+            "document": "HSP90AB1 . Cystic fibrosis (CF, mucoviscidosis) is a genetic disease with increased viscosity of various secretions leading to organ failure of lung, pancreas and other organs. It is caused in nearly all cases by a deletion of phenylalanine 508 of CFTR (cystic fibrosis transmembrane conductance regulator). This mutation causes a maturation defect of this ion channel protein with increased degradation, mediated by HSPs. Deletion of the co-chaperone AHA1 (activator of heat shock 90kDa protein ATPase homolog 1) leads to stabilization of CFTR and opens up a perspective for a new therapy.",
+            "score": 235.4569935798645
+        },
+        {
+            "docid": "2447734_2",
+            "document": "\u0394F508 . \u0394F508 (Delta-F508, full name CFTR\u0394F508 or F508del-CFTR; rs113993960) is a specific mutation within the gene for a protein called the cystic fibrosis transmembrane conductance regulator (CFTR). The mutation is a deletion of three nucleotides spanning positions 507 and 508 of the CFTR gene on chromosome 7, which ultimately results in the loss of a single codon for the amino acid phenylalanine (F). A person with the CFTR\u0394F508 mutation will produce an abnormal CFTR protein that lacks this phenylalanine residue and which cannot fold properly. This protein does not escape the endoplasmic reticulum for further processing. Having two copies of this mutation (one inherited from each parent) is by far the most common cause of cystic fibrosis (CF), responsible for nearly two-thirds of cases worldwide.",
+            "score": 279.01559925079346
+        },
+        {
+            "docid": "47400657_7",
+            "document": "Lumacaftor/ivacaftor . F508del is a mutation that causes the CFTR protein to misfold and cells destroy such proteins soon after they are made; lumacaftor acts as a chaperone during protein folding and increases the number of CFTR proteins that are trafficked to the cell surface. Ivacaftor is a potentiator of CFTR that is already at the cell surface, increasing the probability that the defective channel will be open and allow chloride ions to pass through the channel pore. The two drugs have synergistic effects.",
+            "score": 260.0728850364685
+        },
+        {
+            "docid": "50601_68",
+            "document": "Cystic fibrosis . A number of small molecules that aim at compensating various mutations of the \"CFTR\" gene are under development. One approach is to develop drugs that get the ribosome to overcome the stop codon and synthesize a full-length CFTR protein. About 10% of CF results from a premature stop codon in the DNA, leading to early termination of protein synthesis and truncated proteins. These drugs target nonsense mutations such as G542X, which consists of the amino acid glycine in position 542 being replaced by a stop codon. Aminoglycoside antibiotics interfere with protein synthesis and error-correction. In some cases, they can cause the cell to overcome a premature stop codon by inserting a random amino acid, thereby allowing expression of a full-length protein. The aminoglycoside gentamicin has been used to treat lung cells from CF patients in the laboratory to induce the cells to grow full-length proteins. Another drug targeting nonsense mutations is ataluren, which is undergoing Phase III clinical trials .",
+            "score": 262.61883318424225
+        },
+        {
+            "docid": "33617496_2",
+            "document": "Lumacaftor . Lumacaftor (VX-809) is a pharmaceutical drug that acts as a chaperone during protein folding and increases the number of CFTR proteins that are trafficked to the cell surface. It is available in a single pill with ivacaftor; the combination, lumacaftor/ivacaftor (brand name Orkambi), is used to treat people with cystic fibrosis who have the F508del mutation in the cystic fibrosis transmembrane conductance regulator (CFTR), the defective protein that causes the disease. It was developed by Vertex Pharmaceuticals and the combination was approved by the FDA in 2015. As of 2015 lumacaftor had no medical use on its own.",
+            "score": 289.91521167755127
+        },
+        {
+            "docid": "50601_22",
+            "document": "Cystic fibrosis . Most of the damage in CF is due to blockage of the narrow passages of affected organs with thickened secretions. These blockages lead to remodeling and infection in the lung, damage by accumulated digestive enzymes in the pancreas, blockage of the intestines by thick feces, etc. Several theories have been posited on how the defects in the protein and cellular function cause the clinical effects. The most current theory suggests that defective ion transport leads to dehydration in the airway epithelia, thickening mucus. In airway epithelial cells, the cilia exist in between the cell's apical surface and mucus in a layer known as airway surface liquid (ASL). The flow of ions from the cell and into this layer is determined by ion channels such as CFTR. CFTR not only allows chloride ions to be drawn from the cell and into the ASL, but it also regulates another channel called ENac, which allows sodium ions to leave the ASL and enter the respiratory epithelium. CFTR normally inhibits this channel, but if the CFTR is defective, then sodium flows freely from the ASL and into the cell. As water follows sodium, the depth of ASL will be depleted and the cilia will be left in the mucous layer. As cilia cannot effectively move in a thick, viscous environment, mucociliary clearance is deficient and a buildup of mucus occurs, clogging small airways. The accumulation of more viscous, nutrient-rich mucus in the lungs allows bacteria to hide from the body's immune system, causing repeated respiratory infections. The presence of the same CFTR proteins in the pancreatic duct and sweat glands in the skin also cause symptoms in these systems.",
+            "score": 235.86585068702698
+        },
+        {
+            "docid": "610997_22",
+            "document": "Frameshift mutation . Cystic fibrosis (CF) is a disease based on mutations in the CF transmembrane conductance regulator (CFTR) gene. There are over 1500 mutations identified, but not all cause the disease. Most cases of cystic fibrosis are a result of the \u2206F508 mutation, which deletes the entire amino acid. Two frameshift mutations are of interest in diagnosing CF, CF1213delT and CF1154-insTC. Both of these mutations commonly occur in tandem with at least one other mutation. They both lead to a small decrease in the function of the lungs and occur in about 1% of patients tested. These mutations were identified through Sanger sequencing.",
+            "score": 209.38820719718933
+        },
+        {
+            "docid": "40533059_12",
+            "document": "Chemical chaperone . Cystic Fibrosis (CF) is a disease resulting from a failure to maintain the level of cystic fibrosis transmembrane conductance regulator (CFTR), which functions as a chloride channel in pulmonary tissues. \u0394F508 point mutation in CFTR protein interferes with maturation of the protein has been found in a number of CF patients. It is found that the mutant CFTR mostly fails to transport to the cell membrane and is degraded in the ER; however, ones that successfully make it to the cell membrane are fully functional. As a result, a number of chemical chaperones have been shown to promote the trafficking of \u0394F508 CFTR to the plasma membrane.",
+            "score": 311.0196454524994
+        },
+        {
+            "docid": "47400657_2",
+            "document": "Lumacaftor/ivacaftor . Lumacaftor/ivacaftor (brand name Orkambi) is a combination drug available as a single pill that is used for the treatment of cystic fibrosis in people who have two copies of the F508del mutation in the gene encoding the cystic fibrosis transmembrane conductance regulator (CFTR) protein. It is a combination drug that consists of lumacaftor and ivacaftor. Ivacaftor increases the activity of the CFTR protein at the surface of epithelial cell, while lumacaftor acts as a chaperone during protein folding and increases the number of CFTR proteins that are trafficked to the cell surface. It was approved by the US FDA in July 2015.",
+            "score": 318.70598459243774
+        },
+        {
+            "docid": "30995223_4",
+            "document": "Ivacaftor . Cystic fibrosis is caused by any one of several defects in the CFTR protein, which regulates fluid flow within cells and affects the components of sweat, digestive fluids, and mucus. One such defect is the G551D mutation, in which the amino acid glycine\u00a0(G) in position 551 is replaced with aspartic acid\u00a0(D). G551D is characterized by a dysfunctional CFTR protein on the cell surface. In the case of G551D, the protein is trafficked to the correct area, the epithelial cell surface, but once there the protein cannot transport chloride through the channel. Ivacaftor, a CFTR potentiator, improves the transport of chloride through the ion channel by binding to the channels directly to induce a non-conventional mode of gating which in turn increases the probability that the channel is open.",
+            "score": 254.90191769599915
+        },
+        {
+            "docid": "16464479_4",
+            "document": "Genetic carrier . Up to 1 in 25 individuals of Northern European ancestry may be considered carriers of mutations (CFTR genes) that can lead to cystic fibrosis. The disease appears only when two of these carriers have children, as each pregnancy between them will have a 25% chance of producing a child with the disease. However, it is also thought that carriers of CF may be more resistant to diarrhea during typhoid fever or cholera, and are therefore not truly asymptomatic. This resistance leads to increased fitness of the carriers, known as a heterozygote advantage, and thereby increases the frequency of the altered genes in the population. Although only about 1 of every 3,000 Caucasian newborns has CF, there are more than 900 known mutations of the gene that causes CF. Current tests look for the most common mutations.",
+            "score": 180.32634687423706
+        },
+        {
+            "docid": "1513442_27",
+            "document": "Chloride channel . Cystic fibrosis is caused by mutations in the CFTR gene on chromosome 7, the most common mutation being \u0394F508 (a deletion of a codon coding for phenylalanine, which occupies the 508th amino acid position in the normal CFTR polypeptide). Any of these mutations can prevent the proper folding of the protein and subsequent degradation, resulting in decreased numbers of chloride channels in the body. This causes the buildup of mucus in the body and chronic infections.",
+            "score": 241.25248312950134
+        },
+        {
+            "docid": "2123234_3",
+            "document": "Torsion dystonia . The disease is caused by a genetic disorder which results in a defect in a protein called Torsin A. A mutation in the DYT1 gene causes the loss of an amino acid, glutamic acid, in the Torsin A protein. The defective protein creates a disruption in communication in neurons that control muscle movement and muscle control. This mutation is most usually inherited from a parent, but can occur sporadically. The disease is caused by a dominant allele, meaning that the person affected needs only one copy of the mutated DYT1 gene to have symptoms. However, only 30 to 40 percent of those that do have the gene actually have symptoms, leading researchers to believe that there are other factors involved.",
+            "score": 134.9432075023651
+        },
+        {
+            "docid": "50601_39",
+            "document": "Cystic fibrosis . Ivacaftor is a medication taken by mouth for the treatment of CF due to a number of specific mutations responsive to ivacaftor-induced CFTR protein enhancement. It improves lung function by about 10%; however, as of 2014 it is expensive. The first year it was on the market, the list price was over $300,000 per year in the United States. In July 2015, the U.S. Food and Drug Administration approved lumacaftor/ivacaftor. In 2018, the FDA approved the combination ivacaftor/tezacaftor; the manufacturer announced a list price of $292,000 per year. Tezacaftor helps move the CFTR protein to the correct position on the cell surface, and is designed to treat people with the F508del mutation.",
+            "score": 247.11408233642578
+        },
+        {
+            "docid": "15620079_8",
+            "document": "Gene knock-in . While gene knock-in technology has proven to be a powerful technique for the generation of models of human disease and insight into proteins \"in vivo\", numerous limitations still exist. Many of these are shared with the limitations of knockout technology. First, combinations of knock-in genes lead to growing complexity in the interactions that inserted genes and their products have with other sections of the genome and can therefore lead to more side effects and difficult-to-explain phenotypes. Also, only a few loci, such as the ROSA26 locus have been characterized well enough where they can be used for conditional gene knock-ins, making combinations of reporter and transgenes in the same locus problematic. The biggest disadvantage of using gene knock-in for human disease model generation is that mouse physiology is not identical to that of humans and human orthologs of proteins expressed in mice will often not wholly reflect the role of a gene in human pathology. This can be seen in mice produced with the \u0394F508 fibrosis mutation in the CFTR gene, which accounts for more than 70% of the mutations in this gene for the human population and leads to cystic fibrosis. While \u0394F508 CF mice do exhibit the processing defects characteristic of the human mutation, they do not display the pulmonary pathophysiological changes seen in humans and carry virtually no lung phenotype. Such problems could be ameliorated by the use of a variety of animal models, and pig models (pig lungs share many biochemical and physiological similarities with human lungs) have been generated in an attempt to better explain the activity of the \u0394F508 mutation.",
+            "score": 198.667222738266
+        },
+        {
+            "docid": "4595202_8",
+            "document": "Sodium phenylbutyrate . In cystic fibrosis, a point mutation in the Cystic Fibrosis Transmembrane Conductance Regulator protein, \u0394F508-CFTR, causes it to be unstable and misfold, hence trapped in the endoplasmic reticulum and unable to reach the cell membrane. This lack of CFTR in the cell membrane leads to disrupted chloride transport and the symptoms of cystic fibrosis. Sodium phenylbutyrate can act as a chemical chaperone, stabilising the mutant CFTR in the endoplasmic reticulum and allowing it to reach the cell surface.",
+            "score": 299.0303838253021
+        },
+        {
+            "docid": "1150680_12",
+            "document": "Germline mutation . Cystic Fibrosis is an autosomal recessive disorder that causes a variety of symptoms and complications, the most common of which is a thick mucus lining in lung epithelial tissue due to improper salt exchange, but can also affect the pancreas, intestines, liver, and kidneys. Many bodily processes can be affected due to the hereditary nature of this disease; if the disease is present in the DNA of both the sperm and the egg, then it will be present in essentially every cell and organ in the body; these mutations can occur initially in the germline cells, or be present in all parental cells. The most common mutation seen in this disease is \u0394F508, which means a deletion of the amino acid at the 508 position. If both parents have a mutated CFTR (cystic fibrosis transmembrane conductance regulator) protein, then their children have a 25% of inheriting the disease. If a child has 1 mutated copy of CFTR, they will not develop the disease, but will become a carrier of the disease.",
+            "score": 265.1281294822693
+        },
+        {
+            "docid": "50601_30",
+            "document": "Cystic fibrosis . Because development of CF in the fetus requires each parent to pass on a mutated copy of the \"CFTR\" gene and because CF testing is expensive, testing is often performed initially on one parent. If testing shows that parent is a \"CFTR\" gene mutation carrier, the other parent is tested to calculate the risk that their children will have CF. CF can result from more than a thousand different mutations. As of 2016, typically only the most common mutations are tested for, such as \u0394F508 Most commercially available tests look for 32 or fewer different mutations. If a family has a known uncommon mutation, specific screening for that mutation can be performed. Because not all known mutations are found on current tests, a negative screen does not guarantee that a child will not have CF.",
+            "score": 192.44605898857117
+        },
+        {
+            "docid": "50601_65",
+            "document": "Cystic fibrosis . Because mutations in the \"CFTR\" gene are typically small, classical genetics techniques had been unable to accurately pinpoint the mutated gene. Using protein markers, gene-linkage studies were able to map the mutation to chromosome 7. Chromosome-walking and -jumping techniques were then used to identify and sequence the gene. In 1989, Lap-Chee Tsui led a team of researchers at the Hospital for Sick Children in Toronto that discovered the gene responsible for CF. CF represents a classic example of how a human genetic disorder was elucidated strictly by the process of forward genetics.",
+            "score": 193.0983371734619
+        },
+        {
+            "docid": "47400657_3",
+            "document": "Lumacaftor/ivacaftor . The combination of lumacaftor/ivacaftor is used to treat people with cystic fibrosis who have two copies of the F508del mutation in the cystic fibrosis transmembrane conductance regulator (CFTR), the defective protein that causes the disease. The combination treatment improves lung function about 3% in such people and reduced hospitalization events by about 34%.",
+            "score": 231.4473831653595
+        },
+        {
+            "docid": "9951136_7",
+            "document": "Exonic splicing silencer . Mutations in the CFTR gene are responsible for causing cystic fibrosis. A particular mutation occurs in the CFTR pre-mRNA and leads to the exclusion of exon 9, mRNA lacking this exon folds a truncated protein (a protein shortened by a mutation).",
+            "score": 254.87859845161438
+        },
+        {
+            "docid": "31375957_5",
+            "document": "Denufosol . Cystic fibrosis is characterised by a defect of the chloride channel CFTR (cystic fibrosis transmembrane conductance regulator) on epithelial cells in the lungs. The CFTR regulates the components of sweat, digestive juices, and mucus. Defects lead to a viscous, dehydrated mucus, hindering mucociliary clearance. Denufosol is an agonist at the P2Y subtype of purinergic receptors, an alternative chloride channel. Activating this alternate chloride channel theoretically increases ion transport in cystic fibrosis patients which compensates the effects caused by the non-functioning CFTR.",
+            "score": 214.47380232810974
+        },
+        {
+            "docid": "50601_67",
+            "document": "Cystic fibrosis . The focus of much CF gene therapy research is aimed at trying to place a normal copy of the \"CFTR\" gene into affected cells. Transferring the normal \"CFTR\" gene into the affected epithelium cells would result in the production of functional CFTR protein in all target cells, without adverse reactions or an inflammation response. To prevent the lung manifestations of CF, only 5\u201310% the normal amount of CFTR gene expression is needed. Multiple approaches have been tested for gene transfer, such as liposomes and viral vectors in animal models and clinical trials. However, both methods were found to be relatively inefficient treatment options, mainly because very few cells take up the vector and express the gene, so the treatment has little effect. Additionally, problems have been noted in cDNA recombination, such that the gene introduced by the treatment is rendered unusable. There has been a functional repair in culture of CFTR by CRISPR/Cas9 in intestinal stem cell organoids of cystic fibrosis patients.",
+            "score": 272.30981731414795
+        },
+        {
+            "docid": "50601_27",
+            "document": "Cystic fibrosis . Cystic fibrosis may be diagnosed by many different methods, including newborn screening, sweat testing, and genetic testing. As of 2006 in the United States, 10% of cases are diagnosed shortly after birth as part of newborn screening programs. The newborn screen initially measures for raised blood concentration of immunoreactive trypsinogen. Infants with an abnormal newborn screen need a sweat test to confirm the CF diagnosis. In many cases, a parent makes the diagnosis because the infant tastes salty. Immunoreactive trypsinogen levels can be increased in individuals who have a single mutated copy of the \"CFTR\" gene (carriers) or, in rare instances, in individuals with two normal copies of the \"CFTR\" gene. Due to these false positives, CF screening in newborns can be controversial. Most U.S. states and countries do not screen for CF routinely at birth. Therefore, most individuals are diagnosed after symptoms (e.g. sinopulmonary disease and GI manifestations) prompt an evaluation for cystic fibrosis. The most commonly used form of testing is the sweat test. Sweat testing involves application of a medication that stimulates sweating (pilocarpine). To deliver the medication through the skin, iontophoresis is used, whereby one electrode is placed onto the applied medication and an electric current is passed to a separate electrode on the skin. The resultant sweat is then collected on filter paper or in a capillary tube and analyzed for abnormal amounts of sodium and chloride. People with CF have increased amounts of them in their sweat. In contrast, people with CF have less thiocyanate and hypothiocyanite in their saliva and mucus (Banfi et al.). In the case of milder forms of CF, transepithelial potential difference measurements can be helpful. CF can also be diagnosed by identification of mutations in the CFTR gene.",
+            "score": 205.01326549053192
+        },
+        {
+            "docid": "10348140_4",
+            "document": "Proteopathy . In most, if not all proteopathies, a change in 3-dimensional folding (conformation) increases the tendency of a specific protein to bind to itself. In this aggregated form, the protein is resistant to clearance and can interfere with the normal capacity of the affected organs. In some cases, misfolding of the protein results in a loss of its usual function. For example, cystic fibrosis is caused by a defective cystic fibrosis transmembrane conductance regulator (CFTR) protein, and in amyotrophic lateral sclerosis / frontotemporal lobar degeneration (FTLD), certain gene-regulating proteins inappropriately aggregate in the cytoplasm, and thus are unable to perform their normal tasks within the nucleus. Because proteins share a common structural feature known as the polypeptide backbone, all proteins have the potential to misfold under some circumstances. However, only a relatively small number of proteins are linked to proteopathic disorders, possibly due to structural idiosyncrasies of the vulnerable proteins. For example, proteins that are normally unfolded or relatively unstable as monomers (that is, as single, unbound protein molecules) are more likely to misfold into an abnormal conformation. In nearly all instances, the disease-causing molecular configuration involves an increase in beta-sheet secondary structure of the protein. The abnormal proteins in some proteopathies have been shown to fold into multiple 3-dimensional shapes; these variant, proteinaceous structures are defined by their different pathogenic, biochemical, and conformational properties. They have been most thoroughly studied with regard to prion disease, and are referred to as protein strains.",
+            "score": 207.28357601165771
+        },
+        {
+            "docid": "7172_73",
+            "document": "Chemotherapy . Resistance is a major cause of treatment failure in chemotherapeutic drugs. There are a few possible causes of resistance in cancer, one of which is the presence of small pumps on the surface of cancer cells that actively move chemotherapy from inside the cell to the outside. Cancer cells produce high amounts of these pumps, known as p-glycoprotein, in order to protect themselves from chemotherapeutics. Research on p-glycoprotein and other such chemotherapy efflux pumps is currently ongoing. Medications to inhibit the function of p-glycoprotein are undergoing investigation, but due to toxicities and interactions with anti-cancer drugs their development has been difficult. Another mechanism of resistance is gene amplification, a process in which multiple copies of a gene are produced by cancer cells. This overcomes the effect of drugs that reduce the expression of genes involved in replication. With more copies of the gene, the drug can not prevent all expression of the gene and therefore the cell can restore its proliferative ability. Cancer cells can also cause defects in the cellular pathways of apoptosis (programmed cell death). As most chemotherapy drugs kill cancer cells in this manner, defective apoptosis allows survival of these cells, making them resistant. Many chemotherapy drugs also cause DNA damage, which can be repaired by enzymes in the cell that carry out DNA repair. Upregulation of these genes can overcome the DNA damage and prevent the induction of apoptosis. Mutations in genes that produce drug target proteins, such as tubulin, can occur which prevent the drugs from binding to the protein, leading to resistance to these types of drugs. Drugs used in chemotherapy can induce cell stress, which can kill a cancer cell; however, under certain conditions, cells stress can induce changes in gene expression that enables resistance to several types of drugs.",
+            "score": 176.76760256290436
+        },
+        {
+            "docid": "2447734_4",
+            "document": "\u0394F508 . \u0394F508 is a class II CFTR mutation. The CFTR protein is largely expressed in cells of the pancreas, intestinal and respiratory epithelia, and all exocrine glands. When properly folded, it is shuttled to the cell membrane, where it becomes a transmembrane protein responsible for opening channels which release chloride ions out of cells; it also simultaneously inhibits the uptake of sodium ions by another channel protein. Both of these functions help to maintain an ion gradient that causes osmosis to draw water out of the cells. The \u0394F508 mutation leads to the misfolding of CFTR and its eventual degradation in the ER. In organisms with two complements of the mutation, the protein is entirely absent from the cell membrane, and these critical ion transport functions are not performed.",
+            "score": 281.71043252944946
+        },
+        {
+            "docid": "17337043_11",
+            "document": "Diffuse panbronchiolitis . Cystic fibrosis (CF), a progressive multi-system lung disease, has been considered in the search for a genetic cause of DPB. This is for a number of reasons. CF, like DPB, causes severe lung inflammation, abundant mucus production, infection, and shows a genetic predominance among Caucasians of one geographic group to the rarity of others; whereas DPB dominates among East Asians, CF mainly affects individuals of European descent. While no gene has been implicated as the cause of DPB, mutation in a specific gene\u2014much more likely to occur in Europeans\u2014causes CF. This mutation in the CF-causing gene is not a factor in DPB, but a unique polymorphism (variation) in this gene is known to occur in many Asians not necessarily affected by either disease. It is being investigated whether this gene in any state of mutation could contribute to DPB.",
+            "score": 139.56197774410248
+        }
+    ],
+    "r": [
+        {
+            "docid": "50601_20",
+            "document": "Cystic fibrosis . Several mutations in the \"CFTR\" gene can occur, and different mutations cause different defects in the CFTR protein, sometimes causing a milder or more severe disease. These protein defects are also targets for drugs which can sometimes restore their function. \u0394F508-CFTR, which occurs in >90% of patients in the U.S., creates a protein that does not fold normally and is not appropriately transported to the cell membrane, resulting in its degradation. Other mutations result in proteins that are too short (truncated) because production is ended prematurely. Other mutations produce proteins that do not use energy (in the form of ATP) normally, do not allow chloride, iodide, and thiocyanate to cross the membrane appropriately, and degrade at a faster rate than normal. Mutations may also lead to fewer copies of the CFTR protein being produced.",
+            "score": 328.4670104980469
+        },
+        {
+            "docid": "47400657_2",
+            "document": "Lumacaftor/ivacaftor . Lumacaftor/ivacaftor (brand name Orkambi) is a combination drug available as a single pill that is used for the treatment of cystic fibrosis in people who have two copies of the F508del mutation in the gene encoding the cystic fibrosis transmembrane conductance regulator (CFTR) protein. It is a combination drug that consists of lumacaftor and ivacaftor. Ivacaftor increases the activity of the CFTR protein at the surface of epithelial cell, while lumacaftor acts as a chaperone during protein folding and increases the number of CFTR proteins that are trafficked to the cell surface. It was approved by the US FDA in July 2015.",
+            "score": 318.70599365234375
+        },
+        {
+            "docid": "40533059_12",
+            "document": "Chemical chaperone . Cystic Fibrosis (CF) is a disease resulting from a failure to maintain the level of cystic fibrosis transmembrane conductance regulator (CFTR), which functions as a chloride channel in pulmonary tissues. \u0394F508 point mutation in CFTR protein interferes with maturation of the protein has been found in a number of CF patients. It is found that the mutant CFTR mostly fails to transport to the cell membrane and is degraded in the ER; however, ones that successfully make it to the cell membrane are fully functional. As a result, a number of chemical chaperones have been shown to promote the trafficking of \u0394F508 CFTR to the plasma membrane.",
+            "score": 311.0196228027344
+        },
+        {
+            "docid": "4595202_8",
+            "document": "Sodium phenylbutyrate . In cystic fibrosis, a point mutation in the Cystic Fibrosis Transmembrane Conductance Regulator protein, \u0394F508-CFTR, causes it to be unstable and misfold, hence trapped in the endoplasmic reticulum and unable to reach the cell membrane. This lack of CFTR in the cell membrane leads to disrupted chloride transport and the symptoms of cystic fibrosis. Sodium phenylbutyrate can act as a chemical chaperone, stabilising the mutant CFTR in the endoplasmic reticulum and allowing it to reach the cell surface.",
+            "score": 299.0303649902344
+        },
+        {
+            "docid": "33617496_2",
+            "document": "Lumacaftor . Lumacaftor (VX-809) is a pharmaceutical drug that acts as a chaperone during protein folding and increases the number of CFTR proteins that are trafficked to the cell surface. It is available in a single pill with ivacaftor; the combination, lumacaftor/ivacaftor (brand name Orkambi), is used to treat people with cystic fibrosis who have the F508del mutation in the cystic fibrosis transmembrane conductance regulator (CFTR), the defective protein that causes the disease. It was developed by Vertex Pharmaceuticals and the combination was approved by the FDA in 2015. As of 2015 lumacaftor had no medical use on its own.",
+            "score": 289.91522216796875
+        },
+        {
+            "docid": "2447734_4",
+            "document": "\u0394F508 . \u0394F508 is a class II CFTR mutation. The CFTR protein is largely expressed in cells of the pancreas, intestinal and respiratory epithelia, and all exocrine glands. When properly folded, it is shuttled to the cell membrane, where it becomes a transmembrane protein responsible for opening channels which release chloride ions out of cells; it also simultaneously inhibits the uptake of sodium ions by another channel protein. Both of these functions help to maintain an ion gradient that causes osmosis to draw water out of the cells. The \u0394F508 mutation leads to the misfolding of CFTR and its eventual degradation in the ER. In organisms with two complements of the mutation, the protein is entirely absent from the cell membrane, and these critical ion transport functions are not performed.",
+            "score": 281.7104187011719
+        },
+        {
+            "docid": "2447734_2",
+            "document": "\u0394F508 . \u0394F508 (Delta-F508, full name CFTR\u0394F508 or F508del-CFTR; rs113993960) is a specific mutation within the gene for a protein called the cystic fibrosis transmembrane conductance regulator (CFTR). The mutation is a deletion of three nucleotides spanning positions 507 and 508 of the CFTR gene on chromosome 7, which ultimately results in the loss of a single codon for the amino acid phenylalanine (F). A person with the CFTR\u0394F508 mutation will produce an abnormal CFTR protein that lacks this phenylalanine residue and which cannot fold properly. This protein does not escape the endoplasmic reticulum for further processing. Having two copies of this mutation (one inherited from each parent) is by far the most common cause of cystic fibrosis (CF), responsible for nearly two-thirds of cases worldwide.",
+            "score": 279.0155944824219
+        },
+        {
+            "docid": "1230676_3",
+            "document": "Cystic fibrosis transmembrane conductance regulator . The CFTR gene codes for an ABC transporter-class ion channel protein that conducts chloride and thiocyanate ions across epithelial cell membranes. Mutations of the CFTR gene affecting chloride ion channel function lead to dysregulation of epithelial fluid transport in the lung, pancreas and other organs, resulting in cystic fibrosis. Complications include thickened mucus in the lungs with frequent respiratory infections, and pancreatic insufficiency giving rise to malnutrition and diabetes. These conditions lead to chronic disability and reduced life expectancy. In male patients, the progressive obstruction and destruction of the developing vas deferens (spermatic cord) and epididymis appear to result from abnormal intraluminal secretions, causing congenital absence of the vas deferens and male infertility.",
+            "score": 275.96820068359375
+        },
+        {
+            "docid": "611074_20",
+            "document": "Point mutation . A defect in the cystic fibrosis transmembrane conductance regulator (CFTR) gene causes cystic fibrosis (CF). A protein made by this gene controls the movement of the water and salt in and out of the body's cells. Genes in people with CF incorrectly code proteins. This causes thick, sticky mucus and very salty sweat.",
+            "score": 273.0176696777344
+        },
+        {
+            "docid": "50601_67",
+            "document": "Cystic fibrosis . The focus of much CF gene therapy research is aimed at trying to place a normal copy of the \"CFTR\" gene into affected cells. Transferring the normal \"CFTR\" gene into the affected epithelium cells would result in the production of functional CFTR protein in all target cells, without adverse reactions or an inflammation response. To prevent the lung manifestations of CF, only 5\u201310% the normal amount of CFTR gene expression is needed. Multiple approaches have been tested for gene transfer, such as liposomes and viral vectors in animal models and clinical trials. However, both methods were found to be relatively inefficient treatment options, mainly because very few cells take up the vector and express the gene, so the treatment has little effect. Additionally, problems have been noted in cDNA recombination, such that the gene introduced by the treatment is rendered unusable. There has been a functional repair in culture of CFTR by CRISPR/Cas9 in intestinal stem cell organoids of cystic fibrosis patients.",
+            "score": 272.309814453125
+        },
+        {
+            "docid": "617210_11",
+            "document": "Aminoglycoside . The interference with mRNA proofreading has been exploited to treat genetic diseases that result from premature stop codons (leading to early termination of protein synthesis and truncated proteins). Aminoglycosides can cause the cell to overcome the stop codons, insert a random amino acid, and express a full-length protein. The aminoglycoside gentamicin has been used to treat cystic fibrosis (CF) cells in the laboratory to induce them to grow full-length proteins. CF is caused by a mutation in the gene coding for the \"cystic fibrosis transmembrane conductance regulator\" (\"CFTR\") protein. In approximately 10% of CF cases, the mutation in this gene causes its early termination during translation, leading to the formation of is truncated and non-functional CFTR protein. It is believed that gentamicin distorts the structure of the ribosome-RNA complex, leading to a mis-reading of the termination codon, causing the ribosome to \"skip\" over the stop sequence and to continue with the normal elongation and production of the CFTR protein.",
+            "score": 271.5805969238281
+        },
+        {
+            "docid": "1150680_12",
+            "document": "Germline mutation . Cystic Fibrosis is an autosomal recessive disorder that causes a variety of symptoms and complications, the most common of which is a thick mucus lining in lung epithelial tissue due to improper salt exchange, but can also affect the pancreas, intestines, liver, and kidneys. Many bodily processes can be affected due to the hereditary nature of this disease; if the disease is present in the DNA of both the sperm and the egg, then it will be present in essentially every cell and organ in the body; these mutations can occur initially in the germline cells, or be present in all parental cells. The most common mutation seen in this disease is \u0394F508, which means a deletion of the amino acid at the 508 position. If both parents have a mutated CFTR (cystic fibrosis transmembrane conductance regulator) protein, then their children have a 25% of inheriting the disease. If a child has 1 mutated copy of CFTR, they will not develop the disease, but will become a carrier of the disease.",
+            "score": 265.1281433105469
+        },
+        {
+            "docid": "49241310_12",
+            "document": "Anion exchanger family . Animal cells in tissue culture expressing the gene-encoding the ABC-type chloride channel protein CFTR (TC# 3.A.1.202.1) in the plasma membrane have been reported to exhibit cyclic AMP-dependent stimulation of AE activity. Regulation was independent of the Cl conductance function of CFTR, and mutations in the nucleotide-binding domain #2 of CFTR altered regulation independently of their effects on chloride channel activity. These observations may explain impaired HCO secretion in cystic fibrosis patients.",
+            "score": 264.3247985839844
+        },
+        {
+            "docid": "50601_68",
+            "document": "Cystic fibrosis . A number of small molecules that aim at compensating various mutations of the \"CFTR\" gene are under development. One approach is to develop drugs that get the ribosome to overcome the stop codon and synthesize a full-length CFTR protein. About 10% of CF results from a premature stop codon in the DNA, leading to early termination of protein synthesis and truncated proteins. These drugs target nonsense mutations such as G542X, which consists of the amino acid glycine in position 542 being replaced by a stop codon. Aminoglycoside antibiotics interfere with protein synthesis and error-correction. In some cases, they can cause the cell to overcome a premature stop codon by inserting a random amino acid, thereby allowing expression of a full-length protein. The aminoglycoside gentamicin has been used to treat lung cells from CF patients in the laboratory to induce the cells to grow full-length proteins. Another drug targeting nonsense mutations is ataluren, which is undergoing Phase III clinical trials .",
+            "score": 262.61883544921875
+        },
+        {
+            "docid": "50601_17",
+            "document": "Cystic fibrosis . CF is caused by a mutation in the gene cystic fibrosis transmembrane conductance regulator (\"CFTR\"). The most common mutation, \u0394F508, is a deletion (\u0394 signifying deletion) of three nucleotides that results in a loss of the amino acid phenylalanine (F) at the 508th position on the protein. This mutation accounts for two-thirds (66\u201370%) of CF cases worldwide and 90% of cases in the United States; however, over 1500 other mutations can produce CF. Although most people have two working copies (alleles) of the \"CFTR\" gene, only one is needed to prevent cystic fibrosis. CF develops when neither allele can produce a functional CFTR protein. Thus, CF is considered an autosomal recessive disease.",
+            "score": 262.2971496582031
+        },
+        {
+            "docid": "47400657_7",
+            "document": "Lumacaftor/ivacaftor . F508del is a mutation that causes the CFTR protein to misfold and cells destroy such proteins soon after they are made; lumacaftor acts as a chaperone during protein folding and increases the number of CFTR proteins that are trafficked to the cell surface. Ivacaftor is a potentiator of CFTR that is already at the cell surface, increasing the probability that the defective channel will be open and allow chloride ions to pass through the channel pore. The two drugs have synergistic effects.",
+            "score": 260.0728759765625
+        },
+        {
+            "docid": "1230676_8",
+            "document": "Cystic fibrosis transmembrane conductance regulator . It has been hypothesized that mutations in the CFTR gene may confer a selective advantage to heterozygous individuals. Cells expressing a mutant form of the CFTR protein are resistant to invasion by the \"Salmonella typhi\" bacterium, the agent of typhoid fever, and mice carrying a single copy of mutant CFTR are resistant to diarrhea caused by cholera toxin.",
+            "score": 258.9477844238281
+        },
+        {
+            "docid": "8936239_15",
+            "document": "Aggresome . Cystic fibrosis transmembrane conductance regulator (CFTR) is an inefficiently folded integral membrane protein that is degraded by the cytoplasmic ubiquitin-proteasome pathway. Overexpression or inhibition of proteasome activity in transfected human embryonic kidney or Chinese hamster ovary cells leads to the accumulation of stable, high molecular weight, detergent-insoluble, multi-ubiquitinated forms of CFTR. Undergraded CFTR molecules accumulate at a distinct pericentriolar aggresome.",
+            "score": 256.2516174316406
+        },
+        {
+            "docid": "30995223_4",
+            "document": "Ivacaftor . Cystic fibrosis is caused by any one of several defects in the CFTR protein, which regulates fluid flow within cells and affects the components of sweat, digestive fluids, and mucus. One such defect is the G551D mutation, in which the amino acid glycine\u00a0(G) in position 551 is replaced with aspartic acid\u00a0(D). G551D is characterized by a dysfunctional CFTR protein on the cell surface. In the case of G551D, the protein is trafficked to the correct area, the epithelial cell surface, but once there the protein cannot transport chloride through the channel. Ivacaftor, a CFTR potentiator, improves the transport of chloride through the ion channel by binding to the channels directly to induce a non-conventional mode of gating which in turn increases the probability that the channel is open.",
+            "score": 254.90191650390625
+        },
+        {
+            "docid": "9951136_7",
+            "document": "Exonic splicing silencer . Mutations in the CFTR gene are responsible for causing cystic fibrosis. A particular mutation occurs in the CFTR pre-mRNA and leads to the exclusion of exon 9, mRNA lacking this exon folds a truncated protein (a protein shortened by a mutation).",
+            "score": 254.8785858154297
+        },
+        {
+            "docid": "50601_39",
+            "document": "Cystic fibrosis . Ivacaftor is a medication taken by mouth for the treatment of CF due to a number of specific mutations responsive to ivacaftor-induced CFTR protein enhancement. It improves lung function by about 10%; however, as of 2014 it is expensive. The first year it was on the market, the list price was over $300,000 per year in the United States. In July 2015, the U.S. Food and Drug Administration approved lumacaftor/ivacaftor. In 2018, the FDA approved the combination ivacaftor/tezacaftor; the manufacturer announced a list price of $292,000 per year. Tezacaftor helps move the CFTR protein to the correct position on the cell surface, and is designed to treat people with the F508del mutation.",
+            "score": 247.1140899658203
+        },
+        {
+            "docid": "1230676_2",
+            "document": "Cystic fibrosis transmembrane conductance regulator . Cystic fibrosis transmembrane conductance regulator (CFTR) is a membrane protein and chloride channel in vertebrates that is encoded by the \"CFTR\" gene.",
+            "score": 246.0236053466797
+        },
+        {
+            "docid": "4542890_12",
+            "document": "Organoid . Intestinal organoids grown from rectal biopsies using culture protocols established by the Clevers group have been used to model cystic fibrosis, and led to the first application of organoids for personalised treatment. Cystic fibrosis is an inherited disease that is caused by gene mutations of the cystic fibrosis transmembrane conductance regulator gene that encodes an epithelial ion channel necessary for healthy epithelial surface fluids. Studies by the laboratory of Jeffrey Beekman (Wilhelmina Children's Hospital, University Medical Center Utrecht, The Netherlands) described in 2013 that stimulation of colorectal organoids with cAMP-raising agonists such as forskolin or cholera toxin induced rapid swelling of organoids in a fully CFTR dependent manner. Whereas organoids from non-cystic fibrosis subjects swell in response to forskolin as a consequence of fluid transport into the organoids' lumens, this is severely reduced or absent in organoids derived from people with cystic fibrosis. Swelling could be restored by therapeutics that repair the CFTR protein (CFTR modulators), indicating that individual responses to CFTR modulating therapy could be quantitated in a preclinical laboratory setting. Schwank et al. also demonstrated that the intestinal cystic fibrosis organoid phenotype could be repaired by CRISPR-Cas9 gene editing in 2013.",
+            "score": 244.86940002441406
+        },
+        {
+            "docid": "30995223_2",
+            "document": "Ivacaftor . Ivacaftor (trade name Kalydeco) is a drug used to treat cystic fibrosis in people with certain mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene (primarily the G551D mutation), who account for 4\u20135% cases of cystic fibrosis. It is also included in a combination drug, lumacaftor/ivacaftor (trade name \"Orkambi\"), which is used to treat people with cystic fibrosis who have the F508del mutation in CFTR.",
+            "score": 242.53268432617188
+        },
+        {
+            "docid": "1513442_27",
+            "document": "Chloride channel . Cystic fibrosis is caused by mutations in the CFTR gene on chromosome 7, the most common mutation being \u0394F508 (a deletion of a codon coding for phenylalanine, which occupies the 508th amino acid position in the normal CFTR polypeptide). Any of these mutations can prevent the proper folding of the protein and subsequent degradation, resulting in decreased numbers of chloride channels in the body. This causes the buildup of mucus in the body and chronic infections.",
+            "score": 241.25247192382812
+        },
+        {
+            "docid": "18983276_16",
+            "document": "Channel blocker . Cystic Fibrosis transmembrane regulators (CFTRs) function in chloride ion, bicarbonate anion, and fluid transport. They are expressed primarily in apical membranes of epithelial cells in respiratory, pancreatic, gastrointestinal, and reproductive tissues. Abnormally-elevated CFTR function results in excessive fluid secretion. High-affinity CFTR inhibitors, such as CFTR-172 and GlyH-101, have been shown to be efficient in treatment of secretory diarrheas. Theoretically, CFTR channel blockers may also be useful as male contraceptives. CFTR channels mediate bicarbonate anion entry which is essential for sperm capacitation.",
+            "score": 238.32467651367188
+        },
+        {
+            "docid": "30427655_2",
+            "document": "CFTR inhibitory factor . The CFTR inhibitory factor (Cif) is a protein virulence factor secreted by the Gram-negative bacteria \"Pseudomonas aeruginosa\" and \"Acinetobacter nosocomialis\". Discovered at Dartmouth Medical School, Cif is able to alter the trafficking of select ABC transporters in eukaryotic epithelial cells, such as the cystic fibrosis transmembrane conductance regulator (CFTR), and P-glycoprotein by interfering with the host deubiquitinating machinery. By promoting the ubiquitin-mediated degradation of CFTR, Cif is able to phenocopy cystic fibrosis at the cellular level. The \"cif\" gene is transcribed as part of a 3 gene operon, whose expression is negatively regulated by CifR, a TetR family repressor.",
+            "score": 237.16029357910156
+        },
+        {
+            "docid": "50601_22",
+            "document": "Cystic fibrosis . Most of the damage in CF is due to blockage of the narrow passages of affected organs with thickened secretions. These blockages lead to remodeling and infection in the lung, damage by accumulated digestive enzymes in the pancreas, blockage of the intestines by thick feces, etc. Several theories have been posited on how the defects in the protein and cellular function cause the clinical effects. The most current theory suggests that defective ion transport leads to dehydration in the airway epithelia, thickening mucus. In airway epithelial cells, the cilia exist in between the cell's apical surface and mucus in a layer known as airway surface liquid (ASL). The flow of ions from the cell and into this layer is determined by ion channels such as CFTR. CFTR not only allows chloride ions to be drawn from the cell and into the ASL, but it also regulates another channel called ENac, which allows sodium ions to leave the ASL and enter the respiratory epithelium. CFTR normally inhibits this channel, but if the CFTR is defective, then sodium flows freely from the ASL and into the cell. As water follows sodium, the depth of ASL will be depleted and the cilia will be left in the mucous layer. As cilia cannot effectively move in a thick, viscous environment, mucociliary clearance is deficient and a buildup of mucus occurs, clogging small airways. The accumulation of more viscous, nutrient-rich mucus in the lungs allows bacteria to hide from the body's immune system, causing repeated respiratory infections. The presence of the same CFTR proteins in the pancreatic duct and sweat glands in the skin also cause symptoms in these systems.",
+            "score": 235.8658447265625
+        },
+        {
+            "docid": "14161937_10",
+            "document": "HSP90AB1 . Cystic fibrosis (CF, mucoviscidosis) is a genetic disease with increased viscosity of various secretions leading to organ failure of lung, pancreas and other organs. It is caused in nearly all cases by a deletion of phenylalanine 508 of CFTR (cystic fibrosis transmembrane conductance regulator). This mutation causes a maturation defect of this ion channel protein with increased degradation, mediated by HSPs. Deletion of the co-chaperone AHA1 (activator of heat shock 90kDa protein ATPase homolog 1) leads to stabilization of CFTR and opens up a perspective for a new therapy.",
+            "score": 235.4569854736328
+        },
+        {
+            "docid": "6701886_7",
+            "document": "Arylsulfatase B . Expression and activity of ARSB were found to be related to the function of cystic fibrosis transmembrane conductance regulator (CFTR), the membrane channel deficient in cystic fibrosis. Measurements in cystic fibrosis cell line IB3 and its derivative cell line C38, which has a functional CFTR, showed increased ARSB activity and expression in the C38 line. CFTR potentiator VRT-532 increased ARSB expression and activity in cystic fibrosis cells to the level in the normal bronchial epithelial cells.",
+            "score": 235.3857879638672
+        },
+        {
+            "docid": "50601_2",
+            "document": "Cystic fibrosis . Cystic fibrosis (CF) is a genetic disorder that affects mostly the lungs, but also the pancreas, liver, kidneys, and intestine. Long-term issues include difficulty breathing and coughing up mucus as a result of frequent lung infections. Other signs and symptoms may include sinus infections, poor growth, fatty stool, clubbing of the fingers and toes, and infertility in most males. Different people may have different degrees of symptoms. CF is inherited in an autosomal recessive manner. It is caused by the presence of mutations in both copies of the gene for the cystic fibrosis transmembrane conductance regulator (CFTR) protein. Those with a single working copy are carriers and otherwise mostly normal. CFTR is involved in production of sweat, digestive fluids, and mucus. When CFTR is not functional, secretions which are usually thin instead become thick. The condition is diagnosed by a sweat test and genetic testing. Screening of infants at birth takes place in some areas of the world. There is no known cure for cystic fibrosis. Lung infections are treated with antibiotics which may be given intravenously, inhaled, or by mouth. Sometimes, the antibiotic azithromycin is used long term. Inhaled hypertonic saline and salbutamol may also be useful. Lung transplantation may be an option if lung function continues to worsen. Pancreatic enzyme replacement and fat-soluble vitamin supplementation are important, especially in the young. Airway clearance techniques such as chest physiotherapy have some short-term benefit, but long-term effects are unclear. The average life expectancy is between 42 and 50 years in the developed world. Lung problems are responsible for death in 80% of people with cystic fibrosis. CF is most common among people of Northern European ancestry and affects about one out of every 3,000 newborns. About one in 25 people is a carrier. It is least common in Africans and Asians. It was first recognized as a specific disease by Dorothy Andersen in 1938, with descriptions that fit the condition occurring at least as far back as 1595. The name \"cystic fibrosis\" refers to the characteristic fibrosis and cysts that form within the pancreas.",
+            "score": 233.808349609375
+        },
+        {
+            "docid": "47400657_3",
+            "document": "Lumacaftor/ivacaftor . The combination of lumacaftor/ivacaftor is used to treat people with cystic fibrosis who have two copies of the F508del mutation in the cystic fibrosis transmembrane conductance regulator (CFTR), the defective protein that causes the disease. The combination treatment improves lung function about 3% in such people and reduced hospitalization events by about 34%.",
+            "score": 231.4473876953125
+        }
+    ]
+}

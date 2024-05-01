@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "3730562_3",
+            "document": "Cell cycle checkpoint . As the eukaryotic cell cycle is a complex process, eukaryotes have evolved a network of regulatory proteins, known as the cell cycle control system, which monitors and dictates the progression of the cell through the cell cycle. This system acts like a timer, or a clock, which sets a fixed amount of time for the cell to spend in each phase of the cell cycle, while at the same time it also responds to information received from the processes it controls. The cell cycle checkpoints play an important role in the control system by sensing defects that occur during essential processes such as DNA replication or chromosome segregation, and inducing a cell cycle arrest in response until the defects are repaired. The main mechanism of action of the cell cycle checkpoints is through the regulation of the activities of a family of protein kinases known as the cyclin-dependent kinases (CDKs), which bind to different classes of regulator proteins known as cyclins, with specific cyclin-CDK complexes being formed and activated at different phases of the cell cycle. Those complexes, in turn, activate different downstream targets to promote or prevent cell cycle progression.",
+            "score": 58.2206289768219
+        },
+        {
+            "docid": "32190659_2",
+            "document": "CAS/CSE protein family . In molecular biology, the CAS/CSE protein family is a family of proteins which includes mammalian cellular apoptosis susceptibility (CAS) proteins and yeast chromosome-segregation protein, CSE1. CAS is involved in both cellular apoptosis and proliferation. Apoptosis is inhibited in CAS-depleted cells, while the expression of CAS correlates to the degree of cellular proliferation. Like CSE1, it is essential for the mitotic checkpoint in the cell cycle (CAS depletion blocks the cell in the G2 phase), and has been shown to be associated with the microtubule network and the mitotic spindle, as is the protein MEK, which is thought to regulate the intracellular localization (predominantly nuclear vs. predominantly cytosolic) of CAS. In the nucleus, CAS acts as a nuclear transport factor in the importin pathway. The importin pathway mediates the nuclear transport of several proteins that are necessary for mitosis and further progression. CAS is therefore thought to affect the cell cycle through its effect on the nuclear transport of these proteins. Since apoptosis also requires the nuclear import of several proteins (such as P53 and transcription factors), it has been suggested that CAS also enables apoptosis by facilitating the nuclear import of at least a subset of these essential proteins.",
+            "score": 40.63268160820007
+        },
+        {
+            "docid": "12035645_3",
+            "document": "SMC1A . Proper cohesion of sister chromatids is a prerequisite for the correct segregation of chromosomes during cell division. The cohesin multiprotein complex is required for sister chromatid cohesion. This complex is composed partly of two structural maintenance of chromosomes (SMC) proteins, SMC3 and either SMC1L2 or the protein encoded by this gene. Most of the cohesin complexes dissociate from the chromosomes before mitosis, although those complexes at the kinetochore remain. Therefore, the encoded protein is thought to be an important part of functional kinetochores. In addition, this protein interacts with BRCA1 and is phosphorylated by ATM, indicating a potential role for this protein in DNA repair. This gene, which belongs to the SMC gene family, is located in an area of the X-chromosome that escapes X inactivation.",
+            "score": 66.1082878112793
+        },
+        {
+            "docid": "14798224_4",
+            "document": "BUB3 . Bub3 is a crucial component in the formation of the mitotic spindle assembly complex, which forms a complex with other important proteins. For correct segregation of the cells it is necessary for all mitotic spindles to attach correctly to the kinetochore of each chromosome. This is controlled by the mitotic spindle checkpoint complex which operates as a feedback-response. If there is a signal of a defect in the attachment, mitosis will be stopped to ensure that all chromosomes have an amphitelic binding to spindles. After the error is corrected, the cell will proceed to anaphase. The complex of proteins which regulate the cell arrest are BUB1, BUB2, BUB3 (this protein), Mad1, Mad2, Mad3 and MPS1.",
+            "score": 55.20968198776245
+        },
+        {
+            "docid": "13663720_3",
+            "document": "Chromosome segregation . During mitosis chromosome segregation occurs routinely as a step in cell division (see mitosis diagram). As indicated in the mitosis diagram, mitosis is preceded by a round of DNA replication, so that each chromosome forms two copies called chromatids. These chromatids separate to opposite poles, a process facilitated by a protein complex referred to as cohesin. Upon proper segregation, a complete set of chromatids ends up in each of two nuclei, and when cell division is completed, each DNA copy previously referred to as a chromatid is now called a chromosome.",
+            "score": 70.75732898712158
+        },
+        {
+            "docid": "564779_18",
+            "document": "Cell growth . Cell division is more complex in eukaryotes than in other organisms. Prokaryotic cells such as bacterial cells reproduce by binary fission, a process that includes DNA replication, chromosome segregation, and cytokinesis. Eukaryotic cell division either involves mitosis or a more complex process called meiosis. Mitosis and meiosis are sometimes called the two \"nuclear division\" processes. Binary fission is similar to eukaryote cell reproduction that involves mitosis. Both lead to the production of two daughter cells with the same number of chromosomes as the parental cell. Meiosis is used for a special cell reproduction process of diploid organisms. It produces four special daughter cells (gametes) which have half the normal cellular amount of DNA. A male and a female gamete can then combine to produce a zygote, a cell which again has the normal amount of chromosomes.",
+            "score": 78.15156292915344
+        },
+        {
+            "docid": "861613_9",
+            "document": "Condensin . In human tissue culture cells, the two condensin complexes are regulated differently during the cell cycle. Condensin II is present within the cell nucleus during interphase and is involved in an early stage of chromosome condensation within the prophase nucleus. On the other hand, condensin I is present in the cytoplasm during interphase, and gains access to chromosomes only after the nuclear envelope breaks down at the end of prophase. During prometaphase and metaphase, both condensin I and condensin II contribute to the assembly of condensed chromosomes, in which two sister chromatids are fully resolved. The two complexes apparently stay associated with chromosomes after the sister chromatids separate from each other in anaphase. At least one of the subunits of condensin I is known to be a direct target of a cyclin-dependent kinase (Cdk).",
+            "score": 172.53746330738068
+        },
+        {
+            "docid": "9896453_24",
+            "document": "Eukaryotic DNA replication . Cell division cycle 45 (Cdc45) protein is a critical component for the conversion of the pre-replicative complex to the initiation complex. The Cdc45 protein assembles at replication origins before initiation and is required for replication to begin in \"Saccharomyces cerevisiae\", and has an essential role during elongation. Thus, Cdc45 has central roles in both initiation and elongation phases of chromosomal DNA replication.",
+            "score": 50.108644247055054
+        },
+        {
+            "docid": "26676354_9",
+            "document": "Cdc14 . Cdc14 is also involved in regulation of key steps during meiosis in budding yeast. Cdc55, a regulatory subunit of Protein phosphatase 2 (PP2A), sequesters Cdc14 in the nucleolus during early stage of meiosis. The sequestration of Cdc14 is necessary for assembling the meiosis I spindle. Although, the early stage sequestration of Cdc14 is not essential for separation of chromosomes. FEAR (Cdc Fourteen Early Anaphase Release) complex proteins, SLK19 and SPO12 regulate the release of Cdc14. The release of Cdc14 from nucleolus results in cdk1 inactivation and ultimately in disassembly of spindle during Anaphase of meiosis I. Cells deprived of Cdc14 or SLK19 and SPO12 have abnormal meiosis. They have only one division during meiosis. The chromosomes also segregate abnormally. The abnormality arises due to delay in dissembling of spindle during Anaphase I. However, the segregation of chromosomes continue and both the phases of meiotic segregations take place on prolonged meiosis I spindle. Cdc14 along with SPO12 and SLK19 play a critical role in ensuring that the two phases of chromosomal segregation take place consecutively during meiosis.",
+            "score": 86.62882769107819
+        },
+        {
+            "docid": "1502597_17",
+            "document": "Dosage compensation . In this XX/XO sex determination system, gene expression on the X chromosome is equalized by downregulating expression of genes on both X chromosomes of hermaphroditic XX organisms by half. In these XX organisms, the dosage compensation complex (DCC) is assembled on both X chromosomes to allow for this tightly regulated change in transcription levels. The DCC is often compared to the condensin complex, which is conserved across the mitotic and meiotic processes of many species. This complex is crucial to the condensation and segregation of chromosomes during both meiosis and mitosis. Because data substantiates the theory that dosage compensation in other species is caused by chromatin-wide modifications, many theorize that the DCC in particular functions similar to the condensin complex in its ability to condense or remodel the chromatin of the X chromosome.",
+            "score": 125.84643411636353
+        },
+        {
+            "docid": "998893_26",
+            "document": "Kinetochore . When a cell enters in mitosis, it duplicates all the genetic information stored in the chromosomes, in the process termed DNA replication. At the end of this process, each chromosome includes two sister chromatids, which are two complete and identical DNA molecules. Both chromatids remain associated by cohesin complexes until anaphase, when chromosome segregation occurs. If chromosome segregation happens correctly, each daughter cell receives a complete set of chromatids, and for this to happen each sister chromatid has to anchor (through the corresponding kinetochore) to MTs generated in opposed poles of the mitotic spindle. This configuration is termed \"amphitelic\" or \"bi-orientation\".",
+            "score": 61.75156378746033
+        },
+        {
+            "docid": "15213802_4",
+            "document": "SMC5 . Smc5 and Smc6 proteins form a heterodimeric ring-like structure and together with other non-SMC elements form the SMC-5/6 complex. In the worm \"Caenorhabditis elegans\" this complex interacts with the HIM-6(BLM) helicase to promote meiotic recombination intermediate processing and chromosome maturation. The SMC-5/6 complex in mouse oocytes is essential for the formation of segregation competent bivalents during meiosis. In humans, a chromosome breakage syndrome characterized by severe lung disease in early childhood is associated with a mutation in a component of the SMC-5/6 complex. Patient\u2019s cells display chromosome rearrangements, micronuclei, sensitivity to DNA damage and defective homologous recombination.",
+            "score": 51.092445850372314
+        },
+        {
+            "docid": "861613_2",
+            "document": "Condensin . Condensins are large protein complexes that play a central role in chromosome assembly and segregation during mitosis and meiosis.",
+            "score": 122.59115171432495
+        },
+        {
+            "docid": "861613_3",
+            "document": "Condensin . Many eukaryotic cells possess two different types of condensin complexes, known as condensin I and condensin II, each of which is composed of five subunits. Condensins I and II share the same pair of core subunits, SMC2 and SMC4, both belonging to a large family of chromosomal ATPases, known as SMC proteins (SMC stands for Structural Maintenance of Chromosomes). Each of the complexes contains a distinct set of non-SMC regulatory subunits (a kleisin subunit and a pair of HEAT-repeat subunits). The nematode \"Caenorhabditis elegans\" possesses a third complex (closely related to condensin I) that participates in chromosome-wide gene regulation, i.e., dosage compensation. In this complex, known as condensin I, the authentic SMC4 subunit is replaced with its variant, DPY-27.",
+            "score": 166.59970343112946
+        },
+        {
+            "docid": "996341_5",
+            "document": "Spindle checkpoint . To ensure that chromosome segregation takes place correctly, cells have developed a precise and complex mechanism. In the first place, cells must coordinate centrosome duplication with DNA replication, and a failure in this coordination will generate monopolar or multipolar mitotic spindles, which generally will produce abnormal chromosome segregation, because in this case, chromosome distribution will not take place in a balanced way.",
+            "score": 70.59733152389526
+        },
+        {
+            "docid": "7188879_9",
+            "document": "Immortal DNA strand hypothesis . Since these cells were cycling but continued to contain the BrdU label in their DNA, the researchers reasoned that they must be segregating their DNA using an immortal DNA strand mechanism. Joshua Merok \"et al.\" from the lab of James Sherley engineered mammalian cells with an inducible p53 gene that controls asymmetric divisions. BrdU pulse/chase experiments with these cells demonstrated that chromosomes segregated non-randomly only when the cells were induced to divide asymmetrically like adult stem cells. These asymmetrically dividing cells provide an \"in vitro\" model for demonstration and investigation of immortal strand mechanisms.",
+            "score": 73.28279948234558
+        },
+        {
+            "docid": "854294_12",
+            "document": "DNA repair . In human cells, and eukaryotic cells in general, DNA is found in two cellular locations\u00a0\u2014 inside the nucleus and inside the mitochondria. Nuclear DNA (nDNA) exists as chromatin during non-replicative stages of the cell cycle and is condensed into aggregate structures known as chromosomes during cell division. In either state the DNA is highly compacted and wound up around bead-like proteins called histones. Whenever a cell needs to express the genetic information encoded in its nDNA the required chromosomal region is unravelled, genes located therein are expressed, and then the region is condensed back to its resting conformation. Mitochondrial DNA (mtDNA) is located inside mitochondria organelles, exists in multiple copies, and is also tightly associated with a number of proteins to form a complex known as the nucleoid. Inside mitochondria, reactive oxygen species (ROS), or free radicals, byproducts of the constant production of adenosine triphosphate (ATP) via oxidative phosphorylation, create a highly oxidative environment that is known to damage mtDNA. A critical enzyme in counteracting the toxicity of these species is superoxide dismutase, which is present in both the mitochondria and cytoplasm of eukaryotic cells.",
+            "score": 60.82061219215393
+        },
+        {
+            "docid": "481020_6",
+            "document": "Nondisjunction . Division of somatic cells through mitosis is preceded by replication of the genetic material in S phase. As a result, each chromosome consists of two sister chromatids held together at the centromere. In the anaphase of mitosis, sister chromatids separate and migrate to opposite cell poles before the cell divides. Nondisjunction during mitosis leads to one daughter receiving both sister chromatids of the affected chromosome while the other gets none. This is known as a chromatin bridge or an anaphase bridge.  Mitotic nondisjunction results in somatic mosaicism, since only daughter cells originating from the cell where the nondisjunction event has occurred will have an abnormal number of chromosomes. Nondisjunction during mitosis can contribute to the development of some forms of cancer, e.g. retinoblastoma (see below). Chromosome nondisjunction in mitosis can be atrributed to the inactivation of topoisomerase II, condensin, or separase. Meiotic nondisjunction has been well studied in \"Saccharomyces cerevisiae\". This yeast undergoes mitosis similarly to other eukaryotes. Chromosome bridges occur when sister chromatids are held together post replication by DNA-DNA topological entanglement and the cohesion complex. During anaphase, cohesin is cleaved by separase.  Topoisomerase II and condensin are responsible for removing catenations.",
+            "score": 143.0661597251892
+        },
+        {
+            "docid": "14878236_3",
+            "document": "Nucleoporin 133 . The nuclear envelope creates distinct nuclear and cytoplasmic compartments in eukaryotic cells. It consists of two concentric membranes perforated by nuclear pores, large protein complexes that form aqueous channels to regulate the flow of macromolecules between the nucleus and the cytoplasm. These complexes are composed of at least 100 different polypeptide subunits, many of which belong to the nucleoporin family. The nucleoporin protein encoded by this gene displays evolutionarily conserved interactions with other nucleoporins. This protein, which localizes to both sides of the nuclear pore complex at interphase, remains associated with the complex during mitosis and is targeted at early stages to the reforming nuclear envelope. This protein also localizes to kinetochores of mitotic cells.",
+            "score": 41.50421679019928
+        },
+        {
+            "docid": "619197_12",
+            "document": "Cyclin . There are several different cyclins that are active in different parts of the cell cycle and that cause the Cdk to phosphorylate different substrates. There are also several \"orphan\" cyclins for which no Cdk partner has been identified. For example, cyclin F is an orphan cyclin that is essential for G/M transition. A study in \"C. elegans\" revealed the specific roles of mitotic cyclins. Notably, recent studies have shown that cyclin A creates a cellular environment that promotes microtubule detachment from kinetochores in prometaphase to ensure efficient error correction and faithful chromosome segregation. Cells must separate their chromosomes precisely, an event that relies on the bi-oriented attachment of chromosomes to spindle microtubules through specialized structures called kinetochores. In the early phases of division, there are numerous errors in how kinetochores bind to spindle microtubules. The unstable attachments promote the correction of errors by causing a constant detachment, realignment and reattachment of microtubules from kinetochores in the cells as they try to find the correct attachment. Protein cyclin A governs this process by keeping the process going until the errors are eliminated. In normal cells, persistent cyclin A expression prevents the stabilization of microtubules bound to kinetochores even in cells with aligned chromosomes. As levels of cyclin A decline, microtubule attachments become stable, allowing the chromosomes to be divided correctly as cell division proceeds. In contrast, in cyclin A-deficient cells, microtubule attachments are prematurely stabilized. Consequently, these cells may fail to correct errors, leading to higher rates of chromosome mis-segregation.",
+            "score": 79.31175982952118
+        },
+        {
+            "docid": "14798479_4",
+            "document": "NEK6 . It is a protein kinase which plays an important role in mitotic cell cycle progression. Required for chromosome segregation at metaphase-anaphase transition, robust mitotic spindle formation and cytokinesis. Phosphorylates ATF4, CIR1, PTN, RAD26L, RBBP6, RPS7, RPS6KB1, TRIP4, STAT3 and histones H1 and H3. Phosphorylates KIF11 to promote mitotic spindle formation. Involved in G2/M phase cell cycle arrest induced by DNA damage. Inhibition of activity results in apoptosis. May contribute to tumorigenesis by suppressing p53/TP53-induced cancer cell senescence.",
+            "score": 44.05517041683197
+        },
+        {
+            "docid": "13663720_10",
+            "document": "Chromosome segregation . There is evidence that CO recombination facilitates meiotic chromosome segregation. Other studies, however, indicate that chiasma, while supportive, are not essential to meiotic chromosome segregation. The budding yeast \"Saccharomyces cerevisiae\" is a model organism used for studying meiotic recombination. Mutants of \"S. cerevisiae\" defective in CO recombination at the level of Holliday junction resolution were found to efficiently undergo proper chromosome segregation. The pathway that produces the majority of COs in \"S. cerevisiae\", and possibly in mammals, involves a complex of proteins including the MLH1-MLH3 heterodimer (called MutL gamma). MLH1-MLH3 binds preferentially to Holliday junctions. It is an endonuclease that makes single-strand breaks in supercoiled double-stranded DNA, and promotes the formation of CO recombinants. Double mutants deleted for both MLH3 (major pathway) and MMS4 (which is necessary for a minor Holliday junction resolution pathway) showed dramatically reduced crossing over compared to wild-type (6- to 17-fold reduction); however spore viability was reasonably high (62%) and chromosomal disjunction appeared mostly functional.",
+            "score": 54.59816288948059
+        },
+        {
+            "docid": "36796_11",
+            "document": "Paclitaxel . Paclitaxel is one of several cytoskeletal drugs that target tubulin. Paclitaxel-treated cells have defects in mitotic spindle assembly, chromosome segregation, and cell division. Unlike other tubulin-targeting drugs such as colchicine that inhibit microtubule assembly, paclitaxel stabilizes the microtubule polymer and protects it from disassembly. Chromosomes are thus unable to achieve a metaphase spindle configuration. This blocks the progression of mitosis and prolonged activation of the mitotic checkpoint triggers apoptosis or reversion to the G-phase of the cell cycle without cell division.",
+            "score": 59.016027212142944
+        },
+        {
+            "docid": "9896453_82",
+            "document": "Eukaryotic DNA replication . Segregation of chromosomes is another difference between prokaryotic and eukaryotic cells. Rapidly dividing cells, such as bacteria, will often begin to segregate chromosomes that are still in the process of replication. In eukaryotic cells chromosome segregation into the daughter cells is not initiated until replication is complete in all chromosomes. Despite these differences, however, the underlying process of replication is similar for both prokaryotic and eukaryotic DNA.",
+            "score": 70.98738074302673
+        },
+        {
+            "docid": "200189_10",
+            "document": "Spindle apparatus . In a properly formed mitotic spindle, bi-oriented chromosomes are aligned along the equator of the cell with spindle microtubules oriented roughly perpendicular to the chromosomes, their plus-ends embedded in kinetochores and their minus-ends anchored at the cell poles. The precise orientation of this complex is required to ensure accurate chromosome segregation and to specify the cell division plane. However, it remains unclear how the spindle becomes organized. Two models predominate the field, which are synergistic and not mutually exclusive. In the \"search-and-capture model\", the spindle is predominantly organized by the poleward separation of centrosomal microtubule organizing centers (MTOCs). Spindle microtubules emanate from centrosomes and 'seek' out kinetochores; when they bind a kinetochore they become stabilized and exert tension on the chromosomes. In an alternative \"self assembly\" model, microtubules undergo acentrosomal nucleation among the condensed chromosomes. Constrained by cellular dimensions, lateral associations with antiparallel microtubules via motor proteins, and end-on attachments to kinetochores, microtubules naturally adopt a spindle-like structure with chromosomes aligned along the cell equator.",
+            "score": 60.220932841300964
+        },
+        {
+            "docid": "996341_4",
+            "document": "Spindle checkpoint . When cells are ready to divide, because cell size is big enough or because they receive the appropriate stimulus, they activate the mechanism to enter into the cell cycle, and they duplicate most organelles during S (synthesis) phase, including their centrosome. Therefore, when the cell division process will end, each daughter cell will receive a complete set of organelles. At the same time, during S phase all cells must duplicate their DNA very precisely, a process termed DNA replication. Once DNA replication has finished, in eukaryotes the DNA molecule is compacted and condensed, to form the mitotic chromosomes, each one constituted by two sister chromatids, which stay held together by the establishment of cohesion between them; each chromatid is a complete DNA molecule, attached via microtubules to one of the two centrosomes of the dividing cell, located at opposed poles of the cell. The structure formed by the centrosomes and the microtubules is named mitotic spindle, due to its characteristic shape, holding the chromosomes between the two centrosomes. Both sister chromatids stay together until anaphase; at this moment they separate from each other and they travel towards the centrosome to which they are attached. In this way, when the two daughter cells separate at the end of the division process, each one will receive a complete set of chromatids. The mechanism responsible for the correct distribution of sister chromatids during cell division is named chromosome segregation.",
+            "score": 77.42006063461304
+        },
+        {
+            "docid": "7252_2",
+            "document": "Cell cycle . The cell cycle or cell-division cycle is the series of events that take place in a cell leading to its division and duplication of its DNA (DNA replication) to produce two daughter cells. In bacteria, which lack a cell nucleus, the cell cycle is divided into the B, C, and D periods. The B period extends from the end of cell division to the beginning of DNA replication. DNA replication occurs during the C period. The D period refers to the stage between the end of DNA replication and the splitting of the bacterial cell into two daughter cells. In cells with a nucleus, as in eukaryotes, the cell cycle is also divided into three periods: interphase, the mitotic (M) phase, and cytokinesis. During interphase, the cell grows, accumulating nutrients needed for mitosis, preparing it for cell division and duplicating its DNA. During the mitotic phase, the chromosomes separate. During the final stage, cytokinesis, the chromosomes and cytoplasm separate into two new daughter cells. To ensure the proper division of the cell, there are control mechanisms known as cell cycle checkpoints.",
+            "score": 72.87423050403595
+        },
+        {
+            "docid": "308793_16",
+            "document": "Aneuploidy . Mosaicism for aneuploid chromosome content may be part of the constitutional make-up of the mammalian brain. In the normal human brain, brain samples from six individuals ranging from 2\u201386 years of age had mosaicism for chromosome 21 aneuploidy (average of 4% of neurons analyzed). This low-level aneuploidy appears to arise from chromosomal segregation defects during cell division in neuronal precursor cells, and neurons containing such aneuploid chromosome content reportedly integrate into normal circuits.",
+            "score": 72.08417201042175
+        },
+        {
+            "docid": "14817451_3",
+            "document": "ORC3 . The origin recognition complex (ORC) is a highly conserved six subunits protein complex essential for the initiation of the DNA replication in eukaryotic cells. Studies in yeast demonstrated that ORC binds specifically to origins of replication and serves as a platform for the assembly of additional initiation factors such as Cdc6 and Mcm proteins. The protein encoded by this gene is a subunit of the ORC complex. Studies of a similar gene in Drosophila suggested a possible role of this protein in neuronal proliferation and olfactory memory. Alternatively spliced transcript variants encoding distinct isoforms have been reported for this gene.",
+            "score": 39.83544564247131
+        },
+        {
+            "docid": "19522605_2",
+            "document": "Iain Cheeseman . Iain Cheeseman investigates the role of the kinetochore, a group of proteins required for cell division and chromosome segregation. This core network of proteins facilitates the attachment of chromosomes to microtubule polymers\u2014the spindle structures that attach to the ends of cells, pulling and dividing them during cell division. The kinetochore is critical to ensuring duplication without loss or damage to the genetic material. Cheeseman is also investigating the activities of the individual molecular machines that make up this structure and how these proteins are controlled and regulated.",
+            "score": 77.02209520339966
+        },
+        {
+            "docid": "998893_19",
+            "document": "Kinetochore . During the synthesis phase (S phase) in the cell cycle, the centrosome starts to duplicate. Just at the beginning of mitosis, both centrioles in each centrosome reach their maximal length, centrosomes recruit additional material and their nucleation capacity for microtubules increases. As mitosis progresses, both centrosomes separate to establish the mitotic spindle. In this way, the spindle in a mitotic cell has two poles emanating microtubules. Microtubules are long proteic filaments with asymmetric extremes, a \"minus\"(-) end relatively stable next to the centrosome, and a \"plus\"(+) end enduring alternate phases of growing-shrinking, exploring the center of the cell. During this searching process, a microtubule may encounter and capture a chromosome through the kinetochore. Microtubules that find and attach a kinetochore become stabilized, whereas those microtubules remaining free are rapidly depolymerized. As chromosomes have two kinetochores associated back-to-back (one on each sister chromatid), when one of them becomes attached to the microtubules generated by one of the cellular poles, the kinetochore on the sister chromatid becomes exposed to the opposed pole; for this reason, most of the times the second kinetochore becomes attached to the microtubules emanating from the opposing pole, in such a way that chromosomes are now \"bi-oriented\", one fundamental configuration (also termed \"amphitelic\") to ensure the correct segregation of both chromatids when the cell will divide. When just one microtubule is anchored to one kinetochore, it starts a rapid movement of the associated chromosome towards the pole generating that microtubule. This movement is probably mediated by the motor activity towards the \"minus\" (-) of the motor protein cytoplasmic dynein, which is very concentrated in the kinetochores not anchored to MTs. The movement towards the pole is slowed down as far as kinetochores acquire kMTs (MTs anchored to kinetochores) and the movement becomes directed by changes in kMTs length. Dynein is released from kinetochores as they acquire kMTs and, in cultured mammalian cells, it is required for the spindle checkpoint inactivation, but not for chromosome congression in the spindle equator, kMTs acquisition or anaphase A during chromosome segregation. In higher plants or in yeast there is no evidence of dynein, but other kinesins towards the (-) end might compensate for the lack of dynein. Another motor protein implicated in the initial capture of MTs is CENP-E; this is a high molecular weight kinesin associated with the fibrous corona at mammalian kinetochores from prometaphase until anaphase. In cells with low levels of CENP-E, chromosomes lack this protein at their kinetochores, which quite often are defective in their ability to congress at the metaphase plate. In this case, some chromosomes may remain chronically mono-oriented (anchored to only one pole), although most chromosomes may congress correctly at the metaphase plate.",
+            "score": 66.24010717868805
+        },
+        {
+            "docid": "996341_6",
+            "document": "Spindle checkpoint . During S phase, the centrosome starts to duplicate. Just at the beginning of mitosis, both centrioles achieve their maximal length, recruit additional material and their capacity to nucleate microtubules increases. As mitosis progresses, both centrosomes separate to generate the mitotic spindle. In this way, the mitotic spindle has two poles emanating microtubules. Microtubules (MTs) are long proteic filaments, with asymmetric extremities: one end termed \"minus\" (-) end, relatively stable and close to the centrosome, and an end termed \"plus\" (+) end, with alternating phases of growth and retraction, exploring the center of the cell searching the chromosomes. Each chromatid has a special region, named the centromere, on top of which is assembled a proteic structure termed kinetochore, which is able to stabilize the microtubule plus end. Therefore, if by chance a microtubule exploring the center of the cell encounters a kinetochore, it may happen that the kinetochore will capture it, so that the chromosome will become attached to the spindle via the kinetochore of one of its sister chromatids. The chromosome plays an active role in the attachment of kinetochores to the spindle. Bound to the chromatin is a Ran guanine nucleotide exchange factor (GEF) that stimulates cytosolic Ran near the chromosome to bind GTP in place of GDP. The activated GTP-bound form of Ran releases microtubule-stabilizing proteins, such as TPX2, from protein complexes in the cytosol, which induces nucleation and polymerization of microtubules around the chromosomes. These kinetochore-derived microtubules, along with kinesin motor proteins in the outer kinetochore, facilitate interactions with the lateral surface of a spindle pole-derived microtubule. These lateral attachments are unstable, however, and must be converted to an end-on attachment. Conversion from lateral to end-on attachments allows the growth and shrinkage of the microtubule plus-ends to be converted into forces that push and pull chromosomes to achieve proper bi-orientation. As it happens that sister chromatids are attached together and both kinetochores are located back-to-back on both chromatids, when one kinetochore becomes attached to one centrosome, the sister kinetochore becomes exposed to the centrosome located in the opposed pole; for this reason, in most cases the second kinetochore becomes associated to the centrosome in the opposed pole, via its microtubules, so that the chromosomes become \"bi-oriented\", a fundamental configuration (also named \"amphitelic\") to ensure that chromosome segregation will take place correctly when the cell will divide. Occasionally, one of the two sister kinetochores may attach simultaneously to MTs generated by both poles, a configuration named \"merotelic\", which is not detected by the spindle checkpoint but that may generate lagging chromosomes during anaphase and, consequently, aneuploidy. Merotelic orientation (characterized by the absence of tension between sister kinetochores) is frequent at the beginning of mitosis, but the protein Aurora B (a kinase conserved from yeast to vertebrates) detects and eliminates this type of anchoring. (Note: Aurora B is frequently overexpressed in various types of tumors and currently is a target for the development of anticancer drugs.)",
+            "score": 61.31422734260559
+        }
+    ],
+    "r": [
+        {
+            "docid": "861613_9",
+            "document": "Condensin . In human tissue culture cells, the two condensin complexes are regulated differently during the cell cycle. Condensin II is present within the cell nucleus during interphase and is involved in an early stage of chromosome condensation within the prophase nucleus. On the other hand, condensin I is present in the cytoplasm during interphase, and gains access to chromosomes only after the nuclear envelope breaks down at the end of prophase. During prometaphase and metaphase, both condensin I and condensin II contribute to the assembly of condensed chromosomes, in which two sister chromatids are fully resolved. The two complexes apparently stay associated with chromosomes after the sister chromatids separate from each other in anaphase. At least one of the subunits of condensin I is known to be a direct target of a cyclin-dependent kinase (Cdk).",
+            "score": 172.53746032714844
+        },
+        {
+            "docid": "861613_3",
+            "document": "Condensin . Many eukaryotic cells possess two different types of condensin complexes, known as condensin I and condensin II, each of which is composed of five subunits. Condensins I and II share the same pair of core subunits, SMC2 and SMC4, both belonging to a large family of chromosomal ATPases, known as SMC proteins (SMC stands for Structural Maintenance of Chromosomes). Each of the complexes contains a distinct set of non-SMC regulatory subunits (a kleisin subunit and a pair of HEAT-repeat subunits). The nematode \"Caenorhabditis elegans\" possesses a third complex (closely related to condensin I) that participates in chromosome-wide gene regulation, i.e., dosage compensation. In this complex, known as condensin I, the authentic SMC4 subunit is replaced with its variant, DPY-27.",
+            "score": 166.59970092773438
+        },
+        {
+            "docid": "861613_10",
+            "document": "Condensin . Recent studies have shown that condensins participate in a wide variety of chromosome functions outside of mitosis or meiosis. In budding yeast, for instance, condensin I (the sole condensin in this organism) is involved in copy number regulation of the rDNA repeat as well as in clustering of the tRNA genes. In Drosophila, condensin II subunits contribute to the dissolution of polytene chromosomes and the formation of chromosome territories in ovarian nurse cells. Evidence is also available that they negatively regulate transvection in diploid cells. In A. thaliana, condensin II is essential for tolerance of excess boron stress, possibly by alleviating DNA damage. It has been shown that, in human cells, condensin II\u2019s contribution to resolving sister chromatids initiates as early as in S phase.",
+            "score": 163.29159545898438
+        },
+        {
+            "docid": "481020_6",
+            "document": "Nondisjunction . Division of somatic cells through mitosis is preceded by replication of the genetic material in S phase. As a result, each chromosome consists of two sister chromatids held together at the centromere. In the anaphase of mitosis, sister chromatids separate and migrate to opposite cell poles before the cell divides. Nondisjunction during mitosis leads to one daughter receiving both sister chromatids of the affected chromosome while the other gets none. This is known as a chromatin bridge or an anaphase bridge.  Mitotic nondisjunction results in somatic mosaicism, since only daughter cells originating from the cell where the nondisjunction event has occurred will have an abnormal number of chromosomes. Nondisjunction during mitosis can contribute to the development of some forms of cancer, e.g. retinoblastoma (see below). Chromosome nondisjunction in mitosis can be atrributed to the inactivation of topoisomerase II, condensin, or separase. Meiotic nondisjunction has been well studied in \"Saccharomyces cerevisiae\". This yeast undergoes mitosis similarly to other eukaryotes. Chromosome bridges occur when sister chromatids are held together post replication by DNA-DNA topological entanglement and the cohesion complex. During anaphase, cohesin is cleaved by separase.  Topoisomerase II and condensin are responsible for removing catenations.",
+            "score": 143.066162109375
+        },
+        {
+            "docid": "861613_4",
+            "document": "Condensin . The structure and function of condensin I are conserved from yeast to humans, but yeast has no condensin II. There is no apparent relationship between the occurrence of condensin II and the size of eukaryotic genomes. In fact, the primitive red alga \"Cyanidioschyzon merolae\" has both condensins I and II although its genome size is small and comparable to that of yeast.",
+            "score": 131.4398956298828
+        },
+        {
+            "docid": "9874440_18",
+            "document": "Aurora B kinase . In Drosophila cells, Aurora B depletion disrupts chromosome structure and compaction. In these cells, the condensin complex does not localize appropriately to the chromosomes. Similarly, in C. elegans, condensin activity is dependent on Aurora B in metaphase. However, in Xenopus egg cell-free extracts, condensin binding and chromosome condensation occur normally even in the absence of Aurora B. Likewise, after treating cells with an Aurora B enzyme inhibitor (Aurora B localization is not affected), the condensin complex localizes normally.",
+            "score": 131.3451385498047
+        },
+        {
+            "docid": "30766980_2",
+            "document": "NCAPH2 . Condensin-2 complex subunit H2, also known as chromosome-associated protein H2 (CAP-H2) or non-SMC condensin II complex subunit H2 (NCAPH2), is a protein that in humans is encoded by the \"NCAPH2\" gene. CAP-H2 is a subunit of condensin II, a large protein complex involved in chromosome condensation.",
+            "score": 130.89552307128906
+        },
+        {
+            "docid": "15225152_2",
+            "document": "NCAPG . Condensin complex subunit 3 also known as condensin subunit CAP-G (CAP-G) or non-SMC condensin I complex subunit G (NCAPG) is a protein that in humans is encoded by the \"NCAPG\" gene. CAP-G is a subunit of condensin I, a large protein complex involved in chromosome condensation.",
+            "score": 129.88243103027344
+        },
+        {
+            "docid": "15214053_2",
+            "document": "NCAPH . Condensin complex subunit 2 also known as chromosome-associated protein H (CAP-H) or non-SMC condensin I complex subunit H (NCAPH) is a protein that in humans is encoded by the \"NCAPH\" gene. CAP-H is a subunit of condensin I, a large protein complex involved in chromosome condensation",
+            "score": 129.80393981933594
+        },
+        {
+            "docid": "15067003_2",
+            "document": "NCAPD2 . Condensin complex subunit 1 also known as chromosome-associated protein D2 (CAP-D2) or non-SMC condensin I complex subunit D2 (NCAPD2) or XCAP-D2 homolog is a protein that in humans is encoded by the \"NCAPD2\" gene. CAP-D2 is a subunit of condensin I, a large protein complex involved in chromosome condensation.",
+            "score": 128.7158966064453
+        },
+        {
+            "docid": "15213978_2",
+            "document": "NCAPD3 . Condensin-2 complex subunit D3 (CAP-D3) also known as non-SMC condensin II complex subunit D3 (NCAPD3) is a protein that in humans is encoded by the \"NCAPD3\" gene. CAP-D3 is a subunit of condensin II, a large protein complex involved in chromosome condensation.",
+            "score": 127.25249481201172
+        },
+        {
+            "docid": "1502597_17",
+            "document": "Dosage compensation . In this XX/XO sex determination system, gene expression on the X chromosome is equalized by downregulating expression of genes on both X chromosomes of hermaphroditic XX organisms by half. In these XX organisms, the dosage compensation complex (DCC) is assembled on both X chromosomes to allow for this tightly regulated change in transcription levels. The DCC is often compared to the condensin complex, which is conserved across the mitotic and meiotic processes of many species. This complex is crucial to the condensation and segregation of chromosomes during both meiosis and mitosis. Because data substantiates the theory that dosage compensation in other species is caused by chromatin-wide modifications, many theorize that the DCC in particular functions similar to the condensin complex in its ability to condense or remodel the chromatin of the X chromosome.",
+            "score": 125.846435546875
+        },
+        {
+            "docid": "861613_2",
+            "document": "Condensin . Condensins are large protein complexes that play a central role in chromosome assembly and segregation during mitosis and meiosis.",
+            "score": 122.59114837646484
+        },
+        {
+            "docid": "861613_5",
+            "document": "Condensin . Prokaryotic species also have condensin-like complexes that play an important role in chromosome organization and segregation. The prokaryotic condensins can be classified into two types: SMC-ScpAB and MukBEF. Many eubacterial and archaeal species have SMC-ScpAB, whereas a subgroup of eubacteria (known as gamma-proteobacteria) has MukBEF. ScpA and MukF belong to a family of proteins called \"kleisins\", whereas ScpB and MukF have recently been classified into a new family of proteins named \"kite\".",
+            "score": 118.87181091308594
+        },
+        {
+            "docid": "5235851_2",
+            "document": "Neural stem cell . Neural stem cells (NSCs) are self-renewing, multipotent cells that generate the neurons and glia of the nervous system of all animals during embryonic development. Some neural stem cells persist in the adult vertebrate brain and continue to produce neurons throughout life. Stem cells are characterized by their capacity to differentiate into multiple cell types. They undergo symmetric or asymmetric cell division into two daughter cells. In symmetric cell division, both daughter cells are also stem cells. In asymmetric division, a stem cells produces one stem cell and one specialized cell. NSCs primarily differentiate into neurons, astrocytes, and oligodendrocytes.",
+            "score": 117.58190155029297
+        },
+        {
+            "docid": "861613_7",
+            "document": "Condensin . In preparation for the mitosis, it was hypothesized that condensin plays a key role in compaction and segregation of the sister chromatids. The same was demonstrated by the polymer physics simulations. However, the direct evidence for the DNA loop extrusion activity was provided by single-molecule experiments . In that experiments, the activity of individual condensin complexes on DNA was visualized by real-time fluorescence imaging revealing that condensin indeed is a fast loop-extruding motor and single condensin complex can extrude 1500 bp of DNA per second in a strictly ATP dependent manner. Furthermore, these results showed that condensin anchors DNA between kleisin-Ycg1 subunits and pulls DNA asymmetrically to form large loops.",
+            "score": 114.73358154296875
+        },
+        {
+            "docid": "15349776_2",
+            "document": "NCAPG2 . Condensin-2 complex subunit G2 (CAP-G2) also known as chromosome-associated protein G2 (CAP-G2) or leucine zipper protein 5 (LUZP5) is a protein that in humans is encoded by the \"NCAPG2\" gene. CAP-G2 is a subunit of condensin II, a large protein complex involved in chromosome condensation. It interacts with PLK1 through its C-terminal region during mitosis",
+            "score": 113.98909759521484
+        },
+        {
+            "docid": "5097443_10",
+            "document": "DNA supercoil . DNA packaging is greatly increased during nuclear division events such as mitosis or meiosis, where DNA must be compacted and segregated to daughter cells. Condensins and cohesins are \"structural maintenance of chromosome\" (SMC) proteins that aid in the condensation of sister chromatids and the linkage of the centromere in sister chromatids. These SMC proteins induce positive supercoils.",
+            "score": 108.98200225830078
+        },
+        {
+            "docid": "16859731_3",
+            "document": "SMC2 . SMC-2 is a subunit of condensin I and II, large protein complexes involved in chromosome condensation.",
+            "score": 108.54084014892578
+        },
+        {
+            "docid": "15028733_2",
+            "document": "SMC4 . Structural maintenance of chromosomes protein 4 (SMC-4) also known as chromosome-associated polypeptide C (CAP-C) or XCAP-C homolog is a protein that in humans is encoded by the \"SMC4\" gene. SMC-4 is a core subunit of condensin I and II, large protein complexes involved in chromosome condensation.",
+            "score": 105.90170288085938
+        },
+        {
+            "docid": "861613_8",
+            "document": "Condensin . SMC dimers that act as the core subunits of condensins display a highly unique V-shape (see SMC proteins for details). The holocomplex of condensin I has been visualized by electron microscopy.",
+            "score": 99.76124572753906
+        },
+        {
+            "docid": "200189_17",
+            "document": "Spindle apparatus . While these dynamic rearrangements are vitally important to ensure accurate and high-fidelity segregation of the genome, our understanding of mitotic chromosome structure remains largely incomplete. A few specific molecular players have been identified, however: Topoisomerase II uses ATP hydrolysis to catalyze decatenation of DNA entanglements, promoting sister chromatid resolution. Condensins are 5-subunit complexes that also use ATP-hydrolysis to promote chromosome condensation. Experiments in \"Xenopus\" egg extracts have also implicated linker Histone H1 as an important regulator of mitotic chromosome compaction.",
+            "score": 98.78112030029297
+        },
+        {
+            "docid": "998893_23",
+            "document": "Kinetochore . The Ndc80 complex is highly conserved and it has been identified in \"S. pombe\", \"C. elegans\", \"Xenopus\", chicken and humans. Studies on Hec1 (\"highly expressed in cancer cells 1\"), the human homolog of Ndc80p, show that it is important for correct chromosome congression and mitotic progression, and that it interacts with components of the cohesin and condensin complexes.",
+            "score": 97.9802474975586
+        },
+        {
+            "docid": "18976_16",
+            "document": "Meiosis . Meiosis I segregates homologous chromosomes, which are joined as tetrads (2n, 4c), producing two haploid cells (n chromosomes, 23 in humans) which each contain chromatid pairs (1n, 2c). Because the ploidy is reduced from diploid to haploid, meiosis I is referred to as a \"reductional division\". Meiosis II is an \"equational division\" analogous to mitosis, in which the sister chromatids are segregated, creating four haploid daughter cells (1n, 1c). Prophase I is typically the longest phase of meiosis. During prophase I, homologous chromosomes pair and exchange DNA (homologous recombination). This often results in chromosomal crossover. This process is critical for pairing between homologous chromosomes and hence for accurate segregation of the chromosomes at the first meiosis division. The new combinations of DNA created during crossover are a significant source of genetic variation, and result in new combinations of alleles, which may be beneficial. The paired and replicated chromosomes are called bivalents or tetrads, which have two chromosomes and four chromatids, with one chromosome coming from each parent. The process of pairing the homologous chromosomes is called synapsis. At this stage, non-sister chromatids may cross-over at points called chiasmata (plural; singular chiasma). Prophase I has historically been divided into a series of substages which are named according to the appearance of chromosomes.",
+            "score": 97.84783172607422
+        },
+        {
+            "docid": "7115286_7",
+            "document": "Asymmetric cell division . In \"Drosophila melanogaster\", asymmetric cell division plays an important role in neural development. Neuroblasts are the progenitor cells which divide asymmetrically to give rise to another neuroblast and a ganglion mother cell (GMC). The neuroblast repeatedly undergoes this asymmetric cell division while the GMC continues on to produce a pair of neurons. Two proteins play an important role in setting up this asymmetry in the neuroblast, Prospero and Numb. These proteins are both synthesized in the neuroblast and segregate into only the GMC during divisions. Numb is a suppressor of Notch, therefore the asymmetric segregation of Numb to the basal cortex biases the response of the daughter cells to Notch signaling, resulting in two distinct cell fates. Prospero is required for gene regulation in GMCs. It is equally distributed throughout the neuroblast cytoplasm, but becomes localized at the basal cortex when the neuroblast starts to undergo mitosis. Once the GMC buds off from the basal cortex, Prospero becomes translocated into the GMC nucleus to act as a transcription factor.",
+            "score": 97.58531951904297
+        },
+        {
+            "docid": "18976_3",
+            "document": "Meiosis . In meiosis, DNA replication is followed by two rounds of cell division to produce four daughter cells, each with half the number of chromosomes as the original parent cell. The two meiotic divisions are known as Meiosis I and Meiosis II. Before meiosis begins, during S phase of the cell cycle, the DNA of each chromosome is replicated so that it consists of two identical sister chromatids, which remain held together through sister chromatid cohesion. This S-phase can be referred to as \"premeiotic S-phase\" or \"meiotic S-phase\". Immediately following DNA replication, meiotic cells enter a prolonged G2-like stage known as meiotic prophase. During this time, homologous chromosomes pair with each other and undergo genetic recombination, a programmed process in which DNA is cut and then repaired, which allows them to exchange some of their genetic information. A subset of recombination events results in crossovers, which create physical links known as chiasmata (singular: chiasma, for the Greek letter Chi (X)) between the homologous chromosomes. In most organisms, these links are essential to direct each pair of homologous chromosomes to segregate away from each other during Meiosis I, resulting in two haploid cells that have half the number of chromosomes as the parent cell. During Meiosis II, the cohesion between sister chromatids is released and they segregate from one another, as during mitosis. In some cases all four of the meiotic products form gametes such as sperm, spores, or pollen. In female animals, three of the four meiotic products are typically eliminated by extrusion into polar bodies, and only one cell develops to produce an ovum.",
+            "score": 96.70360565185547
+        },
+        {
+            "docid": "26676354_12",
+            "document": "Cdc14 . The targets of Cdc14 are apparently quite diverse. Yeast two-hybrid and affinity capture methods have identified many proteins that potentially interact with ScCdc14, including those known to regulate the cell cycle and DNA replication, or that associate with the spindle or kinetochore. Cdc14 also appears to inhibit RNA polymerase I, which helps allow complete chromosome disjunction by eliminating ribosomal RNA (rRNA) transcripts that otherwise would block condensin binding to rDNA.",
+            "score": 96.70295715332031
+        },
+        {
+            "docid": "48691023_3",
+            "document": "Neurogenesis . During embryonic development, the mammalian central nervous system (CNS; brain and spinal cord) is derived from the neural tube, which contains NSCs that will later generate neurons. However, neurogenesis doesn't begin until a sufficient population of NSCs has been achieved. These early stem cells are called neuroepithelial cells (NEC)s, but soon take on a highly elongated radial morphology and are then known as radial glial cells (RGC)s. RGCs are the primary stem cells of the mammalian CNS, and reside in the embryonic ventricular zone, which lies adjacent to the central fluid-filled cavity (ventricular system) of the neural tube. Following RGC proliferation, neurogenesis involves a final cell division of the parent RGC, which produces one of two possible outcomes. First, this may generate a subclass of neuronal progenitors called intermediate neuronal precursors (INP)s, which will divide one or more additional times to produce neurons. Alternatively, daughter neurons may be produced directly. Neurons do not immediately form neural circuits through the growth of axons and dendrites. Instead, newborn neurons must first migrate long distances to their final destinations, maturing and finally generating neural circuitry. For example, neurons born in the ventricular zone migrate radially to the cortical plate, which is where neurons accumulate to form the cerebral cortex. Thus, the generation of neurons occurs in a specific tissue compartment or 'neurogenic niche' occupied by their parent stem cells.",
+            "score": 95.79856872558594
+        },
+        {
+            "docid": "13663720_8",
+            "document": "Chromosome segregation . Meiotic chromosomal crossover (CO) recombination facilitates the proper segregation of homologous chromosomes. This is because, at the end of meiotic prophase I, CO recombination provides a physical link that holds homologous chromosome pairs together. These linkages are established by chiasmata, which are the cytological manifestations of CO recombination. Together with cohesion linkage between sister chromatids, CO recombination may help ensure the orderly segregation of the paired homologous chromosomes to opposite poles. In support of this, a study of aneuploidy in single spermatozoa by whole genome sequencing found that, on average, human sperm cells with aneuploid autosomes exhibit significantly fewer crossovers than normal cells. After the first chromosome segregation in meiosis I is complete, there is further chromosome segregation during the second equational division of meiosis II. Both proper initial segregation of chromosomes in prophase I and the next chromosome segregation during equational division in meiosis II are required to generate gametes with the correct number of chromosomes.",
+            "score": 94.05061340332031
+        },
+        {
+            "docid": "15214053_3",
+            "document": "NCAPH . CAP-H is a member of the barr protein family and a regulatory subunit of the condensin complex. This complex is required for the conversion of interphase chromatin into condensed chromosomes. CAP-H is associated with mitotic chromosomes, except during the early phase of chromosome condensation. During interphase, the protein has a distinct punctate nucleolar localization.",
+            "score": 93.81929779052734
+        },
+        {
+            "docid": "42069970_13",
+            "document": "Neuronal lineage marker . The standard method of isolating neural stem cells in vitro is with the neurosphere culture system, the method originally used to identify NSCs. After some proliferation, the cells are either induced to differentiate by withdrawing the mitogens or by exposing the cells to another factor that induces some of the cells to develop into different lineages. Cellular fates are analysed by staining with antibodies directed against antigens specific for astrocytes, oligodendrocytes, and neurons. In some cases, cells are plated at low density and monitored to determine if a single cell can give rise to the three phenotypes. Immunomagnetic cell separation strategies using antibodies directed against cell surface markers present on stem cells, progenitors and mature CNS cells have been applied to the study of NSCs. Other non-immunological methods have been used to identify populations of cells from normal and tumorigenic CNS tissues, which demonstrate some of the in vitro properties of stem cells, including high aldehyde dehydrogenase (ALDH) enzyme activity. ALDH cells from embryonic rat and mouse CNS have been isolated and shown to have the ability to generate neurospheres, neurons, astrocytes and oligodendrocytes in vitro, as well as neurons in vivo when transplanted into the adult mouse cerebral cortex. Once a stem cell divides asymmetrically, the more mature progenitor is born and migrates to regions of differentiation. As the progenitor migrates, it matures further until it reaches a site where it stops and either becomes quiescent or fully differentiates into a functioning cell. The major obstacle to identifying and discovering markers that define a stem cell is that the most primitive cells are probably in a quiescent state and do not express many unique antigens. Thus, as with other fields like haematopoiesis, a combination of positive and negative markers will be required to better define the central nervous system stem cell. Nonetheless, changes in the expression levels of specific molecules can be used to indicate the presence of neural stem cells in studies focused on further differentiation toward specific neural lineages. Usual markers used for neural stem cells include Nestin and SOX2. Although Nestin it is expressed predominantly in stem cells of the central nervous system (CNS), its expression is absent from nearly all mature CNS cells, thus it is an efficient marker for neural stem cells. During neurogenesis, Sox2 is expressed throughout developing cells in the neural tube as well as in proliferating CNS progenitors, hence is thought to be centrally important for neural stem cell proliferation and differentiation. In addition to intracellular molecules, products are available to study proteins which are expressed at the cell surface, including ABCG2, FGF R4, and Frizzled-9.",
+            "score": 93.14099884033203
+        },
+        {
+            "docid": "145563_8",
+            "document": "Prophase . DNA that was replicated in interphase is condensed from molecules with lengths reaching 4\u00a0cm to chromosomes that are measured in micrograms. This process employs the condensin complex. Condensed chromosomes consist of two sister chromatids joined at the centromere.",
+            "score": 93.02604675292969
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "603690_2",
+            "document": "Voltage clamp . The voltage clamp is an experimental method used by electrophysiologists to measure the ion currents through the membranes of excitable cells, such as neurons, while holding the membrane voltage at a set level. A basic voltage clamp will iteratively measure the membrane potential, and then change the membrane potential (voltage) to a desired value by adding the necessary current. This \"clamps\" the cell membrane at a desired constant voltage, allowing the voltage clamp to record what currents are delivered. Because the currents applied to the cell must be equal to (and opposite in charge to) the current going across the cell membrane at the set voltage, the recorded currents indicate how the cell reacts to changes in membrane potential. Cell membranes of excitable cells contain many different kinds of ion channels, some of which are voltage-gated. The voltage clamp allows the membrane voltage to be manipulated independently of the ionic currents, allowing the current-voltage relationships of membrane channels to be studied.",
+            "score": 106.21123027801514
+        },
+        {
+            "docid": "156940_12",
+            "document": "Electrophysiology . The voltage clamp technique allows an experimenter to \"clamp\" the cell potential at a chosen value. This makes it possible to measure how much \"ionic current\" crosses a cell's membrane at any given voltage. This is important because many of the ion channels in the membrane of a neuron are voltage-gated ion channels, which open only when the membrane voltage is within a certain range. Voltage clamp measurements of current are made possible by the near-simultaneous digital subtraction of transient capacitive currents that pass as the recording electrode and cell membrane are charged to alter the cell's potential.",
+            "score": 123.1891131401062
+        },
+        {
+            "docid": "2917198_10",
+            "document": "Neuropsychopharmacology . It has previously been known that ultimate control over the membrane voltage or potential of a nerve cell, and thus the firing of the cell, resides with the trans-membrane ion channels which control the membrane currents via the ions K, Na, and Ca, and of lesser importance Mg and Cl. The concentration differences between the inside and outside of the cell determine the membrane voltage.Precisely how these currents are controlled has become much clearer with the advances in receptor structure and G-protein-coupled processes. Many receptors are found to be pentameric clusters of five trans-membrane proteins (not necessarily the same) or \"receptor subunits\", each a chain of many amino acids. Transmitters typically bind at the junction between two of these proteins, on the parts that protrude from the cell membrane. If the receptor is of the ionotropic type, a central pore or channel in the middle of the proteins will be mechanically moved to allow certain ions to flow through, thus altering the ion concentration difference. If the receptor is of the metabotropic type, G-proteins will cause metabolism inside the cell that may eventually change other ion channels. Researchers are better understanding precisely how these changes occur based on the protein structure shapes and chemical properties.",
+            "score": 147.6235762834549
+        },
+        {
+            "docid": "156940_13",
+            "document": "Electrophysiology . The current clamp technique records the membrane potential by injecting current into a cell through the recording electrode. Unlike in the voltage clamp mode, where the membrane potential is held at a level determined by the experimenter, in \"current clamp\" mode the membrane potential is free to vary, and the amplifier records whatever voltage the cell generates on its own or as a result of stimulation. This technique is used to study how a cell responds when electric current enters a cell; this is important for instance for understanding how neurons respond to neurotransmitters that act by opening membrane ion channels.",
+            "score": 97.7751784324646
+        },
+        {
+            "docid": "37688150_15",
+            "document": "Automated patch clamp . Ordinarily, neurons don't grow in suspension cultures, but other cell types can. Some can be transfected with genes to create the membrane ion channels of interest. This means that a cell that normally doesn't have electrical activity can grow ion channels in its membrane that will generate ionic currents. Because the cells are dissociated from one another in suspension cultures, the ionic currents in a single cell can be measured with precision. This allows researchers to study ion channel behavior in more controlled environments without currents from other cells interfering, as usually occurs in neural networks. This is particularly useful in drug screening studies where the target is a specific protein. Because handling cells in suspension is much easier than handling cells in culture or in vivo, patch clamp recordings can be obtained much faster and more reliably this way, which increases productivity, making the screening of thousands of compounds possible.",
+            "score": 140.26009011268616
+        },
+        {
+            "docid": "603690_13",
+            "document": "Voltage clamp . The \"patch-clamp\" technique allows the study of individual ion channels. It uses an electrode with a relatively large tip (> 1 micrometer) that has a smooth surface (rather than a sharp tip). This is a \"patch-clamp electrode\" (as distinct from a \"sharp electrode\" used to impale cells). This electrode is pressed against a cell membrane and suction is applied to pull the cell's membrane inside the electrode tip. The suction causes the cell to form a tight seal with the electrode (a \"gigaohm seal\", as the resistance is more than a gigaohm).",
+            "score": 138.25134205818176
+        },
+        {
+            "docid": "603690_11",
+            "document": "Voltage clamp . The dual-cell voltage clamp technique is a specialized variation of the two electrode voltage clamp, and is only used in the study of gap junction channels. Gap junctions are pores that directly link two cells through which ions and small metabolites flow freely. When two cells in which gap junction proteins are expressed either endogenously or via injection of mRNA, a junction channel will form between the cells. Since two cells are present in the system, two sets of electrodes are used. A recording electrode and a current injecting electrode are inserted into each cell, and each cell is clamped individually (each set of electrodes is attached to a separate apparatus, and integration of data is performed by computer). To record junctional conductance, the current is varied in the first cell while the recording electrode in the second cell records any changes in V for the second cell only. (The process can be reversed with the stimulus occurring in the second cell and recording occurring in the first cell.) Since no variation in current is being induced by the electrode in the recorded cell, any change in voltage must be induced by current crossing into the recorded cell, through the gap junction channels, from the cell in which the current was varied.",
+            "score": 144.5302095413208
+        },
+        {
+            "docid": "156940_15",
+            "document": "Electrophysiology . This technique was developed by Erwin Neher and Bert Sakmann who received the Nobel Prize in 1991. Conventional intracellular recording involves impaling a cell with a fine electrode; patch-clamp recording takes a different approach. A patch-clamp microelectrode is a micropipette with a relatively large tip diameter. The microelectrode is placed next to a cell, and gentle suction is applied through the microelectrode to draw a piece of the cell membrane (the 'patch') into the microelectrode tip; the glass tip forms a high resistance 'seal' with the cell membrane. This configuration is the \"cell-attached\" mode, and it can be used for studying the activity of the ion channels that are present in the patch of membrane. If more suction is now applied, the small patch of membrane in the electrode tip can be displaced, leaving the electrode sealed to the rest of the cell. This \"whole-cell\" mode allows very stable intracellular recording. A disadvantage (compared to conventional intracellular recording with sharp electrodes) is that the intracellular fluid of the cell mixes with the solution inside the recording electrode, and so some important components of the intracellular fluid can be diluted. A variant of this technique, the \"perforated patch\" technique, tries to minimise these problems. Instead of applying suction to displace the membrane patch from the electrode tip, it is also possible to make small holes on the patch with pore-forming agents so that large molecules such as proteins can stay inside the cell and ions can pass through the holes freely. Also the patch of membrane can be pulled away from the rest of the cell. This approach enables the membrane properties of the patch to be analysed pharmacologically.",
+            "score": 124.6340160369873
+        },
+        {
+            "docid": "634052_24",
+            "document": "Patch clamp . To achieve a loose patch clamp on a cell membrane, the pipette is moved slowly towards the cell, until the electrical resistance of the contact between the cell and the pipette increases to a few times greater resistance than that of the electrode alone. The closer the pipette gets to the membrane, the greater the resistance of the pipette tip becomes, but if too close a seal is formed, and it could become difficult to remove the pipette without damaging the cell. For the loose patch technique, the pipette does not get close enough to the membrane to form a gigaseal or a permanent connection, nor to pierce the cell membrane. The cell membrane stays intact, and the lack of a tight seal creates a small gap through which ions can pass outside the cell without entering the pipette.",
+            "score": 114.87425374984741
+        },
+        {
+            "docid": "15303_2",
+            "document": "Ion channel . Ion channels are pore-forming membrane proteins that allow ions to pass through the channel pore. Their functions include establishing a resting membrane potential, shaping action potentials and other electrical signals by gating the flow of ions across the cell membrane, controlling the flow of ions across secretory and epithelial cells, and regulating cell volume. Ion channels are present in the membranes of all excitable cells. Ion channels are one of the two classes of ionophoric proteins, along with ion transporters (including the sodium-potassium pump, sodium-calcium exchanger, and sodium-glucose transport proteins).",
+            "score": 164.6016013622284
+        },
+        {
+            "docid": "12109751_4",
+            "document": "Salt gland . The avian salt gland has two main ducts which are a medial and a lateral. Salt gland activations occurs from increased osmolarity in the blood, stimulating the hypothalamic information processing, sending signal through the parasympathetic nerve activating vasodilation, the release of hormones (acetylcholine and vasoactive intestinal peptide). Acetylcholine binds to the receptor on the basolateral membrane of the gland. This in turn activates calcium release in the epithelial cells, opening potassium channels (flowing potassium out of the cells) on the basolateral membrane and chloride channels on the apical membrane to flow out of the cell. Ions are moved into the epithelial cells by a Na-K-Cl cotransporter, also in the basolateral membrane. Increases in sodium opens the sodium-potassium ATPase channels, removing the excess sodium back out across the basolateral membrane and allowing for potassium to come into the cell. An electrical gradient is formed from the chloride ions, allowing sodium to be passed through the tight junctions of the epithelial cells into the salt gland along with minimal amounts of water. As well, mitochondria rich cells are associated with changes in salt concentration, increasing with higher amounts and decreasing with lower exposure, assisting in the movement of salts. These glands excrete the hypertonic sodium-chloride (with few other ions) by the stimulus of central and peripheral osmoreceptors and volume receptors.",
+            "score": 173.81085193157196
+        },
+        {
+            "docid": "634052_13",
+            "document": "Patch clamp . For ligand-gated ion channels or channels that are modulated by metabotropic receptors, the neurotransmitter or drug being studied is usually included in the pipette solution, where it can interact with what used to be the external surface of the membrane. The resulting channel activity can be attributed to the drug being used, although it is usually not possible to then change the drug concentration inside the pipette. The technique is thus limited to one point in a dose response curve per patch. Therefore, the dose response is accomplished using several cells and patches. However, voltage-gated ion channels can be clamped successively at different membrane potentials in a single patch. This results in channel activation as a function of voltage, and a complete I-V (current-voltage) curve can be established in only one patch. Another potential drawback of this technique is that, just as the intracellular pathways of the cell are not disturbed, they cannot be directly modified either.",
+            "score": 129.7695391178131
+        },
+        {
+            "docid": "1258079_2",
+            "document": "Voltage-gated ion channel . Voltage-gated ion channels are a class of transmembrane proteins that form ion channels that are activated by changes in the electrical membrane potential near the channel. The membrane potential alters the conformation of the channel proteins, regulating their opening and closing. Cell membranes are generally impermeable to ions, thus they must diffuse through the membrane through transmembrane protein channels. They have a crucial role in excitable cells such as neuronal and muscle tissues, allowing a rapid and co-ordinated depolarization in response to triggering voltage change. Found along the axon and at the synapse, voltage-gated ion channels directionally propagate electrical signals. Voltage-gated ion-channels are usually ion-specific, and channels specific to sodium (Na), potassium (K), calcium (Ca), and chloride (Cl) ions have been identified. The opening and closing of the channels are triggered by changing ion concentration, and hence charge gradient, between the sides of the cell membrane.",
+            "score": 146.08130049705505
+        },
+        {
+            "docid": "7079848_27",
+            "document": "Scanning ion-conductance microscopy . SICM has been used in a \"smart patch-clamp\" technique, clamping the pipette by suction to the surface of a cell and then monitoring the activity of the sodium channels in the cell membrane.",
+            "score": 96.69972825050354
+        },
+        {
+            "docid": "21120_10",
+            "document": "Neuron . The key to neural function is the synaptic signaling process, which is partly electrical and partly chemical. The electrical aspect depends on properties of the neuron's membrane. Like all animal cells, the cell body of every neuron is enclosed by a plasma membrane, a bilayer of lipid molecules with many types of protein structures embedded in it. A lipid bilayer is a powerful electrical insulator, but in neurons, many of the protein structures embedded in the membrane are electrically active. These include ion channels that permit electrically charged ions to flow across the membrane and ion pumps that actively transport ions from one side of the membrane to the other. Most ion channels are permeable only to specific types of ions. Some ion channels are voltage gated, meaning that they can be switched between open and closed states by altering the voltage difference across the membrane. Others are chemically gated, meaning that they can be switched between open and closed states by interactions with chemicals that diffuse through the extracellular fluid. The interactions between ion channels and ion pumps produce a voltage difference across the membrane, typically a bit less than 1/10 of a volt at baseline. This voltage has two functions: first, it provides a power source for an assortment of voltage-dependent protein machinery that is embedded in the membrane; second, it provides a basis for electrical signal transmission between different parts of the membrane.",
+            "score": 157.04057049751282
+        },
+        {
+            "docid": "634052_2",
+            "document": "Patch clamp . The patch clamp technique is a laboratory technique in electrophysiology used to study ionic currents in individual isolated living cells, tissue sections, or patches of cell membrane. The technique is especially useful in the study of excitable cells such as neurons, cardiomyocytes, muscle fibers, and pancreatic beta cells, and can also be applied to the study of bacterial ion channels in specially prepared giant spheroplasts.",
+            "score": 101.67711305618286
+        },
+        {
+            "docid": "43313057_11",
+            "document": "Uterine epithelium . Studies have found an increase in claudin-4 within the tight junctions of uterine epithelial cells at the time of implantation and an increase in ENaC in the apical membrane of uterine epithelial cells. The increase in claudin-4 prevents the movement of Na+ ions between the cells, and the appearance of ENaC in the apical membrane allows movement of Na+ ions through the cell, from the lumen into the underlying stroma. There is also an increase in AQP5 in the apical plasma membrane of uterine epithelial cells at time of implantation. The osmotic gradient created by the reabsortion of Na+ ions leads to reabsorption of water through AQP5 channels in the apical plasma membrane which causes the uterine epithelial cells to come into contact with each other and the blastocyst.",
+            "score": 217.66424894332886
+        },
+        {
+            "docid": "2267418_8",
+            "document": "Sucrose gap . The sucrose gap technique allows ion currents to be measured in multicellular tissues. Although voltage clamp and patch clamp methods are also effective in studying the functions of neurons, the sucrose gap technique is easier to perform and less expensive. Furthermore, the sucrose gap technique can provide stable recordings from small cells, such as nerve fibers or smooth muscle cells, for an extended period of time. It is very complicated, however, to achieve similar measurements with intracellular or patch-clamp electrodes because they can physically damage small axons or cells. Because of the arrangement of the sucrose gap chambers, the technique of stimulating the neuron or cell is simple and reliable. This method is also useful in studying the changes in membrane potential in response to different pharmacologically active agents, which can be introduced in the test chamber.",
+            "score": 82.34504055976868
+        },
+        {
+            "docid": "496297_4",
+            "document": "Spheroplast . Specially prepared giant spheroplasts of Gram-negative bacteria can be used to study the function of bacterial ion channels through a technique called patch clamp, which was originally designed for characterizing the behavior of neurons and other excitable cells. To prepare giant spheroplasts, bacteria are grown in a medium containing chemicals that prevent the cells from dividing completely. This causes bacteria to form long \"snakes\" that share a single membrane and cytoplasm. After a period of time, the cell walls of the \"snakes\" are digested, and the bacteria collapse into very large spheres surrounded by a single lipid bilayer. The membrane can then be analyzed on a patch clamp apparatus to determine the phenotype of the ion channels embedded in it. It is also common to overexpress a particular channel to amplify its effect and make it easier to characterize.",
+            "score": 123.55256700515747
+        },
+        {
+            "docid": "156998_70",
+            "document": "Action potential . The 20th century was a significant era for electrophysiology. In 1902 and again in 1912, Julius Bernstein advanced the hypothesis that the action potential resulted from a change in the permeability of the axonal membrane to ions. Bernstein's hypothesis was confirmed by Ken Cole and Howard Curtis, who showed that membrane conductance increases during an action potential. In 1907, Louis Lapicque suggested that the action potential was generated as a threshold was crossed, what would be later shown as a product of the dynamical systems of ionic conductances. In 1949, Alan Hodgkin and Bernard Katz refined Bernstein's hypothesis by considering that the axonal membrane might have different permeabilities to different ions; in particular, they demonstrated the crucial role of the sodium permeability for the action potential. They made the first actual recording of the electrical changes across the neuronal membrane that mediate the action potential. This line of research culminated in the five 1952 papers of Hodgkin, Katz and Andrew Huxley, in which they applied the voltage clamp technique to determine the dependence of the axonal membrane's permeabilities to sodium and potassium ions on voltage and time, from which they were able to reconstruct the action potential quantitatively. Hodgkin and Huxley correlated the properties of their mathematical model with discrete ion channels that could exist in several different states, including \"open\", \"closed\", and \"inactivated\". Their hypotheses were confirmed in the mid-1970s and 1980s by Erwin Neher and Bert Sakmann, who developed the technique of patch clamping to examine the conductance states of individual ion channels. In the 21st century, researchers are beginning to understand the structural basis for these conductance states and for the selectivity of channels for their species of ion, through the atomic-resolution crystal structures, fluorescence distance measurements and cryo-electron microscopy studies.",
+            "score": 107.28966021537781
+        },
+        {
+            "docid": "857170_28",
+            "document": "Cardiac action potential . Ion channels are proteins, that change shape in response to different stimuli to either allow or prevent the movement of specific ions across a membrane (they are said to be selectively permeable). Stimuli, which can either come from outside the cell or from within the cell, can include the binding of a specific molecule to a receptor on the channel (also known as ligand-gated ion channels) or a change in membrane potential around the channel, detected by a sensor (also known as voltage-gated ion channels) and can act to open or close the channel. The pore formed by an ion channel is aqueous (water filled) and allows the ion to rapidly travel across the membrane. Ion channels can be selective for specific ions, so there are Na, K, Ca, and Cl specific channels. They can also be specific for a certain charge of ions (i.e. positive or negative).",
+            "score": 152.89170837402344
+        },
+        {
+            "docid": "18983276_3",
+            "document": "Channel blocker . Ion channels permit the selective passage of ions through cell membranes by utilizing proteins that function as pores, which allow for the passage of electrical charge in and out of the cell. These ion channels are most often gated, meaning they require a specific stimulus to cause the channel to open and close. These ion channel types regulate the flow of charged ions across the membrane and therefore mediate membrane potential of the cell.",
+            "score": 137.16757369041443
+        },
+        {
+            "docid": "777072_13",
+            "document": "Resting potential . For determination of membrane potentials, the two most important types of membrane ion transport proteins are ion channels and ion transporters. Ion channel proteins create paths across cell membranes through which ions can passively diffuse without direct expenditure of metabolic energy. They have selectivity for certain ions, thus, there are potassium-, chloride-, and sodium-selective ion channels. Different cells and even different parts of one cell (dendrites, cell bodies, nodes of Ranvier) will have different amounts of various ion transport proteins. Typically, the amount of certain potassium channels is most important for control of the resting potential (see below). Some ion pumps such as the Na+/K+-ATPase are electrogenic, that is, they produce charge imbalance across the cell membrane and can also contribute directly to the membrane potential. Most pumps use metabolic energy (ATP) to function.",
+            "score": 135.47140049934387
+        },
+        {
+            "docid": "56106124_8",
+            "document": "Cell isolation . Isolated cells can be used to study how cells work, how they change in response to disease, and how they are affected by drugs.\u00a0 An example of an experimental technique which uses isolated cells is patch clamp electrophysiology, used to study how charged particles flow across the cell membrane.\u00a0 Complementary techniques include calcium fluorescence imaging using dyes that emit light in response to calcium to measure how calcium is regulated within the cell, and immunocytochemistry which uses antibodies tagged with a fluorescent marker to identify where proteins are located within a cell. Isolated cells can also be used for cell culture, in which a single cell multiplies to create a colony of cells.",
+            "score": 99.40679001808167
+        },
+        {
+            "docid": "531064_9",
+            "document": "Cell adhesion . Tight junctions are normally present in epithelial and endothelial tissues, where they seal gaps and regulate paracellular transport of solutes and extracellular fluids in these tissues that function as barriers. Tight junction is formed by transmembrane proteins, including claudins, occludins and tricellulins, that bind closely to each other on adjacent membranes in a homophilic manner. Similar to anchoring junctions, intracellular domains of these tight junction proteins are bound with scaffold proteins that keep these proteins in clusters and link them to actin filaments in order to maintain structure of the tight junction. Claudins, essential for formation of tight junctions, form paracellular pores which allow selective passage of specific ions across tight junctions making the barrier selectively permeable.",
+            "score": 219.30732989311218
+        },
+        {
+            "docid": "37688150_16",
+            "document": "Automated patch clamp . Neurons derived from stem cells cultured adherently can be lifted into suspension and have been successfully used on planar patch clamp devices. Ion channels such as voltage-gated sodium channels, voltage-gated potassium channels and ionotropic ligand-gated ion channels opened by the ligand GABA were recorded from these cells using automated and manual patch clamp.",
+            "score": 107.5195996761322
+        },
+        {
+            "docid": "15303_24",
+            "document": "Ion channel . The fundamental properties of currents mediated by ion channels were analyzed by the British biophysicists Alan Hodgkin and Andrew Huxley as part of their Nobel Prize-winning research on the action potential, published in 1952. They built on the work of other physiologists, such as Cole and Baker's research into voltage-gated membrane pores from 1941. The existence of ion channels was confirmed in the 1970s by Bernard Katz and Ricardo Miledi using noise analysis. It was then shown more directly with an electrical recording technique known as the \"patch clamp\", which led to a Nobel Prize to Erwin Neher and Bert Sakmann, the technique's inventors. Hundreds if not thousands of researchers continue to pursue a more detailed understanding of how these proteins work. In recent years the development of automated patch clamp devices helped to increase significantly the throughput in ion channel screening.",
+            "score": 101.09134292602539
+        },
+        {
+            "docid": "24950378_4",
+            "document": "Cell\u2013cell interaction . Tight junctions are multi-protein complexes that hold cells of a same tissue together and prevent movement of water and water-soluble molecules between cells. In epithelial cells, they function also to separate the extracellular fluid surrounding their apical and basolateral membranes. These junctions exist as a continuous band located just below the apical surface between the membranes of neighboring epithelial cells. The tight junctions on adjacent cells line up so as to produce a seal between different tissues and body cavities. For example, the apical surface of gastrointestinal epithelial cells serve as a selective permeable barrier that separates the external environment from the body. The permeability of these junctions is dependent on a variety of factors including protein makeup of that junction, tissue type and signaling from the cells.",
+            "score": 178.42028403282166
+        },
+        {
+            "docid": "777072_3",
+            "document": "Resting potential . Apart from the latter two, which occur in excitable cells (neurons, muscles, and some secretory cells in glands), membrane voltage in the majority of non-excitable cells can also undergo changes in response to environmental or intracellular stimuli . In principle, there is no difference between resting membrane potential and dynamic voltage changes like action potential from a biophysical point of view: all these phenomena are caused by specific changes in membrane permeabilities for potassium, sodium, calcium, and chloride ions, which in turn result from concerted changes in functional activity of various ion channels, ion transporters, and exchangers. Conventionally, resting membrane potential can be defined as a relatively stable, ground value of transmembrane voltage in animal and plant cells. Any voltage is a difference in electric potential between two points\u2014for example, the separation of positive and negative electric charges on opposite sides of a resistive barrier. The typical resting membrane potential of a cell arises from the separation of potassium ions from intracellular, relatively immobile anions across the membrane of the cell. Because the membrane permeability for potassium is much higher than that for other ions (disregarding voltage-gated channels at this stage), and because of the strong chemical gradient for potassium, potassium ions flow from the cytosol into the extracellular space carrying out positive charge, until their movement is balanced by build-up of negative charge on the inner surface of the membrane. Again, because of the high relative permeability for potassium, the resulting membrane potential is almost always close to the potassium reversal potential. But in order for this process to occur, a concentration gradient of potassium ions must first be set up. This work is done by the ion pumps/transporters and/or exchangers and generally is powered by ATP.",
+            "score": 129.83987247943878
+        },
+        {
+            "docid": "634052_20",
+            "document": "Patch clamp . Outside-out patching gives the experimenter the opportunity to examine the properties of an ion channel when it is isolated from the cell and exposed successively to different solutions on the extracellular surface of the membrane. The experimenter can perfuse the same patch with a variety of solutions in a relatively short amount of time, and if the channel is activated by a neurotransmitter or drug from the extracellular face, a dose-response curve can then be obtained. This ability to measure current through exactly the same piece of membrane in different solutions is the distinct advantage of the outside-out patch relative to the cell-attached method. On the other hand, it is more difficult to accomplish. The longer formation process involves more steps that could fail and results in a lower frequency of usable patches.",
+            "score": 98.73029494285583
+        },
+        {
+            "docid": "634052_10",
+            "document": "Patch clamp . Several variations of the basic technique can be applied, depending on what the researcher wants to study. The inside-out and outside-out techniques are called \"excised patch\" techniques, because the patch is excised (removed) from the main body of the cell. Cell-attached and both excised patch techniques are used to study the behavior of individual ion channels in the section of membrane attached to the electrode.",
+            "score": 113.14831829071045
+        },
+        {
+            "docid": "15500265_22",
+            "document": "Intestinal epithelium . Paracellular permeability depends on transport through the spaces that exist between epithelial cells. It is regulated by cellular junctions that are localized in the laminal membranes of the cells. This is the main route of passive flow of water and solutes across the intestinal epithelium. Regulation depends on the intercellular tight junctions which have the most influence on paracellular transport. Studies using the electron microscope showed that the electrical resistance of epithelial layers depends on the complexity and number of filaments within the tight junction transmembrane protein complexes. Also, the plasma membrane resistance and variable transmembrane conductance of the epithelial cells can also modulate paracellular pathway function.",
+            "score": 161.99521279335022
+        }
+    ],
+    "r": [
+        {
+            "docid": "531064_9",
+            "document": "Cell adhesion . Tight junctions are normally present in epithelial and endothelial tissues, where they seal gaps and regulate paracellular transport of solutes and extracellular fluids in these tissues that function as barriers. Tight junction is formed by transmembrane proteins, including claudins, occludins and tricellulins, that bind closely to each other on adjacent membranes in a homophilic manner. Similar to anchoring junctions, intracellular domains of these tight junction proteins are bound with scaffold proteins that keep these proteins in clusters and link them to actin filaments in order to maintain structure of the tight junction. Claudins, essential for formation of tight junctions, form paracellular pores which allow selective passage of specific ions across tight junctions making the barrier selectively permeable.",
+            "score": 219.3073272705078
+        },
+        {
+            "docid": "43313057_11",
+            "document": "Uterine epithelium . Studies have found an increase in claudin-4 within the tight junctions of uterine epithelial cells at the time of implantation and an increase in ENaC in the apical membrane of uterine epithelial cells. The increase in claudin-4 prevents the movement of Na+ ions between the cells, and the appearance of ENaC in the apical membrane allows movement of Na+ ions through the cell, from the lumen into the underlying stroma. There is also an increase in AQP5 in the apical plasma membrane of uterine epithelial cells at time of implantation. The osmotic gradient created by the reabsortion of Na+ ions leads to reabsorption of water through AQP5 channels in the apical plasma membrane which causes the uterine epithelial cells to come into contact with each other and the blastocyst.",
+            "score": 217.66424560546875
+        },
+        {
+            "docid": "3474896_60",
+            "document": "Magnesium transporter . Claudins allow for Mg transport via the paracellular pathway; that is, it mediates the transport of the ion through the tight junctions between cells that form an epithelial cell layer. In particular, Claudin-16 allows the selective reuptake of Mg in the human kidney. Some patients with mutations in the CLDN19 gene also have altered magnesium transport.",
+            "score": 207.43344116210938
+        },
+        {
+            "docid": "14760508_3",
+            "document": "CLDN5 . This gene encodes a member of the claudin family. Claudins are integral membrane proteins and components of tight junction strands. Tight junction strands serve as a physical barrier to prevent solutes and water from passing freely through the paracellular space between epithelial or endothelial cell sheets. Mutations in this gene have been found in patients with velocardiofacial syndrome.",
+            "score": 203.94476318359375
+        },
+        {
+            "docid": "531064_10",
+            "document": "Cell adhesion . Gap junctions are composed of channels called connexons, which consist of transmembrane proteins called connexins clustered in groups of six. Connexons from adjacent cells form continuous channels when they come into contact and align with each other. These channels allow transport of ions and small molecules between cytoplasm of two adjacent cells, apart from holding cells together and provide structural stability like anchoring junctions or tight junctions. Gap junction channels are selectively permeable to specific ions depending on which connexins form the connexons, which allows gap junctions to be involved in cell signalling by regulating the transfer of molecules involved in signalling cascades. Channels can respond to many different stimuli and are regulated dynamically either by rapid mechanisms, such as voltage gating, or by slow mechanism, such as altering numbers of channels present in gap junctions.",
+            "score": 201.49649047851562
+        },
+        {
+            "docid": "57569141_3",
+            "document": "Claudin 25 . This gene encodes a member of the claudin family. Claudins are integral membrane proteins and components of tight junction strands. Tight junction strands serve as a physical barrier to prevent solutes and water from passing freely through the paracellular space between epithelial or endothelial cell sheets, and also play critical roles in maintaining cell polarity and signal transductions. [provided by RefSeq, Jun 2010].",
+            "score": 200.8190155029297
+        },
+        {
+            "docid": "10742573_9",
+            "document": "PKC alpha . Another field of research has indicated that PKC-\u03b1 plays a vital role in epithelial tissue, the tissue that covers all external and internal surfaces of the body. Specifically, PKC-\u03b1 is involved in altering the function of tight junctions. Tight junctions exist at the meeting point between two cells. Here, tight junctions fuse together to form an impermeable barrier to not only large molecules such as proteins, but also smaller molecules like water. This prevents foreign molecules from entering the cell and helps regulate the internal environment of the cell. Cells infected with certain types of epithelial cancer exhibit increased PKC-\u03b1 activity. This is a result of a change in the shape of the cell membrane, particularly in the areas where tight junctions exists. With greater activity of PKC-\u03b1, the tight junctions lose their ability to form a tight barrier. This causes an increased leakiness of the tight junctions and thus movement of molecules into the cells. In intestinal areas, luminal growth factors are able to enter the cell and increase the rate of cell growth. This is thought to be a promotional event that may prolong certain epithelial cancers.",
+            "score": 197.45895385742188
+        },
+        {
+            "docid": "33936765_3",
+            "document": "Drug delivery to the brain . The blood\u2013brain barrier is formed by special tight junctions between the epithelial cells that surround the brain tissue. All tissue is separated by this layer of epithelial cells, however only the brain epithelial cells have these tight junctions that do not allow larger molecules to pass between them. The structure of these tight junctions was first determined in the 1960s by Tom Reese, Morris Kranovsky and Milton Brightman. These tight junctions are formed through the tight apposition of the endothelial cells with one another. Furthermore, astrocytic, \"end feet\" \"the terminal regions of the astrocytic processes surround the outside of the capillary endothelial cell\". The astrocytes are glial cells that are restricted to the brain and spinal cord that work to maintain an appropriate environment for neural signaling. The connection between these glial and endothelial cells is not very well known but it \"may reflect an influence of the astrocytes on the formation and the maintenance of the blood\u2013brain barrier.",
+            "score": 191.0799102783203
+        },
+        {
+            "docid": "14157246_3",
+            "document": "CLDN1 . Tight junctions represent one mode of cell-to-cell adhesion in epithelial or endothelial cell sheets, forming continuous seals around cells and serving as a physical barrier to prevent solutes and water from passing freely through the paracellular space. These junctions are composed of sets of continuous networking strands in the outwardly facing cytoplasmic leaflet, with complementary grooves in the inwardly facing extracytoplasmic leaflet. The protein encoded by this gene, a member of the claudin family, is an integral membrane protein and a component of tight junction strands. Loss of function mutations result in neonatal ichthyosis-sclerosing cholangitis syndrome.",
+            "score": 187.29385375976562
+        },
+        {
+            "docid": "14765895_4",
+            "document": "JAM3 . Tight junctions represent one mode of cell-to-cell adhesion in epithelial or endothelial cell sheets, forming continuous seals around cells and serving as a physical barrier to prevent solutes and water from passing freely through the paracellular space. The protein encoded by this immunoglobulin superfamily gene member is localized in the tight junctions between high endothelial cells. Unlike other proteins in this family, this protein is unable to adhere to leukocyte cell lines and only forms weak homotypic interactions. The encoded protein is a member of the junctional adhesion molecule protein family and acts as a receptor for another member of this family.",
+            "score": 184.81051635742188
+        },
+        {
+            "docid": "56502322_9",
+            "document": "Vaginal epithelium . The junctions between epithelial cells regulate the passage of molecules, bacteria and viruses by functioning as a physical barrier. The three types of structural adhesions between epithelial cells are: tight junctions, adherens junctions, and desmosomes. \"Tight junctions (zonula occludens) are composed of transmembrane proteins that make contact across the intercellular space and create a seal to restrict transmembrane proteins difusion. of molecules across the epithelial sheet. Tight junctions also have an organizing role in epithelial polarization by limiting the mobility of membrane-bound molecules between the apical and basolateral domains of the plasma membrane of each epithelial cell. Adherens junctions (zonula adherens) connect bundles of actin filaments from cell to cell to form a continuous adhesion belt, usually just below the microfilaments.\" Junction integrity changes as the cells move to the upper layers of the epidermis.",
+            "score": 184.72845458984375
+        },
+        {
+            "docid": "15500265_15",
+            "document": "Intestinal epithelium . Tight junctions provide a narrow but modifiable seal between adjacent cells in the epithelial layer and thereby provide selective paracellular transport of solutes. While previously thought to be static structures, tight junctions are now known to be dynamic and can change the size of the opening between cells and thereby adapt to the different states of development, physiologies and pathologies. They function as a selective and semipermeable paracellular barrier between apical and basolateral compartments of the epithelial layer. They function to facilitate the passage of small ions and water-soluble solutes through the paracellular space while preventing the passage of luminal antigens, microorganisms and their toxins.",
+            "score": 182.4217071533203
+        },
+        {
+            "docid": "14760645_3",
+            "document": "CLDN3 . Tight junctions represent one mode of cell-to-cell adhesion in epithelial or endothelial cell sheets, forming continuous seals around cells and serving as a physical barrier to prevent solutes and water from passing freely through the paracellular space. These junctions are composed of sets of continuous networking strands in the outwardly facing cytoplasmic leaflet, with complementary grooves in the inwardly facing extracytoplasmic leaflet. The protein encoded by this intron-less gene, a member of the claudin family, is an integral membrane protein and a component of tight junction strands. It is also a low-affinity receptor for Clostridium perfringens enterotoxin, and shares amino acid sequence similarity with a putative apoptosis-related protein found in rat.",
+            "score": 181.5258026123047
+        },
+        {
+            "docid": "773534_2",
+            "document": "Connexon . In biology, a connexon, also known as a connexin hemichannel, is an assembly of six proteins called connexins that form the pore for a gap junction between the cytoplasm of two adjacent cells. This channel allows for bidirectional flow of ions and signaling molecules. The connexon is the hemichannel supplied by a cell on one side of the junction; two connexons from opposing cells normally come together to form the complete intercellular gap junction channel. However, in some cells, the hemichannel itself is active as a conduit between the cytoplasm and the extracellular space, allowing the transference of ions and small molecules lower than 1-2 KDa. Little is known about this function of connexons besides the new evidence suggesting their key role in intracellular signaling.",
+            "score": 179.05189514160156
+        },
+        {
+            "docid": "56512_10",
+            "document": "Capillary . The capillary wall performs an important function by allowing nutrients and waste substances to pass across it. Molecules larger than 3 nm such as albumin and other large proteins pass through transcellular transport carried inside vesicles, a process which requires them to go through the cells that form the wall. Molecules smaller than 3\u00a0nm such as water, ions and gases cross the capillary wall through the space between cells in a process known as paracellular transport. These transport mechanisms allow bidirectional exchange of substances depending on osmotic gradients and can be further quantified by the Starling equation. Capillaries that form part of the blood\u2013brain barrier however only allow for transcellular transport as tight junctions between endothelial cells seal the paracellular space.",
+            "score": 178.53909301757812
+        },
+        {
+            "docid": "24950378_4",
+            "document": "Cell\u2013cell interaction . Tight junctions are multi-protein complexes that hold cells of a same tissue together and prevent movement of water and water-soluble molecules between cells. In epithelial cells, they function also to separate the extracellular fluid surrounding their apical and basolateral membranes. These junctions exist as a continuous band located just below the apical surface between the membranes of neighboring epithelial cells. The tight junctions on adjacent cells line up so as to produce a seal between different tissues and body cavities. For example, the apical surface of gastrointestinal epithelial cells serve as a selective permeable barrier that separates the external environment from the body. The permeability of these junctions is dependent on a variety of factors including protein makeup of that junction, tissue type and signaling from the cells.",
+            "score": 178.4202880859375
+        },
+        {
+            "docid": "14881176_7",
+            "document": "Cingulin . The function of cingulin has been studied by knockout (KO), knockdown (KD) and over-expression approaches. Embryoid bodies derived from embryonic stem cells where one or both cingulin alleles were targeted by homologous recombination show apparently normal tight junctions, but changes in the expression of a large number of genes, including tight junction protein genes (claudin-2, claudin-6, claudin-7 and occludin) and transcription factors (including GATA4). Changes in the expression of claudin-2 and ZO-3 are also observed in cultured kidney cells (MDCK) depleted of cingulin by shRNA.",
+            "score": 175.1871337890625
+        },
+        {
+            "docid": "12109751_4",
+            "document": "Salt gland . The avian salt gland has two main ducts which are a medial and a lateral. Salt gland activations occurs from increased osmolarity in the blood, stimulating the hypothalamic information processing, sending signal through the parasympathetic nerve activating vasodilation, the release of hormones (acetylcholine and vasoactive intestinal peptide). Acetylcholine binds to the receptor on the basolateral membrane of the gland. This in turn activates calcium release in the epithelial cells, opening potassium channels (flowing potassium out of the cells) on the basolateral membrane and chloride channels on the apical membrane to flow out of the cell. Ions are moved into the epithelial cells by a Na-K-Cl cotransporter, also in the basolateral membrane. Increases in sodium opens the sodium-potassium ATPase channels, removing the excess sodium back out across the basolateral membrane and allowing for potassium to come into the cell. An electrical gradient is formed from the chloride ions, allowing sodium to be passed through the tight junctions of the epithelial cells into the salt gland along with minimal amounts of water. As well, mitochondria rich cells are associated with changes in salt concentration, increasing with higher amounts and decreasing with lower exposure, assisting in the movement of salts. These glands excrete the hypertonic sodium-chloride (with few other ions) by the stimulus of central and peripheral osmoreceptors and volume receptors.",
+            "score": 173.81085205078125
+        },
+        {
+            "docid": "24950378_8",
+            "document": "Cell\u2013cell interaction . Gap junctions are the main site of cell-cell signaling or communication that allow small molecules to diffuse between adjacent cells. In vertebrates, gap junctions are composed of transmembrane proteins called connexins. They form hexagonal pores or channels through which ions, sugars, and other small molecules can pass. Each pore is made of 12 connexin molecules; 6 form a hemichannel on one cell membrane and interact with a hemichannel on an adjacent cell membrane. The permeability of these junctions is regulated by many factors including pH and Ca2+ concentration.",
+            "score": 171.85418701171875
+        },
+        {
+            "docid": "4736024_2",
+            "document": "Claudin . Claudins are a family of proteins which, along with occludin, are the most important components of the tight junctions) (zonulae occludentes). Tight junctions establish the paracellular barrier that controls the flow of molecules in the intercellular space between the cells of an epithelium. They have four transmembrane domains, with the N-terminus and the C-terminus in the cytoplasm.",
+            "score": 171.203125
+        },
+        {
+            "docid": "24950378_11",
+            "document": "Cell\u2013cell interaction . Plant cells are surrounded by cell walls which are barriers for cell-cell communication. This barrier is overcome by specialized junctions called plasmodesmata. They are similar to gap junctions, connecting the cytosol of adjacent cells. Small molecules (<1000 Da), such as ions, amino acids, and sugars, can diffuse freely through plasmodesmata. These small molecules include signaling molecule and transcription factors. The size of the channel is also regulated to allow molecules up to 10,000 Da in size. The permeability of these channels is dependent on many factors, including Ca2+ concentration. An increase in cytosolic Ca2+ concentration will reversibly limit passage through the plasmodesmata. Unlike gap junctions, the cell membranes of adjacent cells merge to form a continuous channel called an annulus. Additionally, within the channel, there is an extension of the endoplasmic reticulum, called a desmotubule, which spans between the cells. The cell-cell interactions facilitated by plasmodesmata play an important role in development of plant cells and tissues and defense against viral infection.",
+            "score": 170.1131134033203
+        },
+        {
+            "docid": "14754140_3",
+            "document": "F11 receptor . Tight junctions represent one mode of cell-to-cell adhesion in epithelial or endothelial cell sheets, forming continuous seals around cells and serving as a physical barrier to prevent solutes and water from passing freely through the paracellular space. The protein encoded by this immunoglobulin superfamily gene member is an important regulator of tight junction assembly in epithelia. In addition, the encoded protein can act as (1) a receptor for reovirus, (2) a ligand for the integrin LFA1, involved in leukocyte transmigration, and (3) a platelet receptor. Multiple transcript variants encoding two different isoforms have been found for this gene.",
+            "score": 169.00753784179688
+        },
+        {
+            "docid": "24950378_5",
+            "document": "Cell\u2013cell interaction . Tight junctions are made up of many different proteins. The four main transmembrane proteins are occludin, claudin, junctional adhesion molecules (JAMs) and tricellulins. The extracellular domains of these proteins form the tight junction barrier by making homophilic (between proteins of the same kind) and heterophilic interactions (between different types of proteins) with the protein domains on adjacent cells. Their cytoplasmic domains interact with the cell cytoskeleton to anchor them.",
+            "score": 168.76434326171875
+        },
+        {
+            "docid": "19818063_11",
+            "document": "Cingulin-like 1 . The function of paracingulin has been mainly studied using knockdown approaches. Paracingulin locally regulates the activity of some members of the Rho GTPases family at the apical junctional region, thus participating in junction assembly and maintenance. Depletion of paracingulin by shRNA in cultured kidney cells (MDCK) does not alter tight or adherens junctions organization. However, it leads to increased levels of the mRNA encoding the tight junction proteins ZO-3 and claudin-2, as well as increased levels of the ZO-3 protein, whereas when combined with the depletion of cingulin, it causes a decrease in the expression of these proteins.",
+            "score": 167.88534545898438
+        },
+        {
+            "docid": "35128374_2",
+            "document": "Intercellular cleft . An intercellular cleft is a channel between two cells through which molecules may travel and gap junctions and tight junctions may be present. Most notably, intercellular clefts are found between epithelial cells and the endothelium of blood vessels and lymphatic vessels, also helping to form the blood-nerve barrier surrounding nerves. Intercellular clefts are important for allowing the transportation of fluids and small solute matter through the endothelium.",
+            "score": 167.7447967529297
+        },
+        {
+            "docid": "15192453_9",
+            "document": "Stress fiber . Tight junctions, or zona occludens, are the most important cellular element for the formation of semi-permeable barriers within or between tissues. Tight junctions primarily consist of claudins and occludins, which are membrane proteins that form the cell-cell contact, as well as ZO-1, ZO-2 and ZO-3, which link tight junctions to the actin cytoskeleton. However, tight junctions have not been found to be directly linked to stress fibers, like they are for focal adhesions and adherens junctions.",
+            "score": 167.25326538085938
+        },
+        {
+            "docid": "20131020_5",
+            "document": "Clostridium enterotoxin . Clostridium enterotoxin is a nine-stranded beta sheet sandwich in shape. It has been determined that it is very similar to other spore-forming bacteria. The PFAM ID is a clenterotox. The binding site is between beta sheets eight and nine. This allows the human claudin-3,4,6,7,8 and 14 to bind but not 1,2,5, and 10. The way the protein work is it destroys the cell membrane structure of animals by binding to claudin family proteins. These are components of tight junctions of the epithelial cell membrane.",
+            "score": 165.21575927734375
+        },
+        {
+            "docid": "35128374_4",
+            "document": "Intercellular cleft . The intercellular cleft is imperative for cell-cell communication. The cleft contains gap junctions, tight junctions, desmosomes, and adheren proteins, all of which help to propagate and/or regulate cell communication through signal transduction, surface receptors, or a chemogradient. In order for a molecule to be taken into the cell either by endocytosis, phagocytosis, or receptor-mediated endocytosis, often that molecule must first enter through the cleft. The intercellular cleft itself is a channel, but what flows through the channel, like ions, fluid, and small molecules and what proteins or junctions give order to the channel is critical for the life of the cells that border the intercellular cleft.",
+            "score": 165.2046661376953
+        },
+        {
+            "docid": "4930095_21",
+            "document": "Pathophysiology of multiple sclerosis . The BBB is composed of endothelial cells which line the blood vessel walls of the central nervous system. Compared to normal endothelial cells, the cells lining the BBB are connected by occludin and claudin which form tight junctions in order to create a barrier to keep out larger molecules such as proteins. In order to pass through, molecules must be taken in by transport proteins or an alteration in the BBB permeability must occur, such as interactions with associated adaptor proteins like ZO-1, ZO-2 and ZO-3.",
+            "score": 164.7700653076172
+        },
+        {
+            "docid": "15303_2",
+            "document": "Ion channel . Ion channels are pore-forming membrane proteins that allow ions to pass through the channel pore. Their functions include establishing a resting membrane potential, shaping action potentials and other electrical signals by gating the flow of ions across the cell membrane, controlling the flow of ions across secretory and epithelial cells, and regulating cell volume. Ion channels are present in the membranes of all excitable cells. Ion channels are one of the two classes of ionophoric proteins, along with ion transporters (including the sodium-potassium pump, sodium-calcium exchanger, and sodium-glucose transport proteins).",
+            "score": 164.6016082763672
+        },
+        {
+            "docid": "15500265_9",
+            "document": "Intestinal epithelium . Gap junctions bring the adjacent cells within 2 nanometers of each other. They are formed by several homologous proteins encoded by the connexin gene family coming together to form a multiprotein complex. The molecular structure of this complex is in the form of a hexamer. The complex, which is embedded in the cell walls of the two joined cells, forms a gap or channel in the middle of the six proteins. This channel allows various molecules, ions and electrical impulses to pass between the two cells.",
+            "score": 164.28640747070312
+        },
+        {
+            "docid": "20131020_4",
+            "document": "Clostridium enterotoxin . The major virulence factor of \"C. perfringens\" is the CPE enterotoxin, which is secreted upon invasion of the host gut, and contributes to food poisoning and other gastrointestinal illnesses. It has a molecular weight of 35.3kDa, and is responsible for the disintegration of tight junctions between epithelial cells in the gut. This mechanism is mediated by host claudin-3 and claudin-4 receptors, situated at the tight junctions.",
+            "score": 162.7975616455078
+        }
+    ]
+}

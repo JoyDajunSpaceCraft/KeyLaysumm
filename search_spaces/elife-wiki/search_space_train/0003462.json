@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "8643335_16",
+            "document": "Piwi-interacting RNA . piRNA has a role in RNA silencing via the formation of an RNA-induced silencing complex (RISC). piRNAs interact with piwi proteins that are part of a family of proteins called the Argonautes. These are active in the testes of mammals and are required for germ-cell and stem-cell development in invertebrates. Three piwi subfamily proteins \u2013 MIWI, MIWI2 and MILI \u2013 have been found to be essential for spermatogenesis in mice. piRNAs direct the piwi proteins to their transposon targets. A decrease or absence of PIWI gene expression is correlated with an increased expression of transposons. Transposons have a high potential to cause deleterious effect on their host, and, in fact, mutations in piRNA pathways are found to reduce fertility in \"D. melanogaster\". Further, it is thought that piRNA and endogenous small interfering RNA (endo-siRNA) may have comparable and even redundant functionality in transposon control in mammalian oocytes.",
+            "score": 30.383699417114258
+        },
+        {
+            "docid": "37879288_3",
+            "document": "Transposon silencing . Piwi-interacting RNA (piRNA), the largest class of the small RNAs, are between 26 and 31 nucleotides in length and function through interactions with piwi proteins from the Argonaute protein family (gene silencing proteins). Many piRNAs are derived from transposons and other repeated elements, and therefore lack specific loci. Other piRNAs that do map to specific locations are clustered in areas near the centromeres or telomeres of the chromosome. piRNA clusters make up ~1% of the genome (Khurana, 4).",
+            "score": 67.68556571006775
+        },
+        {
+            "docid": "37879288_2",
+            "document": "Transposon silencing . Transposon silencing is a form of transcriptional gene silencing targeting transposons. Transcriptional gene silencing is a product of histone modifications that prevent the transcription of a particular area of DNA. Transcriptional silencing of transposons is crucial to the maintenance of a genome. The \u201cjumping\u201d of transposons generates genomic instability and can cause extremely deleterious mutations. Transposable element insertions have been linked to many diseases including hemophilia, severe combined immunodeficiency, and predisposition to cancer. The silencing of transposons is therefore extremely critical in the germline in order to stop transposon mutations from developing and being passed on to the next generation. Additionally, these epigenetic defenses against transposons can be heritable. Studies in \"Drosophila\", \"Arabidopsis thaliana\", and mice all indicate that small interfering RNAs are responsible for transposon silencing. In animals, these siRNAS and piRNAs are most active in the gonads.",
+            "score": 116.8498604297638
+        },
+        {
+            "docid": "49968817_3",
+            "document": "Retrotransposon silencing . Piwi-interacting RNA (piRNA) and endogenous short interfering RNA (esiRNA) are small RNA fragments that partner with cleaving proteins to act as guides to a retrotransposon. piRNA and PIWI protein complexes are a common defense mechanism against retrotransposons in the germline\u2014sperm or egg cells\u2014cells that are extremely vulnerable to retrotransposon induced mutations. Once retrotransposon RNA has been encountered, the piRNA/ PIWI protein complex cleaves the RNA, rendering it unable to reverse transcribe. EsiRNA and its protein complex may also function to promote heterochromatin creation near retrotransposon sites, silencing the DNA by making it difficult for DNA polymerases to access it. Although it is unclear how piRNAs and esiRNAs are produced, it is thought that retrotransposon cleaving by PIWI may produce new piRNA, in the so called ping pong theory. Production of piRNA in both the male and female germline is known to be regulated by the nuage, a protein-RNA hybrid also sometimes called the intermitochondrial cement, the absence of which causes infertility in males but not females. This may imply that retrotransposon induced mutations may be more prevalent or more devastating in the male germline. A microRNA\u2014another type of small RNA\u2014from strawberries has been shown to post transcriptionally silence retrotransposon function by blocking the binding site for proteins involved in reverse transcription.",
+            "score": 74.12657356262207
+        },
+        {
+            "docid": "8643335_2",
+            "document": "Piwi-interacting RNA . Piwi-interacting RNA (piRNA) is the largest class of small non-coding RNA molecules expressed in animal cells. piRNAs form RNA-protein complexes through interactions with piwi proteins. These piRNA complexes have been linked to both epigenetic and post-transcriptional gene silencing of retrotransposons and other genetic elements in germ line cells, particularly those in spermatogenesis. They are distinct from microRNA (miRNA) in size (26\u201331 nt rather than 21\u201324 nt), lack of sequence conservation, and increased complexity.",
+            "score": 56.52177929878235
+        },
+        {
+            "docid": "8643335_15",
+            "document": "Piwi-interacting RNA . The wide variation in piRNA sequences and piwi function over species contributes to the difficulty in establishing the functionality of piRNAs. However, like other small RNAs, piRNAs are thought to be involved in gene silencing, specifically the silencing of transposons. The majority of piRNAs are antisense to transposon sequences, suggesting that transposons are the piRNA target. In mammals it appears that the activity of piRNAs in transposon silencing is most important during the development of the embryo, and in both \"C. elegans\" and humans, piRNAs are necessary for spermatogenesis.",
+            "score": 24.616400957107544
+        },
+        {
+            "docid": "9418169_10",
+            "document": "Piwi . Recently, a novel class of longer-than-average miRNAs known as Piwi-interacting RNAs (piRNAs) has been defined in mammalian cells, about 26-31 nucleotides long as compared to the more typical miRNA or siRNA of about 21 nucleotides. These piRNAs are expressed mainly in spermatogenic cells in the testes of mammals. However recent studies have reported that piRNA expression can be found in the ovarian somatic cells and neuron cells in invertebrates, as well as in many other mammalian somatic cells. piRNAs have been identified in the genomes of mice, rats, and humans, with an unusual \"clustered\" genomic organization that may originate from repetitive regions of the genome such as retrotransposons or regions normally organized into heterochromatin, and which are normally derived exclusively from the antisense strand of double-stranded RNA. piRNAs have thus been classified as \"repeat-associated small interfering RNAs\" (rasiRNAs). Although their biogenesis is not yet well understood, piRNAs and Piwi proteins are thought to form an endogenous system for silencing the expression of selfish genetic elements such as retrotransposons and thus preventing the gene products of such sequences from interfering with germ cell formation.",
+            "score": 75.21101129055023
+        },
+        {
+            "docid": "196493_26",
+            "document": "Non-coding RNA . Piwi-interacting RNAs (piRNAs) expressed in mammalian testes and somatic cells form RNA-protein complexes with Piwi proteins. These piRNA complexes (piRCs) have been linked to transcriptional gene silencing of retrotransposons and other genetic elements in germ line cells, particularly those in spermatogenesis.",
+            "score": 52.41907978057861
+        },
+        {
+            "docid": "339838_10",
+            "document": "Molecular genetics . A mutation in a gene can cause encoded proteins and the cells that rely on those proteins to malfunction. Conditions related to gene mutations are called genetic disorders. However, altering a patient's genes can sometimes be used to treat or cure a disease as well. Gene therapy can be used to replace a mutated gene with the correct copy of the gene, to inactivate or knockout the expression of a malfunctioning gene, or to introduce a foreign gene to the body to help fight disease. Major diseases that can be treated with gene therapy include viral infections, cancers, and inherited disorders, including immune system disorders.",
+            "score": 47.95690131187439
+        },
+        {
+            "docid": "9418169_2",
+            "document": "Piwi . Piwi (or PIWI) genes were identified as regulatory proteins responsible for stem cell and germ cell differentiation. Piwi is an abbreviation of P-element Induced WImpy testis in \"Drosophila\". Piwi proteins are highly conserved RNA-binding proteins and are present in both plants and animals. Piwi proteins belong to the Argonaute/Piwi family and have been classified as nuclear proteins. Studies on \"Drosophila\" have also indicated that Piwi proteins have slicer activity conferred by the presence of the Piwi domain. In addition, Piwi associates with Heterochromatin protein 1, an epigenetic modifier, and piRNA-complementary sequences. These are indications of the role Piwi plays in epigenetic regulation. Piwi proteins are also thought to control the biogenesis of piRNA as many Piwi-like proteins contain slicer activity which would allow Piwi proteins to process precursor piRNA into mature piRNA.",
+            "score": 70.5679281949997
+        },
+        {
+            "docid": "240850_8",
+            "document": "Gene silencing . RNA interference (RNAi) is a natural process used by cells to regulate gene expression. It was discovered in 1998 by Andrew Fire and Craig Mello, who won the Nobel Prize for their discovery in 2006. The process to silence genes first begins with the entrance of a double-stranded RNA (dsRNA) molecule into the cell, which triggers the RNAi pathway. The double-stranded molecule is then cut into small double-stranded fragments by an enzyme called Dicer. These small fragments, which include small interfering RNAs (siRNA) and microRNA (miRNA), are approximately 21\u201323 nucleotides in length. The fragments integrate into a multi-subunit protein called the RNA-induced silencing complex, which contains Argonaute proteins that are essential components of the RNAi pathway. One strand of the molecule, called the \"guide\" strand, binds to RISC, while the other strand, known as the \"passenger\" strand is degraded. The guide or antisense strand of the fragment that remains bound to RISC directs the sequence-specific silencing of the target mRNA molecule. The genes can be silenced by siRNA molecules that cause the endonucleatic cleavage of the target mRNA molecules or by miRNA molecules that suppress translation of the mRNA molecule. With the cleavage or translational repression of the mRNA molecules, the genes that form them are essentially inactive. RNAi is thought to have evolved as a cellular defense mechanism against invaders, such as RNA viruses, or to combat the proliferation of transposons within a cell's DNA. Both RNA viruses and transposons can exist as double-stranded RNA and lead to the activation of RNAi. Currently, siRNAs are being widely used to suppress specific gene expression and to assess the function of genes. Companies utilizing this approach include Alnylam, Sanofi, Arrowhead, Discerna, and Persomics, among others.",
+            "score": 59.27463352680206
+        },
+        {
+            "docid": "8406655_16",
+            "document": "Introduction to genetics . The information in DNA is held in the sequence of the repeating units along the DNA chain. These units are four types of nucleotides (A,T,G and C) and the sequence of nucleotides stores information in an alphabet called the genetic code. When a gene is read by a cell the DNA sequence is copied into a very similar molecule called RNA (this process is called transcription). Transcription is controlled by other DNA sequences (such as promoters), which show a cell where genes are, and control how often they are copied. The RNA copy made from a gene is then fed through a structure called a ribosome, which translates the sequence of nucleotides in the RNA into the correct sequence of amino acids and joins these amino acids together to make a complete protein chain. The new protein then folds up into its active form. The process of moving information from the language of RNA into the language of amino acids is called translation.",
+            "score": 66.6130919456482
+        },
+        {
+            "docid": "9236_19",
+            "document": "Evolution . Heritable traits are passed from one generation to the next via DNA, a molecule that encodes genetic information. DNA is a long biopolymer composed of four types of bases. The sequence of bases along a particular DNA molecule specify the genetic information, in a manner similar to a sequence of letters spelling out a sentence. Before a cell divides, the DNA is copied, so that each of the resulting two cells will inherit the DNA sequence. Portions of a DNA molecule that specify a single functional unit are called genes; different genes have different sequences of bases. Within cells, the long strands of DNA form condensed structures called chromosomes. The specific location of a DNA sequence within a chromosome is known as a locus. If the DNA sequence at a locus varies between individuals, the different forms of this sequence are called alleles. DNA sequences can change through mutations, producing new alleles. If a mutation occurs within a gene, the new allele may affect the trait that the gene controls, altering the phenotype of the organism. However, while this simple correspondence between an allele and a trait works in some cases, most traits are more complex and are controlled by quantitative trait loci (multiple interacting genes).",
+            "score": 69.42081546783447
+        },
+        {
+            "docid": "8643335_8",
+            "document": "Piwi-interacting RNA . The biogenesis of piRNAs is not yet fully understood, although possible mechanisms have been proposed. piRNAs show a significant strand bias, that is, they are derived from one strand of DNA only, and this may indicate that they are the product of long single stranded precursor molecules. A primary processing pathway is suggested to be the only pathway used to produce pachytene piRNAs; in this mechanism, piRNA precursors are transcribed resulting in piRNAs with a tendency to target 5\u2019 uridines. Also proposed is a \u2018Ping Pong\u2019 mechanism wherein primary piRNAs recognise their complementary targets and cause the recruitment of piwi proteins. This results in the cleavage of the transcript at a point ten nucleotides from the 5\u2019 end of the primary piRNA, producing the secondary piRNA. These secondary piRNAs are targeted toward sequences that possess an adenine at the tenth position. Since the piRNA involved in the ping pong cycle directs its attacks on transposon transcripts, the ping pong cycle acts only at the level of transcription. One or both of these mechanisms may be acting in different species; \"C. elegans\", for instance, does have piRNAs, but does not appear to use the ping pong mechanism at all.",
+            "score": 44.01101839542389
+        },
+        {
+            "docid": "8643335_11",
+            "document": "Piwi-interacting RNA . The piRNA Ping-Pong pathway was first proposed from studies in \"Drosophila\" where the piRNA associated with the two cytoplasmic Piwi proteins, Aubergine (Aub) and Argonaute-3 (Ago3) exhibited a high frequency of sequence complementarity over exactly 10 nucleotides at their 5' ends. This relationship is known as the \"ping-pong signature\" and is also observed in associated piRNA from Mili and Miwi2 proteins isolated from mouse testes. The proposed function of Ping-Pong in \"Drosophila\" or in mouse remains to be understood, but a leading hypothesis is that the interaction between Aub and Ago3 allows for a cyclic refinement of piRNA that are best suited to target active transposon sequences. Aub piRNA are primarily antisense to transposable element transcripts and are believed to be the main factor in targeting deleterious transcripts through complementarity. Conversely, Ago3 piRNA sequences are predominantly of sense orientation to transposable element transcripts and are derived from the product of Aub cleavage of transposon mRNA. As such, Ago3 piRNA lack the ability to target transposable element transcripts directly. Therefore, it was proposed that Ago3 piRNA guide the production of piRNA that are loaded into Aub by targeting newly exported piRNA cluster transcripts. Several lines of evidence support the effect of Ago3 on the production of Aub piRNA, in particular from examining the piRNA repertoire in \"Drosophila\" ovaries that are mutant for Ago3 and the Tudor-domain protein Kumo/Qin.",
+            "score": 48.82751989364624
+        },
+        {
+            "docid": "49399_12",
+            "document": "XY sex-determination system . It has long been believed that the female form was the default template for the mammalian fetuses of both sexes. After the discovery of the testis-determining gene SRY, many scientists shifted to the theory that the genetic mechanism that causes a fetus to develop into a male form was initiated by the SRY gene, which was thought to be responsible for the production of testosterone and its overall effects on body and brain development. This perspective still shares the classical way of thinking; that in order to produce two sexes, nature has developed a default female pathway and an active pathway by which male genes would initiate the process of determining a male sex, as something that is developed in addition to and based on the default female form. However, In an interview for the \"Rediscovering Biology\" website, researcher Eric Vilain described how the paradigm changed since the discovery of the SRY gene: In mammals, including humans, the SRY gene is responsible with triggering the development of non-differentiated gonads into testes, rather than ovaries. However, there are cases in which testes can develop in the absence of an SRY gene (see sex reversal). In these cases, the SOX9 gene, involved in the development of testes, can induce their development without the aid of SRY. In the absence of SRY and SOX9, no testes can develop and the path is clear for the development of ovaries. Even so, the absence of the SRY gene or the silencing of the SOX9 gene are not enough to trigger sexual differentiation of a fetus in the female direction. A recent finding suggests that ovary development and maintenance is an active process, regulated by the expression of a \"pro-female\" gene, FOXL2. In an interview for the \"TimesOnline\" edition, study co-author Robin Lovell-Badge explained the significance of the discovery: Looking into the genetic determinants of human sex can have wide-ranging consequences. Scientists have been studying different sex determination systems in fruit flies and animal models to attempt an understanding of how the genetics of sexual differentiation can influence biological processes like reproduction, ageing and disease.",
+            "score": 107.24793767929077
+        },
+        {
+            "docid": "11017274_10",
+            "document": "Ogataea polymorpha . In Fig. 2 the general design of a vector (a genetic vehicle to transform a yeast strain into a genetically engineered protein producer). It must contain several genetic elements: 1. A selection marker, required to select a transformed strain from an untransformed background \u2013this can be done if for instance such an element enables a deficient strain to grow under culturing conditions void of a certain compound like a particular amino acid that cannot be produced by the deficient strain). 2. Certain elements to propagate and to target the foreign DNA to the chromosome of the yeast (ARS and/or rDNA sequence). 3. A segment responsible for the production of the desired protein compound a so-called expression cassette. Such a cassette is made up by a sequence of regulatory elements, a promoter that controls, how much and under which circumstances a following gene sequence is transcribed and as a consequence how much protein is eventually made. This means that the segment following the promoter is variable depending on the desired product \u2013 it could be a sequence determining the amino acids for insulin, for hepatitis B vaccine or for interferon. The expression cassette is terminated by a following terminator sequence that provides a proper stop of the transcription. The promoter elements of the \"O. polymorpha\" system are derived from genes that are highly expressed, from instance from the MOX gene, the \"FMD\" gene or the \"TPS1\" gene mentioned before. They are not only very strong, but can also be regulated by certain addition of carbon sources like sugar, methanol or glycerol. In 2000 an informal society of scientists was founded named HPWN (\"Hansenula polymorpha\" worldwide network) founded by Prof. Marten Veenhuis, Groningen, and Prof, Dr. Gerd Gellissen, D\u00fcsseldorf. Every two years meetings are organized.",
+            "score": 111.49104428291321
+        },
+        {
+            "docid": "38978090_4",
+            "document": "Maelstrom gene . Short RNAs are well-known to silence TEs (transposable elements) through the RNAi (RNA interference) pathway, and Piwi-associated RNAs (piRNAs) play a crucial role in transposon silencing in the germline. The Maelstrom protein forms a complex with piRISC to silence transposons and therefore stabilize the germline cell genome.",
+            "score": 65.264155626297
+        },
+        {
+            "docid": "37879288_4",
+            "document": "Transposon silencing . piRNAs were first observed in Drosophila in 1990 (Johnson, 2). In 2003, piRNAs derived largely from repeated sequence elements, including transposons, were found in abundance in male and female \"Drosophila\" germlines (Theurkauf, 5). Since then, several studies have identified various piRNAs and piwi-pathways involved in transposon silencing in various species. Two such genome defense systems against transposons are the silencing of the MuDR transposon in maize and the silencing of P elements in \"Drosophila\".",
+            "score": 120.63339686393738
+        },
+        {
+            "docid": "9418169_7",
+            "document": "Piwi . PIWI proteins play a crucial role in fertility and germline development across animals and ciliates. Recently identified as a polar granule component, PIWI proteins appear to control germ cell formation so much so that in the absence of PIWI proteins there is a significant decrease in germ cell formation. Similar observations were made with the mouse homologs of PIWI, MILI, MIWI and MIWI2. These homologs are known to be present in spermatogenesis. Miwi is expressed in various stages of spermatocyte formation and spermatid elongation where Miwi2 is expressed in Sertoli cells. Mice deficient in either Mili or Miwi-2 have experienced spermatogenic stem cell arrest and those lacking Miwi-2 underwent a degradation of spermatogonia. The effects of piwi proteins in human and mouse germlines seems to stem from their involvement in translation control as Piwi and the small noncoding RNA, piwi-interacting RNA (piRNA), have been known to co-fractionate polysomes. The piwi-piRNA pathway also induces heterochromatin formation at centromeres, thus affecting transcription. The piwi-piRNA pathway also appears to protect the genome. First observed in Drosophila, mutant piwi-piRNA pathways led to a direct increase in dsDNA breaks in ovarian germ cells. The role of the piwi-piRNA pathway in transposon silencing may be responsible for the reduction in dsDNA breaks in germ cells.",
+            "score": 31.69857680797577
+        },
+        {
+            "docid": "38057969_18",
+            "document": "Progeroid syndromes . BS is caused by mutations in the BLM gene, which encodes for the Bloom syndrome protein, a RecQ helicase. These mutations may be frameshift, missense, non-sense, or mutations of other kinds and are likely to cause deletions in the gene product. Apart from helicase activity that is common to all RecQ helices, it also acts to prevent inappropriate homologous recombination. During replication of the genome, the two copies of DNA, called sister chromatids, are held together through a structure called the centromere. During this time, the homologous (corresponding) copies are in close physical proximity to each other, allowing them to 'cross' and exchange genetic information, a process called homologous recombination. Defective homologous recombination can cause mutation and genetic instability. Such defective recombination can introduce gaps and breaks within the genome and disrupt the function of genes, possibly causing growth retardation, aging and elevated risk of cancer. It introduces gaps and breaks within the genome and disrupts the function of genes, often causing retardation of growth, aging and elevated risks of cancers. The Bloom syndrome protein interacts with other proteins, such as topoisomerase III\u03b1 and RMI2, and suppresses illegitimate recombination events between sequences that are divergent from strict homology, thus maintaining genome stability. Individuals with BS have a loss-of-function mutation, which means that the illegitimate recombination is no longer suppressed, leading to higher rates of mutation (~10-100 times above normal, depending on cell type).",
+            "score": 87.36442375183105
+        },
+        {
+            "docid": "47878_8",
+            "document": "Huntington's disease . All humans have two copies of the Huntingtin gene (\"HTT\"), which codes for the protein Huntingtin (HTT). The gene is also called \"HD\" and \"IT15\", which stands for 'interesting transcript 15'. Part of this gene is a repeated section called a trinucleotide repeat, which varies in length between individuals and may change length between generations. If the repeat is present in a healthy gene, a dynamic mutation may increase the repeat count and result in a defective gene. When the length of this repeated section reaches a certain threshold, it produces an altered form of the protein, called mutant Huntingtin protein (mHTT). The differing functions of these proteins are the cause of pathological changes which in turn cause the disease symptoms. The Huntington's disease mutation is genetically dominant and almost fully penetrant: mutation of either of a person's \"HTT\" alleles causes the disease. It is not inherited according to sex, but the length of the repeated section of the gene and hence its severity can be influenced by the sex of the affected parent.",
+            "score": 73.43294417858124
+        },
+        {
+            "docid": "2123234_3",
+            "document": "Torsion dystonia . The disease is caused by a genetic disorder which results in a defect in a protein called Torsin A. A mutation in the DYT1 gene causes the loss of an amino acid, glutamic acid, in the Torsin A protein. The defective protein creates a disruption in communication in neurons that control muscle movement and muscle control. This mutation is most usually inherited from a parent, but can occur sporadically. The disease is caused by a dominant allele, meaning that the person affected needs only one copy of the mutated DYT1 gene to have symptoms. However, only 30 to 40 percent of those that do have the gene actually have symptoms, leading researchers to believe that there are other factors involved.",
+            "score": 63.25184726715088
+        },
+        {
+            "docid": "5824073_12",
+            "document": "High-content screening . This technology allows a (very) large number of experiments to be performed, allowing explorative screening. Cell-based systems are mainly used in chemical genetics where large, diverse small molecule collections are systematically tested for their effect on cellular model systems. Novel drugs can be found using screens of tens of thousands of molecules, and these have promise for the future of drug development.  Beyond drug discovery, chemical genetics is aimed at functionalizing the genome by identifying small molecules that acts on most of the 21,000 gene products in a cell. High-content technology will be part of this effort which could provide useful tools for learning where and when proteins act by knocking them out chemically. This would be most useful for gene where knock out mice (missing one or several genes) can not be made because the protein is required for development, growth or otherwise lethal when it is not there. Chemical knock out could address how and where these genes work. Further the technology is used in combination with RNAi to identify sets of genes involved in specific mechanisms, for example cell division. Here, libraries of RNAis, covering a whole set of predicted genes inside the target organism's genome can be used to identify relevant subsets, facilitating the annotation of genes for which no clear role has been established beforehand. The large datasets produced by automated cell biology contain spatially resolved, quantitative data which can be used for building for systems level models and simulations of how cells and organisms function. Systems biology models of cell function would permit prediction of why, where and how the cell responds to external changes, growth and disease.",
+            "score": 74.49950325489044
+        },
+        {
+            "docid": "19852895_18",
+            "document": "Introduction to evolution . Genes are made of DNA. DNA is a long molecule made up of individual molecules called nucleotides. Genetic information is encoded in the sequence of nucleotides, that make up the DNA, just as the sequence of the letters in words carries information on a page. The genes are like short instructions built up of the \"letters\" of the DNA alphabet. Put together, the entire set of these genes gives enough information to serve as an \"instruction manual\" of how to build and run an organism. The instructions spelled out by this DNA alphabet can be changed, however, by mutations, and this may alter the instructions carried within the genes. Within the cell, the genes are carried in chromosomes, which are packages for carrying the DNA. It is the reshuffling of the chromosomes that results in unique combinations of genes in offspring. Since genes interact with one another during the development of an organism, novel combinations of genes produced by sexual reproduction can increase the genetic variability of the population even without new mutations. The genetic variability of a population can also increase when members of that population interbreed with individuals from a different population causing gene flow between the populations. This can introduce genes into a population that were not present before.",
+            "score": 92.92768621444702
+        },
+        {
+            "docid": "47886489_3",
+            "document": "Conservative transposition . A simple, or conservative, transposon refers to the specific genetic sequence that is moved via conservative transposition. These specific genetic sequences range in size, they can be hundreds to thousands of nucleotide base-pairs long. A transposon contains genetic sequences that encode for proteins that mediate its own movement, but can also carry genes for additional proteins. Transposase is encoded within the transposon DNA and used to facilitate its own movement, making this process self-sufficient within organisms. All simple transposons contain a transposase encoding region flanked by terminal inverted repeats, but the additional genes within the transposon DNA can vary. Viruses, for example, encode the essential viral transposase needed for conservative transposition as well as protective coat proteins that allow them to survive outside of cells, thus promoting the spread of mobile genetic elements.",
+            "score": 112.2718198299408
+        },
+        {
+            "docid": "13457_5",
+            "document": "Heredity . Heritable traits are known to be passed from one generation to the next via DNA, a molecule that encodes genetic information. DNA is a long polymer that incorporates four types of bases, which are interchangeable. The sequence of bases along a particular DNA molecule specifies the genetic information: this is comparable to a sequence of letters spelling out a passage of text. Before a cell divides through mitosis, the DNA is copied, so that each of the resulting two cells will inherit the DNA sequence. A portion of a DNA molecule that specifies a single functional unit is called a gene; different genes have different sequences of bases. Within cells, the long strands of DNA form condensed structures called chromosomes. Organisms inherit genetic material from their parents in the form of homologous chromosomes, containing a unique combination of DNA sequences that code for genes. The specific location of a DNA sequence within a chromosome is known as a locus. If the DNA sequence at a particular locus varies between individuals, the different forms of this sequence are called alleles. DNA sequences can change through mutations, producing new alleles. If a mutation occurs within a gene, the new allele may affect the trait that the gene controls, altering the phenotype of the organism.",
+            "score": 71.04948377609253
+        },
+        {
+            "docid": "8643335_18",
+            "document": "Piwi-interacting RNA . piRNAs can be transmitted maternally, and based on research in \"D. melanogaster\", piRNAs may be involved in maternally derived epigenetic effects. The activity of specific piRNAs in the epigenetic process also requires interactions between piwi proteins and HP1a, as well as other factors.",
+            "score": 14.604150295257568
+        },
+        {
+            "docid": "3284977_3",
+            "document": "P element . All P elements have a canonical structure containing 31 bp terminal inverted repeats and 11 bp internal inverted repeats located at THAP domain of the transposase. The shorter and longest P elements are nonautonomous elements. The longest \"P\" elements encode transposase needed for transposition. In hybrid dysgenesis, one strain of \"Drosophila\" mates with another strait of \"Drosophila\" producing hybrid offspring cause chromosomal damage known to be dysgenic. Hybrid dysgenesis requires a contribution from both parents. For example, in the \"P-M system,\" P strain contributing paternal \"and\" M strain contributing maternal. The reverse cross, with M father and P mother, produces normal offspring, as it crosses P x P or M x M manner. P male chromosome can cause dysgenesis when cross with an M female.",
+            "score": 284.7446585893631
+        },
+        {
+            "docid": "14625155_2",
+            "document": "RasiRNA . Repeat associated small interfering RNA (rasiRNA) is a class of small RNA that is involved in the RNA interference (RNAi) pathway. RasiRNA are in fact Piwi-interacting RNAs (piRNAs), which are small RNA molecules that interact with Piwi proteins. Piwi proteins are a clade of the Argonaute family of proteins. In the germline, RasiRNA is involved in establishing and maintaining heterochromatin structure, controlling transcripts that emerge from repeat sequences, and silencing transposons and retrotransposons.",
+            "score": 14.045401811599731
+        },
+        {
+            "docid": "25162957_2",
+            "document": "Transposons as a genetic tool . Transposons are semi-parasitic DNA sequences which can replicate and spread through the host's genome. They can be harnessed as a genetic tool for analysis of gene and protein function. The use of transposons is well-developed in \"Drosophila\" (in which P elements are most commonly used) and in Thale cress (\"Arabidopsis thaliana\") and bacteria such as \"Escherichia coli\" (\"E. coli\"\u00a0).",
+            "score": 166.35432744026184
+        },
+        {
+            "docid": "50847_6",
+            "document": "Oswald Avery . For many years, genetic information was thought to be contained in cell protein. Continuing the research done by Frederick Griffith in 1927, Avery worked with MacLeod and McCarty on the mystery of inheritance. He had received emeritus status from the Rockefeller Institute in 1943, but continued working for five years, though by that time he was in his late sixties. Techniques were available to remove various organic compounds from bacteria, and if the remaining organic compounds were still able to cause R strain bacteria to transform then the substances removed could not be the carrier of genes. S-strain bacteria first had the large cellular structures removed. Then they were treated with protease enzymes, which removed the proteins from the cells before the remainder was placed with R strain bacteria. The R strain bacteria transformed, meaning that proteins did not carry the genes causing the disease. Then the remnants of the R strain bacteria were treated with a deoxyribonuclease enzyme which removed the DNA. After this treatment, the R strain bacteria no longer transformed. This indicated that DNA was the carrier of genes in cells.",
+            "score": 89.48424220085144
+        }
+    ],
+    "r": [
+        {
+            "docid": "3284977_3",
+            "document": "P element . All P elements have a canonical structure containing 31 bp terminal inverted repeats and 11 bp internal inverted repeats located at THAP domain of the transposase. The shorter and longest P elements are nonautonomous elements. The longest \"P\" elements encode transposase needed for transposition. In hybrid dysgenesis, one strain of \"Drosophila\" mates with another strait of \"Drosophila\" producing hybrid offspring cause chromosomal damage known to be dysgenic. Hybrid dysgenesis requires a contribution from both parents. For example, in the \"P-M system,\" P strain contributing paternal \"and\" M strain contributing maternal. The reverse cross, with M father and P mother, produces normal offspring, as it crosses P x P or M x M manner. P male chromosome can cause dysgenesis when cross with an M female.",
+            "score": 284.7446594238281
+        },
+        {
+            "docid": "3284977_10",
+            "document": "P element . Hybrid dysgenesis manifests when crossing P strain males with M strain females and not when crossing P strain females (females with autonomous P elements) with M strain males. The eggs of P strain females contain high amounts of a repressor protein that prevents transcription of the transposase gene. The eggs of M strain mothers, which do not contain the repressor protein, allow for transposition of P elements from the sperm of fathers. In P strain females, the repressors are found in the cytoplasm. Hence, when P strain males fertilize M strain females (whose cytoplasm contain no repressor), the male contributes its genome with the P element but not the male cytoplasm leading to P strain progeny.",
+            "score": 254.18008422851562
+        },
+        {
+            "docid": "3284977_2",
+            "document": "P element . P elements are transposable elements that were discovered in \"Drosophila\" as the causative agents of genetic traits called hybrid dysgenesis. The transposon is responsible for P trait of P element and it is found only in wild flies.",
+            "score": 236.17868041992188
+        },
+        {
+            "docid": "37879288_6",
+            "document": "Transposon silencing . P elements are a family of transposons that recently proliferated within the genome of \"Drosophila melanogaster\". The P elements have an extremely high transposition rate and induce sterility and abnormal gonad development in \"D. melanogaster\" (Johnson, 2). The flies thus developed a maternally inherited technique for combating the invasive DNA and silencing the transposons, now known as P cytotype. P cytotype detects DNA sequences in areas of telomeric heterochromatin and silences those sequences when they are found elsewhere in the genome. This is referred to as the telomeric-silencing effect (TSE) (2). Just two P elements in the telomere are enough to suppress over 80 other copies of the P element in the genome. The cytoplasmic factor used for TSE builds up over generations and suppression of the transposons is not fully effective unless the fly\u2019s female-line ancestors have had the P element for six generations (2).",
+            "score": 232.5797882080078
+        },
+        {
+            "docid": "3284977_6",
+            "document": "P element . The P element encodes for the protein P transposase and is flanked by terminal inverted repeats which are important for its mobility. Unlike laboratory strain females, wild type females are thought to express an inhibitor to P transposase function. This inhibitor reduces the disruption to the genome caused by the P elements, allowing fertile progeny. Evidence for this comes from crosses of laboratory females (which lack P transposase inhibitor) with wild type males (which have P elements). In the absence of the inhibitor, the P elements can proliferate throughout the genome, disrupting many genes and killing progeny.",
+            "score": 221.1702423095703
+        },
+        {
+            "docid": "3284977_8",
+            "document": "P element . Hybrid dysgenesis refers to the high rate of mutation in germ line cells of \"Drosophila\" strains resulting from a cross of males with autonomous P elements (P Strain/P cytotype) and females that lack P elements (M Strain/M cytotype). The hybrid dysgenesis syndrome is marked by temperature-dependent sterility, elevated mutation rates, and increased chromosome rearrangement and recombination.",
+            "score": 218.70242309570312
+        },
+        {
+            "docid": "3284977_9",
+            "document": "P element . The hybrid dysgenesis phenotype is affected by the transposition of P elements within the germ-line cells of offspring of \"P strain\" males with \"M strain\" females. Transposition only occurs in germ-line cells, because a splicing event needed to make transposase mRNA does not occur in somatic cells.",
+            "score": 215.1047821044922
+        },
+        {
+            "docid": "4099290_20",
+            "document": "Transgene . Multiple studies have been conducted concerning transgenesis in \"Drosophila melanogaster\", the fruit fly. This organism has been a helpful genetic model for over 100 years, due to its well-understood developmental pattern. The transfer of transgenes into the \"Drosophila\" genome has been performed using various techniques, including P element, Cre-loxP, and \u03a6C31 insertion. The most practiced method used thus far to insert transgenes into the \"Drosophila\" genome utilizes P elements. The transposable P elements, also known as transposons, are segments of bacterial DNA that are translocated into the genome, without the presence of a complementary sequence in the host\u2019s genome. P elements are administered in pairs of two, which flank the DNA insertion region of interest. Additionally, P elements often consist of two plasmid components, one known as the P element transposase and the other, the P transposon backbone. The transposase plasmid portion drives the transposition of the P transposon backbone, containing the transgene of interest and often a marker, between the two terminal sites of the transposon. Success of this insertion results in the nonreversible addition of the transgene of interest into the genome. While this method has been proven effective, the insertion sites of the P elements are often uncontrollable, resulting in an unfavorable, random insertion of the transgene into the \"Drosophila\" genome.",
+            "score": 200.12265014648438
+        },
+        {
+            "docid": "173204_43",
+            "document": "Drosophila melanogaster . It is now relatively simple to generate transgenic flies in Drosophila, relying on a variety of techniques. One approach of inserting foreign genes into the \"Drosophila\" genome involves P elements. The transposable P elements, also known as transposons, are segments of bacterial DNA that are transferred into the fly genome. Transgenic flies have already contributed to many scientific advances, e.g., modeling such human diseases as Parkinson's, neoplasia, obesity, and diabetes.",
+            "score": 195.6463623046875
+        },
+        {
+            "docid": "3284977_7",
+            "document": "P element . The P element is a class II transposon, and moves by a DNA-based \"cut and paste\" mechanism. The sequence comprises 4 exons with 3 introns. Complete splicing of the introns produces the transposase enzyme, while alternative partial splicing of intron 1 and 2 leaving in only intron 3 encodes the P element repressor. The complete, autonomous P element encodes a transposase enzyme, which recognizes the 31 bp terminal inverted repeats of the P element and catalyzes P element excision and re-insertion. The complete element is 2907 bp; non-autonomous P elements contain an internal deletion of varying length which abolishes transposase production, but such elements can still be mobilized if transposase is encoded elsewhere in the genome. P element insertion and subsequent excision results in the production of 8 bp direct repeats, and the presence of such repeats is indicative of previous P element activity.",
+            "score": 192.15045166015625
+        },
+        {
+            "docid": "12137768_22",
+            "document": "Steroidogenic factor 1 . Two SF-1 variants associated with primary adrenal failure and complete gonadal dysgenesis have been reported as caused by \"NR5A1\" mutations. One reported case was found to have \"de novo\" heterozygous p.G35E change to the P-box domain. The affected region allows for DNA binding specificity through interactions with regulatory response elements of target genes. This p.G35E change may have a mild competitive or dominant negative effect on transactivation resulting in severe gonadal defects and adrenal dysfunction. Similarly, homozygous p.R92Q change within the A-box interfered with monomeric binding stability and reduced functional activity. This change requires mutations to both allele to display phenotypic effects as heterozygous carriers showed normal adrenal function.",
+            "score": 190.96450805664062
+        },
+        {
+            "docid": "2248919_2",
+            "document": "Providencia (bacterium) . Providencia is a Gram-negative, motile bacterium of the family Enterobacteriaceae. Some strains (\"P. stuartii\", for example) are opportunistic pathogens in humans and can cause urinary tract infections, particularly in patients with long-term indwelling urinary catheters or extensive severe burns. Other strains (for example \"P. burhodogranariea\" and \"P. sneebia\") are found in the haemolymph of \"Drosophila melanogaster\" fruit flies.",
+            "score": 182.917236328125
+        },
+        {
+            "docid": "3284977_11",
+            "document": "P element . This effect contributes to piRNAs being inherited only in the maternal line, which provides a defence mechanism against P elements. The P element has found wide use in \"Drosophila\" research as a mutagen. The mutagenesis system typically uses an autonomous but immobile element, and a mobile nonautonomous element. Flies from subsequent generations can then be screened by phenotype or PCR.",
+            "score": 169.80300903320312
+        },
+        {
+            "docid": "50044342_9",
+            "document": "DNA transposon . The Hobo transposons in Drosophila have been extensively studied due to their ability to cause gonadal dysgenesis. The insertion and subsequent expression of hobo-like sequences results in the loss of germ cells in the gonads of developing flies.",
+            "score": 169.2721710205078
+        },
+        {
+            "docid": "364084_27",
+            "document": "Substance P . A suggestion of a link to male aggression was made in 2014. One research team found a correlation in male fruit flies and discussed it as a possibility in other species, even humans. Clues found in the brains of fruit flies might lead to further research that reveals the role of substance P in similar behaviour in those other species.",
+            "score": 169.05027770996094
+        },
+        {
+            "docid": "25162957_2",
+            "document": "Transposons as a genetic tool . Transposons are semi-parasitic DNA sequences which can replicate and spread through the host's genome. They can be harnessed as a genetic tool for analysis of gene and protein function. The use of transposons is well-developed in \"Drosophila\" (in which P elements are most commonly used) and in Thale cress (\"Arabidopsis thaliana\") and bacteria such as \"Escherichia coli\" (\"E. coli\"\u00a0).",
+            "score": 166.3543243408203
+        },
+        {
+            "docid": "563400_4",
+            "document": "XY gonadal dysgenesis . There are several forms of gonadal dysgenesis. The term \"pure gonadal dysgenesis\" (PGD) has been used to describe conditions with normal sets of sex chromosomes (e.g., 46,XX or 46,XY), as opposed to those whose gonadal dysgenesis results from missing all or part of the second sex chromosome. The latter group includes those with Turner syndrome (i.e., 45,X) and its variants, as well as those with mixed gonadal dysgenesis and a mixture of cell lines, some containing a Y chromosome (e.g., 46,XY/45,X).",
+            "score": 163.8359375
+        },
+        {
+            "docid": "5680834_14",
+            "document": "Gonadal dysgenesis . The male gonad is dependent on SRY and the signalling pathways initiated to several other genes to facilitate testis development.  The aetiology of 46,XY gonadal dysgenesis can be caused by mutations in the genes involved in testis development such as SRY, SOX9, WT1, SF1, and DHH.  If a single or combination of these genes are mutated or deleted, downstream signalling is disrupted, leading to malformation of male external genitalia.  SRY acts on gene SOX9 which drives Sertoli cell formation and testis differentiation.",
+            "score": 159.10801696777344
+        },
+        {
+            "docid": "26276222_7",
+            "document": "Bateman's principle . Throughout his research, Bateman conducted experiments using fruit flies in order to observe their copulation and sexual behavior. A total of six series of experiments were conducted with the fruit fly \"Drosophila melanogaster\", using three to five individuals of each sex. Each trial ran for three or four days. Some ran to completion without the transfer of the Drosophila from one environment (bottle) to another. In the others, Bateman transferred the flies and their eggs to a new bottle every day. Bateman also varied the age of the flies depending on the experiment, with an age gap between one and six days total. He never watched the flies' copulations. The flies used were from several inbred strains, which meant they could be identified by their specific inbred strain. Therefore, he inferred the number of involved mates based on the number of offspring that were later found to have mutations from both a male and a female. The difficulty that arose was that if a female Drosophila had copulated with five males and only one larva survived, Bateman would not be able to account for the other four copulations.",
+            "score": 158.8524627685547
+        },
+        {
+            "docid": "25162957_6",
+            "document": "Transposons as a genetic tool . There have been many studies conducted transposon based STM, most notably with the P elements in \"Drosophila\". P elements are transposons originally described in \"Drosophila melanogaster\" genome capable of being artificially synthesized or spread to other \"Drosophila\" species through horizontal transfer. In experimental trials, artificially created P elements and transposase genes are inserted into the genomes of \"Drosophila\" embryos. Subsequently, embryos that exhibit mutations have their genomes sequenced and compared, thus revealing the loci that have been affected by insertion and the roles of the loci.,",
+            "score": 157.1626434326172
+        },
+        {
+            "docid": "17685842_17",
+            "document": "Pollenia rudis . Unlike the majority of blow flies in the family Calliphoridae, \"Pollenia rudis\" does not play a large role in the medico-criminal subfield of forensic entomology. While most blow flies are attracted to rotting or decomposing matter, \"P. rudis\" is solely parasitic on earthworms and is unable to complete larval development on carrion. This unique characteristic makes it uncommon to see this particular blowfly near forensic investigations. However, the urban subfield of forensic entomology has been closely monitoring \"P. rudis\" because of its tendency to infest buildings and its status as a potential disease vector. Urban entomology, which deals with the insects that affect man and his immediate environment, is responsible for investigating economic issues and civil proceedings involving arthropods. There have been several economically hampering cases of \"P. rudis\" infestation around the world. For example, in New Zealand an entire city\u2019s water reservoir tank was drained due to high levels of fecal coliform bacteria produced by mass amounts of cluster flies residing in the tank. Due to cases like these, scientists have investigated the association of \"Pollenia rudis\" and its disease vector capability. In 1973, a massive infestation of cluster flies in a German Hospital triggered an investigation of the relationship between \"P. rudis\" and bacteria pathogen transmission. Careful examination of the flies revealed \"P. rudis\" is only capable of transmitting bacteria that causes opportunistic infections. These results indicate that \u201cmass infestations of cluster flies occurring in sensitive areas, especially in hospitals, may cause a low, but not neglectable health threat due to mechanical transmission of bacterial pathogens.\u201d",
+            "score": 155.85910034179688
+        },
+        {
+            "docid": "215038_11",
+            "document": "Enhancer (genetics) . Traditionally, enhancers were identified by enhancer trap techniques using a reporter gene or by comparative sequence analysis and computational genomics. In genetically tractable models such as the fruit fly \"Drosophila melanogaster,\" for example, a reporter construct such as the \"lacZ\" gene can be randomly integrated into the genome using a P element transposon. If the reporter gene integrates near an enhancer, its expression will reflect the expression pattern driven by that enhancer. Thus, staining the flies for LacZ expression or activity and cloning the sequence surrounding the integration site allows the identification of the enhancer sequence.",
+            "score": 155.4947052001953
+        },
+        {
+            "docid": "3284977_13",
+            "document": "P element . Transposase is an enzyme that regulates and catalyzes the excision of a P element from the host DNA, cutting at two recognition sites, and then reinserting randomly. It is the random insertion that may interfere with existing genes, or carry an additional gene, that can be used for genetic research.",
+            "score": 154.16650390625
+        },
+        {
+            "docid": "21054623_33",
+            "document": "Mosquito-borne disease . In many insect species, such as \"Drosophila melanogaster\", researchers found that a natural infection with the bacteria strain \"Wolbachia\" \"pipientis\" increases the fitness of the host by increasing resistance to RNA viral infections. Robert L. Glaser and Mark A. Meola investigated \"Wolbachia\"-induced resistance to West Nile virus (WNV) in \"Drosophila melanogaster\" (fruit flies). Two groups of fruit flies were naturally infected with \"Wolbachia.\" Glaser and Meola then cured one group of fruit flies of \"Wolbachia using\" tetracycline. Both the infected group and the cured groups were then infected with WNV. \u00a0Flies infected with \"Wolbachia\" were found to have a changed phenotype that caused resistance to WNV. The phenotype was found to be caused by a \u201cdominant, maternally transmitted, cytoplasmic factor\u201d. The WNV-resistance phenotype was then reversed by curing the fruit flies of \"Wolbachia.\" Since \"Wolbachia\" is also maternally transmitted, it was found that the WNV-resistant phenotype is directly related to the \"Wolbachia\" infection. West Nile virus is transmitted to humans and animals through the Southern house mosquito, \"Culex quinquefasciatus.\" Glaser and Meola knew vector compatibility could be reduced through \"Wolbachia\" infection due to studies done with other species of mosquitoes, mainly, \"Aedes aegypti\". Their goal was to transfer WNV resistance to \"Cx. quinquefasciatus\" by inoculating the embryos of the mosquito with the same strain of \"Wolbachia\" that naturally occurred in the fruit flies. Upon infection, \"Cx. quinquefasciatus\" showed an increased resistance to WNV that was transferable to offspring. The ability to genetically modify mosquitoes in the lab and then have the infected mosquitoes transmit it to their offspring showed that it was possible to transmit the bacteria to wild populations to decrease human infections.",
+            "score": 153.7548370361328
+        },
+        {
+            "docid": "5680651_12",
+            "document": "XX gonadal dysgenesis . In Turner syndrome there is a demonstrable abnormality in or absence of one of the sex chromosomes that is the cause of the development of gonadal dysgenesis. In contrast XX gonadal dysgenesis has a normal female chromosome situation.",
+            "score": 151.1803436279297
+        },
+        {
+            "docid": "3284977_4",
+            "document": "P element . P element also encodes a suppressor of transposition, which accumulates in the cytoplasm during the development of cells. Thus, in a cross of a P or M male with a P female, the female cytoplasm contains the suppressor, which binds to any P elements and prevents their transposition.",
+            "score": 150.18948364257812
+        },
+        {
+            "docid": "25162957_11",
+            "document": "Transposons as a genetic tool . Transposase is an enzyme which regulates and catalyzes the excision of a P element from the host DNA, cutting at two recognition sites, and then reinserts the P element randomly. It is the random-insertion process, that can interfere with existing genes, or carry an additional gene, that can be used as a process for genetic research.",
+            "score": 148.9683380126953
+        },
+        {
+            "docid": "31372_12",
+            "document": "Theodosius Dobzhansky . Dobzhansky was confident that mixing races created no serious medical issues. Dobzhansky\u2019s experience with breeding fruit flies came into play when he made this conclusion. The only medical issue Dobzhansky found in this breeding was when certain crosses could lead to having infertile offspring. However, Dobzhansky noticed no such problems when humans from different populations reproduced. When anthropologists at the time were trying to compare the means of physical measurements of people from different races Dobzhansky argued that these means had no value because there was more variation between the individuals of each population than there was among the groups (Farber 2011 p.\u00a063). However, Dobzhansky\u2019s work and beliefs on genetics and evolution created opposition with his views on race mixing. First, that race has to do with groups and not individuals and so in this instance it is not races that mix, it is individuals. Second, if races do not mix then they will become different species, so therefore they have to mix. All of the races that currently exist are products of past mixed races, so according to Dobzhansky there is no pure race. Third, when race had been discussed in the past it was all about comparing means of trait to which this made no sense to Dobzhansky (Farber 2011 p.\u00a065-67).",
+            "score": 147.9261932373047
+        },
+        {
+            "docid": "20489385_20",
+            "document": "Birkhoff's representation theorem . However, the elements of \"P\" themselves correspond one-for-one with bounded lattice homomorphisms from \"J(P)\" to 2. For, if \"x\" is any element of \"P\", one may define a bounded lattice homomorphism \"j\" that maps all lower sets containing \"x\" to 1 and all other lower sets to 0. And, for any lattice homomorphism from \"J(P)\" to 2, the elements of \"J(P)\" that are mapped to 1 must have a unique minimal element \"x\" (the meet of all elements mapped to 1), which must be join-irreducible (it cannot be the join of any set of elements mapped to 0), so every lattice homomorphism has the form \"j\" for some \"x\". Again, from any bounded lattice homomorphism \"h\" from \"J(P)\" to \"J(Q)\" one may use composition of functions to define an order-preserving map \"h\"* from \"Q\" to \"P\". It may be verified that \"g\"**\u00a0=\u00a0\"g\" for any order-preserving map \"g\" from \"Q\" to \"P\" and that and \"h\"**\u00a0=\u00a0\"h\" for any bounded lattice homomorphism \"h\" from \"J(P)\" to \"J(Q)\".",
+            "score": 145.49818420410156
+        },
+        {
+            "docid": "37850431_9",
+            "document": "Pasteurella canis . Molecular analysis of the genome has become the popular method to identify bacteria. The genome of \"P. canis\" has yet to be fully sequenced, but several genes and their sequences were already identified. Among them, 16S rRNA, 23S rRNA, RNA polymerase subunit B (rpoB), and manganese-dependent superoxide dismutase (sodA) are used to study \"Pasteurella\" phylogeny. However, molecular and biochemical analyses often show conflicting results. For example, research has suggested some \"P. canis\" strains were in fact members of \"P. multocida\" based on DNA analysis. Phylogenetic analysis of \"P. canis\" and \"P. dagmatis\" also showed conflicting results, based on their 16s rRNA sequences and biochemical tests done on the strains.",
+            "score": 145.3299102783203
+        },
+        {
+            "docid": "1408022_2",
+            "document": "Drosophilidae . The Drosophilidae are a diverse, cosmopolitan family of flies, which includes fruit flies. Another unrelated family of flies, Tephritidae, also includes species known as \"small fruit flies\". The best known species of the Drosophilidae is \"Drosophila melanogaster\", within the genus \"Drosophila\", and this species is used extensively for studies concerning genetics, development, physiology, ecology and behaviour. This fruit fly is mostly composed of post-mitotic cells, has a very short lifespan, and shows gradual aging. As in other species, temperature influences the life history of the animal. Several genes have been identified that can be manipulated to extend the lifespan of these insects.",
+            "score": 144.6259002685547
+        },
+        {
+            "docid": "5680651_4",
+            "document": "XX gonadal dysgenesis . The term \u201cpure gonadal dysgenesis\u201d (PGD) has been used to distinguish a group of patients from gonadal dysgenesis related to Turner syndrome. In the latter a distinct chromosomal aberration is present, while in PGD the chromosomal constellation is either 46,XX or 46,XY. Thus XX gonadal dysgenesis is also referred to as \"PGD, 46 XX\", and XY gonadal dysgenesis as \"PGD, 46,XY\" or Swyer syndrome. Patients with PGD have a normal chromosomal constellation but may have localized genetic alterations.",
+            "score": 144.4895477294922
+        }
+    ]
+}

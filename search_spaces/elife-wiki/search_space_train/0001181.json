@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "319342_5",
+            "document": "Microfilament . Actin filaments are assembled in two general types of structures: bundles and networks. Bundles can be composed of polar filament arrays, in which all barbed ends point to the same end of the bundle, or non-polar arrays, where the barbed ends point towards both ends. A class of actin-binding proteins, called cross-linking proteins, dictate the formation of these structures. Cross-linking proteins determine filament orientation and spacing in the bundles and networks. These structures are regulated by many other classes of actin-binding proteins, including motor proteins, branching proteins, severing proteins, polymerization promoters, and capping proteins.",
+            "score": 491.11824655532837
+        },
+        {
+            "docid": "32189474_3",
+            "document": "Cyclase-associated protein family . All CAPs appear to contain a C-terminal actin-binding domain that regulates actin remodelling in response to cellular signals and is required for normal cellular morphology, cell division, growth and locomotion in eukaryotes. CAP directly regulates actin filament dynamics and has been implicated in a number of complex developmental and morphological processes, including mRNA localisation and the establishment of cell polarity. Actin exists both as globular (G) (monomeric) actin subunits and assembled into filamentous (F) actin. In cells, actin cycles between these two forms. Proteins that bind F-actin often regulate F-actin assembly and its interaction with other proteins, while proteins that interact with G-actin often control the availability of unpolymerised actin.",
+            "score": 503.9131054878235
+        },
+        {
+            "docid": "4135861_5",
+            "document": "Cofilin . The Arp2/3 complex and cofilin work together to reorganize the actin filaments in the cytoskeleton. Arp 2/3, an actin binding proteins complex, binds to the side of ATP-F-actin near the growing barbed end of the filament, causing nucleation of a new F-actin branch, while cofilin-driven depolymerization takes place after dissociating from the Arp2/3 complex. They also work together to reorganize actin filaments in order to traffic more proteins by vesicle to continue the growth of filaments.",
+            "score": 489.57744002342224
+        },
+        {
+            "docid": "1789075_24",
+            "document": "Tropomyosin . In a pioneering study by Bernstein and Bamburg, it was observed that the actin-binding protein \"actin depolymerisation factor (ADF)/cofilin\", a factor that promotes actin filament depolymerisation, competed with tropomyosin for binding to the actin filament. The expression of Tropomyosin 5NM1 in neuronal cells eliminated ADF/cofilin from the growth cone region, leading to more stable actin filaments. However, the increased expression of Tropomyosin Br3 was observed to recruit ADF/cofilin to actin filaments bound to the Tropomyosin Br3 isoform within the lamellipodium, which led to the disassembly of actin filaments. This phenomenon, whereby a specific tropomyosin isoform directs specific interactions between actin-binding proteins, and the actin filament has been observed in a variety of model systems with a range of different binding proteins (reviewed in Gunning et al., 2008). These interactions, under the influence of tropomyosin isoforms, allow actin filaments to be involved in a diverse range of cellular functions.",
+            "score": 619.4268380403519
+        },
+        {
+            "docid": "1553767_3",
+            "document": "Fimbrin . Fimbrin belongs to the calponin homology (CH) domain superfamily of actin cross-linking proteins. Like other members of this superfamily, which include \u03b1-actinin, \u03b2-spectrin, dystrophin, ABP-120 and filamin, it has a conserved 27 kDa actin-binding domain that contains a tandem duplication of a sequence that is homologous to calponin. In addition to cross-linking actin filaments into bundles and networks, CH domains also bind intermediate filaments and some signal transduction proteins to the actin cytoskeleton. Structural comparison of actin filaments and fimbrin CH domain-decorated actin filaments has revealed changes in the actin structure due to fimbrin-mediated cross-linking that may affect the actin filaments' affinity for other actin-binding proteins and may be part of the regulation of the cytoskeleton itself.",
+            "score": 557.6990374326706
+        },
+        {
+            "docid": "10881453_2",
+            "document": "Alpha catenin . Alpha-catenin was suggested to function as a linking protein between cadherins and actin-containing filaments of the cytoskeleton. It has been reported that the actin binding proteins vinculin and alpha-actinin can bind to alpha-catenin. However, a protein complex including a cadherin, actin, beta-catenin and alpha-catenin has not been isolated. It has been suggested that alpha-catenin does not bind with high affinity to both actin filaments and the E-cadherin-beta-catenin complex at the same time. It has been observed that when alpha-catenin is not in a molecular complex with beta-catenin, it dimerizes and functions to regulate actin filament assembly, possibly by competing with Arp2/3 protein.",
+            "score": 451.7236952781677
+        },
+        {
+            "docid": "424348_21",
+            "document": "Cardiac muscle . During contraction of a cardiac muscle cell, the long protein myofilaments oriented along the length of the slide over each other in what is known as the sliding filament hypothesis. There are two kinds of myofilaments, thick filaments composed of the protein myosin, and thin filaments composed of the proteins actin, troponin and tropomyosin. As the thick and thin filaments slide past each other the cell becomes shorter and fatter. In a mechanism known as crossbridge cycling, calcium ions bind to the protein troponin, which along with tropomyosin then uncover key binding sites on actin. Myosin, in the thick filament, can then bind to actin, pulling the thick filaments along the thin filaments. When the concentration of calcium within the cell falls, troponin and tropomyosin once again cover the binding sites on actin, causing the cell to relax.",
+            "score": 559.1468263864517
+        },
+        {
+            "docid": "1789075_22",
+            "document": "Tropomyosin . Within humans, there are only six actin isoforms, and these isoforms are responsible for an array of unique and complex cellular structures and key cellular interactions. It is thought that the function and form of the actin cytoskeleton is controlled largely by actin-binding proteins (ABP) that are associated with the actin polymer. ABP are a group of proteins that bind to actin. Although tropomyosin is sometimes included as an ABP, it is not a true ABP. The tropomyosin dimer has very low affinity for an actin filament and forms no van der waals contacts with actin. It is only the formation of a tropomyosin polymer's winding around the actin filament that provides stability to the tropomyosin-actin filament interaction.",
+            "score": 545.4435651302338
+        },
+        {
+            "docid": "4135861_2",
+            "document": "Cofilin . ADF/cofilin is a family of actin-binding proteins which disassembles actin filaments.  Three highly conserved and highly (70%-82%) identical genes belonging to this family have been described in humans and mice:  Actin-binding proteins regulate assembly and disassembly of actin filaments. Cofilin, a member of the ADF/cofilin family is actually a protein with 70% sequence identity to ADF, making it part of the ADF/cofilin family of small ADP-binding proteins. The protein binds to actin monomers and filaments, G actin and F actin, respectively. Cofilin causes depolymerization at the minus end of filaments, thereby preventing their reassembly. The protein is known to sever actin filaments by creating more positive ends on filament fragments. Cofilin/ADF(destrin) is likely to sever F-actin without capping and prefers ADP-actin. These monomers can be recycled by profilin, activating monomers to go back into filament form again by an ADP-to-ATP exchange. ATP-actin is then available for assembly.",
+            "score": 534.2293708324432
+        },
+        {
+            "docid": "14725894_3",
+            "document": "WASL (gene) . The Wiskott-Aldrich syndrome (WAS) family of proteins share similar domain structure, and are involved in transduction of signals from receptors on the cell surface to the actin cytoskeleton. The presence of a number of different motifs suggests that they are regulated by a number of different stimuli, and interact with multiple proteins. Recent studies have demonstrated that these proteins, directly or indirectly, associate with the small GTPase, Cdc42, known to regulate formation of actin filaments, and the cytoskeletal organizing complex, Arp2/3. The WASL gene product is a homolog of WAS protein, however, unlike the latter, it is ubiquitously expressed and shows highest expression in neural tissues. It has been shown to bind Cdc42 directly, and induce formation of long actin microspikes.",
+            "score": 424.30777883529663
+        },
+        {
+            "docid": "30861458_4",
+            "document": "Arp2/3 complex . Many actin-related molecules create a free barbed end for polymerization by uncapping or severing pre-existing filaments and using these as actin nucleation cores. However, the Arp2/3 complex stimulates actin polymerization by creating a new nucleation core. Actin nucleation is an initial step in the formation of an actin filament. The nucleation core activity of Arp2/3 is activated by members of the Wiskott-Aldrich syndrome family protein (WASP, N-WASP, WAVE, and WASH proteins). The V domain of a WASP protein interacts with actin monomers while the CA region associates with the Arp2/3 complex to create a nucleation core. However, de novo nucleation followed by polymerization is not sufficient to form integrated actin networks, since these newly synthesized polymers would not be associated with pre-existing filaments. Thus, the Arp2/3 complex binds to pre-existing filaments so that the new filaments can grow on the old ones and form a functional actin cytoskeleton. Capping proteins limit actin polymerization to the region activated by the Arp2/3 complex, and the elongated filament ends are recapped to prevent depolymerization and thus conserve the actin filament.",
+            "score": 482.37051582336426
+        },
+        {
+            "docid": "14418070_8",
+            "document": "MYH9 . In addition to phosphorylation, NM IIA filament assembly and localization can be modulated by interaction with other proteins including S100A4 and Lethal giant larvae (Lgl1). The former is a calcium binding protein and is also known as metastatin, a well-characterized metastatic factor. S100A4 expression is associated with enhanced cell migration through maintenance of cell polarization and inhibition of cell turning. Similar to heavy chain phosphorylation, in vitro binding of S100A to the carboxy-terminal end of the NM IIA coiled-coil region prevents filament formation and S100A4 binding to previously formed filaments promotes filament disassembly. The tumor suppressor protein Lgl1 also inhibits the ability of NM IIA to assemble into filaments in vitro. In addition, it regulates the cellular localization of NM IIA and contributes to the maturation of focal adhesions. Other proteins that are known to interact with NM IIA include the actin binding protein tropomyosin 4.2 and a novel actin stress fiber associated protein, LIM and calponin-homology domains1 (LIMCH1).",
+            "score": 472.8579728603363
+        },
+        {
+            "docid": "200182_11",
+            "document": "Cytokinesis . At the cytokinesis furrow, it is the actin-myosin contractile ring that drives the cleavage process, during which cell membrane and wall grow inward, which eventually pinches the mother cell in two. The key components of this ring are the filamentous protein actin and the motor protein myosin II. The contractile ring assembles equatorially (in the middle of the cell) at the cell cortex (adjacent to the cell membrane). Rho protein family (RhoA protein in mammalian cells) is a key regulator of contractile ring formation and contraction in animal cells. The RhoA pathway promotes assembly of the actin-myosin ring by two main effectors. First, RhoA stimulates nucleation of unbranched actin filaments by activation of Diaphanous-related formins. This local generation of new actin filaments is important for the contractile ring formation. This actin filament formation process also requires a protein called profilin, which binds to actin monomers and helps load them onto the filament end. Second, RhoA promotes myosin II activation by the kinase ROCK, which activates myosin II directly by phosphorylation of the myosin light chain and also inhibits myosin phosphatase by phosphorylation of the phosphatase-targeting subunit MYPT. Besides actin and myosin II, the contractile ring contains the scaffolding protein anillin. Anillin binds to actin, myosin, RhoA, and CYK-4, and thereby links the equatorial cortex with the signals from the central spindle. It also contributes to the linkage of the actin-myosin ring to the plasma membrane. Another protein, septin, has also been speculated to serve as a structural scaffold on which the cytokinesis apparatus is organized. Following its assembly, contraction of the actin-myosin ring leads to ingression of the attached plasma membrane, which partitions the cytoplasm into two domains of emerging sister cells. The force for the contractile processes is generated by movements along actin by the motor protein myosin II. Myosin II uses the free energy released when ATP is hydrolyzed to move along these actin filaments, constricting the cell membrane to form a cleavage furrow. Continued hydrolysis causes this cleavage furrow to ingress (move inwards), a striking process that is clearly visible through a light microscope.",
+            "score": 494.2794238328934
+        },
+        {
+            "docid": "531064_15",
+            "document": "Cell adhesion . In focal adhesions, integrins attach fibronectins, a component in the extracellular matrix, to actin filaments inside cells. Adapter proteins, such as talins, vinculins, \u03b1-actinins and filamins, form a complex at the intracellular domain of integrins and bind to actin filaments. This multi-protein complex linking integrins to actin filaments is important for assembly of signalling complexes that act as signals for cell growth and cell motility.",
+            "score": 455.2925012111664
+        },
+        {
+            "docid": "156970_13",
+            "document": "Cytoskeleton . Microfilaments are composed of linear polymers of G-actin proteins, and generate force when the growing (plus) end of the filament pushes against a barrier, such as the cell membrane. They also act as tracks for the movement of myosin molecules that affix to the microfilament and \"walk\" along them. In general, the major component or protein of microfilaments are actin. The G-actin monomer combines to form a polymer which continues to form the microfilament (actin filament). These subunits then assemble into two chains that intertwine into what is called, F-actin chains. Myosin motoring along F-actin filaments generates contractile forces in so-called actomyosin fibers, both in muscle as well as most non-muscle cell types. Actin structures are controlled by the Rho family of small GTP-binding proteins such as Rho itself for contractile acto-myosin filaments (\"stress fibers\"), Rac for lamellipodia and Cdc42 for filopodia.",
+            "score": 475.45804464817047
+        },
+        {
+            "docid": "438944_45",
+            "document": "Actin . The actin cytoskeleton \"in vivo\" is not exclusively composed of actin, other proteins are required for its formation, continuance and function. These proteins are called \"actin-binding proteins\" (ABP) and they are involved in actin\u2019s polymerization, depolymerization, stability, organisation in bundles or networks, fragmentation and destruction. The diversity of these proteins is such that actin is thought to be the protein that takes part in the greatest number of protein-protein interactions. For example, G-actin sequestering elements exist that impede its incorporation into microfilaments. There are also proteins that stimulate its polymerization or that give complexity to the synthesizing networks.",
+            "score": 429.41246128082275
+        },
+        {
+            "docid": "32189474_5",
+            "document": "Cyclase-associated protein family . In addition to actin-binding, CAPs can have additional roles, and may act as bifunctional proteins. In \"Saccharomyces cerevisiae\" (Baker's yeast), CAP is a component of the adenylyl cyclase complex (Cyr1p) that serves as an effector of Ras during normal cell signalling. \"S. cerevisiae\" CAP functions to expose adenylate cyclase binding sites to Ras, thereby enabling adenylate cyclase to be activated by Ras regulatory signals. In \"Schizosaccharomyces pombe\" (Fission yeast), CAP is also required for adenylate cyclase activity, but not through the Ras pathway. In both organisms, the N-terminal domain is responsible for adenylate cyclase activation, but the \"S. cerevisiae\" and \"S. pombe\" N-termini cannot complement one another. Yeast CAPs are unique among the CAP family of proteins, because they are the only ones to directly interact with and activate adenylate cyclase. S. cerevisiae CAP has four major domains. In addition to the N-terminal adenylate cyclase-interacting domain, and the C-terminal actin-binding domain, it possesses two other domains: a proline-rich domain that interacts with Src homology 3 (SH3) domains of specific proteins, and a domain that is responsible for CAP oligomerisation to form multimeric complexes (although oligomerisation appears to involve the N- and C-terminal domains as well). The proline-rich domain interacts with profilin, a protein that catalyses nucleotide exchange on G-actin monomers and promotes addition to barbed ends of filamentous F-actin. Since CAP can bind profilin via a proline-rich domain, and G-actin via a C-terminal domain, it has been suggested that a ternary G-actin/CAP/profilin complex could be formed.",
+            "score": 416.3587476015091
+        },
+        {
+            "docid": "23634_24",
+            "document": "Protein . Proteins can bind to other proteins as well as to small-molecule substrates. When proteins bind specifically to other copies of the same molecule, they can oligomerize to form fibrils; this process occurs often in structural proteins that consist of globular monomers that self-associate to form rigid fibers. Protein\u2013protein interactions also regulate enzymatic activity, control progression through the cell cycle, and allow the assembly of large protein complexes that carry out many closely related reactions with a common biological function. Proteins can also bind to, or even be integrated into, cell membranes. The ability of binding partners to induce conformational changes in proteins allows the construction of enormously complex signaling networks. As interactions between proteins are reversible, and depend heavily on the availability of different groups of partner proteins to form aggregates that are capable to carry out discrete sets of function, study of the interactions between specific proteins is a key to understand important aspects of cellular function, and ultimately the properties that distinguish particular cell types.",
+            "score": 257.29375410079956
+        },
+        {
+            "docid": "598619_6",
+            "document": "Troponin . Troponin is a component of thin filaments (along with actin and tropomyosin), and is the protein complex to which calcium binds to trigger the production of muscular force. Troponin itself has three subunits, TnC, TnI, and TnT, each playing a role in force regulation . Under resting intracellular levels of calcium, tropomyosin covers the active sites on actin to which myosin (a molecular motor organized in muscle thick filaments) binds in order to generate force. When calcium becomes bound to specific sites in the N-domain of TnC, a series of protein structural changes occurs such that tropomyosin is rolled away from myosin-binding sites on actin, allowing myosin to attach to the thin filament and produce force and/or shorten the sarcomere.",
+            "score": 488.4162542819977
+        },
+        {
+            "docid": "32752776_3",
+            "document": "FERM domain . Ezrin, moesin, and radixin are highly related proteins (ERM protein family), but the other proteins in which the FERM domain is found do not share any region of similarity outside of this domain. ERM proteins are made of three domains, the FERM domain, a central helical domain and a C-terminal tail domain, which binds F-actin. The amino-acid sequence of the FERM domain is highly conserved among ERM proteins and is responsible for membrane association by direct binding to the cytoplasmic domain or tail of integral membrane proteins. ERM proteins are regulated by an intramolecular association of the FERM and C-terminal tail domains that masks their binding sites for other molecules. For cytoskeleton-membrane cross-linking, the dormant molecules becomes activated and the FERM domain attaches to the membrane by binding specific membrane proteins, while the last 34 residues of the tail bind actin filaments. Aside from binding to membranes, the activated FERM domain of ERM proteins can also bind the guanine nucleotide dissociation inhibitor of Rho GTPase (RhoDGI), which suggests that in addition to functioning as a cross-linker, ERM proteins may influence Rho signalling pathways. The crystal structure of the FERM domain reveals that it is composed of three structural modules (F1, F2, and F3) that together form a compact clover-shaped structure. The N-terminal module is ubiquitin-like. The C-terminal module is a PH-like domain.",
+            "score": 375.0327754020691
+        },
+        {
+            "docid": "15227851_3",
+            "document": "CDC42EP2 . CDC42, a small Rho GTPase, regulates the formation of F-actin-containing structures through its interaction with the downstream effector proteins. The protein encoded by this gene is a member of the Borg family of CDC42 effector proteins. Borg family proteins contain a CRIB (Cdc42/Rac interactive-binding) domain. They bind to, and negatively regulate the function of, CDC42. Coexpression of this protein with dominant negative mutant CDC42 protein in fibroblast was found to induce pseudopodia formation, which suggested a role of this protein in actin filament assembly and cell shape control.",
+            "score": 406.9108545780182
+        },
+        {
+            "docid": "2440792_3",
+            "document": "Podosome . A podosome consists of a core rich in actin surrounded by adhesion and scaffolding proteins. The actin filaments within these structures are highly regulated by many actin nucleators, polymerization activators, actin binding and crosslinking proteins, kinases, small GTPases, and scaffold proteins; therefore, total actin turnover occurs within seconds. To distinguish podosomes from others types of cellular adhesions, the protein Tks5 and WASP (Wiskott-Aldrich Syndrome protein) are used as markers alongside actin, cortactin and the Arp2/3 complex to localize and isolate these protrusions because Tks5 and WASP are unique to the podosome when compared with other actin-based cellular structures.",
+            "score": 427.6050043106079
+        },
+        {
+            "docid": "27196937_23",
+            "document": "Actin remodeling . The immobilization by interpenetration of actin filaments results from two distinct ABP families. The gelsolin protein family is believed to be the most efficient in the disruption of actin filaments and is considered a \"strong severing protein\". These proteins respond to an increase in Ca2+ and cap the \"barbed end\" of the recently severed F-actin. The increased level of Ca2+ may also destabilize the actin-filament network by interfering with the binding of crosslinking proteins. The ADF/Cofilin protein family also serves to severe actin-filament networks through the weak severing of actin networks. This form of weak severing does not tightly cap the \"barbed ends\" but does allow for the disassociation of actin monomers and thus the disassembly of F-actin.",
+            "score": 516.6762850284576
+        },
+        {
+            "docid": "14722941_3",
+            "document": "ACTC1 . Cardiac alpha actin is a 42.0 kDa protein composed of 377 amino acids. Cardiac alpha actin is a filamentous protein extending from a complex mesh with cardiac alpha-actinin (ACTN2) at Z-lines towards the center of the sarcomere. Polymerization of globular actin (G-actin) leads to a structural filament (F-actin) in the form of a two-stranded helix. Each actin can bind to four others. The atomic structure of monomeric actin was solved by Kabsch et al., and closely thereafter this same group published the structure of the actin filament. Actins are highly conserved proteins; the alpha actins are found in muscle tissues and are a major constituent of the contractile apparatus. Cardiac (ACTC1) and skeletal (ACTA1) alpha actins differ by only four amino acids (Asp4Glu, Glu5Asp, Leu301Met, Ser360Thr; cardiac/skeletal). The actin monomer has two asymmetric domains; the larger inner domain comprised by sub-domains 3 and 4, and the smaller outer domain by sub-domains 1 and 2. Both the amino and carboxy-termini lie in sub-domain 1 of the outer domain.",
+            "score": 444.69929552078247
+        },
+        {
+            "docid": "14150839_3",
+            "document": "FLNA . Actin-binding protein, or filamin, is a 280-kD protein that crosslinks actin filaments into orthogonal networks in cortical cytoplasm and participates in the anchoring of membrane proteins for the actin cytoskeleton. Remodeling of the cytoskeleton is central to the modulation of cell shape and migration. Filamin A, encoded by the FLNA gene, is a widely expressed filamin that regulates the reorganization of the actin cytoskeleton by interacting with integrins, transmembrane receptor complexes, and secondary messengers.[supplied by OMIM]",
+            "score": 455.8366298675537
+        },
+        {
+            "docid": "32722103_2",
+            "document": "F-actin capping protein . In molecular biology, the F-actin capping protein is a protein which binds in a calcium-independent manner to the fast-growing ends of actin filaments (barbed end), thereby blocking the exchange of subunits at these ends. Unlike gelsolin and severin this protein does not sever actin filaments. The F-actin capping protein is a heterodimer composed of two unrelated subunits: alpha and beta. Neither of the subunits shows sequence similarity to other filament-capping proteins. The alpha subunit is a protein of about 268 to 286 amino acid residues and the beta subunit is approximately 280 amino acids, their sequences are well conserved in eukaryotic species.",
+            "score": 435.3149130344391
+        },
+        {
+            "docid": "8057329_2",
+            "document": "CapZ . In molecular biology CapZ, also known as CAPZ; CAZ1 and CAPPA1, is a protein composed of alpha and beta subunits. Its main function is to cap the barbed (plus) end of actin filaments in muscle cells. It is located in the Z band of the muscle sarcomere. This protein helps to stabilize the actin filaments protecting it from assembly and disassembly. The activity regulation of this protein can be done by other regulatory proteins that bind to the actin filaments blocking the CapZ, hence allowing assembly. CapZ is also known to play a role in cell signaling, as it regulates PKC activity in cardiac cells.",
+            "score": 448.707843542099
+        },
+        {
+            "docid": "14881523_3",
+            "document": "SVIL . This gene encodes a bipartite protein with distinct amino- and carboxy-terminal domains. The amino-terminus contains nuclear localization signals and the carboxy-terminus contains numerous consecutive sequences with extensive similarity to proteins in the gelsolin family of actin-binding proteins, which cap, nucleate, and/or sever actin filaments. The gene product is tightly associated with both actin filaments and plasma membranes, suggesting a role as a high-affinity link between the actin cytoskeleton and the membrane. Its function may include recruitment of actin and other cytoskeletal proteins into specialized structures at the plasma membrane and in the nuclei of growing cells. Two transcript variants encoding different isoforms of supervillin have been described.",
+            "score": 453.4025876522064
+        },
+        {
+            "docid": "3473628_6",
+            "document": "Gene product . Proteins have many different functions in a cell and the function may vary based on the polypeptides they interact with and their cellular environment. Chaperone proteins work to stabilize newly synthesized proteins. They ensure the new protein folds into its correct functional conformation in addition to making sure products do not aggregate in areas where they should not. Proteins can also function as enzymes, increasing the rate of various biochemical reactions and turning substrates into products. Products can be modified by attaching groups such as phosphate via an enzyme to specific amino acids in the primary sequence. Proteins can also be used to move molecules in the cell to where they are needed, these are called motor proteins. The shape of the cell is supported by proteins. Proteins such as actin, microtubules and intermediate filaments provide structure to the cell. Another class of proteins are found in plasma membranes. Membrane proteins can be associated with the plasma membrane in different ways, depending on their structure. These proteins allow the cell to import or export cell products, nutrients or signals to and from the extracellular space. Other proteins help the cell to perform regulatory functions. For example, transcription factors bind to DNA to help transcription of RNA.",
+            "score": 347.84939789772034
+        },
+        {
+            "docid": "31678753_4",
+            "document": "Paracytophagy . Nucleation factors are enhancers of actin polymerization and contribute to the formation of the trimeric polymerization nucleus. This is a structure required to initiate the process of actin filament polymerization in a stable and efficient way. Nucleation factors such as WASP (Wiskott-Aldrich syndrome protein) help to form the seven-protein Arp2/3 nucleation complex, which resembles two actin monomers and therefore allows for easier formation of the polymerization nucleus. Arp2/3 is able to cap the trailing (\"minus\") end of the actin filament, allowing for faster polymerization at the \"plus\" end. It can also bind to the side of existing filaments to promote filament branching.",
+            "score": 431.18821001052856
+        },
+        {
+            "docid": "23602171_10",
+            "document": "Cordon-bleu protein . Several actin nucleators are present in mammalian cells. Cobl, Spire and Leiomodin form a group of such proteins because of the presence of the WH2 domain, which bind G-actin. Other protein containing WH2 domain have other functions. And other nucleators, such as formins, nucleate actin filaments using a different actin-binding motif, e.g. the FH2 (formin homology 2) domain.",
+            "score": 463.157283782959
+        },
+        {
+            "docid": "639057_4",
+            "document": "Wiskott\u2013Aldrich syndrome protein . The Wiskott\u2013Aldrich syndrome (WAS) family of proteins share similar domain structure, and are involved in transduction of signals from receptors on the cell surface to the actin cytoskeleton. The presence of a number of different motifs suggests they are regulated by a number of different stimuli, and interact with multiple proteins. These proteins, directly or indirectly, associate with the small GTPase CDC42, known to regulate formation of actin filaments, and the cytoskeletal organising complex, Arp2/3.",
+            "score": 367.6811771392822
+        }
+    ],
+    "r": [
+        {
+            "docid": "1789075_24",
+            "document": "Tropomyosin . In a pioneering study by Bernstein and Bamburg, it was observed that the actin-binding protein \"actin depolymerisation factor (ADF)/cofilin\", a factor that promotes actin filament depolymerisation, competed with tropomyosin for binding to the actin filament. The expression of Tropomyosin 5NM1 in neuronal cells eliminated ADF/cofilin from the growth cone region, leading to more stable actin filaments. However, the increased expression of Tropomyosin Br3 was observed to recruit ADF/cofilin to actin filaments bound to the Tropomyosin Br3 isoform within the lamellipodium, which led to the disassembly of actin filaments. This phenomenon, whereby a specific tropomyosin isoform directs specific interactions between actin-binding proteins, and the actin filament has been observed in a variety of model systems with a range of different binding proteins (reviewed in Gunning et al., 2008). These interactions, under the influence of tropomyosin isoforms, allow actin filaments to be involved in a diverse range of cellular functions.",
+            "score": 619.4268188476562
+        },
+        {
+            "docid": "424348_21",
+            "document": "Cardiac muscle . During contraction of a cardiac muscle cell, the long protein myofilaments oriented along the length of the slide over each other in what is known as the sliding filament hypothesis. There are two kinds of myofilaments, thick filaments composed of the protein myosin, and thin filaments composed of the proteins actin, troponin and tropomyosin. As the thick and thin filaments slide past each other the cell becomes shorter and fatter. In a mechanism known as crossbridge cycling, calcium ions bind to the protein troponin, which along with tropomyosin then uncover key binding sites on actin. Myosin, in the thick filament, can then bind to actin, pulling the thick filaments along the thin filaments. When the concentration of calcium within the cell falls, troponin and tropomyosin once again cover the binding sites on actin, causing the cell to relax.",
+            "score": 559.1468505859375
+        },
+        {
+            "docid": "1553767_3",
+            "document": "Fimbrin . Fimbrin belongs to the calponin homology (CH) domain superfamily of actin cross-linking proteins. Like other members of this superfamily, which include \u03b1-actinin, \u03b2-spectrin, dystrophin, ABP-120 and filamin, it has a conserved 27 kDa actin-binding domain that contains a tandem duplication of a sequence that is homologous to calponin. In addition to cross-linking actin filaments into bundles and networks, CH domains also bind intermediate filaments and some signal transduction proteins to the actin cytoskeleton. Structural comparison of actin filaments and fimbrin CH domain-decorated actin filaments has revealed changes in the actin structure due to fimbrin-mediated cross-linking that may affect the actin filaments' affinity for other actin-binding proteins and may be part of the regulation of the cytoskeleton itself.",
+            "score": 557.6990356445312
+        },
+        {
+            "docid": "1789075_22",
+            "document": "Tropomyosin . Within humans, there are only six actin isoforms, and these isoforms are responsible for an array of unique and complex cellular structures and key cellular interactions. It is thought that the function and form of the actin cytoskeleton is controlled largely by actin-binding proteins (ABP) that are associated with the actin polymer. ABP are a group of proteins that bind to actin. Although tropomyosin is sometimes included as an ABP, it is not a true ABP. The tropomyosin dimer has very low affinity for an actin filament and forms no van der waals contacts with actin. It is only the formation of a tropomyosin polymer's winding around the actin filament that provides stability to the tropomyosin-actin filament interaction.",
+            "score": 545.443603515625
+        },
+        {
+            "docid": "4135861_2",
+            "document": "Cofilin . ADF/cofilin is a family of actin-binding proteins which disassembles actin filaments.  Three highly conserved and highly (70%-82%) identical genes belonging to this family have been described in humans and mice:  Actin-binding proteins regulate assembly and disassembly of actin filaments. Cofilin, a member of the ADF/cofilin family is actually a protein with 70% sequence identity to ADF, making it part of the ADF/cofilin family of small ADP-binding proteins. The protein binds to actin monomers and filaments, G actin and F actin, respectively. Cofilin causes depolymerization at the minus end of filaments, thereby preventing their reassembly. The protein is known to sever actin filaments by creating more positive ends on filament fragments. Cofilin/ADF(destrin) is likely to sever F-actin without capping and prefers ADP-actin. These monomers can be recycled by profilin, activating monomers to go back into filament form again by an ADP-to-ATP exchange. ATP-actin is then available for assembly.",
+            "score": 534.2293701171875
+        },
+        {
+            "docid": "27196937_17",
+            "document": "Actin remodeling . Results in the overall stabilization of the actin filament network. The cell utilizes crosslinking proteins are various sizes to accomplish different means of stability within the binding network. Relatively small ABP's such as scruin, fimbrin, and espin function by solidifying actin filament bundles. Larger ABPs that exhibit coil-like qualities such as filamens function in the promotion of orthogonal organization. As a whole, actin crosslinking provides framework for which the cell may transport signaling intermediates needed for other steps within the actin remodeling cycle.",
+            "score": 518.41943359375
+        },
+        {
+            "docid": "27196937_23",
+            "document": "Actin remodeling . The immobilization by interpenetration of actin filaments results from two distinct ABP families. The gelsolin protein family is believed to be the most efficient in the disruption of actin filaments and is considered a \"strong severing protein\". These proteins respond to an increase in Ca2+ and cap the \"barbed end\" of the recently severed F-actin. The increased level of Ca2+ may also destabilize the actin-filament network by interfering with the binding of crosslinking proteins. The ADF/Cofilin protein family also serves to severe actin-filament networks through the weak severing of actin networks. This form of weak severing does not tightly cap the \"barbed ends\" but does allow for the disassociation of actin monomers and thus the disassembly of F-actin.",
+            "score": 516.67626953125
+        },
+        {
+            "docid": "4135861_4",
+            "document": "Cofilin . Cofilin is a ubiquitous actin-binding factor required for the reorganization of actin filaments. ADF/Cofilin family members bind G-actin monomers and depolymerize actin filaments through two mechanisms: severing and increasing the off-rate for actin monomers from the pointed end. \"Older\" ADP/ADP-Pi actin filaments free of tropomyosin and proper pH are required for cofilin to function effectively. In the presence of readily available ATP-G-actin cofilin speeds up actin polymerization via its actin-severing activity (providing free barbed ends for further polymerization and nucleation by the Arp2/3 complex). As a long-lasting \"in vivo\" effect, cofilin recycles older ADP-F-actin, helping cell to maintain ATP-G-actin pool for sustained motility. pH, phosphorylation and phosphoinositides regulate cofilin\u2019s binding and associating activity with actin",
+            "score": 512.1610717773438
+        },
+        {
+            "docid": "1789075_34",
+            "document": "Tropomyosin . A number of regulatory mechanisms, employing many actin-binding proteins, have evolved to control the dynamics of the actin filament system. It is believed that tropomyosins play a pivotal role in this regulatory system, influencing the associations the actin filament has with other ABPs. Together, these associations confer specific properties on the filament, allowing these structures to be involved in a wide range of cellular processes, but also to rapidly respond to cellular stimuli.",
+            "score": 507.7837829589844
+        },
+        {
+            "docid": "32189474_3",
+            "document": "Cyclase-associated protein family . All CAPs appear to contain a C-terminal actin-binding domain that regulates actin remodelling in response to cellular signals and is required for normal cellular morphology, cell division, growth and locomotion in eukaryotes. CAP directly regulates actin filament dynamics and has been implicated in a number of complex developmental and morphological processes, including mRNA localisation and the establishment of cell polarity. Actin exists both as globular (G) (monomeric) actin subunits and assembled into filamentous (F) actin. In cells, actin cycles between these two forms. Proteins that bind F-actin often regulate F-actin assembly and its interaction with other proteins, while proteins that interact with G-actin often control the availability of unpolymerised actin.",
+            "score": 503.9131164550781
+        },
+        {
+            "docid": "21449891_3",
+            "document": "Cofilin-2 . Cofilin is a widely distributed intracellular actin-modulating protein that binds and depolymerizes filamentous F-actin and inhibits the polymerization of monomeric G-actin in a pH-dependent manner. Cofilin-2 is a member of the AC group of proteins that also includes cofilin-1 (CFL1) and destrin (DSTN), all of which regulate actin-filament dynamics. The CFL2 gene encodes a skeletal muscle-specific isoform localized to the thin filaments, where it exerts its effect on actin, in part through interactions with tropomyosins.",
+            "score": 501.4849853515625
+        },
+        {
+            "docid": "200182_11",
+            "document": "Cytokinesis . At the cytokinesis furrow, it is the actin-myosin contractile ring that drives the cleavage process, during which cell membrane and wall grow inward, which eventually pinches the mother cell in two. The key components of this ring are the filamentous protein actin and the motor protein myosin II. The contractile ring assembles equatorially (in the middle of the cell) at the cell cortex (adjacent to the cell membrane). Rho protein family (RhoA protein in mammalian cells) is a key regulator of contractile ring formation and contraction in animal cells. The RhoA pathway promotes assembly of the actin-myosin ring by two main effectors. First, RhoA stimulates nucleation of unbranched actin filaments by activation of Diaphanous-related formins. This local generation of new actin filaments is important for the contractile ring formation. This actin filament formation process also requires a protein called profilin, which binds to actin monomers and helps load them onto the filament end. Second, RhoA promotes myosin II activation by the kinase ROCK, which activates myosin II directly by phosphorylation of the myosin light chain and also inhibits myosin phosphatase by phosphorylation of the phosphatase-targeting subunit MYPT. Besides actin and myosin II, the contractile ring contains the scaffolding protein anillin. Anillin binds to actin, myosin, RhoA, and CYK-4, and thereby links the equatorial cortex with the signals from the central spindle. It also contributes to the linkage of the actin-myosin ring to the plasma membrane. Another protein, septin, has also been speculated to serve as a structural scaffold on which the cytokinesis apparatus is organized. Following its assembly, contraction of the actin-myosin ring leads to ingression of the attached plasma membrane, which partitions the cytoplasm into two domains of emerging sister cells. The force for the contractile processes is generated by movements along actin by the motor protein myosin II. Myosin II uses the free energy released when ATP is hydrolyzed to move along these actin filaments, constricting the cell membrane to form a cleavage furrow. Continued hydrolysis causes this cleavage furrow to ingress (move inwards), a striking process that is clearly visible through a light microscope.",
+            "score": 494.2794189453125
+        },
+        {
+            "docid": "1789075_26",
+            "document": "Tropomyosin . Myosin belongs to a family of motor proteins, and the muscle isoforms of this family comprise the thick filament. The thin filament is made of the skeletal muscle isoforms of actin. Each myosin protein 'paddles' along the thin actin filament, repeatedly binding to myosin-binding sites along the actin filament, ratcheting and letting go. In effect, the thick filament moves or slides along the thin filament, resulting in muscle contraction. This process is known as the sliding filament model.",
+            "score": 491.9369201660156
+        },
+        {
+            "docid": "319342_5",
+            "document": "Microfilament . Actin filaments are assembled in two general types of structures: bundles and networks. Bundles can be composed of polar filament arrays, in which all barbed ends point to the same end of the bundle, or non-polar arrays, where the barbed ends point towards both ends. A class of actin-binding proteins, called cross-linking proteins, dictate the formation of these structures. Cross-linking proteins determine filament orientation and spacing in the bundles and networks. These structures are regulated by many other classes of actin-binding proteins, including motor proteins, branching proteins, severing proteins, polymerization promoters, and capping proteins.",
+            "score": 491.1182556152344
+        },
+        {
+            "docid": "1789075_27",
+            "document": "Tropomyosin . The binding of the myosin heads to the muscle actin is a highly regulated process. The thin filament is made of actin, tropomyosin, and troponin. The contraction of skeletal muscle is triggered by nerve impulses that in turn stimulate the release of Ca. The release of Ca from the sarcoplasmic reticulum causes an increase in the concentration of Ca in the cytosol. Calcium ions then bind to troponin, which is associated with tropomyosin. Binding causes changes in the shape of troponin and subsequently causes the tropomyosin isoform to shift its position on the actin filament. This shifting in position exposes the myosin-binding sites on the actin filament, allowing the myosin heads of the thick filament to bind to the thin filament.",
+            "score": 490.5370788574219
+        },
+        {
+            "docid": "1789075_32",
+            "document": "Tropomyosin . Smooth muscle contraction is initiated by the release of Ca. Ca binds to and activates calmodulin, which then binds to caldesmon. This binding causes the caldesmon protein to disengage from the actin filament, exposing the myosin-binding sites on the actin filament. Myosin motor heads are phosphorylated by myosin light-chain kinase, allowing the myosin head to interact with the actin filament and cause contraction.",
+            "score": 489.72381591796875
+        },
+        {
+            "docid": "4135861_5",
+            "document": "Cofilin . The Arp2/3 complex and cofilin work together to reorganize the actin filaments in the cytoskeleton. Arp 2/3, an actin binding proteins complex, binds to the side of ATP-F-actin near the growing barbed end of the filament, causing nucleation of a new F-actin branch, while cofilin-driven depolymerization takes place after dissociating from the Arp2/3 complex. They also work together to reorganize actin filaments in order to traffic more proteins by vesicle to continue the growth of filaments.",
+            "score": 489.5774230957031
+        },
+        {
+            "docid": "419952_7",
+            "document": "Calcium metabolism . In skeletal and heart muscle calcium ions, released from the sarcoplasmic reticulum (the endoplasmic reticulum of striated muscles) binds to the troponin C present on the actin-containing thin filaments of the myofibrils. The troponin's 3D structure changes as a result, causing the tropomyosin to which it is attached to be rolled away from the myosin-binding sites on the actin molecules that form the back-bone of the thin filaments. Myosin can then bind to the exposed myosin-binding sites on the thin filament, to undergo a repeating series of conformational changes called the cross-bridge cycle, for which ATP provides the energy. During the cycle, each myosin protein \u2018paddles\u2019 along the thin actin filament, repeatedly binding to myosin-binding sites along the actin filament, ratcheting and letting go. In effect, the thick filament moves or slides along the thin filament, resulting in muscle contraction. This process is known as the sliding filament model of muscle contraction.",
+            "score": 489.3058776855469
+        },
+        {
+            "docid": "598619_6",
+            "document": "Troponin . Troponin is a component of thin filaments (along with actin and tropomyosin), and is the protein complex to which calcium binds to trigger the production of muscular force. Troponin itself has three subunits, TnC, TnI, and TnT, each playing a role in force regulation . Under resting intracellular levels of calcium, tropomyosin covers the active sites on actin to which myosin (a molecular motor organized in muscle thick filaments) binds in order to generate force. When calcium becomes bound to specific sites in the N-domain of TnC, a series of protein structural changes occurs such that tropomyosin is rolled away from myosin-binding sites on actin, allowing myosin to attach to the thin filament and produce force and/or shorten the sarcomere.",
+            "score": 488.416259765625
+        },
+        {
+            "docid": "319342_12",
+            "document": "Microfilament . Because actin monomers must be recycled to sustain high rates of actin-based motility during chemotaxis, cell signalling is believed to activate cofilin, the actin-filament depolymerizing protein which binds to ADP-rich actin subunits nearest the filament's pointed-end and promotes filament fragmentation, with concomitant depolymerization in order to liberate actin monomers. In most animal cells, monomeric actin is bound to profilin and thymosin beta-4, both of which preferentially bind with one-to-one stoichiometry to ATP-containing monomers. Although thymosin beta-4 is strictly a monomer-sequestering protein, the behavior of profilin is far more complex. Profilin enhances the ability of monomers to assemble by stimulating the exchange of actin-bound ADP for solution-phase ATP to yield actin-ATP and ADP. Profilin is transferred to the leading edge by virtue of its PIP binding site, and it employs its poly-L-proline binding site to dock onto end-tracking proteins. Once bound, profilin-actin-ATP is loaded into the monomer-insertion site of actoclampin motors.",
+            "score": 486.877685546875
+        },
+        {
+            "docid": "1789075_23",
+            "document": "Tropomyosin . Many studies suggest that the binding of tropomyosin isoforms to an actin filament may influence the binding of other ABPs, which together alter the structure and convey specific properties and ultimately specific functions to an actin filament. This is demonstrated in neuroepithelial cells, where increased expression of Tropomyosin 5NM1 increases the recruitment of myosin IIB, a myosin motor protein to the growth cone area. However, the over-expression of Tropomyosin Br3 had the opposite effect, decreasing myosin activity in the same region.",
+            "score": 486.60614013671875
+        },
+        {
+            "docid": "53233548_5",
+            "document": "Cardiac excitation-contraction coupling . The increase in Ca, produced by CICR, now does two things. Firstly, it binds to the intracellular side of the DHPR, signalling the channels to close and preventing further influx of Ca into the cell. Secondly Ca indirectly activates proteins, called myofilaments, resulting in muscle contraction. The two main myofilaments in cardiac (and skeletal) muscle are actin and myosin. Ca binds to a protein called troponin, which is bound to the actin filament. This binding causes a shape change in the troponin which exposes areas on the actin, to which the head of the myosin filament binds. The binding of the myosin head to actin is known as a cross-bridge. A molecule, called adenosine triphosphate (ATP) which is produced by an intracellular structure called a mitochondrion, is then used, as a source of energy, to help move the myosin head, carrying the actin. As a result, the actin slides across the myosin filament shortening the muscle. This is called a power stroke. Myosin then detaches from the actin and resets itself back to its original position, binding to another part of the actin and producing another power stroke, shortening the muscle further. This process continues, with the myosin head moving in a motion similar to that of an oar rowing a boat, until the Ca level within the cell decreases (see figure 1).",
+            "score": 484.6022644042969
+        },
+        {
+            "docid": "319342_8",
+            "document": "Microfilament . Subsequently, ADP-actin dissociates slowly from the pointed end, a process significantly accelerated by the actin-binding protein, cofilin. ADP bound cofilin severs ADP-rich regions nearest the (\u2212)-ends. Upon release, the free actin monomer slowly dissociates from ADP, which in turn rapidly binds to the free ATP diffusing in the cytosol, thereby forming the ATP-actin monomeric units needed for further barbed-end filament elongation. This rapid turnover is important for the cell's movement. End-capping proteins such as CapZ prevent the addition or loss of monomers at the filament end where actin turnover is unfavorable, such as in the muscle apparatus.",
+            "score": 482.9819641113281
+        },
+        {
+            "docid": "30861458_4",
+            "document": "Arp2/3 complex . Many actin-related molecules create a free barbed end for polymerization by uncapping or severing pre-existing filaments and using these as actin nucleation cores. However, the Arp2/3 complex stimulates actin polymerization by creating a new nucleation core. Actin nucleation is an initial step in the formation of an actin filament. The nucleation core activity of Arp2/3 is activated by members of the Wiskott-Aldrich syndrome family protein (WASP, N-WASP, WAVE, and WASH proteins). The V domain of a WASP protein interacts with actin monomers while the CA region associates with the Arp2/3 complex to create a nucleation core. However, de novo nucleation followed by polymerization is not sufficient to form integrated actin networks, since these newly synthesized polymers would not be associated with pre-existing filaments. Thus, the Arp2/3 complex binds to pre-existing filaments so that the new filaments can grow on the old ones and form a functional actin cytoskeleton. Capping proteins limit actin polymerization to the region activated by the Arp2/3 complex, and the elongated filament ends are recapped to prevent depolymerization and thus conserve the actin filament.",
+            "score": 482.3705139160156
+        },
+        {
+            "docid": "27196937_2",
+            "document": "Actin remodeling . Actin remodeling is the biochemical process that allows for the dynamic alterations of cellular organization. The remodeling of actin filaments occurs in a cyclic pattern on cell surfaces and exists as a fundamental aspect to cellular life. During the remodeling process, actin monomers polymerize in response to signaling cascades that stem from environmental cues. The cell's signaling pathways cause actin to affect intracellular organization of the cytoskeleton and often consequently, the cell membrane. Again triggered by environmental conditions, actin filaments break back down into monomers and the cycle is completed.  Actin-binding proteins (ABPs) aid in the transformation of actin filaments throughout the actin remodeling process. These proteins account for the diverse structure and changes in shape of Eukaryotic cells. Despite its complexity, actin remodeling may result in complete cytoskeletal reorganization in under a minute.",
+            "score": 480.4906005859375
+        },
+        {
+            "docid": "1789075_31",
+            "document": "Tropomyosin . Although smooth muscles do not form regular arrays of thick and thin filaments like the sarcomeres of striated muscles, contraction is still due to the same sliding filament mechanism controlled by myosin crossbridges interacting with actin filaments. The thin filament of smooth muscle is made of actin, tropomyosin, caldesmon, and calmodulin. Within this type of muscle, caldesmon and calmodulin control the tropomyosin-mediated transition between on and off activity states. Caldesmon binds to actin, tropomyosin, calmodulin, and myosin, of which its interactions with actin are most important. The binding of caldesmon is strongly influenced by tropomyosin. Caldesmon is an inhibitor of actinomyosin ATPase and motility, and both actin binding and caldesmon inhibition are greatly enhanced in the presence of tropomyosin.",
+            "score": 480.1534118652344
+        },
+        {
+            "docid": "48507740_6",
+            "document": "Calponin 2 . \"In vitro\" protein binding studies have demonstrated that calponin binds actin and cross-links actin filaments. Calponin also binds tropomyosin, tubulin, desmin, Ca-calmodulin, Ca-S100, myosin, and phospholipids. Calponin also interacts with caldesmon and a-actinin, which however may only reflect their co-localization on actin filaments. The variable C-terminal segment regulates actin-binding affinity, and calponin 2 is shown to have the lowest affinity for F-actin among the three isoforms.",
+            "score": 479.6259765625
+        },
+        {
+            "docid": "1110611_22",
+            "document": "Muscle contraction . Crossbridge cycling is a sequence of molecular events that underlies the sliding filament theory. A crossbridge is a myosin projection, consisting of two myosin heads, that extends from the thick filaments. Each myosin head has two binding sites: one for ATP and another for actin. The binding of ATP to a myosin head detaches myosin from actin, thereby allowing myosin to bind to another actin molecule. Once attached, the ATP is hydrolyzed by myosin, which uses the released energy to move into the \"cocked position\" whereby it binds weakly to a part of the actin binding site. The remainder of the actin binding site is blocked by tropomyosin. With the ATP hydrolyzed, the cocked myosin head now contains ADP + P. Two ions bind to troponin C on the actin filaments. The troponin- complex causes tropomyosin to slide over and unblock the remainder of the actin binding site. Unblocking the rest of the actin binding sites allows the two myosin heads to close and myosin to bind strongly to actin. The myosin head then releases the inorganic phosphate and initiates a \"power stroke,\" which generates a force of 2 pN. The power stroke moves the actin filament inwards, thereby shortening the sarcomere. Myosin then releases ADP but still remains tightly bound to actin. At the end of the power stroke, ADP is released from the myosin head, leaving myosin attached to actin in a rigor state until another ATP binds to myosin. A lack of ATP would result in the rigor state characteristic of rigor mortis. Once another ATP binds to myosin, the myosin head will again detach from actin and another crossbridges cycle occurs.",
+            "score": 476.2728576660156
+        },
+        {
+            "docid": "7525718_3",
+            "document": "Destrin . The product of this gene belongs to the actin-binding proteins ADF (Actin-Depolymerizing Factor)/cofilin family. This family of proteins is responsible for enhancing the turnover rate of actin in vivo. This gene encodes the actin depolymerizing protein that severs actin filaments (F-actin) and binds to actin monomers (G-actin). Two transcript variants encoding distinct isoforms have been identified for this gene.",
+            "score": 475.5413513183594
+        },
+        {
+            "docid": "156970_13",
+            "document": "Cytoskeleton . Microfilaments are composed of linear polymers of G-actin proteins, and generate force when the growing (plus) end of the filament pushes against a barrier, such as the cell membrane. They also act as tracks for the movement of myosin molecules that affix to the microfilament and \"walk\" along them. In general, the major component or protein of microfilaments are actin. The G-actin monomer combines to form a polymer which continues to form the microfilament (actin filament). These subunits then assemble into two chains that intertwine into what is called, F-actin chains. Myosin motoring along F-actin filaments generates contractile forces in so-called actomyosin fibers, both in muscle as well as most non-muscle cell types. Actin structures are controlled by the Rho family of small GTP-binding proteins such as Rho itself for contractile acto-myosin filaments (\"stress fibers\"), Rac for lamellipodia and Cdc42 for filopodia.",
+            "score": 475.4580383300781
+        },
+        {
+            "docid": "420229_8",
+            "document": "Sarcomere . The protein tropomyosin covers the myosin binding sites of the actin molecules in the muscle cell. To allow the muscle cell to contract, tropomyosin must be moved to uncover the binding sites on the actin. Calcium ions bind with troponin-C molecules (which are dispersed throughout the tropomyosin protein) and alter the structure of the tropomyosin, forcing it to reveal the cross-bridge binding site on the actin.",
+            "score": 474.46923828125
+        },
+        {
+            "docid": "15192453_3",
+            "document": "Stress fiber . Stress fibers are primarily composed of actin and myosin. Actin is a ~43kDa globular protein, and can polymerize to form long filamentous structures.These filaments are made of two strands of actin monomers (or protofilaments) wrapping around each other, to create a single actin filament. Because actin monomers are not symmetrical molecules, their filaments have polarity based upon the structure of the actin monomer, which will allow one end of the actin filament to polymerize faster than the other. The end that can polymerize faster is known as the plus-end, whereas the end that polymerizes slower is known as the minus-end. Stress fibers are usually composed of 10-30 actin filaments. Stress fibers are composed of antiparallel microfilaments: actin filaments are bundled along their length, and plus-ends and minus-ends co-mingle at each end of the bundle. The antiparallel arrangement of actin filaments within stress fibers is reinforced by \u03b1-actinin, an actin filament crosslinking protein which contains antiparallel actin-binding domains. These bundles are then cross-linked by NMMII to form stress fibers.",
+            "score": 473.5169677734375
+        }
+    ]
+}

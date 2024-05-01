@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "83024_16",
+            "document": "Epipremnum aureum . While \"E. aureum\" is classified as an angiosperm, or a plant that produces flowers at some point in their life cycle, it is the only reported species in its family (Araceae) that does not develop a flower. Regardless of where this \u201cshy-flowering\u201d plant is grown or what the conditions are like, it will not flower. A study published in the scientific journal \"Nature\" determined the reason why the angiosperm doesn\u2019t flower is due to a genetic impairment of the gibberellin (GA) biosynthetic gene, EaGA3ox1. This impairment causes the plant to be unable to develop bioactive GAs, which is what is responsible for the flowering of plants via the floral meristem identity gene EaLFY. In \"E. aureum\", the floral meristem identity gene is absent due to the lack of GAs from EaGA3ox1. Additionally, it was found that when GAs were scientifically placed into the plant, flowering was induced.",
+            "score": 91.08422291278839
+        },
+        {
+            "docid": "256641_18",
+            "document": "Plant hormone . Gibberellins (GAs) include a large range of chemicals that are produced naturally within plants and by fungi. They were first discovered when Japanese researchers, including Eiichi Kurosawa, noticed a chemical produced by a fungus called \"Gibberella fujikuroi\" that produced abnormal growth in rice plants. It was later discovered that GAs are also produced by the plants themselves and they control multiple aspects of development across the life cycle. The synthesis of GA is strongly upregulated in seeds at germination and its presence is required for germination to occur. In seedlings and adults, GAs strongly promote cell elongation. GAs also promote the transition between vegetative and reproductive growth and are also required for pollen function during fertilization.",
+            "score": 68.51358222961426
+        },
+        {
+            "docid": "496670_16",
+            "document": "Gibberellin . Most bioactive GAs are located in actively growing organs on plants. Both GA20ox and GA3ox genes (genes coding for GA 20-oxidase and GA 3-oxidase) and the SLENDER1 gene (a GA signal transduction gene) are found in growing organs on rice, which suggests bioactive GA synthesis occurs at their site of action in growing organs in plants. During flower development, the tapetum of anthers is believed to be a primary site of GA biosynthesis.",
+            "score": 96.31973195075989
+        },
+        {
+            "docid": "496670_22",
+            "document": "Gibberellin . Recent evidence suggests fluctuations in GA concentration influence light-regulated seed germination, photomorphogenesis during de-etiolation, and photoperiod regulation of stem elongation and flowering. Microarray analysis showed about one fourth cold-responsive genes are related to GA-regulated genes, which suggests GA influences response to cold temperatures. Plants reduce growth rate when exposed to stress. A relationship between GA levels and amount of stress experienced has been suggested in barley.",
+            "score": 88.23730874061584
+        },
+        {
+            "docid": "72727_23",
+            "document": "Green Revolution . Plant scientists figured out several parameters related to the high yield and identified the related genes which control the plant height and tiller number. With advances in molecular genetics, the mutant genes responsible for \"Arabidopsis thaliana\" genes (GA 20-oxidase, \"ga1\", \"ga1-3\"), wheat reduced-height genes (\"Rht\") and a rice semidwarf gene (\"sd1\") were cloned. These were identified as gibberellin biosynthesis genes or cellular signaling component genes. Stem growth in the mutant background is significantly reduced leading to the dwarf phenotype. Photosynthetic investment in the stem is reduced dramatically as the shorter plants are inherently more stable mechanically. Assimilates become redirected to grain production, amplifying in particular the effect of chemical fertilizers on commercial yield.",
+            "score": 99.82590389251709
+        },
+        {
+            "docid": "51498172_5",
+            "document": "Peter J. Davies . In 1866, Gregor Mendel, the father of genetics, demonstrated that height in peas was controlled by a single factor. More than a century later, Davies discovered that Mendel's stem length gene (\"Le\") in peas encoded a gibberellin 3\u03b2-hydroxylase. This enzyme converts GA, an inactive form of gibberellin to GA, the form of gibberellin that stimulates stem growth in peas. The conversion of gibberellins results in the tall phenotype that Mendel observed. The mutant (\"le\") that was observed by Mendel is shorter because it is unable to convert sufficient GA to GA.",
+            "score": 84.24161982536316
+        },
+        {
+            "docid": "22574738_16",
+            "document": "Biotic stress . Studies regarding the upregulation of defensive chemicals have confirmed the role of SA and JA in pathogen defense. In studies utilizing \"Arabidopsis\" mutants with the bacterial \"NahG\" gene, which inhibits the production and accumulation of SA, were shown to be more susceptible to pathogens than the wild-type plants. This was thought to result from the inability to produce critical defensive mechanisms including increased PR gene expression. Other studies conducted by injecting tobacco plants and \"Arabidopsis\" with salicylic acid resulted in higher resistance of infection by the alfalfa and tobacco mosaic viruses, indicating a role for SA biosynthesis in reducing viral replication. Additionally, studies performed using \"Arabidopsis\" with mutated jasmonic acid biosynthesis pathways have shown JA mutants to be at an increased risk of infection by soil pathogens.",
+            "score": 105.79793846607208
+        },
+        {
+            "docid": "3160065_11",
+            "document": "ABC model of flower development . The fact that these homeotic genes determine an organ\u2019s identity becomes evident when a gene that represents a particular function, for example the A gene, is not expressed. In \"Arabidopsis\" this loss results in a flower which is composed of one verticil of carpels, another containing stamens and another of carpels. This method for studying gene function uses reverse genetics techniques to produce transgenic plants that contain a mechanism for gene silencing through RNA interference. In other studies, using forward genetics techniques such as genetic mapping, it is the analysis of the phenotypes of flowers with structural anomalies that leads to the cloning of the gene of interest. The flowers may possess a non-functional or over expressed allele for the gene being studied.",
+            "score": 75.33004903793335
+        },
+        {
+            "docid": "496670_19",
+            "document": "Gibberellin . Feedback and feedforward regulation maintains the levels of bioactive GAs in plants. Levels of \"AtGA20ox1\" and \"AtGA3ox1\" expression are increased in a GA deficient environment, and decreased after the addition of bioactive GAs, Conversely, expression of \"AtGA2ox1\" and \"AtGA2ox2\", GA deactivation genes, is increased with addition of GA.",
+            "score": 86.85874128341675
+        },
+        {
+            "docid": "3293979_3",
+            "document": "Jasmonic acid . Its biosynthesis starts from the fatty acid linolenic acid, which is oxygenated by Lipoxygenase (13-LOX) forming a peroxide. This peroxide then cyclizes in the presence of allene oxide synthase to form an allene oxide. This allene oxide rearranges as catalyzed by the enzyme allene oxide cyclase to form 12-oxophytodienoic acid, undergoes a series of \u03b2-oxidations to 7-iso-jasmonic acid. In the absence of enzyme, this iso-jasmonic acid isomerizes to jasmonic acid .  The major function of JA and its various metabolites is regulating plant responses to abiotic and biotic stresses as well as plant growth and development. Regulated plant growth and development processes include growth inhibition, senescence, tendril coiling, flower development and leaf abscission. JA is also responsible for tuber formation in potatoes and yams. It has an important role in response to wounding of plants and systemic acquired resistance. The Dgl gene is responsible for maintaining levels of JA during usual conditions in \"Zea mays\" as well as the preliminary release of jasmonic acid shortly after being fed upon. When plants are attacked by insects, they respond by releasing JA, which activates the expression of protease inhibitors, among many other anti-herbivore defense compounds. These protease inhibitors prevent proteolytic activity of the insects' digestive proteases or \"salivary proteins\", thereby stopping them from acquiring the needed nitrogen in the protein for their own growth. JA also activates the expression of Polyphenol oxidase which promotes the production of Quinolines. These can interfere with the insect's enzyme production and decrease the nutrition content of the ingested plant.",
+            "score": 139.16664850711823
+        },
+        {
+            "docid": "670854_11",
+            "document": "Jasmonate . Although jasmonate (JA) regulates many different processes in the plant, its role in wound response is best understood. Following mechanical wounding or herbivory, JA biosynthesis is rapidly activated, leading to expression of the appropriate response genes. For example, in the tomato, wounding produces defense molecules that inhibit leaf digestion in the insect's gut. Another indirect result of JA signaling is the volatile emission of JA-derived compounds. MeJA on leaves can travel airborne to nearby plants and elevate levels of transcripts related to wound response. In general, this emission can further upregulate JA synthesis and signaling and induce nearby plants to prime their defenses in case of herbivory.",
+            "score": 119.29609942436218
+        },
+        {
+            "docid": "496670_2",
+            "document": "Gibberellin . Gibberellins (GAs) are plant hormones that regulate various developmental processes, including stem elongation, germination, dormancy, flowering, flower development and leaf and fruit senescence. GAs are one of the longest-known classes of plant hormone. It is thought that the (albeit unconscious) selective breeding of crops strains that were deficient in GA synthesis was one of the key drivers of the \"green revolution\" in the 1960's, a revolution that is credited to have saved over a billion lives worldwide.",
+            "score": 95.04283237457275
+        },
+        {
+            "docid": "1961227_11",
+            "document": "Pachypodium baronii . With an apex 4\u00a0mm (0.158-inch) to 4.5\u00a0mm (0.177-inch) below the mouth of the corolla tube, \"Pachypodium baronii's\" stamens are inserted at 0.47 to 0.6 the length of the corolla tube. It measures at 1.0\u00a0cm (0.394-inch) to 1.4\u00a0cm (0.551-inch) from the base. The stamen is the male reproductive organ of a flower where it usually has a filament and, at least, an anther. A filament is usually thin short or elongated stalk of the stamen that carries the anther at the upper end; whereas the anther is the part of the stamen that bear the pollen. In \"baronii,\" the anthers are very narrowly triangular at 5 to 6 times as long as wide, measuring 6\u00a0mm (0.236-inch) to 6.5\u00a0mm (0.256-inch) in length by 1.0\u00a0mm (0.039-inch) to 1.3\u00a0mm (0.051-inch) wide. They are pubescent inside at the base of the connective, the sterile part of the anther as opposed to the theca, which is the part of the anther that carries pollen, and are just below where the anther occurs with the pistil head, part of the female reproductive organ in a flower.",
+            "score": 70.14713132381439
+        },
+        {
+            "docid": "21378333_7",
+            "document": "Gynodioecy . Cytoplasmic male sterility genes, usually found in the mitochondrial genome, show up and are established when female fertility is just slightly more than the hermaphroditic fertility. The female only needs to make slightly more or better seeds than hermaphrodites since the mitochondrial genome is maternally inherited. Research done on plants has shown that hermaphroditic plants are in constant battles against organelle genes trying to kill their male parts. In over 140 plant species, these \u201cmale killer\u201d genes have been observed. Male sterility genes cause plants to grow anthers that are stunted or withered and as a result, do not produce pollen. In most plants, there are nuclear fertility restoring genes that counteract the work of the male sterility genes, maintaining the hermaphroditic state of the plant. However, in some species of plants, the male sterility genes win the battle over the nuclear fertility restoring genes, and gynodioecy occurs.",
+            "score": 44.02938532829285
+        },
+        {
+            "docid": "51568780_8",
+            "document": "Sex determination in Silene . Different combinations of the genes present in a \"Silene\" Y chromosome affect the sexual expression in the organism\".\" For example, there are two genetic variations that can lead to male sterility in \"S. latifolia\": if it possesses two Y chromosomes (YY) or if the Y chromosome possesses the female suppression and male promoting genes. \"Silene\" are also susceptible to a type of sexually transmitted infection that causes sterility. Another possible combination includes the presence of all three sex-linked genes (male suppressing, female suppressing, and male promoting) which produce virile male offspring. The flower is hermaphrodite when both male promoting and male fertility genes are present. Lastly, Y chromosomes carrying both female suppression and male fertility genes creates an asexual organism.",
+            "score": 47.6414338350296
+        },
+        {
+            "docid": "6910578_6",
+            "document": "Cytoplasmic male sterility . While CMS is controlled by an extranuclear genome, nuclear genes may have the capability to restore fertility. When nuclear restoration of fertility genes (\"Rf\") is available for a CMS system in any crop, it is cytoplasmic\u2013genetic male sterility; the sterility is manifested by the influence of both nuclear (with Mendelian inheritance) and cytoplasmic (maternally inherited) genes. There are also restorers of fertility (\"Rf\") genes that are distinct from genetic male sterility genes. The \"Rf\" genes have no expression of their own unless the sterile cytoplasm is present. \"Rf\" genes are required to restore fertility in S cytoplasm that causes sterility. Thus plants with N cytoplasm are fertile and S cytoplasm with genotype \"Rf\"- leads to fertiles while S cytoplasm with \"rfrf\" produces only male steriles. Another feature of these systems is that \"Rf\" mutations (\"i.e.\", mutations to \"rf\" or no fertility restoration) are frequent, so that N cytoplasm with \"Rfrf\" is best for stable fertility.",
+            "score": 42.8907630443573
+        },
+        {
+            "docid": "496670_14",
+            "document": "Gibberellin . One or two genes encode the enzymes responsible for the first steps of GA biosynthesis in Arabidopsis and rice. The null alleles of the genes encoding CPS, KS, and KO result in GA-deficient Arabidopsis dwarves. Multigene families encode the 2ODDs that catalyze the formation of GA12 to bioactive GA4.",
+            "score": 85.13255739212036
+        },
+        {
+            "docid": "11008314_87",
+            "document": "Evolutionary history of plants . The evolution of the MADS-box family has been extensively studied. These genes are present even in pteridophytes, but the spread and diversity is many times higher in angiosperms. There appears to be quite a bit of pattern into how this family has evolved. Consider the evolution of the C-region gene \"AGAMOUS (AG)\". It is expressed in today's flowers in the stamens, and the carpel, which are reproductive organs. Its ancestor in gymnosperms also has the same expression pattern. Here, it is expressed in the strobili, an organ that produces pollen or ovules. Similarly, the B-genes' \"(AP3 and PI)\" ancestors are expressed only in the male organs in gymnosperms. Their descendants in the modern angiosperms also are expressed only in the stamens, the male reproductive organ. Thus, the same, then-existing components were used by the plants in a novel manner to generate the first flower. This is a recurring pattern in evolution.",
+            "score": 68.4357715845108
+        },
+        {
+            "docid": "13571938_34",
+            "document": "Plant evolutionary developmental biology . The evolution of the MADS-box family has been extensively studied. These genes are present even in pteridophytes, but the spread and diversity is many times higher in angiosperms. There appears to be quite a bit of pattern into how this family has evolved. Consider the evolution of the C-region gene \"AGAMOUS (AG)\". It is expressed in today's flowers in the stamens, and the carpel, which are reproductive organs. It's ancestor in gymnosperms also has the same expression pattern. Here, it is expressed in the strobili, an organ that produces pollens or ovules. Similarly, the B-genes' \"(AP3 and PI)\" ancestors are expressed only in the male organs in gymnosperms. Their descendants in the modern angiosperms also are expressed only in the stamens, the male reproductive organ. Thus, the same, then-existing components were used by the plants in a novel manner to generate the first flower. This is a recurring pattern in evolution.",
+            "score": 71.66912949085236
+        },
+        {
+            "docid": "16128216_6",
+            "document": "Double-flowered . In \"Arabidopsis\", which has been used as a model for understanding flower development, the double-flower gene AGAMOUS encodes a protein responsible for tissue specification of stamen and carpel flower segments. When both copies of the gene are deleted or otherwise damaged, developing flowers lack the signals to form stamen and carpel segments. Regions which would have formed stamens instead default to petals and the carpel region develops into a new flower, resulting in a recursive sepal-petal-petal pattern. Because no stamens and carpels form, the plants have no reproductive organs and are sexually sterile.",
+            "score": 82.54249668121338
+        },
+        {
+            "docid": "37138_22",
+            "document": "Arabidopsis thaliana . \"A. thaliana \"has been extensively studied as a model for flower development. The developing flower has four basic organs: sepals, petals, stamens, and carpels (which go on to form pistils). These organs are arranged in a series of whorls: four sepals on the outer whorl, followed by four petals inside this, six stamens, and a central carpel region. Homeotic mutations in \"A. thaliana\" result in the change of one organ to another \u2014 in the case of the \"agamous\" mutation, for example, stamens become petals and carpels are replaced with a new flower, resulting in a recursively repeated sepal-petal-petal pattern. Observations of homeotic mutations led to the formulation of the ABC model of flower development by E. Coen and E. Meyerowitz. According to this model, floral organ identity genes are divided into three classes: class A genes (which affect sepals and petals), class B genes (which affect petals and stamens), and class C genes (which affect stamens and carpels). These genes code for transcription factors that combine to cause tissue specification in their respective regions during development. Although developed through study of \"A. thaliana\" flowers, this model is generally applicable to other flowering plants.",
+            "score": 78.9986721277237
+        },
+        {
+            "docid": "670854_15",
+            "document": "Jasmonate . One of the molecules included in this mixture is the phytotoxin coronatine (COR). JA-insensitive plants are highly resistant to \"P. syringae\" and unresponsive to COR; additionally, applying MeJA was sufficient to rescue virulence in COR mutant bacteria. Infected plants also expressed downstream JA and wound response genes but repressed levels of pathogenesis-related (PR) genes. All these data suggest COR acts through the JA pathway to invade host plants. Activation of a wound response is hypothesized to come at the expense of pathogen defense. By activating the JA wound response pathway, \"P. syringae\" could divert resources from its host's immune system and infect more effectively.",
+            "score": 90.49677324295044
+        },
+        {
+            "docid": "22574738_15",
+            "document": "Biotic stress . Both the pattern recognition immunity (PTI) and effector-triggered immunity (ETI) result from the upregulation of multiple defense mechanisms including defensive chemical signaling compounds. An increase in the production of salicylic acid (SA) has been shown to be induced by pathogenic infection. The increase in SA results in the production of pathogenesis related (PR) genes which ultimately increase plant resistance to biotrophic and hemibiotrophic pathogens. Increases in jasmonic acid (JA) synthesis near the sites of pathogen infection have also been described. This physiological response to increase JA production has been implicated in the ubiquitination of jasmonate ZIM domains (JAZ) proteins, which inhibit JA signaling, leading to their degradation and a subsequent increase in JA activated defense genes.",
+            "score": 101.63243699073792
+        },
+        {
+            "docid": "26805_22",
+            "document": "Sex . Many plants have flowers and these are the sexual organs of those plants. Flowers are usually hermaphroditic, producing both male and female gametes. The female parts, in the center of a flower, are the pistils, each unit consisting of a carpel, a style and a stigma. One or more of these reproductive units may be merged to form a single compound pistil. Within the carpels are ovules which develop into seeds after fertilization. The male parts of the flower are the stamens: these consist of long filaments arranged between the pistil and the petals that produce pollen in anthers at their tips. When a pollen grain lands upon the stigma on top of a carpel's style, it germinates to produce a pollen tube that grows down through the tissues of the style into the carpel, where it delivers male gamete nuclei to fertilize an ovule that eventually develops into a seed.",
+            "score": 65.87450087070465
+        },
+        {
+            "docid": "51568780_7",
+            "document": "Sex determination in Silene . Several studies concentrated on \"Silene latifolia\" have shown a correlation between loci on the Y chromosome and the sex that is expressed phenotypically in the flower\".\" Two of these sex-linked genes \u201cpromote maleness\u201d (male fertility and male promotion) and one of them codes for female suppression. Therefore, the Y chromosome carries three dominant genes that determine the sexual expression in a \"Silene\" offspring. If there are deletions and mutations in the Y chromosome during reproduction, then different sex-linked genes are lost. The different combinations of possible sex-related genes that an individual \"Silene\" can have in one Y chromosome are what creates the rich variation of sexual phenotypes throughout this genus. The system for determining sex in \"Silene latifolia\" is close to that found in humans because in both cases the Y chromosome determines what reproductive mechanisms will be expressed in the offspring. They differ because there are multiple sex determining genes on the Y chromosome of \"S. latifolia\", while in humans the presence or absence of the Y chromosome strictly determines whether the offspring is male or female.",
+            "score": 41.889811277389526
+        },
+        {
+            "docid": "3921780_14",
+            "document": "Phyllody . Environmental abiotic factors like hot weather or water stress that result in an imbalance in plant hormones during flowering can cause phyllody. These can usually be differentiated from phyllody caused by biotic factors by the simultaneous presence of healthy and abnormal flowers. When conditions normalize, the plants resume normal flowering. The susceptibility of plants to environmentally caused phyllody can be genetic. Phyllody can be artificially induced by applying cytokinins (CK), plant hormones responsible for cell division, as well as apical dominance and axillary bud growth. Conversely, it can be subsequently suppressed with the application of gibberellins (GA), plant hormones responsible for stem elongation, flowering, and sex expression.",
+            "score": 75.16427612304688
+        },
+        {
+            "docid": "1639131_2",
+            "document": "Heterostyly . Heterostyly is a unique form of polymorphism and herkogamy in flowers. In a heterostylous species, two or three morphological types of flowers, termed \"morphs\", exist in the population. On each individual plant, all flowers share the same morph. The flower morphs differ in the lengths of the pistil and stamens, and these traits are not continuous. The morph phenotype is genetically linked to genes responsible for a unique system of self-incompatibility, termed heteromorphic self-incompatibility, that is, the pollen from a flower on one morph cannot fertilize another flower of the same morph.",
+            "score": 50.03895115852356
+        },
+        {
+            "docid": "31066520_10",
+            "document": "Deepwater rice . The elongation is triggered when the plant is submerged through a mechanism involving ethylene gas. Ethylene is normally produced by plants and diffused into the air, but when floating rice is submerged in water, this process is disrupted as the gas moves more slowly into water. This leads to a buildup of ethylene in the plant. This triggers the production of a hormone called gibberellin which causes the rapid growth in the plant. When the plant reaches the surface, the ethylene gas can escape as normal and the rapid growth stops. Research continues to enhance the ability to cope with increasing water depth. Rice will drown if submerged for too long.",
+            "score": 59.17684030532837
+        },
+        {
+            "docid": "496670_17",
+            "document": "Gibberellin . Arabidopsis, a plant, and Gibberella fujikuroi, a fungus, possess different GA pathways and enzymes. P450s in fungi perform functions analogous to the functions of KAOs in plants. The function of CPS and KS in plants is performed by a single enzyme, CPS/KS, in fungi. In fungi, the GA biosynthesis genes are found on one chromosome, but in plants, they are found randomly on multiple chromosomes. Plants produce low amount of GA3, therefore the GA3 is produced for industrial purposes by microorganisms. Industrially the gibberellic acid can be produced by submerged fermentation, but this process presents low yield with high production costs and hence higher sale value, nevertheless other alternative process to reduce costs of the GA3 production is Solid-State Fermentation (SSF) that allows the use of agro-industrial residues.",
+            "score": 75.76647853851318
+        },
+        {
+            "docid": "496670_18",
+            "document": "Gibberellin . Several mechanisms for inactivating GAs have been identified. 2\u03b2-hydroxylation deactivates GA, and is catalyzed by GA2-oxidases (GA2oxs). Some GA2oxs use C19-GAs as substrates, and other GA2oxs use C20-GAs. Cytochrome P450 mono-oxygenase, encoded by elongated uppermost internode (eui), converts GAs into 16\u03b1,17-epoxides. Rice eui mutants amass bioactive GAs at high levels, which suggests cytochrome P450 mono-oxygenase is a main enzyme responsible for deactivation GA in rice. The Gamt1 and gamt2 genes encode enzymes that methylate the C-6 carboxyl group of GAs. In a gamt1 and gamt2 mutant, concentrations of GA is developing seeds is increased.",
+            "score": 69.44341158866882
+        },
+        {
+            "docid": "9005332_2",
+            "document": "Octadecanoid pathway . The octadecanoid pathway is a reasonably well-characterized biosynthetic pathway for the production of the phytohormone jasmonic acid (JA), an important hormone for induction of defense genes. JA is synthesized from alpha-linolenic acid, which can be released from the plasma membrane by certain lipase enzymes. For example, in the wound defense response, phospholipase C will cause the release of alpha-linolenic acid for JA synthesis.",
+            "score": 84.37844467163086
+        },
+        {
+            "docid": "15120_12",
+            "document": "Interferon . STAT activation initiates the most well-defined cell signaling pathway for all IFNs, the classical Janus kinase-STAT (JAK-STAT) signaling pathway. In this pathway, JAKs associate with IFN receptors and, following receptor engagement with IFN, phosphorylate both STAT1 and STAT2. As a result, an IFN-stimulated gene factor 3 (ISGF3) complex forms\u2014this contains STAT1, STAT2 and a third transcription factor called IRF9\u2014and moves into the cell nucleus. Inside the nucleus, the ISGF3 complex binds to specific nucleotide sequences called \"IFN-stimulated response elements\" (ISREs) in the promoters of certain genes, known as IFN stimulated genes ISGs. Binding of ISGF3 and other transcriptional complexes activated by IFN signaling to these specific regulatory elements induces transcription of those genes. A collection of known ISGs is available on Interferome, a curated online database of ISGs (www.interferome.org); Additionally, STAT homodimers or heterodimers form from different combinations of STAT-1, -3, -4, -5, or -6 during IFN signaling; these dimers initiate gene transcription by binding to IFN-activated site (GAS) elements in gene promoters. Type I IFNs can induce expression of genes with either ISRE or GAS elements, but gene induction by type II IFN can occur only in the presence of a GAS element.",
+            "score": 48.45666813850403
+        }
+    ],
+    "r": [
+        {
+            "docid": "1572831_3",
+            "document": "Plant senescence . Programmed senescence seems to be heavily influenced by plant hormones. The hormones abscisic acid, ethylene, jasmonic acid and salicylic acid are accepted by most scientists as promoters of senescence, but at least one source lists gibberellins, brassinosteroids and strigolactone as also being involved. Cytokinins help to maintain the plant cell and expression of cytokinin biosynthesis genes late in development prevents leaf senescence. A withdrawal of or inability of the cell to perceive cytokinin may cause it to undergo apoptosis or senescence. In addition, mutants that cannot perceive ethylene show delayed senescence. Genome-wide comparison of mRNAs expressed during dark-induced senescence versus those expressed during age-related developmental senescence demonstrate that jasmonic acid and ethylene are more important for dark-induced (stress-related) senescence while salicylic acid is more important for developmental senescence.",
+            "score": 145.4527130126953
+        },
+        {
+            "docid": "3293979_3",
+            "document": "Jasmonic acid . Its biosynthesis starts from the fatty acid linolenic acid, which is oxygenated by Lipoxygenase (13-LOX) forming a peroxide. This peroxide then cyclizes in the presence of allene oxide synthase to form an allene oxide. This allene oxide rearranges as catalyzed by the enzyme allene oxide cyclase to form 12-oxophytodienoic acid, undergoes a series of \u03b2-oxidations to 7-iso-jasmonic acid. In the absence of enzyme, this iso-jasmonic acid isomerizes to jasmonic acid .  The major function of JA and its various metabolites is regulating plant responses to abiotic and biotic stresses as well as plant growth and development. Regulated plant growth and development processes include growth inhibition, senescence, tendril coiling, flower development and leaf abscission. JA is also responsible for tuber formation in potatoes and yams. It has an important role in response to wounding of plants and systemic acquired resistance. The Dgl gene is responsible for maintaining levels of JA during usual conditions in \"Zea mays\" as well as the preliminary release of jasmonic acid shortly after being fed upon. When plants are attacked by insects, they respond by releasing JA, which activates the expression of protease inhibitors, among many other anti-herbivore defense compounds. These protease inhibitors prevent proteolytic activity of the insects' digestive proteases or \"salivary proteins\", thereby stopping them from acquiring the needed nitrogen in the protein for their own growth. JA also activates the expression of Polyphenol oxidase which promotes the production of Quinolines. These can interfere with the insect's enzyme production and decrease the nutrition content of the ingested plant.",
+            "score": 139.16664123535156
+        },
+        {
+            "docid": "1041312_10",
+            "document": "Phytoplasma . TCP protein domains normally regulate plant development, controlling the expression of lipoxygenase genes required for jasmonate biosynthesis. Jasmonate levels are decreased in phytoplasma-infected \"Arabidopsis\" plants and plants that transgenically express SAP11, an effector of AY-WB phytoplasmas. The downregulation of jasmonate production is beneficial to phytoplasmas because jasmonate is involved in plant defenses against herbivorous insects such as leafhoppers. Leafhoppers lay increased numbers of eggs on AY-WB-infected plants, at least in part because of SAP11 production. For example, the leafhopper \"Macrosteles quadrilineatus\" laid 30% more eggs on plants that expressing SAP11 transgenically than control plants, and 60% more eggs on plants infected with AY-WB. Phytoplasmas cannot survive in the external environment and are dependent upon insects such as leafhoppers for transmission to new (healthy) plants. Thus, by compromising jasmonate production, SAP11 'encourages' leafhoppers to lay more eggs on phytoplasma-infected plants, thereby ensuring that newly hatched leafhopper nymphs feed upon infected plants to become phytoplasma vectors.",
+            "score": 129.5120086669922
+        },
+        {
+            "docid": "45214668_12",
+            "document": "WRKY transcription factor . WRKY transcription factors function through a variety of plant hormone signaling cascades. Over half of Arabidopsis thaliana WRKY transcription factors respond to salicylic acid treatment. At least 25% of WRKY transcription factors from Madagascar periwinkle (Catharanthus roseus) are responsive to jasmonate. Similarly, in grape (Vitis vinifera) 63%, 73%, 76%, and 81% or WRKY transcription factors are responsive to salicylic acid, ethylene, abscisic acid, and jasmonate treatment, respectively. In Arabidopsis thaliana, two important WRKY transcription factors are WRKY57 and WRKY70. WRKY57 mediates crosstalk between jasmonate and auxin signaling cascades, whereas WRKY70 moderates signaling between the jasmonate and salicylic acid pathways. Arabidopsis thaliana WRKY23 functions downstream of auxin signaling to positively activate expression of flavonols, which function as polar auxin transport inhibitors, to negatively feedback and suppress further auxin responses. Several WRKY transcription factors also respond to gibberellin treatment.",
+            "score": 123.6368408203125
+        },
+        {
+            "docid": "5326585_13",
+            "document": "Systemin . Although the receptors for systemins and HypSys remain poorly understood, we have a better understanding of the signal transduction that occurs once the peptide had bound to its receptor. Jasmonic acid is an essential, albeit late component, in the systemin and wound-signalling pathways. In tomato, the signal is transduced from the receptor by mitogen-activated protein kinases (MAPKs). Cosilencing of two MAPKs, MPK1 and MPK2, in tomato compromised their defence response against insect larvae compared to wild type plants. Cosilencing these genes also decreased production of jasmonic acid and of jasmonic acid-dependent defence genes. Applying methyl jasmonate to cosilenced plants rescued them, indicating that jasmonates are the signal responsible for causing changes in gene expression. The alkalisation of the apoplast is a downstream effect of signalling processing by MAPKs. Applying fusicoccin, which activates the H ATPase inhibited by systemin, along with systemin still activates MAPKs, even though the pH of the apoplast does not change.",
+            "score": 121.42515563964844
+        },
+        {
+            "docid": "670854_11",
+            "document": "Jasmonate . Although jasmonate (JA) regulates many different processes in the plant, its role in wound response is best understood. Following mechanical wounding or herbivory, JA biosynthesis is rapidly activated, leading to expression of the appropriate response genes. For example, in the tomato, wounding produces defense molecules that inhibit leaf digestion in the insect's gut. Another indirect result of JA signaling is the volatile emission of JA-derived compounds. MeJA on leaves can travel airborne to nearby plants and elevate levels of transcripts related to wound response. In general, this emission can further upregulate JA synthesis and signaling and induce nearby plants to prime their defenses in case of herbivory.",
+            "score": 119.29609680175781
+        },
+        {
+            "docid": "361993_18",
+            "document": "Ripening . Jasmonate is involved in multiple aspects of the ripening process in non-climacteric fruits. This class of hormones includes jasmonic acid and methyl jasmonate. Studies showed that the expression of genes involved in various pathways in ripening was increased with the addition of methyl jasmonate. This study found that methyl jasmonate led to an increase in red coloration and the accumulation of lignin and anthocyanins, which can be used as ripening indicators. The genes they analyzed include those involved in anthocyanin accumulation, cell wall modification, and ethylene synthesis; all of which promote fruit ripening.",
+            "score": 117.55961608886719
+        },
+        {
+            "docid": "144759_15",
+            "document": "Cucurbita . The plant hormone gibberellin, produced in the stamens, is essential for the development of all parts of the male flowers. The development of female flowers is not yet understood. Gibberellin is also involved in other developmental processes of plants such as seed and stem growth.",
+            "score": 113.74180603027344
+        },
+        {
+            "docid": "22574738_13",
+            "document": "Biotic stress . Calcium Ions also play a large role in activating a plants defencive response. When fatty acid amides are present in insect saliva, the mitogen-activated protein kinases (MAPKs) are activated. These genes when activated, play a role in the jasmonic acid pathway. The jasmonic acid pathway is also referred to as the Octadecanoid pathway. This pathway is vital for the activation of defence genes in plants. The production of jasmonic acid, a phytohormone, is a result of the pathway. In an experiment using virus-induced gene silencing of two calcium-dependent protein kinases (CDPKs) in a wild tobacco ( \"Nicotiana attenuata)\", it was discovered that the longer herbivory continued the higher the accumulation of jasmonic acid in wild-type plants and in silenced plants, the production of more defence metabolites was seen as well as the decrease in the growth rate of the herbivore used, the tobacco hornworm (\"Manduca sexta).\" This example demonstrates the importance of MAP kinases in plant defence regulation. \u00a0",
+            "score": 109.2215347290039
+        },
+        {
+            "docid": "670854_2",
+            "document": "Jasmonate . Jasmonate (JA) and its derivatives are lipid-based plant hormones that regulate a wide range of processes in plants, ranging from growth and photosynthesis to reproductive development. In particular, JAs are critical for plant defense against herbivory and plant responses to poor environmental conditions and other kinds of abiotic and biotic challenges. Some JAs can also be released as volatile organic compounds (VOCs) to permit communication between plants in anticipation of mutual dangers.",
+            "score": 109.0495376586914
+        },
+        {
+            "docid": "14040111_8",
+            "document": "12-oxophytodienoate reductase . The reaction catalyzed by 12-oxophytodienoate reductase is in the jasmonic acid biosynthesis pathway. Jasmonic acid is known for its importance as a gene regulator for development and defense.",
+            "score": 108.9201431274414
+        },
+        {
+            "docid": "5326585_14",
+            "document": "Systemin . Within minutes of systemin perception, the cytosolic Ca concentration increases, and linolenic acid is released from cell membranes after a phospholipase has been activated. Linolenic acid is then converted to jasmonic acid via the octadecanoid pathway and jasmonic acid activates defensive genes. Production of methyl jasmonate is induced by systemins and also upregulates systemin precursor genes creating a feedback loop, amplifying the defensive signal. Methyl jasmonate is volatile and can therefore activate systemic acquired resistance in neighbouring plants, preparing their defences for attack. These signalling events are analogous to the cytokine-mediated inflammatory immune response in animals. When the inflammatory response is activated in animals, MAPKs are activated which in turn activate phospholipases. Lipids in the membrane are converted to arachidonic acid and then to prostaglandins, which are analogs of jasmonic acid. Both pathways can be inhibited by suramin.",
+            "score": 108.87223052978516
+        },
+        {
+            "docid": "34609653_5",
+            "document": "Elicitor . Plant hormones are signalling molecules produced within the plant (i.e. they are endogenous). Hormones regulate cellular processes in targeted cells locally and can be moved to other parts of the plant. Examples of plant hormones are auxins, cytokins, gibberellin, ethylene, abscisic acid, salicylic acid and jasmonates. Hormones naturally occur in extremely low, finely balanced, concentrations.",
+            "score": 107.85086822509766
+        },
+        {
+            "docid": "41193411_4",
+            "document": "Choi Yang-do . Choi researched jasmonates, which are believed to participate in signal transduction processes between external stresses, such as wounding, pathogenic attack, or cell response by activating the defense genes. He discovered a new enzyme, (EC2.1.1.141) jasmonate carboxyl methyltransferase (JMT), which catalyzes the methylation of jasmonate to MeJA. The overexpression of the JMT gene confers resistance to pathogens. He is currently working to understand the molecular function of MeJA, JMT, and its effector genes. Furthermore, the genetic engineering of crops by application of those genes and knowledge is under investigation.",
+            "score": 107.13801574707031
+        },
+        {
+            "docid": "1581694_2",
+            "document": "Methyl jasmonate . Methyl jasmonate (abbreviated MeJA) is a volatile organic compound used in plant defense and many diverse developmental pathways such as seed germination, root growth, flowering, fruit ripening, and senescence. Methyl jasmonate is derived from jasmonic acid and the reaction is catalyzed by S-adenosyl-L-methionine:jasmonic acid carboxyl methyltransferase.  Plants produce jasmonic acid and methyl jasmonate in response to many biotic and abiotic stresses (in particular, herbivory and wounding), which build up in the damaged parts of the plant. The methyl jasmonate can be used to signal the original plant\u2019s defense systems or it can be spread by physical contact or through the air to produce a defensive reaction in unharmed plants. The unharmed plants absorb the airborne MeJA through either the stomata or diffusion through the leaf cell cytoplasm. An herbivorous attack on a plant causes it to produce MeJA both for internal defense and for a signaling compound to other plants.",
+            "score": 106.7515869140625
+        },
+        {
+            "docid": "22574738_16",
+            "document": "Biotic stress . Studies regarding the upregulation of defensive chemicals have confirmed the role of SA and JA in pathogen defense. In studies utilizing \"Arabidopsis\" mutants with the bacterial \"NahG\" gene, which inhibits the production and accumulation of SA, were shown to be more susceptible to pathogens than the wild-type plants. This was thought to result from the inability to produce critical defensive mechanisms including increased PR gene expression. Other studies conducted by injecting tobacco plants and \"Arabidopsis\" with salicylic acid resulted in higher resistance of infection by the alfalfa and tobacco mosaic viruses, indicating a role for SA biosynthesis in reducing viral replication. Additionally, studies performed using \"Arabidopsis\" with mutated jasmonic acid biosynthesis pathways have shown JA mutants to be at an increased risk of infection by soil pathogens.",
+            "score": 105.79793548583984
+        },
+        {
+            "docid": "98585_13",
+            "document": "Jasmine . Jasmine gave name to the jasmonate plant hormones, as methyl jasmonate isolated from the oil of \"Jasminum grandiflorum\" led to the discovery of the molecular structure of jasmonates. Jasmonates occur ubiquitously across the plant kingdom, having key roles in responses to environmental cues, such as heat or cold stress, and participate in the signal transduction pathways of many plants.",
+            "score": 105.35761260986328
+        },
+        {
+            "docid": "5326585_15",
+            "document": "Systemin . Early experiments with radiolabelled systemin in tomato demonstrated that it is transported through the phloem sap in tomato plants and was therefore thought to be the systemic signal that activated systemic acquired resistance. This view was challenged by grafting experiments which showed that mutants deficient in jasmonic acid biosynthesis and perception were unable to activate systemic acquired resistance. It is now thought that jasmonic acid is the systemic signal and that systemin upregulates the pathways for jasmonic acid synthesis.",
+            "score": 104.84186553955078
+        },
+        {
+            "docid": "54964079_5",
+            "document": "Leucine-rich repeat receptor like protein kinase PEPR1 . AtPEP 1 interaction with PEPR 1 activates the defense genes that regulates jasmonate/ethylene and salicylate defense hormones and induce the expression of \"PDF1.2\" (defensin) gene being component of plant innate immune system. Expression of these defense genes would result in more production of PROPEP 1 gene through feedback mechanism. This amplify the danger signals during pathogen infection and confers resistance against pathogens.",
+            "score": 103.41240692138672
+        },
+        {
+            "docid": "256641_19",
+            "document": "Plant hormone . Jasmonates (JAs) are lipid-based hormones that were originally isolated from jasmine oil. JAs are especially important in the plant response to attack from herbivores and necrotrophic pathogens. The most active JA in plants is jasmonic acid. Jasmonic acid can be further metabolized into methyl-JA, which is a volatile organic compound. This unusual property means that methyl-JA can act as an airborne signal to communicate herbivore attack to other distant leaves within one plant and even as a signal to neighboring plants. In addition to their role in defense, JAs are also believed to play roles in seed germination, the storage of protein in seeds and root growth.",
+            "score": 103.35852813720703
+        },
+        {
+            "docid": "3293979_2",
+            "document": "Jasmonic acid . Jasmonic acid (JA) is an organic compound found in several plants including jasmine. The molecule is a member of the jasmonate class of plant hormones. It is biosynthesized from linolenic acid by the octadecanoid pathway.",
+            "score": 102.88407897949219
+        },
+        {
+            "docid": "5326585_24",
+            "document": "Systemin . In \"Nicotiana attenuata\" HypSys is known to not be involved in defence against insect herbivores. Silencing and over-expression of HypSys does not affect the feeding performance of larvae compared to normal plants. Berger silenced HypSys and found that it caused changes in flower morphology which reduced the efficiency of self-pollination. The flowers had pistils that protruded beyond their anthers, a similar phenotype to CORONATINE-INSENSITIVE1-silenced plants which lack a jasmonate receptor. Measurement of jasmonate levels in the flowers revealed that they were lower than in normal plants. The authors suggested that HypSys peptides in \"N. attenuata\" have diversified from their function as defence related peptides to being involved in controlling flower morphology. The signalling processes remain similar however, being mediated through jasmonates.",
+            "score": 102.61316680908203
+        },
+        {
+            "docid": "3113497_39",
+            "document": "Innate immune system . \"Resistance\" (R) proteins, encoded by R genes, are widely present in plants and detect pathogens. These proteins contain domains similar to the NOD Like Receptors and Toll-like receptors utilized in animal innate immunity. Systemic acquired resistance (SAR) is a type of defensive response that renders the entire plant resistant to a broad spectrum of infectious agents. SAR involves the production of chemical messengers, such as salicylic acid or jasmonic acid. Some of these travel through the plant and signal other cells to produce defensive compounds to protect uninfected parts, e.g., leaves. Salicylic acid itself, although indispensable for expression of SAR, is not the translocated signal responsible for the systemic response. Recent evidence indicates a role for jasmonates in transmission of the signal to distal portions of the plant. RNA silencing mechanisms are also important in the plant systemic response, as they can block virus replication. The \"jasmonic acid response\", is stimulated in leaves damaged by insects, and involves the production of methyl jasmonate.",
+            "score": 102.16803741455078
+        },
+        {
+            "docid": "256641_23",
+            "document": "Plant hormone . Plant stress hormones activate cellular responses, including cell death, to diverse stress situations in plants. Researchers have found that some plant stress hormones share the ability to adversely affect human cancer cells. For example, sodium salicylate has been found to suppress proliferation of lymphoblastic leukemia, prostate, breast, and melanoma human cancer cells. Jasmonic acid, a plant stress hormone that belongs to the jasmonate family, induced death in lymphoblastic leukemia cells. Methyl jasmonate has been found to induce cell death in a number of cancer cell lines.",
+            "score": 101.74757385253906
+        },
+        {
+            "docid": "22574738_15",
+            "document": "Biotic stress . Both the pattern recognition immunity (PTI) and effector-triggered immunity (ETI) result from the upregulation of multiple defense mechanisms including defensive chemical signaling compounds. An increase in the production of salicylic acid (SA) has been shown to be induced by pathogenic infection. The increase in SA results in the production of pathogenesis related (PR) genes which ultimately increase plant resistance to biotrophic and hemibiotrophic pathogens. Increases in jasmonic acid (JA) synthesis near the sites of pathogen infection have also been described. This physiological response to increase JA production has been implicated in the ubiquitination of jasmonate ZIM domains (JAZ) proteins, which inhibit JA signaling, leading to their degradation and a subsequent increase in JA activated defense genes.",
+            "score": 101.63243865966797
+        },
+        {
+            "docid": "72727_23",
+            "document": "Green Revolution . Plant scientists figured out several parameters related to the high yield and identified the related genes which control the plant height and tiller number. With advances in molecular genetics, the mutant genes responsible for \"Arabidopsis thaliana\" genes (GA 20-oxidase, \"ga1\", \"ga1-3\"), wheat reduced-height genes (\"Rht\") and a rice semidwarf gene (\"sd1\") were cloned. These were identified as gibberellin biosynthesis genes or cellular signaling component genes. Stem growth in the mutant background is significantly reduced leading to the dwarf phenotype. Photosynthetic investment in the stem is reduced dramatically as the shorter plants are inherently more stable mechanically. Assimilates become redirected to grain production, amplifying in particular the effect of chemical fertilizers on commercial yield.",
+            "score": 99.8259048461914
+        },
+        {
+            "docid": "57575944_4",
+            "document": "Proteinase inhibitors in plants . In order to discover how the production of the inhibitors was induced, scientists exposed tomato plants to different forms of methyl jasmonate and then assayed using radial immunodiffusion for proteinase inhibitors in leaf juices. A group of tomato plants was sprayed with a solution containing methyl jasmonate, while another group of tomato plants was exposed to methyl jasmonate vapor in air-tight glass chambers. Control groups were sprayed with a solution or exposed to a vapor that did not contain methyl jasmonate. Both experimental groups revealed increased proteinase inhibitor production as a result of exposure to volatile methyl jasmonate in comparison to control groups.",
+            "score": 99.52617645263672
+        },
+        {
+            "docid": "7627035_7",
+            "document": "SCF complex . In plants, the plant hormone Jasmonate allows binding between SCF-COI1 to the JAZ transcription factor. Degradation of the JAZ transcription factor allows for the transcription of the jasmonate responsive genes.",
+            "score": 98.80703735351562
+        },
+        {
+            "docid": "670854_18",
+            "document": "Jasmonate . One of the best studied examples of JA cross talk occurs with salicylic acid (SA). SA, a hormone, mediates defense against pathogens by inducing both the expression of pathogenesis-related genes and systemic acquired resistance (SAR), in which the whole plant gains resistance to a pathogen after localized exposure to it.",
+            "score": 98.50579833984375
+        },
+        {
+            "docid": "22590461_20",
+            "document": "Plant disease resistance . Plant sRNA pathways are understood to be important components of pathogen-associated molecular pattern (PAMP)-triggered immunity (PTI) and effector-triggered immunity (ETI). Bacteria\u2010induced miRNAs in Arabidopsis have been shown to influence hormonal signalling including auxin, abscisic acid (ABA), jasmonic acid (JA) and salicylic acid (SA). . Advances in genome\u2010wide studies revealed a massive adaptation of host miRNA expression patterns after infection by fungal pathogens \"Fusarium virguliforme,\" \"Erysiphe graminis\", \"Verticillium dahliae\", and \"Cronartium quercuum\", and the oomycete \"Phytophthora sojae\". Changes to sRNA expression in response to fungal pathogens indicate that gene silencing may be involved in this defense pathway. However, there is also evidence that the antifungal defense response to \"Colletotrichum\" spp. infection in maize is not entirely regulated by specific miRNA induction, but may instead act to fine-tune the balance between genetic and metabolic components upon infection. \u00a0",
+            "score": 98.45091247558594
+        },
+        {
+            "docid": "14040111_9",
+            "document": "12-oxophytodienoate reductase . OPR3 is shown to be induced by touch, wind, UV light, application of detergent, wounding, and brassinosteroids. In wound response, its activity has been shown to partially depend on jasmonic acid perception. It is also shown to have greater enzyme efficiency than OPR1 and OPR2 in \"Arabidopsis thaliana\", showing it is the significant enzyme in the jasmonic acid biosynthesis pathway.",
+            "score": 96.77751922607422
+        },
+        {
+            "docid": "496670_16",
+            "document": "Gibberellin . Most bioactive GAs are located in actively growing organs on plants. Both GA20ox and GA3ox genes (genes coding for GA 20-oxidase and GA 3-oxidase) and the SLENDER1 gene (a GA signal transduction gene) are found in growing organs on rice, which suggests bioactive GA synthesis occurs at their site of action in growing organs in plants. During flower development, the tapetum of anthers is believed to be a primary site of GA biosynthesis.",
+            "score": 96.31973266601562
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "10967846_5",
+            "document": "Fis . Fis is a very important small nucleotide-associated protein which plays a role in affecting the bacterial chromosome structure and the initiation of DNA replication. It is a nucleoid-associated protein in Escherichia coli that is abundant during early exponential growth in rich medium but is in short supply during stationary phase. When stationary-phase cells are subcultured into a rich medium, Fis levels increase from less than 100 to over 50,000 copies per cell prior to the first cell division. As cells enter exponential growth, nascent synthesis is largely shut off, and intracellular Fis levels decrease as a function of cell division. Fis synthesis also transiently increases when exponentially growing cells are shifted to a richer medium. The magnitude of the peak of Fis synthesis appears to reflect the extent of the nutritional upshift. fis mRNA levels closely resemble the protein expression pattern, suggesting that regulation occurs largely at the transcriptional level. Two RNA polymerase-binding sites and at least six high-affinity Fis-binding sites are present in the fis promoter region. Expression of this fis operon is negatively regulated by Fis in vivo and purified Fis can prevent stable complex formation by RNA polymerase at the fis promoter in vitro. However, autoregulation only partially accounts for the expression pattern of Fis. Fluctuations in Fis levels have been shown to serve as an early signal of a nutritional upshift and is important in the physiological roles Fis plays in the cell.",
+            "score": 60.796377658843994
+        },
+        {
+            "docid": "11420771_2",
+            "document": "CsrC RNA family . The 245 nucleotide sRNA of \"Escherichia coli\", CsrC, was discovered using a genetic screen for factors that regulate glycogen biosynthesis. CsrC RNA binds multiple copies of CsrA, a protein that post-transcriptionally regulates central carbon flux, biofilm formation and motility in E. coli. CsrC antagonises the regulatory effects of CsrA, presumably by sequestering this protein. The discovery of CsrC is intriguing, in that a similar sRNA, CsrB, performs essentially the same function. Both sRNAs possess similar imperfect repeat sequences (18 in CsrB, nine in CsrC), primarily localised in the loops of predicted hairpins, which may serve as CsrA binding elements. Transcription of csrC increases as the culture approaches the stationary phase of growth and is indirectly activated by CsrA via the response regulator UvrY [1]. This RNA was also discovered in \"E. coli\" during a large scale screen [2]. The gene called SraK, was highly abundant in stationary phase, but low levels could be detected in exponentially growing cells as well [2].",
+            "score": 76.65297603607178
+        },
+        {
+            "docid": "10016089_2",
+            "document": "Anti-sigma factors . In the regulation of gene expression in prokaryotes, anti-sigma factors bind to sigma factors and inhibit transcriptional activity. Anti-sigma factors have been found in a number of bacteria, including \"Escherichia coli\" and \"Salmonella\", and in the T4 bacteriophage. Anti-sigma factors are antagonists to the sigma factors, which regulate numerous cell processes including flagellar production, stress response, transport and cellular growth. For example, anti-sigma factor 70 Rsd in \"E. coli\" is present in the stationary phase and blocks the activity of sigma factor 70 which in essence initiate gene transcription. This allows the sigma S factor to associate with RNA polymerase and direct the expression of the stationary genes. Although binding of Rsd to \u03c370 has been shown and numerous structural studies on Rsd have been performed, the detailed mechanism of action is still unknown.",
+            "score": 75.86446297168732
+        },
+        {
+            "docid": "49526688_10",
+            "document": "G&amp;T-Seq . A similar method to G&T-seq, developed months earlier, is DR-seq (DNA and RNA sequencing). The primary difference between the two techniques is the amplification step, where DNA and polyA-RNA amplification occurs without their prior separation. DR-seq uses random priming, where primers containing a common 27-nucleotide sequence along with a variable 8-nucleotide (ad2 primers) bind to different locations on the cDNA. Despite there being multiple (50-250) primer binding sites on most cDNA, each original (i.e. not the product of amplification/in vitro transcription) cDNA molecule is usually primed only once during the initial amplification step, thus creating a single amplicon of a unique length, containing the ad2 primer on the 5' end. The 3' end contains the ad1 primer, which is the original poly-dT primer used for reverse transcription. This unique amplicon is termed the length-based identifier. Importantly, the length-based identifier is created, but not amplified by this quasilinear PCR step. The number of unique length-based identifiers for each gene can then be used to infer the number of original cDNA (and thus mRNA) molecules present for the gene, providing a method of estimating gene expression that avoids the effect of amplification bias. To further amplify the cDNA for RNA-seq, the cDNA amplicons generated by the original PCR step undergoes in vitro transcription using the T7 promoter incorporated in the ad1 primer to ensure RNA transcripts come from cDNA, not gDNA.",
+            "score": 79.00960230827332
+        },
+        {
+            "docid": "553121_11",
+            "document": "Regulation of gene expression . Regulation of transcription thus controls when transcription occurs and how much RNA is created. Transcription of a gene by RNA polymerase can be regulated by several mechanisms. Specificity factors alter the specificity of RNA polymerase for a given promoter or set of promoters, making it more or less likely to bind to them (i.e., sigma factors used in prokaryotic transcription). Repressors bind to the Operator, coding sequences on the DNA strand that are close to or overlapping the promoter region, impeding RNA polymerase's progress along the strand, thus impeding the expression of the gene.The image to the right demonstrates regulation by a repressor in the lac operon. General transcription factors position RNA polymerase at the start of a protein-coding sequence and then release the polymerase to transcribe the mRNA. Activators enhance the interaction between RNA polymerase and a particular promoter, encouraging the expression of the gene. Activators do this by increasing the attraction of RNA polymerase for the promoter, through interactions with subunits of the RNA polymerase or indirectly by changing the structure of the DNA. Enhancers are sites on the DNA helix that are bound by activators in order to loop the DNA bringing a specific promoter to the initiation complex. Enhancers are much more common in eukaryotes than prokaryotes, where only a few examples exist (to date). Silencers are regions of DNA sequences that, when bound by particular transcription factors, can silence expression of the gene.",
+            "score": 48.60856568813324
+        },
+        {
+            "docid": "11422276_3",
+            "document": "ArcZ RNA . This non-coding RNA was discovered in the bacteria \"Escherichia coli\" during a large scale computational screen for transcription signals and genomic features of known small RNA-encoding genes. During this screen 14 novel ncRNA genes were identified, including GlmZ, SraB, SraC and SraD. The expression of SraH was experimentally confirmed by Northern blotting. Its expression is highly abundant in stationary growth phase but low levels of expression can still be detected in exponentially growing cells.",
+            "score": 60.499671936035156
+        },
+        {
+            "docid": "42632611_4",
+            "document": "Abortive initiation . Abortive initiation is a normal process of transcription and occurs both \"in vitro\" and \"in vivo\". After each nucleotide-addition step in initial transcription, RNA polymerase, stochastically, can proceed on the pathway toward promoter escape (productive initiation) or can release the RNA product and revert to the RNA polymerase-promoter open complex (abortive initiation). During this early stage of transcription, RNA polymerase enters a phase during which dissociation of the transcription complex energetically competes with the elongation process. Abortive cycling is not caused by strong binding between the initiation complex and the promoter.",
+            "score": 54.77718365192413
+        },
+        {
+            "docid": "11243718_3",
+            "document": "6S / SsrS RNA . 6S RNA specifically associates with RNA polymerase holoenzyme containing the sigma70 specificity factor. This interaction represses expression from sigma70-dependent promoters during stationary phase. 6S RNA homologs have recently been identified in most bacterial genomes. Many Gram-positive species have two copies of 6S RNA. In \"Bacillus subtilis\", both copies appear to interact with RNA polymerase holoenzyme containing the housekeeping sigma factor and be expressed during different stages of growth. In many proteobacteria, 6S RNA may be processed from a transcript encoding homologs of the \"E. coli\" YgfA protein which is a putative methenyltetrahydrofolate synthetase. Diverged 6S RNAs have been identified in additional bacterial lineages. The purD RNA motif has been experimentally shown to overlap with 6S RNA.",
+            "score": 69.15552949905396
+        },
+        {
+            "docid": "9955145_11",
+            "document": "Eukaryotic transcription . The initiation of gene transcription in eukaryotes occurs in specific steps. First, an RNA polymerase along with general transcription factors binds to the promoter region of the gene to form a closed complex called the preinitiation complex. The subsequent transition of the complex from the closed state to the open state results in the melting or separation of the two DNA strands and the positioning of the template strand to the active site of the RNA polymerase. Without the need of a primer, RNA polymerase can initiate the synthesis of a new RNA chain using the template DNA strand to guide ribonucleotide selection and polymerization chemistry. However, many of the initiated syntheses are aborted before the transcripts reach a significant length (~10 nucleotides). During these abortive cycles, the polymerase keeps making and releasing short transcripts until it is able to produce a transcript that surpasses ten nucleotides in length. Once this threshold is attained, RNA polymerase passes the promoter and transcription proceeds to the elongation phase.",
+            "score": 68.84500026702881
+        },
+        {
+            "docid": "38570862_17",
+            "document": "Cas9 . The interaction of dCas9 with target dsDNA is so tight that high molarity urea protein denaturant can not fully dissociate the dCas9 RNA-protein complex from dsDNA target. dCas9 has been targeted with engineered single guide RNAs to transcription initiation sites of any loci where dCas9 can compete with RNA polymerase at promoters to halt transcription. Also, dCas9 can be targeted to the coding region of loci such that inhibition of RNA Polymerase occurs during the elongation phase of transcription. In Eukaryotes, silencing of gene expression can be extented by targeting dCas9 to enhancer sequences, where dCas9 can block assembly of transcription factors leading to silencing of specific gene expression. Moreover, the guide RNAs provided to dCas9 can be designed to include specific mismatches to its complementary cognate sequence that will quantitatively weaken the interaction of dCas9 for its programmed cognate sequence allowing a researcher to tune the extent of gene silencing applied to a gene of interest. This technology is similar in principle to RNAi such that gene expression is being modulated at the RNA level. However, the dCas9 approach has gained much traction as there exist less off-target effects and in general larger and more reproducible silencing effects through the use of dCas9 compared to RNAi screens. Furthermore, because the dCas9 approach to gene silencing can be quantitatively controlled, a researcher can now precisely control the extent to which a gene of interest is repressed allowing more questions about gene regulation and gene stoichiometry to be answered.",
+            "score": 50.41226899623871
+        },
+        {
+            "docid": "201268_5",
+            "document": "RNA polymerase . Given that DNA and RNA polymerases both carry out template-dependent nucleotide polymerization, it might be expected that the two types of enzymes would be structurally related, but they are not. They seem to have arisen independently twice during the early evolution of cells: one lineage led to the modern DNA polymerases and reverse transcriptases, as well as to a few single-subunit RNA polymerases from viruses; the other lineage formed all of the modern cellular RNA polymerases. The 2006 Nobel Prize in Chemistry was awarded to Roger D. Kornberg for creating detailed molecular images of RNA polymerase during various stages of the transcription process. In most prokaryotes, a single RNA polymerase species transcribes all types of RNA. RNA polymerase from E. coli consists of five different subunit types. The beta (\u03b2) subunit has a molecular weight of 150,000, beta prime (\u03b2\u2032) 160,000, alpha (\u03b1) 40,000, and sigma (\u03c3) 70,000. The \u03c3 subunit can dissociate from the rest of the complex, leaving the core enzyme. The complete enzyme with \u03c3 is termed the RNA polymerase holoenzyme and is necessary for correct initiation of transcription, whereas the core enzyme can continue transcription after initiation.",
+            "score": 72.78031313419342
+        },
+        {
+            "docid": "14781668_8",
+            "document": "Photobacterium profundum . The transcriptional landscape of the wild-type DB110 strain and of the \"toxR\" mutant TW30 were investigated by means of next generation sequencing. ToxR is a transmembrane DNA-binding protein first discovered in \"Vibrio cholerae\", where it regulates a considerable number of genes involved in environmental adaptation and virulence. In \"P. profundum\" the abundance and activity of this protein is influenced by hydrostatic pressure and its role is related to the regulation of genes in a pressure-dependent manner. Results obtained from RNA-seq experiments revealed a complex expression pattern with a group of 22 genes having expression profiles similar to OmpH that is an outer membrane protein transcribed in response to high hydrostatic pressure. Moreover, RNA-seq allowed a deep characterization of the transcriptional landscape that led to the identification of 460 putative small RNA genes and the detection of 298 protein-coding genes previously unknown. The genome-wide prediction of the operon structure, the transcription start and termination sites, revealed an unexpected high number of genes (992) with large 5\u2019-UTRs, long enough to harbor cis-regulatory RNA structures, suggesting a correlation between intergenic region size and UTR length.",
+            "score": 60.54200088977814
+        },
+        {
+            "docid": "496334_11",
+            "document": "Sigma factor . The core RNA polymerase (consisting of 2 alpha (\u03b1), 1 beta (\u03b2), 1 beta-prime (\u03b2'), and 1 omega (\u03c9) subunits) binds a sigma factor to form a complex called the RNA polymerase holoenzyme. It was previously believed that the RNA polymerase holoenzyme initiates transcription, while the core RNA polymerase alone synthesizes RNA. Thus, the accepted view was that sigma factor must dissociate upon transition from transcription initiation to transcription elongation (this transition is called \"promoter escape\"). This view was based on analysis of purified complexes of RNA polymerase stalled at initiation and at elongation. Finally, structural models of RNA polymerase complexes predict that, as the growing RNA product becomes longer than ~15 nucleotides, sigma must be \"pushed out\" of the holoenzyme, since there is a steric clash between RNA and a sigma domain. However, a recent study has shown that \u03c3 can remain attached in complex with the core RNA polymerase, at least during early elongation. Indeed, the phenomenon of promoter-proximal pausing indicates that sigma plays roles during early elongation. All studies are consistent with the assumption that promoter escape reduces the lifetime of the sigma-core interaction from very long at initiation (too long to be measured in a typical biochemical experiment) to a shorter, measurable lifetime upon transition to elongation.",
+            "score": 52.07171893119812
+        },
+        {
+            "docid": "36866020_4",
+            "document": "Tagetitoxin . TGT interferes with development of chloroplasts in young plant leaves thereby causing chlorosis. The natural target of the toxin is chloroplast RNA polymerase. Chloroplast RNA polymerase belongs to ubiquitous family of multisubunit RNA polymerases (RNAP) and is most closely related to bacterial enzymes. \"In vitro\", TGT inhibits bacterial RNAPs from \"Escherichia coli\" and \"Thermus thermophilus\", and eukaryotic RNA polymerase III. In contrast, eukaryotic RNA polymerase I and II as well as single-subunit RNA polymerases of bacteriophage T7 and SP6 are relatively insensitive to the compound. TGT binds in the RNAP active site and inhibits initiation and elongation phases of transcription as well as pyrophosphorolysis of the nascent RNA. However, the detailed mechanism of inhibition remains a subject of heated debate.",
+            "score": 57.90876483917236
+        },
+        {
+            "docid": "201268_6",
+            "document": "RNA polymerase . Control of the process of gene transcription affects patterns of gene expression and, thereby, allows a cell to adapt to a changing environment, perform specialized roles within an organism, and maintain basic metabolic processes necessary for survival. Therefore, it is hardly surprising that the activity of RNAP is long, complex, and highly regulated. In \"Escherichia coli\" bacteria, more than 100 transcription factors have been identified, which modify the activity of RNAP.",
+            "score": 65.68933486938477
+        },
+        {
+            "docid": "32150862_7",
+            "document": "Bacterial DNA binding protein . H-NS is about 15.6 kDa and assists in the regulation of bacterial transcription in bacteria by repressing and activating certain genes. H-NS binds to DNA with an intrinsic curvature. In \"E. coli\", H-NS binds to a P1 promoter decreasing rRNA production during stationary and slow growth periods. RNA polymerase and H-NS DNA binding protein have overlapping binding sites; it is thought that H-NS regulates rRNA production by acting on the transcription initiation site. It has been found that H-NS and RNA polymerase both bind to the P1 promoter and form a complex. When H-NS is bound with RNA Polymerase to the promoter region, there are structural differences in the DNA that are accessible. It has also been found that H-NS can affect translation as well by binding to mRNA and causing its degradation.",
+            "score": 67.37841248512268
+        },
+        {
+            "docid": "6446041_2",
+            "document": "RpoS . The gene rpoS (RNA polymerase, sigma S) encodes the sigma factor \"sigma-38\" (\u03c338, or RpoS), a 37.8 kD protein in \"Escherichia coli\". Sigma factors are proteins that regulate transcription in bacteria. Sigma factors can be activated in response to different environmental conditions. \"rpoS\" is transcribed in late exponential phase, and RpoS is the primary regulator of stationary phase genes. RpoS is a central regulator of the general stress response and operates in both a retroactive and a proactive manner: it not only allows the cell to survive environmental challenges, but it also prepares the cell for subsequent stresses (cross-protection). The transcriptional regulator CsgD is central to biofilm formation, controlling the expression of the curli structural and export proteins, and the diguanylate cyclase, adrA, which indirectly activates cellulose production. The \"rpoS\" gene most likely originated in the \u03b3 branch of the proteobacteria.",
+            "score": 50.58041203022003
+        },
+        {
+            "docid": "29732133_10",
+            "document": "History of RNA biology . The biochemical purification and characterization of RNA polymerase from the bacterium Escherichia coli enabled the understanding of the mechanisms through which RNA polymerase initiates and terminates transcription, and how those processes are regulated to regulate gene expression (i.e. turn genes on and off). Following the isolation of E. coli RNA polymerase, the three RNA polymerases of the eukaryotic nucleus were identified, as well as those associated with viruses and organelles. Studies of transcription also led to the identification of many protein factors that influence transcription, including repressors, activators and enhancers. The availability of purified preparations of RNA polymerase permitted investigators to develop a wide range of novel methods for studying RNA in the test tube, and led directly to many of the subsequent key discoveries in RNA biology.",
+            "score": 84.2072993516922
+        },
+        {
+            "docid": "1936957_6",
+            "document": "General transcription factor . A sigma factor is a protein needed only for initiation of RNA synthesis in bacteria. Sigma factors provide promoter recognition specificity to the RNA polymerase (RNAP) and contribute to DNA strand separation, then dissociating from the RNA polymerase core enzyme following transcription initiation. The RNA polymerase core associates with the sigma factor to form RNA polymerase holoenzyme. Sigma factor reduces the affinity of RNA polymerase for nonspecific DNA while increasing specificity for promoters, allowing transcription to initiate at correct sites. The core enzyme of RNA polymerase has five subunits (protein subunits) (~400 kDa). Because of the RNA polymerase association with sigma factor, the complete RNA polymerase therefore has 6 subunits: the sigma subunit-in addition to the two alpha (\u03b1), one beta (\u03b2), one beta prime (\u03b2'), and one omega (\u03c9) subunits that make up the core enzyme(~450 kDa). In addition, many bacteria can have multiple alternative \u03c3 factors. The level and activity of the alternative \u03c3 factors are highly regulated and can vary depending on environmental or developmental signals.",
+            "score": 58.143736839294434
+        },
+        {
+            "docid": "3621072_6",
+            "document": "IKBKAP . IKAP is now also widely acknowledged to have a role in transcriptional elongation in humans. The RNA polymerase II holoenzyme constitutes partly of a multi-subunit histone acetyltransferase element known as the RNA polymerase II elongator complex, of which IKAP is one subunit. The association of the elongator complex with RNA polymerase II holoenzyme is necessary for subsequent binding to nascent pre-mRNA of certain target genes, and thus their successful transcription. Specifically, within the cell, the depletion of functional elongater complexes due to low IKAP expression has been found to have a profound effect on transcription of genes involved in cell migration.",
+            "score": 45.143179178237915
+        },
+        {
+            "docid": "4250553_24",
+            "document": "Gene . Flanking the open reading frame, genes contain a regulatory sequence that is required for their expression. First, genes require a promoter sequence. The promoter is recognized and bound by transcription factors and RNA polymerase to initiate transcription. The recognition typically occurs as a consensus sequence like the TATA box. A gene can have more than one promoter, resulting in messenger RNAs (mRNA) that differ in how far they extend in the 5'\u00a0end. Highly transcribed genes have \"strong\" promoter sequences that form strong associations with transcription factors, thereby initiating transcription at a high rate. Others genes have \"weak\" promoters that form weak associations with transcription factors and initiate transcription less frequently. Eukaryotic promoter regions are much more complex and difficult to identify than prokaryotic promoters.",
+            "score": 48.52039957046509
+        },
+        {
+            "docid": "417038_12",
+            "document": "Rhabdoviridae . Replication of many rhabdoviruses occurs in the cytoplasm, although several of the plant infecting viruses replicate in the nucleus.. In order for replication, both the L and P protein must be expressed to regulate transcription. The L protein have a lot of enzymatic actiivites such as RNA replication, capping mRNAs phospholorylation of P. L protein gives feature in about replication in cytopolasm. Transcription results in five monocistronic mRNAs being produced because the intergenic sequences act as both termination and promoter sequences for adjacent genes. This type of transcription mechanism is explained by stop-start model( stuttering transcription). Owing to stop-start model, the large amounts of the structural proteins are produced. According to this model, the virus-associated RNA polymerase starts firstly the synthesis of leader RNA and then the five mRNA which will produce N,P,M,G,L proteins, respectively. After the leader RNA was produced, the polymerase enzyme reinitiates virion transcription on N gene and proceeds its synthesis until it ends 3\u2032 end of the chain.Then, the synthesis of P mRNAs are made by same enzyme with new starter sinyal. These steps continue until the enzyme arrives the end of the L gene. During transcription process, the polymerase enzyme may leave the template at any point and then bound just at the 3\u2032 end of the genome RNA to start mRNA synthesis again. This process will results concentration gradient of the amount of mRNA based on its place and its range from the 3\u2032 end. In the circumstances, the amounts of mRNA species change and will be produced N>P>M>G>L proteins. During their synthesis the mRNAs are processed to introduce a 5' cap and a 3\u2019 polyadenylated tail to each of the molecules .This structure is homologous to cellular mRNAs and can thus be translated by cellular ribosomes to produce both structural and non-structural proteins.",
+            "score": 46.81946408748627
+        },
+        {
+            "docid": "15993546_6",
+            "document": "Cis-natural antisense transcript . Molecular mechanisms behind the regulatory role of cis-NATs are not currently well understood. Three models have been proposed to explain the regulatory effects that cis-NATs have on gene expression. The first model attributes that base pairing between the cis-NAT and its complementary transcript result in a knockdown of mRNA expression. The assumption of this model is that there will be a precise alignment of at least 6 base pairs between the cis-NAT pair to make double stranded RNA. Epigenetic modifications like DNA methylation and post-translational modification of core histones form the basis of the second model. Although it is not yet clearly understood, it is thought that the reverse transcript guides methylation complexes and/or histone-modifying complexes to the promoter regions of the sense transcript and cause an inhibition of expression from the gene. Currently it is not known what attributes of cis-NATs are crucial for the epigenetic model of regulation. The final proposed model that has gained favour due to recent experimental evidence is the transcriptional collision model. During the process of transcription of cis-NATs, the transcriptional complexes assemble in the promoter regions of the gene. RNA polymerases will then begin transcribing the gene at the transcription initiation site laying down nucleotides in a 5' to 3' direction. In the areas of overlap between the cis-NATs the RNA polymerases will collide and stop at the crash site. Transcription is inhibited because RNA polymerases prematurely stop and their incomplete transcripts get degraded.",
+            "score": 49.09528720378876
+        },
+        {
+            "docid": "4250553_34",
+            "document": "Gene . Transcription produces a single-stranded RNA molecule known as messenger RNA, whose nucleotide sequence is complementary to the DNA from which it was transcribed. The mRNA acts as an intermediate between the DNA gene and its final protein product. The gene's DNA is used as a template to generate a complementary mRNA. The mRNA matches the sequence of the gene's DNA coding strand because it is synthesised as the complement of the template strand. Transcription is performed by an enzyme called an RNA polymerase, which reads the template strand in the 3' to 5'\u00a0direction and synthesizes the RNA from 5' to 3'. To initiate transcription, the polymerase first recognizes and binds a promoter region of the gene. Thus, a major mechanism of gene regulation is the blocking or sequestering the promoter region, either by tight binding by repressor molecules that physically block the polymerase, or by organizing the DNA so that the promoter region is not accessible.",
+            "score": 46.15060782432556
+        },
+        {
+            "docid": "159266_8",
+            "document": "Gene expression . In prokaryotes, transcription is carried out by a single type of RNA polymerase, which needs a DNA sequence called a Pribnow box as well as a sigma factor (\u03c3 factor) to start transcription. In eukaryotes, transcription is performed by three types of RNA polymerases, each of which needs a special DNA sequence called the promoter and a set of DNA-binding proteins\u2014transcription factors\u2014to initiate the process. RNA polymerase I is responsible for transcription of ribosomal RNA (rRNA) genes. RNA polymerase II (Pol II) transcribes all protein-coding genes but also some non-coding RNAs (e.g., snRNAs, snoRNAs or long non-coding RNAs). Pol II includes a C-terminal domain (CTD) that is rich in serine residues. When these residues are phosphorylated, the CTD binds to various protein factors that promote transcript maturation and modification. RNA polymerase III transcribes 5S rRNA, transfer RNA (tRNA) genes, and some small non-coding RNAs (e.g., 7SK). Transcription ends when the polymerase encounters a sequence called the terminator.",
+            "score": 44.6723370552063
+        },
+        {
+            "docid": "1138554_15",
+            "document": "SR protein . The first step for SR proteins to begin alternative splicing of an RNA transcript is for SR proteins to bind on to the carboxyl-terminal domain (CTD) of the largest subunit of RNA polymerase II. The CTD is made of the conserved repeating heptapeptide sequence YSPTSPS. Different steps of transcription have different levels of phosphorylation of the CTD of RNA polymerase II. Before initiation of transcription, the CTD has low levels of phosphorylation, but it is subsequently hyperphosphorylated during initiation and elongation. The RS domain of SR proteins interacts with the hyperphosphorylated CTD during elongation of transcription.",
+            "score": 46.42989635467529
+        },
+        {
+            "docid": "9955145_2",
+            "document": "Eukaryotic transcription . Eukaryotic transcription is the elaborate process that eukaryotic cells use to copy genetic information stored in DNA into units of RNA replica. Gene transcription occurs in both eukaryotic and prokaryotic cells. Unlike prokaryotic RNA polymerase that initiates the transcription of all different types of RNA, RNA polymerase in eukaryotes (including humans) comes in three variations, each encoding a different type of gene. A eukaryotic cell has a nucleus that separates the processes of transcription and translation. Eukaryotic transcription occurs within the nucleus where DNA is packaged into nucleosomes and higher order chromatin structures. The complexity of the eukaryotic genome necessitates a great variety and complexity of gene expression control.",
+            "score": 58.9988431930542
+        },
+        {
+            "docid": "18878850_12",
+            "document": "Synechocystis . RNA polymerase (RNAP) and sigma factors are necessary proteins for transcription of DNA into messenger RNA (mRNA). Eubacterial RNAP holoenzymes consist of a core with four major subunits \u03b12 \u03b2\u03b2'. In cyanobacteria, \u03b2' is formed from two smaller subunits (\u0443 and \u03b2'), which corresponds to RNAPs in plant chloroplasts. The beta subunits are responsible for binding the RNAP to the DNA, preventing premature dissociation. In \"Escherichia coli\", the beta \u201cclamp\u201d first binds loosely and tightens as the RNAP approaches the start codon (AUG). In cyanobacteria, the beta clamp binds tightly at initial binding. The effect of this difference is that synthetic repressible promoters do not function as expected in \"Synechocystis\" sp. PCC6803. In \"E. coli\", a repressor binds the DNA operon and dislodges RNAP due to the loosely bound beta clamp, whereas in \"Synechocystis\", the RNAP is tightly bound leading the reverse phenomenon where the repressor is knocked off the DNA. Thus the gene is not effectively repressed. \"Synechocystis\" possesses the 70S sigma factor (\u03c370), which can be divided into three groups. Group 1 sigma factors are critical for cell viability. Group 2, similar in structure to Group 1, is not essential for cell vitality. Group 3 is structurally different and involved with survival under stress conditions. \"Synechocystis\" sp. PCC6803 lacks the \u03c3N factor found in other organisms, such as \"Escherichia coli\", which is involved with transcribing genes related to nitrogen, but is nonetheless able to metabolize nitrogen.",
+            "score": 64.17835831642151
+        },
+        {
+            "docid": "201268_12",
+            "document": "RNA polymerase . As noted above, RNA polymerase makes contacts with the promoter region. However these stabilizing contacts inhibit the enzyme's ability to access DNA further downstream and thus the synthesis of the full-length product. Once the open complex is stabilized, RNA polymerase synthesizes an RNA strand to establish a DNA-RNA heteroduplex (~8-9 bp) at the active center, which stabilizes the elongation complex. In order to accomplish RNA synthesis, RNA polymerase must maintain promoter contacts while unwinding more downstream DNA for synthesis, \"scrunching\" more downstream DNA into the initiation complex. During the promoter escape transition, RNA polymerase is considered a \"stressed intermediate.\" Thermodynamically the stress accumulates from the DNA-unwinding and DNA-compaction activities. Once the DNA-RNA heteroduplex is long enough, RNA polymerase releases its upstream contacts and effectively achieves the promoter escape transition into the elongation phase. However, promoter escape is not the only outcome. RNA polymerase can also relieve the stress by releasing its downstream contacts, arresting transcription. The paused transcribing complex has two options: (1) release the nascent transcript and begin anew at the promoter or (2) reestablish a new 3'OH on the nascent transcript at the active site via RNA polymerase's catalytic activity and recommence DNA scrunching to achieve promoter escape. Scientists have coined the term \"abortive initiation\" to explain the unproductive cycling of RNA polymerase before the promoter escape transition. The extent of abortive initiation depends on the presence of transcription factors and the strength of the promoter contacts.",
+            "score": 59.73656761646271
+        },
+        {
+            "docid": "25966810_2",
+            "document": "Upstream activating sequence . An upstream activating sequence or upstream activation sequence (UAS) is a cis-acting regulatory sequence. It is distinct from the promoter and increases the expression of a neighbouring gene. Due to its essential role in activating transcription, the upstream activating sequence is often considered to be analogous to the function of the enhancer in multicellular eukaryotes. Upstream activation sequences are a crucial part of induction, enhancing the expression of the protein of interest through increased transcriptional activity. The upstream activation sequence is found adjacently upstream to a minimal promoter (TATA box) and serves as a binding site for transactivators. If the transcriptional transactivator does not bind to the UAS in the proper orientation then transcription cannot begin. To further understand the function of an upstream activation sequence, it is beneficial to see its role in the cascade of events that lead to transcription activation. The pathway begins when activators bind to their target at the UAS recruiting a mediator. A TATA-binding protein subunit of a transcription factor then binds to the TATA box, recruiting additional transcription factors. The mediator then recruits RNA polymerase II to the pre-initiation complex. Once initiated, RNA polymerase II is released from the complex and transcription begins.",
+            "score": 37.658003091812134
+        },
+        {
+            "docid": "201268_7",
+            "document": "RNA polymerase . RNAP can initiate transcription at specific DNA sequences known as promoters. It then produces an RNA chain, which is complementary to the template DNA strand. The process of adding nucleotides to the RNA strand is known as elongation; in eukaryotes, RNAP can build chains as long as 2.4 million nucleotides (the full length of the dystrophin gene). RNAP will preferentially release its RNA transcript at specific DNA sequences encoded at the end of genes, which are known as terminators.",
+            "score": 43.92522120475769
+        },
+        {
+            "docid": "240060_3",
+            "document": "Regulatory sequence . In DNA, regulation of gene expression normally happens at the level of RNA biosynthesis (transcription), and is accomplished through the sequence-specific binding of proteins (transcription factors) that activate or inhibit transcription. Transcription factors may act as activators, repressors, or both. Repressors often act by preventing RNA polymerase from forming a productive complex with the transcriptional initiation region (promoter), while activators facilitate formation of a productive complex. Furthermore, DNA motifs have been shown to be predictive of epigenomic modifications, suggesting that transcription factors play a role in regulating the epigenome.",
+            "score": 52.111851930618286
+        }
+    ],
+    "r": [
+        {
+            "docid": "5167099_7",
+            "document": "Oxidative folding . A homolog of DsbA, called protein disulfide isomerase (PDI), is responsible for the formation of the disulfide bonds in unfolded eukaryotic proteins. This protein has two thioredoxine-like active sites, which both contain two cysteine residues. By transferring the disulfide bond between these two cysteine residues onto the folding protein it is responsible for the latter\u2019s oxidation. In contrast to bacteria, where the oxidative and isomerization pathways are carried out by different proteins, PDI is also responsible for the reduction and isomerization of the disulfide bonds. For PDI to catalyse the formation of disulfide bonds in unfolded proteins, it must be reoxidized. This is carried out by an ER membrane-associated protein, Ero1p, which is no homolog of DsbB. This Ero1p protein forms a mixed disulfide with PDI, which is resolved by a nucleophilic attack of the second cystein residue in one of the active sites of PDI. As result, oxidized PDI is obtained. Ero1p itself is oxidized by transferring electrons to molecular oxygen. As it is an FAD-binding protein, this transfer of electrons is strongly favoured when Ero1p is bound to FAD. Also a transport system that imports FAD into the ER lumen has been described in eukaryotes. Furthermore, it has been shown that the ability to reduce or rearrange incorrect disulfide bonds in missfolded proteins is provided by the oxidation of reduced glutathione (GSH) to oxidized glutathione (GSSG).",
+            "score": 109.37215423583984
+        },
+        {
+            "docid": "2698011_28",
+            "document": "Pacific Data Images . After the success of \"Antz\", in 2000 Carl Rosendahl sold his remaining interest in PDI to DreamWorks. PDI was renamed PDI/DreamWorks and continued to operate as a stand-alone business unit. Rosendahl left PDI in February 2000 to become managing director for Mobius Venture Capital, where he focused on investments in the technology and media companies. In May 2001, this sale essentially united the two studios, PDI and DreamWorks, into a single entity which went public a few years later as DreamWorks Animation (DWA). PDI stopped making commercials in 2002. The PDI studio was now known as PDI/DreamWorks. Animators at PDI worked on projects based at the PDI studio, but also assisted in DWA projects based in the Glendale DWA studio.",
+            "score": 105.79408264160156
+        },
+        {
+            "docid": "49914845_12",
+            "document": "SES-imagotag . Founded in 2010, Pervasive Displays Inc. (PDi) is a display design house that develops ultra-low power e-paper displays for industrial applications. The emphasis is on ease of access and use. Engineers look out to create IoT applications to substitute paper through PDi\u2019s paper display platform. Through the concept of \u201cconnected paper\u201d, improvements in the process are brought in by Pdi partners. Tangible efficiencies are yielded across industries such as logistics, healthcare and automation. \u201cpaper-like\u201d graphic displays in digital shelf labels are adopted by PDi.",
+            "score": 105.08130645751953
+        },
+        {
+            "docid": "18513865_2",
+            "document": "Democratic Renewal Party (Indonesia) . The Democratic Renewal Party (Indonesian: \"Partai Demokrasi Pembaruan\" (PDP)) was a political party in Indonesia. It was established in 2005 by former members of the Indonesian Democratic Party \u2013 Struggle (PDI-P) who were once close aides of party leader Megawati Sukarnoputri. Following the 2005 PDI-P congress, differences appeared over the nature of democratic methods within the party. A group of people, including Petrus Selestinus, took the view that although the PDI-P was a modern political party, it still used the old authoritarian methods such as giving absolute prerogative rights to the party chairman and having only one candidate for senior positions. This group then established the Democratic Renewal Party. Unlike the PDI-P, it had a system of collective leadership, with 35 people forming the national leadership.",
+            "score": 99.68698120117188
+        },
+        {
+            "docid": "29236484_7",
+            "document": "Thioredoxin domain . Protein disulfide isomerase (PDI), a resident foldase of the endoplasmic recticulum, is a multi-functional protein that catalyses the formation and isomerisation of disulfide bonds during protein folding. PDI contains 2 redox active domains, near the N- and C-termini, that are similar to thioredoxin: both contribute to disulfide isomerase activity, but are functionally non-equivalent. A mutant PDI, with all 4 of the active cysteines replaced by serine, displays a low but detectable level of disulfide isomerase activity. Moreover, PDI exhibits chaperone-like activity towards proteins that contain no disulfide bonds, i.e. behaving independently of its disulfide isomerase activity.",
+            "score": 99.43973541259766
+        },
+        {
+            "docid": "13625735_4",
+            "document": "Sri Oetari Ratna Dewi . The late Sri Oetari Ratna Dewi was a key figure from the very earliest stages of Megawati Soekarnoputri's Indonesian Democratic Party \u2013 Struggle (PDI-P) political party. PDI-P had fractured as a result of major disputes between popular figure Megawati and key Indonesian Democratic Party (PDI) founders. Megawati broke with the large PDI to form her own PDI-P with her as the popular 'face'.",
+            "score": 98.2105484008789
+        },
+        {
+            "docid": "13109327_5",
+            "document": "Plumbing &amp; Drainage Institute . PDI assists with the development of National Standards through the ASME Committee of the American Society of Mechanical Engineers. This assistance is provided by members of the PDI Engineering Committee and by other PDI affiliates. PDI has been active on Panels 6, 14, 21, and 26, of the A-112 Committee for a number of years and its Executive Director sits on the A-112 Main Committee. This is the consensus group for ANSI (American National Standards Institute).",
+            "score": 97.78093719482422
+        },
+        {
+            "docid": "4073095_2",
+            "document": "Peripheral drift illusion . The peripheral drift illusion (PDI) refers to a motion illusion generated by the presentation of a sawtooth luminance grating in the visual periphery. This illusion was first described by Faubert and Herbert (1999), although a similar effect called the \"escalator illusion\" was reported by Fraser and Wilcox (1979). A variant of the PDI was created by Kitaoka Akiyoshi and Ashida (2003) who took the continuous sawtooth luminance change, and reversed the intermediate greys. Kitaoka has created numerous variants of the PDI, and one called \"rotating snakes\" has become very popular. The latter demonstration has kindled great interest in the PDI.",
+            "score": 95.29818725585938
+        },
+        {
+            "docid": "2698011_33",
+            "document": "Pacific Data Images . PDI/DreamWorks has won nine Scientific and Technical Academy Awards. The first was awarded to Les Dittert, along with others, in 1994 for work in the area of film scanning. The second was awarded to Carl Rosendahl, Richard Chuang and Glenn Entis in 1997 for the concept and architecture of the PDI animation system. This award in particular recognized their pioneering work in computer animation dating back to the founding of PDI 17 years earlier. Nick Foster was given an award in 1998 for PDI's fluid animation system (flu), and in 2002 Dick Walsh was given one for the development of PDI's Facial Animation System.",
+            "score": 94.56429290771484
+        },
+        {
+            "docid": "100290_43",
+            "document": "Atmel AVR . The Program and Debug Interface (PDI) is an Atmel proprietary interface for external programming and on-chip debugging of XMEGA devices. The PDI supports high-speed programming of all non-volatile memory (NVM) spaces; flash, EEPROM, fuses, lock-bits and the User Signature Row. This is done by accessing the XMEGA NVM controller through the PDI interface, and executing NVM controller commands. The PDI is a 2-pin interface using the Reset pin for clock input (PDI_CLK) and a dedicated data pin (PDI_DATA) for input and output.",
+            "score": 94.47354125976562
+        },
+        {
+            "docid": "11764750_10",
+            "document": "Point diffraction interferometer . The device is self-referencing, therefore it can be used in environments with a lot of vibrations or when no reference beam is available, such as in many adaptive optics and short-wavelength scenarios. Interferometry has been used for various quantitative characterisation of optical systems indicating their overall performance. Traditionally, Fizeau interferometers have been used to detect optical or polished surface forms but new advances in precision manufacturing has allowed industrial point diffraction interferometry possible. PDI is especially suited for high resolution, high accuracy measurements in laboratory conditions to noisy factory floors. Lack of reference optics makes the method suitable to visualise absolute surface form of optical systems. Therefore, a PDI is uniquely suitable to verify the reference optics of other interferometers. It is also immensely useful in analysing optical assemblies used in Laser based systems. Characterising optics for UV lithography. Quality control of precision optics. Verifying the actual resolution of an optical assembly. Measuring the wavefront map produced by X-ray optics. PS-PDI can also be used to verify rated resolution of space optics before deployment.",
+            "score": 94.22911834716797
+        },
+        {
+            "docid": "501398_6",
+            "document": "Protein disulfide-isomerase . Afterwards, PDI can be regenerated to its oxidized form in the endoplasmic reticulum by transferring electrons to reoxidizing proteins such ER Oxidoreductin 1 (Ero 1), VKOR (vitamin K epoxide reductase), glutathione peroxidase (Gpx7/8), and PrxIV (peroxiredoxin IV). Ero1 is thought to be the main reoxidizing protein of PDI, and the pathway of reoxidation of PDI for Ero1 is more understood than that of other proteins. Ero1 accepts electrons from PDI and donates these electrons to oxygen molecules in the ER, which leads to the formation of hydrogen peroxide.",
+            "score": 93.90473937988281
+        },
+        {
+            "docid": "11764750_2",
+            "document": "Point diffraction interferometer . A point diffraction interferometer (PDI) is a type of common-path interferometer. Unlike an amplitude-splitting interferometer, such as a Michelson interferometer, which separates out an unaberrated beam and interferes this with the test beam, a common-path interferometer generates its own reference beam. In PDI systems, the test and reference beams travel the same or almost the same path. This design makes the PDI extremely useful when environmental isolation is not possible or a reduction in the number of precision optics is required. The reference beam is created from a portion of the test beam by diffraction from a small pinhole in a semitransparent coating. The principle of a PDI is shown in Figure 1.",
+            "score": 93.71125793457031
+        },
+        {
+            "docid": "11960698_4",
+            "document": "Protein dispersibility index . It has been shown that the PDI can be affected, not only by the type of soybean used, but also by manufacturing processes - heat has been shown to lower the PDI.",
+            "score": 93.6854019165039
+        },
+        {
+            "docid": "35152689_7",
+            "document": "Common-path interferometer . Another common-path interferometer useful in lens testing and fluid flow diagnostics is the point diffraction interferometer (PDI), invented by Linnik in 1933. The reference beam is generated by diffraction from a small pinhole, about half the diameter of the Airy disk, in a semitransparent plate. Fig.\u00a01 illustrates an aberrated wavefront focused onto the pinhole. The diffracted reference beam and the transmitted test wave interfere to form fringes. The common-path design of the PDI brings to it a number of important advantages. (1) Only a single laser path is required rather than the two paths required by the Mach-Zehnder or Michelson designs. This advantage can be very important in large interferometric setups such as in wind tunnels that have long optical paths through turbulent media. (2) The common-path design uses fewer optical components than double path designs, making alignment much easier, as well as reducing cost, size, and weight, especially for large setups. (3) While the accuracy of a double path design is dependent on the precision with which the reference element is figured, careful design enables the generated reference beam of the PDI to be of guaranteed precision. A disadvantage is that the amount of light getting through the pinhole depends on how well the light can be focused onto the pinhole. If the incident wavefront is severely aberrated, very little light may get through. The PDI has seen use in various adaptive optics applications.",
+            "score": 93.30607604980469
+        },
+        {
+            "docid": "396586_10",
+            "document": "Indonesian Democratic Party of Struggle . As the 1999 MPR General Session loomed closer, it was expected that PDI-P would once again play the dominant role. However, despite winning the Legislative Elections, PDI-P did not have absolute majority. Despite this however, PDI-P never formed a coalition with any of the other political parties in the lead up to the 1999 MPR General Session. The closest thing PDI-P had to a coalition was a loose alliance with Abdurrahman Wahid's National Awakening Party (PKB).",
+            "score": 92.92878723144531
+        },
+        {
+            "docid": "44144166_2",
+            "document": "ERp27 . ERp27 (Endoplasmic Reticulum protein 27.7 kDa) is a homologue of PDI (protein disulfide-isomerase), localised to the Endoplasmic Reticulum. The structure of ERp27 has been solved by both X-ray crystallography and NMR spectroscopy, showing it to be composed of two thioredoxin-like domains with homology to the non-catalytic b and b' domains of PDI. The function of ERp27 is unknown, but on the basis of its homology with PDI it is thought to possess chaperone activity.",
+            "score": 92.76919555664062
+        },
+        {
+            "docid": "1509817_6",
+            "document": "DreamWorks Animation . In 1995, DreamWorks signed a co-production deal with Pacific Data Images to form subsidiary PDI, LLC (PDI owned 60% of PDI, LLC, while DreamWorks SKG owned 40%). This new unit would produce computer-generated feature films, beginning with \"Antz\" in 1998. In the same year DreamWorks SKG produced \"The Prince of Egypt\", which used both CGI technology and traditional animation techniques.",
+            "score": 92.55644989013672
+        },
+        {
+            "docid": "11960698_5",
+            "document": "Protein dispersibility index . The PDI required of a soyflour is dependent on the purpose to which the soybeans are to be put. Manufacturers of soymilk and tofu products want a high PDI to ensure the maximum protein content in their products. However, manufacturers of soy-based fish feed require a low PDI to avoid loss of valuable protein into the surrounding water.",
+            "score": 92.48344421386719
+        },
+        {
+            "docid": "13400361_13",
+            "document": "The American University of Iraq, Sulaimani . The Professional Development Institute (PDI) complements the educational objectives of the American University of Iraq, Sulaimani by providing opportunities for lifelong learning through programs and services that enables participants to develop the knowledge and skills necessary to achieve personal and professional goals, improve the productivity of organizations, and provide leadership and service to their communities. PDI is a certified Cisco Academy and is accredited by the Association of Chartered Certified Account, the Project Management Institute and ICDL. PDI has also been certified as a PMI Registered Education Provider.",
+            "score": 92.31100463867188
+        },
+        {
+            "docid": "2698011_24",
+            "document": "Pacific Data Images . By 1992, PDI was seriously looking for a partner to produce feature-length animated films. PDI's first CG feature was planned in 1985, and Hollywood was still not ready to say \"Yes\". PDI landed \"The Last Halloween\" TV special which won them an Emmy Award for the CG characters in the otherwise live-action special with Hanna-Barbera. This turned into PDI's first 3D Character Animation pipeline in 1991. Using this pipeline they did a 3D stereo Daffy Duck for Warner Brothers and a CG Homer and Bart Simpson for the 1995 \"The Simpsons\" Halloween episode \"Homer\".",
+            "score": 92.30718231201172
+        },
+        {
+            "docid": "2698011_10",
+            "document": "Pacific Data Images . PDI's first client was Rede Globo, Brazil's largest TV network. This gave PDI the major client they needed to fund the building of most of the early software. This also sent PDI into the business of TV motion graphics and logo animation (flying logos). PDI designed some early show openings and other special projects for Rede Globo. The software written was also given to Rede Globo and is the only time the in-house software was given to another company. The contract ended in the mid-1980s, but Rede Globo continued to use the software for many years.",
+            "score": 92.13480377197266
+        },
+        {
+            "docid": "21097533_5",
+            "document": "Roy B.B. Janis . In 1996, when the \"Kongres Medan\" was held and resulted PDI to be divided into \"Kubu Megawati\" and \"Kubu Soerjadi's\" that's supported by the new order regime (orba) authorities; He was elected Regional Chairman of the Indonesian Democratic Party \u2013 Struggle (PDI Perjuangan) for Province of Jakarta (DPD PDI Perjuangan DKI Jakarta) period 1996-2000, where he successfully conducted PDI Perjuangan to obtain victory in Jakarta when the general election was held in 1999. The party obtained 7 seats in Indonesian House of Representatives and 30 seats in Legislative Level I. Not long after being elected Regional Chairman of PDI Perjuangan on 12 July 1996, the office of DPP PDI Perjuangan was attacked; the incident was popular with \"Peristiwa Sabtu Kelabu 27 Juli\". In 2000 a congress was held in Semarang, he was elected as one of the Chairman of the DPP PDI Perjuangan period 2000-2005. In the same year he\u2019s also practise Hajj to the Holy Land of Mecca with his family.",
+            "score": 91.82352447509766
+        },
+        {
+            "docid": "56827219_5",
+            "document": "27 July 1996 incident . By 1996, support for the PDI was increasing among intellectuals, middle class city-dwellers and low income Jakartans. Some of Megawati's supporters urged her to run for the presidency. The Indonesian military subsequently intervened in an extraordinary PDI conference held in Medan from 20-24 June to depose Megawati, and reappoint former leader Soerjadi, who was seen as less of a threat. On 20 June, 5,000 people attended a demonstration in support of Megawati in Jakarta \u2013 some wearing \"Megawati for President\" t-shirts. Over 70 were injured in clashes with police and soldiers. In Medan, Soerjadi was duly elected party chair, but Megawati and her followers refused to recognize this, and launched a legal challenge. The PDI split into two factions, the government-recognized PDI led by Soerjadi recognized by the government, and the \"PDI Mega\" supported by the by grassroots membership.",
+            "score": 90.7986831665039
+        },
+        {
+            "docid": "1316684_4",
+            "document": "Power distance . The Power Distance Index is designed to measure 'the extent to which power differs within the society, organization and institutions (like the family) are accepted by the less powerful members'. It indicates the level of power distance and dependent relationships in a country by assigning a score to each country. The PDI also represents society's level of inequality that is defined from below rather than from above. As Hofstede stressed, there is no absolute value and PDI is useful only as a method to compare countries.",
+            "score": 90.75728607177734
+        },
+        {
+            "docid": "1786719_20",
+            "document": "Step-growth polymerization . The polydispersity index (PDI), is a measure of the distribution of molecular mass in a given polymer sample. However, for step-growth polymerization the Carothers equation can be used to substitute and rearrange this formula into the following. Therefore, in step-growth when p=1, then the PDI=2.",
+            "score": 90.67464447021484
+        },
+        {
+            "docid": "2698011_35",
+            "document": "Pacific Data Images . In 2013, Lawrence Kesteloot, Drew Olbrich and Daniel Wexler were given an award for PDI's lighting tool, called \"light.\" This tool was developed for PDI's first feature film, \"Antz\", and is still in use today at PDI and DreamWorks Animation some 25 films later.",
+            "score": 90.06362915039062
+        },
+        {
+            "docid": "4724509_3",
+            "document": "Aron Warner . Warner joined PDI/DreamWorks in 1997 to serve as a producer on the computer animated hit Antz, which marked the first collaboration between PDI and DreamWorks. Warner went on to become head of PDI/DreamWorks from 2000 to 2002. Warner had previously held the post of vice president of production at Twentieth Century Fox, where he supervised production on such films as \"Independence Day\", \"The Ice Storm\", \"The Crucible\", \"Alien Resurrection\" and \"Titanic\".",
+            "score": 89.45380401611328
+        },
+        {
+            "docid": "396586_3",
+            "document": "Indonesian Democratic Party of Struggle . The PDI-P was founded and is currently led by Megawati Sukarnoputri, president of Indonesia from 2001 to 2004, and daughter of Sukarno, the first president of Indonesia. Megawati was forced out from the leadership of the Indonesian Democratic Party (PDI) by the government of Indonesia under Suharto in 1996. Megawati formed the PDI-P in 1999, after Suharto resigned and restrictions on political parties were lifted.",
+            "score": 89.42567443847656
+        },
+        {
+            "docid": "396586_19",
+            "document": "Indonesian Democratic Party of Struggle . Although it had not supported Wahid to the Presidency, PDI-P members received ministerial positions in his cabinet because of Megawati's position as Vice President. As time went on, much like the Central Axis that had supported Wahid, PDI-P would grow disillusioned with Wahid. In April 2000, Laksamana Sukardi, a PDI-P member who held position as Minister of Investments and State Owned Enterprises was sacked from his position. When PDI-P enquired as to why this was done, Wahid claimed it was because of corruption but never backed up his claim.",
+            "score": 88.86116027832031
+        },
+        {
+            "docid": "2698011_16",
+            "document": "Pacific Data Images . PDI's early focus was on network TV productions since they captured over 50% of that market in 1985. However, in 1990, PDI introduced the digital film scanning process. This process was used to popularize automated rig removal and image touch-up. PDI was also instrumental in introducing performance animation for theme parks, ads and movies. This started with a project for a real time performance character for Jim Henson Productions.",
+            "score": 88.58010864257812
+        },
+        {
+            "docid": "15286265_7",
+            "document": "Steven Snyder . While working on his dissertation at Minnesota, he consulted with accompany called Personnel Decisions International (PDI), which helps companies develop the talent of their employees. At PDI Snyder helped the company develop a computer-based coaching program that would enable leaders to develop specific leadership competencies. The product had an innovative user interface for presenting the components of leadership development: assessment, a personalized development plan, and an everyday learning process. These ideas became the basis of a US patent, held by PDI .",
+            "score": 88.30762481689453
+        }
+    ]
+}

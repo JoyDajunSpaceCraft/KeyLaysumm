@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "19588_18",
+            "document": "Mitochondrion . The outer mitochondrial membrane, which encloses the entire organelle, is 60 to 75 angstroms (\u00c5) thick. It has a protein-to-phospholipid ratio similar to that of the eukaryotic plasma membrane (about 1:1 by weight). It contains large numbers of integral membrane proteins called porins. These porins form channels that allow molecules of 5000\u00a0daltons or less in molecular weight to freely diffuse from one side of the membrane to the other. Larger proteins can enter the mitochondrion if a signaling sequence at their N-terminus binds to a large multisubunit protein called translocase of the outer membrane, which then actively moves them across the membrane. Mitochondrial pro-proteins are imported through specialised translocation complexes. The outer membrane also contains enzymes involved in such diverse activities as the elongation of fatty acids, oxidation of epinephrine, and the degradation of tryptophan. These enzymes include monoamine oxidase, rotenone-insensitive NADH-cytochrome c-reductase, kynurenine hydroxylase and fatty acid Co-A ligase. Disruption of the outer membrane permits proteins in the intermembrane space to leak into the cytosol, leading to certain cell death. The mitochondrial outer membrane can associate with the endoplasmic reticulum (ER) membrane, in a structure called MAM (mitochondria-associated ER-membrane). This is important in the ER-mitochondria calcium signaling and is involved in the transfer of lipids between the ER and mitochondria.",
+            "score": 170.1912146806717
+        },
+        {
+            "docid": "52832272_4",
+            "document": "Mitochondria associated membranes . Mitochondria associated membranes are involved in the transport of calcium from the ER to mitochondria. This interaction is important for rapid uptake of calcium by mitochondria through Voltage dependent anion channels (VDACs), which are located at the outer mitochondrial membrane (OMM). This transport is regulated with chaperones and regulatory proteins which control the formation of the ER\u2013mitochondria junction. Transfer of calcium from ER to mitochondria depends on high concentration of calcium macrodomes in the intermembrane space, and mitochondrial calcium uniporter (MCU) accumulates of calcium into the mitochondrial matrix for electrochemical gradient.",
+            "score": 229.8486785888672
+        },
+        {
+            "docid": "49534415_2",
+            "document": "Mitochondrial calcium uniporter . The mitochondrial calcium uniporter (MCU) is a transmembrane protein that allows the passage of calcium ions from a cell's cytosol into mitochondria. Its activity is regulated by MICU1 and MICU2, which together with the MCU make up the mitochondrial calcium uniporter complex.",
+            "score": 289.9213308095932
+        },
+        {
+            "docid": "49534415_3",
+            "document": "Mitochondrial calcium uniporter . The MCU is one of the primary sources of mitochondria uptake of calcium, and flow is dependent on membrane potential of the inner mitochondrial membrane and the concentration of calcium in the cytosol relative to the concentration in the mitochondria. Balancing calcium concentration is necessary to increase the cell's energy supply and regulate cell death. Calcium is balanced through the MCU in conjunction with the sodium-calcium exchanger.",
+            "score": 231.38248372077942
+        },
+        {
+            "docid": "22120746_5",
+            "document": "Mitochondrial biogenesis . Since the majority of mitochondrial protein comes from the nuclear genome, the proteins need to be properly targeted and transported into the mitochondria to perform their functions. First, mRNA is translated in the cell\u2019s cytosol. The resulting unfolded precursor proteins will then be able to reach their respective mitochondrial compartments. Precursor proteins will be transported to one of four areas of the mitochondria, which include the outer membrane, inner membrane, intermembrane space, and matrix. All proteins will enter the mitochondria by a translocase on the outer mitochondrial membrane (TOM). Some proteins will have an N-terminal targeting signal, and these proteins will be detected and transported into the matrix, where they will then be cleaved and folded. Other proteins may have targeting information in their sequences and will not include an N-terminal signal. During the past two decades, researchers have discovered over thirty proteins that participate in mitochondrial protein import. As researchers learn more about these proteins and how they reach the respective mitochondrial compartments that utilize them, it becomes evident that there is a multitude of processes that work together in the cell to allow for mitochondrial biogenesis.",
+            "score": 134.81719636917114
+        },
+        {
+            "docid": "43557835_4",
+            "document": "Aleksandra Filipovska . Filipovska's research focuses on mitochondria, the 'powerhouses' that provide all human cells with energy. Dysfunction of mitochondria contributes to a variety of debilitating human diseases including neurodegenerative disorders, diabetes and cancer. During her graduate studies, Filipovska investigated how mutations in genes encoding for mitochondrial proteins can lead to disease, and developed new approaches to manipulate mitochondrial DNA replication and expression as potential therapies. During her postdoctoral work, she explored the use of compounds targeting mitochondria as a means to reduce oxidative stress in cells during aging and disease. Since establishing her research group at the Harry Perkins Institute of Medical Research, Filipovska has continued to focus on the molecular mechanisms by which changes in mitochondrial gene expression causes disease. Working with collaborators at the University of Western Australia, she recently identified a communication problem between a calcium channel in muscle cells and the protein dystrophin, which may underlie heart failure in muscular dystrophy patients.",
+            "score": 145.0997350215912
+        },
+        {
+            "docid": "2965167_6",
+            "document": "NINDS brain trauma research . One area of research that shows promise is the study of the role of calcium ion influx into the damaged neuron as a cause of cell death and general brain tissue swelling. Calcium enters nerve cells through damaged channels in the axon's membrane. The excess calcium inside the cell causes the axon to swell and also activates chemicals, called proteases, that break down proteins. One family of proteases, the calpains, are especially damaging to nerve cells because they break down proteins that maintain the structure of the axon. Excess calcium within the cell is also destructive to the cell's mitochondria, structures that produce the cell's energy. Mitochondria soak up excess calcium until they swell and stop functioning. If enough mitochondria are damaged, the nerve cell degenerates. Calcium influx has other damaging effects: it activates destructive enzymes, such as caspases that damage the DNA in the cell and trigger programmed cell death, and it damages sodium channels in the cell membrane, allowing sodium ions to flood the cell as well. Sodium influx exacerbates swelling of the cell body and axon.",
+            "score": 253.22246778011322
+        },
+        {
+            "docid": "3783000_11",
+            "document": "Phosphatidylinositol 4,5-bisphosphate . PIP functions as an intermediate in the [IP/DAG pathway], which is initiated by ligands binding to G protein-coupled receptors activating the G alpha subunit. PtdIns(4,5)\"P\" is a substrate for hydrolysis by phospholipase C (PLC), a membrane-bound enzyme activated through protein receptors such as \u03b11 adrenergic receptors. PIP regulates the function of many membrane proteins and ion channels, such as the M-channel. The products of the PLC catalyzation of PIP are inositol 1,4,5-trisphosphate (Ins\"P\"; IP) and diacylglycerol (DAG), both of which function as second messengers. In this cascade, DAG remains on the cell membrane and activates the signal cascade by activating protein kinase C (PKC). PKC in turn activates other cytosolic proteins by phosphorylating them. The effect of PKC could be reversed by phosphatases. IP enters the cytoplasm and activates IP receptors on the smooth endoplasmic reticulum (ER), which opens calcium channels on the smooth ER, allowing mobilization of calcium ions through specific Ca channels into the cytosol. Calcium participates in the cascade by activating other proteins.",
+            "score": 200.77965831756592
+        },
+        {
+            "docid": "60426_4",
+            "document": "Symbiogenesis . Among the many lines of evidence supporting symbiogenesis are that new mitochondria and plastids are formed only through binary fission, and that cells cannot create new ones otherwise; that the transport proteins called porins are found in the outer membranes of mitochondria, chloroplasts and bacterial cell membranes; that cardiolipin is found only in the inner mitochondrial membrane and bacterial cell membranes; and that some mitochondria and plastids contain single circular DNA molecules similar to the chromosomes of bacteria.",
+            "score": 124.33390522003174
+        },
+        {
+            "docid": "16835127_3",
+            "document": "TOMM40 . \"TOMM40\" codes for a protein that is embedded into outer membranes of mitochondria and is required for the movement of proteins into mitochondria. More precisely, TOMM40 is the channel-forming subunit of a translocase of the mitochondrial outer membrane (TOM) that is essential for protein transport into mitochondria.",
+            "score": 115.91253447532654
+        },
+        {
+            "docid": "39361413_2",
+            "document": "Ccdc109b . Coiled-coil domain containing 109B (CCDC109B) is a potential calcium uniporter protein found in the membrane of human cells and is encoded by the CCDC109B gene. While CCDC109B is a transmembrane protein it is unclear if it is located within the cell membrane or mitochondrial membrane.",
+            "score": 144.916579246521
+        },
+        {
+            "docid": "14797652_3",
+            "document": "CACNB4 . This gene encodes a member of the beta subunit family, a protein in the voltage-dependent calcium channel complex. Calcium channels mediate the influx of calcium ions into the cell upon membrane polarization and consist of a complex of alpha-1, alpha-2/delta, beta, and gamma subunits in a 1:1:1:1 ratio. Various versions of each of these subunits exist, either expressed from similar genes or the result of alternative splicing. The protein described in this record plays an important role in calcium channel function by modulating G protein inhibition, increasing peak calcium current, controlling the alpha-1 subunit membrane targeting and shifting the voltage dependence of activation and inactivation. Alternate transcriptional splice variants of this gene, encoding different isoforms, have been characterized.",
+            "score": 204.4045386314392
+        },
+        {
+            "docid": "378744_8",
+            "document": "Calcium in biology . The effects of calcium on human cells are specific, meaning that different types of cells respond in different ways. However, in certain circumstances, its action may be more general. Ca ions are one of the most widespread second messengers used in signal transduction. They make their entrance into the cytoplasm either from outside the cell through the cell membrane via calcium channels (such as calcium-binding proteins or voltage-gated calcium channels), or from some internal calcium storages such as the endoplasmic reticulum and mitochondria. Levels of intracellular calcium are regulated by transport proteins that remove it from the cell. For example, the sodium-calcium exchanger uses energy from the electrochemical gradient of sodium by coupling the influx of sodium into cell (and down its concentration gradient) with the transport of calcium out of the cell. In addition, the plasma membrane Ca ATPase (PMCA) obtains energy to pump calcium out of the cell by hydrolysing adenosine triphosphate (ATP). In neurons, voltage-dependent, calcium-selective ion channels are important for synaptic transmission through the release of neurotransmitters into the synaptic cleft by vesicle fusion of synaptic vesicles.",
+            "score": 271.86425745487213
+        },
+        {
+            "docid": "7673869_9",
+            "document": "Catecholaminergic polymorphic ventricular tachycardia . At the start of each heartbeat, calcium is released from the sarcoplasmic reticulum through specialised channels known as ryanodine receptors. In response to an electrical signal from the cell membrane called an action potential, a small amount of calcium flowing across the cell membrane triggers ryanodine receptors to release a puff of calcium known as a calcium spark. Each spark triggers the release of further sparks from neighbouring ryanodine receptors to create an organised rise of calcium throughout the cell known as a calcium transient. At the end of each heartbeat, calcium is pumped back by a protein called SERCA, and held within the sarcoplasmic reticulum by a protein called calsequestrin. Alterations to the proteins involved in this mechanism can disrupt this carefully regulated process and lead to arrhythmias.",
+            "score": 165.47859477996826
+        },
+        {
+            "docid": "14075966_9",
+            "document": "PRKCE . In addition to sarcomeres, PKC\u03b5 also targets cardiac mitochondria. Proteomic analysis of PKC\u03b5 signaling complexes in mice expressing a constitutively-active, overexpressed PKC\u03b5 identified several interacting partners at mitochondria whose protein abundance and posttranslational modifications were altered in the transgenic mice. This study was the first to demonstrate PKC\u03b5 at the inner mitochondrial membrane, and it was found that PKC\u03b5 binds several mitochondrial proteins involved in glycolysis, TCA cycle, beta oxidation, and ion transport. However, it remained unclear how PKC\u03b5 translocates from the outer to inner mitochondrial membrane until Budas et al. discovered that heat shock protein 90 (Hsp90) coordinates with the translocase of the outer mitochondrial membrane-20 (Tom20) to translocate PKC\u03b5 following a preconditioning stimulus. Specifically, a seven amino acid peptide, termed TAT-\u03b5HSP90, homologous to the Hsp90 sequence within the PKC\u03b5 C2 domain induced translocation of PKC\u03b5 to the inner mitochondrial membrane and cardioprotection.",
+            "score": 128.19069683551788
+        },
+        {
+            "docid": "14988435_2",
+            "document": "Translocase of the outer membrane . The translocase of the outer membrane (TOM) is a complex of proteins found in the outer mitochondrial membrane of the mitochondria. It allows movement of proteins through this barrier and into the intermembrane space of the mitochondrion. Most of the proteins needed for mitochondrial function are encoded by the nucleus of the cell. The outer membrane of the mitochondrion is impermeable to large molecules greater than 5000 Daltons. The TOM works in conjunction with the translocase of the inner membrane (TIM) to translocate proteins into the mitochondrion. Many of the proteins in the TOM complex, such as TOMM22, were first identified in \"Neurospora crassa\" and \"Saccharomyces cerevisiae\".",
+            "score": 119.15469980239868
+        },
+        {
+            "docid": "1422685_8",
+            "document": "Beta-Endorphin . Voltage-dependent calcium channels (VDCCs) are important membrane proteins that mediate the depolarization of neurons, and play a major role in promoting the release of neurotransmitters. When endorphin molecules bind to opioid receptors, G proteins activate and dissociate into their constituent G\u03b1 and G\u03b2\u03b3 sub-units. The G\u03b2\u03b3 sub-unit binds to the intracellular loop between the two trans-membrane helices of the VDCC. When the sub-unit binds to the voltage-dependent calcium channel, it produces a voltage-dependant block, which inhibits the channel, preventing the flow of calcium ions into the neuron. Embedded in the cell membrane is also the G protein-coupled inwardly-rectifying potassium channel. When a G\u03b2\u03b3 or G\u03b1(GTP) molecule binds to the C-terminus of the potassium channel, it becomes active, and potassium ions are pumped out of the neuron. The activation of the potassium channel and subsequent deactivation of the calcium channel causes membrane hyperpolarization. This is when there is a change in the membrane\u2019s potential, so that it becomes more negative. The reduction in calcium ions causes a reduction neurotransmitter release because calcium is essential for this event to occur. This means that neurotransmitters such as glutamate and substance P cannot be released from the presynaptic terminal of the neurons. These neurotransmitters are vital in the transmission of pain, and as \u03b2-Endorphin reduces the release of these substances, there is a strong analgesic effect.",
+            "score": 214.00817322731018
+        },
+        {
+            "docid": "7407236_3",
+            "document": "TIM/TOM complex . The vast majority of proteins destined for the mitochondria are encoded in the nucleus and synthesized in the cytoplasm. These are tagged by an N-terminal signal sequence. Following transport through the cytosol from the nucleus, the signal sequence is recognized by a receptor protein in the translocase of the outer membrane (TOM) complex. The signal sequence and adjacent portions of the polypeptide chain are inserted in the TOM complex, then begin interaction with a translocase of the inner membrane (TIM) complex, which are hypothesized to be transiently linked at sites of close contact between the two membranes. The signal sequence is then translocated into the matrix in a process that requires an electrochemical hydrogen ion gradient across the inner membrane. Mitochondrial Hsp70 binds to regions of the polypeptide chain and maintains it in an unfolded state as it moves into the matrix. This protein complex is functionally similar to the TIC/TOC Complex located on the inner and outer membranes of the chloroplast, in the sense that it transports proteins into the membrane of the mitochondria.",
+            "score": 160.74944746494293
+        },
+        {
+            "docid": "1393693_5",
+            "document": "Succinate dehydrogenase complex subunit C . The SDHC protein is one of four nuclear-encoded subunits that comprise succinate dehydrogenase, also known as Complex II of the electron transport chain, a key enzyme complex of the citric acid cycle and aerobic respiratory chains of mitochondria. The encoded protein is one of two integral membrane proteins that anchor other subunits of the complex, which form the catalytic core, to the inner mitochondrial membrane.",
+            "score": 109.54440236091614
+        },
+        {
+            "docid": "39288495_8",
+            "document": "Mitochondrial fusion . Many gene products that control mitochondrial fusion have been identified, and can be reduced to three core groups which also control mitochondrial fission. These groups of proteins include mitofusins, OPA1/Mgm1, and Drp1/Dnm1. All of these molecules are GTP hydrolyzing proteins (GTPases) that belong to the dynamin family. Mitochondrial dynamics in different cells are understood by the way in which these proteins regulate and bind to each other. These GTPases in control of mitochondrial fusion are well conserved between mammals, flies, and yeast. Mitochondrial fusion mediators differ between the outer and inner membranes of the mitochondria. Specific membrane-anchored dynamin family members mediate fusion between mitochondrial outer membranes known as Mfn1 and Mfn2. These two proteins are mitofusin contained within humans that can alter the morphology of affected mitochondria in over-expressed conditions. However, a single dynamin family member known as OPA1 in mammals mediates fusion between mitochondrial inner membranes. These regulating proteins of mitochondrial fusion are organism-dependent; therefore, in \"Drosophila\" (fruit flies) and yeasts, the process is controlled by the mitochondrial transmembrane GTPase, Fzo. In \"Drosophila\", Fzo is found in postmeiotic spermatids and the dysfunction of this protein results in male sterility. However, a deletion of Fzo1 in budding yeast results in smaller, spherical mitochondria due to the lack of mitochondrial DNA (mtDNA).",
+            "score": 108.11356472969055
+        },
+        {
+            "docid": "1393693_2",
+            "document": "Succinate dehydrogenase complex subunit C . Succinate dehydrogenase complex subunit C, also known as succinate dehydrogenase cytochrome b560 subunit, mitochondrial, is a protein that in humans is encoded by the \"SDHC\" gene. This gene encodes one of four nuclear-encoded subunits that comprise succinate dehydrogenase, also known as mitochondrial complex II, a key enzyme complex of the tricarboxylic acid cycle and aerobic respiratory chains of mitochondria. The encoded protein is one of two integral membrane proteins that anchor other subunits of the complex, which form the catalytic core, to the inner mitochondrial membrane. There are several related pseudogenes for this gene on different chromosomes. Mutations in this gene have been associated with paragangliomas. Alternatively spliced transcript variants have been described.",
+            "score": 100.88874769210815
+        },
+        {
+            "docid": "1437371_15",
+            "document": "Fatty acid metabolism . Inositol trisphosphate (IP) functions as an intracellular second messenger, which initiates the intracellular release of calcium ions (which activates intracellular enzymes, causes the release of hormones and neurotransmitters from the cells in which they are stored, and causes smooth muscle contraction when released by IP), and the activation of protein kinase C (PKC), which is then translocated from the cell cytoplasm to the cell membrane. Although inositol trisphosphate, (IP), diffuses into the cytosol, diacylglycerol (DAG) remains within the plasma membrane, due to its hydrophobic properties. IP stimulates the release of calcium ions from the smooth endoplasmic reticulum, whereas DAG is a physiological activator of protein kinase C (PKC), promoting its translocation from the cytosol to the plasma membrane. PKC is a multifunctional protein kinase which phosphorylates serine and threonine residues in many target proteins. However PKC is only active in the presence of calcium ions, and it is DAG that increases the affinity of PKC for Ca and thereby renders it active at the physiological intracellular levels of this ion.",
+            "score": 225.8695318698883
+        },
+        {
+            "docid": "6781_17",
+            "document": "Cytosol . Protein molecules that do not bind to cell membranes or the cytoskeleton are dissolved in the cytosol. The amount of protein in cells is extremely high, and approaches 200\u00a0mg/ml, occupying about 20-30% of the volume of the cytosol. However, measuring precisely how much protein is dissolved in cytosol in intact cells is difficult, since some proteins appear to be weakly associated with membranes or organelles in whole cells and are released into solution upon cell lysis. Indeed, in experiments where the plasma membrane of cells were carefully disrupted using saponin, without damaging the other cell membranes, only about one quarter of cell protein was released. These cells were also able to synthesize proteins if given ATP and amino acids, implying that many of the enzymes in cytosol are bound to the cytoskeleton. However, the idea that the majority of the proteins in cells are tightly bound in a network called the microtrabecular lattice is now seen as unlikely.",
+            "score": 87.29741358757019
+        },
+        {
+            "docid": "39361413_11",
+            "document": "Ccdc109b . CCDC109B has a single paralog in the human genome. This paralog is CCDC109A, which is more commonly known as Mitochondrial Calcium Uniporter (MCU) MCU is located in the inner membrane of the mitochondrion and is found as an oligomer that transports calcium ions into the mitochondria. MCU is an essential component of the mitochondrial membrane and sliencing MCU abolishes calcium uptake. The DIME motif, which is also conserved in CCDC109B, is responsible for calcium uptake and a mutation in this region inhibits this function. CCDC109B and MCU share a 43% identity in which the DIME motif is fully conserved.",
+            "score": 246.48023915290833
+        },
+        {
+            "docid": "1774422_3",
+            "document": "Intermembrane space . Channel proteins called porins in the outer membrane allow free movement of ions and small molecules into the intermembrane space. This does not mean that it is essentially continuous with the cytosol in terms of the solutes relevant for the functioning of these organelles. Enzymes destined for the mitochondrial matrix or the stroma can pass through the intermembrane space via transport through [1]s. These are known as translocase of the outer mitochondria membrane (TOM) and translocase of the inner mitochondrial membrane (TIM) in mitochondria and translocase of the outer chloroplast membrane (TOC) and translocase of the inner chloroplast membrane (TIC) in chloroplasts. It tends to have a low pH because of the proton gradient which results when protons are pumped from the mitochondrial matrix into the intermembrane space during electron transport. The structures responsible for this are coenzyme Q, NADH coenzyme Q oxidoreductase complex (complex I), succinate-coenzyme Q oxidoreductase complex (complex II), and coenzyme Q-cytochrome c oxidoreductase complex (complex III).",
+            "score": 146.26318395137787
+        },
+        {
+            "docid": "15898987_3",
+            "document": "CACNA1H . This gene encodes Ca3.2, a T-type member of the \u03b1 subunit family, a protein in the voltage-dependent calcium channel complex. Calcium channels mediate the influx of calcium ions into the cell upon membrane polarization and consist of a complex of \u03b1, \u03b1\u03b4, \u03b2, and \u03b3 subunits in a 1:1:1:1 ratio. The \u03b1 subunit has 24 transmembrane segments and forms the pore through which ions pass into the cell. There are multiple isoforms of each of the proteins in the complex, either encoded by different genes or the result of alternative splicing of transcripts. Alternate transcriptional splice variants, encoding different isoforms, have been characterized for the gene described here.",
+            "score": 233.88451743125916
+        },
+        {
+            "docid": "23754109_23",
+            "document": "Neonatal diabetes mellitus . KCNJ11 encodes Kir6.2 (a protein coding gene in the potassium channel) and ABCC8 encodes the gene, SUR1 (the type 1 subunit of the sulfonylurea receptor), a member of the ATP-binding cassette transporter family, the two components of the K channel. This channel links glucose metabolism to insulin secretion by closing in response to ATP. Blood glucose storage into Beta-cells lead to glycolysis and cause ATP generation. The elevated ATP/adenosine diphosphate ratio causes closure of the K channel, and inhibit potassium efflux (a lot of potassium flows out of this channel), that leads to depolarization of the Beta-cell membrane. Depolarization is the lost of the difference in charge between the inner and outer parts of the plasma membrane of a muscle. This occurs because change in permeability and migration of sodium ions inside the cell. The voltage gated channels then open, allowing calcium (Ca) to flow inside the channel and cause exocytosis (active transport that moves molecules out of a cell by ejecting them in an energy using process) of insulin-containing granules from the Beta-cells. Activation of defects in KCNJ11 or ABCC8 seems to make the K channel less sensitive to ATP, leaving more channels in an open state after high levels of glucose occurs. Resulting in the failure of insulin response to high blood glucose and leading to NDM.",
+            "score": 170.81628453731537
+        },
+        {
+            "docid": "14800527_3",
+            "document": "CACNG2 . L-type calcium channels are composed of five subunits. The protein encoded by this gene represents one of these subunits, gamma, and is one of several gamma subunit proteins. It is an integral membrane protein that is thought to stabilize the calcium channel in an inactive (closed) state. This protein is similar to the mouse stargazin protein, mutations in which having been associated with absence seizures, also known as petit-mal or spike-wave seizures. This gene is a member of the neuronal calcium channel gamma subunit gene subfamily of the PMP-22/EMP/MP20 family.",
+            "score": 128.97705578804016
+        },
+        {
+            "docid": "14988435_4",
+            "document": "Translocase of the outer membrane . There are various mitochondrial import pathways that exist to facilitate the import of precursor proteins to their destined mitochondrial subcompartments. HSP90 aids the delivery of the mitochondrial preprotein to the TOM complex in an ATP-dependent process. Many precursor proteins (those that are destined for the matrix) contain amino-terminal presequences that carry information required for the targeting of proteins to the mitochondrial matrix These matrix targeting signals generally contain 10-80 amino acid residues that take on the conformation of an amphipathic-\u03b1 helix and contain one positive and hydrophobic face. Once the precursor reaches the matrix, the presequence is typically cleaved off by the matrix processing peptidase. Proteins targeted to other sub-compartments of the mitochondria such as the intermembrane space and inner mitochondrial membrane, contain internal targeting signals, these signals have an indefinable nature and are inconsistent in their pattern. Proteins targeted to the outer membrane also contain internal targeting signals, not all of which have been identified, and include proteins that take on a \u03b2-barrel structure, such as Tom40. Some proteins however, that are targeted to the outer mitochondrial membrane contain a hydrophobic tail domain that anchors the protein to the membrane.",
+            "score": 99.18022692203522
+        },
+        {
+            "docid": "1131060_14",
+            "document": "Bioinorganic chemistry . The abundant inorganic elements act as ionic electrolytes. The most important ions are sodium, potassium, calcium, magnesium, chloride, phosphate, and bicarbonate. The maintenance of precise gradients across cell membranes maintains osmotic pressure and pH. Ions are also critical for nerves and muscles, as action potentials in these tissues are produced by the exchange of electrolytes between the extracellular fluid and the cytosol. Electrolytes enter and leave cells through proteins in the cell membrane called ion channels. For example, muscle contraction depends upon the movement of calcium, sodium and potassium through ion channels in the cell membrane and T-tubules.",
+            "score": 206.29585456848145
+        },
+        {
+            "docid": "56106124_8",
+            "document": "Cell isolation . Isolated cells can be used to study how cells work, how they change in response to disease, and how they are affected by drugs.\u00a0 An example of an experimental technique which uses isolated cells is patch clamp electrophysiology, used to study how charged particles flow across the cell membrane.\u00a0 Complementary techniques include calcium fluorescence imaging using dyes that emit light in response to calcium to measure how calcium is regulated within the cell, and immunocytochemistry which uses antibodies tagged with a fluorescent marker to identify where proteins are located within a cell. Isolated cells can also be used for cell culture, in which a single cell multiplies to create a colony of cells.",
+            "score": 142.3119933605194
+        },
+        {
+            "docid": "20374_15",
+            "document": "Metabolism . The abundant inorganic elements act as ionic electrolytes. The most important ions are sodium, potassium, calcium, magnesium, chloride, phosphate and the organic ion bicarbonate. The maintenance of precise ion gradients across cell membranes maintains osmotic pressure and pH. Ions are also critical for nerve and muscle function, as action potentials in these tissues are produced by the exchange of electrolytes between the extracellular fluid and the cell's fluid, the cytosol. Electrolytes enter and leave cells through proteins in the cell membrane called ion channels. For example, muscle contraction depends upon the movement of calcium, sodium and potassium through ion channels in the cell membrane and T-tubules.",
+            "score": 213.4195203781128
+        }
+    ],
+    "r": [
+        {
+            "docid": "49534415_2",
+            "document": "Mitochondrial calcium uniporter . The mitochondrial calcium uniporter (MCU) is a transmembrane protein that allows the passage of calcium ions from a cell's cytosol into mitochondria. Its activity is regulated by MICU1 and MICU2, which together with the MCU make up the mitochondrial calcium uniporter complex.",
+            "score": 308.5351257324219
+        },
+        {
+            "docid": "378744_8",
+            "document": "Calcium in biology . The effects of calcium on human cells are specific, meaning that different types of cells respond in different ways. However, in certain circumstances, its action may be more general. Ca ions are one of the most widespread second messengers used in signal transduction. They make their entrance into the cytoplasm either from outside the cell through the cell membrane via calcium channels (such as calcium-binding proteins or voltage-gated calcium channels), or from some internal calcium storages such as the endoplasmic reticulum and mitochondria. Levels of intracellular calcium are regulated by transport proteins that remove it from the cell. For example, the sodium-calcium exchanger uses energy from the electrochemical gradient of sodium by coupling the influx of sodium into cell (and down its concentration gradient) with the transport of calcium out of the cell. In addition, the plasma membrane Ca ATPase (PMCA) obtains energy to pump calcium out of the cell by hydrolysing adenosine triphosphate (ATP). In neurons, voltage-dependent, calcium-selective ion channels are important for synaptic transmission through the release of neurotransmitters into the synaptic cleft by vesicle fusion of synaptic vesicles.",
+            "score": 271.8642578125
+        },
+        {
+            "docid": "2965167_6",
+            "document": "NINDS brain trauma research . One area of research that shows promise is the study of the role of calcium ion influx into the damaged neuron as a cause of cell death and general brain tissue swelling. Calcium enters nerve cells through damaged channels in the axon's membrane. The excess calcium inside the cell causes the axon to swell and also activates chemicals, called proteases, that break down proteins. One family of proteases, the calpains, are especially damaging to nerve cells because they break down proteins that maintain the structure of the axon. Excess calcium within the cell is also destructive to the cell's mitochondria, structures that produce the cell's energy. Mitochondria soak up excess calcium until they swell and stop functioning. If enough mitochondria are damaged, the nerve cell degenerates. Calcium influx has other damaging effects: it activates destructive enzymes, such as caspases that damage the DNA in the cell and trigger programmed cell death, and it damages sodium channels in the cell membrane, allowing sodium ions to flood the cell as well. Sodium influx exacerbates swelling of the cell body and axon.",
+            "score": 253.22247314453125
+        },
+        {
+            "docid": "15303_2",
+            "document": "Ion channel . Ion channels are pore-forming membrane proteins that allow ions to pass through the channel pore. Their functions include establishing a resting membrane potential, shaping action potentials and other electrical signals by gating the flow of ions across the cell membrane, controlling the flow of ions across secretory and epithelial cells, and regulating cell volume. Ion channels are present in the membranes of all excitable cells. Ion channels are one of the two classes of ionophoric proteins, along with ion transporters (including the sodium-potassium pump, sodium-calcium exchanger, and sodium-glucose transport proteins).",
+            "score": 250.9746551513672
+        },
+        {
+            "docid": "423439_2",
+            "document": "Sarcoplasmic reticulum . The sarcoplasmic reticulum (SR) is a membrane-bound structure found within muscle cells that is similar to the endoplasmic reticulum in other cells. The main function of the SR is to store calcium ions (Ca). Calcium ion levels are kept relatively constant, with the concentration of calcium ions within a cell being 100,000 times smaller than the concentration of calcium ions outside the cell. This means that small increases in calcium ions within the cell are easily detected and can bring about important cellular changes (the calcium is said to be a second messenger; see calcium in biology for more details). Calcium is used to make calcium carbonate (found in chalk) and calcium phosphate, two compounds that the body uses to make teeth and bones. This means that too much calcium within the cells can lead to hardening (calcification) of certain intracellular structures, including the mitochondria, leading to cell death. Therefore, it is vital that calcium ion levels are controlled tightly, and can be released into the cell when necessary and then removed from the cell.",
+            "score": 250.9373321533203
+        },
+        {
+            "docid": "39361413_11",
+            "document": "Ccdc109b . CCDC109B has a single paralog in the human genome. This paralog is CCDC109A, which is more commonly known as Mitochondrial Calcium Uniporter (MCU) MCU is located in the inner membrane of the mitochondrion and is found as an oligomer that transports calcium ions into the mitochondria. MCU is an essential component of the mitochondrial membrane and sliencing MCU abolishes calcium uptake. The DIME motif, which is also conserved in CCDC109B, is responsible for calcium uptake and a mutation in this region inhibits this function. CCDC109B and MCU share a 43% identity in which the DIME motif is fully conserved.",
+            "score": 246.48025512695312
+        },
+        {
+            "docid": "49534415_4",
+            "document": "Mitochondrial calcium uniporter . The MCU has a very low affinity for calcium, so the cytosolic calcium concentration needs to be approximately 5-10 uM for significant transport of calcium into the mitochondria. Mitochondria are closely associated with the endoplasmic reticulum (ER), at contact sites, which contains stores of cellular calcium ions for calcium signaling. The presence of 1,4,5-triphosphate (IP) triggers the release of calcium from these intracellular stores, which creates microdomains of high calcium concentration between the ER and the mitochondria, creating the conditions for the MCU to take up calcium.",
+            "score": 245.20277404785156
+        },
+        {
+            "docid": "42057779_5",
+            "document": "Exertional rhabdomyolysis . Exertional rhabdomyolysis results from damage to the intercellular proteins inside the sarcolemma. Myosin and actin break down in the sarcomeres when ATP is no longer available due to injury to the sarcoplasmic reticulum. Damage to the sarcolemma and sarcoplasmic reticulum from direct trauma or high force production causes a high influx of calcium into the muscle fibers increasing calcium permeability. Calcium ions build up in the mitochondria, impairing cellular respiration. The mitochondria are unable to produce enough ATP to power the cell properly. Reduction in ATP production impairs the cells ability to extract calcium from the muscle cell. The ion imbalance causes calcium-dependent enzymes to activate which break down muscle proteins even further. A high concentration of calcium activates muscle cells, causing the muscle to contract while inhibiting its ability to relax. The increase of sustained muscle contraction leads to oxygen and ATP depletion with prolonged exposure to calcium. The muscle cell membrane pump may become damaged allowing free form myoglobin to leak into the bloodstream.",
+            "score": 241.11648559570312
+        },
+        {
+            "docid": "37018543_2",
+            "document": "Calcium buffering . Calcium buffering describes the processes which help stabilise the concentration of free calcium ions within cells, in a similar manner to how pH buffers maintain a stable concentration of hydrogen ions. The majority of calcium ions within the cell are bound to intracellular proteins, leaving a minority freely dissociated. When calcium is added to or removed from the cytoplasm by transport across the cell membrane or sarcoplasmic reticulum, calcium buffers minimise the effect on changes in cytoplasmic free calcium concentration by binding calcium to or releasing calcium from intracellular proteins. As a result, 99% of the calcium added to the cytosol of a cardiomyocyte during each cardiac cycle becomes bound to calcium buffers, creating a relatively small change in free calcium.",
+            "score": 239.3665008544922
+        },
+        {
+            "docid": "14727602_4",
+            "document": "Calcium concentration microdomains . The actions of the Na-K-ATPase enzyme relate with the creation of calcium-signaling microdomains. Na-K-ATPase is a protein that pumps Na and K across the cell membrane. Na-K-ATPase helps to keep the body at equilibrium by the movement of those ions through the plasma membrane. This ion pump helps to reset the movement of ions during an action potential by sending K into the cell and sending Na out of the cell. Since it opposes the normal flow of ions during an action potential, energy in the form of ATP (adenosine triphosphate) is used. Calcium is also regulated using this Na-K-ATPase due to the enzyme's interactions with protein and non-protein molecules. The main interaction that keeps calcium regulated is the binding of Na-K-ATPase to inositol 1,4,5-trisphosphate (IP3). IP3 is a secondary messenger that helps to send neuronal signals through the body. The neuronal cells have the calcium-signaling microdomains in the cytoplasm right next to the pre- and post-synaptic calcium channels in the nerve cells. Figure 1 is an example of how Na-K-ATPase forms the calcium-signaling microdomain.",
+            "score": 238.22769165039062
+        },
+        {
+            "docid": "43294945_5",
+            "document": "GnRH Neuron . Scientists have discovered how guidance molecules cause GnRH neurons to speed up or slow down. Normally, any calcium ions in the cell are rapidly pulled into organelles like the mitochondria or endoplasmic reticulum. Guidance molecules cause the release of these calcium ions back into the cell cytoplasm, where calcium sensing proteins re-organize the cell\u2019s actin and microtubule cytoskeleton, which are the molecular filaments that give a cell its shape. This causes contractions in the cell (similar to muscle contractions) that link to adhesive proteins on the cell surface, pulling the cell forward.",
+            "score": 236.10252380371094
+        },
+        {
+            "docid": "15898987_3",
+            "document": "CACNA1H . This gene encodes Ca3.2, a T-type member of the \u03b1 subunit family, a protein in the voltage-dependent calcium channel complex. Calcium channels mediate the influx of calcium ions into the cell upon membrane polarization and consist of a complex of \u03b1, \u03b1\u03b4, \u03b2, and \u03b3 subunits in a 1:1:1:1 ratio. The \u03b1 subunit has 24 transmembrane segments and forms the pore through which ions pass into the cell. There are multiple isoforms of each of the proteins in the complex, either encoded by different genes or the result of alternative splicing of transcripts. Alternate transcriptional splice variants, encoding different isoforms, have been characterized for the gene described here.",
+            "score": 233.884521484375
+        },
+        {
+            "docid": "2302081_12",
+            "document": "T-tubule . As well as T-tubules being a site for calcium entry into the cell, they are also a site for calcium removal. This is important as it means that calcium levels within the cell can be tightly controlled in a small area (i.e. between the T-tubule and sarcoplasmic reticulum, known as local control). Proteins such as the sodium-calcium exchanger, and the sarcolemmal ATPase are located mainly in the T-tubule membrane. The sodium-calcium exchanger passively removes one calcium ion from the cell in exchange for three sodium ions. As a passive process it can therefore allow calcium to flow into or out of the cell depending on the combination of the relative concentrations of these ions and the voltage across the cell membrane (the electrochemical gradient). The calcium ATPase removes calcium from the cell actively, using energy derived from adenosine triphosphate (ATP).",
+            "score": 233.76742553710938
+        },
+        {
+            "docid": "49534415_3",
+            "document": "Mitochondrial calcium uniporter . The MCU is one of the primary sources of mitochondria uptake of calcium, and flow is dependent on membrane potential of the inner mitochondrial membrane and the concentration of calcium in the cytosol relative to the concentration in the mitochondria. Balancing calcium concentration is necessary to increase the cell's energy supply and regulate cell death. Calcium is balanced through the MCU in conjunction with the sodium-calcium exchanger.",
+            "score": 231.38247680664062
+        },
+        {
+            "docid": "479385_16",
+            "document": "Extracellular fluid . Calcium ions have a great propensity to bind to proteins. This changes the distribution of electrical charges on the protein, with the consequence that the 3D (or tertiary) structure of the protein is altered. The normal shape, and therefore function of very many of the extracellular proteins, as well as the extracellular portions of the cell membrane proteins is dependent on a very precise ionized calcium concentration in the ECF. The proteins that are particularly sensitive to changes in the ECF ionized calcium concentration are several of the clotting factors in the blood plasma, which are functionless in the absence of calcium ions, but become fully functional on the addition of the correct concentration of calcium salts. The voltage gated sodium ion channels in the cell membranes of nerves and muscle have an even greater sensitivity to changes in the ECF ionized calcium concentration. Relatively small decreases in the plasma ionized calcium levels (hypocalcemia) cause these channels to leak sodium into the nerve cells or axons, making them hyper-excitable, thus causing spontaneous muscle spasms (tetany) and paraesthesia (the sensation of \"pins and needles\") of the extremities and round the mouth. When the plasma ionized calcium rises above normal (hypercalcemia) more calcium is bound to these sodium channels having the opposite effect, causing lethargy, muscle weakness, anorexia, constipation and labile emotions.",
+            "score": 230.64593505859375
+        },
+        {
+            "docid": "52832272_4",
+            "document": "Mitochondria associated membranes . Mitochondria associated membranes are involved in the transport of calcium from the ER to mitochondria. This interaction is important for rapid uptake of calcium by mitochondria through Voltage dependent anion channels (VDACs), which are located at the outer mitochondrial membrane (OMM). This transport is regulated with chaperones and regulatory proteins which control the formation of the ER\u2013mitochondria junction. Transfer of calcium from ER to mitochondria depends on high concentration of calcium macrodomes in the intermembrane space, and mitochondrial calcium uniporter (MCU) accumulates of calcium into the mitochondrial matrix for electrochemical gradient.",
+            "score": 229.8486785888672
+        },
+        {
+            "docid": "12647848_26",
+            "document": "Calyx of Held . Calcium influx for the immature calyx of Held is mediated by N-, P/Q-, and R-type calcium channels; however upon maturation only P/Q-type calcium channels become dominant. Upon calcium influx, the immature calyx of Held is highly reactive due to its small calcium buffer ability \u2013 this causes the release of glutamate even at low levels of calcium influx. Within the terminal, as with other synapses, two calcium ions bind to synaptotagmin in order to trigger vesicle release \u2013 for the calyces of Held, glutamate is released in the vesicles. In addition to vesicle release, calcium ions signal for the calyx terminal to return to the inactive state. Upon calcium influx, a cAMP-response element binding protein (CREB) is phosphorylated, altering the potassium concentrations within the cell to return the terminal to an inactive state. Removal of the calcium is done through various methods including: being removed from the terminal, being taken up into mitochondria, or binding to calcium-binding proteins such as parvalbumin and calretinin.",
+            "score": 227.8241424560547
+        },
+        {
+            "docid": "7012714_4",
+            "document": "Cav1.2 . The alpha-1 subunit consists of 24 transmembrane segments and forms the pore through which ions pass into the cell. The calcium channel consists of a complex of alpha-1, alpha-2/delta and beta subunits in a 1:1:1 ratio. The S3-S4 linkers of Cav1.2 determine the gating phenotype and modulated gating kinetics of the channel. Cav1.2 is widely expressed in the smooth muscle, pancreatic cells, fibroblasts, and neurons. However, it is particularly important and well known for its expression in the heart where it mediates L-type currents, which causes calcium-induced calcium release from the ER Stores via ryanodine receptors. It depolarizes at -30mV and helps define the shape of the action potential in cardiac and smooth muscle. The protein encoded by this gene binds to and is inhibited by dihydropyridine. In the arteries of the brain, high levels of calcium in mitochondria elevates activity of nuclear factor kappa B NF-\u03baB and transcription of CACNA1c and functional Cav1.2 expression increases. Cav1.2 also regulates levels of osteoprotegerin.",
+            "score": 227.4366912841797
+        },
+        {
+            "docid": "56549_6",
+            "document": "Beta cell . The ATP-sensitive potassium ion channels close when this ratio rises. This means that potassium ions can no longer diffuse out of the cell. As a result, the potential difference across the membrane becomes more positive (as potassium ions accumulate inside the cell). This change in potential difference opens the voltage-gated calcium channels, which allows calcium ions from outside the cell to diffuse in down their concentration gradient. When the calcium ions enter the cell, they cause vesicles containing insulin to move to, and fuse with, the cell surface membrane, releasing insulin by exocytosis.",
+            "score": 227.4013671875
+        },
+        {
+            "docid": "1437371_15",
+            "document": "Fatty acid metabolism . Inositol trisphosphate (IP) functions as an intracellular second messenger, which initiates the intracellular release of calcium ions (which activates intracellular enzymes, causes the release of hormones and neurotransmitters from the cells in which they are stored, and causes smooth muscle contraction when released by IP), and the activation of protein kinase C (PKC), which is then translocated from the cell cytoplasm to the cell membrane. Although inositol trisphosphate, (IP), diffuses into the cytosol, diacylglycerol (DAG) remains within the plasma membrane, due to its hydrophobic properties. IP stimulates the release of calcium ions from the smooth endoplasmic reticulum, whereas DAG is a physiological activator of protein kinase C (PKC), promoting its translocation from the cytosol to the plasma membrane. PKC is a multifunctional protein kinase which phosphorylates serine and threonine residues in many target proteins. However PKC is only active in the presence of calcium ions, and it is DAG that increases the affinity of PKC for Ca and thereby renders it active at the physiological intracellular levels of this ion.",
+            "score": 225.86953735351562
+        },
+        {
+            "docid": "8858088_10",
+            "document": "Emodepside . In addition to exerting an effect on the nematode via binding to Latrophilin receptors, there is also recent evidence that indicates that emodepside also interacts with the BK potassium channel coded by the gene Slo-1. This protein (see figure for structure) is a member of the 6 transmembrane helix structural class of potassium ion channels with each subunit consisting of 6 transmembrane helices and 1 P domain (this P domain is conserved in all potassium ion channels and forms the selectivity filter that enables the channel to transport potassium ions across the membrane in great preference to other ions). These subunits group together to form high conductance BK-type channels that are gated by both membrane potential and intracellular calcium levels (this calcium ion sensing ability is accommodated by an intracellular tail region on Slo-like subunits that form a calcium ion binding motif consisting of a run of conserved aspartate residues, termed a \u201ccalcium bowl\u201d), with their physiological role being to regulate the excitability of neurons and muscle fibres, through the way in which they participate in action potential repolariziation (with potassium ion efflux being used to repolarize the cell following depolarization).",
+            "score": 225.18418884277344
+        },
+        {
+            "docid": "1610581_2",
+            "document": "Voltage-gated calcium channel . Voltage-gated calcium channels (VGCCs), also known as voltage-dependent calcium channels (VDCCs), are a group of voltage-gated ion channels found in the membrane of excitable cells (\"e.g.\", muscle, glial cells, neurons, etc.) with a permeability to the calcium ion Ca. These channels are slightly permeable to sodium ions, so they are also called Ca-Na channels, but their permeability to calcium is about 1000-fold greater than to sodium under normal physiological conditions. At physiologic or resting membrane potential, VGCCs are normally closed. They are activated (\"i.e.\", opened) at depolarized membrane potentials and this is the source of the \"voltage-gated\" epithet. The concentration of calcium (Ca ions) is normally several thousand times higher outside the cell than inside. Activation of particular VGCCs allows Ca to rush into the cell, which, depending on the cell type, results in activation of calcium-sensitive potassium channels, muscular contraction, excitation of neurons, up-regulation of gene expression, or release of hormones or neurotransmitters. VGCCs have been immunolocalized in the zona glomerulosa of normal and hyperplastic human adrenal, as well as in aldosterone-producing adenomas (APA), and in the latter T-type VGCCs correlated with plasma aldosterone levels of patients. Excessive activation of VGCCs is a major component of excitotoxicity, as severely elevated levels of intracellular calcium activates enzymes which, at high enough levels, can degrade essential cellular structures.",
+            "score": 223.8600311279297
+        },
+        {
+            "docid": "15073622_6",
+            "document": "RHOT1 . The motor/adaptor complex is regulated by calcium ion levels. At high concentrations, calcium ions arrest mitochondrial transport by binding Miro, causing the complex to detach from the organelle. Considering that physiological factors such as activation of glutamate receptors in dendrites, action potentials in axons, and neuromodulators may elevate calcium ion levels, this regulatory mechanism likely serves to keep mitochondria in such areas to provide calcium ion buffering and active export and, thus, maintain homeostasis.",
+            "score": 223.41822814941406
+        },
+        {
+            "docid": "15227040_6",
+            "document": "RHOT2 . The motor/adaptor complex is regulated by calcium ion levels. At high concentrations, calcium ions arrest mitochondrial transport by binding Miro, causing the complex to detach from the organelle. Considering that physiological factors such as activation of glutamate receptors in dendrites, action potentials in axons, and neuromodulators may elevate calcium ion levels, this regulatory mechanism likely serves to keep mitochondria in such areas to provide calcium ion buffering and active export and, thus, maintain homeostasis.",
+            "score": 223.41822814941406
+        },
+        {
+            "docid": "152389_10",
+            "document": "Ciclosporin . Ciclosporin also binds to the cyclophilin D protein that constitutes part of the mitochondrial permeability transition pore (MPTP). The MPTP is found in the mitochondrial membrane of cardiac muscle cells and moves calcium ions () into the mitochondria. When open, enters the mitochondria and causes the muscle cells (and thus the heart) to contract. If unregulated, the influx of can contribute to mitochondrial swelling and dysfunction.",
+            "score": 222.21090698242188
+        },
+        {
+            "docid": "419952_4",
+            "document": "Calcium metabolism . Calcium has several main functions in the body. It readily binds to proteins, particularly those with amino acids whose side chains terminate in carboxyl (-COOH) groups (e.g. glutamate residues). When such binding occurs the electrical charges on the protein chain change, causing the protein's tertiary structure (i.e. 3-dimensional form) to change. Good examples of this are several of the clotting factors in the blood plasma, which are functionless in the absence of calcium ions, but become fully functional on the addition of the correct concentration of calcium salts. The voltage gated sodium ion channels in the cell membranes of nerves and muscle are particularly sensitive to the calcium ion concentration in the plasma. Relatively small decreases in the plasma ionized calcium levels (hypocalcemia) cause these channels to leak sodium into the nerve cells or axons, making them hyper-excitable (positive bathmotropic effect), thus causing spontaneous muscle spasms (tetany) and paraesthesia (the sensation of \"pins and needles\") of the extremities and round the mouth. When the plasma ionized calcium rises above normal (hypercalcemia) more calcium is bound to these sodium channels having a negative bathmotropic effect on them, causing lethargy, muscle weakness, anorexia, constipation and labile emotions.",
+            "score": 221.178955078125
+        },
+        {
+            "docid": "7188750_2",
+            "document": "Sodium-calcium exchanger . The sodium-calcium exchanger (often denoted Na/Ca exchanger, NCX, or exchange protein) is an antiporter membrane protein that removes calcium from cells. It uses the energy that is stored in the electrochemical gradient of sodium (Na) by allowing Na to flow down its gradient across the plasma membrane in exchange for the countertransport of calcium ions (Ca). A single calcium ion is exported for the import of three sodium ions. The exchanger exists in many different cell types and animal species. The NCX is considered one of the most important cellular mechanisms for removing Ca.",
+            "score": 220.50828552246094
+        },
+        {
+            "docid": "20839616_5",
+            "document": "Axon terminal . The neurotransmitter molecule packages (vesicles) are created within the neuron, then travel down the axon to the distal axon terminal where they sit \"docked\". Calcium ions then trigger a biochemical cascade which results in vesicles fusing with the presynaptic membrane and releasing their contents to the synaptic cleft within 180\u00a0\u00b5s of calcium entry. Triggered by the binding of the calcium ions, the synaptic vesicle proteins begin to move apart, resulting in the creation of a fusion pore. The presence of the pore allows for the release of neurotransmitter into the synaptic cleft. The process occurring at the axon terminal is exocytosis, which a cell uses to exude secretory vesicles out of the cell membrane. These membrane-bound vesicles contain soluble proteins to be secreted to the extracellular environment, as well as membrane proteins and lipids that are sent to become components of the cell membrane. Exocytosis in neuronal chemical synapses is Ca triggered and serves interneuronal signalling.",
+            "score": 220.47930908203125
+        },
+        {
+            "docid": "14988574_10",
+            "document": "VDAC1 . VDAC1's function in calcium ion transport has also been linked to neurodegenerative diseases. In PD, VDAC1 increases calcium ion levels within the mitochondria, resulting in increased mitochondrial permeability, disrupted mitochondrial membrane potential, elevated ROS production, cell death, and neuronal degeneration. VDAC1 has been shown to interact with Amyloid \u03b2 (A\u03b2) leading to increased conductance of the channel and eventually apoptosis of the cell.",
+            "score": 220.02769470214844
+        },
+        {
+            "docid": "5668_27",
+            "document": "Calcium . Calcium is an essential element needed in large quantities. The Ca ion acts as an electrolyte and is vital to the health of the muscular, circulatory, and digestive systems; is indispensable to the building of bone; and supports synthesis and function of blood cells. For example, it regulates the contraction of muscles, nerve conduction, and the clotting of blood. As a result, intra- and extracellular calcium levels are tightly regulated by the body. Calcium can play this role because the Ca ion forms stable coordination complexes with many organic compounds, especially proteins; it also forms compounds with a wide range of solubilities, enabling the formation of skeletons.",
+            "score": 219.806884765625
+        },
+        {
+            "docid": "378744_3",
+            "document": "Calcium in biology . Calcium levels in mammals are tightly regulated, with bone acting as the major mineral storage site. Calcium ions, Ca, are released from bone into the bloodstream under controlled conditions. Calcium is transported through the bloodstream as dissolved ions or bound to proteins such as serum albumin. Parathyroid hormone secreted by the parathyroid gland regulates the resorption of Ca from bone, reabsorption in the kidney back into circulation, and increases in the activation of vitamin D to calcitriol. Calcitriol, the active form of vitamin D, promotes absorption of calcium from the intestines and the mobilization of calcium ions from bone matrix. Calcitonin secreted from the parafollicular cells of the thyroid gland also affects calcium levels by opposing parathyroid hormone; however, its physiological significance in humans is dubious.",
+            "score": 219.75482177734375
+        },
+        {
+            "docid": "14819060_3",
+            "document": "Cav1.3 . Voltage-dependent calcium channels (VDCC) are selectively permeable to calcium ions, mediating the movement of these ions in and out of excitable cells. At resting potential, these channels are closed, but when the membrane potential is depolarised these channels open. The influx of calcium ions into the cell can initiate a myriad of calcium-dependent processes including muscle contraction, gene expression, and secretion. Calcium-dependent processes can be halted by lowering intracellular calcium levels, which, for example, can be accomplished by calcium pumps.",
+            "score": 219.74057006835938
+        }
+    ]
+}

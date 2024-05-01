@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "339961_13",
+            "document": "Pseudomonas . \"Pseudomonas aeruginosa\" is increasingly recognized as an emerging opportunistic pathogen of clinical relevance. One of its most worrying characteristics is its low antibiotic susceptibility. This low susceptibility is attributable to a concerted action of multidrug efflux pumps with chromosomally encoded antibiotic resistance genes (e.g., \"mexAB-oprM\", \"mexXY\", etc.,) and the low permeability of the bacterial cellular envelopes. Besides intrinsic resistance, \"P. aeruginosa\" easily develops acquired resistance either by mutation in chromosomally encoded genes or by the horizontal gene transfer of antibiotic resistance determinants. Development of multidrug resistance by \"P. aeruginosa\" isolates requires several different genetic events that include acquisition of different mutations and/or horizontal transfer of antibiotic resistance genes. Hypermutation favours the selection of mutation-driven antibiotic resistance in \"P. aeruginosa\" strains producing chronic infections, whereas the clustering of several different antibiotic resistance genes in integrons favours the concerted acquisition of antibiotic resistance determinants. Some recent studies have shown phenotypic resistance associated to biofilm formation or to the emergence of small-colony-variants, which may be important in the response of \"P. aeruginosa\" populations to antibiotic treatment.",
+            "score": 106.15396022796631
+        },
+        {
+            "docid": "2459654_30",
+            "document": "Pseudomonas aeruginosa . One of the most worrisome characteristics of \"P. aeruginosa\" is its low antibiotic susceptibility, which is attributable to a concerted action of multidrug efflux pumps with chromosomally encoded antibiotic resistance genes (e.g., \"mexAB\", \"mexXY\", etc.) and the low permeability of the bacterial cellular envelopes. In addition to this intrinsic resistance, \"P. aeruginosa\" easily develops acquired resistance either by mutation in chromosomally encoded genes or by the horizontal gene transfer of antibiotic resistance determinants. Development of multidrug resistance by \"P. aeruginosa\" isolates requires several different genetic events, including acquisition of different mutations and/or horizontal transfer of antibiotic resistance genes. Hypermutation favours the selection of mutation-driven antibiotic resistance in \"P. aeruginosa\" strains producing chronic infections, whereas the clustering of several different antibiotic resistance genes in integrons favors the concerted acquisition of antibiotic resistance determinants. Some recent studies have shown phenotypic resistance associated to biofilm formation or to the emergence of small-colony variants may be important in the response of \"P. aeruginosa\" populations to antibiotics treatment.",
+            "score": 99.12922954559326
+        },
+        {
+            "docid": "2459654_18",
+            "document": "Pseudomonas aeruginosa . Biofilms of \"P. aeruginosa\" can cause chronic opportunistic infections, which are a serious problem for medical care in industrialized societies, especially for immunocompromised patients and the elderly. They often cannot be treated effectively with traditional antibiotic therapy. Biofilms seem to protect these bacteria from adverse environmental factors. \"P. aeruginosa\" can cause nosocomial infections and is considered a model organism for the study of antibiotic-resistant bacteria. Researchers consider it important to learn more about the molecular mechanisms that cause the switch from planktonic growth to a biofilm phenotype and about the role of QS in treatment-resistant bacteria such as \"P. aeruginosa\". This should contribute to better clinical management of chronically infected patients, and should lead to the development of new drugs.",
+            "score": 129.66522359848022
+        },
+        {
+            "docid": "2459654_22",
+            "document": "Pseudomonas aeruginosa . Recently, scientists have been examining the possible genetic basis for \"P. aeruginosa\" resistance to antibiotics such as tobramycin. One locus identified as being an important genetic determinant of the resistance in this species is \"ndvB\", which encodes periplasmic glucans that may interact with antibiotics and cause them to become sequestered into the periplasm. These results suggest a genetic basis exists behind bacterial antibiotic resistance, rather than the biofilm simply acting as a diffusion barrier to the antibiotic.",
+            "score": 102.14023232460022
+        },
+        {
+            "docid": "55868631_10",
+            "document": "List of antibiotic resistant bacteria . \"Pseudomonas aeruginosa\" is a highly prevalent opportunistic pathogen. One of the most worrisome characteristics of \"P. aeruginosa\" is its low antibiotic susceptibility, which is attributable to a concerted action of multidrug efflux pumps with chromosomally encoded antibiotic resistance genes (e.g., \"mexAB-oprM\", \"mexXY\") and the low permeability of the bacterial cellular envelopes. \"Pseudomonas aeruginosa\" has the ability to produce 4-hydroxy-2-alkylquinolines (HAQs) and it has been found that HAQs have prooxidant effects, and overexpressing modestly increased susceptibility to antibiotics. The study experimented with the \"Pseudomonas aeruginosa\" biofilms and found that a disruption of relA and spoT genes produced an inactivation of the Stringent response (SR) in cells with nutrient limitation, which provides cells be more susceptible to antibiotics.",
+            "score": 101.55265855789185
+        },
+        {
+            "docid": "21115942_6",
+            "document": "Multidrug tolerance . Unlike resistance, multidrug tolerance is a transient, non-heritable phenotype. Multidrug tolerant persister cells are not antibiotic resistant mutants. Resistance is caused by newly acquired genetic traits (by mutation or horizontal gene transfer) that are heritable and confer the ability to grow at elevated concentrations of antimicrobial drugs. In contrast, tolerant bacteria have the same MIC (Minimum Inhibitory Concentration) as susceptible bacteria and differ in the duration of the treatment that they can survive. Multidrug tolerance can be caused by a reversible physiological state in a small subpopulation of genetically identical cells, similar to a differentiated cell type. It enables this small subpopulation of microbes to survive the antibiotic killing of their surrounding siblings. Persisting cells resume growth when the antimicrobial agent is removed, and their progeny is sensitive to antimicrobial agents.",
+            "score": 106.82083535194397
+        },
+        {
+            "docid": "1914_11",
+            "document": "Antimicrobial resistance . Lower antibiotic concentration contributes to the increase of AMR by introducing more mutations that support bacterial growth in higher antibiotic concentration. For example, sub-inhibitory concentration have induced genetic mutation in bacteria such as \"Pseudomonas aeruginosa\" and \"Bacteroides fragilis\".",
+            "score": 85.59090089797974
+        },
+        {
+            "docid": "42911578_9",
+            "document": "Acyldepsipeptide antibiotics . When bacteria are exposed to antibiotics they can become resistant or tolerant to the antibiotic. ADEPs have a great potential for clinical application due to their high antibacterial activity against Gram-positive pathogens such as Staphylococcus aureus, and other pathogens that are found in biofilms and chronic infections. Their effectiveness increases when combined with different antibiotics such as ciprofloxacin, linezolid, vancomycin or rifampicin. Additional studies should focus more on the toxicity of ADEPs and their implementation for clinical use.",
+            "score": 78.71957683563232
+        },
+        {
+            "docid": "56700976_2",
+            "document": "SrbA sRNA . SrbA (sRNA regulator of biofilms A) is a small regulatory non-coding RNA identified in pathogenic \"Pseudomonas aeruginosa\"\".\" It is important for biofilm formation and pathogenicity. Bacterial strain with deleted SrbA had reduced biofilm mass. As the ability to form biofilms can contribute to the ability a pathogen to thrive within the host, the \"C. elegans\" hosts infected with the srbA deleted strain displayed significantly lower mortality rate than the wild-type strain. However, the deletion of srbA had no effect on growth or antibiotic resistance in \"P. aeruginosa\".",
+            "score": 87.51698660850525
+        },
+        {
+            "docid": "43946_16",
+            "document": "Biofilm . However, biofilms are not always less susceptible to antibiotics. For instance, the biofilm form of \"Pseudomonas aeruginosa\" has no greater resistance to antimicrobials than do stationary-phase planktonic cells, although when the biofilm is compared to logarithmic-phase planktonic cells, the biofilm does have greater resistance to antimicrobials. This resistance to antibiotics in both stationary-phase cells and biofilms may be due to the presence of persister cells.",
+            "score": 115.93947792053223
+        },
+        {
+            "docid": "7013607_13",
+            "document": "Glycoside hydrolase . Various glycoside hydrolases have shown efficacy in degrading matrix polysaccharides within the extracellular polymeric substance (EPS) of microbial biofilms. Medically, biofilms afford infectious microorganisms a variety of advantages over their planktonic, fre-floating counterparts, including greatly increased tolerances to antimicrobial agents and the host immune system. Thus, degrading the biofilm may increase antibiotic efficacy, and potentiate host immune function and healing ability. For example, a combination of alpha-amylase and cellulase was shown to degrade polymicrobial bacterial biofilms from both \"in vitro\" and \"in vivo\" sources, and increase antibiotic effectiveness against them.",
+            "score": 83.9656732082367
+        },
+        {
+            "docid": "28598_26",
+            "document": "Sinusitis . It has been hypothesized that biofilm bacterial infections may account for many cases of antibiotic-refractory chronic sinusitis. Biofilms are complex aggregates of extracellular matrix and inter-dependent microorganisms from multiple species, many of which may be difficult or impossible to isolate using standard clinical laboratory techniques. Bacteria found in biofilms have their antibiotic resistance increased up to 1000 times when compared to free-living bacteria of the same species. A recent study found that biofilms were present on the mucosa of 75% of people undergoing surgery for chronic sinusitis.",
+            "score": 77.33852624893188
+        },
+        {
+            "docid": "7617805_4",
+            "document": "Starvation response . Starvation contributes to tolerance during infection, as nutrients become limited when they are sequestered by host defenses and consumed by proliferating bacteria. One of the most important causes of starvation induced tolerance in vivo is biofilm growth, which occurs in many chronic infections. Starvation in biofilms is due to nutrient consumption by cells located on the periphery of biofilm clusters and by reduced diffusion of substrates through the biofilm. Biofilm bacteria shows extreme tolerance to almost all antibiotic classes, and supplying limiting substrates can restore sensitivity.",
+            "score": 88.60762095451355
+        },
+        {
+            "docid": "43946_4",
+            "document": "Biofilm . Microbes form a biofilm in response to various different factors, which may include cellular recognition of specific or non-specific attachment sites on a surface, nutritional cues, or in some cases, by exposure of planktonic cells to sub-inhibitory concentrations of antibiotics. When a cell switches to the biofilm mode of growth, it undergoes a phenotypic shift in behavior in which large suites of genes are differentially regulated.",
+            "score": 69.03870725631714
+        },
+        {
+            "docid": "161995_13",
+            "document": "Quorum sensing . The opportunistic pathogen \"Pseudomonas aeruginosa\" uses quorum sensing to coordinate the formation of biofilm, swarming motility, exopolysaccharide production, virulence, and cell aggregation. These bacteria can grow within a host without harming it, until they reach a threshold concentration. Then they become aggressive, developing to the point at which their numbers are sufficient to overcome the host's immune system, and form a biofilm, leading to disease within the host as the biofilm is a protective layer encasing the bacteria population. Another form of gene regulation that allows the bacteria to rapidly adapt to surrounding changes is through environmental signaling. Recent studies have discovered that anaerobiosis can significantly impact the major regulatory circuit of quorum sensing. This important link between quorum sensing and anaerobiosis has a significant impact on production of virulence factors of this organism. Garlic and ginseng experimentally block quorum sensing in \"Pseudomonas aeruginosa\". It is hoped that the therapeutic enzymatic degradation of the signaling molecules will prevent the formation of such biofilms and possibly weaken established biofilms. Disrupting the signalling process in this way is called \"quorum sensing inhibition\".",
+            "score": 70.75728225708008
+        },
+        {
+            "docid": "28253826_13",
+            "document": "Bacterial small RNA . Biofilm is a type of bacterial growth pattern where multiple layers of bacterial cells adhere to a host surface. This mode of growth is often found in pathogenic bacteria, including \"Pseudomonas aeruginosa\", which can form persistent biofilm within the respiratory tract and cause chronic infection. The \"P. aeruginosa\" sRNA SbrA was found to be necessary for full biofilm formation and pathogenicity. A mutant \"P. aeruginosa\" strain with SbrA deleted formed a 66% smaller biofilm and its ability to infect a nematode model was reduced by nearly half when compared to wildtype \"P. aeruginosa\".",
+            "score": 94.30950045585632
+        },
+        {
+            "docid": "23640750_8",
+            "document": "Antibiotic misuse . Though antibiotics are required to treat severe bacterial infections, misuse has contributed to a rise in bacterial resistance. The overuse of fluoroquinolone and other antibiotics fuels antibiotic resistance in bacteria, which can inhibit the treatment of antibiotic-resistant infections. Their excessive use in children with otitis media has given rise to a breed of bacteria resistant to antibiotics entirely. Additionally, the use of antimicrobial substances in building materials and personal care products has contributed to a higher percentage of antibiotic resistant bacteria in the indoor environment, where humans spend a large majority of their lives.",
+            "score": 72.80731463432312
+        },
+        {
+            "docid": "13520743_22",
+            "document": "Functional cloning . One of the ongoing challenges of treating bacterial infections is antibiotic resistance which commonly arises when patients do not take their full treatment of medication and hence allow bacteria to develop resistance to antibiotics over time. To understand how to combat antibiotic resistance it is important to understand how the bacterial genome is evolving and changing in healthy individuals with no recent usage of antibiotics to provide a baseline. Using a functional cloning-based technique, DNA isolated from human microflora were cloned into expression vectors in \"Escherichia coli\". Afterwards, antibiotics were applied as a screen. If a plasmid contained a gene insert that provided antibiotic resistance the cell survived and was selected on the plate. If the insert provided no resistance, the cell died and did not form a colony. Based on selection of cell colonies that survived, a better picture of genetic factors contributing to antibiotic resistance were pieced together. Most of the resistance genes that were identified were previously unknown. By using a functional cloning-based technique one is able to elucidate genes giving rise to antibiotic resistance to better understand treatment for bacterial infections.",
+            "score": 75.05467677116394
+        },
+        {
+            "docid": "21115942_2",
+            "document": "Multidrug tolerance . Multidrug tolerance or antibiotic tolerance is the ability of a disease-causing microorganism to resist being killed by antibiotics or other antimicrobials. It is mechanistically distinct from multidrug resistance: It is not caused by mutant microbes, but rather by microbial cells that exist in a transient, dormant, non-dividing state. Microorganisms that display multidrug tolerance can be bacteria, fungi or parasites.",
+            "score": 73.86936450004578
+        },
+        {
+            "docid": "30856926_3",
+            "document": "Chemical defense . Bacteria of the genera \"Chromobacterium\", \"Janthinobacterium\", and \"Pseudoalteromonas\" produce a toxic secondary metabolite, violacein, to deter protozoan predation. Violacein is released when bacteria are consumed, killing the protozoan. Another bacteria, \"Pseudomonas aeruginosa\", aggregates into quorum sensing biofilms which may aid the coordinated release of toxins to protect against predation by protozoans. Flagellates were allowed to grow and were present in a biofilm of \"P. aeruginosa\" grown for three days, but no flagellates were detected after seven days. This suggests that concentrated and coordinated release of extracellular toxins by biofilms has a greater effect than unicellular excretions. Bacterial growth is inhibited not only by bacterial toxins, but also by secondary metabolites produced by fungi as well. The most well-known of these, first discovered and published by Alexander Fleming in 1929, described the antibacterial properties of a \"mould juice\" isolated from \"Penicillium notatum\". He named the substance penicillin, and it became the world's first broad-spectrum antibiotic. Many fungi are either pathogenic saprophytic, or live within plants without harming them as endophytes, and many of these have been documented to produce chemicals with antagonistic effects against a variety of organisms, including fungi, bacteria, and protozoa. Studies of coprophilous fungi have found antifungal agents which reduce the fitness of competing fungi. In addition, sclerotia of \"Aspergillus flavus\" contained a number of previously unknown aflavinines which were much more effective at reducing predation by the fungivorous beetle, \"Carpophilus hemipterus\", than aflatoxins which \"A. flavus\" also produced and it has been hypothesized that ergot alkaloids, mycotoxins produced by \"Claviceps purpurea\", may have evolved to discourage herbivory of the host plant.",
+            "score": 61.39488482475281
+        },
+        {
+            "docid": "15374_25",
+            "document": "Food irradiation . It may seem reasonable to assume that irradiating food might lead to radiation-tolerant strains, similar to the way that strains of bacteria have developed resistance to antibiotics. Bacteria develop a resistance to antibiotics after an individual uses antibiotics repeatedly. Much like pasteurization plants, products that pass through irradiation plants are processed once, and are not processed and reprocessed. Cycles of heat treatment have been shown to produce heat-tolerant bacteria, yet no problems have appeared so far in pasteurization plants. Furthermore, when the irradiation dose is chosen to target a specific species of microbe, it is calibrated to doses several times the value required to target the species. This ensures that the process randomly destroys all members of a target species. Therefore, the more irradiation-tolerant members of the target species are not given any evolutionary advantage. Without evolutionary advantage, selection does not occur. As to the irradiation process directly producing mutations that lead to more virulent, radiation-resistant strains, the European Commission's Scientific Committee on Food found that there is no evidence; on the contrary, irradiation has been found to cause loss of virulence and infectivity, as mutants are usually less competitive and less adapted.",
+            "score": 55.3532452583313
+        },
+        {
+            "docid": "1914_50",
+            "document": "Antimicrobial resistance . Bacteria\u00a0can develop\u00a0antibiotic\u00a0resistance. Recent findings show no necessity of large populations of bacteria for the appearance of antibiotic resistance. Small populations of \"E. coli\" in an antibiotic gradient can become resistant. Any heterogeneous environment with respect to nutrient and antibiotic gradients may facilitate antibiotic resistance in small bacterial populations. Researchers hypothesize that the mechanism of resistance development is based on four SNP mutations in the genome of \"E. coli\" produced by the gradient of antibiotic.",
+            "score": 57.269360065460205
+        },
+        {
+            "docid": "2459654_27",
+            "document": "Pseudomonas aeruginosa . Many \"P. aeruginosa\" isolates are resistant to a large range of antibiotics and may demonstrate additional resistance after unsuccessful treatment. It should usually be possible to guide treatment according to laboratory sensitivities, rather than choosing an antibiotic empirically. If antibiotics are started empirically, then every effort should be made to obtain cultures (before administering first dose of antibiotic), and the choice of antibiotic used should be reviewed when the culture results are available. Due to widespread resistance to many common first-line antibiotics, carbapenems, polymyxins, and more recently tigecycline were considered to be the drugs of choice; however, resistance to these drugs has also been reported. Despite this, they are still being used in areas where resistance has not yet been reported. Use of \u03b2-lactamase inhibitors such as sulbactam has been advised in combination with antibiotics to enhance antimicrobial action even in the presence of a certain level of resistance. Combination therapy after rigorous antimicrobial susceptibility testing has been found to be the best course of action in the treatment of multidrug-resistant \"P. aeruginosa\". Some next-generation antibiotics that are reported as being active against \"P. aeruginosa\" include doripenem, ceftobiprole, and ceftaroline. However, these require more clinical trials for standardization. Therefore, research for the discovery of new antibiotics and drugs against P. \"aeruginosa\" is very much needed. Antibiotics that may have activity against \"P. aeruginosa\" include:",
+            "score": 78.84435319900513
+        },
+        {
+            "docid": "2459654_31",
+            "document": "Pseudomonas aeruginosa . Mechanisms underlying antibiotic resistance have been found to include production of antibiotic-degrading or antibiotic-inactivating enzymes, outer membrane proteins to evict the antibiotics and mutations to change antibiotic targets. Presence of antibiotic-degrading enzymes such as extended-spectrum \u03b2-lactamases like PER-1, PER-2, VEB-1, AmpC cephalosporinases, carbapenemases like serine oxacillinases, metallo-b-lactamases, OXA-type carbapenemases, aminoglycoside-modifying enzymes, among others have been reported. \"P. aeruginosa\" can also modify the targets of antibiotic action, for example methylation of 16S rRNA to prevent aminoglycoside binding and modification of DNA, or topoisomerase to protect it from the action of quinolones. \"P. aeruginosa\" has also been reported to possess multidrug efflux pumps like AdeABC and AdeDE efflux systems that confer resistance against number of antibiotic classes. An important factor found to be associated with antibiotic resistance is the decrease in the virulence capabilities of the resistant strain. Such findings have been reported in the case of rifampicin-resistant and colistin-resistant strains, in which decrease in infective ability, quorum sensing and motility have been documented.",
+            "score": 63.85677242279053
+        },
+        {
+            "docid": "43946_34",
+            "document": "Biofilm . Research has shown that sub-therapeutic levels of \u03b2-lactam antibiotics induce biofilm formation in \"Staphylococcus aureus\". This sub-therapeutic level of antibiotic may result from the use of antibiotics as growth promoters in agriculture, or during the normal course of antibiotic therapy. The biofilm formation induced by low-level methicillin was inhibited by DNase, suggesting that the sub-therapeutic levels of antibiotic also induce extracellular DNA release. Moreover, from an evolutionary point of view, the creation of the tragedy of the commons in pathogenic microbes may provide advanced therapeutic ways for chronic infections caused by biofilms via genetically engineered invasive cheaters who can invade wild-types \u2018cooperators\u2019 of pathogenic bacteria until cooperator populations go to extinction or overall population \u2018cooperators and cheaters \u2019 go to extinction.",
+            "score": 85.23207139968872
+        },
+        {
+            "docid": "57173512_6",
+            "document": "Robert E. W. Hancock . He became interested in studying antibiotic resistance mechanisms in \"Pseudomonas aeruginosa\" and this eventually morphed into his involvement in sequencing the genome of \"Pseudomonas\", only the 4th genome to be sequenced, identifying new mechanisms of antibiotic resistance especially dependent on lifestyle adaptations in \"Pseudomonas\", and then finding new therapeutics for treating antibiotic resistant pathogens . His research morphed into investigating small cationic peptides from nature, originally termed cationic antimicrobial peptides, but as his research progressed he became one of the first and most prominent advocates that the major function of these peptides was as modulators of the immune system. To understand the role of these peptides as modulators of the immune system he developed InnateDB and NetworkAnalyst as tools to enable systems/network biology studies and insights. His lab webpage covers these topics in greater detail.",
+            "score": 82.53262329101562
+        },
+        {
+            "docid": "49954704_4",
+            "document": "CidA/LrgA holin . The \"cidABC\" operon is activated by CidR in the presence of acetic acid. Both CidAB and LrgAB affect biofilm formation, oxidative stress, stationary phase survival and antibiotic tolerance in a reciprocal fashion, and their genes are regulated by the LytSR two component regulatory system. Microfluidic techniques have been used to follow gene expression temporally and spatially during biofilm formation, revealing that both \"cidA\" and \"lrgA\" are expressed mostly in the interior of tower structures in the biofilms, regulated by oxygen availability. Analogous proteins may be linked to competence in \"S. mutants.\"",
+            "score": 60.57345390319824
+        },
+        {
+            "docid": "21115942_3",
+            "document": "Multidrug tolerance . Recognition of antibiotic tolerance dates back to 1944 when Joseph Bigger, an Irish physician working in England, was experimenting with the recently discovered penicillin. Bigger used penicillin to lyse a suspension of bacteria and then inoculated culture medium with the penicillin-treated liquid. Colonies of bacteria were able to grow after antibiotic killing. The important observation that Bigger made was that this new population could be again be killed by penicillin except for a small residual population. Hence the residual organisms were not antibiotic resistant mutants but rather a subpopulation of what he called \u2018persisters\u2019. The formation of persisters is now known to be a common phenomenon that can occur by the formation of persister cells prior to the antibiotic treatment or in response to a variety of antibiotics.",
+            "score": 55.9485559463501
+        },
+        {
+            "docid": "21115942_5",
+            "document": "Multidrug tolerance . Bacterial multidrug or antibiotic tolerance poses medically important challenges. It is largely responsible for the inability to eradicate bacterial infections with antibiotic treatment. Persister cells are highly enriched in biofilms, and it has been suggested that this is the reason that makes biofilm-related diseases so hard to treat. Examples are chronic infections of implanted medical devices such as catheters and artificial joints, urinary tract infections, middle ear infections and fatal lung disease .",
+            "score": 80.84367609024048
+        },
+        {
+            "docid": "12356185_4",
+            "document": "Lysostaphin . \"Staphylococcal\" infections of both \"Staphylococcus aureus\" and \"Staphylococcus epidermidis\" continue to be a major issue in clinical settings, particularly those with implantable devices. \"Staphylococci\" cause a significant percentage of device infections, and like many other pathogens, rather than living as free planktonic cells within the host they have the ability to form a multilayered community of sessile bacteria cells known as a biofilm on implantable devices. Once a \"Staphylococcal\" biofilm has formed on an implanted medical device, it is difficult to disrupt due to its antibiotic resistance and protection against bacterial action.",
+            "score": 85.64825940132141
+        },
+        {
+            "docid": "57413297_3",
+            "document": "Murepavadin . Murepavadin exhibits a specific and potent bactericidal activity \"in vitro\" against \"P. aeruginosa\" including carbapenemase-producing and colistin-resistant isolates and was shown to be largely inactive against other Gram-negative bacteria, and Gram-positive bacteria. When tested in a large minimum inhibitory concentration (MIC) surveillance study, against 1219 contemporary clinical isolates from the USA, Europe, and China of which 28% were MDR strains, murepavadin exhibited a potent antimicrobial activity having a minimum inhibitory concentration for 90% of strains of 0.12\u00a0mg/L. There were no significant differences between geographic locations, and there was little difference in activity between MDR/and non-MDR isolates and no cross-resistance was observed with any other antimicrobial tested which supports its novel mechanism of action. Murepavadin showed outstanding \"in vivo\" efficacy in mouse septicemia (ED50 of 0.25 - 0.55\u00a0mg/kg) and lung and thigh infection models. It displays linear pharmacokinetics, is dose proportional with a good penetration into the epithelial lung fluid which underscores its potent \"in vivo\" activity in lung infection models including extensively drug-resistant (XDR) isolates. In phase I clinical trial in healthy volunteers, single doses were well tolerated at plasma concentrations expected to meet or exceed efficacious levels, with no serious adverse events reported. The favorable \"in vitro\" and \"in vivo\" properties of murepavadin combined with an appropriate safety pharmacology and toxicology profile led to the clinical development of murepavadin for the treatment of serious infections caused by \"P. aeruginosa\". Murepavadin successfully completed phase-II clinical tests in hospital patients with life-threatening \"Pseudomonas\" lung infections and is in phase III development for the treatment of bacterial HAP/ bacterial VAP due to \"P. aeruginosa\" infection.",
+            "score": 69.60307264328003
+        },
+        {
+            "docid": "6006708_5",
+            "document": "Stable isotope labeling by amino acids in cell culture . While SILAC had been mostly used in studying eukaryotic cells and cell cultures, it had been recently employed in bacteria and its multicellular biofilm in antibiotic tolerance, to differentiate tolerance and sensitive subpopulations.",
+            "score": 63.68789196014404
+        }
+    ],
+    "r": [
+        {
+            "docid": "2459654_18",
+            "document": "Pseudomonas aeruginosa . Biofilms of \"P. aeruginosa\" can cause chronic opportunistic infections, which are a serious problem for medical care in industrialized societies, especially for immunocompromised patients and the elderly. They often cannot be treated effectively with traditional antibiotic therapy. Biofilms seem to protect these bacteria from adverse environmental factors. \"P. aeruginosa\" can cause nosocomial infections and is considered a model organism for the study of antibiotic-resistant bacteria. Researchers consider it important to learn more about the molecular mechanisms that cause the switch from planktonic growth to a biofilm phenotype and about the role of QS in treatment-resistant bacteria such as \"P. aeruginosa\". This should contribute to better clinical management of chronically infected patients, and should lead to the development of new drugs.",
+            "score": 129.66522216796875
+        },
+        {
+            "docid": "43946_16",
+            "document": "Biofilm . However, biofilms are not always less susceptible to antibiotics. For instance, the biofilm form of \"Pseudomonas aeruginosa\" has no greater resistance to antimicrobials than do stationary-phase planktonic cells, although when the biofilm is compared to logarithmic-phase planktonic cells, the biofilm does have greater resistance to antimicrobials. This resistance to antibiotics in both stationary-phase cells and biofilms may be due to the presence of persister cells.",
+            "score": 115.9394760131836
+        },
+        {
+            "docid": "21115942_6",
+            "document": "Multidrug tolerance . Unlike resistance, multidrug tolerance is a transient, non-heritable phenotype. Multidrug tolerant persister cells are not antibiotic resistant mutants. Resistance is caused by newly acquired genetic traits (by mutation or horizontal gene transfer) that are heritable and confer the ability to grow at elevated concentrations of antimicrobial drugs. In contrast, tolerant bacteria have the same MIC (Minimum Inhibitory Concentration) as susceptible bacteria and differ in the duration of the treatment that they can survive. Multidrug tolerance can be caused by a reversible physiological state in a small subpopulation of genetically identical cells, similar to a differentiated cell type. It enables this small subpopulation of microbes to survive the antibiotic killing of their surrounding siblings. Persisting cells resume growth when the antimicrobial agent is removed, and their progeny is sensitive to antimicrobial agents.",
+            "score": 106.82083892822266
+        },
+        {
+            "docid": "339961_13",
+            "document": "Pseudomonas . \"Pseudomonas aeruginosa\" is increasingly recognized as an emerging opportunistic pathogen of clinical relevance. One of its most worrying characteristics is its low antibiotic susceptibility. This low susceptibility is attributable to a concerted action of multidrug efflux pumps with chromosomally encoded antibiotic resistance genes (e.g., \"mexAB-oprM\", \"mexXY\", etc.,) and the low permeability of the bacterial cellular envelopes. Besides intrinsic resistance, \"P. aeruginosa\" easily develops acquired resistance either by mutation in chromosomally encoded genes or by the horizontal gene transfer of antibiotic resistance determinants. Development of multidrug resistance by \"P. aeruginosa\" isolates requires several different genetic events that include acquisition of different mutations and/or horizontal transfer of antibiotic resistance genes. Hypermutation favours the selection of mutation-driven antibiotic resistance in \"P. aeruginosa\" strains producing chronic infections, whereas the clustering of several different antibiotic resistance genes in integrons favours the concerted acquisition of antibiotic resistance determinants. Some recent studies have shown phenotypic resistance associated to biofilm formation or to the emergence of small-colony-variants, which may be important in the response of \"P. aeruginosa\" populations to antibiotic treatment.",
+            "score": 106.15396118164062
+        },
+        {
+            "docid": "43946_35",
+            "document": "Biofilm . \"P. aeruginosa\" represents a commonly used biofilm model organism since it is involved in different types of biofilm-associated infections. Examples of such infections include chronic wounds, chronic otitis media, chronic prostatitis and chronic lung infections in cystic fibrosis (CF) patients. About 80% of CF patients have chronic lung infection, caused mainly by \"P. aeruginosa\" growing in a non-surface attached biofilms surround by PMN. The infection remains present despite aggressive antibiotic therapy and is a common cause of death in CF patients due to constant inflammatory damage to the lungs. In patients with CF, one therapy for treating early biofilm development is to employ DNase to structurally weaken the biofilm.",
+            "score": 104.64185333251953
+        },
+        {
+            "docid": "18589744_4",
+            "document": "Pseudomonas infection . \"P. aeruginosa\" is an opportunistic human pathogen, most commonly affecting immunocompromised patients, such as those with cystic fibrosis or AIDS. Infection can affect many different parts of the body, but infections typically target the respiratory tract (e.g. patients with CF or those on mechanical ventilation), causing bacterial pneumonia. In a surveillance study between 1986 and 1989, P. aeruginosa was the third leading cause of all nosocomial infections, and specifically the number one leading cause of hospital-acquired pneumonia and third leading cause of hospital-acquired UTI. Treatment of such infections can be difficult due to multiple antibiotic resistance, and in the United States, there was an increase in MDRPA (Multidrug-resistant \"Pseudomonas aeruginosa\") resistant to ceftazidime, ciprofloxacin, and aminoglycosides, from 0.9% in 1994 to 5.6% in 2002.",
+            "score": 102.25271606445312
+        },
+        {
+            "docid": "2459654_22",
+            "document": "Pseudomonas aeruginosa . Recently, scientists have been examining the possible genetic basis for \"P. aeruginosa\" resistance to antibiotics such as tobramycin. One locus identified as being an important genetic determinant of the resistance in this species is \"ndvB\", which encodes periplasmic glucans that may interact with antibiotics and cause them to become sequestered into the periplasm. These results suggest a genetic basis exists behind bacterial antibiotic resistance, rather than the biofilm simply acting as a diffusion barrier to the antibiotic.",
+            "score": 102.14022827148438
+        },
+        {
+            "docid": "55868631_10",
+            "document": "List of antibiotic resistant bacteria . \"Pseudomonas aeruginosa\" is a highly prevalent opportunistic pathogen. One of the most worrisome characteristics of \"P. aeruginosa\" is its low antibiotic susceptibility, which is attributable to a concerted action of multidrug efflux pumps with chromosomally encoded antibiotic resistance genes (e.g., \"mexAB-oprM\", \"mexXY\") and the low permeability of the bacterial cellular envelopes. \"Pseudomonas aeruginosa\" has the ability to produce 4-hydroxy-2-alkylquinolines (HAQs) and it has been found that HAQs have prooxidant effects, and overexpressing modestly increased susceptibility to antibiotics. The study experimented with the \"Pseudomonas aeruginosa\" biofilms and found that a disruption of relA and spoT genes produced an inactivation of the Stringent response (SR) in cells with nutrient limitation, which provides cells be more susceptible to antibiotics.",
+            "score": 101.55265808105469
+        },
+        {
+            "docid": "2459654_30",
+            "document": "Pseudomonas aeruginosa . One of the most worrisome characteristics of \"P. aeruginosa\" is its low antibiotic susceptibility, which is attributable to a concerted action of multidrug efflux pumps with chromosomally encoded antibiotic resistance genes (e.g., \"mexAB\", \"mexXY\", etc.) and the low permeability of the bacterial cellular envelopes. In addition to this intrinsic resistance, \"P. aeruginosa\" easily develops acquired resistance either by mutation in chromosomally encoded genes or by the horizontal gene transfer of antibiotic resistance determinants. Development of multidrug resistance by \"P. aeruginosa\" isolates requires several different genetic events, including acquisition of different mutations and/or horizontal transfer of antibiotic resistance genes. Hypermutation favours the selection of mutation-driven antibiotic resistance in \"P. aeruginosa\" strains producing chronic infections, whereas the clustering of several different antibiotic resistance genes in integrons favors the concerted acquisition of antibiotic resistance determinants. Some recent studies have shown phenotypic resistance associated to biofilm formation or to the emergence of small-colony variants may be important in the response of \"P. aeruginosa\" populations to antibiotics treatment.",
+            "score": 99.12922668457031
+        },
+        {
+            "docid": "2459654_11",
+            "document": "Pseudomonas aeruginosa . An opportunistic, nosocomial pathogen of immunocompromised individuals, \"P. aeruginosa\" typically infects the airway, urinary tract, burns, and wounds, and also causes other blood infections. It is the most common cause of infections of burn injuries and of the outer ear (otitis externa), and is the most frequent colonizer of medical devices (e.g., catheters). \"Pseudomonas\" can be spread by equipment that gets contaminated and is not properly cleaned or on the hands of healthcare workers. \"Pseudomonas\" can, in rare circumstances, cause community-acquired pneumonias, as well as ventilator-associated pneumonias, being one of the most common agents isolated in several studies. Pyocyanin is a virulence factor of the bacteria and has been known to cause death in \"C. elegans\" by oxidative stress. However, salicylic acid can inhibit pyocyanin production. One in ten hospital-acquired infections is from \"Pseudomonas\". Cystic fibrosis patients are also predisposed to \"P. aeruginosa\" infection of the lungs. \"P. aeruginosa\" may also be a common cause of \"hot-tub rash\" (dermatitis), caused by lack of proper, periodic attention to water quality. Since these bacteria like moist environments, such as hot tubs and swimming pools, they can cause skin rash or swimmer's ear. \"Pseudomonas\" is also a common cause of postoperative infection in radial keratotomy surgery patients. The organism is also associated with the skin lesion ecthyma gangrenosum. \"P. aeruginosa\" is frequently associated with osteomyelitis involving puncture wounds of the foot, believed to result from direct inoculation with \"P. aeruginosa\" via the foam padding found in tennis shoes, with diabetic patients at a higher risk.",
+            "score": 96.81629180908203
+        },
+        {
+            "docid": "28253826_13",
+            "document": "Bacterial small RNA . Biofilm is a type of bacterial growth pattern where multiple layers of bacterial cells adhere to a host surface. This mode of growth is often found in pathogenic bacteria, including \"Pseudomonas aeruginosa\", which can form persistent biofilm within the respiratory tract and cause chronic infection. The \"P. aeruginosa\" sRNA SbrA was found to be necessary for full biofilm formation and pathogenicity. A mutant \"P. aeruginosa\" strain with SbrA deleted formed a 66% smaller biofilm and its ability to infect a nematode model was reduced by nearly half when compared to wildtype \"P. aeruginosa\".",
+            "score": 94.30950164794922
+        },
+        {
+            "docid": "50601_35",
+            "document": "Cystic fibrosis . Many people with CF are on one or more antibiotics at all times, even when healthy, to prophylactically suppress infection. Antibiotics are absolutely necessary whenever pneumonia is suspected or a noticeable decline in lung function is seen, and are usually chosen based on the results of a sputum analysis and the person's past response. This prolonged therapy often necessitates hospitalization and insertion of a more permanent IV such as a peripherally inserted central catheter or Port-a-Cath. Inhaled therapy with antibiotics such as tobramycin, colistin, and aztreonam is often given for months at a time to improve lung function by impeding the growth of colonized bacteria. Inhaled antibiotic therapy helps lung function by fighting infection, but also has significant drawbacks such as development of antibiotic resistance, tinnitus, and changes in the voice. Inhaled levofloxacin may be used to treat \"Pseudomonas aeruginosa\" in people with cystic fibrosis who are infected. The early management of Pseudomonas aeruginosa infection is easier and better, using nebulised antibiotics with or without oral antibiotics may sustain its eradication up to 2 years.",
+            "score": 94.11736297607422
+        },
+        {
+            "docid": "12671946_2",
+            "document": "Nitroxoline . Nitroxoline is an antibiotic that has been in use in Europe for about fifty years, and has proven to be very effective at combating biofilm infections. Nitroxoline was shown to cause a decrease in the biofilm density of \"P. aeruginosa\" infections, which would allow access to the infection by the immune system \"in vivo\". It was shown that nitroxoline functions by chelating Fe and Zn ions from the biofilm matrix; when Fe and Zn were reintroduced into the system, biofilm formation was reconstituted. The activity of biofilm degradation is comparable to EDTA, but has a history of human use in clinical settings and therefore has a precedent with which to allow its use against \u201cslimy\u201d biofilm infections.",
+            "score": 90.31013488769531
+        },
+        {
+            "docid": "50601_24",
+            "document": "Cystic fibrosis . Over time, both the types of bacteria and their individual characteristics change in individuals with CF. In the initial stage, common bacteria such as \"S. aureus\" and \"H. influenzae\" colonize and infect the lungs. Eventually, \"Pseudomonas aeruginosa\" (and sometimes \"Burkholderia cepacia\") dominates. By 18 years of age, 80% of patients with classic CF harbor \"P. aeruginosa\", and 3.5% harbor \"B. cepacia\". Once within the lungs, these bacteria adapt to the environment and develop resistance to commonly used antibiotics. \"Pseudomonas\" can develop special characteristics that allow the formation of large colonies, known as \"mucoid\" \"Pseudomonas\", which are rarely seen in people who do not have CF. Scientific evidences suggest the interleukin 17 pathway plays a key role in resistance and modulation of the inflammatory response during \"P. aeruginosa\" infection in CF. In particular, interleukin 17-mediated immunity plays a double-edged activity during chronic airways infection; on one side, it contributes to the control of \"P. aeruginosa\" burden, while on the other, it propagates exacerbated pulmonary neutrophilia and tissue remodeling.",
+            "score": 89.24972534179688
+        },
+        {
+            "docid": "7617805_4",
+            "document": "Starvation response . Starvation contributes to tolerance during infection, as nutrients become limited when they are sequestered by host defenses and consumed by proliferating bacteria. One of the most important causes of starvation induced tolerance in vivo is biofilm growth, which occurs in many chronic infections. Starvation in biofilms is due to nutrient consumption by cells located on the periphery of biofilm clusters and by reduced diffusion of substrates through the biofilm. Biofilm bacteria shows extreme tolerance to almost all antibiotic classes, and supplying limiting substrates can restore sensitivity.",
+            "score": 88.60762023925781
+        },
+        {
+            "docid": "56700976_2",
+            "document": "SrbA sRNA . SrbA (sRNA regulator of biofilms A) is a small regulatory non-coding RNA identified in pathogenic \"Pseudomonas aeruginosa\"\".\" It is important for biofilm formation and pathogenicity. Bacterial strain with deleted SrbA had reduced biofilm mass. As the ability to form biofilms can contribute to the ability a pathogen to thrive within the host, the \"C. elegans\" hosts infected with the srbA deleted strain displayed significantly lower mortality rate than the wild-type strain. However, the deletion of srbA had no effect on growth or antibiotic resistance in \"P. aeruginosa\".",
+            "score": 87.51698303222656
+        },
+        {
+            "docid": "1914_73",
+            "document": "Antimicrobial resistance . Studies have found that bacteria that evolve antibiotic resistance towards one group of antibiotic may become more sensitive others. This phenomona can be utilized to select against resistant bacteria using an approach termed collateral sensitivity cycling, which has recently been found to be relevant in developing treatment strategies for chronic infections caused by \"Pseudomonas aeruginosa\".",
+            "score": 87.21885681152344
+        },
+        {
+            "docid": "43946_11",
+            "document": "Biofilm . Dispersal of cells from the biofilm colony is an essential stage of the biofilm life cycle. Dispersal enables biofilms to spread and colonize new surfaces. Enzymes that degrade the biofilm extracellular matrix, such as dispersin B and deoxyribonuclease, may play a role in biofilm dispersal. Biofilm matrix degrading enzymes may be useful as anti-biofilm agents. Recent evidence has shown that a fatty acid messenger, \"cis\"-2-decenoic acid, is capable of inducing dispersion and inhibiting growth of biofilm colonies. Secreted by \"Pseudomonas aeruginosa\", this compound induces cyclo heteromorphic cells in several species of bacteria and the yeast \"Candida albicans\". Nitric oxide has also been shown to trigger the dispersal of biofilms of several bacteria species at sub-toxic concentrations. Nitric oxide has the potential for the treatment of patients that suffer from chronic infections caused by biofilms.",
+            "score": 86.9113998413086
+        },
+        {
+            "docid": "12356185_4",
+            "document": "Lysostaphin . \"Staphylococcal\" infections of both \"Staphylococcus aureus\" and \"Staphylococcus epidermidis\" continue to be a major issue in clinical settings, particularly those with implantable devices. \"Staphylococci\" cause a significant percentage of device infections, and like many other pathogens, rather than living as free planktonic cells within the host they have the ability to form a multilayered community of sessile bacteria cells known as a biofilm on implantable devices. Once a \"Staphylococcal\" biofilm has formed on an implanted medical device, it is difficult to disrupt due to its antibiotic resistance and protection against bacterial action.",
+            "score": 85.64826202392578
+        },
+        {
+            "docid": "1914_11",
+            "document": "Antimicrobial resistance . Lower antibiotic concentration contributes to the increase of AMR by introducing more mutations that support bacterial growth in higher antibiotic concentration. For example, sub-inhibitory concentration have induced genetic mutation in bacteria such as \"Pseudomonas aeruginosa\" and \"Bacteroides fragilis\".",
+            "score": 85.59090423583984
+        },
+        {
+            "docid": "43946_34",
+            "document": "Biofilm . Research has shown that sub-therapeutic levels of \u03b2-lactam antibiotics induce biofilm formation in \"Staphylococcus aureus\". This sub-therapeutic level of antibiotic may result from the use of antibiotics as growth promoters in agriculture, or during the normal course of antibiotic therapy. The biofilm formation induced by low-level methicillin was inhibited by DNase, suggesting that the sub-therapeutic levels of antibiotic also induce extracellular DNA release. Moreover, from an evolutionary point of view, the creation of the tragedy of the commons in pathogenic microbes may provide advanced therapeutic ways for chronic infections caused by biofilms via genetically engineered invasive cheaters who can invade wild-types \u2018cooperators\u2019 of pathogenic bacteria until cooperator populations go to extinction or overall population \u2018cooperators and cheaters \u2019 go to extinction.",
+            "score": 85.23207092285156
+        },
+        {
+            "docid": "7013607_13",
+            "document": "Glycoside hydrolase . Various glycoside hydrolases have shown efficacy in degrading matrix polysaccharides within the extracellular polymeric substance (EPS) of microbial biofilms. Medically, biofilms afford infectious microorganisms a variety of advantages over their planktonic, fre-floating counterparts, including greatly increased tolerances to antimicrobial agents and the host immune system. Thus, degrading the biofilm may increase antibiotic efficacy, and potentiate host immune function and healing ability. For example, a combination of alpha-amylase and cellulase was shown to degrade polymicrobial bacterial biofilms from both \"in vitro\" and \"in vivo\" sources, and increase antibiotic effectiveness against them.",
+            "score": 83.9656753540039
+        },
+        {
+            "docid": "1805_49",
+            "document": "Antibiotic . Phage therapy is another method for treating antibiotic-resistant strains of bacteria. Phage therapy infects pathogenic bacteria with their own viruses. Bacteriophages and their host ranges are extremely specific for certain bacteria, thus they do not disturb the host organism and intestinal microflora unlike antibiotics. Bacteriophages, also known simply as phages, infect and can kill bacteria and affect bacterial growth primarily during lytic cycles. Phages insert their DNA into the bacterium, where it is transcribed and used to make new phages, after which the cell will lyse, releasing new phage able to infect and destroy further bacteria of the same strain. The high specificity of phage protects \"good\" bacteria from destruction. However, some disadvantages to use of bacteriophages also exist. Bacteriophages may harbour virulence factors or toxic genes in their genomes and identification of genes with similarity to known virulence factors or toxins by genomic sequencing may be prudent prior to use. In addition, the oral and IV administration of phages for the eradication of bacterial infections poses a much higher safety risk than topical application, and there is the additional concern of uncertain immune responses to these large antigenic cocktails. There are considerable regulatory hurdles that must be cleared for such therapies. The use of bacteriophages as a replacement for antimicrobial agents against MDR pathogens no longer respond to conventional antibiotics remains an attractive option despite numerous challenges.",
+            "score": 83.79080200195312
+        },
+        {
+            "docid": "57173512_6",
+            "document": "Robert E. W. Hancock . He became interested in studying antibiotic resistance mechanisms in \"Pseudomonas aeruginosa\" and this eventually morphed into his involvement in sequencing the genome of \"Pseudomonas\", only the 4th genome to be sequenced, identifying new mechanisms of antibiotic resistance especially dependent on lifestyle adaptations in \"Pseudomonas\", and then finding new therapeutics for treating antibiotic resistant pathogens . His research morphed into investigating small cationic peptides from nature, originally termed cationic antimicrobial peptides, but as his research progressed he became one of the first and most prominent advocates that the major function of these peptides was as modulators of the immune system. To understand the role of these peptides as modulators of the immune system he developed InnateDB and NetworkAnalyst as tools to enable systems/network biology studies and insights. His lab webpage covers these topics in greater detail.",
+            "score": 82.53262329101562
+        },
+        {
+            "docid": "2459654_3",
+            "document": "Pseudomonas aeruginosa . The organism is considered opportunistic insofar as serious infection often occurs during existing diseases or conditions \u2013 most notably cystic fibrosis and traumatic burns. It is also found generally in the immunocompromised but can infect the immunocompetent as in hot tub folliculitis. Treatment of \"P. aeruginosa\" infections can be difficult due to its natural resistance to antibiotics. When more advanced antibiotic drug regimens are needed adverse effects may result.",
+            "score": 82.44937896728516
+        },
+        {
+            "docid": "21350404_5",
+            "document": "Mariana Bridi Costa . Bridi became ill in December 2008, initially suspected of having kidney stones. By early January, she was diagnosed with a urinary tract infection that worsened to become septic shock caused by a bacterial infection, probably \"Pseudomonas aeruginosa\", a difficult pathogen to treat because of its resistance to many antibiotics. \"Pseudomonas aeruginosa\" is an unusual agent to cause a urinary tract infection which appeared to have caused the sepsis.",
+            "score": 81.46702575683594
+        },
+        {
+            "docid": "571816_19",
+            "document": "Campylobacter jejuni . \"C. jejuni\" is naturally competent for genetic transformation. Natural genetic transformation is a sexual process involving DNA transfer from one bacterium to another through the intervening medium, and the integration of the donor sequence into the recipient genome by homologous recombination. \"C. jejuni\" freely takes up foreign DNA harboring genetic information responsible for antibiotic resistance. Antibiotic resistance genes are more frequently transferred in biofilms than between planktonic cells (single cells that float in liquid media).",
+            "score": 81.034423828125
+        },
+        {
+            "docid": "43946_12",
+            "document": "Biofilm . It is generally assumed that cells dispersed from biofilms immediately go into the planktonic growth phase. However, recent studies have shown that the physiology of dispersed cells from \"Pseudomonas aeruginosa\" biofilms is highly different from those of planktonic and biofilm cells. Hence, the dispersal process is a unique stage during the transition from biofilm to planktonic lifestyle in bacteria. Dispersed cells are found to be highly virulent against macrophages and \"Caenorhabditis elegans\", but highly sensitive towards iron stress, as compared with planktonic cells.",
+            "score": 80.91168975830078
+        },
+        {
+            "docid": "21115942_5",
+            "document": "Multidrug tolerance . Bacterial multidrug or antibiotic tolerance poses medically important challenges. It is largely responsible for the inability to eradicate bacterial infections with antibiotic treatment. Persister cells are highly enriched in biofilms, and it has been suggested that this is the reason that makes biofilm-related diseases so hard to treat. Examples are chronic infections of implanted medical devices such as catheters and artificial joints, urinary tract infections, middle ear infections and fatal lung disease .",
+            "score": 80.84367370605469
+        },
+        {
+            "docid": "11100132_15",
+            "document": "Skin flora . Skin microflora can be commensals, mutualistic or pathogens. Often they can be all three depending upon the strength of the person's immune system. Research upon the immune system in the gut and lungs has shown that microflora aids immunity development: however such research has only started upon whether this is the case with the skin. \"Pseudomonas aeruginosa\" is an example of a mutualistic bacterium that can turn into a pathogen and cause disease: if it gains entry into the blood system it can result in infections in bone, joint, gastrointestinal, and respiratory systems. It can also cause dermatitis. However, Pseudomonas aeruginosa produces antimicrobial substances such as pseudomonic acid (that are exploited commercially such as Mupirocin). This works against staphylococcal and streptococcal infections. Pseudomonas aeruginosa also produces substances that inhibit the growth of fungus species such as \"Candida krusei\", \"Candida albicans\", \"Torulopsis glabrata\", \"Saccharomyces cerevisiae\" and \"Aspergillus fumigatus\". It can also inhibit the growth of \"Helicobacter pylori\". So important is its antimicrobial actions that it has been noted that \"removing \"P. aeruginosa\" from the skin, through use of oral or topical antibiotics, may inversely allow for aberrant yeast colonization and infection.\"",
+            "score": 80.67279815673828
+        },
+        {
+            "docid": "21115942_4",
+            "document": "Multidrug tolerance . Multidrug tolerance is caused by a small subpopulation of microbial cells termed persisters. Persisters are not mutants, but rather are dormant cells that can survive the antimicrobial treatments that kill the majority of their genetically identical siblings. Persister cells have entered a non- or extremely slow-growing physiological state which makes them insensitive (refractory or tolerant) to the action of antimicrobial drugs. When such persisting microbial cells cannot be eliminated by the immune system, they become a reservoir from which recurrence of infection will develop. Such non-growing bacteria have been observed to persist within mammalian cells. Indeed, it appears that persister cells are the main cause for relapsing and chronic infections. Chronic infections can affect people of any age, health, or immune status.",
+            "score": 80.480712890625
+        },
+        {
+            "docid": "541592_2",
+            "document": "Broad-spectrum antibiotic . The term broad-spectrum antibiotic can refer to an antibiotic that acts on the two major bacterial groups, gram-positive and gram-negative, or any antibiotic that acts against a wide range of disease-causing bacteria. These medications are used when a bacterial infection is suspected but the group of bacteria is unknown (also called empiric therapy) or when infection with multiple groups of bacteria is suspected. This is in contrast to a narrow-spectrum antibiotic, which is effective against only a specific group of bacteria. Although powerful, broad-spectrum antibiotics pose specific risks, particularly the disruption of native, normal bacteria and the development of antimicrobial resistance. An example of a commonly used broad-spectrum antibiotic is ampicillin.",
+            "score": 80.18672943115234
+        }
+    ]
+}

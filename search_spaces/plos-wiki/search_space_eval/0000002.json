@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "19209638_7",
+            "document": "Cullin . With the exception of ANAPC2, each member of the cullin family is modified by Nedd8 and several cullins function in Ubiquitin-dependent proteolysis, a process in which the 26S proteasome recognises and subsequently degrades a target protein tagged with K48-linked poly-ubiquitin chains. Nedd8/Rub1 is a small ubiquitin-like protein, which was originally found to be conjugated to Cdc53, a cullin component of the SCF (Skp1-Cdc53/CUL1-F-box protein) E3 Ub ligase complex in \"Saccharomyces cerevisiae\" (Baker's yeast), and Nedd8 modification has now emerged as a regulatory pathway of fundamental importance for cell cycle control and for embryogenesis in metazoans. The only identified Nedd8 substrates are cullins. Neddylation results in covalent conjugation of a Nedd8 moiety onto a conserved cullin lysine residue.",
+            "score": 234.22982382774353
+        },
+        {
+            "docid": "622571_8",
+            "document": "Ubiquitin ligase . Humans have an estimated 500-1000 E3 ligases, which impart substrate specificity onto the E1 and E2. The E3 ligases are classified into four families: HECT, RING-finger, U-box, and PHD-finger. The RING-finger E3 ligases are the largest family and contain ligases such as the anaphase-promoting complex (APC) and the SCF complex (Skp1-Cullin-F-box protein complex). SCF complexes consist of four proteins: Rbx1, Cul1, Skp1, which are invariant among SCF complexes, and an F-box protein, which varies. Around 70 human F-box proteins have been identified. F-box proteins contain an F-box, which binds the rest of the SCF complex, and a substrate binding domain, which gives the E3 its substrate specificity.",
+            "score": 284.767450094223
+        },
+        {
+            "docid": "26625162_2",
+            "document": "Cell division control protein 4 . Cdc4 (cell division control protein 4) is a substrate recognition component of the SCF (SKP1-CUL1-F-box protein) ubiquitin ligase complex, which acts as a mediator of ubiquitin transfer to target proteins, leading to their subsequent degradation via the ubiquitin-proteasome pathway. Cdc4 targets primarily cell cycle regulators for proteolysis. It serves the function of an adaptor that brings target molecules to the core SCF complex.  Cdc4 was originally identified in the model organism \"Saccharomyces cerevisiae\".  CDC4 gene function is required at G1/S and G2/M transitions during mitosis and at various stages during meiosis.",
+            "score": 231.02306246757507
+        },
+        {
+            "docid": "14143884_3",
+            "document": "CUL1 . This is an essential component of the SCF (SKP1-CUL1-F-box protein) E3 ubiquitin ligase complex, which mediates the ubiquitination of proteins involved in cell cycle progression, signal transduction and transcription. In the SCF complex, it serves as a rigid scaffold that organizes the SKP1-F-box protein and RBX1 subunits. May contribute to catalysis through positioning of the substrate and the ubiquitin-conjugating enzyme.",
+            "score": 248.64698815345764
+        },
+        {
+            "docid": "14170524_3",
+            "document": "CUL4A . CUL4A protein is 759 amino acids long and forms an extended, rigid structure primarily consisting of alpha-helices. At the N-terminus, CUL4A binds to the beta-propeller of the DDB1 adaptor protein which interacts with numerous DDB1-CUL4-Associated Factors (DCAFs). As a result, the N-terminus is crucial for the recruitment of substrates for the ubiquitin ligase complex. At the C-terminal end, CUL4A interacts with the RBX1/ROC1 protein via its RING domain. RBX1 is a core component of Cullin-RING ubiquitin ligase (CRL) complexes and functions to recruit E2 ubiquitin conjugating enzymes. Therefore, the C-terminus of CUL4A - along with RBX1 and activated E2 enzymes - compose the catalytic core of CRL4 complexes. CUL4A is also modified by covalent attachment of a NEDD8 molecule at a highly conserved lysine residue in the C-terminal region. This modification appears to induce conformational changes which promotes flexibility in the RING domain of cullin proteins and enhanced ubiquitin ligase activity.",
+            "score": 165.0357630252838
+        },
+        {
+            "docid": "54483805_6",
+            "document": "Raymond J. Deshaies . Upon starting his laboratory at Caltech, Deshaies studied the function of Cdc34 and how it relates to progression through the cell division cycle. These studies led his laboratory to discover the SCF complex SCF, which is the progenitor of what is now known to be a large family of ~250 enzymes known as cullin\u2013RING ubiquitin ligases (CRLs) that are conserved throughout eukaryotes and exert a major impact on the regulation of numerous cellular and organismal processes. In parallel, they established the paradigm of phosphorylation-dependent targeting of SCF substrates. His lab went on to discover the critical catalytic subunit of SCF (known as Rbx1/Roc1/Hrt1) and describe its mechanism of action. Subsequent studies identified key aspects of CRL mechanism of action. Particularly notable were their discoveries relating to the CRL regulators COP9 signalosome (CSN) and CAND1. In 2001-2002, the Deshaies lab showed that CSN, together with proteasome subunit Rpn11/PSMD14, are the founding members of a novel family of deubiquitinating enzymes. CSN plays a key role in regulating SCF and other CRL enzymes by removing the ubiquitin-like protein NEDD8 from their cullin subunit. In 2013, they showed that Cand1 has the unusual property of being a \u2018protein exchange catalyst\u2019 that equilibrates F-box subunits of SCF ubiquitin ligases with the cullin scaffold subunit.",
+            "score": 181.47946405410767
+        },
+        {
+            "docid": "14065868_8",
+            "document": "SKP2 . Progression through the cell cycle is tightly regulated by cyclin-dependent kinases (CDKs), and their interactions with cyclins and CDK inhibitors (CKIs). Relative amounts of these signals oscillate during each stage of the cell cycle due to periodic proteolysis; the ubiquitin-proteasome system mediates the degradation of these mitotic regulatory proteins, controlling their intracellular concentrations. These and other proteins are recognized and degraded by the proteasome from the sequential action of three enzymes: E1 (ubiquitin-activating enzyme), one of many E2s (ubiquitin-conjugating enzyme), and one of many E3 ubiquitin ligase. The specificity of ubiquitination is provided by the E3 ligases; these ligases physically interact with the target substrates. Skp2 is the substrate recruiting component of the SCFSkp2 complex, which targets cell cycle control elements, such as p27 and p21. Here, SKP2 has been implicated in double negative feedback loops with both p21 and p27, that control cell cycle entry and G1/S transition.",
+            "score": 146.84991109371185
+        },
+        {
+            "docid": "5308641_8",
+            "document": "Muscle atrophy . Muscle atrophy occurs by a change in the normal balance between protein synthesis and protein degradation. During atrophy, there is a down-regulation of protein synthesis pathways, and an activation of protein degradation. The particular protein degradation pathway which seems to be responsible for much of the muscle loss seen in a muscle undergoing atrophy is the ATP-dependent ubiquitin/proteasome pathway. In this system, particular proteins are targeted for destruction by the ligation of at least four copies of a small peptide called ubiquitin onto a substrate protein. When a substrate is thus \"poly-ubiquitinated\", it is targeted for destruction by the proteasome. Particular enzymes in the ubiquitin/proteasome pathway allow ubiquitination to be directed to some proteins but not others - specificity is gained by coupling targeted proteins to an \"E3 ubiquitin ligase\". Each E3 ubiquitin ligase binds to a particular set of substrates, causing their ubiquitination.",
+            "score": 168.0930027961731
+        },
+        {
+            "docid": "19209638_6",
+            "document": "Cullin . Cullin-RING ubiquitin ligases (CRLs), such as Cul1 (SCF) play an essential role in targeting proteins for ubiquitin-mediated destruction; as such, they are diverse in terms of composition and function, regulating many different processes from glucose sensing and DNA replication to limb patterning and circadian rhythms. The catalytic core of CRLs consists of a RING protein and a cullin family member. For Cul1, the C-terminal cullin-homology domain binds the RING protein. The RING protein appears to function as a docking site for ubiquitin-conjugating enzymes (E2s). Other proteins contain a cullin-homology domain, such as CUL9, also known as p53 cytoplasmic anchor PARC, and the ANAPC2 subunit of the anaphase-promoting complex/cyclosome; both CUL9 and ANAPC2 have ubiquitin ligase activity. The N-terminal region of cullins is more variable, and is used to interact with specific adaptor proteins.",
+            "score": 152.91228127479553
+        },
+        {
+            "docid": "622571_2",
+            "document": "Ubiquitin ligase . A ubiquitin ligase (also called an E3 ubiquitin ligase) is a protein that recruits an E2 ubiquitin-conjugating enzyme that has been loaded with ubiquitin, recognizes a protein substrate, and assists or directly catalyzes the transfer of ubiquitin from the E2 to the protein substrate. The ubiquitin is attached to a lysine on the target protein by an isopeptide bond. E3 ligases interact with both the target protein and the E2 enzyme, and so impart substrate specificity to the E2. Commonly, E3s polyubiquitinate their substrate with Lys48-linked chains of ubiquitin, targeting the substrate for destruction by the proteasome. However, many other types of linkages are possible and alter a protein's activity, interactions, or localization. Ubiquitination by E3 ligases regulates diverse areas such as cell trafficking, DNA repair, and signaling and is of profound importance in cell biology. E3 ligases are also key players in cell cycle control, mediating the degradation of cyclins, as well as cyclin dependent kinase inhibitor proteins. The human genome encodes over 600 putative E3 ligases, allowing for tremendous diversity in substrates.",
+            "score": 172.03577828407288
+        },
+        {
+            "docid": "14772436_3",
+            "document": "CUL4B . Human CUL4B is 913 amino acids long and shares a high degree of sequence identity (84%) with CUL4A with the exception of its unique N-terminal region. The extreme N-terminus of CUL4B is disordered and, currently, it is unclear what structural and functional qualities it possesses. CUL4B binds to the beta-propeller of the DDB1 adaptor protein which interacts with numerous DDB1-CUL4-Associated Factors (DCAFs). This interaction is crucial for the recruitment of substrates to the ubiquitin ligase complex. At the C-terminal end, CUL4B interacts with the RBX1/ROC1 protein via its RING domain. RBX1 is a core component of Cullin-RING ubiquitin ligase (CRL) complexes and functions to recruit E2 ubiquitin conjugating enzymes. Therefore, the C-terminus of CUL4B - along with RBX1 and activated E2 enzymes - compose the catalytic core of CRL4B complexes. CUL4B is also modified by covalent attachment of a NEDD8 molecule at a highly conserved lysine residue in the C-terminal region. This modification appears to induce conformational changes which promotes flexibility in the RING domain of cullin proteins and enhanced ubiquitin ligase activity.",
+            "score": 158.56424498558044
+        },
+        {
+            "docid": "670854_7",
+            "document": "Jasmonate . Because JAZ did not disappear in null \"coi1\" mutant plant backgrounds, protein COI1 was shown to mediate JAZ degradation. COI1 belongs to the family of highly conserved F-box proteins, and it recruits substrates for the E3 ubiquitin ligase SCF. The complexes that ultimately form are known as SCF complexes. These complexes bind JAZ and target it for proteasomal degradation. However, given the large spectrum of JA molecules, not all JA derivatives activate this pathway for signaling, and the range of those participating in this pathway is unknown. Thus far, only JA-Ile has been shown to be necessary for COI1-mediated degradation of JAZ11. JA-Ile and structurally related derivatives can bind to COI1-JAZ complexes and promote ubiquitination and thus degradation of the latter.",
+            "score": 197.8505494594574
+        },
+        {
+            "docid": "14029460_8",
+            "document": "CBL (gene) . Ubiquitination is the process of chemically attaching ubiquitin monomers to a protein, thereby targeting it for degradation. As this is a multi-step process, several different enzymes are involved, the final one being a member of the E3 family of ligases. Cbl functions as an E3 ligase, and therefore is able to catalyse the formation of a covalent bond between ubiquitin and Cbl's protein substrate - typically a receptor tyrosine kinase. The RING-finger domain mediates this transfer, however like other E3 ligases of the RING type no intermediate covalent bond is formed between ubiquitin and the RING-finger domain. The stepwise attachment of ubiquitin to the substrate receptor tyrosine kinase can lead to its removal from the plasma membrane and subsequent trafficking to the lysosome for degradation.",
+            "score": 144.20446729660034
+        },
+        {
+            "docid": "24603_27",
+            "document": "Proteasome . Although the proteasome normally produces very short peptide fragments, in some cases these products are themselves biologically active and functional molecules. Certain transcription factors regulating the expression of specific genes, including one component of the mammalian complex NF-\u03baB, are synthesized as inactive precursors whose ubiquitination and subsequent proteasomal degradation converts them to an active form. Such activity requires the proteasome to cleave the substrate protein internally, rather than processively degrading it from one terminus. It has been suggested that long loops on these proteins' surfaces serve as the proteasomal substrates and enter the central cavity, while the majority of the protein remains outside. Similar effects have been observed in yeast proteins; this mechanism of selective degradation is known as \"regulated ubiquitin/proteasome dependent processing\" (RUP).",
+            "score": 127.11100912094116
+        },
+        {
+            "docid": "7627035_2",
+            "document": "SCF complex . Skp, Cullin, F-box containing complex (or SCF complex) is a multi-protein E3 ubiquitin ligase complex catalyzing the ubiquitination of proteins destined for proteasomal degradation. It has important roles in the ubiquitination of proteins involved in the cell cycle and also marks various other cellular proteins for destruction.",
+            "score": 208.80924487113953
+        },
+        {
+            "docid": "14181897_10",
+            "document": "NUMB (gene) . Numb exerts its functional role on cell fate decisions by antagonizing Notch signaling activities. The molecular mechanisms underlying this relationship appear to rely on the ubiquitination of the membrane bound Notch1 receptor and the subsequent degradation of its NICD following receptor activation. In support of this, Numb\u2019s ability to ubiquinate Notch1 directly correlated with its functional inhibition of Notch1 signaling activities. The ubiquitination pathway directs protein recycling by directly tagging specific proteins for proteasome degradation. Through a multi-step process, free ubiquitin is first attached to an activating enzyme (E1) and then transferred to a conjugating enzyme (E2) which partners with a ligase (E3) which functions as an adaptor to selectively transfer the ubiquitin to specific protein substrates. Numb expression was found to selectively tag the membrane Notch1 receptor for ubiquitination through the interaction of its Phosphotyrosine-binding domain with the E3 ubiquitin ligase Itch. Numb and Itch work in concert to promote the ubiquitination of the full-length membrane-tethered Notch receptor prior to activation. However, Numb only appears to promote the degradation of the NICD cleavage product following receptor activation, targeting it for proteasome degradation and preventing its translocation to the nucleus.",
+            "score": 134.9895040988922
+        },
+        {
+            "docid": "9434427_11",
+            "document": "F-box protein . F-box protein as a protein can be regulated in different mechanisms. The regulation can happen in the F-box protein synthesis process, protein degradation process and association with SCF complex process. For example, in yeast, the F-box protein Met30 can be ubiquitinated in a cullin-dependent manner.",
+            "score": 205.7049663066864
+        },
+        {
+            "docid": "22590461_29",
+            "document": "Plant disease resistance . The E3 Ubiquitin ligase enzyme is a main component that provides specificity in protein degradation pathways, including immune signaling pathways. The E3 enzyme components can be grouped by which domains they contain and include several types. These include the Ring and U-box single subunit, HECT, and CRLs. Plant signaling pathways including immune responses are controlled by several feedback pathways, which often include negative feedback; and they can be regulated by De-ubiquitination enzymes, degradation of transcription factors and the degradation of negative regulators of transcription.",
+            "score": 138.27256059646606
+        },
+        {
+            "docid": "3247517_6",
+            "document": "Deubiquitinating enzyme . DUBs play several roles in the ubiquitin pathway. One of the best characterised functions of DUBs is the removal of monoubiqutin and polyubiquitin chains from proteins. These modifications are a post translational modification (addition to a protein after it has been made) where single ubiquitin proteins or chains of ubiquitin are added to lysines of a substrate protein. These ubiquitin modifications are added to proteins by the ubiquitination machinery; ubiquitin-activating enzymes (E1s), ubiquitin-conjugating enzymes (E2s) and ubiquitin ligases (E3s). The end result is ubiquitin bound to lysine residues via an isopeptide bond. Proteins are affected by these modifications in a number of ways: they regulate the degradation of proteins via the proteasome and lysosome; coordinate the cellular localisation of proteins; activate and inactivate proteins; and modulate protein-protein interactions. DUBs play the antagonistic role in this axis by removing these modifications, therefore reversing the fate of the proteins. In addition, a less understood role of DUBs is the cleavage of ubiquitin-like proteins such as SUMO and NEDD8. Some DUBs may have the ability to cleave isopeptide bonds between these proteins and substrate proteins.",
+            "score": 134.06676423549652
+        },
+        {
+            "docid": "24603_32",
+            "document": "Proteasome . Earlier cell cycle checkpoints such as post-restriction point check between G phase and S phase similarly involve proteasomal degradation of cyclin A, whose ubiquitination is promoted by the anaphase promoting complex (APC), an E3 ubiquitin ligase. The APC and the Skp1/Cul1/F-box protein complex (SCF complex) are the two key regulators of cyclin degradation and checkpoint control; the SCF itself is regulated by the APC via ubiquitination of the adaptor protein, Skp2, which prevents SCF activity before the G1-S transition.",
+            "score": 208.64182996749878
+        },
+        {
+            "docid": "17533758_9",
+            "document": "3-M syndrome . The majority of 3-M syndrome patients have been identified with CUL7 mutations. The Cullin 7 gene contains instructions for making the protein Cullin-7. Cullin-7 acts as scaffold protein in the E3 ubiquitin ligase complex. The role of this complex is to tag damaged and excess proteins in the cell with ubiquitin. Intracellular and extracellular signals within the cell highly regulate when and which proteins are tagged with ubiquitin. Once attached to the protein, ubiquitin serves as a signaling molecule to the proteasomes, which then bind to the ubiquinated proteins and degrades them. This ubiquitin-proteasome system acts as the cell's quality control system by breaking down unwanted proteins. Additionally, the system regulates the level of proteins involved in critical cell activities such as the timing of cell division and growth. Mutations in the CUL7 gene blocks the ability of the cullin-7 protein to bring together the components of this E3 ubiquitin ligase complex. This leads to impaired ubiquination and hence the aggregation of damaged, misfolded, and excess proteins. Disruption of the protein degradation process plays a role in the pathogensis of prenatal growth retardation in humans, a key feature of 3-M syndrome. The skeletal abnormalities that are present in individuals with this disorder suggests that this gene may play a role in the endochondral ossification process. Preliminary data suggests that CUL7 is in fact involved in chondrocyte growth and proliferation.",
+            "score": 155.54039239883423
+        },
+        {
+            "docid": "33406736_2",
+            "document": "HECT domain . In molecular biology, the HECT domain is a protein domain found in ubiquitin-protein ligases. The name HECT comes from 'Homologous to the E6-AP Carboxyl Terminus'. Proteins containing this domain at the C terminus include ubiquitin-protein ligase, which regulates ubiquitination of CDC25. Ubiquitin-protein ligase accepts ubiquitin from an E2 ubiquitin-conjugating enzyme in the form of a thioester, and then directly transfers the ubiquitin to targeted substrates. A cysteine residue is required for ubiquitin-thiolester formation. Human thyroid receptor interacting protein 12 (TRIP12), which also contains this domain, is a component of an ATP-dependent multisubunit protein that interacts with the ligand binding domain of the thyroid hormone receptor. It could be an E3 ubiquitin-protein ligase. Human ubiquitin-protein ligase E3A interacts with the E6 protein of the cancer-associated Human papillomavirus type 16 and Human papillomavirus type 18. The E6/E6-AP complex binds to and targets the p53 tumour-suppressor protein for ubiquitin-mediated proteolysis.",
+            "score": 161.7637618780136
+        },
+        {
+            "docid": "51936048_5",
+            "document": "UBE2Z . The \"UBE2Z\" gene is ubiquitously expressed in human tissues, and its expression is relatively high in placenta, pancreas, spleen and testis. Notably, its expression in cancer tissues is much higher than in relevant normal tissues, especially in kidney, lymph node, colon and ovary cancer. As an E2 member of the ubiquitin-conjugating enzyme family, UBE2Z mainly participates in the second step of protein ubiquitination, which is a major component of protein degradation machinery. Specifically, UBE2Z receives ubiquitin (Ub) from ubiquitin-activating enzyme (E1), mediates the transfer of Ub from E2 to substrate, directly or indirectly with the help of ligase enzyme (E3), which interacts with the substrate and E2-Ub complex. UBE2Z could only be charged by Ub or FAT10 from UBA6 instead of UBA1, distinguishing it from other E2s.",
+            "score": 120.44937539100647
+        },
+        {
+            "docid": "14873471_6",
+            "document": "ADRM1 . As the degradation machinery that is responsible for ~70% of intracellular proteolysis, proteasome complex (26S proteasome) plays a critical roles in maintaining the homeostasis of cellular proteome. Accordingly, misfolded proteins and damaged protein need to be continuously removed to recycle amino acids for new synthesis; in parallel, some key regulatory proteins fulfill their biological functions via selective degradation; furthermore, proteins are digested into peptides for MHC class I antigen presentation. To meet such complicated demands in biological process via spatial and temporal proteolysis, protein substrates have to be recognized, recruited, and eventually hydrolyzed in a well controlled fashion. Thus, 19S regulatory particle pertains a series of important capabilities to address these functional challenges. To recognize protein as designated substrate, 19S complex has subunits that are capable to recognize proteins with a special degradative tag, the ubiquitinylation. It also have subunits that can bind with nucleotides (e.g., ATPs) in order to facilitate the association between 19S and 20S particles, as well as to cause confirmation changes of alpha subunit C-terminals that form the substate entrance of 20S complex. Rpn13 is one essential subunit of 19S regulatory particle and it contributes to the assembly of the \"base\" subcomplex. In the base sub complex, Rpn13, as a ubiquitin receptor, offers a docking position for ubiquitinated substrate. Evidence showed that ubiquitination of Rpn13 subunit can significantly reduced the proteasome's ability to bind and degrade ubiquitin-conjugated proteins. Most interestingly, investigation employing biochemical and unbiased AQUA-MS methodologies offered evidences showing that, although the vast majority (if not all) of the double-capped 26S proteasomes, both 19S complexes, contain the ubiquitin receptor Rpn10, only one of these 19S particles contains the additional ubiquitin receptor Rpn13, thereby defining asymmetry in the 26S proteasome. Such structural asymmetry might be the molecular foundation for the one-directional substrate feeding process of proteasome complex.",
+            "score": 140.47597777843475
+        },
+        {
+            "docid": "24603_20",
+            "document": "Proteasome . Proteins are targeted for degradation by the proteasome with covalent modification of a lysine residue that requires the coordinated reactions of three enzymes. In the first step, a ubiquitin-activating enzyme (known as E1) hydrolyzes ATP and adenylylates a ubiquitin molecule. This is then transferred to E1's active-site cysteine residue in concert with the adenylylation of a second ubiquitin. This adenylylated ubiquitin is then transferred to a cysteine of a second enzyme, ubiquitin-conjugating enzyme (E2). In the last step, a member of a highly diverse class of enzymes known as ubiquitin ligases (E3) recognizes the specific protein to be ubiquitinated and catalyzes the transfer of ubiquitin from E2 to this target protein. A target protein must be labeled with at least four ubiquitin monomers (in the form of a polyubiquitin chain) before it is recognized by the proteasome lid. It is therefore the E3 that confers substrate specificity to this system. The number of E1, E2, and E3 proteins expressed depends on the organism and cell type, but there are many different E3 enzymes present in humans, indicating that there is a huge number of targets for the ubiquitin proteasome system.",
+            "score": 133.03462648391724
+        },
+        {
+            "docid": "931508_2",
+            "document": "Parkin (ligase) . Parkin is a 465-residue E3 ubiquitin ligase that plays a critical role in ubiquitination- the process whereby molecules are covalently labelled with ubiquitin (Ub) and directed towards degradation in proteasomes or lysosomes. Ubiquitination involves the sequential action of three enzymes. Firstly, an E1 ubiquitin-activating enzyme binds to inactive Ub in eukaryotic cells via a thioester bond and mobilises it in an ATP-dependent process. Ub is then transferred to an E2 ubiquitin-conjugating enzyme before being conjugated to the target protein via an E3 ubiquitin ligase. There exists a multitude of E3 ligases, which differ in structure and substrate specificity to allow selective targeting of proteins to intracellular degradation.",
+            "score": 148.52343559265137
+        },
+        {
+            "docid": "7241138_14",
+            "document": "Endoplasmic-reticulum-associated protein degradation . As described before, the addition of polyubiquitin chains to ERAD substrates is crucial for their export. HIV uses an efficient mechanism to dislocate a single-membrane-spanning host protein, CD4, from the ER and submits it to ERAD.The Vpu protein of HIV-1 is a protein on the ER membrane and targets newly-made CD4 in the endoplasmic reticulum for degradation by cytosolic proteasomes. Vpu only utilizes part of the ERAD process to degrade CD4. CD4 is normally a stable protein and is not likely to be a target for ERAD. However, HIV produces the membrane protein Vpu that binds to CD4.The Vpu protein mainly retains the CD4 in the ER by SCF\u03b2-TrCP-dependent ubiquitination of the CD4 cytosolic tail and transmembrane domain (TMD) interactions. The CD4 Gly415 is a contributor to CD4-Vpu interactions, several TMD-mediated mechanisms by HIV-1 Vpu are necessary to downregulate CD4 and thus promote viral pathogenesis. CD4 retained in the ER will be a target for a variant ERAD pathway rather than predominantly appearing at the plasma membrane without the presence of Vpu through the RESET pathway. Vpu mediates the CD4 retention in the ER and the addition of degradation. As Vpu is phosphorylated, it mimics substrates for the E3 complex SCF. In cells that are infected with HIV, SCF interacts with Vpu and ubiquitinates CD4, which is subsequently degraded by the proteasome. Vpu itself escapes from the degradation.",
+            "score": 151.39751386642456
+        },
+        {
+            "docid": "46669355_17",
+            "document": "Polycomb Group Proteins and Cancer . E3 ubiquitin ligases are proteins that assist in tagging their targets with an epigenetic mark known as ubiquitin. This mark can serve several functions including marking proteins for degradation, signaling proteins to change their cellular location, affecting protein activity, and promoting or preventing protein interactions. An E3 uibiquitin ligase complex composed of Cullin 3 (CUL3), speckle-type POZ protein (SPOP), and RING-box protein 1 (RBX1) has been shown to mark the Bmi-1 with ubiquitin (a process known as ubiquitination).",
+            "score": 186.6516387462616
+        },
+        {
+            "docid": "35629387_3",
+            "document": "Kelch-like protein 3 . This gene is ubiquitously expressed and encodes a full-length protein which has an N-terminal BTB domain followed by a BACK domain and six kelch-like repeats in the C-terminus. These kelch-like repeats promote substrate ubiquitination of bound proteins via interaction of the BTB domain with the CUL3 (cullin 3) component of a cullin-RING E3 ubiquitin ligase (CRL) complex.",
+            "score": 127.4924168586731
+        },
+        {
+            "docid": "28990145_6",
+            "document": "Proteostasis . The third component of the proteostasis network is the protein degradation machinery. Protein degradation occurs in proteostasis when the cellular signals indicate the need to decrease overall cellular protein levels. The effects of protein degradation can be local, with the cell only experiencing effects from the loss of the degraded protein itself or widespread, with the entire protein landscape changing due to loss of other proteins\u2019 interactions with the degraded protein. Multiple substrates are targets for proteostatic degradation. These degradable substrates include nonfunctional protein fragments produced from ribosomal stalling during translation, misfolded or unfolded proteins, aggregated proteins, and proteins that are no longer needed to carry out cellular function. Several different pathways exist for carrying out these degradation processes. When proteins are determined to be unfolded or misfolded, they are typically degraded via the unfolded protein response (UPR) or endoplasmic-reticulum-associated protein degradation (ERAD). Substrates that are unfolded, misfolded, or no longer required for cellular function can also be ubiquitin tagged for degradation by ATP dependent proteases, such as the proteasome in eukaryotes or ClpXP in prokaryotes. Autophagy, or self engulfment, lysosomal targeting, and phagocytosis (engulfment of waste products by other cells) can also be used as proteostatic degradation mechanisms.",
+            "score": 134.78483033180237
+        },
+        {
+            "docid": "32167_3",
+            "document": "Ubiquitin . The addition of ubiquitin to a substrate protein is called ubiquitination or less frequently ubiquitylation. Ubiquitination affects proteins in many ways: it can mark them for degradation via the proteasome, alter their cellular location, affect their activity, and promote or prevent protein interactions. Ubiquitination involves three main steps: activation, conjugation, and ligation, performed by ubiquitin-activating enzymes (E1s), ubiquitin-conjugating enzymes (E2s), and ubiquitin ligases (E3s), respectively. The result of this sequential cascade is to bind ubiquitin to lysine residues on the protein substrate via an isopeptide bond, cysteine residues through a thioester bond, serine and threonine residues through an ester bond, or the amino group of the protein's N-terminus via a peptide bond.",
+            "score": 139.24304676055908
+        },
+        {
+            "docid": "26940632_4",
+            "document": "APC/C activator protein CDH1 . The anaphase-promoting complex/cyclosome (APC/c) is an ubiquitin E3-ligase complex. Once activated it attaches chains of ubiquitin molecules to its target substrates. These chains are recognised and the substrate is degraded by the Proteasome. Cdh1 is one of the co- activator proteins of APC/c and therefore contributes to the regulation of protein degradation, by providing substrate specificity to the E3-ligase in a cell cycle regulated manner.",
+            "score": 159.53065848350525
+        }
+    ],
+    "r": [
+        {
+            "docid": "622571_8",
+            "document": "Ubiquitin ligase . Humans have an estimated 500-1000 E3 ligases, which impart substrate specificity onto the E1 and E2. The E3 ligases are classified into four families: HECT, RING-finger, U-box, and PHD-finger. The RING-finger E3 ligases are the largest family and contain ligases such as the anaphase-promoting complex (APC) and the SCF complex (Skp1-Cullin-F-box protein complex). SCF complexes consist of four proteins: Rbx1, Cul1, Skp1, which are invariant among SCF complexes, and an F-box protein, which varies. Around 70 human F-box proteins have been identified. F-box proteins contain an F-box, which binds the rest of the SCF complex, and a substrate binding domain, which gives the E3 its substrate specificity.",
+            "score": 284.7674560546875
+        },
+        {
+            "docid": "14143884_3",
+            "document": "CUL1 . This is an essential component of the SCF (SKP1-CUL1-F-box protein) E3 ubiquitin ligase complex, which mediates the ubiquitination of proteins involved in cell cycle progression, signal transduction and transcription. In the SCF complex, it serves as a rigid scaffold that organizes the SKP1-F-box protein and RBX1 subunits. May contribute to catalysis through positioning of the substrate and the ubiquitin-conjugating enzyme.",
+            "score": 248.64698791503906
+        },
+        {
+            "docid": "19209638_7",
+            "document": "Cullin . With the exception of ANAPC2, each member of the cullin family is modified by Nedd8 and several cullins function in Ubiquitin-dependent proteolysis, a process in which the 26S proteasome recognises and subsequently degrades a target protein tagged with K48-linked poly-ubiquitin chains. Nedd8/Rub1 is a small ubiquitin-like protein, which was originally found to be conjugated to Cdc53, a cullin component of the SCF (Skp1-Cdc53/CUL1-F-box protein) E3 Ub ligase complex in \"Saccharomyces cerevisiae\" (Baker's yeast), and Nedd8 modification has now emerged as a regulatory pathway of fundamental importance for cell cycle control and for embryogenesis in metazoans. The only identified Nedd8 substrates are cullins. Neddylation results in covalent conjugation of a Nedd8 moiety onto a conserved cullin lysine residue.",
+            "score": 234.22982788085938
+        },
+        {
+            "docid": "26625162_2",
+            "document": "Cell division control protein 4 . Cdc4 (cell division control protein 4) is a substrate recognition component of the SCF (SKP1-CUL1-F-box protein) ubiquitin ligase complex, which acts as a mediator of ubiquitin transfer to target proteins, leading to their subsequent degradation via the ubiquitin-proteasome pathway. Cdc4 targets primarily cell cycle regulators for proteolysis. It serves the function of an adaptor that brings target molecules to the core SCF complex.  Cdc4 was originally identified in the model organism \"Saccharomyces cerevisiae\".  CDC4 gene function is required at G1/S and G2/M transitions during mitosis and at various stages during meiosis.",
+            "score": 231.0230712890625
+        },
+        {
+            "docid": "14877314_3",
+            "document": "FBXW11 . This gene encodes a member of the F-box protein family which is characterized by an approximately 40 residue structural motif, the F-box. The F-box proteins constitute one of the four subunits of ubiquitin protein ligase complex called SCFs (Skp1-Cul1-F-box protein), which often, but not always, recognize substrates in a phosphorylation-dependent manner. F-box proteins are divided into 3 classes:",
+            "score": 216.68896484375
+        },
+        {
+            "docid": "14723112_3",
+            "document": "BTRC (gene) . This gene encodes a member of the F-box protein family which is characterized by an approximately 40 residue structural motif, the F-box. The F-box proteins constitute one of the four subunits of ubiquitin protein ligase complex called SCFs (Skp1-Cul1-F-box protein), which often, but not always, recognize substrates in a phosphorylation-dependent manner. F-box proteins are divided into 3 classes:",
+            "score": 215.3942108154297
+        },
+        {
+            "docid": "15070471_3",
+            "document": "FBXW2 . F-box proteins are an expanding family of eukaryotic proteins characterized by an approximately 40 amino acid motif, the F box. Some F-box proteins have been shown to be critical for the ubiquitin-mediated degradation of cellular regulatory proteins. In fact, F-box proteins are one of the four subunits of ubiquitin protein ligases, called SCFs. SCF ligases bring ubiquitin conjugating enzymes to substrates that are specifically recruited by the different F-box proteins. Mammalian F-box proteins are classified into three groups based on the presence of either WD-40 repeats, leucine-rich repeats, or the presence or absence of other protein-protein interacting domains. This gene encodes the second identified member of the F-box gene family and contains multiple WD-40 repeats.",
+            "score": 212.6957244873047
+        },
+        {
+            "docid": "7627035_2",
+            "document": "SCF complex . Skp, Cullin, F-box containing complex (or SCF complex) is a multi-protein E3 ubiquitin ligase complex catalyzing the ubiquitination of proteins destined for proteasomal degradation. It has important roles in the ubiquitination of proteins involved in the cell cycle and also marks various other cellular proteins for destruction.",
+            "score": 208.8092498779297
+        },
+        {
+            "docid": "24603_32",
+            "document": "Proteasome . Earlier cell cycle checkpoints such as post-restriction point check between G phase and S phase similarly involve proteasomal degradation of cyclin A, whose ubiquitination is promoted by the anaphase promoting complex (APC), an E3 ubiquitin ligase. The APC and the Skp1/Cul1/F-box protein complex (SCF complex) are the two key regulators of cyclin degradation and checkpoint control; the SCF itself is regulated by the APC via ubiquitination of the adaptor protein, Skp2, which prevents SCF activity before the G1-S transition.",
+            "score": 208.64183044433594
+        },
+        {
+            "docid": "14754544_3",
+            "document": "FBXW7 . This gene encodes a member of the F-box protein family which is characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into 3 classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene was previously referred to as FBX30, and belongs to the Fbws class; in addition to an F-box, this protein contains 7 tandem WD40 repeats. This protein binds directly to cyclin E and probably targets cyclin E for ubiquitin-mediated degradation. Mutations in this gene are detected in ovarian, breast and colorectal cancer cell lines, implicating the gene's potential role in the pathogenesis of human cancers. Three transcript variants encoding three different isoforms have been found for this gene.",
+            "score": 205.99139404296875
+        },
+        {
+            "docid": "9434427_11",
+            "document": "F-box protein . F-box protein as a protein can be regulated in different mechanisms. The regulation can happen in the F-box protein synthesis process, protein degradation process and association with SCF complex process. For example, in yeast, the F-box protein Met30 can be ubiquitinated in a cullin-dependent manner.",
+            "score": 205.70497131347656
+        },
+        {
+            "docid": "15418892_3",
+            "document": "CCNF . This gene encodes a member of the cyclin family. Cyclins are important regulators of cell cycle transitions through their ability to bind and activate cyclin-dependent protein kinases. This member also belongs to the F-box protein family which is characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of the ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into 3 classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene belongs to the Fbxs class and it was one of the first proteins in which the F-box motif was identified.",
+            "score": 203.86300659179688
+        },
+        {
+            "docid": "55875000_3",
+            "document": "F-box protein 40 . Members of the F-box protein family, such as FBXO40, are characterized by an approximately 40-amino acid F-box motif. SCF complexes, formed by SKP1 (MIM 601434), cullin (see CUL1; MIM 603134), and F-box proteins, act as protein-ubiquitin ligases. F-box proteins interact with SKP1 through the F box, and they interact with ubiquitination targets through other protein interaction domains (Jin et al., 2004 [PubMed 15520277]).[supplied by OMIM, Mar 2008].",
+            "score": 201.70135498046875
+        },
+        {
+            "docid": "56844701_3",
+            "document": "F-box protein 15 . Members of the F-box protein family, such as FBXO15, are characterized by an approximately 40-amino acid F-box motif. SCF complexes, formed by SKP1 (MIM 601434), cullin (see CUL1; MIM 603134), and F-box proteins, act as protein-ubiquitin ligases. F-box proteins interact with SKP1 through the F box, and they interact with ubiquitination targets through other protein interaction domains (Jin et al., 2004 [PubMed 15520277]).[supplied by OMIM, Mar 2008].",
+            "score": 201.70135498046875
+        },
+        {
+            "docid": "14065868_3",
+            "document": "SKP2 . Skp2 contains 424 residues in total with the ~40 amino acid F-box domain lying closer to the N-terminal region at the 94-140 position and the C-terminal region forming a concave surface consisting of ten leucine-rich repeats (LRRs). The F-box proteins constitute one of the four subunits of ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which often\u2014but not always\u2014recognize substrates in a phosphorylation-dependent manner. In this SCF complex, Skp2 acts as the substrate recognition factor.",
+            "score": 201.54412841796875
+        },
+        {
+            "docid": "15416751_3",
+            "document": "FBXO31 . Members of the F-box protein family, such as FBXO31, are characterized by an approximately 40-amino acid F-box motif. SCF complexes, formed by SKP1 (MIM 601434), cullin (see CUL1; MIM 603134), and F-box proteins, act as protein-ubiquitin ligases. F-box proteins interact with SKP1 through the F box, and they interact with ubiquitination targets through other protein interaction domains (Jin et al., 2004).[supplied by OMIM]",
+            "score": 201.18264770507812
+        },
+        {
+            "docid": "51593830_3",
+            "document": "F-box protein 16 . This gene encodes a member of the F-box protein family, members of which are characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into three classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene belongs to the Fbx class. Multiple transcript variants encoding different isoforms have been found for this gene.",
+            "score": 199.88031005859375
+        },
+        {
+            "docid": "14766791_3",
+            "document": "FBXO5 . This gene encodes a member of the F-box protein family which is characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of the ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into 3 classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene belongs to the Fbxs class. This protein is similar to xenopus early mitotic inhibitor-1 (Emi1), which is a mitotic regulator that interacts with Cdc20 and inhibits the anaphase promoting complex.",
+            "score": 199.43357849121094
+        },
+        {
+            "docid": "40904952_3",
+            "document": "FBXL4 . This gene encodes a member of the F-box protein family which is characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into 3 classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene belongs to the Fbls class and, in addition to an F-box, contains at least 9 tandem leucine-rich repeats.",
+            "score": 198.69000244140625
+        },
+        {
+            "docid": "14877230_3",
+            "document": "KDM2A . This gene encodes a member of the F-box protein family which is characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into 3 classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene belongs to the Fbls class and, in addition to an F-box, contains at least 6 highly degenerated leucine-rich repeats.",
+            "score": 198.69000244140625
+        },
+        {
+            "docid": "496667_14",
+            "document": "Auxin . TIR1 proteins are F-box proteins that have three different domains giving them the ability to bind to three different ligands: an SCF ubiquitin ligase complex (using the F-box domain), auxin (so TIR1 proteins are auxin receptors), and Aux/IAA proteins (via a degron domain). Upon binding of auxin, a TIR1 protein's degron domain has increased affinity for Aux/IAA repressor proteins, which when bound to TIR1 and its SCF complex undergo ubiquitination and subsequent degradation by a proteasome. The degradation of Aux/IAA proteins frees ARF proteins to activate or repress genes at whose promoters they are bound.",
+            "score": 198.13377380371094
+        },
+        {
+            "docid": "26625162_6",
+            "document": "Cell division control protein 4 . Cdc4 is one component of the E3 complex SCF (CDC4), which comprises CDC53, SKP1, RBX1, and CDC4. Its 779 amino acids (in \"S. cerevisiae\") are arranged into one F-box domain (approximately 40 amino acids (\"F-box\" motif)) and 7 WD repeats.",
+            "score": 197.9364776611328
+        },
+        {
+            "docid": "670854_7",
+            "document": "Jasmonate . Because JAZ did not disappear in null \"coi1\" mutant plant backgrounds, protein COI1 was shown to mediate JAZ degradation. COI1 belongs to the family of highly conserved F-box proteins, and it recruits substrates for the E3 ubiquitin ligase SCF. The complexes that ultimately form are known as SCF complexes. These complexes bind JAZ and target it for proteasomal degradation. However, given the large spectrum of JA molecules, not all JA derivatives activate this pathway for signaling, and the range of those participating in this pathway is unknown. Thus far, only JA-Ile has been shown to be necessary for COI1-mediated degradation of JAZ11. JA-Ile and structurally related derivatives can bind to COI1-JAZ complexes and promote ubiquitination and thus degradation of the latter.",
+            "score": 197.85055541992188
+        },
+        {
+            "docid": "15076624_3",
+            "document": "FBXO11 . This gene encodes a member of the F-box protein family which is characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into 3 classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene belongs to the Fbxs class. Alternatively spliced transcript variants encoding distinct isoforms have been identified for this gene.",
+            "score": 197.0458984375
+        },
+        {
+            "docid": "40871326_3",
+            "document": "KDM2B . This gene encodes a member of the F-box protein family which is characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into 3 classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene belongs to the Fbls class. Multiple alternatively spliced transcript variants have been found for this gene, but the full-length nature of some variants has not been determined.",
+            "score": 196.98513793945312
+        },
+        {
+            "docid": "14798950_3",
+            "document": "FBXO7 . This gene encodes a member of the F-box protein family which is characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of the ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into 3 classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene belongs to the Fbxs class and it may play a role in regulation of hematopoiesis. Alternatively spliced transcript variants of this gene have been identified with the full-length natures of only some variants being determined.",
+            "score": 195.65756225585938
+        },
+        {
+            "docid": "14880218_3",
+            "document": "FBXO4 . This gene encodes a member of the F-box protein family which is characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of the ubiquitin ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into 3 classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene belongs to the Fbxs class. Alternative splicing of this gene generates 2 transcript variants.",
+            "score": 195.24453735351562
+        },
+        {
+            "docid": "16845933_3",
+            "document": "FBXO32 . This gene encodes a member of the F-box protein family which is characterized by an approximately 40 amino acid motif, the F-box. The F-box proteins constitute one of the four subunits of the ubiquitin protein ligase complex called SCFs (SKP1-cullin-F-box), which function in phosphorylation-dependent ubiquitination. The F-box proteins are divided into 3 classes: Fbws containing WD-40 domains, Fbls containing leucine-rich repeats, and Fbxs containing either different protein-protein interaction modules or no recognizable motifs. The protein encoded by this gene belongs to the Fbxs class and contains an F-box domain. This protein is highly expressed during muscle atrophy, whereas mice deficient in this gene were found to be resistant to atrophy. This protein is thus a potential drug target for the treatment of muscle atrophy. Alternative splicing of this gene results in two transcript variants encoding two isoforms of different sizes.",
+            "score": 191.8063507080078
+        },
+        {
+            "docid": "14146370_3",
+            "document": "SKP1A . This gene encodes a protein that is a member of the SCF ubiquitin ligase protein complex. It binds to F-box proteins (proteins containing an F-box motif), such as cyclin F, S-phase kinase-associated protein 2, and other regulatory proteins involved in ubiquitin dependent proteolysis. The encoded protein also collaborates with a network of proteins to control beta-catenin levels and affects the activity level of beta-catenin dependent TCF transcription factors. Studies have also characterized the protein as an RNA polymerase II elongation factor. Alternative splicing of this gene results in two transcript variants. A related pseudogene has been identified on chromosome 7.",
+            "score": 190.099609375
+        },
+        {
+            "docid": "13530848_8",
+            "document": "FBXL3 . The human \"FBXL3\" gene is located on the long arm of chromosome 13 at position 22.3. The protein is composed of 428 amino acids and has a mass of 48,707 Daltons. The FBXL3 protein contains an F-box domain, characterized by a 40 amino acid motif that mediates protein-protein interactions, and several tandem leucine-rich repeats used for substrate recognition. It has eight post-translational modification sites involving ubiquitination and four sites involving phosphorylation. The FBXL3 protein is predominantly localized to the nucleus. It is one of four subunits of a ubiquitin ligase complex called SKP1-CUL1-F-box-protein, which includes the proteins CUL1, SKP1, and RBX1.",
+            "score": 188.90155029296875
+        },
+        {
+            "docid": "46669355_17",
+            "document": "Polycomb Group Proteins and Cancer . E3 ubiquitin ligases are proteins that assist in tagging their targets with an epigenetic mark known as ubiquitin. This mark can serve several functions including marking proteins for degradation, signaling proteins to change their cellular location, affecting protein activity, and promoting or preventing protein interactions. An E3 uibiquitin ligase complex composed of Cullin 3 (CUL3), speckle-type POZ protein (SPOP), and RING-box protein 1 (RBX1) has been shown to mark the Bmi-1 with ubiquitin (a process known as ubiquitination).",
+            "score": 186.65164184570312
+        },
+        {
+            "docid": "9434427_2",
+            "document": "F-box protein . F-box proteins are proteins containing at least one F-box domain. The first identified F-box protein is one of three components of the SCF complex, which mediates ubiquitination of proteins targeted for degradation by the 26S proteasome.",
+            "score": 186.11178588867188
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "196130_7",
+            "document": "Bone marrow . The bone marrow stroma contains mesenchymal stem cells (MSCs), also known as marrow stromal cells. These are multipotent stem cells that can differentiate into a variety of cell types. MSCs have been shown to differentiate, in vitro or in vivo, into osteoblasts, chondrocytes, myocytes, marrow adipocytes and beta-pancreatic islets cells.",
+            "score": 401.766459941864
+        },
+        {
+            "docid": "3853380_37",
+            "document": "Stem-cell therapy . Most stem cells intended for regenerative therapy are generally isolated either from the patient's bone marrow or from adipose tissue. Mesenchymal stem cells can differentiate into the cells that make up bone, cartilage, tendons, and ligaments, as well as muscle, neural and other progenitor tissues, they have been the main type of stem cells studied in the treatment of diseases affecting these tissues. The number of stem cells transplanted into damaged tissue may alter efficacy of treatment. Accordingly, stem cells derived from bone marrow aspirates, for instance, are cultured in specialized laboratories for expansion to millions of cells. Although adipose-derived tissue also requires processing prior to use, the culturing methodology for adipose-derived stem cells is not as extensive as that for bone marrow-derived cells. While it is thought that bone-marrow derived stem cells are preferred for bone, cartilage, ligament, and tendon repair, others believe that the less challenging collection techniques and the multi-cellular microenvironment already present in adipose-derived stem cell fractions make the latter the preferred source for autologous transplantation.",
+            "score": 404.6472089290619
+        },
+        {
+            "docid": "31525679_14",
+            "document": "Stem cell lineage database . Fetal tissue stem cells can give rise to a variety of differentiated cell types. However, many adult tissues contain populations of stem cells that have the capacity for renewal after trauma, disease, or aging. Stem cells found in human adult bone marrow also possess the ability to differentiate into different cell types as well. These adult bone marrow cells give rise to mesenchymal stem cells these give rise to the regeneration of mesenchymal tissues such as bone, cartilage, muscle, ligament, tendon, adipose, and stroma. Unwanted cells were isolated through the process of a density gradient. After this process, the removal of hematopoietic stem cells and nonadherent cells were removed by changes in the medium. In the expanded cultures, hematopoietic stem cells were not found. The mesenchymal cells appeared to be different from marrow fibroblastic cells. \"As many as 50 million to 375 million cells were generated from a 10-ml marrow aspirate that was obtained from 19- to 57-year-old donors. This range of yield is expected for the expansion of primary cells. We isolated these cells from the marrow of over 350 donors, and the expanded mesenchymal cells from at least 50 donors were tested in three lineage assays, with all tested donors responding positively in these assays.",
+            "score": 417.70566487312317
+        },
+        {
+            "docid": "42606579_17",
+            "document": "Hematopoietic stem cell niche . Thirdly, the shearing forces experienced by HSCs from circulating cells has been suggested to play a role in hematopoietic activation. Fetal HSCs in the AGM have shown upregulated Runx1 in response to these forces, which would result in significant hematopoietic regulation in these cells. Despite the differences between the AGM and bone marrow, both are subjected to the circulation, and it is entirely possible that these same forces exist in this adult stem cell niche. Other characteristics, such as strain, geometry, and ligand profiles of the extracellular matrix (ECM) have been suggested as important in the maintenance of stem cell potential in these niches. Finally, the elasticity modulus of the ECM, partially provided by MSCs in the bone marrow, has been shown to direct the differentiation and activity of stem cells nearby. The landscape of the HSC niche in the bone marrow is constantly changing, and the acellular factors, as much as the cellular factors, are beginning to reveal the complexity of hematopoietic regulation.",
+            "score": 382.3736196756363
+        },
+        {
+            "docid": "30876356_5",
+            "document": "Mesenchymal stem cell . Bone marrow was the original source of MSCs, and still is the most frequently utilized. These bone marrow stem cells do not contribute to the formation of blood cells and so do not express the hematopoietic stem cell marker CD34. They are sometimes referred to as \"bone marrow stromal stem cells\".",
+            "score": 425.25020718574524
+        },
+        {
+            "docid": "53901341_7",
+            "document": "Marrow adipose tissue . To improve quantification of MAT, novel imaging techniques have been developed as a means to visualize and quantify MAT. Although proton magnetic resonance spectroscopy (1H-MRS) has been used with success to quantify vertebral MAT in humans, it is difficult to employ in laboratory animals. Magnetic resonance imaging (MRI) provides MAT assessment in the vertebral skeleton in conjunction with \u03bcCT-based marrow density measurements. A volumetric method to identify, quantify, and localize MAT in rodent bone has been recently developed, requiring osmium staining of bones and \u03bcCT imaging, followed by advanced image analysis of osmium-bound lipid volume (in mm) relative to bone volume. This technique provides reproducible quantification and visualization of MAT, enabling the ability to consistently quantify changes in MAT with diet, exercise, and agents that constrain precursor lineage allocation. Although the osmium method is quantitatively precise, osmium is toxic and cannot be compared across batched experiments. Recently, researchers developed and validated a 9.4T MRI scanner technique that allows localization and volumetric (3D) quantification that can be compared across experiments.  Hematopoietic cells (also known as blood cells) reside in the bone marrow along with marrow adipocytes. These hematopoietic cells are derived from hematopoietic stem cells (HSC) which give rise to diverse cells: cells of the blood, immune system, as well as cells that break down bone (osteoclasts). HSC renewal occurs in the marrow stem cell niche, a microenvironment that contains cells and secreted factors that promote appropriate renewal and differentiation of HSC. The study of the stem cell niche is relevant to the field of oncology in order to improve therapy for multiple hematologic cancers. As such cancers are often treated with bone marrow transplantation, there is interest in improving the renewal of HSC. Recent work demonstrates that marrow adipocytes secrete factors that promote HSC renewal in most bones.",
+            "score": 391.29751801490784
+        },
+        {
+            "docid": "42606579_16",
+            "document": "Hematopoietic stem cell niche . It has also been found that calcium ions can act as chemotactic signals to HSCs via the G protein\u2013coupled receptor (GPCR) calcium-sensing receptor (CaSR). CaSR knockout mice have shown hematopoietic cells in the circulation and spleen, but few in the bone marrow, indicating this receptor's importance in this particular niche. Conversely, stimulation of HSC CaSR via its agonist cinacalcet increases migration and engraftment of these cells in the bone marrow. Finally, osteoclast inhibition by the bisphosphonate alendronate has correlated with decreased HSCs and bone marrow engraftment. Taken together, these results suggest that the high calcium ion concentration found in the endosteal niche due to osteoclast activity acts as a homing signal to HSCs for engraftment into the bone marrow via the CaSR.",
+            "score": 315.3604197502136
+        },
+        {
+            "docid": "10213576_27",
+            "document": "Stem-cell niche . Vertebrate hematopoietic stem cells niche in the bone marrow is formed by cells subendosteal osteoblasts, sinusoidal endothelial cells and bone marrow stromal (also sometimes called reticular) cells which includes a mix of fibroblastoid, monocytic and adipocytic cells (which comprise marrow adipose tissue).",
+            "score": 445.2719714641571
+        },
+        {
+            "docid": "3070443_8",
+            "document": "Stem-cell line . Adult stem cells are found in juvenile or adult tissues. Adult stem cells are multipotent: they can generate a limited number of differentiated cell types (unlike pluripotent embryonic stem cells). Types of adult stem cells include hematopoietic stem cells and mesenchymal stem cells. Hematopoetic stem cells are found in the bone marrow and generate all cells of the immune system all blood cell types. Mesenchymal stem cells are found in umbilical cord blood, amniotic fluid, and adipose tissue and can generate a number of cell types, including osteoblasts, chondrocytes, and adipocytes. In medicine, adult stem cells are mostly commonly used in bone marrow transplants to treat many bone and blood cancers as well as some autoimmune diseases. (See Hematopoietic stem cell transplantation)",
+            "score": 444.82877230644226
+        },
+        {
+            "docid": "42606579_13",
+            "document": "Hematopoietic stem cell niche . Interestingly, HSCs in the bone marrow do not show the same characteristics as HSCs in other niches. It is well known that HSCs in the fetal liver display increased cell divisions, whereas adult bone marrow HSCs are mostly quiescent. This difference stems, in part, from signaling discrepancies in the two niches. Sox17 has been identified as crucial for the generation of fetal, but not adult, HSCs. Inactivation of Runx1 in adult HSCs does not impair function, but rather prevents the differentiation of specific lineages. Differences such as these in the reactivity of HSCs from different niches suggests that the signaling found there is not the same.",
+            "score": 346.57338309288025
+        },
+        {
+            "docid": "196130_6",
+            "document": "Bone marrow . At the cellular level, the main functional component of bone marrow includes the progenitor cells which are destined to mature into blood and lymphoid cells. Marrow contains hematopoietic stem cells which give rise to the three classes of blood cells that are found in circulation: white blood cells (leukocytes), red blood cells (erythrocytes), and platelets (thrombocytes). The stroma of the bone marrow includes all tissue not directly involved in the marrow's primary function of hematopoiesis. Stromal cells may be indirectly involved in hematopoiesis, providing a microenvironment that influences the function and differentiation of hematopoeietic cells. For instance, they generate colony stimulating factors, which have a significant effect on hematopoiesis. Cell types that constitute the bone marrow stroma include:",
+            "score": 415.45088505744934
+        },
+        {
+            "docid": "960559_5",
+            "document": "Stromal cell-derived factor 1 . CXCL12 is expressed in many tissues in mice including brain, thymus, heart, lung, liver, kidney, spleen, and bone marrow. CXCL12 is strongly chemotactic for lymphocytes. During embryogenesis, it directs the migration of hematopoietic cells from fetal liver to bone marrow and the formation of large blood vessels. It has also been shown that CXCL12 signalling regulates the expression of CD20 on B cells. CXCL12 is also chemotactic for mesenchymal stem cells and is expressed in the area of inflammatory bone destruction, where it mediates their suppressive effect on osteoclastogenesis.",
+            "score": 366.3824565410614
+        },
+        {
+            "docid": "4099_30",
+            "document": "Bone . The cancellous part of bones contain bone marrow. Bone marrow produces blood cells in a process called hematopoiesis. Blood cells that are created in bone marrow include red blood cells, platelets and white blood cells. Progenitor cells such as the hematopoietic stem cell divide in a process called mitosis to produce precursor cells. These include precursors which eventually give rise to white blood cells, and erythroblasts which give rise to red blood cells. Unlike red and white blood cells, created by mitosis, platelets are shed from very large cells called megakaryocytes. This process of progressive differentiation occurs within the bone marrow. After the cells are matured, they enter the circulation. Every day, over 2.5 billion red blood cells and platelets, and 50\u2013100 billion granulocytes are produced in this way.",
+            "score": 362.9593012332916
+        },
+        {
+            "docid": "514458_61",
+            "document": "Wound healing . In rare circumstances, such as extensive cutaneous injury, self-renewal subpopulations in the bone marrow are induced to participate in the healing process, whereby they give rise to collagen-secreting cells that seem to play a role during wound repair. These two self-renewal subpopulations are (1) bone marrow-derived mesenchymal stem cells (MSC) and (2) hematopoietic stem cells (HSC). Bone marrow also harbors a progenitor subpopulation (endothelial progenitor cells or EPC) that, in the same type of setting, are mobilized to aid in the reconstruction of blood vessels. Moreover, it thought that, extensive injury to skin also promotes the early trafficking of a unique subclass of leukocytes (circulating fibrocytes) to the injured region, where they perform various functions related to wound healing.",
+            "score": 341.36815881729126
+        },
+        {
+            "docid": "31270321_2",
+            "document": "Clinical uses of mesenchymal stem cells . Adult mesenchymal stem cells (MSCs) are being used by researchers in the fields of regenerative medicine and tissue engineering, to artificially reconstruct human tissue which has been previously damaged. Mesenchymal stem cells have the capacity to become any type of fully developed cell, which can contribute to replacing muscle tissues or internal organs. To help discover the therapeutic uses of these stem cells they are grown in laboratories or by using medication to stimulate new cell growth within the human body. In MSC therapy the cells are extracted from the adult patient\u2019s bone marrow via a procedure called bone marrow aspiration. This usually involves inserting a needle into the back of the patients hip bone and removing the sample from there. These cells are then grown under controlled \"in vitro\" conditions in a lab, so that they can multiply and same time mature( also referred to as differentiated. This process may take two to three weeks. The kind of mature, fully differentiated cell phenotype and the number of those cells created though this can be influenced in three ways. Firstly by varying the initial seed density in the culture medium, secondly through changing the conditions of the medium during expansion, and lastly through the addition of additives such as proteins or growth hormones to the culture medium. They are then harvested and put back into the patient through local delivery or systemic infusion.",
+            "score": 385.1993992328644
+        },
+        {
+            "docid": "1264088_2",
+            "document": "Hematopoietic stem cell . Hematopoietic stem cells (HSCs) are the stem cells that give rise to other blood cells. This process is called haematopoiesis.<ref name=\"Birbrair n/a\u2013n/a\"></ref> This process occurs in the red bone marrow, in the core of most bones. In embryonic development, the red bone marrow is derived from the layer of the embryo called the mesoderm.",
+            "score": 400.3434793949127
+        },
+        {
+            "docid": "196130_2",
+            "document": "Bone marrow . Bone marrow is a semi-solid tissue which may be found within the spongy or cancellous portions of bones. In birds and mammals, bone marrow is the primary site of new blood cell production or hematopoiesis. It is composed of hematopoietic cells, marrow adipose tissue, and supportive stromal cells. In adult humans, bone marrow is primarily located in the ribs, vertebrae, sternum, and bones of the pelvis. On average, bone marrow constitutes 4% of the total body mass of humans; in an adult having 65 kilograms of mass (143 lb), bone marrow typically accounts for approximately .",
+            "score": 334.6261612176895
+        },
+        {
+            "docid": "196130_8",
+            "document": "Bone marrow . The blood vessels of the bone marrow constitute a barrier, inhibiting immature blood cells from leaving the marrow. Only mature blood cells contain the membrane proteins, such as aquaporin and glycophorin, that are required to attach to and pass the blood vessel endothelium. Hematopoietic stem cells may also cross the bone marrow barrier, and may thus be harvested from blood.",
+            "score": 331.39053297042847
+        },
+        {
+            "docid": "419094_15",
+            "document": "Adipose tissue . Marrow fat, also known as marrow adipose tissue (MAT), is a poorly understood adipose depot that resides in the bone and is interspersed with hematopoietic cells as well as bony elements. The adipocytes in this depot are derived from mesenchymal stem cells (MSC) which can give rise to fat cells, bone cells as well as other cell types. The fact that MAT increases in the setting of calorie restriction/ anorexia is a feature that distinguishes this depot from other fat depots. Exercise regulates MAT, decreasing MAT quantity and diminishing the size of marrow adipocytes. The exercise regulation of marrow fat suggests that it bears some physiologic similarity to other white adipose depots. Moreover, increased MAT in obesity further suggests a similarity to white fat depots.",
+            "score": 328.1813689470291
+        },
+        {
+            "docid": "2281415_3",
+            "document": "CD34 . CD34 derives its name from the cluster of differentiation protocol that identifies cell surface antigens. CD34 was first described on hematopoietic stem cells independently by Civin et al. and Tindle et al. as a cell surface glycoprotein and functions as a cell-cell adhesion factor. It may also mediate the attachment of hematopoietic stem cells to bone marrow extracellular matrix or directly to stromal cells. Clinically, it is associated with the selection and enrichment of hematopoietic stem cells for bone marrow transplants. Due to these historical and clinical associations, CD34 expression is almost ubiquitously related to hematopoietic cells however it is actually found on many other cell types as well.",
+            "score": 398.6496937274933
+        },
+        {
+            "docid": "4099_8",
+            "document": "Bone . Cancellous bone, also called trabecular or spongy bone, is the internal tissue of the skeletal bone and is an open cell porous network. Cancellous bone has a higher surface-area-to-volume ratio than cortical bone because it is less dense. This makes it weaker and more flexible. The greater surface area also makes it suitable for metabolic activities such as the exchange of calcium ions. Cancellous bone is typically found at the ends of long bones, near joints and in the interior of vertebrae. Cancellous bone is highly vascular and often contains red bone marrow where haematopoiesis, the production of blood cells, occurs. The primary anatomical and functional unit of cancellous bone is the trabecula. The trabeculae are aligned towards the mechanical load distribution that a bone experiences within long bones such as the femur. As far as short bones are concerned, trabecular alignment has been studied in the vertebral pedicle. Thin formations of osteoblasts covered in endosteum create an irregular network of spaces, known as trabeculae. Within these spaces are bone marrow and hematopoietic stem cells that give rise to platelets, red blood cells and white blood cells. Trabecular marrow is composed of a network of rod- and plate-like elements that make the overall organ lighter and allow room for blood vessels and marrow. Trabecular bone accounts for the remaining 20% of total bone mass but has nearly ten times the surface area of compact bone.",
+            "score": 316.37492871284485
+        },
+        {
+            "docid": "7430201_5",
+            "document": "National Marrow Donor Program . Hematopoietic cells are used to transplant patients with life-threatening disorders such as leukemia, lymphoma, aplastic anemia, as well as certain immune system and metabolic disorders. Hematopoietic cells can come from bone marrow, umbilical cord blood, or the circulating blood (peripheral blood stem cells (PBSCs)). Hematopoietic cells are a type of adult (i.e., non-embryonic) stem cell that can multiply and differentiate into the three types of blood cells: red blood cells, white blood cells, and platelets. Bone marrow and PBSCs come from living adult donors. Bone marrow is extracted from the donor's pelvic bones while the donor is under general or local anesthesia. PBSCs are collected from the donor's blood after five or six days of taking a drug that causes hematopoietic cells in the bone marrow to move into the circulating blood. In both cases, recovery is usually swift and donors typically have fully restored marrow and blood cell counts in under two weeks.",
+            "score": 397.46151423454285
+        },
+        {
+            "docid": "19115497_4",
+            "document": "Stem cell transplantation for articular cartilage repair . Research into MSC\u2019s has exploded in recent years. As an example, a PubMed search for the year 1999 reveals about 90 papers published under the MESH heading of \u201cMesenchymal Stem Cells\u201d, the same search ran for the year 2007 reveals more than 4,000 entries. The most commonly used source of MSC\u2019s is bone marrow aspirate. Most of the adult bone marrow consists of blood cells in various stages of differentiation. These marrow components can be divided into plasma, red blood cells, platelets, and nucleated cells. The adult stem cell fraction is present in the nucleated cells of the marrow. Most of these cells are CD34+ heme progenitors (destined to differentiate into blood components), while very few are actually MSC\u2019s capable of differentiating into bone, cartilage, or muscle. As a result, that leaves the very small number of MSC\u2019s in the marrow as cells capable of differentiating into tissues of interest to joint preservation. Of note, this may be one of the reasons that commercially available centrifuge systems that concentrate marrow nucleated cells have not shown as much promise in animal research for cartilage repair as have approaches where MSC\u2019s are expanded in culture to greater numbers.",
+            "score": 381.4597599506378
+        },
+        {
+            "docid": "26981243_2",
+            "document": "Osteochondroprogenitor cell . Osteochondroprogenitor cells are progenitor cells that arise from mesenchymal stem cells (MSC) in the bone marrow. They have the ability to differentiate into osteoblasts or chondrocytes depending on the signalling molecules they are exposed to, giving rise to either bone or cartilage respectively.  Osteochondroprogenitor cells are important for bone formation and maintenance.",
+            "score": 317.05603981018066
+        },
+        {
+            "docid": "575810_51",
+            "document": "Hematopoietic stem cell transplantation . Stem cell transplantation was pioneered using bone-marrow-derived stem cells by a team at the Fred Hutchinson Cancer Research Center from the 1950s through the 1970s led by E. Donnall Thomas, whose work was later recognized with a Nobel Prize in Physiology or Medicine. Thomas' work showed that bone marrow cells infused intravenously could repopulate the bone marrow and produce new blood cells. His work also reduced the likelihood of developing a life-threatening complication called graft-versus-host disease.",
+            "score": 370.87210726737976
+        },
+        {
+            "docid": "4099_11",
+            "document": "Bone . Bone is a metabolically active tissue composed of several types of cells. These cells include osteoblasts, which are involved in the creation and mineralization of bone tissue, osteocytes, and osteoclasts, which are involved in the reabsorption of bone tissue. Osteoblasts and osteocytes are derived from osteoprogenitor cells, but osteoclasts are derived from the same cells that differentiate to form macrophages and monocytes. Within the marrow of the bone there are also hematopoietic stem cells. These cells give rise to other cells, including white blood cells, red blood cells, and platelets.",
+            "score": 382.92362451553345
+        },
+        {
+            "docid": "42606579_12",
+            "document": "Hematopoietic stem cell niche . Hematopoiesis then moves to the bone marrow at E18 in mice and 12wpc in humans, where it will reside permanently for the remainder of the individual's lifetime. In mice, there is a shift from the fetal liver to the spleen at E14, where it persists for many weeks postnatally while it occurs simultaneously in the bone marrow. This relocalization is thought to be supported by the development of osteoblast and chondrocyte precursor cells capable of forming an HSC niche. In addition to the previously mentioned signals that induce HSC migration, TIE2-angiopoietin and CD44-E-cadherin binding appears to be important for this event to occur, as well as for the retention of these HSCs once they are in the bone marrow.",
+            "score": 324.2831573486328
+        },
+        {
+            "docid": "20177552_22",
+            "document": "Transplantable organs and tissues . \"Hematopoietic stem cell transplantation\" (HSCT) is the transplantation of blood stem cells derived from the bone marrow (that is, \"bone marrow transplantation\") or blood. Stem cell transplantation is a medical procedure in the fields of hematology and oncology, most often performed for people with diseases of the blood, bone marrow, or certain types of cancer.",
+            "score": 387.0969421863556
+        },
+        {
+            "docid": "42606579_20",
+            "document": "Hematopoietic stem cell niche . Finally, both ECs and adipocytes have been suggested to influence HSC activity in the bone marrow. Studies using antibody-mediated disruption of the VEGF receptors on ECs correlated with poor engraftment of donor cells. HUVECs, or endothelial cells isolated from umbilical veins, that were programmed via viral gene manipulation to signal through the Notch and Angiopoietin pathways were found to support and maintain LT-HSCs. Despite the difficulty in isolating sinusoidal ECs, experimental evidence suggests that these cells may play a role in regulating HSCs. Current research suggests that adipocytes in the bone marrow negatively regulate HSC activity. HSCs isolated from adipocyte-rich vertebrae displayed decreased activity. In addition, isolation of adipocyte-containing stromal cells have shown adipocyte inhibition of the ability of HSCs to proliferate and form hematopoietic colonies.",
+            "score": 341.2179138660431
+        },
+        {
+            "docid": "16107090_3",
+            "document": "Peripheral stem cell transplantation . Immature blood cells hematopoietic stem cells in the circulating blood that are similar to those in the bone marrow are collected by apheresis from a potential donor (PBSC collection). The product is then administered intravenously to the patient after treatment. The administered hematopoietic stem cells then migrate to the recipient's bone marrow, a process known as stem cell homing, where the transplanted cells override the previous bone marrow. This allows the bone marrow to recover, proliferate and continue producing healthy blood cells.",
+            "score": 385.5353670120239
+        },
+        {
+            "docid": "419986_9",
+            "document": "Osteoblast . Osteoclasts break down bone tissue, and along with osteoblasts and osteocytes form the structural components of bone. In the hollow within bones are many other cell types of the bone marrow. Components that are essential for osteoblast bone formation include mesenchymal stem cells (osteoblast precursor) and blood vessels that supply oxygen and nutrients for bone formation. Bone is a highly vascular tissue, and active formation of blood vessel cells, also from mesenchymal stem cells, is essential to support the metabolic activity of bone. The balance of bone formation and bone resorption tends to be negative with age, particularly in post-menopausal women, often leading to a loss of bone serious enough to cause fractures, which is called osteoporosis.",
+            "score": 361.9445962905884
+        },
+        {
+            "docid": "36315057_100",
+            "document": "Induced stem cells . mesenchymal stem/stromal cells (MSCs) are under investigation for applications in cardiac, renal, neural, joint and bone repair, as well as in inflammatory conditions and hemopoietic cotransplantation. This is because of their immunosuppressive properties and ability to differentiate into a wide range of mesenchymal-lineage tissues. MSCs are typically harvested from adult bone marrow or fat, but these require painful invasive procedures and are low-frequency sources, making up only 0.001\u20130.01% of bone marrow cells and 0.05% in liposuction aspirates. Of concern for autologous use, in particular in the elderly most in need of tissue repair, MSCs decline in quantity and quality with age.",
+            "score": 363.99637269973755
+        }
+    ],
+    "r": [
+        {
+            "docid": "10213576_27",
+            "document": "Stem-cell niche . Vertebrate hematopoietic stem cells niche in the bone marrow is formed by cells subendosteal osteoblasts, sinusoidal endothelial cells and bone marrow stromal (also sometimes called reticular) cells which includes a mix of fibroblastoid, monocytic and adipocytic cells (which comprise marrow adipose tissue).",
+            "score": 445.27197265625
+        },
+        {
+            "docid": "3070443_8",
+            "document": "Stem-cell line . Adult stem cells are found in juvenile or adult tissues. Adult stem cells are multipotent: they can generate a limited number of differentiated cell types (unlike pluripotent embryonic stem cells). Types of adult stem cells include hematopoietic stem cells and mesenchymal stem cells. Hematopoetic stem cells are found in the bone marrow and generate all cells of the immune system all blood cell types. Mesenchymal stem cells are found in umbilical cord blood, amniotic fluid, and adipose tissue and can generate a number of cell types, including osteoblasts, chondrocytes, and adipocytes. In medicine, adult stem cells are mostly commonly used in bone marrow transplants to treat many bone and blood cancers as well as some autoimmune diseases. (See Hematopoietic stem cell transplantation)",
+            "score": 444.8287658691406
+        },
+        {
+            "docid": "30876356_5",
+            "document": "Mesenchymal stem cell . Bone marrow was the original source of MSCs, and still is the most frequently utilized. These bone marrow stem cells do not contribute to the formation of blood cells and so do not express the hematopoietic stem cell marker CD34. They are sometimes referred to as \"bone marrow stromal stem cells\".",
+            "score": 425.2502136230469
+        },
+        {
+            "docid": "2965167_12",
+            "document": "NINDS brain trauma research . The use of stem cells to repair or replace damaged brain tissue is a new and exciting avenue of research. A neural stem cell is a special kind of cell that can multiply and give rise to other more specialized cell types. These cells are found in adult neural tissue and normally develop into several different cell types found within the central nervous system. NINDS researchers are investigating the ability of stem cells to develop into neurotransmitter-producing neurons, specifically dopamine-producing cells. Researchers are also looking at the power of stem cells to develop into oligodendrocytes, a type of brain cell that produces myelin, the fatty sheath that surrounds and insulates axons. One study in mice has shown that bone marrow stem cells can develop into neurons, demonstrating that neural stem cells are not the only type of stem cell that could be beneficial in the treatment of brain and nervous system disorders. At the moment, stem cell research for TBI is in its infancy, but future research may lead to advances for treatment and rehabilitation.",
+            "score": 422.33197021484375
+        },
+        {
+            "docid": "31525679_14",
+            "document": "Stem cell lineage database . Fetal tissue stem cells can give rise to a variety of differentiated cell types. However, many adult tissues contain populations of stem cells that have the capacity for renewal after trauma, disease, or aging. Stem cells found in human adult bone marrow also possess the ability to differentiate into different cell types as well. These adult bone marrow cells give rise to mesenchymal stem cells these give rise to the regeneration of mesenchymal tissues such as bone, cartilage, muscle, ligament, tendon, adipose, and stroma. Unwanted cells were isolated through the process of a density gradient. After this process, the removal of hematopoietic stem cells and nonadherent cells were removed by changes in the medium. In the expanded cultures, hematopoietic stem cells were not found. The mesenchymal cells appeared to be different from marrow fibroblastic cells. \"As many as 50 million to 375 million cells were generated from a 10-ml marrow aspirate that was obtained from 19- to 57-year-old donors. This range of yield is expected for the expansion of primary cells. We isolated these cells from the marrow of over 350 donors, and the expanded mesenchymal cells from at least 50 donors were tested in three lineage assays, with all tested donors responding positively in these assays.",
+            "score": 417.7056579589844
+        },
+        {
+            "docid": "196130_6",
+            "document": "Bone marrow . At the cellular level, the main functional component of bone marrow includes the progenitor cells which are destined to mature into blood and lymphoid cells. Marrow contains hematopoietic stem cells which give rise to the three classes of blood cells that are found in circulation: white blood cells (leukocytes), red blood cells (erythrocytes), and platelets (thrombocytes). The stroma of the bone marrow includes all tissue not directly involved in the marrow's primary function of hematopoiesis. Stromal cells may be indirectly involved in hematopoiesis, providing a microenvironment that influences the function and differentiation of hematopoeietic cells. For instance, they generate colony stimulating factors, which have a significant effect on hematopoiesis. Cell types that constitute the bone marrow stroma include:",
+            "score": 415.45086669921875
+        },
+        {
+            "docid": "30876356_2",
+            "document": "Mesenchymal stem cell . Mesenchymal stem cells are multipotent stromal cells that can differentiate into a variety of cell types, including osteoblasts (bone cells), chondrocytes (cartilage cells), myocytes (muscle cells) and adipocytes (fat cells which give rise to marrow adipose tissue).",
+            "score": 408.7074279785156
+        },
+        {
+            "docid": "2777285_8",
+            "document": "Adult stem cell . Mesenchymal stem cells (MSCs) are of stromal origin and may differentiate into a variety of tissues. MSCs have been isolated from placenta, adipose tissue, lung, bone marrow and blood, Wharton's jelly from the umbilical cord, and teeth (perivascular niche of dental pulp and periodontal ligament). MSCs are attractive for clinical therapy due to their ability to differentiate, provide trophic support, and modulate innate immune response. These cells have the ability to differentiate into various cell types such as osteoblasts, chondroblasts, adipocytes, neuroectodermal cells, and hepatocytes. Bioactive mediators that favor local cell growth are also secreted by MSCs. Anti-inflammatory effects on the local microenvironment, which promote tissue healing, are also observed. The inflammatory response can be modulated by adipose-derived regenerative cells (ADRC) including mesenchymal stem cells and regulatory T-lymphocytes. The mesenchymal stem cells thus alter the outcome of the immune response by changing the cytokine secretion of dendritic and T-cell subsets. This results in a shift from a pro-inflammatory environment to an anti-inflammatory or tolerant cell environment.",
+            "score": 406.9335632324219
+        },
+        {
+            "docid": "30078841_10",
+            "document": "Siddhartha Mukherjee . A trained haematologist and oncologist, Mukherjee's research focuses on the links between normal stem cells and cancer cells. Through his findings, he had shown the roles of cells in cancer therapy. He has been investigating the microenvironment (\"niche\") of stem cells, particularly on blood-forming stem cells (called haematopoietic stem cells ). Blood-forming stem cells are present in the bone marrow in very specific microenvironments. Osteoblasts, cells that form bone, are one of the principal components this environment. These cells regulate the process of blood cell formation and development by providing them with signals to divide, remain quiescent, or maintain their stem cell properties. Distortion in the development of these cells results in severe blood cancers, such as myelodysplastic syndrome and leukemia. Mukherjee's research has been recognised through many grants from the National Institutes of Health and from private foundations.",
+            "score": 405.0863037109375
+        },
+        {
+            "docid": "3853380_37",
+            "document": "Stem-cell therapy . Most stem cells intended for regenerative therapy are generally isolated either from the patient's bone marrow or from adipose tissue. Mesenchymal stem cells can differentiate into the cells that make up bone, cartilage, tendons, and ligaments, as well as muscle, neural and other progenitor tissues, they have been the main type of stem cells studied in the treatment of diseases affecting these tissues. The number of stem cells transplanted into damaged tissue may alter efficacy of treatment. Accordingly, stem cells derived from bone marrow aspirates, for instance, are cultured in specialized laboratories for expansion to millions of cells. Although adipose-derived tissue also requires processing prior to use, the culturing methodology for adipose-derived stem cells is not as extensive as that for bone marrow-derived cells. While it is thought that bone-marrow derived stem cells are preferred for bone, cartilage, ligament, and tendon repair, others believe that the less challenging collection techniques and the multi-cellular microenvironment already present in adipose-derived stem cell fractions make the latter the preferred source for autologous transplantation.",
+            "score": 404.647216796875
+        },
+        {
+            "docid": "14932277_10",
+            "document": "Franz Ernst Christian Neumann . In 1869, Neumann described the \"lymphoid marrow cell\" in the bone marrow. \"\"It is evident, that a continuing transformation of lymphoid cells into coloured blood cells takes place in the bone marrow during the whole life\"\" (Neumann 1869 and B.P., p.19). This \"lympoid marrow cell\" forms not only the erythropoiesis but it is capable (in itself) to self regeneration: \"\"In order of the size differences of the lymphoid marrow-cells, we will be able to suppose that a permanent fluctuation will take place in the bone marrow\"\" (Neumann 1869 and B.P. p.30). Until 1912 Neumann called the stem cell \"lymphocyte\", \"great lymphocyte\" or \"lymphomyeloblast\". Since that time, he declared: \"\"The different forms of all blood cells happening in the blood, the lymph-organs and in the bone marrow are all descendants of the great-lymphocytic stem cell.\"\" (Neumann 1912, also B.P., page 313). \"\"In which way this stem cell completes itself again and again, whether exclusively by a mitotic division or also from other cells particularly from cells of the mesenteric tissue, may be discussed\"\" (Neumann 1912, also B.P. page 313). Neumann was advocate of the Unitarien Point of View: All blood cells shall be descended from this post embryonic stem cell. As it is well known, a quarrel broke out between dualists and unitarians (Paul Ehrlich). Neumann's farsightedness demanded a stem cell culture for the completion of the quarrel: \"\"Perhaps a final decision will only arrive, if it possible, to isolate the individual colourless cells and to study its life events in vitro culture for some time, as Robert Koch demonstrated with the bacteria\"\" (Neumann 1912, B.P., p.\u00a0329).",
+            "score": 402.2243347167969
+        },
+        {
+            "docid": "196130_7",
+            "document": "Bone marrow . The bone marrow stroma contains mesenchymal stem cells (MSCs), also known as marrow stromal cells. These are multipotent stem cells that can differentiate into a variety of cell types. MSCs have been shown to differentiate, in vitro or in vivo, into osteoblasts, chondrocytes, myocytes, marrow adipocytes and beta-pancreatic islets cells.",
+            "score": 401.7664794921875
+        },
+        {
+            "docid": "1264088_2",
+            "document": "Hematopoietic stem cell . Hematopoietic stem cells (HSCs) are the stem cells that give rise to other blood cells. This process is called haematopoiesis.<ref name=\"Birbrair n/a\u2013n/a\"></ref> This process occurs in the red bone marrow, in the core of most bones. In embryonic development, the red bone marrow is derived from the layer of the embryo called the mesoderm.",
+            "score": 400.3434753417969
+        },
+        {
+            "docid": "14932277_9",
+            "document": "Franz Ernst Christian Neumann . Legend of the stem cell-picture: Draft by Ernst Neumann himself, showing the \"great-lymphozyt-stem-cell\" (1912) or \"great-lymphocyt\" as stem cell for the postembryonic and embryonic development of erythropoiesis and leukopoiesis in the bone marrow and, as shown here, in the embryonic liver; GrLK: nucleus of great-lymphocyt-stem-cell; Erblk: Erythroblast; (Neumann 1914). Beside, you find the first announcement of the bone marrow as blood forming organ.  Translation: \"In the so-called red bone marrow of man as well as the rabbit, one can regularly find, in addition to the well known marrow cell, certain other elements which have not been mentioned until now; namely nucleated red blood cells, in every respect corresponding to embryonic stages of the red blood cells. Also is the marrow rich in fat, the same cells are present but in lower quantity and their number decreases parallel to the decrease in the number of marrow cells and the increase in the number of fat cells (see above \"Neumann-Law\"). It is possible, to trace the origin of these elements in the blood of the marrow cells The high content of colorless elements in the blood of the marrow makes it likely that these is a migration of contractile marrow cells into the vessels. A thorough description of my observations will be published.\"",
+            "score": 399.3713073730469
+        },
+        {
+            "docid": "2281415_3",
+            "document": "CD34 . CD34 derives its name from the cluster of differentiation protocol that identifies cell surface antigens. CD34 was first described on hematopoietic stem cells independently by Civin et al. and Tindle et al. as a cell surface glycoprotein and functions as a cell-cell adhesion factor. It may also mediate the attachment of hematopoietic stem cells to bone marrow extracellular matrix or directly to stromal cells. Clinically, it is associated with the selection and enrichment of hematopoietic stem cells for bone marrow transplants. Due to these historical and clinical associations, CD34 expression is almost ubiquitously related to hematopoietic cells however it is actually found on many other cell types as well.",
+            "score": 398.6496887207031
+        },
+        {
+            "docid": "33576920_6",
+            "document": "Bone marrow failure . The type of treatment depends on the severity of the patient\u2019s bone marrow failure disease. Blood transfusion is one treatment. Blood is collected from volunteer donors who agree to let doctors draw blood stem cells from their blood or bone marrow for transplantation. Blood that is taken straight from collected blood stem cells is known as peripheral blood stem cell donation. A peripheral stem cell donor must have the same blood type as the patient receiving the blood cells. Once the stem cells are in the patient\u2019s body through an IV, the cells mature and become blood cells. Before donation, a drug is injected into the donor, which increases the number of stem cells into their body. Feeling cold and lightheaded, having numbness around the mouth and cramping in the hands are common symptoms during the donation process. After the donation, the amount of time for recovery varies for every donor, \u201cBut most stem cell donors are able to return to their usual activities within a few days to a week after donation\u201d.",
+            "score": 397.7640075683594
+        },
+        {
+            "docid": "7430201_5",
+            "document": "National Marrow Donor Program . Hematopoietic cells are used to transplant patients with life-threatening disorders such as leukemia, lymphoma, aplastic anemia, as well as certain immune system and metabolic disorders. Hematopoietic cells can come from bone marrow, umbilical cord blood, or the circulating blood (peripheral blood stem cells (PBSCs)). Hematopoietic cells are a type of adult (i.e., non-embryonic) stem cell that can multiply and differentiate into the three types of blood cells: red blood cells, white blood cells, and platelets. Bone marrow and PBSCs come from living adult donors. Bone marrow is extracted from the donor's pelvic bones while the donor is under general or local anesthesia. PBSCs are collected from the donor's blood after five or six days of taking a drug that causes hematopoietic cells in the bone marrow to move into the circulating blood. In both cases, recovery is usually swift and donors typically have fully restored marrow and blood cell counts in under two weeks.",
+            "score": 397.4615173339844
+        },
+        {
+            "docid": "42606579_5",
+            "document": "Hematopoietic stem cell niche . The pioneering work of Till and McCulloch in 1961 experimentally confirmed the development of blood cells from a single precursor hematopoietic stem cell (HSC), creating the framework for the field of hematopoiesis to be studied over the following decades. In 1978, after observing that the prototypical colony-forming stem cells were less capable at replacing differentiated cells than bone marrow cells injected into irradiated animals, Schofield proposed that a specialized environment in the bone marrow allows these precursor cells to maintain their cellular reconstitution potential.",
+            "score": 396.9767150878906
+        },
+        {
+            "docid": "40364647_3",
+            "document": "Malcolm A. S. Moore . In his early career Dr Moore discovered that all stem cells of the blood and lymphoid system developed in the yolk sac at an early stage of embryo development and migrated via the blood stream to colonize the bone marrow and immune system. All adult blood stem cells derived from this initial source. These discoveries provided a rational for bone marrow transplantation. He was the first (1970) to prove the existence of cancer stem cells in a study of leukemia. Working with Dr. Metcalf in Australia he showed that \u201ccolony stimulating factors\u201d were necessary for the growth of normal and leukemic stem cells and progenitor cells.",
+            "score": 395.1551208496094
+        },
+        {
+            "docid": "27783_21",
+            "document": "Stem cell . Pluripotent adult stem cells are rare and generally small in number, but they can be found in umbilical cord blood and other tissues. Bone marrow is a rich source of adult stem cells, which have been used in treating several conditions including liver cirrhosis, chronic limb ischemia and endstage heart failure. The quantity of bone marrow stem cells declines with age and is greater in males than females during reproductive years. Much adult stem cell research to date has aimed to characterize their potency and self-renewal capabilities. DNA damage accumulates with age in both stem cells and the cells that comprise the stem cell environment. This accumulation is considered to be responsible, at least in part, for increasing stem cell dysfunction with aging (see DNA damage theory of aging).",
+            "score": 394.9677429199219
+        },
+        {
+            "docid": "10541492_9",
+            "document": "Stem cell factor . SCF plays a role in the regulation of HSCs in the stem cell niche in the bone marrow. SCF has been shown to increase the survival of HSCs in vitro and contributes to the self-renewal and maintenance of HSCs in-vivo. HSCs at all stages of development express the same levels of the receptor for SCF (c-KIT). The stromal cells that surround HSCs are a component of the stem cell niche, and they release a number of ligands, including SCF.",
+            "score": 394.6114807128906
+        },
+        {
+            "docid": "2777285_18",
+            "document": "Adult stem cell . Discoveries in recent years have suggested that adult stem cells might have the ability to differentiate into cell types from different germ layers. For instance, neural stem cells from the brain, which are derived from ectoderm, can differentiate into ectoderm, mesoderm, and endoderm. Stem cells from the bone marrow, which is derived from mesoderm, can differentiate into liver, lung, GI tract and skin, which are derived from endoderm and mesoderm. This phenomenon is referred to as stem cell transdifferentiation or plasticity. It can be induced by modifying the growth medium when stem cells are cultured \"in vitro\" or transplanting them to an organ of the body different from the one they were originally isolated from. There is yet no consensus among biologists on the prevalence and physiological and therapeutic relevance of stem cell plasticity. More recent findings suggest that pluripotent stem cells may reside in blood and adult tissues in a dormant state. These cells are referred to as \"Blastomere Like Stem Cells\" and \"very small embryonic like\" \u2013 \"VSEL\" stem cells, and display pluripotency in vitro. As BLSC's and VSEL cells are present in virtually all adult tissues, including lung, brain, kidneys, muscles, and pancreas Co-purification of BLSC's and VSEL cells with other populations of adult stem cells may explain the apparent pluripotency of adult stem cell populations. However, recent studies have shown that both human and murine VSEL cells lack stem cell characteristics and are not pluripotent.",
+            "score": 394.0006103515625
+        },
+        {
+            "docid": "46538621_7",
+            "document": "Bryant Villeponteau . Geron Corporation was the first company to develop human embryonic stem cell lines in the mid-1990s. As the Champion of Telomerase Therapeutics at Geron, Villeponteau was interested in the status of telomerase in embryonic stem cells. As it turns out, embryonic stem cells have very high levels of telomerase. However, other aspects of embryonic stem cells were not ideal for human therapeutics (e.g. the formation of terotoma cancers), so many scientists and practitioners focused instead on adult stem cells, which do not typically generate tumors. In 2008, Villeponteau formulated a botanical mix that provided telomere support and boosted adult stem cell populations. Extensive work at Genescient showed definitively that the formulation can double maximum Drosophila life span under specific stress conditions In 2009 Villeponteau cofounded Centagen, which is a biotech company dedicated to developing stem cell technologies that can rejuvenate human adult stem cells from blood, bone marrow, or adipose tissue. Stem cell numbers and/or function decline with age. Many stem cell scientists hypothesize that stem cells hold the key to regenerating youthful function.",
+            "score": 392.0096435546875
+        },
+        {
+            "docid": "53901341_7",
+            "document": "Marrow adipose tissue . To improve quantification of MAT, novel imaging techniques have been developed as a means to visualize and quantify MAT. Although proton magnetic resonance spectroscopy (1H-MRS) has been used with success to quantify vertebral MAT in humans, it is difficult to employ in laboratory animals. Magnetic resonance imaging (MRI) provides MAT assessment in the vertebral skeleton in conjunction with \u03bcCT-based marrow density measurements. A volumetric method to identify, quantify, and localize MAT in rodent bone has been recently developed, requiring osmium staining of bones and \u03bcCT imaging, followed by advanced image analysis of osmium-bound lipid volume (in mm) relative to bone volume. This technique provides reproducible quantification and visualization of MAT, enabling the ability to consistently quantify changes in MAT with diet, exercise, and agents that constrain precursor lineage allocation. Although the osmium method is quantitatively precise, osmium is toxic and cannot be compared across batched experiments. Recently, researchers developed and validated a 9.4T MRI scanner technique that allows localization and volumetric (3D) quantification that can be compared across experiments.  Hematopoietic cells (also known as blood cells) reside in the bone marrow along with marrow adipocytes. These hematopoietic cells are derived from hematopoietic stem cells (HSC) which give rise to diverse cells: cells of the blood, immune system, as well as cells that break down bone (osteoclasts). HSC renewal occurs in the marrow stem cell niche, a microenvironment that contains cells and secreted factors that promote appropriate renewal and differentiation of HSC. The study of the stem cell niche is relevant to the field of oncology in order to improve therapy for multiple hematologic cancers. As such cancers are often treated with bone marrow transplantation, there is interest in improving the renewal of HSC. Recent work demonstrates that marrow adipocytes secrete factors that promote HSC renewal in most bones.",
+            "score": 391.2975158691406
+        },
+        {
+            "docid": "3831284_2",
+            "document": "Stem cell controversy . The stem cell controversy is the consideration of the ethics of research involving the development, use, and destruction of human embryos. Most commonly, this controversy focuses on embryonic stem cells. Not all stem cell research involves the human embryos. For example, adult stem cells, amniotic stem cells, and induced pluripotent stem cells do not involve creating, using, or destroying human embryos, and thus are minimally, if at all, controversial. Many less controversial sources of acquiring stem cells include using cells from the umbilical cord, breast milk, and bone marrow, which are not pluripotent.",
+            "score": 387.46502685546875
+        },
+        {
+            "docid": "20177552_22",
+            "document": "Transplantable organs and tissues . \"Hematopoietic stem cell transplantation\" (HSCT) is the transplantation of blood stem cells derived from the bone marrow (that is, \"bone marrow transplantation\") or blood. Stem cell transplantation is a medical procedure in the fields of hematology and oncology, most often performed for people with diseases of the blood, bone marrow, or certain types of cancer.",
+            "score": 387.096923828125
+        },
+        {
+            "docid": "14373561_10",
+            "document": "Shinya Yamanaka . There are different types of stem cells. These are some types of cells that will help in understanding the material. The prevalent view during the early 20th century was that mature cells were permanently locked into the differentiated state and cannot return to a fully immature, pluripotent stem cell state. They thought that cellular differentiation can only be a unidirectional process. Therefore, non-differentiated egg/early embryo cells can only develop into specialized cells. However, stem cells with limited potency (adult stem cells) remain in bone marrow, intestine, skin etc. to act as a source of cell replacement.",
+            "score": 386.6274108886719
+        },
+        {
+            "docid": "35175872_7",
+            "document": "Reticular dysgenesis . Transplantation of stem cells are taken from the bone marrow, peripheral blood or umbilical cord of healthy, matched donors. Hematopoietic Stem Cell Transplantation (HSCT) involves intravenous infusion of stem cells to those who have either a damaged bone marrow or defective immune system. Transplantation is a simple process. Bone marrow product is infused through a central vein over a period of several hours. The hematopoietic cells are able to go to the bone marrow through tracking mechanisms. Patients who suffer from RD will now have more stem cells that can differentiate into immune cells.",
+            "score": 386.1554870605469
+        },
+        {
+            "docid": "16107090_3",
+            "document": "Peripheral stem cell transplantation . Immature blood cells hematopoietic stem cells in the circulating blood that are similar to those in the bone marrow are collected by apheresis from a potential donor (PBSC collection). The product is then administered intravenously to the patient after treatment. The administered hematopoietic stem cells then migrate to the recipient's bone marrow, a process known as stem cell homing, where the transplanted cells override the previous bone marrow. This allows the bone marrow to recover, proliferate and continue producing healthy blood cells.",
+            "score": 385.5353698730469
+        },
+        {
+            "docid": "31270321_2",
+            "document": "Clinical uses of mesenchymal stem cells . Adult mesenchymal stem cells (MSCs) are being used by researchers in the fields of regenerative medicine and tissue engineering, to artificially reconstruct human tissue which has been previously damaged. Mesenchymal stem cells have the capacity to become any type of fully developed cell, which can contribute to replacing muscle tissues or internal organs. To help discover the therapeutic uses of these stem cells they are grown in laboratories or by using medication to stimulate new cell growth within the human body. In MSC therapy the cells are extracted from the adult patient\u2019s bone marrow via a procedure called bone marrow aspiration. This usually involves inserting a needle into the back of the patients hip bone and removing the sample from there. These cells are then grown under controlled \"in vitro\" conditions in a lab, so that they can multiply and same time mature( also referred to as differentiated. This process may take two to three weeks. The kind of mature, fully differentiated cell phenotype and the number of those cells created though this can be influenced in three ways. Firstly by varying the initial seed density in the culture medium, secondly through changing the conditions of the medium during expansion, and lastly through the addition of additives such as proteins or growth hormones to the culture medium. They are then harvested and put back into the patient through local delivery or systemic infusion.",
+            "score": 385.19940185546875
+        },
+        {
+            "docid": "2750191_25",
+            "document": "Selectin . Selectins are involved in projects to treat osteoporosis, a disease that occurs when bone-creating cells called osteoblasts become too scarce. Osteoblasts develop from stem cells, and scientists hope to eventually be able to treat osteoporosis by adding stem cells to a patient\u2019s bone marrow. Researchers have developed a way to use selectins to direct stem cells introduced into the vascular system to the bone marrow. E-selectins are constitutively expressed in the bone marrow, and researchers have shown that tagging stem cells with a certain glycoprotein causes these cells to migrate to the bone marrow. Thus, selectins may someday be essential to a regenerative therapy for osteoporosis.",
+            "score": 384.32647705078125
+        },
+        {
+            "docid": "42606579_2",
+            "document": "Hematopoietic stem cell niche . Many human blood cells, such as red blood cells (RBCs), immune cells, and even platelets all originate from the same progenitor cell, the hematopoietic stem cell (HSC). As these cells are short-lived, there needs to be a steady turnover of new blood cells and the maintenance of an HSC pool. This is broadly termed hematopoiesis. This event requires a special environment, termed the hematopoietic stem cell niche, which provides the protection and signals necessary to carry out the differentiation of cells from HSC progenitors. This niche relocates from the yolk sac to eventually rest in the bone marrow of mammals. Many pathological states can arise from disturbances in this niche environment, highlighting its importance in maintaining hematopoiesis.",
+            "score": 383.7713623046875
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "1499988_2",
+            "document": "C1-inhibitor . C1-inhibitor (C1-inh, C1 esterase inhibitor) is a protease inhibitor belonging to the serpin superfamily. Its main function is the inhibition of the complement system to prevent spontaneous activation. C1-inhibitor is an acute-phase protein that circulates in blood at levels of around 0.25 g/L. The levels rise ~2-fold during inflammation. C1-inhibitor irreversibly binds to and inactivates C1r and C1s proteases in the C1 complex of classical pathway of complement. MASP-1 and MASP-2 proteases in MBL complexes of the lectin pathway are also inactivated. This way, C1-inhibitor prevents the proteolytic cleavage of later complement components C4 and C2 by C1 and MBL. Although named after its complement inhibitory activity, C1-inhibitor also inhibits proteases of the fibrinolytic, clotting, and kinin pathways. Note that C1-inhibitor is the most important physiological inhibitor of plasma kallikrein, fXIa, and fXIIa.",
+            "score": 73.96638560295105
+        },
+        {
+            "docid": "960896_14",
+            "document": "Angioedema . Various mechanisms that interfere with bradykinin production or degradation can lead to angioedema. ACE inhibitors block ACE, the enzyme that among other actions, degrades bradykinin. In hereditary angioedema, bradykinin formation is caused by continuous activation of the complement system due to a deficiency in one of its prime inhibitors, C1-esterase (aka: C1-inhibitor or C1INH), and continuous production of kallikrein, another process inhibited by C1INH. This serine protease inhibitor (serpin) normally inhibits the association of C1r and C1s with C1q to prevent the formation of the C1-complex, which - in turn - activates other proteins of the complement system. Additionally, it inhibits various proteins of the coagulation cascade, although effects of its deficiency on the development of hemorrhage and thrombosis appear to be limited.",
+            "score": 72.87964367866516
+        },
+        {
+            "docid": "33914968_10",
+            "document": "Apixaban . Apixaban is a highly selective, orally bioavailable, and reversible direct inhibitor of free and clot-bound factor Xa. Factor Xa catalyzes the conversion of prothrombin to thrombin, the final enzyme in the coagulation cascade that is responsible for fibrin clot formation. Apixaban has no direct effect on platelet aggregation, but by inhibiting factor Xa, it indirectly decreases clot formation induced by thrombin.",
+            "score": 66.01654863357544
+        },
+        {
+            "docid": "14116942_3",
+            "document": "Coagulation factor XIII, A1 polypeptide . This gene encodes the coagulation factor XIII A subunit. Coagulation factor XIII is the last zymogen to become activated in the blood coagulation cascade. Plasma factor XIII is a heterotetramer composed of 2 A subunits and 2 B subunits. The A subunits have catalytic function, and the B subunits do not have enzymatic activity and may serve as plasma carrier molecules. Platelet factor XIII is composed of just 2 A subunits, which are identical to those of plasma origin. Upon cleavage of the activation peptide by thrombin and in the presence of calcium ion, the plasma factor XIII dissociates its B subunits and yields the same active enzyme, factor XIIIa, as platelet factor XIII. This enzyme acts as a transglutaminase to catalyze the formation of gamma-glutamyl-epsilon-lysine crosslinking between fibrin molecules, thus stabilizing the fibrin clot. It also crosslinks alpha-2-plasmin inhibitor, or fibronectin, to the alpha chains of fibrin. Factor XIII deficiency is classified into two categories: type I deficiency, characterized by the lack of both the A and B subunits; and type II deficiency, characterized by the lack of the A subunit alone. These defects can result in a lifelong bleeding tendency, defective wound healing, and habitual abortion.",
+            "score": 69.99747443199158
+        },
+        {
+            "docid": "51714214_8",
+            "document": "Discovery and development of direct Xa inhibitors . Blood coagulation is a complex process by which the blood forms clots. It is an essential part of hemostasis and works by stopping blood loss from damaged blood vessels. At the site of injury, where there is an exposure of blood under the endothelium, the platelets gather and immediately form a plug. That process is called primary hemostasis. Simultaneously, a secondary hemostasis occurs. It is defined as the formation of insoluble fibrin by activated coagulation factors, specifically thrombin. These factors activate each other in a blood coagulation cascade that occurs through two separate pathways that interact, the intrinsic and extrinsic pathway. After activating various proenzymes, thrombin is formed in the last steps of the cascade, it then converts fibrinogen to fibrin which leads to clot formation. Factor Xa is an activated serine protease that occupies a key role in the blood coagulation pathway by converting prothrombin to thrombin. Inhibition of factor Xa leads to antithrombotic effects by decreasing the amount of thrombin. Directly targeting factor Xa is suggested to be an effective approach to anticoagulation.",
+            "score": 88.40106272697449
+        },
+        {
+            "docid": "26096334_2",
+            "document": "SU6656 . SU6656 is a Src family kinase inhibitor developed by the biotechnology company SUGEN Inc (a subsidiary of Pharmacia) in 2000. SU6656 was initially identified as a Src kinase inhibitor by virtue of its ability to reverse an effect that an activated mutant form of Src (hu SRC Y530F) has on the actin cytoskeleton, namely the formation of podosome rosettes, otherwise known as invadopodia. SU6656 was initially published as a Src family kinase inhibitor with selectivity relative to Platelet-derived growth factor receptor Tyrosine kinase. Subsequent studies have confirmed that SU6656 is relatively selective for Src family kinases but some additional biochemical activities have been identified including: BRSK2, AMPK, Aurora C, Aurora B, CaMKK\u03b2. The inhibition of these kinases in biochemical reactions in vitro does not necessarily indicate that these kinases are targets of SU6656 in cells.",
+            "score": 55.30573582649231
+        },
+        {
+            "docid": "37360538_20",
+            "document": "Insects in culture . Blood-feeding insects like ticks, horseflies, and mosquitoes inject multiple bioactive compounds into their prey. These insects have long been used by practitioners of Eastern Medicine to prevent blood clot formation or thrombosis, suggesting possible applications in scientific medicine. Over 1280 protein families have been associated with the saliva of blood feeding organisms, including inhibitors of platelet aggregation, ADP, arachidonic acid, thrombin, PAF, anticoagulants, vasodilators, vasoconstrictors, antihistamines, sodium channel blockers, complement inhibitors, pore formers, inhibitors of angiogenesis, anaesthetics, AMPs and microbial pattern recognition molecules, and parasite enhancers/activators.",
+            "score": 62.55631351470947
+        },
+        {
+            "docid": "9259302_5",
+            "document": "Protein C inhibitor . Protein C inhibitor (PCI) is serine protease inhibitor of serpin type that is found in most tissues and fluids, including blood plasma, seminal plasma and urine of human. It is a 52kD glycoprotein and belongs to serine protease inhibitor ( Serpin) super family of protein. In the beginning protein C Inhibitor (PCI) was identified as an inhibitor of activated protein C (APC), it is currently clear that this inhibitor has an expansive specificity, inhibiting several blood coagulation enzymes counting thrombin and factor Xa.",
+            "score": 55.77195596694946
+        },
+        {
+            "docid": "7292635_6",
+            "document": "Direct thrombin inhibitor . Thrombin demonstrates a high level of allosteric regulation. Allosterism in thrombin is regulated by the exosites 1 and 2 and the sodium binding site. A recent patent review has shown that the general consensus among researchers is that allosteric inhibitors may provide a more regulatable anticoagulant. Some of the allosteric inhibitors discovered include DNA aptamers, benzofuran dimers, benzofuran trimers, as well as polymeric lignins. A new sulfated \u03b2-O4 lignin (SbO4L) has been discovered which has shown a dual mechanism of action for anti-thrombosis. This SbO4L shows allosteric inhibition of thrombin for fibrinogen, while providing a competitive inhibition of thrombin interaction with platelet glycoprotein Ib\u03b1 (GPIb\u03b1), thereby preventing thrombin mediated platelet aggregation. However, despite the growing interest and the advances in allosterism, no allosteric thrombin inhibitor has yet reached the stage of clinical trials.",
+            "score": 61.28793501853943
+        },
+        {
+            "docid": "25032880_16",
+            "document": "Adenosine diphosphate receptor inhibitor . The molecular target of the active metabolite of ADP receptor inhibitors is the P2Y receptor. P2Y receptor is a G-coupled receptor and is activated by adenosine diphosphate. ADP binds to the P2Y receptor that leads to inhibition of adenyl cyclase and thereby decreases the intracellular levels of cAMP. This reduction of cAMP reduces phosphorylation of vasodilator stimulated phosphoprotein that leads to the activation of the glycoprotein IIb/IIIa receptors. Activation of the glycoprotein IIb/IIIa receptors increases thromboxane production and prolonged platelet aggregation. Ticlopidine, clopidogrel and prasugrel are thienopyridine prodrugs that are irreversible platelet inhibitors of the P2Y receptor. Cangrelor and ticagrelor are direct \u2013acting P2Y inhibitors that change the conformation of the P2Y receptor and therefore, results in reversible platelet inhibition of the receptor. Thienopyridines are metabolized in the liver and the intestinal to active metabolites. Ticlopidine is a prodrug and is metabolized by at least five main pathways. There is one active metabolite that has been identified and shown to have antiplatelet activity. This active metabolite is formed by a CYP-dependent pathway. CYP2C19 and CYP2B6 are enzymes suggested to contribute to the metabolic transformation of ticlopidine to the thiolactone intermediate, 2-oxo-ticlopidine in the liver. The thiolactone intermediate is then converted to ticlopidine active metabolite via CYP oxidation where oxidation activation occurs. However the CYP enzymes that are involved in this pathway are unknown. In the formation of the active metabolite additional metabolites have been identified and they are dihydrothienopyridinium (M5) and thienodihydropyridinium metabolites (M6). These metabolites may be responsible for the toxic side effects of ticlopidine.",
+            "score": 65.20537328720093
+        },
+        {
+            "docid": "14284312_15",
+            "document": "Isocitrate lyase . Because of its use by pathogenic fungi and bacteria, specific inhibitors are being sought for ICL and malate synthase. Although some inhibitors have already been identified, including itaconate, itaconic anhydride, bromopyruvate, nitropropionate, oxalate, and malate, these are non-specific and would also inhibit other enzymes essential for host function. More research is needed to identify inhibitors that selectively target enzymes in the glyoxylate cycle.",
+            "score": 53.4400429725647
+        },
+        {
+            "docid": "9259302_10",
+            "document": "Protein C inhibitor . Protein C inhibitors have ability to inhibit protein C, thrombin and other enzymes that are stimulated by heparin. The heparin binding site of protein C inhibitor is from 264-283 region. Heparin enhances the rate of inhibition leading to the conformational change in the structure of Protein C and other proteases. The binding site of heparin is different for protein C inhibitor and other proteases Heparin regulates the protein C inhibitor (PCI) activity and furthermore its specificity in those system where there is presence of two or more target proteases.",
+            "score": 47.796382188797
+        },
+        {
+            "docid": "1100050_11",
+            "document": "Kinin\u2013kallikrein system . C1-inhibitor is a serine protease inhibitor (serpin) protein. C1-INH is the most important physiological inhibitor of plasma kallikrein, fXIa and fXIIa. C1-INH also inhibits proteinases of the fibrinolytic, clotting, and kinin pathways. Deficiency of C1-INH permits plasma kallikrein activation, which leads to the production of the vasoactive peptide bradykinin.",
+            "score": 55.97429823875427
+        },
+        {
+            "docid": "51714214_7",
+            "document": "Discovery and development of direct Xa inhibitors . Factor Xa was identified as a promising target for the development of new anticoagulants in the early 1980s. In 1987 the first factor Xa inhibitor, the naturally occurring compound antistasin, was isolated from the salivary glands of the Mexican leech \"Haementeria officinalis\". Antistasin is a polypeptide and a potent Xa inhibitor. In 1990 another naturally occurring Xa inhibitor was isolated, tick anticoagulant peptide (TAP) from extracts of the tick \"Ornithodoros moubata\". TAP and antistasin were used to estimate factor Xa as a drug target.",
+            "score": 76.74220848083496
+        },
+        {
+            "docid": "37120076_20",
+            "document": "Discovery and development of direct thrombin inhibitors . In 2014 dabigatran remains the only approved oral DTI and is therefore the only DTI alternative to the vitamin K antagonists. There are, however, some novel oral anticoagulant drugs that are currently in early and advanced stages of clinical development. Most of those drugs are in the class of direct factor Xa inhibitors, but there is one DTI called AZD0837, which is a follow-up compound of ximelgatran that is being developed by AstraZeneca. It is the prodrug of a potent, competitive, reversible inhibitor of free and fibrin-bound thrombin called ARH0637. The development of AZD 0837 is discontinued. Due to a limitation identified in long-term stability of the extended-release AZD0837 drug product, a follow-up study from ASSURE on stroke prevention in patients with non-valvular atrial fibrillation, was prematurely closed in 2010 after 2 years. There was also a numerically higher mortality against warfarin. In a Phase 2 trial for AF the mean serum creatinine concentration increased by about 10% from baseline in patients treated with AZD0837, which returned to baseline after cessation of therapy. Development of other oral DTIs, such as Sofigatran from Mitsubishi Tanabe Pharma has been discontinued. Another strategy for developing oral anticoagulant drugs is that of dual thrombin and fXa inhibitors that some pharmaceutical companies, including Boehringer Ingelheim, have reported on. These compounds show favorable anticoagulant activity in vitro.",
+            "score": 44.23582720756531
+        },
+        {
+            "docid": "2557688_15",
+            "document": "Non-competitive inhibition . The primary difference between competitive and non-competitive is that competitive inhibition affects the substrate's ability to bind by binding an inhibitor in place of a substrate, this lowers the affinity of the enzyme for the substrate. In non-competitive inhibition the inhibitor binds to an allosteric site and prevents the enzyme-substrate complex from performing a chemical reaction. This does not affect the Km (affinity) of the enzyme (for the substrate). Non-competitive inhibition differs from uncompetitive inhibition in that it still allows for the substrate to bind to the enzyme-inhibitor complex and form an enzyme-substrate-inhibitor complex, this is not true in uncompetitive inhibition, it prevents the substrate from binding to the enzyme inhibitor through conformational change upon allosteric binding.",
+            "score": 42.303526878356934
+        },
+        {
+            "docid": "555663_3",
+            "document": "Alpha-2-Macroglobulin . Alpha 2 macroglobulin acts as an antiprotease and is able to inactivate an enormous variety of proteinases. It functions as an inhibitor of fibrinolysis by inhibiting plasmin and kallikrein. It functions as an inhibitor of coagulation by inhibiting thrombin. Alpha-2-macroglobulin may act as a carrier protein because it also binds to numerous growth factors and cytokines, such as platelet-derived growth factor, basic fibroblast growth factor, TGF-\u03b2, insulin, and IL-1\u03b2.",
+            "score": 63.29313898086548
+        },
+        {
+            "docid": "37120076_6",
+            "document": "Discovery and development of direct thrombin inhibitors . DTIs inhibit thrombin by two ways; bivalent DTIs block simultaneously the active site and exosite 1 and act as competitive inhibitors of fibrin, while univalent DTIs block only the active site and can therefore both inhibit unbound and fibrin-bound thrombin. In contrast, heparin drugs bind in exosite 2 and form a bridge between thrombin and antithrombin, a natural anticoagulant substrate formed in the body, and strongly catalyzes its function. But heparin can also form a bridge between thrombin and fibrin which binds to exosite 1 which protects the thrombin from inhibiting function of heparin-antithrombin complex and increases thrombin's affinity to fibrin. DTIs that bind to the anion-binding site have shown to inactivate thrombin without disconnecting thrombin from fibrin, which points to a separate binding site for fibrin. DTIs aren't dependent to cofactors like antithrombin to inhibit thrombin so they can both inhibit free/soluble thrombin as well as fibrin bound thrombin unlike heparins. The inhibition is either irreversible or reversible. Reversible inhibition is often linked to lesser risk of bleeding. Due to this action of DTIs they can both be used for prophylaxis as well as treatment for embolisms/clots.",
+            "score": 49.52943730354309
+        },
+        {
+            "docid": "32646106_2",
+            "document": "Ecotin . In molecular biology, ecotin is a protease inhibitor which belongs to MEROPS inhibitor family I11, clan IN. Ecotins are dimeric periplasmic proteins from \"Escherichia coli\" and related Gram-negative bacteria that have been shown to be potent inhibitors of many trypsin-fold serine proteases of widely varying substrate specificity, which belong to MEROPS peptidase family S1. Phylogenetic analysis suggested that ecotin has an exogenous target, possibly neutrophil elastase. Ecotin from \"E. coli\", \"Yersinia pestis\", and \"Pseudomonas aeruginosa\", all species that encounter the mammalian immune system, inhibit neutrophil elastase strongly while ecotin from the plant pathogen \"Pantoea citrea\" inhibits neutrophil elastase 1000-fold less potently. Ecotins all potently inhibit pancreatic digestive peptidases trypsin and chymotrypsin, while showing more variable inhibition of the blood peptidases Factor Xa, thrombin, and urokinase-type plasminogen activator.",
+            "score": 74.24474060535431
+        },
+        {
+            "docid": "37120076_4",
+            "document": "Discovery and development of direct thrombin inhibitors . When a blood vessel ruptures or gets injured, factor VII comes into contact with tissue factors which starts a process called the blood coagulation cascade. Its purpose is to stop bleeding and repair tissue damage. When this process is too active due to various problems the risk of blood clots or embolisms increases. As the name indicates the cascade is a multi-step procedure where the main product thrombin is made by activating various proenzymes (mainly serine proteases) in each step of the cascade. Thrombin has multiple purposes, but mainly it converts soluble fibrinogen to an insoluble fibrin complex. Furthermore, it activates factors V, VIII and XI, all by cleaving the sequences GlyGlyGlyValArg-GlyPro and PhePheSerAlaArg-GlyHis, selectively between Arginine (Arg) and Glycine (Gly). These factors generate more thrombin. Thrombin also activates factor XIII that stabilizes the fibrin complex and therefore the clot and it stimulates platelets, which help with the coagulation. Given this broad action of thrombin it stands as a good drug target for anticoagulant drugs such as heparin, warfarin and DTIs and antiplatelet drugs like aspirin.",
+            "score": 73.7761846780777
+        },
+        {
+            "docid": "212193_11",
+            "document": "Coagulation . The division of coagulation in two pathways is mainly artificial, it originates from laboratory tests in which clotting times were measured after the clotting was initiated by glass (intrinsic pathway) or by thromboplastin (a mix of tissue factor and phospholipids). In fact thrombin is present from the very beginning, already when platelets are making the plug. \"Thrombin\" has a large array of functions, not only the conversion of fibrinogen to fibrin, the building block of a hemostatic plug. In addition, it is the most important platelet activator and on top of that it activates Factors VIII and V and their inhibitor protein C (in the presence of thrombomodulin), and it activates Factor XIII, which forms covalent bonds that crosslink the fibrin polymers that form from activated monomers.",
+            "score": 73.44882893562317
+        },
+        {
+            "docid": "5464960_42",
+            "document": "Enzyme inhibitor . The most common uses for enzyme inhibitors are as drugs to treat disease. Many of these inhibitors target a human enzyme and aim to correct a pathological condition. However, not all drugs are enzyme inhibitors. Some, such as anti-epileptic drugs, alter enzyme activity by causing more or less of the enzyme to be produced. These effects are called enzyme induction and inhibition and are alterations in gene expression, which is unrelated to the type of enzyme inhibition discussed here. Other drugs interact with cellular targets that are not enzymes, such as ion channels or membrane receptors.",
+            "score": 62.4141161441803
+        },
+        {
+            "docid": "511049_9",
+            "document": "Antithrombin . The physiological target proteases of antithrombin are those of the \"contact activation pathway\" (formerly known as the intrinsic pathway), namely the activated forms of Factor X (Xa), Factor IX (IXa), Factor XI (XIa), Factor XII (XIIa) and, to a greater extent, Factor II (thrombin) (IIa), and also the activated form of Factor VII (VIIa) from the \"tissue factor pathway\" (formerly known as the extrinsic pathway). The inhibitor also inactivates kallikrein and plasmin , also involved in blood coagulation. However it inactivates certain other serine proteases that are not involved in coagulation such as trypsin and the C1s subunit of the enzyme C1 involved in the classical complement pathway.",
+            "score": 92.93330526351929
+        },
+        {
+            "docid": "49158184_3",
+            "document": "ABHD12 . Inhibitors of ABHD12 have been identified. Orlistat (tetrahydrolipstatin; THL) and methyl arachidonyl fluorophosphonate (MAFP), so-called \"universal lipase/serine hydrolase inhibitors\" that are extremely non-selective enzyme inhibitors, were found to inhibit ABHD12. Selective reversible inhibitors have also been identified, including betulinic acid, maslinic acid, oleanolic acid, and ursolic acid.",
+            "score": 34.51140546798706
+        },
+        {
+            "docid": "20777128_3",
+            "document": "Kunitz STI protease inhibitor . Two types of trypsin inhibitors are found in soy: the Kunitz trypsin inhibitor (KTI) and the Bowman-Birk inhibitor (BBI). KTI is a large (20,100 daltons), strong inhibitor of trypsin, while BBI is much smaller (8,000 daltons) and inhibits both trypsin and chymotrypsin. Both inhibitors have significant anti-nutritive effects in the body, affecting digestion by hindering protein hydrolysis and activation of other enzymes in the gut. In soy, KTI is found in much larger concentrations than BBI is soy, however, to achieve the highest nutritional value from this ingredient, both of these inhibitors must be denatured in some way. Whole soybeans have been reported to contain 17\u201327\u00a0mg of trypsin inhibitor per gram.",
+            "score": 43.48568081855774
+        },
+        {
+            "docid": "3488934_11",
+            "document": "Rivaroxaban . Rivaroxaban inhibits both free Factor Xa and Factor Xa bound in the prothrombinase complex. It is a highly selective direct Factor Xa inhibitor with oral bioavailability and rapid onset of action. Inhibition of Factor Xa interrupts the intrinsic and extrinsic pathway of the blood coagulation cascade, inhibiting both thrombin formation and development of thrombi. Rivaroxaban does not inhibit thrombin (activated Factor II), and no effects on platelets have been demonstrated. It allows predictable anticoagulation and dose adjustments and routine coagulation monitoring as well as dietary restrictions are not needed.",
+            "score": 73.39811086654663
+        },
+        {
+            "docid": "16985959_4",
+            "document": "Mechanism of action of aspirin . However, several COX-2 selective inhibitors have subsequently been withdrawn after evidence emerged that COX-2 inhibitors increase the risk of heart attack (e.g., see the article on Vioxx). The underlying mechanism for the deleterious effect proposes that endothelial cells lining the microvasculature in the body express COX-2, whose selective inhibition results in levels of prostaglandin I2 (PGI2, prostacyclin) down-regulated relative to thromboxane (since COX-1 in platelets is unaffected). Thus, the protective anti-coagulative effect of PGI2 is decreased, increasing the risk of thrombus and associated heart attacks and other circulatory problems. As platelets have no DNA, they are unable to synthesize new COX once aspirin has irreversibly inhibited the enzyme, an important difference between aspirin and the reversible inhibitors.",
+            "score": 60.735182762145996
+        },
+        {
+            "docid": "25032880_7",
+            "document": "Adenosine diphosphate receptor inhibitor . When ticlopidine and clopidogrel were first brought to the market, ticlodipine in 1978 and clopidogrel in 1998, the mechanism of action of these two major antithrombotic drugs was not fully understood. What had been shown was that they were potent inhibitors of ADP-induced platelet aggregation, but the P2Y receptor had not been identified. Furthermore, it was clear that ticlopidine and clopidogrel were prodrugs which means they are inactive in-vitro and therefore need metabolism to be activated in-vivo. It wasn\u2019t until the year 2000 when the active metabolites of these drugs were isolated and characterized. About one year later the P2Y platelet receptor for ADP was identified. Following these discoveries the active metabolites and the enzymes responsible for their formation were progressively identified. Thus it was more than 30 years later after the discovery of ticlopidine, and more than 10 years later after the discovery of clopidogrel the mechanism of action of these two drugs was explained.",
+            "score": 42.95151948928833
+        },
+        {
+            "docid": "55340810_8",
+            "document": "Janus kinase 3 inhibitor . The first JAK inhibitor approved for the treatment of rheumatoid arthritis was Tofacitinib. It has also shown promising results in other autoimmune disorders. Initially, Tofacitinib was thought to be a selective JAK3 inhibitor but it later it was shown that it is also a potent inhibitor of JAK1 and JAK2. The value of developing a selective JAK3 targeting over the other JAKs is that JAK3 expression is restricted to the immune system while the other JAKs are much more broadly expressed. Since JAK3 is not as ubiquitously expressed, selective targeting could improve tolerability, and decrease possible adverse effects and safety concerns. For example dual inhibition of JAK1 and JAK3 might increase bacterial and viral infection because of a broader immunosuppressive effect. Inhibition of JAK2 has been linked to adverse effects such as anaemia and generalised leukopenia.It has been difficult to\u00a0 develop sufficiently selective JAK3 inhibitors.\u00a0One of the reason is the small variation in the ATP binding site of different JAKs. Another problem is that JAK3 has a higher affinity for ATP than the other JAKs which can be a reason for a poor translation from in vitro enzymatic assay studies to cellular system studies. An example of this is Decernotinib which showed 41-fold selectivity for JAK3 vs JAK1 in vitro enzyme assays while the selectivity for JAK3 was not maintained in cellular assays where it showed a slight preference for JAK1.",
+            "score": 64.3938615322113
+        },
+        {
+            "docid": "41868434_13",
+            "document": "Pesticide research . Genome-sequencing, gene knockout or antisense knockdown techniques have provided agrochemists with a method for validating potential new biochemical targets. However, genes such as avirulence genes are not essential for the organism and many potential targets lack known inhibitors. Examples of this procedure include the search for new herbicidal compounds of the nonmevalonate, such as the discovery of new inhibitors of 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (IspD, Enzyme Commission (EC) number 2.7.7.60) with the best expressing a half-maximal inhibitory concentration (IC50) of 140 nM in the greenhouse at . Thanks to an x-ray crystal structure of Arabidopsis thaliana, IspD enzyme cocrystallized with the inhibitor, a more potent inhibitor with an IC50 of 35 nM was designed. Mitochondrial serine hydroxymethyltransferase (SHMT) inhibitors were also found. Three hundred thousand compounds were tested against the SHMT enzyme, producing 24 hits. Among those hits, a subclass was followed with in vivo screening and compounds were promoted to field trials.",
+            "score": 54.492836236953735
+        },
+        {
+            "docid": "51935228_4",
+            "document": "Kalicludine . Kalicludine (uniprot ID: Q9TWG0) is also known as KappaPI-actitoxin-Avd3b or as \"Kunitz\"-type serine protease inhibitor kalicludine-1. Thus, kalicludines are part of the \"Kunitz\"-type inhibitor superfamily. The \"Kunitz\"-type scaffold is found both in inhibitors of proteolytic enzymes and in toxins. Other members of this superfamily are the pancreatic trypsin inhibitors (BPTI), which are potent Kunitz-type protease inhibitors, and dendrotoxins. Kalicludine has 40% homology with BPTIs. The most represented sequences of this group corresponds with kalicludine-3 and kalicludine-4, a recently found polypeptide.",
+            "score": 41.08431124687195
+        },
+        {
+            "docid": "2214122_4",
+            "document": "Hirudin . A key event in the final stages of blood coagulation is the conversion of fibrinogen into fibrin by the serine protease enzyme thrombin. Thrombin is produced from prothrombin, by the action of an enzyme, prothrombinase (Factor Xa along with Factor Va as a cofactor), in the final states of coagulation. Fibrin is then cross linked by factor XIII (Fibrin Stabilizing Factor) to form a blood clot. The principal inhibitor of thrombin in normal blood circulation is antithrombin. Similar to antithrombin, the anticoagulant activity of hirudin is based on its ability to inhibit the procoagulant activity of thrombin.",
+            "score": 54.00034832954407
+        }
+    ],
+    "r": [
+        {
+            "docid": "511049_9",
+            "document": "Antithrombin . The physiological target proteases of antithrombin are those of the \"contact activation pathway\" (formerly known as the intrinsic pathway), namely the activated forms of Factor X (Xa), Factor IX (IXa), Factor XI (XIa), Factor XII (XIIa) and, to a greater extent, Factor II (thrombin) (IIa), and also the activated form of Factor VII (VIIa) from the \"tissue factor pathway\" (formerly known as the extrinsic pathway). The inhibitor also inactivates kallikrein and plasmin , also involved in blood coagulation. However it inactivates certain other serine proteases that are not involved in coagulation such as trypsin and the C1s subunit of the enzyme C1 involved in the classical complement pathway.",
+            "score": 92.93330383300781
+        },
+        {
+            "docid": "604255_9",
+            "document": "Elastase . Elastase has been shown to disrupt tight junctions, cause proteolytic damage to tissue, break down cytokines and alpha proteinase inhibitor, cleave immunoglobulin A and G (IgA, IgG), and cleave both C3bi, a component of the complement system, and CR1, a receptor on neutrophils for another complement molecule involved in phagocytosis. The cleavage of IgA, IgG, C3bi, and CR1 contributes to a decrease of the ability of neutrophils to kill bacteria by phagocytosis. Together, all these factors contribute to human pathology.",
+            "score": 89.96477508544922
+        },
+        {
+            "docid": "51714214_8",
+            "document": "Discovery and development of direct Xa inhibitors . Blood coagulation is a complex process by which the blood forms clots. It is an essential part of hemostasis and works by stopping blood loss from damaged blood vessels. At the site of injury, where there is an exposure of blood under the endothelium, the platelets gather and immediately form a plug. That process is called primary hemostasis. Simultaneously, a secondary hemostasis occurs. It is defined as the formation of insoluble fibrin by activated coagulation factors, specifically thrombin. These factors activate each other in a blood coagulation cascade that occurs through two separate pathways that interact, the intrinsic and extrinsic pathway. After activating various proenzymes, thrombin is formed in the last steps of the cascade, it then converts fibrinogen to fibrin which leads to clot formation. Factor Xa is an activated serine protease that occupies a key role in the blood coagulation pathway by converting prothrombin to thrombin. Inhibition of factor Xa leads to antithrombotic effects by decreasing the amount of thrombin. Directly targeting factor Xa is suggested to be an effective approach to anticoagulation.",
+            "score": 88.40106201171875
+        },
+        {
+            "docid": "7331009_5",
+            "document": "Cathepsin G . Cathepsin G has a specificity similar to that of chymotrypsin C, but it is most closely related to other immune serine proteases, such as neutrophil elastase and the granzymes. As a neutrophil serine protease, was first identified as degradative enzyme that acts intracellularly to degrade ingested host pathogens and extracellularly in the breakdown of ECM components at inflammatory sites. It localizes to Neutrophil extracellular traps (NETs), via its high affinity for DNA, an unusual property for serine proteases. Transcript variants utilizing alternative polyadenylation signals exist for this gene. Cathepsin G was also found to exert broad-spectrum antibacterial action against Gram-negative and \u2013positive bacteria independent of the function mentioned above. Other functions of cathepsin G have been reported, including cleavage of receptors, conversion of angiotensin \u2160 to angiotensin \u2161, platelet activation, and induction of airway submucosal gland secretion. Potential implications of the enzyme in blood-brain barrier breakdown was also found.",
+            "score": 88.3802719116211
+        },
+        {
+            "docid": "1872854_6",
+            "document": "Biochemical cascade . In biochemistry, several important enzymatic cascades and signal transduction cascades participate in metabolic pathways or signaling networks, in which enzymes are usually involved to catalyze the reactions. For example, the tissue factor pathway in the coagulation cascade of secondary hemostasis is the primary pathway leading to fibrin formation, and thus, the initiation of blood coagulation. The pathways are a series of reactions, in which a zymogen (inactive enzyme precursor) of a serine protease and its glycoprotein co-factors are activated to become active components that then catalyze the next reaction in the cascade, ultimately resulting in cross-linked fibrin.",
+            "score": 87.57487487792969
+        },
+        {
+            "docid": "212193_7",
+            "document": "Coagulation . The coagulation cascade of secondary hemostasis has two initial pathways which lead to \"fibrin\" formation. These are the \"contact activation pathway\" (also known as the intrinsic pathway), and the \"tissue factor pathway\" (also known as the extrinsic pathway), which both lead to the same fundamental reactions that produce fibrin. It was previously thought that the two pathways of coagulation cascade were of equal importance, but it is now known that the primary pathway for the initiation of blood coagulation is the \"tissue factor\" (extrinsic) pathway. The pathways are a series of reactions, in which a zymogen (inactive enzyme precursor) of a serine protease and its glycoprotein co-factor are activated to become active components that then catalyze the next reaction in the cascade, ultimately resulting in cross-linked fibrin. Coagulation factors are generally indicated by Roman numerals, with a lowercase \"a\" appended to indicate an active form.",
+            "score": 86.55622100830078
+        },
+        {
+            "docid": "47049812_14",
+            "document": "Hormonal breast enhancement . Cyclooxygenase-2 (COX-2) overexpression in mammary gland tissue produces mammary gland hyperplasia as well as precocious mammary gland development in female mice, indicating a strong stimulatory effect of this enzyme on the growth of the mammary glands. These effects appear to be downstream actions of increased activation of the prostaglandin EP, EP, and EP receptors, but not the EP receptor, in mammary gland tissue, which in turn results in the potent induction of amphiregulin expression, a critical growth factor involved in normal mammary gland development. In addition, agonists of the epidermal growth factor receptor (EGFR), the molecular target of amphiregulin, induce COX-2 expression in mammary gland tissue, potentially resulting in a self-perpetuating cycle of growth amplification by COX-2. This mechanism is closely related to formation, growth, and spreading of cancers with poor prognosis, and is in accordance with the fact that long-term administration of aspirin, a COX inhibitor, as well as of other COX-inhibiting nonsteroidal anti-inflammatory drugs (NSAIDs), have been found to slightly reduce the risk of breast cancer in women (it is notable here that breast growth/size and breast cancer risk are positively associated). Taken together, these findings indicate that COX-2 inhibitors, such as aspirin, ibuprofen, naproxen, paracetamol (acetaminophen), and celecoxib, may suppress growth of breast tissue.",
+            "score": 83.38214874267578
+        },
+        {
+            "docid": "1945285_5",
+            "document": "Ascaris . As part of the parasite defense strategy, \"Ascaris\" roundworms secrete a series of inhibitors to target digestive and immune-related host proteases, which include pepsin, trypsin, chymotrypsin/elastase, cathepsins, and metallocarboxypeptidases (MCPs). \"Ascaris\" species inhibit MCPs by releasing an enzyme known as \"Ascaris\" carboxypeptidase inhibitor (ACI). This enzyme binds to the active site of MCP and blocks the cleavage of its own proteins by the host MCP.",
+            "score": 82.5799331665039
+        },
+        {
+            "docid": "2275394_4",
+            "document": "Endostatin . Endostatin is an endogenous inhibitor of angiogenesis. It was first found secreted in the media of non-metastasizing mouse cells from a hemangioendothelioma cell line in 1997 and was subsequently found in humans. It is produced by proteolytic cleavage of collagen XVIII, a member of the multiplexin family that is characterized by interruptions in the triple helix creating multiple domains, by proteases such as cathepsins. Collagen is a component of epithelial and endothelial basement membranes. Endostatin, as a fragment of collagen 18, demonstrates a role of the ECM in suppression of neoangiogenesis. Pro-angiogenic and anti-angiogenic factors can also be created by proteolysis during coagulation cascades. Endogenous inhibitors of angiogenesis are present in both normal tissue and cancerous tissue. Overall, endostatin down regulates many signaling cascades like ephrin, TNF-\u03b1, and NF\u03baB signaling as well as coagulation and adhesion cascades. Other collagen derived antiangiogenic factors include arresten, canstatin, tumstatin, \u03b1 6 collagen type IV antiangiogenic fragment, and restin.",
+            "score": 81.62902069091797
+        },
+        {
+            "docid": "27557247_3",
+            "document": "John D. Lambris . Dr. Lambris' laboratory was among the first to study the critical sites of complement component C3 responsible for its diverse functions and also to define its complex binding dynamics to various C3 natural ligands, viral proteins, complement receptors, and regulators. His laboratory contributed in the development of complement-based anti-inflammatory therapeutics through the discovery of the first small-size complement inhibitor, termed Compstatin, which has exhibited consistent efficacy for use in a series of in vivo trials and shows great promise for the use in the clinic. His subsequent efforts to develop more potent compstatin analogues have laid the development of a novel platform for peptide-based drug design, integrating both rational and in silico approaches. In as series of elegant in vivo studies the Lambris lab. established an unprecedented association of complement components with non-inflammatory pathways by demonstrating the involvement of complement in the developmental processes, including liver and limb regeneration, hematopoietic development and stem cell engraftment. Dr. Lambris has also contributed in the field of evolutionary immunology by identifying multiple complement genes in fish and the mechanism by which they expand immune recognition and develop a versatile innate immune system to compensate for their weak adaptive immune repertoire.",
+            "score": 80.08838653564453
+        },
+        {
+            "docid": "14723694_3",
+            "document": "SLPI . This gene encodes a secreted inhibitor which protects epithelial tissues from serine proteases. It is found in various secretions including seminal plasma, cervical mucus, and bronchial secretions, and has affinity for trypsin, leukocyte elastase, and cathepsin G. Its inhibitory effect contributes to the immune response by protecting epithelial surfaces from attack by endogenous proteolytic enzymes; the protein is also thought to have broad-spectrum anti-biotic activity.",
+            "score": 77.12586975097656
+        },
+        {
+            "docid": "51714214_7",
+            "document": "Discovery and development of direct Xa inhibitors . Factor Xa was identified as a promising target for the development of new anticoagulants in the early 1980s. In 1987 the first factor Xa inhibitor, the naturally occurring compound antistasin, was isolated from the salivary glands of the Mexican leech \"Haementeria officinalis\". Antistasin is a polypeptide and a potent Xa inhibitor. In 1990 another naturally occurring Xa inhibitor was isolated, tick anticoagulant peptide (TAP) from extracts of the tick \"Ornithodoros moubata\". TAP and antistasin were used to estimate factor Xa as a drug target.",
+            "score": 76.7422103881836
+        },
+        {
+            "docid": "51714214_9",
+            "document": "Discovery and development of direct Xa inhibitors . In 1987 antistasin was tested as the first direct Xa inhibitor. Antistasin is a protein made up of 119 amino acid residues, of which 20 are cysteines involved in 10 disulfide bonds. It acts as a slow, tight-binding inhibitor of factor Xa with a Ki value of 0.3\u20130.6 nM but it also inhibits trypsin. Recombinant Antistasin can be produced by genetically modified yeast, s\"accharomyces cerevisiae\". Another natural occurring direct Xa-inhibitor, the tick anticoagulant peptide (TAP), was discovered in 1990. It is a single-chain, 60 amino acid peptide and like antistasin it is a slow, tight-binding inhibitor with a similar Ki value (~0.6 nM). These two proteins were mostly used to validate factor Xa as a drug target. Animal studies suggested direct Xa-inhibition to be a more efficient approach to anticoagulation compared to direct thrombin inhibitors, especially offering a wider therapeutic window and reducing the risk of rebound thrombosis, (increase in thromboembolic events occurring shortly after the withdrawal of an antithrombotic medication) compared to direct and indirect thrombin inhibitors.",
+            "score": 76.38185119628906
+        },
+        {
+            "docid": "51714214_13",
+            "document": "Discovery and development of direct Xa inhibitors . Factors IIa, Xa, VIIa, IXa and XIa are all proteolytic enzymes that have a specific role in the coagulation cascade. Factor Xa (FXa) is the most promising one due to its position at the intersection of the intrinsic and extrinsic pathway as well as generating around 1000 thrombin molecules for each Xa molecule which results in a potent anticoagulant effect. FXa is generated from FX by cleavage of a 52 amino acid activation peptide, as the \"a\" in factor Xa means activated. FXa consists of 254 amino acid catalytic domain and is also linked to a 142 amino acid light chain. The chain contains both GLA domain and two epidermal growth factor domains (EGF like domains).",
+            "score": 76.29557800292969
+        },
+        {
+            "docid": "14723656_7",
+            "document": "Granulin . Progranulin levels are elevated when tissue is inflamed. After wounding, keratinocytes, macrophages and neutrophils increase production of progranulin. Neutrophils are capable of secreting elastase into the extracellular matrix that is capable of cleaving progranulin into granulin peptides, that promote further promote inflammation. SLPI, inhibitors of elastase, are also released by neutrophiles and macrophages to modulate progranulin cleavage. Addition of granulin B in cultured epithelial cells causes cells to secrete IL-8, a chemical that attracts monocytes and neutrophils, which further suggests the involvement of granulin peptides in promoting inflammation. The addition of exogenous SLPI and progranulin is able to alleviate the enhanced inflammatory response of mice that are unable to inhibit the cleavage of progranulin.",
+            "score": 76.09004974365234
+        },
+        {
+            "docid": "37120076_2",
+            "document": "Discovery and development of direct thrombin inhibitors . Direct thrombin inhibitors (DTIs) are a class of anticoagulant drugs that can be used to prevent and treat embolisms and blood clots caused by various diseases. They inhibit thrombin, a serine protease which affects the coagulation cascade in many ways. DTIs have undergone rapid development since the 90's. With technological advances in genetic engineering the production of recombinant hirudin was made possible which opened the door to this new group of drugs. Before the use of DTIs the therapy and prophylaxis for anticoagulation had stayed the same for over 50 years with the use of heparin derivatives and warfarin which have some well known disadvantages. DTIs are still under development, but the research focus has shifted towards factor Xa inhibitors, or even dual thrombin and fXa inhibitors that have a broader mechanism of action by both inhibiting factor IIa (thrombin) and Xa. A recent review of patents and literature on thrombin inhibitors has demonstrated that the development of allosteric and multi-mechanism inhibitors might lead the way to a safer anticoagulant.",
+            "score": 75.38259887695312
+        },
+        {
+            "docid": "5101344_15",
+            "document": "Formylation . Inhibition of enzymes involved in purine biosynthesis has been exploited as a potential drug target for chemotherapy. Cancer cells require high concentrations of purines to facilitate division and tend to rely on de novo synthesis rather than the nucleotide salvage pathway. Several folate based inhibitors have been developed to inhibit formylation reactions by GAR transformylase and AICAR transformylase. The first GAR transformylase inhibitor Lometrexol [(6R)5,10-dideazatetrahydrofolate] was developed in the 1980s through a collaboration between Eli Lilly and academic laboratories. Although similar in structure to N10-formyl-THF, lometrexol is incapable of carrying out one carbon transfer reactions. Additionally, several GAR based inhibitors of GAR transformylase have also been synthesized. Development of folate based inhibitors have been found to be particularly challenging as the inhibitors also down regulate the enzyme folypolyglutamate synthase, which adds additional \u03b3-glutamates to monoglutamate folates and antifolates after entering the cell for increased enzyme affinity. This increased affinity can lead to antifolate resistance.",
+            "score": 75.03399658203125
+        },
+        {
+            "docid": "244113_16",
+            "document": "Lyme disease . Within the tick midgut, the \"Borrelia\"s outer surface protein A (OspA) binds to the tick receptor for OspA, known as TROSPA. When the tick feeds, the\" Borrelia\" downregulates OspA and upregulates OspC, another surface protein. After the bacteria migrate from the midgut to the salivary glands, OspC binds to Salp15, a tick salivary protein that appears to have immunosuppressive effects that enhance infection. Successful infection of the mammalian host depends on bacterial expression of OspC.",
+            "score": 74.6642074584961
+        },
+        {
+            "docid": "12671946_4",
+            "document": "Nitroxoline . Nitroxoline has been shown to inhibit the enzymatic activity of cathepsin B. Cathepsin B degrades extra-cellular membrane proteins in tumor cells, allowing them to proliferate more freely, and metastasize throughout the body. Nitroxoline was shown to be a noncompetitive, reversible inhibitor of these actions in MCF-10A neoT cells. The \"K\" (dissociation constant) values it demonstrates are comparable to other reversible inhibitors of cathepsin B. This indicates that it may be a candidate for further trials as an anticancer drug, especially given its history as an antimicrobial agent and its well-known pharmacokinetic profile. The mechanism of action by which nitroxoline inhibits cathepsin B may also suggest that further research of noncovalent, noncompetitive inhibitors of cathepsin B could be warranted. In fact, it was recently shown that a balance exists between the potency and the kinetics of a molecule, reflected in the molecular weight, which must be optimized in order to create the best drug for inhibition of a target enzyme. For example, a certain inhibitor may have a high affinity for an enzyme, but it may prove impractical to use in a clinical setting for treatment because of its size.",
+            "score": 74.54878234863281
+        },
+        {
+            "docid": "32646106_2",
+            "document": "Ecotin . In molecular biology, ecotin is a protease inhibitor which belongs to MEROPS inhibitor family I11, clan IN. Ecotins are dimeric periplasmic proteins from \"Escherichia coli\" and related Gram-negative bacteria that have been shown to be potent inhibitors of many trypsin-fold serine proteases of widely varying substrate specificity, which belong to MEROPS peptidase family S1. Phylogenetic analysis suggested that ecotin has an exogenous target, possibly neutrophil elastase. Ecotin from \"E. coli\", \"Yersinia pestis\", and \"Pseudomonas aeruginosa\", all species that encounter the mammalian immune system, inhibit neutrophil elastase strongly while ecotin from the plant pathogen \"Pantoea citrea\" inhibits neutrophil elastase 1000-fold less potently. Ecotins all potently inhibit pancreatic digestive peptidases trypsin and chymotrypsin, while showing more variable inhibition of the blood peptidases Factor Xa, thrombin, and urokinase-type plasminogen activator.",
+            "score": 74.24474334716797
+        },
+        {
+            "docid": "1499988_2",
+            "document": "C1-inhibitor . C1-inhibitor (C1-inh, C1 esterase inhibitor) is a protease inhibitor belonging to the serpin superfamily. Its main function is the inhibition of the complement system to prevent spontaneous activation. C1-inhibitor is an acute-phase protein that circulates in blood at levels of around 0.25 g/L. The levels rise ~2-fold during inflammation. C1-inhibitor irreversibly binds to and inactivates C1r and C1s proteases in the C1 complex of classical pathway of complement. MASP-1 and MASP-2 proteases in MBL complexes of the lectin pathway are also inactivated. This way, C1-inhibitor prevents the proteolytic cleavage of later complement components C4 and C2 by C1 and MBL. Although named after its complement inhibitory activity, C1-inhibitor also inhibits proteases of the fibrinolytic, clotting, and kinin pathways. Note that C1-inhibitor is the most important physiological inhibitor of plasma kallikrein, fXIa, and fXIIa.",
+            "score": 73.96638488769531
+        },
+        {
+            "docid": "8236450_8",
+            "document": "Lipoprotein(a) . Lp(a) is assembled at the hepatocyte cell membrane surface, while other scenarios exist with regard to the location of assembly. It mainly exists in plasma. Lp(a) contributes to the process of atherogenesis. Because of its structural similarity to plasminogen and tissue plasminogen activator, competitive inhibition leads to reduced fibrinolysis, and as a result of the stimulation of secretion of plasminogen activator inhibitor 1, Lp(a) leads to thrombogenesis. It also may enhance coagulation by inhibiting the function of tissue factor pathway inhibitor. Lp(a) carries cholesterol and binds atherogenic proinflammatory oxidized phospholipids as a preferential carrier of oxidized phospholipids in human plasma, which attract inflammatory cells to vessel walls and leads to smooth muscle cell proliferation. Moreover, Lp(a) also is hypothesized to be involved in wound healing and tissue repair, interacting with components of the vascular wall and extra cellular matrix. Apo(a), a distinct feature of the Lp(a) particle, binds to immobilized fibronectin and endows Lp(a) with the serine-proteinase-type proteolytic activity.",
+            "score": 73.95545959472656
+        },
+        {
+            "docid": "37120076_4",
+            "document": "Discovery and development of direct thrombin inhibitors . When a blood vessel ruptures or gets injured, factor VII comes into contact with tissue factors which starts a process called the blood coagulation cascade. Its purpose is to stop bleeding and repair tissue damage. When this process is too active due to various problems the risk of blood clots or embolisms increases. As the name indicates the cascade is a multi-step procedure where the main product thrombin is made by activating various proenzymes (mainly serine proteases) in each step of the cascade. Thrombin has multiple purposes, but mainly it converts soluble fibrinogen to an insoluble fibrin complex. Furthermore, it activates factors V, VIII and XI, all by cleaving the sequences GlyGlyGlyValArg-GlyPro and PhePheSerAlaArg-GlyHis, selectively between Arginine (Arg) and Glycine (Gly). These factors generate more thrombin. Thrombin also activates factor XIII that stabilizes the fibrin complex and therefore the clot and it stimulates platelets, which help with the coagulation. Given this broad action of thrombin it stands as a good drug target for anticoagulant drugs such as heparin, warfarin and DTIs and antiplatelet drugs like aspirin.",
+            "score": 73.77618408203125
+        },
+        {
+            "docid": "10085290_31",
+            "document": "Lyme disease microbiology . OspA, OspB, and OspD are expressed by \"B. burgdorferi\" residing in the gut of unfed ticks, suggesting they promote the persistence of the spirochete in ticks between blood meals. During transmission to the mammalian host, when the nymphal tick begins to feed and the spirochetes in the midgut begin to multiply rapidly, most spirochetes cease expressing OspA on their surfaces. Simultaneous with the disappearance of OspA, the spirochete population in the midgut begins to express an OspC and migrates to the salivary gland. Upregulation of OspC begins during the first day of feeding and peaks 48 hours after attachment.",
+            "score": 73.55558013916016
+        },
+        {
+            "docid": "50264946_6",
+            "document": "Translational glycobiology . The surfaces of cancer cells often exhibit aberrant glycosylation, which serves to mediate cell proliferation, metastasis, and tumor progression. However, because these glycans often differ from those present on healthy cells, they also serve as candidates to act as cancer biomarkers for use in diagnostics and in developing targeted therapies that discriminate between cancerous cells and normal host tissue. One such therapy involves the use of enzyme inhibitors that target those enzymes involved in the biosynthesis of cancer-associated glycans. Another treatment is cancer immunotherapy, which directs the immune system to attack tumor cells expressing the targeted altered glycoconjugates.",
+            "score": 73.49903869628906
+        },
+        {
+            "docid": "212193_11",
+            "document": "Coagulation . The division of coagulation in two pathways is mainly artificial, it originates from laboratory tests in which clotting times were measured after the clotting was initiated by glass (intrinsic pathway) or by thromboplastin (a mix of tissue factor and phospholipids). In fact thrombin is present from the very beginning, already when platelets are making the plug. \"Thrombin\" has a large array of functions, not only the conversion of fibrinogen to fibrin, the building block of a hemostatic plug. In addition, it is the most important platelet activator and on top of that it activates Factors VIII and V and their inhibitor protein C (in the presence of thrombomodulin), and it activates Factor XIII, which forms covalent bonds that crosslink the fibrin polymers that form from activated monomers.",
+            "score": 73.4488296508789
+        },
+        {
+            "docid": "3488934_11",
+            "document": "Rivaroxaban . Rivaroxaban inhibits both free Factor Xa and Factor Xa bound in the prothrombinase complex. It is a highly selective direct Factor Xa inhibitor with oral bioavailability and rapid onset of action. Inhibition of Factor Xa interrupts the intrinsic and extrinsic pathway of the blood coagulation cascade, inhibiting both thrombin formation and development of thrombi. Rivaroxaban does not inhibit thrombin (activated Factor II), and no effects on platelets have been demonstrated. It allows predictable anticoagulation and dose adjustments and routine coagulation monitoring as well as dietary restrictions are not needed.",
+            "score": 73.39810943603516
+        },
+        {
+            "docid": "50015256_26",
+            "document": "Insects in medicine . Currently, some preliminary progress has been made with investigation of the therapeutic properties of tick anticoagulant peptide (TAP) and Ixolaris a novel recombinant tissue factor pathway inhibitor (TFPI) from the salivary gland of the tick, \"Ixodes scapularis\". Additionally, Ixolaris, a tissue factor inhibitor has been shown to block primary tumor growth and angiogenesis in a glioblastoma model. Despite the strong potential of these compounds for use as anticoagulants or immunomodulating drugs no modern medicines, developed from the saliva of blood-sucking insects, are currently on the market.",
+            "score": 73.29576873779297
+        },
+        {
+            "docid": "960896_14",
+            "document": "Angioedema . Various mechanisms that interfere with bradykinin production or degradation can lead to angioedema. ACE inhibitors block ACE, the enzyme that among other actions, degrades bradykinin. In hereditary angioedema, bradykinin formation is caused by continuous activation of the complement system due to a deficiency in one of its prime inhibitors, C1-esterase (aka: C1-inhibitor or C1INH), and continuous production of kallikrein, another process inhibited by C1INH. This serine protease inhibitor (serpin) normally inhibits the association of C1r and C1s with C1q to prevent the formation of the C1-complex, which - in turn - activates other proteins of the complement system. Additionally, it inhibits various proteins of the coagulation cascade, although effects of its deficiency on the development of hemorrhage and thrombosis appear to be limited.",
+            "score": 72.87964630126953
+        },
+        {
+            "docid": "24026796_3",
+            "document": "Ehrlichia canis . The brown dog tick, \"Rhipicephalus sanguineus\", acts as the primary vector of \"E. canis\" transferring the pathogen between hosts during blood meals. Dogs, both domestic and wild, act as reservoir hosts for this pathogen and are the primary hosts of brown dog ticks. Brown dog ticks become carriers of the pathogen when they take a blood meal from a rickessemic dog. Stored in the midgut and salivary glands of an infected tick, \"E. canis\" is transferred via the saliva of ticks carrying the pathogen to hosts during blood meals. If infected while in the larval stage, the tick retains the pathogen through the next 2 life stages and can inoculate hosts during blood meals in both the nymph and adult stage in transstadial transmission.",
+            "score": 72.75137329101562
+        },
+        {
+            "docid": "14798647_4",
+            "document": "SERPINB1 . SerpinB1 is a cytoplasmic serine protease inhibitor of polymorphonuclear neutrophils. Among other serine proteases, it specifically inhibits neutrophil elastase, PR3 and cathepsin G, all found in neutrophil granules, by a suicide inhibition mechanism. SerpinB1 was found to reduce tissue damage caused by the mentioned proteases during inflammation and has a role in neutrophil homeostasis in mice. In various infection models (e.g. pneumonia) correlation of SerpinB1 absence and lack of microbial clearance have been shown. Different knockout strains serve as model to investigate the role of SerpinB1 in vivo.",
+            "score": 72.17849731445312
+        },
+        {
+            "docid": "32197577_12",
+            "document": "Galiella rufa . \"Galiella rufa\" produces several structurally related hexaketide compounds that have attracted attention for their biological properties: pregaliellalactone, galiellalactone. The compounds have anti-nematodal activity, killing the nematodes \"Caenorhabditis elegans\" and \"Meloidogyne incognita\". These compounds have been shown in laboratory tests to inhibit the early steps of the biosynthetic pathways induced by plant hormones known as gibberellic acids, and they also inhibit the germination of seeds of several plants. Galiellalactone is additionally a highly selective and potent inhibitor of interleukin-6 (IL-6) signaling in HepG2 cells. IL-6 is a multifunctional cytokine which is produced by a large variety of cells and functions as a regulator of immune response, acute phase reactions, and hematopoiesis. Researchers are interested in the potential of small-molecule inhibitors (such as the ones produced by \"G.\u00a0rufa\") to interfere with the IL-6 signaling cascade that leads to the expression of genes involved in disease.",
+            "score": 72.10208892822266
+        }
+    ]
+}

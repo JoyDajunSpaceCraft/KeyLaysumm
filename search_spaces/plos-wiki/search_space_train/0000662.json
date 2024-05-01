@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "15028187_5",
+            "document": "LONP1 . For Lon protease-dependent degradation, protein substrates are first recognized and then unfolded if necessary in an ATP-dependent manner. The substrates are subsequently transferred through the pore of complex and into the proteolytic chamber of complex for degradation. ATP binding to the AAA module of the Lon complex results in a change in Lon conformation into a proteolytically active state. In general, Lon protease interacts with peptide regions(sequences) that are located within the hydrophobic core of substrates and rarely on the surface. These regions can be presented to Lon protease when proteins are damaged and lost their conformation integrity. In addition to misfolded proteins, several regulatory proteins can be processed by Lon protease by removing a degradable tag before they fully gain their biological functions.",
+            "score": 192.9401409626007
+        },
+        {
+            "docid": "15028187_3",
+            "document": "LONP1 . This gene encoded a mitochondrial matrix protein that is the subunit of a barrel-shaped homo-oligometric protein complex, the Lon protease. Lon protease is a member of ATP-dependent proteases (AAA+ proteases). Mature and catalytically viable Human Lon protease complex contains a hexameric ring while other formations of complexes have been observed (e.g., heptameric ring in \"Saccharomyces cerevisiae\"). A single subunit of Lon protease contains three domains, N-Domain for protein substrate recognition, AAA + module for ATP binding and hydrolysis, and P-domain for protein proteolysis. A similar protease expressed in \"E. coli\" regulates gene expression by targeting specific regulatory proteins for degradation. Lon protease binds a specific sequence in the light and heavy chain promoters of the mitochondrial genome which are involved in regulation of DNA replication and transcription.",
+            "score": 199.82705664634705
+        },
+        {
+            "docid": "55962889_3",
+            "document": "Lon peptidase 2, peroxisomal . In human, peroxisomes function primarily to catalyze fatty acid beta-oxidation and, as a by-product, produce hydrogen peroxide and superoxide. The protein encoded by this gene is an ATP-dependent protease that likely plays a role in maintaining overall peroxisome homeostasis as well as proteolytically degrading peroxisomal proteins damaged by oxidation. The protein has an N-terminal Lon N substrate recognition domain, an ATPase domain, a proteolytic domain, and, in some isoforms, a C-terminal peroxisome targeting sequence. Alternative splicing results in multiple transcript variants encoding distinct isoforms. [provided by RefSeq, Jan 2017].",
+            "score": 153.54028701782227
+        },
+        {
+            "docid": "39278934_2",
+            "document": "Endopeptidase La . Endopeptidase La (, \"ATP-dependent serine proteinase\", \"lon proteinase\", \"protease La\", \"proteinase La\", \"ATP-dependent lon proteinase\", \"ATP-dependent protease La\", \"Escherichia coli proteinase La\", \"Escherichia coli serine proteinase La\", \"gene lon protease\", \"gene lon proteins\", \"PIM1 protease\", \"PIM1 proteinase\", \"serine protease La\") is an enzyme. This enzyme catalyses the following chemical reaction",
+            "score": 196.51015758514404
+        },
+        {
+            "docid": "34627159_2",
+            "document": "Lon protease family . In molecular biology, the Lon protease family is a family of proteases. They are found in archaea, bacteria and eukaryotes. Lon proteases are ATP-dependent serine peptidases belonging to the MEROPS peptidase family S16 (lon protease family, clan SJ). In the eukaryotes the majority of the Lon proteases are located in the mitochondrial matrix. In yeast, the Lon protease PIM1 is located in the mitochondrial matrix. It is required for mitochondrial function, it is constitutively expressed but is increased after thermal stress, suggesting that PIM1 may play a role in the heat shock response.",
+            "score": 184.94383883476257
+        },
+        {
+            "docid": "15028187_4",
+            "document": "LONP1 . Lon protease (LONP1) is a conserved serine peptidase identified from bacteria to eukaryotic cells. In mitochondrial matrix, a majority of damaged proteins is removed via proteolysis led by Lon protease, which is an essential mechanism for mitochondrial protein quality control (PQC).",
+            "score": 144.52325105667114
+        },
+        {
+            "docid": "2142816_16",
+            "document": "Borrelia burgdorferi . After the pathogen is transmitted, it will acclimate to the mammalian conditions. \"Borrelia burgdorferi\" will change its glycoproteins and proteases on its plasma membrane to facilitate its dissemination throughout the blood. While infecting, \"B. burgdorferi\" will express proteins that will interact with endothelial cells, platelets, chondrocytes, and the extracellular matrix. This interaction inhibits proper function of the infected areas, leading to the pathological manifestations of Lyme disease. In response, the host will initiate an inflammatory response to attempt to remove the infection.",
+            "score": 147.49589228630066
+        },
+        {
+            "docid": "244113_16",
+            "document": "Lyme disease . Within the tick midgut, the \"Borrelia\"s outer surface protein A (OspA) binds to the tick receptor for OspA, known as TROSPA. When the tick feeds, the\" Borrelia\" downregulates OspA and upregulates OspC, another surface protein. After the bacteria migrate from the midgut to the salivary glands, OspC binds to Salp15, a tick salivary protein that appears to have immunosuppressive effects that enhance infection. Successful infection of the mammalian host depends on bacterial expression of OspC.",
+            "score": 71.44877481460571
+        },
+        {
+            "docid": "34479387_6",
+            "document": "Cyanobacterial clock proteins . Also in the KaiC family is RadA/Sms, a highly conserved eubacterial protein that shares sequence similarity with both RecA strand transferase and lon protease. The RadA/Sms family are probable ATP-dependent proteases involved in both DNA repair and degradation of proteins, peptides, glycopeptides. They are classified in as non-peptidase homologues and unassigned peptidases in MEROPS peptidase family S16 (lon protease family, clan SJ). RadA/Sms is involved in recombination and recombinational repair, most likely involving the stabilisation or processing of branched DNA molecules or blocked replication forks because of its genetic redundancy with RecG and RuvABC.",
+            "score": 147.34171772003174
+        },
+        {
+            "docid": "22612978_11",
+            "document": "Ixodes pacificus . The western black-legged tick is a vector for Lyme disease, which is caused by infection with \"Borrelia burgdorferi\". After feeding on a host animal infected with the bacterium, the tick is then able to transmit it to other animals, including humans, through subsequent blood meals. The nymphal stage, and sometimes adult female ticks, are responsible for the majority of transmission events. Nymphal ticks primarily feed on small animals and humans during the spring and early summer, while adult ticks are most active during the winter and seek out hosts from late fall to spring.",
+            "score": 105.64185667037964
+        },
+        {
+            "docid": "16858352_4",
+            "document": "ATP-dependent Clp protease proteolytic subunit . In bacteria, it was shown that ClpP is capable to cleave full-length proteins without being associated with ClpA but the degradation is at a much slower rate. Fully functional Clp protease requires the participation of AAA+ ATPase. These ClpX chaperons recognize, unfold and transfer protein substrates to proteolytic core formed by ClpP tetradecamer. The proteolytic sites of ClpP subunits contain hydrophobic grooves which recruit substrate and host the catalytic triad Asp-His-Ser.  In several bacteria, such as \"E. coli\", proteins tagged with the SsrA peptide (ANDENYALAA) encoded by tmRNA are digested by Clp proteases.",
+            "score": 84.95486998558044
+        },
+        {
+            "docid": "244113_2",
+            "document": "Lyme disease . Lyme disease, also known as Lyme borreliosis, is an infectious disease caused by bacteria of the \"Borrelia\" type which is spread by ticks. The most common sign of infection is an expanding area of redness on the skin, known as erythema migrans, that begins at the site of a tick bite about a week after it has occurred. The rash is typically neither itchy nor painful. Approximately 25\u201350% of infected people do not develop a rash. Other early symptoms may include fever, headache and feeling tired. If untreated, symptoms may include loss of the ability to move one or both sides of the face, joint pains, severe headaches with neck stiffness, or heart palpitations, among others. Months to years later, repeated episodes of joint pain and swelling may occur. Occasionally, people develop shooting pains or tingling in their arms and legs. Despite appropriate treatment, about 10 to 20% of people develop joint pains, memory problems, and feel tired for at least six months. Lyme disease is transmitted to humans by the bite of infected ticks of the genus \"Ixodes\". Usually, the tick must be attached for 36 to 48 hours before the bacteria can spread. In North America, \"Borrelia burgdorferi\" and \"Borrelia mayonii\" are the cause. In Europe and Asia, the bacteria \"Borrelia afzelii\" and \"Borrelia garinii\" are also causes of the disease. The disease does not appear to be transmissible between people, by other animals, or through food. Diagnosis is based upon a combination of symptoms, history of tick exposure, and possibly testing for specific antibodies in the blood. Blood tests are often negative in the early stages of the disease. Testing of individual ticks is not typically useful. Prevention includes efforts to prevent tick bites such as by wearing long pants and using DEET. Using pesticides to reduce tick numbers may also be effective. Ticks can be removed using tweezers. If the removed tick was full of blood, a single dose of doxycycline may be used to prevent development of infection, but is not generally recommended since development of infection is rare. If an infection develops, a number of antibiotics are effective, including doxycycline, amoxicillin, and cefuroxime. Standard treatment usually lasts for two or three weeks. Some people develop a fever and muscle and joint pains from treatment which may last for one or two days. In those who develop persistent symptoms, long-term antibiotic therapy has not been found to be useful. Lyme disease is the most common disease spread by ticks in the Northern Hemisphere. It is estimated to affect 300,000 people a year in the United States and 65,000 people a year in Europe. Infections are most common in the spring and early summer. Lyme disease was diagnosed as a separate condition for the first time in 1975 in Old Lyme, Connecticut. It was originally mistaken for juvenile rheumatoid arthritis. The bacterium involved was first described in 1981 by Willy Burgdorfer. Chronic symptoms following treatment are well described and are known as post-treatment Lyme disease syndrome (PTLDS). PTLDS is different to chronic Lyme disease; a no longer supported term used in different ways by different groups. Some healthcare providers claim that it is due to ongoing infection; however, this is not believed to be true, due to the inability to detect infectious organisms after standard treatment. A Lyme vaccine was marketed in the US between 1998 and 2002; it was withdrawn from the market due to poor sales, originally due to lack of reimbursement by insurance companies and then due to rumors about adverse effects. Research is ongoing to develop new vaccines.",
+            "score": 68.99786424636841
+        },
+        {
+            "docid": "32271840_3",
+            "document": "ATP-dependent Clp protease adaptor protein ClpS . In molecular biology, the ATP-dependent Clp protease adaptor protein ClpS is a bacterial protein. In the bacterial cytosol, ATP-dependent protein degradation is performed by several different chaperone-protease pairs, including ClpAP. ClpS directly influences the ClpAP machine by binding to the N-terminal domain of the chaperone ClpA. The degradation of ClpAP substrates, both SsrA-tagged proteins and ClpA itself, is specifically inhibited by ClpS. ClpS modifies ClpA substrate specificity, potentially redirecting degradation by ClpAP toward aggregated proteins.",
+            "score": 56.85396957397461
+        },
+        {
+            "docid": "4917048_7",
+            "document": "Sterol regulatory element-binding protein . The ~120 kDa SREBP precursor protein is anchored in the membranes of the endoplasmic reticulum (ER) and nuclear envelope by virtue of two membrane-spanning helices in the middle of the protein. The precursor has a hairpin orientation in the membrane, so that both the amino-terminal transcription factor domain and the COOH-terminal regulatory domain face the cytoplasm. The two membrane-spanning helices are separated by a loop of about 30 amino acids that lies in the lumen of the ER. Two separate, site-specific proteolytic cleavages are necessary for release of the transcriptionally active amino-terminal domain. These cleavages are carried out by two distinct proteases, called site-1 protease (S1P) and site-2 protease (S2P).",
+            "score": 57.571465730667114
+        },
+        {
+            "docid": "45691295_8",
+            "document": "Pat Nuttall . These results challenge the then-accepted idea that arthropod-transmitted viruses can only be transmitted when the arthropod vector feeds on an infected host in which the virus is replicating and circulating in the blood above a threshold level. Sarah Randolph comments:  The phenomenon of nonviraemic or nonsystemic transmission turns out to be widespread \u2013 it has been subsequently observed with many other viruses transmitted by ticks, black flies and mosquitos, including major human pathogens such as West Nile virus, as well as other pathogens, including the spirochaete \"Borrelia burgdorferi\", which causes Lyme disease. \u2013 and important in natural transmission. Nuttall's group has continued to study the phenomenon, and have shown that immunity to tick-borne encephalitis virus does not prevent nonsystemic transmission.",
+            "score": 89.54822206497192
+        },
+        {
+            "docid": "47365198_8",
+            "document": "Baggio\u2013Yoshinari syndrome . The first cases were described in Brazil in 1992 in siblings from Cotia, S\u00e3o Paulo that developed symptoms as a migrating redness, general flu-like symptoms and arthritis after being bitten by ticks. Although the symptoms were similar to those presented by patients of Lyme disease, clinical and laboratorial results were considerably different. Ticks of the \"Ixodes ricinus\" complex were not found at the risk areas; bacteria from the \"Borrelia burgdorferi\" sensu lato complex \u2014that cause Lyme disease\u2014 were not found in biological fluids and tissues of the siblings. Blood analysis of the patients on electron microscopy exhibited structures resembling microorganisms of the spirochaete phylum. For these reasons, the Brazilian zoonosis was considered a new disease and named Baggio\u2013Yoshinari Syndrome (BYS), defined as: \"Exotic and emerging Brazilian infectious disease, transmitted by ticks not belonging to the \"Ixodes ricinus\" complex, caused by latent spirochetes with atypical morphology, which originates LD-like symptoms, except for occurrence of relapsing episodes and auto-immune disorders\".",
+            "score": 74.80003356933594
+        },
+        {
+            "docid": "2142816_8",
+            "document": "Borrelia burgdorferi . Lyme disease is a zoonotic, vector-borne disease transmitted by the \"Ixodes\" tick (also the vector for \"Babesia\" and \"Anaplasma\"). The infected nymphal tick transmits \"B. burgdorferi\" via its saliva to the human during its blood meal.",
+            "score": 118.28166627883911
+        },
+        {
+            "docid": "14755228_4",
+            "document": "HtrA serine peptidase 2 . Protein HtrA2, also known as Omi, is a mitochondrially-located serine protease. The human protein Serine protease HTRA2, mitochondrial is 49kDa in size and composed of 458 amino acids. The peptide fragment of 1-31 amino acid is the mitochondrial transition sequence, fragment 32-133 amino acid is propertied, and 134-458 is the mature protein Serine protease HTRA2, mitochondrial, and its theoretical pI of this protein is 6.12. HtrA2 shows similarities with DegS, a bacterial protease present in the periplasm of gram-negative bacteria. Structurally, HtrA2 is a trimeric molecule with central protease domains and a carboxy-terminal PDZ domain, which is characteristic of the HtrA family. The PDZ domain preferentially binds C-terminus of the protein substrate and modulate the proteolytic activity of the trypsin-like protease domain.",
+            "score": 59.74852788448334
+        },
+        {
+            "docid": "46502486_5",
+            "document": "ClpX . ClpX is an ATP-dependent chaperone that can recognize protein substrates by binding to protein degradation tags. These tags can be short unstructured peptide sequences (e.g., ssrA-tag in \"E coli\"). As an essential component of ClpP protease complex, ClpX recruits degradable substrates and unfolds their tertiary structure, which requires energy provided by ATP hydrolysis. Subsequently, these ClpX Chaperons transfer protein substrates into the proteolytic chamber formed by ClpP tetradecamer.",
+            "score": 72.44566202163696
+        },
+        {
+            "docid": "10707712_5",
+            "document": "Ixodes scapularis . \"I. scapularis\" has a two-year life cycle, during which time it passes through three stages: larva, nymph, and adult. The tick must take a blood meal at each stage before maturing to the next. Deer tick females latch onto a host and drink its blood for four to five days. Deer are the preferred host of the deer tick, but it is also known to feed on small rodents. After she is engorged, the tick drops off and overwinters in the leaf litter of the forest floor. The following spring, the female lays several hundred to a few thousand eggs in clusters. Transtadial (between tick stages) passage of \"Borrelia burgdorferi\" is common. Vertical passage (from mother to egg) of \"Borrelia\" is uncommon.",
+            "score": 82.82239770889282
+        },
+        {
+            "docid": "25953845_2",
+            "document": "LON-CAPA . LON-CAPA (Learning Online Network with Computer-Assisted Personalized Approach) is an e-learning platform, also known as a Course Management System (CMS) or Learning Management System (LMS). It possesses the standard features of many learning platforms (user roles, calendar, e-mail, chat rooms, blogs, resource construction, test grading, etc.), but it differs from traditional e-learning platforms in that its many web servers (in various parts of the world) can communicate with each other. Consequently, the term LON-CAPA can also refer to the LON-CAPA network, i.e. the entire set of LON-CAPA web servers and the specific implementation of an internet protocol that connects these web servers. LON-CAPA can also refer to the LON-CAPA project, i.e. the core team of scientists and programmers that develop and maintain the LON-CAPA software.",
+            "score": 149.59984946250916
+        },
+        {
+            "docid": "2142816_7",
+            "document": "Borrelia burgdorferi . \"B. burgdorferi\" circulates between \"Ixodes\" ticks and a vertebrate host in an enzootic cycle. \"B. burgdorferi\" living in a tick cannot be passed to its offspring. Therefore, tick larvae must feed on the blood of an infected animal to acquire \"B. burgdorferi\", which ends up in the midgut. The spirochetes survive as the larvae molts into a nymph and persist in the nutrient-poor midgut as the nymph overwinters. Infected nymphs then transmit \"B. burgdorferi\" by feeding on another vertebrate to complete the cycle. Ticks can transmit \"B. burgdorferi\" to humans, but humans are dead-end hosts, unlikely to continue the life cycle of the spirochete. Nymphs molt into adult ticks, which usually feed on larger mammals that are not able to support the survival of \"B. burgdorferi\".",
+            "score": 133.48104977607727
+        },
+        {
+            "docid": "10707408_2",
+            "document": "Ixodes . Ixodes is a genus of hard-bodied ticks (family Ixodidae). It includes important disease vectors of animals and humans (tick-borne disease), and some species (notably \"Ixodes holocyclus\") inject toxins that can cause paralysis. Some ticks in this genus may transmit the pathogenic bacterium \"Borrelia burgdorferi\" responsible for causing Lyme disease. Additional organisms that may be transmitted by \"Ixodes\" are parasites from the genus \"Babesia\" which cause babesiosis, and bacteria from the related genera \"Anaplasma\" which cause anaplasmosis.",
+            "score": 93.23670172691345
+        },
+        {
+            "docid": "25953845_3",
+            "document": "LON-CAPA . There are, as of 2010, more than 160 LON-CAPA domains, where a domain is a unified set of LON-CAPA web servers. LON-CAPA domains are operated, generally speaking, by individual universities and high schools in the United States and Canada, but include private organizations and a significant number of universities in Europe, Asia, South America and Africa. The LON-CAPA network allows participating universities and schools to create learning resources (test problems, web pages, etc.) and to share them across the network. This collaborative aspect is LON-CAPA's most distinctive feature.",
+            "score": 132.33399629592896
+        },
+        {
+            "docid": "53887284_8",
+            "document": "Borrelia mayonii . Infection by \"B. mayonii\" is also transferred from the bite of \"Ixodes scapularis\", a tick. \"Borellia mayonii\" causes Lyme disease like \"Borrelia burgdorferi\" with the symptoms of fever, headache, rash, neck pain, and arthritis. However, \"B. mayonii\" also has additional symptoms differentiating it from \"B. burgdorferi\", such as nausea, vomiting, macular rash, and neurological symptoms. To identify infection of \"B. mayonii\", we can use blood smears, slides with blood samples on them for use with a microscope. Mayonii spirochetes in blood smears indicate a positive infection for Lyme disease caused by \"B. mayonii\". Another alternative is using Lyme disease PCR tests which is currently only available at the Mayo Clinic. To treat this infection, the current drug of choice is doxycycline, an antibiotic, over a 2 to 4 week course.",
+            "score": 122.02212166786194
+        },
+        {
+            "docid": "57285_17",
+            "document": "Protease . Proteases are used throughout an organism for various metabolic processes. Acid proteases secreted into the stomach (such as pepsin) and serine proteases present in duodenum (trypsin and chymotrypsin) enable us to digest the protein in food. Proteases present in blood serum (thrombin, plasmin, Hageman factor, etc.) play important role in blood-clotting, as well as lysis of the clots, and the correct action of the immune system. Other proteases are present in leukocytes (elastase, cathepsin G) and play several different roles in metabolic control. Some snake venoms are also proteases, such as pit viper haemotoxin and interfere with the victim's blood clotting cascade. Proteases determine the lifetime of other proteins playing important physiological role like hormones, antibodies, or other enzymes. This is one of the fastest \"switching on\" and \"switching off\" regulatory mechanisms in the physiology of an organism.",
+            "score": 69.24240624904633
+        },
+        {
+            "docid": "34627159_1",
+            "document": "Lon protease family . Lon protease family",
+            "score": 137.9960880279541
+        },
+        {
+            "docid": "33894099_18",
+            "document": "Ticks of domestic animals . \"Borrelia\" bacteria are well described elsewhere in association with \"Ixodes\" ticks for causing Lyme disease in humans, but this disease also affects domestic dogs. \"Borrelia anserina\" is transmitted by \"Argas persicus\" to poultry, causing avian borreliosis in a wide spread of tropical and subtropical countries. \"Anaplasma phagocytophilum\" (formerly \"Ehrlichia phagocytophila\") is a bacterium of deer that spreads to sheep where it causes tick-borne fever in Europe, resulting in abortion by ewes and temporary sterility of rams. This bacterium invades and proliferates in neutrophil cells of the blood. This depletes these antibacterial cells and renders the host susceptible to opportunistic infections by \"Staphylococcus aureus\" bacteria which invade joints and cause the crippling disease of sheep called tick pyaemia. \"Anaplasma marginale\" infects marginal areas of red blood cells of cattle and causes anaplasmosis wherever boophilid ticks occur as transmitters. \"Anaplasma centrale\" tends to infect the central region of red blood cells, and is sufficiently closely related to \"An. marginale\" to have been used from long ago as a live vaccine to protect cattle against the more virulent \"An. marginale\". Sheep and goats suffer disease from infection with \"Anaplasma ovis\" which is transmitted similarly to the anaplasmas described above. \"Ehrlichia ruminantium\" (formerly \"Cowdria ruminantium\") is transmitted mainly by \"Amblyomma hebraeum\" and \"Am. variegatum\" in Africa, causing the severe disease heartwater in cattle, sheep, and goats. This disease is named after the prominent sign of pericardial edema. The bacteria infect the brain, causing prostration. Heartwater also occurs on the Caribbean islands, having spread there on shipments of cattle from Africa about 150 years ago, before anything was known of tick transmitted microbes.",
+            "score": 53.26143026351929
+        },
+        {
+            "docid": "46715816_4",
+            "document": "ACO2 . The protein encoded by this gene belongs to the aconitase/IPM isomerase family. It is an enzyme that catalyzes the interconversion of citrate to isocitrate via cis-aconitate in the second step of the TCA cycle. This protein is encoded in the nucleus and functions in the mitochondrion. It was found to be one of the mitochondrial matrix proteins that are preferentially degraded by the serine protease 15 (PRSS15), also known as Lon protease, after oxidative modification.",
+            "score": 120.41796660423279
+        },
+        {
+            "docid": "22993401_15",
+            "document": "Proteases in angiogenesis . Numerous proteolytic fragments or domains of ECM proteins have been reported to exert positive or negative activity on angiogenesis. Native proteins which contain such domains with regulatory activity are normally inactive, most likely because they are cryptic segments hidden in the native protein structure. Angiostatin is a 38\u00a0kDa plasminogen fragment with angiogenesis inhibitor activity. Angiostatin fragments contain kringle domains which exert their inhibitory activity at several different levels; they inhibit endothelial cell migration and proliferation, increase apoptosis, and modulate the activity of focal adhesion kinase (FAK). Endostatin is a 20\u00a0kDa fragment of collagen XVIII. The major role of endostatin is in its ability to potently inhibit endothelial cell migration and induce apoptosis. These effects are mediated by interacting and interfering with various angiogenic related proteins such as integrins and serine/threonine-specific protein kinases. Numerous studies have demonstrated that tropoelastin, the soluble precursor of elastin, or proteolytic elastin fragments have diverse biological properties. Nackman et al. demonstrated that elastase generated elastin fragments mediate several characteristic features of aneurismal disease which correlated to angiogenesis. Osteonectin is a metal binding glycoprotein produced by many cell types including ECs. Lastly, endorepellin is a recently described inhibitor of angiogenesis derived from the carboxy terminus of perlecan. Nanomolar concentrations of endorepellin inhibits EC migration and angiogenesis in different \"in vitro\" and \"in vivo\" models by blocking EC adhesion to various substrate such as fibronectin and type I collagen.",
+            "score": 37.71838641166687
+        },
+        {
+            "docid": "244113_54",
+            "document": "Lyme disease . New vaccines are being researched using outer surface protein C (OspC) and glycolipoprotein as methods of immunization. Vaccines have been formulated and approved for prevention of Lyme disease in dogs. Currently, three Lyme disease vaccines are available. LymeVax, formulated by Fort Dodge Laboratories, contains intact dead spirochetes which expose the host to the organism. Galaxy Lyme, Intervet-Schering-Plough's vaccine, targets proteins OspC and OspA. The OspC antibodies kill any of the bacteria that have not been killed by the OspA antibodies. Canine Recombinant Lyme, formulated by Merial, generates antibodies against the OspA protein so a tick feeding on a vaccinated dog draws in blood full of anti-OspA antibodies, which kill the spirochetes in the tick's gut before they are transmitted to the dog.",
+            "score": 58.98097777366638
+        },
+        {
+            "docid": "2142816_19",
+            "document": "Borrelia burgdorferi . The genomic variations of \"B. burgdorferi\" contribute to varying degrees of infection and dissemination. Each genomic group has varying antigens on its membrane receptor, which are specific to the infection of the host. One such membrane receptor is the surface protein OspC. The OspC surface protein is shown to be a strong indicator of the identification of genomic classification and the degree of dissemination. Varying number of OspC loci are indications and determinants for the variations of \"B.\" \"burgdorferi\". The surface protein is also on the forefront of current vaccine research for Lyme disease via \"Borrelia\".",
+            "score": 118.92996859550476
+        }
+    ],
+    "r": [
+        {
+            "docid": "15028187_3",
+            "document": "LONP1 . This gene encoded a mitochondrial matrix protein that is the subunit of a barrel-shaped homo-oligometric protein complex, the Lon protease. Lon protease is a member of ATP-dependent proteases (AAA+ proteases). Mature and catalytically viable Human Lon protease complex contains a hexameric ring while other formations of complexes have been observed (e.g., heptameric ring in \"Saccharomyces cerevisiae\"). A single subunit of Lon protease contains three domains, N-Domain for protein substrate recognition, AAA + module for ATP binding and hydrolysis, and P-domain for protein proteolysis. A similar protease expressed in \"E. coli\" regulates gene expression by targeting specific regulatory proteins for degradation. Lon protease binds a specific sequence in the light and heavy chain promoters of the mitochondrial genome which are involved in regulation of DNA replication and transcription.",
+            "score": 199.82705688476562
+        },
+        {
+            "docid": "39278934_2",
+            "document": "Endopeptidase La . Endopeptidase La (, \"ATP-dependent serine proteinase\", \"lon proteinase\", \"protease La\", \"proteinase La\", \"ATP-dependent lon proteinase\", \"ATP-dependent protease La\", \"Escherichia coli proteinase La\", \"Escherichia coli serine proteinase La\", \"gene lon protease\", \"gene lon proteins\", \"PIM1 protease\", \"PIM1 proteinase\", \"serine protease La\") is an enzyme. This enzyme catalyses the following chemical reaction",
+            "score": 196.51016235351562
+        },
+        {
+            "docid": "15028187_5",
+            "document": "LONP1 . For Lon protease-dependent degradation, protein substrates are first recognized and then unfolded if necessary in an ATP-dependent manner. The substrates are subsequently transferred through the pore of complex and into the proteolytic chamber of complex for degradation. ATP binding to the AAA module of the Lon complex results in a change in Lon conformation into a proteolytically active state. In general, Lon protease interacts with peptide regions(sequences) that are located within the hydrophobic core of substrates and rarely on the surface. These regions can be presented to Lon protease when proteins are damaged and lost their conformation integrity. In addition to misfolded proteins, several regulatory proteins can be processed by Lon protease by removing a degradable tag before they fully gain their biological functions.",
+            "score": 192.9401397705078
+        },
+        {
+            "docid": "34627159_2",
+            "document": "Lon protease family . In molecular biology, the Lon protease family is a family of proteases. They are found in archaea, bacteria and eukaryotes. Lon proteases are ATP-dependent serine peptidases belonging to the MEROPS peptidase family S16 (lon protease family, clan SJ). In the eukaryotes the majority of the Lon proteases are located in the mitochondrial matrix. In yeast, the Lon protease PIM1 is located in the mitochondrial matrix. It is required for mitochondrial function, it is constitutively expressed but is increased after thermal stress, suggesting that PIM1 may play a role in the heat shock response.",
+            "score": 184.94383239746094
+        },
+        {
+            "docid": "55962889_3",
+            "document": "Lon peptidase 2, peroxisomal . In human, peroxisomes function primarily to catalyze fatty acid beta-oxidation and, as a by-product, produce hydrogen peroxide and superoxide. The protein encoded by this gene is an ATP-dependent protease that likely plays a role in maintaining overall peroxisome homeostasis as well as proteolytically degrading peroxisomal proteins damaged by oxidation. The protein has an N-terminal Lon N substrate recognition domain, an ATPase domain, a proteolytic domain, and, in some isoforms, a C-terminal peroxisome targeting sequence. Alternative splicing results in multiple transcript variants encoding distinct isoforms. [provided by RefSeq, Jan 2017].",
+            "score": 153.540283203125
+        },
+        {
+            "docid": "25953845_2",
+            "document": "LON-CAPA . LON-CAPA (Learning Online Network with Computer-Assisted Personalized Approach) is an e-learning platform, also known as a Course Management System (CMS) or Learning Management System (LMS). It possesses the standard features of many learning platforms (user roles, calendar, e-mail, chat rooms, blogs, resource construction, test grading, etc.), but it differs from traditional e-learning platforms in that its many web servers (in various parts of the world) can communicate with each other. Consequently, the term LON-CAPA can also refer to the LON-CAPA network, i.e. the entire set of LON-CAPA web servers and the specific implementation of an internet protocol that connects these web servers. LON-CAPA can also refer to the LON-CAPA project, i.e. the core team of scientists and programmers that develop and maintain the LON-CAPA software.",
+            "score": 149.599853515625
+        },
+        {
+            "docid": "2142816_16",
+            "document": "Borrelia burgdorferi . After the pathogen is transmitted, it will acclimate to the mammalian conditions. \"Borrelia burgdorferi\" will change its glycoproteins and proteases on its plasma membrane to facilitate its dissemination throughout the blood. While infecting, \"B. burgdorferi\" will express proteins that will interact with endothelial cells, platelets, chondrocytes, and the extracellular matrix. This interaction inhibits proper function of the infected areas, leading to the pathological manifestations of Lyme disease. In response, the host will initiate an inflammatory response to attempt to remove the infection.",
+            "score": 147.4958953857422
+        },
+        {
+            "docid": "34479387_6",
+            "document": "Cyanobacterial clock proteins . Also in the KaiC family is RadA/Sms, a highly conserved eubacterial protein that shares sequence similarity with both RecA strand transferase and lon protease. The RadA/Sms family are probable ATP-dependent proteases involved in both DNA repair and degradation of proteins, peptides, glycopeptides. They are classified in as non-peptidase homologues and unassigned peptidases in MEROPS peptidase family S16 (lon protease family, clan SJ). RadA/Sms is involved in recombination and recombinational repair, most likely involving the stabilisation or processing of branched DNA molecules or blocked replication forks because of its genetic redundancy with RecG and RuvABC.",
+            "score": 147.3417205810547
+        },
+        {
+            "docid": "15028187_4",
+            "document": "LONP1 . Lon protease (LONP1) is a conserved serine peptidase identified from bacteria to eukaryotic cells. In mitochondrial matrix, a majority of damaged proteins is removed via proteolysis led by Lon protease, which is an essential mechanism for mitochondrial protein quality control (PQC).",
+            "score": 144.52325439453125
+        },
+        {
+            "docid": "1627776_55",
+            "document": "1982 invasion of the Falkland Islands . At 16:30 local time on 2 April 1982, the last telex conversation between the operator in the Falklands and an operative in London, announced that the islands were under Argentine control. LON (London): HELLO THERE WHAT ARE ALL THESE RUMOURS WE HEAR THIS IS LON<br> FK (Falklands): WE HAVE LOTS OF NEW FRIENDS <br> LON: WHAT ABOUT INVASION RUMOURS<br> FK: THOSE ARE THE FRIENDS I WAS MEANING<br> LON: THEY HAVE LANDED<br> FK: ABSOLUTELY<br> LON: ARE YOU OPEN FOR TRAFFIC (i.e. normal telex service)<br> FK: NO ORDERS ON THAT YET ONE MUST OBEY ORDERS<br> LON: WHOSE ORDERS<br> FK: THE NEW GOVERNORS<br> LON: ARGENTINA<br> FK: YES<br> LON: ARE THE ARGENTINIANS IN CONTROL<br> FK: YES YOU CAN'T ARGUE WITH THOUSANDS OF TROOPS PLUS ENORMOUS NAVY SUPPORT WHEN YOU ARE ONLY 1800 STRONG. STAND BY PLEASE.",
+            "score": 139.89137268066406
+        },
+        {
+            "docid": "25953845_7",
+            "document": "LON-CAPA . The name LON-CAPA is an acronym, derived from Learning Online Network with Computer-Assisted Personalized Approach. In 1999, two distinct e-learning projects, CAPA and LectureOnline, joined efforts in the creation of LON-CAPA, which provides a superset of the CAPA and LectureOnline functionalities.",
+            "score": 139.06561279296875
+        },
+        {
+            "docid": "34627159_1",
+            "document": "Lon protease family . Lon protease family",
+            "score": 137.99607849121094
+        },
+        {
+            "docid": "55962889_2",
+            "document": "Lon peptidase 2, peroxisomal . Lon peptidase 2, peroxisomal is a protein that in humans is encoded by the LONP2 gene.",
+            "score": 137.301025390625
+        },
+        {
+            "docid": "2142816_7",
+            "document": "Borrelia burgdorferi . \"B. burgdorferi\" circulates between \"Ixodes\" ticks and a vertebrate host in an enzootic cycle. \"B. burgdorferi\" living in a tick cannot be passed to its offspring. Therefore, tick larvae must feed on the blood of an infected animal to acquire \"B. burgdorferi\", which ends up in the midgut. The spirochetes survive as the larvae molts into a nymph and persist in the nutrient-poor midgut as the nymph overwinters. Infected nymphs then transmit \"B. burgdorferi\" by feeding on another vertebrate to complete the cycle. Ticks can transmit \"B. burgdorferi\" to humans, but humans are dead-end hosts, unlikely to continue the life cycle of the spirochete. Nymphs molt into adult ticks, which usually feed on larger mammals that are not able to support the survival of \"B. burgdorferi\".",
+            "score": 133.48104858398438
+        },
+        {
+            "docid": "54403825_2",
+            "document": "Canton of Lons-le-Saunier-2 . The canton of Lons-le-Saunier-2 is an administrative division of the Jura department, eastern France. It was created at the French canton reorganisation which came into effect in March 2015. Its seat is in Lons-le-Saunier.",
+            "score": 133.15103149414062
+        },
+        {
+            "docid": "54403835_2",
+            "document": "Canton of Lons-le-Saunier-1 . The canton of Lons-le-Saunier-1 is an administrative division of the Jura department, eastern France. It was created at the French canton reorganisation which came into effect in March 2015. Its seat is in Lons-le-Saunier.",
+            "score": 132.60321044921875
+        },
+        {
+            "docid": "25953845_3",
+            "document": "LON-CAPA . There are, as of 2010, more than 160 LON-CAPA domains, where a domain is a unified set of LON-CAPA web servers. LON-CAPA domains are operated, generally speaking, by individual universities and high schools in the United States and Canada, but include private organizations and a significant number of universities in Europe, Asia, South America and Africa. The LON-CAPA network allows participating universities and schools to create learning resources (test problems, web pages, etc.) and to share them across the network. This collaborative aspect is LON-CAPA's most distinctive feature.",
+            "score": 132.33399963378906
+        },
+        {
+            "docid": "244113_82",
+            "document": "Lyme disease . While \"B. burgdorferi\" is most associated with ticks hosted by white-tailed deer and white-footed mice, \"Borrelia afzelii\" is most frequently detected in rodent-feeding vector ticks, and \"Borrelia garinii\" and \"Borrelia valaisiana\" appear to be associated with birds. Both rodents and birds are competent reservoir hosts for \"B. burgdorferi sensu stricto\". The resistance of a genospecies of Lyme disease spirochetes to the bacteriolytic activities of the alternative complement pathway of various host species may determine its reservoir host association.",
+            "score": 131.29412841796875
+        },
+        {
+            "docid": "12876288_3",
+            "document": "Social Republican Party . The Party was formed around Lon Nol's existing Socio-Republican Association, and was heavily influenced by his brother Lon Non and by the officers of the Khmer Republic's armed forces. It adopted the symbol of Angkor Wat, previously used by Prince Norodom Norindeth's Liberal Party from 1946\u201356. Its platform was populist, nationalist and anticommunist, Lon Nol being determined to oppose North Vietnamese and Chinese influence in the region in the context of the Second Indochina War: its three principal values were declared to be \"republicanism, social responsibility and nationalism\". The party's main function, however, was to support and legitimise Lon Nol's leadership of the country; he was later to develop a rather ramshackle chauvinist and semi-mystical ideology called \"Neo-Khmerism\" to back his political agenda.",
+            "score": 130.89105224609375
+        },
+        {
+            "docid": "34913794_20",
+            "document": "Lon &amp; Derrek Van Eaton . In 2005, Lon Van Eaton played on Les Fradkin's cover of \"My Sweet Lord\", recorded as a tribute to the late George Harrison. In October 2010, Lon & Derrek Van Eaton's \"Sweet Music\" was included on the Apple compilation \"\". Having been omitted from the Apple reissue campaign that produced that 2010 compilation,<ref name=\"Marchese/SecondDisc\">Joe Marchese, \"Another Bite of the Apple: Lon and Derrek Van Eaton's 'Brother' with George Harrison and Ringo Starr, Reissued and Reviewed\", The Second Disc, 1 August 2012 (retrieved 24 October 2017).</ref> the \"Brother\" album was finally reissued on 25 June 2012, on the RPM label. Among its nine bonus tracks are the B-side \"Song of Songs\", various demos and session outtakes, and a remix of \"Sweet Music\".",
+            "score": 130.80540466308594
+        },
+        {
+            "docid": "19042075_6",
+            "document": "Lon Oden . This left Lon Oden to be raised by his grandparents, and both the Walker family and the Oden family shared in this task. His grandmother Oden taught him in the classics of her native Sweden. She also educated him in poetry and the arts. From the Walker side, he learned the arts of shooting, and the skills necessary to survive in a harsh land. His grandfather, Joe Walker, had a total of nineteen children, but due to the circumstances surrounding Lon Oden's becoming an orphan at the age of 1 year, Joe Walker took special interest in the child and his upbringing. When Lon was only 2 years old, Joseph Walker gave him 150 head of cattle, registering them with the \"ODN\" brand.",
+            "score": 130.12765502929688
+        },
+        {
+            "docid": "49494465_13",
+            "document": "Dance Dance Revolution A . Started on August 8, 2016, Baby-Lon's Adventure event is centered on the character Baby-Lon. At the end of each stage, the player will be given a short cinematic of Baby-Lon climbing stairs, the number of which depends on the player's grade. Once reaching a certain number, the player earns a new song, after which Baby-Lon is sent back down again for another climb. Steps gained are not cumulative as each climb is done separately (gaining 10 steps when the player only needs 2 more means that the remaining 8 steps are lost). There are a total of 5 songs available for unlock in this event.",
+            "score": 128.65927124023438
+        },
+        {
+            "docid": "55962889_1",
+            "document": "Lon peptidase 2, peroxisomal . Lon peptidase 2, peroxisomal",
+            "score": 128.45849609375
+        },
+        {
+            "docid": "1685153_2",
+            "document": "Lon . Lon or LON may refer to:",
+            "score": 127.82027435302734
+        },
+        {
+            "docid": "54403825_1",
+            "document": "Canton of Lons-le-Saunier-2 . Canton of Lons-le-Saunier-2",
+            "score": 127.5249252319336
+        },
+        {
+            "docid": "54403835_1",
+            "document": "Canton of Lons-le-Saunier-1 . Canton of Lons-le-Saunier-1",
+            "score": 126.93729400634766
+        },
+        {
+            "docid": "49977367_4",
+            "document": "BlyA holin family . Introduction of the \"Borrelia burgdorferi\" \"blyAB\" locus into \"Escherichia coli\" produces a hemolytic phenotype that is dependent on the \"E. coli clyA (hlyE, sheA)\" gene (TC# 1.C.10.1.1). Expression of \"blyA\" in \"E. coli\" causes damage to the \"E. coli\" cell envelope and a \"clyA\"-dependent hemolytic phenotype, regardless whether \"blyB\" is present or absent. The expression of \"blyB\" in \"E. coli\", on the other hand, did not have obvious phenotypic effects. Transcriptional studies demonstrated that the \"clyA\" gene is not induced in \"E. coli\" cells expressing \"blyA\". Furthermore, protein analyses suggested that the impairment of the \"E. coli\" cell envelope by BlyA is responsible for the emergence of the hemolytic activity as it allows latent intracellular ClyA protein, derived from basal-level expression of the \"clyA\" gene, to leak into the medium and to lyse erythrocytes. These findings are compatible with the presumption that BlyA functions as a membrane-active holin.",
+            "score": 125.7681655883789
+        },
+        {
+            "docid": "10085290_24",
+            "document": "Lyme disease microbiology . Whereas \"B. burgdorferi\" is most associated with deer ticks and the white footed mouse, \"B. afzelli\" is most frequently detected in rodent-feeding vector ticks, and \"B. garinii\" and \"B. valaisiana\" appear to be associated with birds. Both rodents and birds are competent reservoir hosts for \"B. burgdorferi\" \"sensu stricto\". The resistance of a genospecies of Lyme disease spirochetes to the bacteriolytic activities of the alternative immune complement system of various host species may determine its reservoir host association.",
+            "score": 125.68995666503906
+        },
+        {
+            "docid": "15028187_2",
+            "document": "LONP1 . Lon protease homolog, mitochondrial is an enzyme that in humans is encoded by the \"LONP1\" gene.",
+            "score": 124.80569458007812
+        },
+        {
+            "docid": "20941677_7",
+            "document": "13 Demon Street . Although numerous dealers offer the series on DVD or VHS, every existing set is missing most of the Lon Chaney footage, removed by some unknown individual for reasons unknown. Episodes were intended to open and close in Lon Chaney's character's dilapidated home, where he would act as host and comment on each individual story. However, most episodes have obvious jump cuts, almost completely eliminating Lon Chaney's presence.",
+            "score": 124.79460906982422
+        },
+        {
+            "docid": "3371154_9",
+            "document": "Point of Impact . As the story progresses, the reader is introduced to the actual shooter who took the shot at the Salvadoran Archbishop: one Lon Scott. Lon is a crippled man, who was once a great competition benchrest shooter. Bob tracks Lon by tracing the .300 H&H Swagger is given at the Accutech shooting range to Lon's father, Art Scott. Art received the .300 H&H, referred to as \"The Tenth Black King\", as a gift for his shooting for Winchester. In a tragic twist of fate, Art accidentally shot his son, crippling Lon from the waist down. He then proceeded to take his own life, with the same rifle. Bob hunts through some old files, and with Nick Memphis' help manages to track Lon to his home. Bob and Memphis are then ambushed, but escape. Much later in the novel, Lon makes another appearance as Colonel Shreck tries to set Bob up in Hard Bargain Valley, near the end of the book. Nick Memphis ends up taking a thousand yard shot at Lon, subsequently killing him. Bob then goes through legal proceedings, and embarrasses the United States government. The careful reader will then notice, during a description of the distribution of Lon's possessions in accordance with his will, that there was found a \"curious collection of fired 162-grain .264-caliber bullets from some bizarre project or other in the early sixties, found in his safe deposit box. After some research, it can be learned that this is an allusion to the assassination of John F. Kennedy, in 1963. The rifle that supposedly fired the bullet that killed Kennedy was alleged to be a Carcano rifle, firing a 162 grain bullet, in 6.5\u00a0mm. It can thus be inferred that Bob Lee Swagger is not the only man that Lon Scott has set up, and that Lon Scott actually shot JFK on November 22, 1963, rather than Lee Harvey Oswald. In 2013, Hunter followed up on these hinted at threads and completed the tale in \"The Third Bullet\".",
+            "score": 124.760498046875
+        },
+        {
+            "docid": "20738470_3",
+            "document": "Lat-Lon, LLC . Lat-Lon was founded in 1999 by Dave Baker and Steve Tautz. Originally, Lat-Lon was a privately held limited liability company owned by its founders and Tegra Corp of Sioux City, IA. On June 1, 2014, the company was purchased by BSM Technologies U.S. Holdings, Inc. The company resides in Denver, Colorado and is managed By David Baker and Steve Tautz.",
+            "score": 124.46185302734375
+        }
+    ]
+}

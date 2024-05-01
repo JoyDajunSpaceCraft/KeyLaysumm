@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "12365585_9",
+            "document": "Signal recognition particle RNA . Eukaryotic SRP RNAs are transcribed from DNA by RNA polymerase III (Pol III). RNA polymerase III also transcribes the genes for 5S ribosomal RNA, tRNA, 7SK RNA, and U6 spliceosomal RNA. The promoters of the human SRP RNA genes include elements located downstream of the transcriptional start site. Plant SRP RNA promoters contain an upstream stimulatory element (USE) and a TATA box. Yeast SRP RNA genes have a TATA box and additional intragenic promoter sequences (referred to as A- and B-blocks) which play a role in regulating transcription of the SRP gene by Pol III. In the bacteria, genes are organized in operons and transcribed by RNA polymerase. The 5'-end of the small (4.5S) SRP RNA of many bacteria is cleaved by RNase P. The ends of the Bacillus subtilis SRP RNA are processed by RNase III. So far, no SRP RNA introns have been observed.",
+            "score": 143.19522559642792
+        },
+        {
+            "docid": "5218372_2",
+            "document": "Ribonuclease III . Ribonuclease III (RNase III or RNase C)(BRENDA 3.1.26.3) is a type of ribonuclease that recognizes dsRNA and cleaves it at specific targeted locations to transform them into mature RNAs. These enzymes are a group of endoribonucleases that are characterized by their ribonuclease domain, which is labelled the RNase III domain. They are ubiquitous compounds in the cell and play a major role in pathways such as RNA precursor synthesis, RNA Silencing, and the \"pnp\" autoregulatory mechanism.",
+            "score": 127.82379984855652
+        },
+        {
+            "docid": "11421334_2",
+            "document": "Nuclear RNase P . In molecular biology, nuclear ribonuclease P (RNase P) is a ubiquitous endoribonuclease, found in archaea, bacteria and eukarya as well as chloroplasts and mitochondria. Its best characterised enzyme activity is the generation of mature 5'-ends of tRNAs by cleaving the 5'-leader elements of precursor-tRNAs. Cellular RNase Ps are ribonucleoproteins. The RNA from bacterial RNase P retains its catalytic activity in the absence of the protein subunit, i.e. it is a ribozyme. Similarly, archaeal RNase P RNA has been shown to be weakly catalytically active in the absence of its respective protein cofactors. Isolated eukaryotic RNase P RNA has not been shown to retain its catalytic function, but is still essential for the catalytic activity of the holoenzyme. Although the archaeal and eukaryotic holoenzymes have a much greater protein content than the bacterial ones, the RNA cores from all three lineages are homologous\u2014the helices corresponding to P1, P2, P3, P4, and P10/11 are common to all cellular RNase P RNAs. Yet there is considerable sequence variation, particularly among the eukaryotic RNAs.",
+            "score": 132.90200221538544
+        },
+        {
+            "docid": "11422270_3",
+            "document": "MicA RNA . This RNA binds the Hfq protein and regulates levels of gene expression by an antisense mechanism. It is known to target the OmpA gene in \"E. coli\" and occludes the ribosome binding site. Under conditions of envelope stress, micA transcription is induced. MicA, RybB RNA and MicL RNA transcription is under the control of the sigma factor sigma(E). MicA is known to interact with the mRNA encoding the quorum sensing synthase homolog, LuxS in E.coli and both RNAs are processed by the double stranded RNA endonuclease, RNase III. Based on its conservation, this is presumably the case in close relatives and may serve as a long elusive link between envelope stress and quorum sensing.",
+            "score": 109.64764952659607
+        },
+        {
+            "docid": "4633401_8",
+            "document": "Ribonuclease P . In eukaryotes, such as humans and yeast, most RNase P consists of an RNA chain that is structurally similar to that found in bacteria as well as nine to ten associated proteins (as opposed to the single bacterial RNase P protein, C5). Five of these protein subunits exhibit homology to archaeal counterparts. These protein subunits of RNase P are shared with RNase MRP, a catalytic ribonucleoprotein involved in processing of ribosomal RNA in the nucleolus. RNase P from eukaryotes was only recently demonstrated to be a ribozyme. Accordingly, the numerous protein subunits of eucaryal RNase P have a minor contribution to tRNA processing per se, while they seem to be essential for the function of RNase P and RNase MRP in other biological settings, such as gene transcription and the cell cycle. Despite the bacterial origins of mitochondria and chloroplasts, plastids from higher animals and plants do not appear to contain an RNA-based RNase P. It has been shown that human mitochondrial RNase P is a protein and does not contain RNA. Spinach chloroplast RNase P has also been shown to function without an RNA subunit.",
+            "score": 115.36909055709839
+        },
+        {
+            "docid": "4633401_2",
+            "document": "Ribonuclease P . Ribonuclease P (, \"RNase P\") is a type of ribonuclease which cleaves RNA. RNase P is unique from other RNases in that it is a ribozyme \u2013 a ribonucleic acid that acts as a catalyst in the same way that a protein-based enzyme would. Its function is to cleave off an extra, or precursor, sequence of RNA on tRNA molecules. Further, RNase P is one of two known multiple turnover ribozymes in nature (the other being the ribosome), the discovery of which earned Sidney Altman and Thomas Cech the Nobel Prize in Chemistry in 1989: in the 1970s, Altman discovered the existence of precursor tRNA with flanking sequences and was the first to characterize RNase P and its activity in processing of the 5' leader sequence of precursor tRNA. Recent findings also reveal that RNase P has a new function. It has been shown that human nuclear RNase P is required for the normal and efficient transcription of various small noncoding RNAs, such as tRNA, 5S rRNA, SRP RNA and U6 snRNA genes, which are transcribed by RNA polymerase III, one of three major nuclear RNA polymerases in human cells.",
+            "score": 125.96402907371521
+        },
+        {
+            "docid": "7343292_3",
+            "document": "Drosha . Members of the ribonuclease III superfamily of double-stranded (ds) RNA-specific endoribonucleases participate in diverse RNA maturation and decay pathways in eukaryotic and prokaryotic cells. The RNase III Drosha is the core nuclease that executes the initiation step of microRNA (miRNA) processing in the nucleus.",
+            "score": 108.19069409370422
+        },
+        {
+            "docid": "4633401_4",
+            "document": "Ribonuclease P . Ribonuclease P (RNase P) is a ubiquitous endoribonuclease, found in archaea, bacteria and eukarya as well as chloroplasts and mitochondria. Its best characterised activity is the generation of mature 5'-ends of tRNAs by cleaving the 5'-leader elements of precursor-tRNAs. Cellular RNase Ps are ribonucleoproteins (RNP). RNA from bacterial RNase Ps retains its catalytic activity in the absence of the protein subunit, i.e. it is a ribozyme. Isolated eukaryotic and archaeal RNase P RNA has not been shown to retain its catalytic function, but is still essential for the catalytic activity of the holoenzyme. Although the archaeal and eukaryotic holoenzymes have a much greater protein content than the eubacterial ones, the RNA cores from all the three lineages are homologous\u2014helices corresponding to P1, P2, P3, P4, and P10/11 are common to all cellular RNase P RNAs. Yet, there is considerable sequence variation, particularly among the eukaryotic RNAs.",
+            "score": 121.40897154808044
+        },
+        {
+            "docid": "593203_2",
+            "document": "Dicer . Dicer, also known as endoribonuclease Dicer or helicase with RNase motif, is an enzyme that in humans is encoded by the \"DICER1\" gene. Being part of the RNase III family, Dicer cleaves double-stranded RNA (dsRNA) and pre-microRNA (pre-miRNA) into short double-stranded RNA fragments called small interfering RNA and microRNA, respectively. These fragments are approximately 20-25 base pairs long with a two-base overhang on the 3' end. Dicer facilitates the activation of the RNA-induced silencing complex (RISC), which is essential for RNA interference. RISC has a catalytic component argonaute, which is an endonuclease capable of degrading messenger RNA (mRNA).",
+            "score": 138.3681674003601
+        },
+        {
+            "docid": "505422_10",
+            "document": "Ribonuclease H . Ribonuclease H enzymes cleave the phosphodiester bonds of RNA in a double-stranded RNA:DNA hybrid, leaving a 3' hydroxyl and a 5' phosphate group on either end of the cut site. RNase H1 and H2 have distinct substrate preferences and distinct but overlapping functions in the cell. In prokaryotes and lower eukaryotes, neither enzyme is essential, whereas both are believed to be essential in higher eukaryotes. The combined activity of both H1 and H2 enzymes is associated with maintenance of genome stability due to the enzymes' degradation of the RNA component of R-loops.",
+            "score": 100.63148164749146
+        },
+        {
+            "docid": "240850_5",
+            "document": "Gene silencing . Antisense oligonucleotides were discovered in 1978 by Paul Zamecnik and Mary Stephenson. Oligonucleotides, which are short nucleic acid fragments, bind to complementary target mRNA molecules when added to the cell. These molecules can be composed of single-stranded DNA or RNA and are generally 13\u201325 nucleotides long. The antisense oligonucleotides can affect gene expression in two ways: by using an RNase H-dependent mechanism or by using a steric blocking mechanism. RNase H-dependent oligonucleotides cause the target mRNA molecules to be degraded, while steric-blocker oligonucleotides prevent translation of the mRNA molecule. The majority of antisense drugs function through the RNase H-dependent mechanism, in which RNase H hydrolyzes the RNA strand of the DNA/RNA heteroduplex. This mechanism is thought to be more efficient, resulting in an approximately 80% to 95% decrease in the protein and mRNA expression.",
+            "score": 110.92878532409668
+        },
+        {
+            "docid": "12026623_2",
+            "document": "Endoribonuclease . An Endoribonuclease is a ribonuclease endonuclease. It cleaves either single-stranded or double-stranded RNA, depending on the enzyme. Example includes both single proteins such as RNase III, RNase A, RNase T1, and RNase H, and also complexes of proteins with RNA such as RNase P and the RNA-induced silencing complex. Further examples include Endoribonuclease XendoU found in frogs (Xenopus).",
+            "score": 114.72867822647095
+        },
+        {
+            "docid": "240850_8",
+            "document": "Gene silencing . RNA interference (RNAi) is a natural process used by cells to regulate gene expression. It was discovered in 1998 by Andrew Fire and Craig Mello, who won the Nobel Prize for their discovery in 2006. The process to silence genes first begins with the entrance of a double-stranded RNA (dsRNA) molecule into the cell, which triggers the RNAi pathway. The double-stranded molecule is then cut into small double-stranded fragments by an enzyme called Dicer. These small fragments, which include small interfering RNAs (siRNA) and microRNA (miRNA), are approximately 21\u201323 nucleotides in length. The fragments integrate into a multi-subunit protein called the RNA-induced silencing complex, which contains Argonaute proteins that are essential components of the RNAi pathway. One strand of the molecule, called the \"guide\" strand, binds to RISC, while the other strand, known as the \"passenger\" strand is degraded. The guide or antisense strand of the fragment that remains bound to RISC directs the sequence-specific silencing of the target mRNA molecule. The genes can be silenced by siRNA molecules that cause the endonucleatic cleavage of the target mRNA molecules or by miRNA molecules that suppress translation of the mRNA molecule. With the cleavage or translational repression of the mRNA molecules, the genes that form them are essentially inactive. RNAi is thought to have evolved as a cellular defense mechanism against invaders, such as RNA viruses, or to combat the proliferation of transposons within a cell's DNA. Both RNA viruses and transposons can exist as double-stranded RNA and lead to the activation of RNAi. Currently, siRNAs are being widely used to suppress specific gene expression and to assess the function of genes. Companies utilizing this approach include Alnylam, Sanofi, Arrowhead, Discerna, and Persomics, among others.",
+            "score": 96.16651618480682
+        },
+        {
+            "docid": "5504842_19",
+            "document": "Sense (molecular biology) . If the antisense oligonucleotide contains a stretch of DNA or a DNA mimic (phosphorothioate DNA, 2'F-ANA, or others) it can recruit RNase H to degrade the target RNA. This makes the mechanism of gene silencing catalytic. Double-stranded RNA can also act as a catalytic, enzyme-dependent antisense agent through the RNAi/siRNA pathway, involving target mRNA recognition through sense-antisense strand pairing followed by target mRNA degradation by the RNA-induced silencing complex (RISC). The R1 plasmid hok/sok system provides yet another example of an enzyme-dependent antisense regulation process through enzymatic degradation of the resulting RNA duplex.",
+            "score": 102.07286071777344
+        },
+        {
+            "docid": "196493_8",
+            "document": "Non-coding RNA . Many of the conserved, essential and abundant ncRNAs are involved in translation. Ribonucleoprotein (RNP) particles called ribosomes are the 'factories' where translation takes place in the cell. The ribosome consists of more than 60% ribosomal RNA; these are made up of 3 ncRNAs in prokaryotes and 4 ncRNAs in eukaryotes. Ribosomal RNAs catalyse the translation of nucleotide sequences to protein. Another set of ncRNAs, Transfer RNAs, form an 'adaptor molecule' between mRNA and protein. The H/ACA box and C/D box snoRNAs are ncRNAs found in archaea and eukaryotes. RNase MRP is restricted to eukaryotes. Both groups of ncRNA are involved in the maturation of rRNA. The snoRNAs guide covalent modifications of rRNA, tRNA and snRNAs; RNase MRP cleaves the internal transcribed spacer 1 between 18S and 5.8S rRNAs. The ubiquitous ncRNA, RNase P, is an evolutionary relative of RNase MRP. RNase P matures tRNA sequences by generating mature 5'-ends of tRNAs through cleaving the 5'-leader elements of precursor-tRNAs. Another ubiquitous RNP called SRP recognizes and transports specific nascent proteins to the endoplasmic reticulum in eukaryotes and the plasma membrane in prokaryotes. In bacteria Transfer-messenger RNA (tmRNA) is an RNP involved in rescuing stalled ribosomes, tagging incomplete polypeptides and promoting the degradation of aberrant mRNA.",
+            "score": 118.96480631828308
+        },
+        {
+            "docid": "7906898_9",
+            "document": "Rintatolimod . The mechanism of rintatolimod in relation to CFS is not certain, but is thought to include the RNase L enzyme. Rintatolimod is a dsRNA, and when TLR-3 senses a dsRNA, it is thought to relay a message to cells to produce interferons (IFNs). IFNs are a group of signaling molecules released by cells in response to the presence of pathogenic viruses or bacteria. These signaling molecules activate (among other things) the protective defenses of the immune system that eradicate pathogens. One such defense mechanism thought to be activated by rintatolimod is the production of the enzyme RNase L. This enzyme degrades pathogenic RNA, both viral and cellular. Degradation of RNA prevents viral and cell replication, and destruction of all RNA within a virus or cell is the last step before apoptosis or death. Accumulation of an inactive form of RNase L may be associated with CFS.",
+            "score": 116.49372243881226
+        },
+        {
+            "docid": "45256144_2",
+            "document": "Ribonuclease T . Ribonuclease T (\"RNase T\", \"exonuclease T\", \"exo T\") is a ribonuclease enzyme involved in the maturation of transfer RNA and ribosomal RNA in bacteria, as well as in DNA repair pathways. It is a member of the DnaQ family of exonucleases and non-processively acts on the 3' end of single-stranded nucleic acids. RNase T is capable of cleaving both DNA and RNA, with extreme sequence specificity discriminating against cytosine at the 3' end of the substrate.",
+            "score": 105.60666871070862
+        },
+        {
+            "docid": "57423531_2",
+            "document": "Bacillus subtilis type I antitoxin SR6 . SR6 is a 100 nucleotide long antisense RNA antitoxin that overlaps 2 toxins: 3' end of \"yonT\" and \"yoyJ\" at its 5'end. In type I toxin-antitoxin (TA) systems the antitoxin is a small RNA that neutralizes a toxin protein. Several type I TA systems have been described in \"B. subtilis\". \"YonT\"/SR6 system is located on the SP\u03b2 prophage of the \"B. subtilis\" chromosome and it was shown to be multi-stress responsive. SR6 acts by promoting \"yonT\" mRNA degradation. It may regulate the second toxin, \"yoyJ\" by a different mechanism.",
+            "score": 76.30428743362427
+        },
+        {
+            "docid": "495775_3",
+            "document": "Ribonuclease . All organisms studied contain many RNases of two different classes, showing that RNA degradation is a very ancient and important process. As well as cleaning of cellular RNA that is no longer required, RNases play key roles in the maturation of all RNA molecules, both messenger RNAs that carry genetic material for making proteins, and non-coding RNAs that function in varied cellular processes. In addition, active RNA degradation systems are a first defense against RNA viruses, and provide the underlying machinery for more advanced cellular immune strategies such as RNAi.",
+            "score": 102.65337324142456
+        },
+        {
+            "docid": "35568024_2",
+            "document": "Seminal RNase . Bovine seminal RNase (BS-RNase) is a member of the ribonuclease superfamily produced by the bovine seminal vesicles. This enzyme can not be differentiated from its members distinctly since there are more features that this enzyme shares with its family members than features that it possess alone. The research on the question of how new functions arrive in proteins in evolution led the scientists to find an uncommon consequence for a usual biological event called gene conversion in the case of the ribonuclease (RNase) protein family. The most well-known member of this family, RNase A (also called pancreatic RNase), is expressed in the pancreas of oxen. It serves to digest RNA in intestine, and evolved from bacteria fermenting in the stomach of the first ox. The homologous RNase, called seminal RNase, differs from RNase A by 23 amino acids and is expressed in seminal plasma in the concentration of 1-1.5\u00a0mg/ml, which constitutes more than 3% of the fluid protein content. Bovine seminal ribonuclease (BS-RNase) is a homologue of RNase A with specific antitumor activity.",
+            "score": 101.95654904842377
+        },
+        {
+            "docid": "505422_2",
+            "document": "Ribonuclease H . Ribonuclease H (abbreviated RNase H or RNH) is a family of non-sequence-specific endonuclease enzymes that catalyze the cleavage of RNA in an RNA/DNA substrate via a hydrolytic mechanism. Members of the RNase H family can be found in nearly all organisms, from bacteria to archaea to eukaryotes.",
+            "score": 102.88402438163757
+        },
+        {
+            "docid": "39057805_3",
+            "document": "Retroviral ribonuclease H . Although the RT structures from human, murine and avian retroviruses display different subunits, the relative sizes, orientation and connection of the DNA polymerase and RNase H domains are strikingly similar. The RNase H domain occupies ~25% of the RT protein C-terminal. The DNA polymerase domain occupies ~55% of the RT protein N-terminal. The RNase H domains of MMLV and HIV-1 RT enzymes are structural very similar to the Escherichia coli and Bacillus halodurans RNases H as well as to human RNaseH1. In general, the folded structures of retroviral RNase H domains take the form of 5-stranded mixed beta sheets flanked by four alpha helices in an asymmetric distribution. A notable difference between the various RNase H proteins is the presence or absence of the C-helix (present in E. coli, MLV and human RNases H, absent in HIV-1, B. halodurans and ASLV RNases H), a positively charged alpha helix also referred to as the basic loop or protrusion. It is believed to have a role in substrate binding. During reverse transcription of the viral genomic RNA into cDNA, an RNA/DNA hybrid is created. The RNA strand is then hydrolyzed by the RNase H domain to enable synthesis of the second DNA strand by the DNA polymerase function of the RT enzyme. In addition, retroviral virions package a single tRNA molecule that they use as a primer during reverse transcription of the viral genomic RNA. The retroviral RNase H is needed to digest the tRNA molecule when it is no longer needed. These processes happen in a Mg2+ dependent fashion.",
+            "score": 108.57723999023438
+        },
+        {
+            "docid": "25758_20",
+            "document": "RNA . Several types of RNA can downregulate gene expression by being complementary to a part of an mRNA or a gene's DNA. MicroRNAs (miRNA; 21-22\u00a0nt) are found in eukaryotes and act through RNA interference (RNAi), where an effector complex of miRNA and enzymes can cleave complementary mRNA, block the mRNA from being translated, or accelerate its degradation. While small interfering RNAs (siRNA; 20-25\u00a0nt) are often produced by breakdown of viral RNA, there are also endogenous sources of siRNAs. siRNAs act through RNA interference in a fashion similar to miRNAs. Some miRNAs and siRNAs can cause genes they target to be methylated, thereby decreasing or increasing transcription of those genes. Animals have Piwi-interacting RNAs (piRNA; 29-30\u00a0nt) that are active in germline cells and are thought to be a defense against transposons and play a role in gametogenesis.",
+            "score": 94.15602946281433
+        },
+        {
+            "docid": "12593225_8",
+            "document": "RNase R . Overabundance of RNase R in a cell are harmful since RNase R is more active and more effective in breaking down RNAs than the other bacterial exoribonucleases, such as RNase II. Besides the substrate RNAs that construct double-stranded RNA with 3' overhangs shorter than seven nucleotides, RNase R can degrade all linear RNAs.For the methodical digestion of eukaryotic linear RNAs, RNase R is a good 3' to 5' exoribonuclease but there are infrequent cases of RNase R resistance. Since mRNAs are not chemically protected at their 3' ends, unlike the protection provided at their 5' ends by the cap structure, RNase R successfully degrades linear mRNAs from their unprotected 3' ends.",
+            "score": 101.1611762046814
+        },
+        {
+            "docid": "237132_7",
+            "document": "Ribozyme . In the 1980s Thomas Cech, at the University of Colorado at Boulder, was studying the excision of introns in a ribosomal RNA gene in \"Tetrahymena thermophila\". While trying to purify the enzyme responsible for the splicing reaction, he found that the intron could be spliced out in the absence of any added cell extract. As much as they tried, Cech and his colleagues could not identify any protein associated with the splicing reaction. After much work, Cech proposed that the intron sequence portion of the RNA could break and reform phosphodiester bonds. At about the same time, Sidney Altman, a professor at Yale University, was studying the way tRNA molecules are processed in the cell when he and his colleagues isolated an enzyme called RNase-P, which is responsible for conversion of a precursor tRNA into the active tRNA. Much to their surprise, they found that RNase-P contained RNA in addition to protein and that RNA was an essential component of the active enzyme. This was such a foreign idea that they had difficulty publishing their findings. The following year, Altman demonstrated that RNA can act as a catalyst by showing that the RNase-P RNA subunit could catalyze the cleavage of precursor tRNA into active tRNA in the absence of any protein component.",
+            "score": 101.6366616487503
+        },
+        {
+            "docid": "47181597_5",
+            "document": "LACTB2 . The metallo beta-lactamases were first identified in bacteria; they give some strains antibiotic resistance by degrading beta-lactam antibiotics (such as penicillins). However, the protein family includes many members that are ribonucleases (RNases), deoxyribonucleases (DNases) and other metabolic enzymes MBL ribonucleases are responsible for RNA processing, generating the 3' end of tRNA,(RNase Z ) eukaryotic mRNA (CPSF-73) and snRNA molecules LACTB2 is a mitochondrial endoribonuclease which may have a role in degrading mitochondrial mRNAs.",
+            "score": 91.56176924705505
+        },
+        {
+            "docid": "11243833_5",
+            "document": "RNase MRP . RNase P and RNAse MRP are ribonucleoprotein complexes that are important in RNA processing. Both subunits have a highly conserved P4 helical region, which is a type of nucleic acid tertiary structure. This region is needed for catalytic function, and is probably an important part of the enzyme's active site. RNAse P is found in both eukaryotes and prokaryotes and it cleaves a pre-tRNA to generate the mature 5\u2019 end of the tRNA. RNase MRP is found only in eukaryotes, and is involved in rRNA processing, which is the conversion of preribosomal RNA into mature rRNA through splicing, modifications, and cleavage. The exact mechanism is described above.",
+            "score": 113.40490770339966
+        },
+        {
+            "docid": "495775_10",
+            "document": "Ribonuclease . The extraction of RNA in molecular biology experiments is greatly complicated by the presence of ubiquitous and hardy ribonucleases that degrade RNA samples. Certain RNases can be extremely hardy and inactivating them is difficult compared to neutralizing DNases. In addition to the cellular RNases that are released, there are several RNases that are present in the environment. RNases have evolved to have many extracellular functions in various organisms. For example, RNase 7, a member of the RNase A superfamily, is secreted by human skin and serves as a potent antipathogen defence. In these secreted RNases, the enzymatic RNase activity may not even be necessary for its new, exapted function. For example, immune RNases act by destabilizing the cell membranes of bacteria.",
+            "score": 100.74576950073242
+        },
+        {
+            "docid": "446223_4",
+            "document": "Gene knockdown . In a transient knockdown, the binding of this oligonucleotide to the active gene or its transcripts causes decreased expression through a variety of processes. Binding can occur either through the blocking of transcription (in the case of gene-binding), the degradation of the mRNA transcript (e.g. by small interfering RNA (siRNA)) or RNase-H dependent antisense), or through the blocking of either mRNA translation, pre-mRNA splicing sites, or nuclease cleavage sites used for maturation of other functional RNAs, including miRNA (e.g. by morpholino oligos or other RNase-H independent antisense).",
+            "score": 107.8601496219635
+        },
+        {
+            "docid": "51775_8",
+            "document": "Sidney Altman . While at Yale, Altman's Nobel Prize work came with the analysis of the catalytic properties of the ribozyme RNase P, a ribonucleoprotein particle consisting of both a structural RNA molecule and one (in prokaryotes) or more (in eukaryotes) proteins. Originally, it was believed that, in the bacterial RNase P complex, the protein subunit was responsible for the catalytic activity of the complex, which is involved in the maturation of tRNAs. During experiments in which the complex was reconstituted in test tubes, Altman and his group discovered that the RNA component, in isolation, was sufficient for the observed catalytic activity of the enzyme, indicating that the RNA itself had catalytic properties, which was the discovery that earned him the Nobel Prize. Although the RNase P complex also exists in eukaryotic organisms, his later work revealed that in those organisms, the protein subunits of the complex are essential to the catalytic activity, in contrast to the bacterial RNase P.",
+            "score": 106.9062329530716
+        },
+        {
+            "docid": "9577500_15",
+            "document": "Exosome complex . Although most cells have other enzymes that can degrade RNA, either from the 3' or from the 5' end of the RNA, the exosome complex is essential for cell survival. When the expression of exosome proteins is artificially reduced or stopped, for example by RNA interference, growth stops and the cells eventually die. Both the core proteins of the exosome complex, as well as the two main associated proteins, are essential proteins. Bacteria do not have an exosome complex; however, similar functions are performed by a simpler complex that includes the protein PNPase, called the \"degradosome\". The exosome is a key complex in cellular RNA quality control. Unlike prokaryotes, eukaryotes possess highly active RNA surveillance systems that recognise unprocessed and mis-processed RNA-protein complexes (such as ribosomes) prior to their exit from the nucleus. It is presumed that this system prevents aberrant complexes from interfering with important cellular processes such as protein synthesis.",
+            "score": 89.94606423377991
+        },
+        {
+            "docid": "196493_16",
+            "document": "Non-coding RNA . The ncRNA RNase P has also been shown to influence gene expression. In the human nucleus RNase P is required for the normal and efficient transcription of various ncRNAs transcribed by RNA polymerase III. These include tRNA, 5S rRNA, SRP RNA, and U6 snRNA genes. RNase P exerts its role in transcription through association with Pol III and chromatin of active tRNA and 5S rRNA genes.",
+            "score": 110.22921514511108
+        }
+    ],
+    "r": [
+        {
+            "docid": "12365585_9",
+            "document": "Signal recognition particle RNA . Eukaryotic SRP RNAs are transcribed from DNA by RNA polymerase III (Pol III). RNA polymerase III also transcribes the genes for 5S ribosomal RNA, tRNA, 7SK RNA, and U6 spliceosomal RNA. The promoters of the human SRP RNA genes include elements located downstream of the transcriptional start site. Plant SRP RNA promoters contain an upstream stimulatory element (USE) and a TATA box. Yeast SRP RNA genes have a TATA box and additional intragenic promoter sequences (referred to as A- and B-blocks) which play a role in regulating transcription of the SRP gene by Pol III. In the bacteria, genes are organized in operons and transcribed by RNA polymerase. The 5'-end of the small (4.5S) SRP RNA of many bacteria is cleaved by RNase P. The ends of the Bacillus subtilis SRP RNA are processed by RNase III. So far, no SRP RNA introns have been observed.",
+            "score": 143.19522094726562
+        },
+        {
+            "docid": "593203_2",
+            "document": "Dicer . Dicer, also known as endoribonuclease Dicer or helicase with RNase motif, is an enzyme that in humans is encoded by the \"DICER1\" gene. Being part of the RNase III family, Dicer cleaves double-stranded RNA (dsRNA) and pre-microRNA (pre-miRNA) into short double-stranded RNA fragments called small interfering RNA and microRNA, respectively. These fragments are approximately 20-25 base pairs long with a two-base overhang on the 3' end. Dicer facilitates the activation of the RNA-induced silencing complex (RISC), which is essential for RNA interference. RISC has a catalytic component argonaute, which is an endonuclease capable of degrading messenger RNA (mRNA).",
+            "score": 138.3681640625
+        },
+        {
+            "docid": "11421334_2",
+            "document": "Nuclear RNase P . In molecular biology, nuclear ribonuclease P (RNase P) is a ubiquitous endoribonuclease, found in archaea, bacteria and eukarya as well as chloroplasts and mitochondria. Its best characterised enzyme activity is the generation of mature 5'-ends of tRNAs by cleaving the 5'-leader elements of precursor-tRNAs. Cellular RNase Ps are ribonucleoproteins. The RNA from bacterial RNase P retains its catalytic activity in the absence of the protein subunit, i.e. it is a ribozyme. Similarly, archaeal RNase P RNA has been shown to be weakly catalytically active in the absence of its respective protein cofactors. Isolated eukaryotic RNase P RNA has not been shown to retain its catalytic function, but is still essential for the catalytic activity of the holoenzyme. Although the archaeal and eukaryotic holoenzymes have a much greater protein content than the bacterial ones, the RNA cores from all three lineages are homologous\u2014the helices corresponding to P1, P2, P3, P4, and P10/11 are common to all cellular RNase P RNAs. Yet there is considerable sequence variation, particularly among the eukaryotic RNAs.",
+            "score": 132.90199279785156
+        },
+        {
+            "docid": "5218372_2",
+            "document": "Ribonuclease III . Ribonuclease III (RNase III or RNase C)(BRENDA 3.1.26.3) is a type of ribonuclease that recognizes dsRNA and cleaves it at specific targeted locations to transform them into mature RNAs. These enzymes are a group of endoribonucleases that are characterized by their ribonuclease domain, which is labelled the RNase III domain. They are ubiquitous compounds in the cell and play a major role in pathways such as RNA precursor synthesis, RNA Silencing, and the \"pnp\" autoregulatory mechanism.",
+            "score": 127.82379913330078
+        },
+        {
+            "docid": "4633401_2",
+            "document": "Ribonuclease P . Ribonuclease P (, \"RNase P\") is a type of ribonuclease which cleaves RNA. RNase P is unique from other RNases in that it is a ribozyme \u2013 a ribonucleic acid that acts as a catalyst in the same way that a protein-based enzyme would. Its function is to cleave off an extra, or precursor, sequence of RNA on tRNA molecules. Further, RNase P is one of two known multiple turnover ribozymes in nature (the other being the ribosome), the discovery of which earned Sidney Altman and Thomas Cech the Nobel Prize in Chemistry in 1989: in the 1970s, Altman discovered the existence of precursor tRNA with flanking sequences and was the first to characterize RNase P and its activity in processing of the 5' leader sequence of precursor tRNA. Recent findings also reveal that RNase P has a new function. It has been shown that human nuclear RNase P is required for the normal and efficient transcription of various small noncoding RNAs, such as tRNA, 5S rRNA, SRP RNA and U6 snRNA genes, which are transcribed by RNA polymerase III, one of three major nuclear RNA polymerases in human cells.",
+            "score": 125.96402740478516
+        },
+        {
+            "docid": "4633401_4",
+            "document": "Ribonuclease P . Ribonuclease P (RNase P) is a ubiquitous endoribonuclease, found in archaea, bacteria and eukarya as well as chloroplasts and mitochondria. Its best characterised activity is the generation of mature 5'-ends of tRNAs by cleaving the 5'-leader elements of precursor-tRNAs. Cellular RNase Ps are ribonucleoproteins (RNP). RNA from bacterial RNase Ps retains its catalytic activity in the absence of the protein subunit, i.e. it is a ribozyme. Isolated eukaryotic and archaeal RNase P RNA has not been shown to retain its catalytic function, but is still essential for the catalytic activity of the holoenzyme. Although the archaeal and eukaryotic holoenzymes have a much greater protein content than the eubacterial ones, the RNA cores from all the three lineages are homologous\u2014helices corresponding to P1, P2, P3, P4, and P10/11 are common to all cellular RNase P RNAs. Yet, there is considerable sequence variation, particularly among the eukaryotic RNAs.",
+            "score": 121.40897369384766
+        },
+        {
+            "docid": "196493_8",
+            "document": "Non-coding RNA . Many of the conserved, essential and abundant ncRNAs are involved in translation. Ribonucleoprotein (RNP) particles called ribosomes are the 'factories' where translation takes place in the cell. The ribosome consists of more than 60% ribosomal RNA; these are made up of 3 ncRNAs in prokaryotes and 4 ncRNAs in eukaryotes. Ribosomal RNAs catalyse the translation of nucleotide sequences to protein. Another set of ncRNAs, Transfer RNAs, form an 'adaptor molecule' between mRNA and protein. The H/ACA box and C/D box snoRNAs are ncRNAs found in archaea and eukaryotes. RNase MRP is restricted to eukaryotes. Both groups of ncRNA are involved in the maturation of rRNA. The snoRNAs guide covalent modifications of rRNA, tRNA and snRNAs; RNase MRP cleaves the internal transcribed spacer 1 between 18S and 5.8S rRNAs. The ubiquitous ncRNA, RNase P, is an evolutionary relative of RNase MRP. RNase P matures tRNA sequences by generating mature 5'-ends of tRNAs through cleaving the 5'-leader elements of precursor-tRNAs. Another ubiquitous RNP called SRP recognizes and transports specific nascent proteins to the endoplasmic reticulum in eukaryotes and the plasma membrane in prokaryotes. In bacteria Transfer-messenger RNA (tmRNA) is an RNP involved in rescuing stalled ribosomes, tagging incomplete polypeptides and promoting the degradation of aberrant mRNA.",
+            "score": 118.96480560302734
+        },
+        {
+            "docid": "7906898_9",
+            "document": "Rintatolimod . The mechanism of rintatolimod in relation to CFS is not certain, but is thought to include the RNase L enzyme. Rintatolimod is a dsRNA, and when TLR-3 senses a dsRNA, it is thought to relay a message to cells to produce interferons (IFNs). IFNs are a group of signaling molecules released by cells in response to the presence of pathogenic viruses or bacteria. These signaling molecules activate (among other things) the protective defenses of the immune system that eradicate pathogens. One such defense mechanism thought to be activated by rintatolimod is the production of the enzyme RNase L. This enzyme degrades pathogenic RNA, both viral and cellular. Degradation of RNA prevents viral and cell replication, and destruction of all RNA within a virus or cell is the last step before apoptosis or death. Accumulation of an inactive form of RNase L may be associated with CFS.",
+            "score": 116.49372100830078
+        },
+        {
+            "docid": "4633401_8",
+            "document": "Ribonuclease P . In eukaryotes, such as humans and yeast, most RNase P consists of an RNA chain that is structurally similar to that found in bacteria as well as nine to ten associated proteins (as opposed to the single bacterial RNase P protein, C5). Five of these protein subunits exhibit homology to archaeal counterparts. These protein subunits of RNase P are shared with RNase MRP, a catalytic ribonucleoprotein involved in processing of ribosomal RNA in the nucleolus. RNase P from eukaryotes was only recently demonstrated to be a ribozyme. Accordingly, the numerous protein subunits of eucaryal RNase P have a minor contribution to tRNA processing per se, while they seem to be essential for the function of RNase P and RNase MRP in other biological settings, such as gene transcription and the cell cycle. Despite the bacterial origins of mitochondria and chloroplasts, plastids from higher animals and plants do not appear to contain an RNA-based RNase P. It has been shown that human mitochondrial RNase P is a protein and does not contain RNA. Spinach chloroplast RNase P has also been shown to function without an RNA subunit.",
+            "score": 115.36908721923828
+        },
+        {
+            "docid": "12026623_2",
+            "document": "Endoribonuclease . An Endoribonuclease is a ribonuclease endonuclease. It cleaves either single-stranded or double-stranded RNA, depending on the enzyme. Example includes both single proteins such as RNase III, RNase A, RNase T1, and RNase H, and also complexes of proteins with RNA such as RNase P and the RNA-induced silencing complex. Further examples include Endoribonuclease XendoU found in frogs (Xenopus).",
+            "score": 114.72867584228516
+        },
+        {
+            "docid": "584617_7",
+            "document": "Small interfering RNA . Gene knockdown by transfection of exogenous siRNA is often unsatisfactory because the effect is only transient, especially in rapidly dividing cells. This may be overcome by creating an expression vector for the siRNA. The siRNA sequence is modified to introduce a short loop between the two strands. The resulting transcript is a short hairpin RNA (shRNA), which can be processed into a functional siRNA by Dicer in its usual fashion.. Typical transcription cassettes use an RNA polymerase III promoter (e.g., U6 or H1) to direct the transcription of small nuclear RNAs (snRNAs) (U6 is involved in gene splicing; H1 is the RNase component of human RNase P). It is theorized that the resulting siRNA transcript is then processed by Dicer.",
+            "score": 113.43330383300781
+        },
+        {
+            "docid": "11243833_5",
+            "document": "RNase MRP . RNase P and RNAse MRP are ribonucleoprotein complexes that are important in RNA processing. Both subunits have a highly conserved P4 helical region, which is a type of nucleic acid tertiary structure. This region is needed for catalytic function, and is probably an important part of the enzyme's active site. RNAse P is found in both eukaryotes and prokaryotes and it cleaves a pre-tRNA to generate the mature 5\u2019 end of the tRNA. RNase MRP is found only in eukaryotes, and is involved in rRNA processing, which is the conversion of preribosomal RNA into mature rRNA through splicing, modifications, and cleavage. The exact mechanism is described above.",
+            "score": 113.4049072265625
+        },
+        {
+            "docid": "29188721_11",
+            "document": "RNA interference . MicroRNAs (miRNAs) are genomically encoded non-coding RNAs that help regulate gene expression, particularly during development. The phenomenon of RNA interference, broadly defined, includes the endogenously induced gene silencing effects of miRNAs as well as silencing triggered by foreign dsRNA. Mature miRNAs are structurally similar to siRNAs produced from exogenous dsRNA, but before reaching maturity, miRNAs must first undergo extensive post-transcriptional modification. A miRNA is expressed from a much longer RNA-coding gene as a primary transcript known as a \"pri-miRNA\" which is processed, in the cell nucleus, to a 70-nucleotide stem-loop structure called a \"pre-miRNA\" by the microprocessor complex. This complex consists of an RNase III enzyme called Drosha and a dsRNA-binding protein DGCR8. The dsRNA portion of this pre-miRNA is bound and cleaved by Dicer to produce the mature miRNA molecule that can be integrated into the RISC complex; thus, miRNA and siRNA share the same downstream cellular machinery. First, viral encoded miRNA was described in EBV. Thereafter, an increasing number of microRNAs have been described in viruses. VIRmiRNA is a comprehensive catalogue covering viral microRNA, their targets and anti-viral miRNAs (see also VIRmiRNA resource: http://crdd.osdd.net/servers/virmirna/).",
+            "score": 111.74607849121094
+        },
+        {
+            "docid": "240850_5",
+            "document": "Gene silencing . Antisense oligonucleotides were discovered in 1978 by Paul Zamecnik and Mary Stephenson. Oligonucleotides, which are short nucleic acid fragments, bind to complementary target mRNA molecules when added to the cell. These molecules can be composed of single-stranded DNA or RNA and are generally 13\u201325 nucleotides long. The antisense oligonucleotides can affect gene expression in two ways: by using an RNase H-dependent mechanism or by using a steric blocking mechanism. RNase H-dependent oligonucleotides cause the target mRNA molecules to be degraded, while steric-blocker oligonucleotides prevent translation of the mRNA molecule. The majority of antisense drugs function through the RNase H-dependent mechanism, in which RNase H hydrolyzes the RNA strand of the DNA/RNA heteroduplex. This mechanism is thought to be more efficient, resulting in an approximately 80% to 95% decrease in the protein and mRNA expression.",
+            "score": 110.92878723144531
+        },
+        {
+            "docid": "196493_16",
+            "document": "Non-coding RNA . The ncRNA RNase P has also been shown to influence gene expression. In the human nucleus RNase P is required for the normal and efficient transcription of various ncRNAs transcribed by RNA polymerase III. These include tRNA, 5S rRNA, SRP RNA, and U6 snRNA genes. RNase P exerts its role in transcription through association with Pol III and chromatin of active tRNA and 5S rRNA genes.",
+            "score": 110.22921752929688
+        },
+        {
+            "docid": "593203_9",
+            "document": "Dicer . Small interfering RNA (siRNA) are produced and function in a similar manner to miRNA by cleaving double-stranded RNA with Dicer into smaller fragments, 21 to 23 nucleotides in length. Both miRNAs and siRNAs activate the RNA-induced silencing complex (RISC), which finds the complementary target mRNA sequence and cleaves the RNA using RNase. This in turn silences the particular gene by RNA interference. siRNAs and miRNAs differ in the fact that siRNAs are typically specific to the mRNA sequence while miRNAs aren't completely complementary to the mRNA sequence. miRNAs can interact with targets that have similar sequences, which inhibits translation of different genes. In general, RNA interference is an essential part of normal processes within organisms such as humans, and it is an area being researched as a diagnostic and therapeutic tool for cancer targets.",
+            "score": 109.91047668457031
+        },
+        {
+            "docid": "11422270_3",
+            "document": "MicA RNA . This RNA binds the Hfq protein and regulates levels of gene expression by an antisense mechanism. It is known to target the OmpA gene in \"E. coli\" and occludes the ribosome binding site. Under conditions of envelope stress, micA transcription is induced. MicA, RybB RNA and MicL RNA transcription is under the control of the sigma factor sigma(E). MicA is known to interact with the mRNA encoding the quorum sensing synthase homolog, LuxS in E.coli and both RNAs are processed by the double stranded RNA endonuclease, RNase III. Based on its conservation, this is presumably the case in close relatives and may serve as a long elusive link between envelope stress and quorum sensing.",
+            "score": 109.64764404296875
+        },
+        {
+            "docid": "39057805_3",
+            "document": "Retroviral ribonuclease H . Although the RT structures from human, murine and avian retroviruses display different subunits, the relative sizes, orientation and connection of the DNA polymerase and RNase H domains are strikingly similar. The RNase H domain occupies ~25% of the RT protein C-terminal. The DNA polymerase domain occupies ~55% of the RT protein N-terminal. The RNase H domains of MMLV and HIV-1 RT enzymes are structural very similar to the Escherichia coli and Bacillus halodurans RNases H as well as to human RNaseH1. In general, the folded structures of retroviral RNase H domains take the form of 5-stranded mixed beta sheets flanked by four alpha helices in an asymmetric distribution. A notable difference between the various RNase H proteins is the presence or absence of the C-helix (present in E. coli, MLV and human RNases H, absent in HIV-1, B. halodurans and ASLV RNases H), a positively charged alpha helix also referred to as the basic loop or protrusion. It is believed to have a role in substrate binding. During reverse transcription of the viral genomic RNA into cDNA, an RNA/DNA hybrid is created. The RNA strand is then hydrolyzed by the RNase H domain to enable synthesis of the second DNA strand by the DNA polymerase function of the RT enzyme. In addition, retroviral virions package a single tRNA molecule that they use as a primer during reverse transcription of the viral genomic RNA. The retroviral RNase H is needed to digest the tRNA molecule when it is no longer needed. These processes happen in a Mg2+ dependent fashion.",
+            "score": 108.57723999023438
+        },
+        {
+            "docid": "7343292_3",
+            "document": "Drosha . Members of the ribonuclease III superfamily of double-stranded (ds) RNA-specific endoribonucleases participate in diverse RNA maturation and decay pathways in eukaryotic and prokaryotic cells. The RNase III Drosha is the core nuclease that executes the initiation step of microRNA (miRNA) processing in the nucleus.",
+            "score": 108.1906967163086
+        },
+        {
+            "docid": "11421230_2",
+            "document": "Mir-181 microRNA precursor . In molecular biology miR-181 microRNA precursor is a small non-coding RNA molecule. MicroRNAs (miRNAs) are transcribed as ~70 nucleotide precursors and subsequently processed by the RNase-III type enzyme Dicer to give a ~22 nucleotide mature product. In this case the mature sequence comes from the 5' arm of the precursor. They target and modulate protein expression by inhibiting translation and / or inducing degradation of target messenger RNAs. This new class of genes has recently been shown to play a central role in malignant transformation. miRNA are downregulated in many tumors and thus appear to function as tumor suppressor genes. The mature products miR-181a, miR-181b, miR-181c or miR-181d are thought to have regulatory roles at posttranscriptional level, through complementarity to target mRNAs. miR-181 which has been predicted or experimentally confirmed in a wide number of vertebrate species as rat, zebrafish, and in the pufferfish (see below) (MIPF0000007).",
+            "score": 107.93598937988281
+        },
+        {
+            "docid": "446223_4",
+            "document": "Gene knockdown . In a transient knockdown, the binding of this oligonucleotide to the active gene or its transcripts causes decreased expression through a variety of processes. Binding can occur either through the blocking of transcription (in the case of gene-binding), the degradation of the mRNA transcript (e.g. by small interfering RNA (siRNA)) or RNase-H dependent antisense), or through the blocking of either mRNA translation, pre-mRNA splicing sites, or nuclease cleavage sites used for maturation of other functional RNAs, including miRNA (e.g. by morpholino oligos or other RNase-H independent antisense).",
+            "score": 107.86014556884766
+        },
+        {
+            "docid": "51775_8",
+            "document": "Sidney Altman . While at Yale, Altman's Nobel Prize work came with the analysis of the catalytic properties of the ribozyme RNase P, a ribonucleoprotein particle consisting of both a structural RNA molecule and one (in prokaryotes) or more (in eukaryotes) proteins. Originally, it was believed that, in the bacterial RNase P complex, the protein subunit was responsible for the catalytic activity of the complex, which is involved in the maturation of tRNAs. During experiments in which the complex was reconstituted in test tubes, Altman and his group discovered that the RNA component, in isolation, was sufficient for the observed catalytic activity of the enzyme, indicating that the RNA itself had catalytic properties, which was the discovery that earned him the Nobel Prize. Although the RNase P complex also exists in eukaryotic organisms, his later work revealed that in those organisms, the protein subunits of the complex are essential to the catalytic activity, in contrast to the bacterial RNase P.",
+            "score": 106.90623474121094
+        },
+        {
+            "docid": "9577500_7",
+            "document": "Exosome complex . Located on top of this ring are three proteins that have an S1 RNA binding domain (RBD). Two proteins in addition have a K-homology (KH) domain. In eukaryotes, three different \"S1\" proteins are bound to the ring, whereas in archaea either one or two different \"S1\" proteins can be part of the exosome (although there are always three S1 subunits attached to the complex). This ring structure is very similar to that of the proteins RNase PH and PNPase. In bacteria, the protein RNase PH, which is involved in tRNA processing, forms a hexameric ring consisting of six identical RNase PH proteins. In the case of PNPase, which is a phosphorolytic RNA-degrading protein found in bacteria and the chloroplasts and mitochondria of some eukaryotic organisms, two RNase PH domains, and both an S1 and KH RNA binding domain are part of a single protein, which forms a trimeric complex that adopts a structure almost identical to that of the exosome. Because of this high similarity in both protein domains and structure, these complexes are thought to be evolutionarily related and have a common ancestor. In bacteria, a separate RNase PH protein exists that is involved in transfer RNA processing, which has been shown to adopt a similar six-membered ring structure, but in this case consisting of 6 identical protein subunits. The RNase PH-like exosome proteins, PNPase and RNase PH all belong to the RNase PH family of RNases and are phosphorolytic exoribonucleases, meaning that they use inorganic phosphate to remove nucleotides from the 3' end of RNA molecules.",
+            "score": 106.67735290527344
+        },
+        {
+            "docid": "593203_3",
+            "document": "Dicer . Dicer was given its name in 2001 by Emily Bernstein, a graduate student in Gregory Hannon's lab at Cold Spring Harbor Laboratory, who sought to discover the enzyme responsible for generating small RNA fragments from double-stranded RNA. Dicer's ability to generate ~22 nucleotide RNA fragments was discovered by separating it from the RISC enzyme complex after initiating the RNAi pathway with dsRNA transfection. This experiment showed that RISC was not responsible for generating the observable small nucleotide fragments. Subsequent experiments testing RNase III family enzymes abilities to create RNA fragments narrowed the search to \"Drosophila\" CG4792, now named Dicer.",
+            "score": 105.6304931640625
+        },
+        {
+            "docid": "45256144_2",
+            "document": "Ribonuclease T . Ribonuclease T (\"RNase T\", \"exonuclease T\", \"exo T\") is a ribonuclease enzyme involved in the maturation of transfer RNA and ribosomal RNA in bacteria, as well as in DNA repair pathways. It is a member of the DnaQ family of exonucleases and non-processively acts on the 3' end of single-stranded nucleic acids. RNase T is capable of cleaving both DNA and RNA, with extreme sequence specificity discriminating against cytosine at the 3' end of the substrate.",
+            "score": 105.60667419433594
+        },
+        {
+            "docid": "532175_29",
+            "document": "Transfer RNA . In eukaryotic cells, tRNAs are transcribed by RNA polymerase III as pre-tRNAs in the nucleus. RNA polymerase III recognizes two highly conserved downstream promoter sequences: the 5' intragenic control region (5'-ICR, D-control region, or A box), and the 3'-ICR (T-control region or B box) inside tRNA genes. The first promoter begins at +8 of mature tRNAs and the second promoter is located 30-60 nucleotides downstream of the first promoter. The transcription terminates after a stretch of four or more thymidines. Pre-tRNAs undergo extensive modifications inside the nucleus. Some pre-tRNAs contain introns that are spliced, or cut, to form the functional tRNA molecule; in bacteria these self-splice, whereas in eukaryotes and archaea they are removed by tRNA-splicing endonucleases. Eukaryotic pre-tRNA contains bulge-helix-bulge (BHB) structure motif that is important for recognition and precise splicing of tRNA intron by endonucleases. This motif position and structure are evolutionary conserved. However, some organisms, such as unicellular algae have a non-canonical position of BHB-motif as well as 5'- and 3'-ends of the spliced intron sequence.  The 5' sequence is removed by RNase P, whereas the 3' end is removed by the tRNase Z enzyme. A notable exception is in the archaeon \"Nanoarchaeum equitans,\" which does not possess an RNase P enzyme and has a promoter placed such that transcription starts at the 5' end of the mature tRNA. The non-templated 3' CCA tail is added by a nucleotidyl transferase. Before tRNAs are exported into the cytoplasm by Los1/Xpo-t, tRNAs are aminoacylated. The order of the processing events is not conserved. For example, in yeast, the splicing is not carried out in the nucleus but at the cytoplasmic side of mitochondrial membranes.",
+            "score": 103.82123565673828
+        },
+        {
+            "docid": "15936520_4",
+            "document": "RNA extraction . The extraction of RNA in molecular biology experiments is greatly complicated by the presence of ubiquitous and hardy RNases that degrade RNA samples. Certain RNases can be extremely hardy and inactivating them is difficult compared to neutralizing DNases. In addition to the cellular RNases that are released there are several RNases that are present in the environment. RNases have evolved to have many extracellular functions in various organisms. For example, RNase 7, a member of the RNase A superfamily, is secreted by human skin and serves as a potent antipathogen defence. For these secreted RNases, enzymatic activity may not even be necessary for the RNase's exapted function. For example, immune RNases act by destabilizing the cell membranes of bacteria.",
+            "score": 103.55492401123047
+        },
+        {
+            "docid": "240850_6",
+            "document": "Gene silencing . Ribozymes are catalytic RNA molecules used to inhibit gene expression. These molecules work by cleaving mRNA molecules, essentially silencing the genes that produced them. Sidney Altman and Thomas Cech first discovered catalytic RNA molecules, RNase P and group II intron ribozymes, in 1989 and won the Nobel Prize for their discovery. Several types of ribozyme motifs exist, including hammerhead, hairpin, hepatitis delta virus, group I, group II, and RNase P ribozymes. Hammerhead, hairpin, and hepatitis delta virus (HDV) ribozyme motifs are generally found in viruses or viroid RNAs. These motifs are able to self-cleave a specific phosphodiester bond on an mRNA molecule. Lower eukaryotes and a few bacteria contain group I and group II ribozymes. These motifs can self-splice by cleaving and joining together phosphodiester bonds. The last ribozyme motif, the RNase P ribozyme, is found in \"Escherichia coli\" and is known for its ability to cleave the phosphodiester bonds of several tRNA precursors when joined to a protein cofactor.",
+            "score": 103.26897430419922
+        },
+        {
+            "docid": "505422_2",
+            "document": "Ribonuclease H . Ribonuclease H (abbreviated RNase H or RNH) is a family of non-sequence-specific endonuclease enzymes that catalyze the cleavage of RNA in an RNA/DNA substrate via a hydrolytic mechanism. Members of the RNase H family can be found in nearly all organisms, from bacteria to archaea to eukaryotes.",
+            "score": 102.88401794433594
+        },
+        {
+            "docid": "495775_3",
+            "document": "Ribonuclease . All organisms studied contain many RNases of two different classes, showing that RNA degradation is a very ancient and important process. As well as cleaning of cellular RNA that is no longer required, RNases play key roles in the maturation of all RNA molecules, both messenger RNAs that carry genetic material for making proteins, and non-coding RNAs that function in varied cellular processes. In addition, active RNA degradation systems are a first defense against RNA viruses, and provide the underlying machinery for more advanced cellular immune strategies such as RNAi.",
+            "score": 102.65337371826172
+        },
+        {
+            "docid": "5504842_19",
+            "document": "Sense (molecular biology) . If the antisense oligonucleotide contains a stretch of DNA or a DNA mimic (phosphorothioate DNA, 2'F-ANA, or others) it can recruit RNase H to degrade the target RNA. This makes the mechanism of gene silencing catalytic. Double-stranded RNA can also act as a catalytic, enzyme-dependent antisense agent through the RNAi/siRNA pathway, involving target mRNA recognition through sense-antisense strand pairing followed by target mRNA degradation by the RNA-induced silencing complex (RISC). The R1 plasmid hok/sok system provides yet another example of an enzyme-dependent antisense regulation process through enzymatic degradation of the resulting RNA duplex.",
+            "score": 102.07286071777344
+        },
+        {
+            "docid": "35568024_2",
+            "document": "Seminal RNase . Bovine seminal RNase (BS-RNase) is a member of the ribonuclease superfamily produced by the bovine seminal vesicles. This enzyme can not be differentiated from its members distinctly since there are more features that this enzyme shares with its family members than features that it possess alone. The research on the question of how new functions arrive in proteins in evolution led the scientists to find an uncommon consequence for a usual biological event called gene conversion in the case of the ribonuclease (RNase) protein family. The most well-known member of this family, RNase A (also called pancreatic RNase), is expressed in the pancreas of oxen. It serves to digest RNA in intestine, and evolved from bacteria fermenting in the stomach of the first ox. The homologous RNase, called seminal RNase, differs from RNase A by 23 amino acids and is expressed in seminal plasma in the concentration of 1-1.5\u00a0mg/ml, which constitutes more than 3% of the fluid protein content. Bovine seminal ribonuclease (BS-RNase) is a homologue of RNase A with specific antitumor activity.",
+            "score": 101.95655059814453
+        }
+    ]
+}

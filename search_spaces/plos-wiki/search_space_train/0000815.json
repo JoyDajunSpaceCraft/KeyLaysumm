@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "4501_19",
+            "document": "Black Death . The dominant explanation for the Black Death is the plague theory, which attributes the outbreak to \"Yersinia pestis\", also responsible for an epidemic that began in southern China in 1865, eventually spreading to India. The investigation of the pathogen that caused the 19th-century plague was begun by teams of scientists who visited Hong Kong in 1894, among whom was the French-Swiss bacteriologist Alexandre Yersin, after whom the pathogen was named \"Yersinia pestis\". The mechanism by which \"Y. pestis\" was usually transmitted was established in 1898 by Paul-Louis Simond and was found to involve the bites of fleas whose midguts had become obstructed by replicating \"Y. pestis\" several days after feeding on an infected host. This blockage results in starvation and aggressive feeding behaviour by the fleas, which repeatedly attempt to clear their blockage by regurgitation, resulting in thousands of plague bacteria being flushed into the feeding site, infecting the host. The bubonic plague mechanism was also dependent on two populations of rodents: one resistant to the disease, which act as hosts, keeping the disease endemic, and a second that lack resistance. When the second population dies, the fleas move on to other hosts, including people, thus creating a human epidemic.",
+            "score": 115.80393314361572
+        },
+        {
+            "docid": "34367_14",
+            "document": "Yersinia pestis . Pathogenesis due to \"Y. pestis\" infection of mammalian hosts is due to several factors, including an ability of these bacteria to suppress and avoid normal immune system responses such as phagocytosis and antibody production. Flea bites allow for the bacteria to pass the skin barrier. \"Y. pestis\" expresses a plasmin activator that is an important virulence factor for pneumonic plague and that might degrade on blood clots to facilitate systematic invasion. Many of the bacteria's virulence factors are anti-phagocytic in nature. Two important anti-phagocytic antigens, named F1 (Fraction 1) and V or LcrV, are both important for virulence. These antigens are produced by the bacterium at normal human body temperature. Furthermore, \"Y. pestis\" survives and produces F1 and V antigens while it is residing within white blood cells such as monocytes, but not in neutrophils. Natural or induced immunity is achieved by the production of specific opsonic antibodies against F1 and V antigens; antibodies against F1 and V induce phagocytosis by neutrophils.",
+            "score": 141.0383632183075
+        },
+        {
+            "docid": "16392927_7",
+            "document": "Bubonic plague . \"Y. pestis\" bacilli can resist phagocytosis and even reproduce inside phagocytes and kill them. As the disease progresses, the lymph nodes can haemorrhage and become swollen and necrotic. Bubonic plague can progress to lethal septicemic plague in some cases. The plague is also known to spread to the lungs and become the disease known as the pneumonic plague.",
+            "score": 102.02305507659912
+        },
+        {
+            "docid": "71064_2",
+            "document": "Pneumonic plague . Pneumonic plague is a severe lung infection caused by the bacterium \"Yersinia pestis\". Symptoms include fever, headache, shortness of breath, chest pain, and cough. They typically start about three to seven days after exposure. It is one of three forms of plague, the other two being septicemic plague and bubonic plague. The pneumonic form may occur following an initial bubonic or septicemic plague infection. It may also result from breathing in airborne droplets from another person or cat infected with pneumonic plague. The difference between the forms of plague is the location of infection; in pneumonic plague the infection is in the lungs, in bubonic plague the lymph nodes, and in septicemic plague within the blood. Diagnosis is by testing the blood, sputum, or fluid from a lymph node. While vaccines are being worked on, in most countries they are not yet commercially available. Prevention is generally by avoiding contact with rodents. It is recommended that those infected be isolated from others. Treatment of pneumonic plague is with antibiotics. Plague is present among rodents in Africa, the Americas, and Asia. Pneumonic plague is more serious and less common than bubonic plague. The total reported number of all types of plague in 2013 was 783. Untreated pneumonic plague has a mortality of nearly 100%. Some hypothesize that the pneumonic version of the plague was mainly responsible for the Black Death that resulted in approximately 50 million deaths in the 1300s.",
+            "score": 96.4864946603775
+        },
+        {
+            "docid": "34367_12",
+            "document": "Yersinia pestis . The transmission of \"Y. pestis\" by fleas is well characterized. Initial acquisition of \"Y. pestis\" by the vector occurs during feeding on an infected animal. Several proteins then contribute to the maintenance of the bacteria in the flea digestive tract, among them the hemin storage system and \"Yersinia\" murine toxin (Ymt). Although Ymt is highly toxic to rodents and was once thought to be produced to ensure reinfection of new hosts, it is important for the survival of \"Y. pestis\" in fleas.",
+            "score": 120.89581775665283
+        },
+        {
+            "docid": "34367_5",
+            "document": "Yersinia pestis . \"Y. pestis\" is a non-motile, stick-shaped, facultative anaerobic bacterium with bipolar staining (giving it a safety pin appearance) that produces an anti-phagocytic slime layer. Similar to other \"Yersinia\" species, it tests negative for urease, lactose fermentation, and indole. The closest relative is the gastrointestinal pathogen \"Yersinia pseudotuberculosis\", and more distantly \"Yersinia enterocolitica\". The complete genomic sequence is available for two of the three subspecies of \"Y. pestis\": strain KIM (of biovar \"Y. p. medievalis\"), and strain CO92 (of biovar \"Y. p. orientalis\", obtained from a clinical isolate in the United States). As of 2006, the genomic sequence of a strain of biovar \"Antiqua\" has been recently completed. Similar to the other pathogenic strains, there are signs of loss of function mutations. The chromosome of strain KIM is 4,600,755 base pairs long; the chromosome of strain CO92 is 4,653,728 base pairs long. Like \"Y. pseudotuberculosis\" and \"Y. enterocolitica\", \"Y. pestis\" is host to the plasmid pCD1. In addition, it also hosts two other plasmids, pPCP1 (also called pPla or pPst) and pMT1 (also called pFra) that are not carried by the other \"Yersinia\" species. pFra codes for a phospholipase D that is important for the ability of \"Y. pestis\" to be transmitted by fleas. pPla codes for a protease, Pla, that activates plasmin in human hosts and is a very important virulence factor for pneumonic plague. Together, these plasmids, and a pathogenicity island called HPI, encode several proteins that cause the pathogenesis, for which \"Y. pestis\" is famous. Among other things, these virulence factors are required for bacterial adhesion and injection of proteins into the host cell, invasion of bacteria in the host cell (via a type-III secretion system), and acquisition and binding of iron harvested from red blood cells (by siderophores). \"Y. pestis\" is thought to be descendant from \"Y. pseudotuberculosis\", differing only in the presence of specific virulence plasmids.",
+            "score": 146.95360851287842
+        },
+        {
+            "docid": "34367_2",
+            "document": "Yersinia pestis . Yersinia pestis (formerly \"Pasteurella pestis\") is a Gram-negative, non-motile rod-shaped coccobacillus, with no spores. It is a facultative anaerobic organism that can infect humans via the oriental rat flea. It causes the disease plague, which takes three main forms: pneumonic, septicemic, and bubonic plagues. All three forms were responsible for a number of high-mortality epidemics throughout human history, including: the 6th century's Plague of Justinian, the Black Death, which accounted for the death of at least one-third of the European population between 1347 and 1353, and the Third Pandemic, sometimes referred to as the Modern Plague, which began in the late 19th century in China and spread by rats on steamboats claiming close to 10 million lives. These plagues probably originated in China and were transmitted west via trade routes.",
+            "score": 91.34838795661926
+        },
+        {
+            "docid": "93815_31",
+            "document": "Athanasius Kircher . Kircher took a notably modern approach to the study of diseases, as early as 1646 using a microscope to investigate the blood of plague victims. In his \"Scrutinium Pestis\" of 1658, he noted the presence of \"little worms\" or \"animalcules\" in the blood and concluded that the disease was caused by microorganisms. The conclusion was correct, although it is likely that what he saw were in fact red or white blood cells and not the plague agent, Yersinia pestis. He also proposed hygienic measures to prevent the spread of disease, such as isolation, quarantine, burning clothes worn by the infected and wearing facemasks to prevent the inhalation of germs.",
+            "score": 86.99926090240479
+        },
+        {
+            "docid": "963914_6",
+            "document": "Braun's lipoprotein . Lpp has been proposed as a virulence factor of \"Yersinia pestis\", the cause of plague. \"Y. pestis\" needs \"lpp\" for maximum survival in macrophages and to efficiently kill mouse models of bubonic and pneumonic plague.",
+            "score": 113.40065288543701
+        },
+        {
+            "docid": "34367_3",
+            "document": "Yersinia pestis . \"Y. pestis\" was discovered in 1894 by Alexandre Yersin, a Swiss/French physician and bacteriologist from the Pasteur Institute, during an epidemic of the plague in Hong Kong. Yersin was a member of the Pasteur school of thought. Kitasato Shibasabur\u014d, a German-trained Japanese bacteriologist who practised Koch's methodology, was also engaged at the time in finding the causative agent of the plague. However, Yersin actually linked plague with \"Y. pestis\". Named \"Pasteurella pestis\" in the past, the organism was renamed \"Yersinia pestis\" in 1944.",
+            "score": 104.77914834022522
+        },
+        {
+            "docid": "20155412_3",
+            "document": "Theories of the Black Death . Several possible causes have been advanced for the Black Death; the most prevalent is the bubonic plague theory. Efficient transmission of \"Yersinia pestis\" is generally thought to occur only through the bites of fleas whose mid guts become obstructed by replicating \"Y. pestis\" several days after feeding on an infected host. This blockage results in starvation and aggressive feeding behaviour by fleas that repeatedly attempt to clear their blockage by regurgitation, resulting in thousands of plague bacteria being flushed into the feeding site, infecting the host. However, modelling of epizootic plague observed in prairie dogs, suggests that occasional reservoirs of infection such as an infectious carcass, rather than \"blocked fleas\" are a better explanation for the observed epizootic behaviour of the disease in nature.",
+            "score": 97.7670304775238
+        },
+        {
+            "docid": "20155412_20",
+            "document": "Theories of the Black Death . In 2001, Susan Scott and Christopher Duncan, respectively a demographer and zoologist from Liverpool University, proposed the theory that the Black Death might have been caused by an Ebola-like virus, not a bacterium. Their rationale was that this plague spread much faster and the incubation period was much longer than other confirmed \"Y. pestis\"\u2013caused plagues. A longer period of incubation will allow carriers of the infection to travel farther and infect more people than a shorter one. When the primary vector is humans, as opposed to birds, this is of great importance. Epidemiological studies suggest the disease was transferred between humans (which happens rarely with \"Yersinia pestis\" and very rarely for \"Bacillus anthracis\"), and some genes that determine immunity to Ebola-like viruses are much more widespread in Europe than in other parts of the world. Their research and findings are thoroughly documented in \"Biology of Plagues\". More recently the researchers have published computer modeling demonstrating how the Black Death has made around 10% of Europeans resistant to HIV.",
+            "score": 84.2566134929657
+        },
+        {
+            "docid": "10995185_23",
+            "document": "Arachidonate 5-lipoxygenase . \"Alox5\" Gene knockout mice are more susceptible to the development and pathological complications of experimental infection with \"Klebsiella pneumoniae\", \"Borrelia burgdorferi\", and Paracoccidioides brasiliensis. In a model of cecum perforation-induced sepsis, \"ALOX5\" gene knockout mice exhibited a decrease in the number of neutrophils and an increase in the number of bacteria that accumulated in their peritoneum. On the other hand, ALOX5 gene knockout mice demonstrate an enhanced resistance and lessened pathology to Brucella abortus infection and, at least in its acute phase, Trypanosoma cruzi infection. Furthermore, \"Alox5\"-null mice exhibit a worsened inflammatory component, failure to resolve inflammation-related responses, and decreased survival in experimental models of respiratory syncytial virus disease, Lyme disease, Toxoplasma gondii disease, and corneal injury. These studies indicate that Alox5 can serve a protective function presumably by generating metabolites such as chemotactic factors that mobilize the innate immunity system. However, the suppression of inflammation appears also to be a function of Alox5, presumably by contributing to the production of anti-inflammatory specialized pro-resolving mediators (SPMs), at least in certain rodent inflammation-based model systems. These genetic studies allow that ALOX5 along with the chemotactic factors and SPMs that they contribute to making may play similar opposing pro-inflammatory and anti-inflammatory functions in humans.",
+            "score": 46.91760456562042
+        },
+        {
+            "docid": "966915_9",
+            "document": "Bacterial pneumonia . Pneumonia caused by \"Yersinia pestis\" is usually called pneumonic plague.",
+            "score": 91.66060066223145
+        },
+        {
+            "docid": "4501_32",
+            "document": "Black Death . However, no single alternative solution has achieved widespread acceptance. Many scholars arguing for the \"Y. pestis\" as the major agent of the pandemic suggest that its extent and symptoms can be explained by a combination of bubonic plague with other diseases, including typhus, smallpox and respiratory infections. In addition to the bubonic infection, others point to additional septicemic (a type of \"blood poisoning\") and pneumonic (an airborne plague that attacks the lungs before the rest of the body) forms of the plague, which lengthen the duration of outbreaks throughout the seasons and help account for its high mortality rate and additional recorded symptoms. In 2014, scientists with Public Health England announced the results of an examination of 25 bodies exhumed from the Clerkenwell area of London, as well as of wills registered in London during the period, which supported the pneumonic hypothesis.",
+            "score": 91.49498438835144
+        },
+        {
+            "docid": "34367_8",
+            "document": "Yersinia pestis . In the urban and sylvatic (forest) cycles of \"Y. pestis,\" most of the spreading occurs between rodents and fleas. In the sylvatic cycle, the rodent is wild, but in the urban cycle, the rodent is primarily the brown rat. In addition, \"Y. pestis\" can spread from the urban environment and back. Transmission to humans is usually through the bite of infected fleas. If the disease has progressed to the pneumonic form, humans can spread the bacterium to others by coughing, vomiting, and possibly sneezing.",
+            "score": 104.70330572128296
+        },
+        {
+            "docid": "4746_7",
+            "document": "Plague (disease) . The pneumonic form of plague arises from infection of the lungs. It causes coughing and sneezing and thereby produces airborne droplets that contain bacterial cells and are likely to infect anyone inhaling them. The incubation period for pneumonic plague is short, usually two to four days, but sometimes just a few hours. The initial signs are indistinguishable from several other respiratory illnesses; they include headache, weakness and spitting or vomiting of blood. The course of the disease is rapid; unless diagnosed and treated soon enough, typically within a few hours, death may follow in one to six days; in untreated cases mortality is nearly 100%.",
+            "score": 58.24285173416138
+        },
+        {
+            "docid": "240850_21",
+            "document": "Gene silencing . Unlike viruses, bacteria are not as susceptible to silencing by siRNA. This is largely due to how bacteria replicate. Bacteria replicate outside of the host cell and do not contain the necessary machinery for RNAi to function. However, bacterial infections can still be suppressed by siRNA by targeting the host genes that are involved in the immune response caused by the infection or by targeting the host genes involved in mediating the entry of bacteria into cells. For instance, siRNA was used to reduce the amount of pro-inflammatory cytokines expressed in the cells of mice treated with lipopolysaccharide (LPS). The reduced expression of the inflammatory cytokine, tumor necrosis factor \u03b1 (TNF\u03b1), in turn, caused a reduction in the septic shock felt by the LPS-treated mice. In addition, siRNA was used to prevent the bacteria, \"Psueomonas aeruginosa\", from invading murine lung epithelial cells by knocking down the caveolin-2 (CAV2) gene. Thus, though bacteria cannot be directly targeted by siRNA mechanisms, they can still be affected by siRNA when the components involved in the bacterial infection are targeted.",
+            "score": 53.141462564468384
+        },
+        {
+            "docid": "20993417_9",
+            "document": "Black Death in England . The term \"Black Death\" which refers to the first and most serious outbreak of the Second Pandemic was not used by contemporaries, who preferred such names as the \"Great Pestilence\" or the \"Great Mortality\". It was not until the seventeenth century that the term under which we know the outbreak today became common , probably derived from Scandinavian languages. It is generally agreed today that the disease in question was plague, caused by \"Yersinia pestis\" bacteria. These bacteria are carried by fleas, which can be transferred to humans through contact with rats. Flea bites carry the disease into the lymphatic system, through which it makes its way to the lymph nodes. Here the bacteria multiply and form swellings called buboes, from which the term bubonic plague is derived. After three or four days the bacteria enter the bloodstream, and infect organs such as the spleen and the lungs. The patient will then normally die after a few days. A different strain of the disease is pneumonic plague, where the bacteria become airborne and enter directly into the patient's lungs. This strain is far more virulent, as it spreads directly from person to person. These types of infection probably both played a significant part in the Black Death, while a third strain was more rare. This is the septicaemic plague, where the flea bite carries the bacteria directly into the blood stream, and death occurs very rapidly.",
+            "score": 79.18002367019653
+        },
+        {
+            "docid": "42112_2",
+            "document": "Yersinia . Yersinia is a genus of bacteria in the family Yersiniaceae. \"Yersinia\" species are Gram-negative, coccobacilli bacteria, a few micrometers long and fractions of a micrometer in diameter, and are facultative anaerobes. Some members of \"Yersinia\" are pathogenic in humans; in particular, \"Y. pestis\" is the causative agent of the plague. Rodents are the natural reservoirs of \"Yersinia\"; less frequently, other mammals serve as the host. Infection may occur either through blood (in the case of \"Y. pestis\") or in an alimentary fashion, occasionally via consumption of food products (especially vegetables, milk-derived products, and meat) contaminated with infected urine or feces.",
+            "score": 106.71139693260193
+        },
+        {
+            "docid": "42112_6",
+            "document": "Yersinia . \"Y. pestis\" is the causative agent of plague. The disease caused by \"Y. enterocolitica\" is called yersiniosis. \"Yersinia\" may be associated with Crohn's disease, an inflammatory autoimmune condition of the gut. Iranian sufferers of Crohn's disease were more likely to have had earlier exposure to refrigerators at home, consistent with its unusual ability to thrive at low temperatures.",
+            "score": 85.62908601760864
+        },
+        {
+            "docid": "54771319_6",
+            "document": "Wyndham Lathem . Until his employment was terminated on August 4, 2017, Lathem was associate professor of microbiology-immunology in the Feinberg School of Medicine at Northwestern University. His research relates to how pathogenic bacteria, specifically Yersinia pestis, the Black Death plague, cause disease in human beings and how the bacterium has evolved over time. In 2016 he spoke at the University of North Carolina at Chapel Hill School of Medicine on \"Your Own Worst Enemy: How Yersinia pestis Turns the Body Against Itself.\" In 2017, he presented on \"From Mild to Murderous: How Yersinia pestis Evolved to Cause Pneumonic Plague\".",
+            "score": 95.02136206626892
+        },
+        {
+            "docid": "5473348_7",
+            "document": "Great Plague of Seville . The disease is generally believed to have been bubonic plague, an infection by the bacterium \"Yersinia pestis\", transmitted via a rat vector. Other symptom patterns of the bubonic plague, such as septicemic plague and pneumonic plague were also present.",
+            "score": 85.92245674133301
+        },
+        {
+            "docid": "34367_15",
+            "document": "Yersinia pestis . In addition, the type-III secretion system (T3SS) allows \"Y. pestis\" to inject proteins into macrophages and other immune cells. These T3SS-injected proteins, called \"Yersinia\" outer proteins (Yops), include Yop B/D, which form pores in the host cell membrane and have been linked to cytolysis. The YopO, YopH, YopM, YopT, YopJ, and YopE are injected into the cytoplasm of host cells by T3SS into the pore created in part by YopB and YopD. The injected Yops limit phagocytosis and cell signaling pathways important in the innate immune system, as discussed below. In addition, some \"Y. pestis\" strains are capable of interfering with immune signaling (e.g., by preventing the release of some cytokines).",
+            "score": 158.32637238502502
+        },
+        {
+            "docid": "34367_7",
+            "document": "Yersinia pestis . Numerous bacterial small non-coding RNAs have been identified to play regulatory functions. Some can regulate the virulence genes. 63 novel putative sRNA were identified through deep sequencing of the \"Y. pestis\" sRNA-ome. Among them was Yersinia-specific (also present in \"Y. pseudotuberculosis\" and \"Y. enterocolitica\") Ysr141 (\"Yersinia\" small RNA 141). Ysr141 sRNA was shown to regulate the synthesis of the type III secretion system (T3SS) effector protein YopJ. The Yop-Ysc T3SS is a critical component of virulence for \"Yersinia\" species. Many novel sRNAs were identified from \"Y. pestis\" grown \"in vitro\" and in the infected lungs of mice suggesting they play role in bacterial physiology or pathogenesis. Among them sR035 predicted to pair with SD region and transcription initiation site of a thermo-sensitive regulator \"ymoA,\" and sR084 predicted to pair with \"fur\", ferric uptake regulator.",
+            "score": 138.3111138343811
+        },
+        {
+            "docid": "55743836_21",
+            "document": "Epidemiology of plague . The \"Yersinia\" murine toxin (\"ymt\") allows the bacteria to infect fleas, which can then transmit bubonic plague. Early ancestral versions of \"Y. pestis\" did not have the \"ymt\" gene, which was only detected in a 951 calibrated BC sample.",
+            "score": 84.38213062286377
+        },
+        {
+            "docid": "34367_25",
+            "document": "Yersinia pestis . In 1894, two bacteriologists, Alexandre Yersin of Switzerland and Kitasato Shibasabur\u014d of Japan, independently isolated the bacterium in Hong Kong responsible for the Third Pandemic. Though both investigators reported their findings, a series of confusing and contradictory statements by Kitasato eventually led to the acceptance of Yersin as the primary discoverer of the organism. Yersin named it \"Pasteurella pestis\" in honor of the Pasteur Institute, where he worked, but in 1967 it was moved to a new genus, renamed \"Yersinia pestis\" in honor of Yersin. Yersin also noted that rats were affected by plague not only during plague epidemics but also often preceding such epidemics in humans, and that plague was regarded by many locals as a disease of rats: villagers in China and India asserted that, when large numbers of rats were found dead, plague outbreaks soon followed.",
+            "score": 88.77996754646301
+        },
+        {
+            "docid": "21787394_25",
+            "document": "Pathogenomics . The \"eco-evo\" perspective on pathogen-host interactions emphasizes the influences ecology and the environment on pathogen evolution. The dynamic genomic factors such as gene loss, gene gain and genome rearrangement are all strongly influenced by changes in the ecological niche that a particular microbial strain resides in. Microbes may switch from being pathogenic and non-pathogenic due to changing environments. Studies of the plague, Yersinia pestis, are prominent demonstration of how over time a microbe, in this case Yersinia pestis, evolves from a gastrointestinal pathogen to a very highly pathogenic microbe through dynamic genomic events. These flips between being pathogenic and non-pathogenic status and how they occurred with respect to ecological or environmental changes are important in novel therapeutic development to combat microbial infections.",
+            "score": 92.4380419254303
+        },
+        {
+            "docid": "33059011_2",
+            "document": "Lycoperdonosis . Lycoperdonosis is a respiratory disease caused by the inhalation of large amounts of spores from mature puffballs. It is classified as a hypersensitivity pneumonitis (also called extrinsic allergic alveolitis)\u2014an inflammation of the alveoli within the lung caused by hypersensitivity to inhaled natural dusts. It is one of several types of hypersensitivity pneumonitis caused by different agents that have similar clinical features. Typical progression of the disease includes symptoms of a cold hours after spore inhalation, followed by nausea, rapid pulse, crepitant rales (a sound like that made by rubbing hairs between the fingers, heard at the end of inhalation), and dyspnea. Chest radiographs reveal the presence of nodules in the lungs. The early symptoms presented in combination with pulmonary abnormalities apparent on chest radiographs may lead to misdiagnosis of the disease as tuberculosis, histiocytosis, or pneumonia caused by \"Pneumocystis carinii\". Lycoperdonosis is generally treated with corticosteroids, which decrease the inflammatory response; these are sometimes given in conjunction with antimicrobials.",
+            "score": 56.25856041908264
+        },
+        {
+            "docid": "1627307_8",
+            "document": "Aspiration pneumonia . While aspiration pneumonia and chemical pneumonitis may appear similar, it is important to differentiate between the two due to major differences in management of these conditions. Chemical pneumonitis is caused by damage to the inner layer of lung tissue, which triggers an influx of fluid. The inflammation caused by this reaction can rapidly cause similar findings seen in aspiration pneumonia, such as an elevated WBC (white blood cell) count, radiologic findings, and fever. However, it is important to note that the findings of chemical pneumonitis are triggered by inflammation not caused by infection, as seen in aspiration pneumonia. Inflammation is the body's immune response to any perceived threat to the body. Thus, treatment of chemical pneumonitis typically involves removal of the inflammatory fluid and supportive measures, notably excluding antibiotics. The use of antimicrobials is reserved for chemical pneumonitis complicated by secondary bacterial infection.",
+            "score": 56.144521951675415
+        },
+        {
+            "docid": "21053500_2",
+            "document": "Plague vaccine . Plague vaccine is a vaccine used against \"Yersinia pestis\". Killed bacteria have been used since 1890 but are less effective against pneumonic plague so that recently live vaccines of an attenuated type and recombinant protein vaccines have been developed to prevent the disease.",
+            "score": 80.25203657150269
+        },
+        {
+            "docid": "2441429_4",
+            "document": "Fungal pneumonia . Fungi typically enter the lung with inhalation of their spores, though they can reach the lung through the bloodstream if other parts of the body are infected. Also, fungal pneumonia can be caused by reactivation of a latent infection. Once inside the alveoli, fungi travel into the spaces between the cells and also between adjacent alveoli through connecting pores. This invasion triggers the immune system to respond by sending white blood cells responsible for attacking microorganisms (neutrophils) to the lungs. The neutrophils engulf and kill the offending organisms but also release cytokines which result in a general activation of the immune system. This results in the fever, chills, and fatigue common in bacterial and fungal pneumonia. The neutrophils and fluid leaked from surrounding blood vessels fill the alveoli and result in impaired oxygen transportation.",
+            "score": 68.33759903907776
+        }
+    ],
+    "r": [
+        {
+            "docid": "34367_15",
+            "document": "Yersinia pestis . In addition, the type-III secretion system (T3SS) allows \"Y. pestis\" to inject proteins into macrophages and other immune cells. These T3SS-injected proteins, called \"Yersinia\" outer proteins (Yops), include Yop B/D, which form pores in the host cell membrane and have been linked to cytolysis. The YopO, YopH, YopM, YopT, YopJ, and YopE are injected into the cytoplasm of host cells by T3SS into the pore created in part by YopB and YopD. The injected Yops limit phagocytosis and cell signaling pathways important in the innate immune system, as discussed below. In addition, some \"Y. pestis\" strains are capable of interfering with immune signaling (e.g., by preventing the release of some cytokines).",
+            "score": 158.3263702392578
+        },
+        {
+            "docid": "34367_5",
+            "document": "Yersinia pestis . \"Y. pestis\" is a non-motile, stick-shaped, facultative anaerobic bacterium with bipolar staining (giving it a safety pin appearance) that produces an anti-phagocytic slime layer. Similar to other \"Yersinia\" species, it tests negative for urease, lactose fermentation, and indole. The closest relative is the gastrointestinal pathogen \"Yersinia pseudotuberculosis\", and more distantly \"Yersinia enterocolitica\". The complete genomic sequence is available for two of the three subspecies of \"Y. pestis\": strain KIM (of biovar \"Y. p. medievalis\"), and strain CO92 (of biovar \"Y. p. orientalis\", obtained from a clinical isolate in the United States). As of 2006, the genomic sequence of a strain of biovar \"Antiqua\" has been recently completed. Similar to the other pathogenic strains, there are signs of loss of function mutations. The chromosome of strain KIM is 4,600,755 base pairs long; the chromosome of strain CO92 is 4,653,728 base pairs long. Like \"Y. pseudotuberculosis\" and \"Y. enterocolitica\", \"Y. pestis\" is host to the plasmid pCD1. In addition, it also hosts two other plasmids, pPCP1 (also called pPla or pPst) and pMT1 (also called pFra) that are not carried by the other \"Yersinia\" species. pFra codes for a phospholipase D that is important for the ability of \"Y. pestis\" to be transmitted by fleas. pPla codes for a protease, Pla, that activates plasmin in human hosts and is a very important virulence factor for pneumonic plague. Together, these plasmids, and a pathogenicity island called HPI, encode several proteins that cause the pathogenesis, for which \"Y. pestis\" is famous. Among other things, these virulence factors are required for bacterial adhesion and injection of proteins into the host cell, invasion of bacteria in the host cell (via a type-III secretion system), and acquisition and binding of iron harvested from red blood cells (by siderophores). \"Y. pestis\" is thought to be descendant from \"Y. pseudotuberculosis\", differing only in the presence of specific virulence plasmids.",
+            "score": 146.95361328125
+        },
+        {
+            "docid": "34367_14",
+            "document": "Yersinia pestis . Pathogenesis due to \"Y. pestis\" infection of mammalian hosts is due to several factors, including an ability of these bacteria to suppress and avoid normal immune system responses such as phagocytosis and antibody production. Flea bites allow for the bacteria to pass the skin barrier. \"Y. pestis\" expresses a plasmin activator that is an important virulence factor for pneumonic plague and that might degrade on blood clots to facilitate systematic invasion. Many of the bacteria's virulence factors are anti-phagocytic in nature. Two important anti-phagocytic antigens, named F1 (Fraction 1) and V or LcrV, are both important for virulence. These antigens are produced by the bacterium at normal human body temperature. Furthermore, \"Y. pestis\" survives and produces F1 and V antigens while it is residing within white blood cells such as monocytes, but not in neutrophils. Natural or induced immunity is achieved by the production of specific opsonic antibodies against F1 and V antigens; antibodies against F1 and V induce phagocytosis by neutrophils.",
+            "score": 141.03836059570312
+        },
+        {
+            "docid": "34367_7",
+            "document": "Yersinia pestis . Numerous bacterial small non-coding RNAs have been identified to play regulatory functions. Some can regulate the virulence genes. 63 novel putative sRNA were identified through deep sequencing of the \"Y. pestis\" sRNA-ome. Among them was Yersinia-specific (also present in \"Y. pseudotuberculosis\" and \"Y. enterocolitica\") Ysr141 (\"Yersinia\" small RNA 141). Ysr141 sRNA was shown to regulate the synthesis of the type III secretion system (T3SS) effector protein YopJ. The Yop-Ysc T3SS is a critical component of virulence for \"Yersinia\" species. Many novel sRNAs were identified from \"Y. pestis\" grown \"in vitro\" and in the infected lungs of mice suggesting they play role in bacterial physiology or pathogenesis. Among them sR035 predicted to pair with SD region and transcription initiation site of a thermo-sensitive regulator \"ymoA,\" and sR084 predicted to pair with \"fur\", ferric uptake regulator.",
+            "score": 138.3111114501953
+        },
+        {
+            "docid": "36605791_2",
+            "document": "YadA bacterial adhesin protein domain . In molecular biology, YadA is a protein domain which is short for \"Yersinia\" adhesin A. These proteins have strong sequence and structural homology, particularly at their C-terminal end. The function is to promote their pathogenicity and virulence in host cells, though cell adhesion. YadA is found in three pathogenic species of \"Yersinia\", \"Y. pestis,\" \"Y. pseudotuberculosis\", and \"Y. enterocolitica\". The YadA domain is encoded for by a virulence plasmid in \"Yersinia\", which encodes a type-III secretion (T3S) system consisting of the Ysc injectisome and the Yop effectors.",
+            "score": 129.41209411621094
+        },
+        {
+            "docid": "34367_12",
+            "document": "Yersinia pestis . The transmission of \"Y. pestis\" by fleas is well characterized. Initial acquisition of \"Y. pestis\" by the vector occurs during feeding on an infected animal. Several proteins then contribute to the maintenance of the bacteria in the flea digestive tract, among them the hemin storage system and \"Yersinia\" murine toxin (Ymt). Although Ymt is highly toxic to rodents and was once thought to be produced to ensure reinfection of new hosts, it is important for the survival of \"Y. pestis\" in fleas.",
+            "score": 120.89581298828125
+        },
+        {
+            "docid": "18136205_3",
+            "document": "LcrV . The type III secretion system of Gram-negative bacteria is used to transport virulence factors from the pathogen directly into the host cell and is only triggered when the bacterium comes into close contact with the host. Effector proteins secreted by the type III system do not possess a secretion signal, and are considered unique because of this. \"Yersinia\" spp. secrete effector proteins called YopB and YopD that facilitate the spread of other translocated proteins through the type III needle and the host cell cytoplasm. In turn, the transcription of these moieties is thought to be regulated by another gene, lcrV, found on the Yops virulon that encodes the entire type III system. The product of this gene, LcrV protein, also regulates the secretion of YopD through the type III translocon, and itself acts as a protective \"V\" antigen for \"Yersinia pestis\", the causative agent of plague.",
+            "score": 118.01831817626953
+        },
+        {
+            "docid": "534001_15",
+            "document": "Secretion . It is homologous to the basal body in bacterial flagella. It is like a molecular syringe through which a bacterium (e.g. certain types of \"Salmonella\", \"Shigella\", \"Yersinia\", \"Vibrio\") can inject proteins into eukaryotic cells. The low Ca concentration in the cytosol opens the gate that regulates T3SS. One such mechanism to detect low calcium concentration has been illustrated by the lcrV (Low Calcium Response) antigen utilized by \"Yersinia pestis\", which is used to detect low calcium concentrations and elicits T3SS attachment. The Hrp system in plant pathogens inject harpins and pathogen effector proteins through similar mechanisms into plants. This secretion system was first discovered in \"Yersinia pestis\" and showed that toxins could be injected directly from the bacterial cytoplasm into the cytoplasm of its host's cells rather than simply be secreted into the extracellular medium.",
+            "score": 116.8311996459961
+        },
+        {
+            "docid": "4501_19",
+            "document": "Black Death . The dominant explanation for the Black Death is the plague theory, which attributes the outbreak to \"Yersinia pestis\", also responsible for an epidemic that began in southern China in 1865, eventually spreading to India. The investigation of the pathogen that caused the 19th-century plague was begun by teams of scientists who visited Hong Kong in 1894, among whom was the French-Swiss bacteriologist Alexandre Yersin, after whom the pathogen was named \"Yersinia pestis\". The mechanism by which \"Y. pestis\" was usually transmitted was established in 1898 by Paul-Louis Simond and was found to involve the bites of fleas whose midguts had become obstructed by replicating \"Y. pestis\" several days after feeding on an infected host. This blockage results in starvation and aggressive feeding behaviour by the fleas, which repeatedly attempt to clear their blockage by regurgitation, resulting in thousands of plague bacteria being flushed into the feeding site, infecting the host. The bubonic plague mechanism was also dependent on two populations of rodents: one resistant to the disease, which act as hosts, keeping the disease endemic, and a second that lack resistance. When the second population dies, the fleas move on to other hosts, including people, thus creating a human epidemic.",
+            "score": 115.8039321899414
+        },
+        {
+            "docid": "3650770_11",
+            "document": "Yersinia pseudotuberculosis . In contrast to the \"ysc\" and \"yop\" genes listed above, the Yops that act directly on host cells to cause cytopathologic effects \u2013 \"effector Yops\" \u2013 are encoded by \"pYV\" genes external to this core region. The sole exception is LcrV, which is also known as the \"versatile Yop\" for its two roles as an effector Yop and as a regulatory Yop. The combined function of these effector Yops permits the bacteria to resist internalization by immune and intestinal cells and to evade the bactericidal actions of neutrophils and macrophages. Inside the bacterium, these Yops are bound by \"pYV\"-encoded Sycs (specific Yop chaperones), which prevent premature interaction with other proteins and guide the Yops to a type-III secretory apparatus. In addition to the Syc-Yop complex, Yops are also tagged for type III secretion either by the first 60nt in their corresponding mRNA transcript or by their corresponding first 20 N-terminal amino acids. LcrV, YopQ, YopE, YopT, YopH, YpkA, YopJ, YopM, and YadA are all secreted by the type-III secretory pathway. LcrV inhibits neutrophil chemotaxis and cytokine production, allowing \"Y. pseudotuberculosis\" to form large colonies without inducing systemic failure and, with YopQ, contributes to the translocation process by bringing YopB and YopD to the eukaryotic cell membrane for pore-formation. By causing actin filament depolymerisation, YopE, YopT, and YpkA resist endocytosis by intestinal cells and phagocytosis while giving cytotoxic changes in the host cell. YopT targets Rho GTPase, commonly named \"RhoA\", and uncouples it from the membrane, leaving it in an inactive RhoA-GDI (guanine nucleotide dissociation inhibitor)-bound state whereas YopE and YpkA convert Rho proteins to their inactive GDP-bound states by expressing GTPase activity. YpkA also catalyses serine autophosporylation, so it may have regulatory functions in \"Yersinia\" or undermine host cell immune response signal cascades since YpkA is targeted to the cytoplasmic side of the host cell membrane. YopH acts on host focal adhesion sites by dephosphorylating several phosphotyrosine residues on focal adhesion kinase (FAK) and the focal adhesion proteins paxillin and p130. Since FAK phosphorylation is involved in uptake of yersiniae as well as T cell and B cell responses to antigen-binding, YopH elicits antiphagocytic and other anti-immune effects. YopJ, which shares an operon with YpkA, \"...interferes with the mitogen-activated protein (MAP) kinase activities of c-Jun N-terminal kinase (JNK), p38, and extracellular signal-regulated kinase\", leading to macrophage apoptosis. In addition, YopJ inhibits TNF-\u03b1 release from many cell types, possibly through an inhibitory action on NF-\u03baB, suppressing inflammation and the immune response. By secretion through a type III pathway and localization in the nucleus by a vesicle-associated, microtubule-dependent method, YopM may alter host cell growth by binding to RSK (ribosomal S6 kinase), which regulates cell cycle regulation genes. Interestingly, YadA has lost its adhesion, opsonisation-resisting, phagocytosis-resisting, and respiratory burst-resisting functions in \"Y. pseudotuberculosis\" due to a frameshift mutation by a single base-pair deletion in \"yadA\" in comparison to \"yadA\" in \"Y. enterocolitica\", yet it still is secreted by type III secretion. The \"yop\" genes, \"yadA\", \"ylpA\", and the \"virC\" operon are considered the \"Yop regulon\" since they are coregulated by pYV-encoded VirF. \"virF\" is in turn thermoregulated. At 37 degrees Celsius, chromosomally encoded Ymo, which regulates DNA supercoiling around the \"virF\" gene, changes conformation, allowing for VirF expression, which then up-regulates the Yop regulon.",
+            "score": 114.59812927246094
+        },
+        {
+            "docid": "34367_16",
+            "document": "Yersinia pestis . \"Y. pestis\" proliferates inside lymph nodes, where it is able to avoid destruction by cells of the immune system such as macrophages. The ability of \"Y. pestis\" to inhibit phagocytosis allows it to grow in lymph nodes and cause lymphadenopathy. YopH is a protein tyrosine phosphatase that contributes to the ability of \"Y. pestis\" to evade immune system cells. In macrophages, YopH has been shown to dephosphorylate p130Cas, Fyb (Fyn binding protein) SKAP-HOM and Pyk, a tyrosine kinase homologous to FAK. YopH also binds the p85 subunit of phosphoinositide 3-kinase, the Gab1, the Gab2 adapter proteins, and the Vav guanine nucleotide exchange factor.",
+            "score": 113.54588317871094
+        },
+        {
+            "docid": "963914_6",
+            "document": "Braun's lipoprotein . Lpp has been proposed as a virulence factor of \"Yersinia pestis\", the cause of plague. \"Y. pestis\" needs \"lpp\" for maximum survival in macrophages and to efficiently kill mouse models of bubonic and pneumonic plague.",
+            "score": 113.40065002441406
+        },
+        {
+            "docid": "40822244_2",
+            "document": "Bacterial effector protein . Bacterial effectors are proteins secreted by pathogenic bacteria into the cells of their host, usually using a type 3 secretion system (TTSS/T3SS), a type 4 secretion system (TFSS/T4SS) or a Type VI secretion system (T6SS). Some bacteria inject only a few effectors into their host\u2019s cells while others may inject dozens or even hundreds. Effector proteins may have many different activities, but usually help the pathogen to invade host tissue, suppress its immune system, or otherwise help the pathogen to survive. Effector proteins are usually critical for virulence. For instance, in the causative agent of plague (\"Yersinia pestis\"), the loss of the T3SS is sufficient to render the bacteria completely avirulent, even when they are directly introduced into the bloodstream. Gram negative microbes are also suspected to deploy bacterial outer membrane vesicles to translocate effector proteins and virulence factors via a novel membrane vesicle trafficking secretory pathway, in order to modify their environment or attack/invade target cells, for example, at the host-pathogen interface.",
+            "score": 109.99234008789062
+        },
+        {
+            "docid": "31627093_2",
+            "document": "Yersiniabactin . Yersiniabactin (Ybt) is a siderophore found in the pathogenic bacteria \"Yersinia pestis\", \"Yersinia pseudotuberculosis\", and \"Yersinia enterocolitica\", as well as several strains of enterobacteria including enteropathogenic \"Escherichia coli\". Siderophores, compounds of low molecular mass with high affinities for ferric iron, are important virulence factors in pathogenic bacteria. Iron\u2014an essential element for life used for such cellular processes as respiration and DNA replication\u2014is extensively chelated by host proteins like lactoferrin and ferritin; thus, the pathogen produces molecules with an even higher affinity for Fe than these proteins in order to acquire sufficient iron for growth. As a part of such an iron-uptake system, yersiniabactin plays an important role in pathogenicity of \"Y. pestis\", \"Y. pseudotuberculosis\", and \"Y. entercolitica\".",
+            "score": 108.79646301269531
+        },
+        {
+            "docid": "165423_9",
+            "document": "Digestion . A type III secretion system means that a molecular syringe is used through which a bacterium (e.g. certain types of \"Salmonella\", \"Shigella\", \"Yersinia\") can inject nutrients into protist cells. One such mechanism was first discovered in \"Y. pestis\" and showed that toxins could be injected directly from the bacterial cytoplasm into the cytoplasm of its host's cells rather than simply be secreted into the extracellular medium.",
+            "score": 106.7932357788086
+        },
+        {
+            "docid": "42112_2",
+            "document": "Yersinia . Yersinia is a genus of bacteria in the family Yersiniaceae. \"Yersinia\" species are Gram-negative, coccobacilli bacteria, a few micrometers long and fractions of a micrometer in diameter, and are facultative anaerobes. Some members of \"Yersinia\" are pathogenic in humans; in particular, \"Y. pestis\" is the causative agent of the plague. Rodents are the natural reservoirs of \"Yersinia\"; less frequently, other mammals serve as the host. Infection may occur either through blood (in the case of \"Y. pestis\") or in an alimentary fashion, occasionally via consumption of food products (especially vegetables, milk-derived products, and meat) contaminated with infected urine or feces.",
+            "score": 106.71139526367188
+        },
+        {
+            "docid": "34367_18",
+            "document": "Yersinia pestis . YopJ is an acetyltransferase that binds to a conserved \u03b1-helix of MAPK kinases. YopJ acetylates MAPK kinases at serines and threonines that are normally phosphorylated during activation of the MAP kinase cascade. YopJ is activated in eukaryotic cells by interaction with target cell Phytic acid (IP6). This disruption of host cell protein kinase activity causes apoptosis of macrophages, and it has been proposed that this is important for the establishment of infection and for evasion of the host immune response. YopO is a protein kinase also known as \"Yersinia\" protein kinase A (YpkA). YopO is a potent inducer of human macrophage apoptosis.",
+            "score": 104.92809295654297
+        },
+        {
+            "docid": "34367_3",
+            "document": "Yersinia pestis . \"Y. pestis\" was discovered in 1894 by Alexandre Yersin, a Swiss/French physician and bacteriologist from the Pasteur Institute, during an epidemic of the plague in Hong Kong. Yersin was a member of the Pasteur school of thought. Kitasato Shibasabur\u014d, a German-trained Japanese bacteriologist who practised Koch's methodology, was also engaged at the time in finding the causative agent of the plague. However, Yersin actually linked plague with \"Y. pestis\". Named \"Pasteurella pestis\" in the past, the organism was renamed \"Yersinia pestis\" in 1944.",
+            "score": 104.77914428710938
+        },
+        {
+            "docid": "34367_8",
+            "document": "Yersinia pestis . In the urban and sylvatic (forest) cycles of \"Y. pestis,\" most of the spreading occurs between rodents and fleas. In the sylvatic cycle, the rodent is wild, but in the urban cycle, the rodent is primarily the brown rat. In addition, \"Y. pestis\" can spread from the urban environment and back. Transmission to humans is usually through the bite of infected fleas. If the disease has progressed to the pneumonic form, humans can spread the bacterium to others by coughing, vomiting, and possibly sneezing.",
+            "score": 104.70330810546875
+        },
+        {
+            "docid": "16392927_7",
+            "document": "Bubonic plague . \"Y. pestis\" bacilli can resist phagocytosis and even reproduce inside phagocytes and kill them. As the disease progresses, the lymph nodes can haemorrhage and become swollen and necrotic. Bubonic plague can progress to lethal septicemic plague in some cases. The plague is also known to spread to the lungs and become the disease known as the pneumonic plague.",
+            "score": 102.02305603027344
+        },
+        {
+            "docid": "34367_6",
+            "document": "Yersinia pestis . A comprehensive and comparative proteomics analysis of \"Y. pestis\" strain KIM was performed in 2006. The analysis focused on the transition to a growth condition mimicking growth in host cells.",
+            "score": 101.36447143554688
+        },
+        {
+            "docid": "3650770_8",
+            "document": "Yersinia pseudotuberculosis . Genetically, the pathogen causing plague, \"Y. pestis\", is very similar to \"Y. pseudotuberculosis\". The plague appears to have evolved from \"Y. pseudotuberculosis\" about 1500 to 20,000 years ago. A 2015 paper in Cell argued for an older divergence.",
+            "score": 100.18122100830078
+        },
+        {
+            "docid": "18136205_2",
+            "document": "LcrV . In molecular biology, LcrV is a protein found in \"Yersinia pestis\" and several other bacterial species. It forms part of the \"Yersinia pestis\" virulence protein factors that also includes all Yops, or \"Yersinia\" outer protein, but the name has been kept out of convention. LcrV's main function is not actually known, but it is essential for the production of other Yops.",
+            "score": 98.59678649902344
+        },
+        {
+            "docid": "34367_13",
+            "document": "Yersinia pestis . The hemin storage system plays an important role in the transmission of \"Y. pestis\" back to a mammalian host. While in the insect vector, proteins encoded by hemin storage system genetic loci induce biofilm formation in the proventriculus, a valve connecting the midgut to the esophagus. Aggregation in the biofilm inhibits feeding, as a mass of clotted blood and bacteria forms (referred to as \"Bacot's block\"). Transmission of \"Y. pestis\" occurs during the futile attempts of the flea to feed. Ingested blood is pumped into the esophagus, where it dislodges bacteria lodged in the proventriculus and is regurgitated back into the host circulatory system.",
+            "score": 98.58855438232422
+        },
+        {
+            "docid": "34367_29",
+            "document": "Yersinia pestis . In 2012, researchers in Germany collected samples of \"Yersinia pestis\" from gravesites with a view to reconstructing the DNA of the bacterium. In 2015, Cell published results from a study of ancient graves. Plasmids of Y. pestis were detected in archaeological samples of the teeth of seven Bronze Age individuals, in the Afanasievo culture in Siberia, the Corded Ware culture in Estonia, the Sintashta culture in Russia, the Unetice culture in Poland and the Andronovo culture in Siberia.",
+            "score": 98.0829086303711
+        },
+        {
+            "docid": "34367_9",
+            "document": "Yersinia pestis . Several species of rodents serve as the main reservoir for \"Y. pestis\" in the environment. In the steppes, the natural reservoir is believed to be principally the marmot. In the western United States, several species of rodents are thought to maintain \"Y. pestis\". However, the expected disease dynamics have not been found in any rodent. A variety of species of rodents are known to have a variable resistance, which could lead to an asymptomatic carrier status. Evidence indicates fleas from other mammals have a role in human plague outbreaks.",
+            "score": 97.99164581298828
+        },
+        {
+            "docid": "20155412_3",
+            "document": "Theories of the Black Death . Several possible causes have been advanced for the Black Death; the most prevalent is the bubonic plague theory. Efficient transmission of \"Yersinia pestis\" is generally thought to occur only through the bites of fleas whose mid guts become obstructed by replicating \"Y. pestis\" several days after feeding on an infected host. This blockage results in starvation and aggressive feeding behaviour by fleas that repeatedly attempt to clear their blockage by regurgitation, resulting in thousands of plague bacteria being flushed into the feeding site, infecting the host. However, modelling of epizootic plague observed in prairie dogs, suggests that occasional reservoirs of infection such as an infectious carcass, rather than \"blocked fleas\" are a better explanation for the observed epizootic behaviour of the disease in nature.",
+            "score": 97.76702880859375
+        },
+        {
+            "docid": "71064_2",
+            "document": "Pneumonic plague . Pneumonic plague is a severe lung infection caused by the bacterium \"Yersinia pestis\". Symptoms include fever, headache, shortness of breath, chest pain, and cough. They typically start about three to seven days after exposure. It is one of three forms of plague, the other two being septicemic plague and bubonic plague. The pneumonic form may occur following an initial bubonic or septicemic plague infection. It may also result from breathing in airborne droplets from another person or cat infected with pneumonic plague. The difference between the forms of plague is the location of infection; in pneumonic plague the infection is in the lungs, in bubonic plague the lymph nodes, and in septicemic plague within the blood. Diagnosis is by testing the blood, sputum, or fluid from a lymph node. While vaccines are being worked on, in most countries they are not yet commercially available. Prevention is generally by avoiding contact with rodents. It is recommended that those infected be isolated from others. Treatment of pneumonic plague is with antibiotics. Plague is present among rodents in Africa, the Americas, and Asia. Pneumonic plague is more serious and less common than bubonic plague. The total reported number of all types of plague in 2013 was 783. Untreated pneumonic plague has a mortality of nearly 100%. Some hypothesize that the pneumonic version of the plague was mainly responsible for the Black Death that resulted in approximately 50 million deaths in the 1300s.",
+            "score": 96.48649597167969
+        },
+        {
+            "docid": "42112_9",
+            "document": "Yersinia . \"Y. pestis\", the first known species, was identified in 1894 by A.E.J. Yersin, a Swiss bacteriologist, and Kitasato Shibasabur\u014d, a Japanese bacteriologist. It was formerly described as \"Pasteurella pestis\" (known trivially as the plague-bacillus by Lehmann and Neumann in 1896. In 1944, van Loghem reclassified the species \"P. pestis\" and \"P. rondentium\" into a new genus, \"Yersinia\". Following the introduction of the bacteriological code, it was accepted as valid in 1980.",
+            "score": 96.40229797363281
+        },
+        {
+            "docid": "54771319_6",
+            "document": "Wyndham Lathem . Until his employment was terminated on August 4, 2017, Lathem was associate professor of microbiology-immunology in the Feinberg School of Medicine at Northwestern University. His research relates to how pathogenic bacteria, specifically Yersinia pestis, the Black Death plague, cause disease in human beings and how the bacterium has evolved over time. In 2016 he spoke at the University of North Carolina at Chapel Hill School of Medicine on \"Your Own Worst Enemy: How Yersinia pestis Turns the Body Against Itself.\" In 2017, he presented on \"From Mild to Murderous: How Yersinia pestis Evolved to Cause Pneumonic Plague\".",
+            "score": 95.0213623046875
+        },
+        {
+            "docid": "1539783_3",
+            "document": "Yersinia enterocolitica . The genus \"Yersinia\" includes 11 species: \"Y. pestis, Y. pseudotuberculosis, Y. enterocolitica, Y. frederiksenii,\" \"Y. intermedia, Y. kristensenii, Y. bercovieri,\" \"Y. mollaretii, Y. rohdei, Y. aldovae\", and \"Y. ruckeri\". Among them, only \"Y. pestis, Y. pseudotuberculosis\", and certain strains of \"Y. enterocolitica\" are of pathogenic importance for humans and certain warm-blooded animals, whereas the other species are of environmental origin and may, at best, act as opportunists. However, \"Yersinia\" strains can be isolated from clinical materials, so have to be identified at the species level.",
+            "score": 93.63275146484375
+        },
+        {
+            "docid": "34367_19",
+            "document": "Yersinia pestis . Depending on which form of the plague the individual becomes infected with the plague develops different illness; however the plague overall affects the host cell\u2019s ability to communicate with the immune system, hindering the body to bring phagocytic cells to the area of infection.",
+            "score": 92.56568908691406
+        }
+    ]
+}

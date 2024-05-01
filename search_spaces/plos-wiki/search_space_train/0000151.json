@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "7257968_2",
+            "document": "Disease burden . Disease burden is the impact of a health problem as measured by financial cost, mortality, morbidity, or other indicators. It is often quantified in terms of quality-adjusted life years (QALYs) or disability-adjusted life years (DALYs), both of which quantify the number of years lost due to disease (YLDs). One DALY can be thought of as one year of healthy life lost, and the overall disease burden can be thought of as a measure of the gap between current health status and the ideal health status (where the individual lives to old age free from disease and disability). According to an article published in \"The Lancet\" in June 2015, low back pain and major depressive disorder were among the top ten causes of YLDs and were the cause of more health loss than diabetes, chronic obstructive pulmonary disease, and asthma combined. The study based on data from 188 countries, considered to be the largest and most detailed analysis to quantify levels, patterns, and trends in ill health and disability, concluded that \"the proportion of disability-adjusted life years due to YLDs increased globally from 21.1% in 1990 to 31.2% in 2013.\" The environmental burden of disease is defined as the number of DALYs that can be attributed to environmental factors. These measures allow for comparison of disease burdens, and have also been used to forecast the possible impacts of health interventions. By 2014 DALYs per head were \"40% higher in low-income and middle-income regions.\"",
+            "score": 70.5470712184906
+        },
+        {
+            "docid": "6716259_6",
+            "document": "Global Burden of Disease Study . Official DALY estimates had not been updated by WHO since 2004 until the Global Burden of Diseases, Injuries, and Risk Factors Study 2010 (GBD 2010), also known as the Global Burden of Disease Study 2010, was published in December 2012. The work quantified the burdens of 291 major causes of death and disability and 67 risk factors disaggregated by 21 geographic regions and various age\u2013sex groups. GBD 2010 had the Institute for Health Metrics and Evaluation as its coordinating center, but was a collaboration between several institutions including WHO and the Harvard School of Public Health. The work was funded by the Gates Foundation. The GBD 2010 estimates contributed to WHO's own estimates published in 2013, although WHO did not acknowledge the GBD 2010 estimates.",
+            "score": 54.12786066532135
+        },
+        {
+            "docid": "4144577_30",
+            "document": "Disability-adjusted life year . Although some have criticized DALYs as essentially an economic measure of human productive capacity for the affected individual, this is not so. DALYs do have an age-weighting function that has been rationalized based on the economic productivity of persons at that age, but health-related quality of life measures are used to determine the disability weights, which range from 0 to 1 (no disability to 100% disabled) for all disease. These weights are based not on a person's ability to work, but rather on the effects of the disability on the person's life in general. This is why mental illness is one of the leading diseases as measured by global burden of disease studies, with depression accounting for 51.84 million DALYs. Perinatal conditions, which affect infants with a very low age-weight function, are the leading cause of lost DALYs at 90.48 million. Measles is fifteenth at 23.11 million.",
+            "score": 80.96778321266174
+        },
+        {
+            "docid": "7257968_18",
+            "document": "Disease burden . Among the investigated factors, long-term PM10 exposure have the greatest impact on public health. As levels of PM10 decrease, related disease burden is also expected to decrease. Noise exposure and its associated disease burden is likely to increase to a level where the disease burden is similar to that of traffic accidents. The rough estimates do not provide a complete picture of the environmental health burden, because data are uncertain, not all environmental-health relationships are known, not all environmental factors have been included, and it was not possible to assess all potential health effects. The effects of a number of these assumptions were evaluated in an uncertainty analysis.",
+            "score": 33.65099763870239
+        },
+        {
+            "docid": "27308924_10",
+            "document": "Institute for Health Metrics and Evaluation . In the Global Burden of Diseases, Injuries, and Risk Factors (GBD) Study 2010, a worldwide consortium of 500 researchers, coordinated by IHME measured the impact of more than 290 health conditions and 67 health risk factors worldwide. The GBD enterprise produced estimates in 21 regions around the world for disability-adjusted life years by age and sex for the past two decades. Part of this research has involved conducting in-person surveys in several countries and gathering health information through a website survey. The team created a cause of death database that includes 60 years of data, or almost 800 million deaths. To illustrate the findings, IHME released a suite of interactive data visualizations, which are available to the public.",
+            "score": 52.35659170150757
+        },
+        {
+            "docid": "6894544_7",
+            "document": "Noise-induced hearing loss . NIHL has implications on quality of life that extend beyond related symptoms and the ability to hear. The annual disability-adjusted life years (DALYs) were estimated for noise-exposed U.S. workers. DALYs represent the number of healthy years lost due to a disease or other health condition. They were defined by the 2013 Global Burden of Disease (GBD) Study. The DALYs calculation accounts for life limitations experienced because of hearing loss as a lost portion of a healthy year of life. So the results indicate the number of healthy years lost by a group of people over a specific time period.",
+            "score": 52.55527997016907
+        },
+        {
+            "docid": "3344294_15",
+            "document": "Frontal lobe epilepsy . Epilepsy has a substantial impact on the quality of life of the individuals that are afflicted with it. Physicians and researchers are coming to understand that the impact on the quality of life of the patient is as important as the effects of the seizures. Quality of life questionnaires and other assessment tools have been created to help quantify quality of life for individual patients. They consider such factors as physical health (including numbers and severity of seizures, medication side effects etc.), mental health, social relationships, lifestyle, role activities and life fulfillment. A Center for Disease Control study reported that seizure sufferers were more likely to have lower education levels, higher unemployment, higher levels of pain, hypersomnia/insomnia, increased psychological distress and social isolation/connection issues. Some of the issues which impact quality of life for people with epilepsy are: ability to drive and travel, the ability to date, marry and have children, the ability to have a job and independence, the ability to have an education and learn, and the ability to have good health and mental functioning. Future research is needed to find ways of not only controlling frontal lobe seizures, but of also addressing the specific quality-of-life issues that plague those with frontal lobe epilepsy.",
+            "score": 37.522777795791626
+        },
+        {
+            "docid": "26082350_10",
+            "document": "Global Health Initiatives . However, case studies have shown that the likelihood of global initiatives garnering public and political attention is not limited to the aforementioned factors. For example, initiatives concerning polio eradication continue to receive substantial resources in spite of the relatively small global burden of disease as compared to chronic diseases such as cancer, cardiovascular disorders, diabetes, and some communicable diseases such as pneumonia which comparatively attract fewer worldwide resources irrespective of the high morbidity and mortality rates associated with such diseases. These cases highlight the need for extensive research methods and evaluative measures to assess the relative causal weights of factors used to determine how global political priority is attributed to global health initiatives. Existing debates also attribute factors such as the increasing influences of economic globalization, international organizations, and economic actors with little to no previous health remit as each contributing to the evolution of global health governance.",
+            "score": 54.01985502243042
+        },
+        {
+            "docid": "1393169_2",
+            "document": "Quality-adjusted life year . The quality-adjusted life year or quality-adjusted life-year (QALY) is a generic measure of disease burden, including both the quality and the quantity of life lived. It is used in economic evaluation to assess the value for money of medical interventions. One QALY equates to one year in perfect health. If an individual's health is below this maximum, QALYs are accrued at a rate of less than 1 per year. To be dead is associated with 0 QALYs. QALYs can be used to inform personal decisions, to evaluate programs, and to set priorities for future programs.",
+            "score": 48.6190299987793
+        },
+        {
+            "docid": "33526284_4",
+            "document": "HUNT Research Centre . Carried out in 1984-1986 to establish the health history of 75,000 people. The first of the major health surveys was conducted from 1984 to 1986. All county residents over 20 years were invited to participate in the study. The participants filled out two questionnaires. The main objective was to investigate the prevalence of hypertension and diabetes in the population, and to evaluate the quality of treatment for blood pressure patients, people with diabetes, and people with tuberculosis. Blood pressure, height, weight, and X-rays of the chest were collected. HUNT 1 was the first health survey in Nord-Tr\u00f8ndelag. HUNT 1 consisted mainly of four sub-studies whose subjects were blood pressure, diabetes, lung disease and quality of life. The purpose of this study was to determine the prevalence of hypertension and diabetes, and to evaluate the quality of life in people with high blood pressure, people with diabetes and people with tuberculosis. In this study participants' blood pressure, height and weight were recorded and there were also an x-ray examination. Each participant filled out two questionnaires. In addition, non-fasting blood glucose levels were measured in all participants over 40 years. If the results of this investigation indicated diabetes, the participant was offered a clinical examination as well. Blood samples were not taken in this study. 74,599 people who were 20 years and older participated (88.1%). A comprehensive dropout study was also conducted. At present, the database is a valuable resource for epidemiological research, both in cardiovascular diseases, diabetes and quality of life. Studies of cancer and public health have also been performed on this material, and research from HUNT 1 data is still ongoing.",
+            "score": 55.54270672798157
+        },
+        {
+            "docid": "6716259_2",
+            "document": "Global Burden of Disease Study . The Global Burden of Disease Study (GBD) is a comprehensive regional and global research program of disease burden that assesses mortality and disability from major diseases, injuries, and risk factors. GBD is a collaboration of over 1,800 researchers from 127 countries. Under principal investigator Christopher J.L. Murray, GBD is based out of the Institute for Health Metrics and Evaluation (IHME) at the University of Washington and funded by the Bill and Melinda Gates Foundation.",
+            "score": 58.965914726257324
+        },
+        {
+            "docid": "6716259_3",
+            "document": "Global Burden of Disease Study . The Global Burden of Disease Study began in 1990 as a single World Bank-commissioned study, now called GBD 1990. The original project quantified the health effects of more than 100 diseases and injuries for eight regions of the world, giving estimates of morbidity and mortality by age, sex, and region. It also introduced the disability-adjusted life year (DALY) as a new metric to quantify the burden of diseases, injuries, and risk factors, to aid comparisons. GBD 1990 was \"institutionalized\" at the World Health Organization (WHO) and the research was \"conducted mainly by researchers at Harvard and WHO\".",
+            "score": 58.23595714569092
+        },
+        {
+            "docid": "7183423_12",
+            "document": "Patient-reported outcome . Measures of symptoms may focus on a range of impairments or on a specific impairment such as depression or pain. Measures of functioning assess activities such as personal care, activities of daily living and locomotor activities. Health-related quality of life instruments are generally multi-dimensional questionnaires assessing a combination of aspects of impairments and/or disability and reflect a patient's health status. In contrast, QoL goes beyond impairment and disability by asking about the patient's ability to fulfill their needs and also about their emotional response to their restrictions.",
+            "score": 42.01968240737915
+        },
+        {
+            "docid": "4144577_11",
+            "document": "Disability-adjusted life year . At the population level, the disease burden as measured by DALYs is calculated by adding YLL to YLD. YLL uses the life expectancy at the time of death. YLD is determined by the number of years disabled weighted by level of disability caused by a disability or disease using the formula: In this formula I = number of incident cases in the population, DW = disability weight of specific condition, and L = average duration of the case until remission or death (years). There is also a prevalence (as opposed to incidence) based calculation for YLD. Premature death is calculated by YLL = N x L, where N = number of deaths due to condition, L = standard life expectancy at age of death (expectancy \u2013 age at death).",
+            "score": 72.23437356948853
+        },
+        {
+            "docid": "34434607_10",
+            "document": "Paul M. Ellwood Jr. . In 1988, he was invited by the Massachusetts Medical Society, which publishes the New England Journal of Medicine, to deliver their annual Shattuck Lecture. He called for \"a national data base containing information and analysis on clinical, financial, and health outcomes that estimates as best we can the relation between medical interventions and health outcomes, as well as the relation between health outcomes and money.\" He envisioned a sort of health plan \"report card\" that would allow patients to make informed choices among health plans based on health outcomes for specific conditions and patients\u2019 reports of their satisfaction. He argues that there is extraordinary variation in the quality-performance of different doctors and health institutions, yet patients, insurers, policymakers and even other doctors have few tools for assessing quality. Similarly, doctors and patients often choose medical interventions with only limited information about the effectiveness of various treatments and how they impact patients\u2019 quality of life; a health outcomes data base would vastly improve the information available when making such decisions. Finally, a health outcomes data-base would guide policymakers and large providers in the overall design of health systems. The Mayo Clinic and some health providers have begun to experiment with outcomes management.",
+            "score": 43.24173164367676
+        },
+        {
+            "docid": "52970637_19",
+            "document": "Connor-Davidson Resilience Scale . The CD-RISC was used to study resilience in patients suffering from end-stage liver disease and waiting for liver transplantation. The researchers performed various statistical analyses (including exploratory factor analysis) to determine the best way to use the CD-RISC within their sample and concluded that a 20-item, single-factor version fit best with the data. Results indicated that CD-RISC scores correlated negatively with depression and anxiety. Scores correlated positively with social support and health related quality of life. Resilience was not associated with the severity of the patients\u2019 liver disease.",
+            "score": 36.14515161514282
+        },
+        {
+            "docid": "20558148_6",
+            "document": "Rating scales for depression . The Patient Health Questionnaire (PHQ) sets are self-reported depression rating scales. For example, the Patient Health Questionnaire-9 (PHQ-9) is a self-reported, 9-question version of the Primary Care Evaluation of Mental Disorders. The Patient Health Questionnaire-2 (PHQ-2) is a shorter version of the PHQ-9 with two screening questions to assess the presence of a depressed mood and a loss of interest or pleasure in routine activities; a positive response to either question indicates further testing is required.",
+            "score": 22.166011095046997
+        },
+        {
+            "docid": "217631_22",
+            "document": "Comorbidity . Comorbidity is widespread among the patients admitted at multidiscipline hospitals. During the phase of initial medical help, the patients having multiple diseases simultaneously are a norm rather than an exception. Prevention and treatment of chronic diseases declared by the World Health Organization, as a priority project for the second decade of the 20th century, are meant to better the quality of the global population. This is the reason for an overall tendency of large-scale epidemiological researches in different medical fields, carried-out using serious statistical data. In most of the carried-out, randomized, clinical researches the authors study patients with single refined pathology, making comorbidity an exclusive criterion. This is why it is hard to relate researches, directed towards the evaluation of the combination of ones or the other separate disorders, to works regarding the sole research of comorbidity. The absence of a single scientific approach to the evaluation of comorbidity leads to omissions in clinical practice. It is hard not to notice the absence of comorbidity in the taxonomy (systematics) of disease, presented in ICD-10.",
+            "score": 50.322498083114624
+        },
+        {
+            "docid": "1393169_5",
+            "document": "Quality-adjusted life year . Another way of determining the weight associated with a particular health state is to use standard descriptive systems such as the EuroQol Group's EQ-5D questionnaire, which categorises health states according to five dimensions: mobility, self-care, usual activities (e.g. work, study, homework or leisure activities), pain/discomfort and anxiety/depression.",
+            "score": 46.426594972610474
+        },
+        {
+            "docid": "22140663_4",
+            "document": "Quality of life (healthcare) . The current concept of health-related quality of life acknowledges that subjects put their actual situation in relation to their personal expectation. The latter can vary over time, and react to external influences such as length and severity of illness, family support, etc. As with any situation involving multiple perspectives, patients' and physicians' rating of the same objective situation have been found to differ significantly. Consequently, health-related quality of life is now usually assessed using patient questionnaires. These are often multidimensional and cover physical, social, emotional, cognitive, work- or role-related, and possibly spiritual aspects as well as a wide variety of disease related symptoms, therapy induced side effects, and even the financial impact of medical conditions. Although often used interchangeably with the measurement of health status, both health-related quality of life and health status measure different concepts.",
+            "score": 40.77237057685852
+        },
+        {
+            "docid": "105219_93",
+            "document": "Cancer . Predicting short- or long-term survival depends on many factors. The most important are the cancer type and the patient's age and overall health. Those who are frail with other health problems have lower survival rates than otherwise healthy people. Centenarians are unlikely to survive for five years even if treatment is successful. People who report a higher quality of life tend to survive longer. People with lower quality of life may be affected by depression and other complications and/or disease progression that both impairs quality and quantity of life. Additionally, patients with worse prognoses may be depressed or report poorer quality of life because they perceive that their condition is likely to be fatal.",
+            "score": 35.398247718811035
+        },
+        {
+            "docid": "191253_25",
+            "document": "Social group . The social groups people are involved with in the workplace directly affect their health. No matter where you work or what the occupation is, feeling a sense of belonging in a peer group is a key to overall success. Part of this is the responsibility of the leader (manager, supervisor, etc.). If the leader helps everyone feel a sense of belonging within the group, it can help boost morale and productivity. According to Dr. Niklas Steffens \"Social identification contributes to both psychological and physiological health, but the health benefits are stronger for psychological health\". The social relationships people have can be linked to different health conditions. Lower quantity or quality social relationships have been connected to issues such as: development of cardiovascular disease, recurrent myocardial infarction, atherosclerosis, autonomic dysregulation, high blood pressure, cancer and delayed cancer recovery, and slower wound healing as well as inflammatory biomarkers and impaired immune function, factors associated with adverse health outcomes and mortality. The social relationship of marriage is the most studied of all, the marital history over the course of one's life can form differing health outcomes such as cardiovascular disease, chronic conditions, mobility limitations, self-rated health, and depressive symptoms. Social connectedness also plays a large part in overcoming mental afflictions such as drug, alcohol, or substance abuse. With these types of issues, a person's peer group play a big role in helping them stay sober. Conditions do not need to be life-threatening, one's social group can help deal with work anxiety as well. When people are more socially connected have access to more support. Some of the health issues people have may also stem from their uncertainty about just where they stand among their colleagues. It has been shown that being well socially connected has a significant impact on a person as they age, according to a 10-year study by the MacArthur Foundation, which was published in the book 'Successful Aging' the support, love, and care we feel through our social connections can help to counteract some of the health-related negatives of aging. Older people who were more active in social circles tended to be better off health-wise.",
+            "score": 39.46210515499115
+        },
+        {
+            "docid": "27308924_14",
+            "document": "Institute for Health Metrics and Evaluation . In January 2014, IHME began releasing updates to the work, called the Global Burden of Diseases, Injuries, and Risk Factors (GBD) Study 2013. The work generated over 1 billion estimates of health outcomes. GBD estimates are now being updated annually.",
+            "score": 30.64496660232544
+        },
+        {
+            "docid": "82385_19",
+            "document": "Sex reassignment surgery . Several studies tried to measure the quality of life and self-perceive physical health using different scales. Overall, transsexual people have rated their self-perceived quality of life as \u2018normal\u2019 or \u2018quite good\u2019, however, their overall score was still lower than the control group. Another study showed a similar level of quality of life in transsexual individuals and the control group. Nonetheless, a study with long-term data suggested that albeit quality of life of patients 15 years after sex reassignment surgery is similar to controls, their scores in the domains of physical and personal limitations were significantly lower. On the other hand, research has found that quality of life of transsexual patients could be enhanced by other variables. For instance, trans men obtained a higher self-perceived health score than women because they had a higher level of testosterone than them. Trans women who had undergone face feminization surgery have reported higher satisfaction in different aspects of their quality of life, including their general physical health.",
+            "score": 39.43667912483215
+        },
+        {
+            "docid": "1223546_14",
+            "document": "Community health . There has been a lot of debate regarding the effectiveness of these programs and how well they influence patient behavior and understanding their own health conditions. Some studies argue that self-management programs are effective in improving patient quality of life and decreasing healthcare expenditures and hospital visits. A 2001 study assessed health statuses through healthcare resource utilizations and self-management outcomes after 1 and 2 years to determine the effectiveness of chronic disease self-management programs. After analyzing 800 patients diagnosed with various types of chronic conditions, including heart disease, stroke, and arthritis, the study found that after the 2 years, there was a significant improvement in health status and fewer emergency department and physician visits (also significant after 1 year). They concluded that these low-cost self-management programs allowed for less healthcare utilization as well as an improvement in overall patient health. Another study in 2003 by the National Institute for Health Research analyzed a 7-week chronic disease self-management program in its cost-effectiveness and health efficacy within a population over 18 years of age experiencing one or more chronic diseases. They observed similar patterns, such as an improvement in health status, reduced number of visits to the emergency department and to physicians, shorter hospital visits. They also noticed that after measuring unit costs for both hospital stays ($1000) and emergency department visits ($100), the study found the overall savings after the self-management program resulted in nearly $489 per person. Lastly, a meta-analysis study in 2005 analyzed multiple chronic disease self-management programs focusing specifically on hypertension, osteoarthritis, and diabetes mellitus, comparing and contrasting different intervention groups. They concluded that self-management programs for both diabetes and hypertension produced clinically significant benefits to overall health.",
+            "score": 58.78681182861328
+        },
+        {
+            "docid": "21001346_4",
+            "document": "Surgical Outcomes Analysis and Research . Outcomes Research evaluates the impact of health care on the health outcomes of patients and populations (see AHRQ for further details). This research may also include the evaluation of economic impacts linked to health outcomes, such as cost effectiveness and cost utility. An emphasis is placed on disease-oriented evaluations of care delivered in general, real-world settings. There are a wide range of outcomes to study including mortality, morbidity, functional status, mental well-being, and other aspects of health-related quality of life. Outcomes research is a multidisciplinary field of inquiry that examines the use, quality, delivery, and financing of health care services to increase knowledge and understanding of the structure, processes, and effects of health services for individuals and populations. Outcomes research provides the data to help solve critical problems that are faced in everyday clinical practice. The information learned can have an immediate impact on patient care and system improvement.",
+            "score": 38.938924908638
+        },
+        {
+            "docid": "24410331_7",
+            "document": "Self-perceived quality-of-life scale . This scale could be used by individual mental health professionals to evaluate the progress of treatment. This is useful for clients as well because they themselves are able to compare their initial scores with scores after intervention. Because the scale is available online, clients are able to complete the questionnaire outside of the therapy sessions. The scale also could be used in medical settings to assess how medical treatment affects a patient\u2019s life overall and in specific aspects overtime, as well as allow detecting psychological side effects. The scale could be of use to insurers because it would help in evaluating the effectiveness of mental health interventions.",
+            "score": 32.17624878883362
+        },
+        {
+            "docid": "351581_61",
+            "document": "Health informatics . Along with the development of information technology since the 1990s, healthcare providers realised that the information could generate significant benefits to improve their services by computerised cases and data, for instance of gaining the information for directing patient care and assessing the best patient care for specific clinical conditions. Therefore, substantial resources were collected to build China's own health informatics system. Most of these resources were arranged to construct hospital information system (HIS), which was aimed to minimise unnecessary waste and repetition, subsequently to promote the efficiency and quality-control of healthcare. By 2004, China had successfully spread HIS through approximately 35\u201340% of nationwide hospitals. However, the dispersion of hospital-owned HIS varies critically. In the east part of China, over 80% of hospitals constructed HIS, in northwest of China the equivalent was no more than 20%. Moreover, all of the Centers for Disease Control and Prevention (CDC) above rural level, approximately 80% of healthcare organisations above the rural level and 27% of hospitals over town level have the ability to perform the transmission of reports about real-time epidemic situation through public health information system and to analysis infectious diseases by dynamic statistics.",
+            "score": 39.140225887298584
+        },
+        {
+            "docid": "39326559_4",
+            "document": "Human Nutrition Research Center on Aging . The HNRCA is one of the largest research centers in the world studying nutrition and physical activity in healthy and active aging and the prevention of age-related disease. It has made significant contributions to U.S. and international nutritional and physical activity recommendations, public policy, and clinical healthcare. These contributions include advancements in the knowledge of the role of dietary calcium and vitamin D in promoting nutrition and bone health, the role of nutrients in maintaining the optimal immune response and prevention of infectious diseases, role of diet in prevention of cancer, obesity research, modifications to the Food Guide Pyramid, contribution to USDA nutrient data bank, advancements in the study of sarcopenia, heart disease, vision, brain and cognitive function, front of packaging food labeling initiatives, and research of how genetic factors impact predisposition to weight gain and various health indicators.",
+            "score": 45.277257680892944
+        },
+        {
+            "docid": "504825_18",
+            "document": "Chondroitin sulfate . Secondary efficacy outcome measures were as follows: OMERACT-OARSI response, 50% decrease in WOMAC pain score, WOMAC pain, stiffness and function score, normalized WOMAC score, patient and investigator global evaluations of disease status and response to study medication, evaluation of the index knee for swelling and tenderness, Health Assessment Questionnaire (HAQ) Alternative Disability score and HAQ Pain score, clinical evaluation for adverse reactions and reconciliation of study medications and rescue analgesia use. Analysis of the OMERACT-OARSI measure in all randomized patients revealed statistical significance for both celecoxib (p=0.007) and glucosamine and chondroitin in combination (P=0.02) compared to placebo. Swelling of study joints was significantly less in patients in the chondroitin sulphate (P=0.01) and celecoxib (P=0.03) treatment arms. Differences in the other secondary outcomes were not statistically significant when compared across the 5 treatment arms for all patients. For patients with moderate-to-severe pain at baseline (n=354), a statistically significant difference was observed in favor of the glucosamine and chondroitin combination group versus placebo for the following efficacy outcomes: 20% decrease in WOMAC pain score (0.002); OMERACT-OARSI response (0.001); 50% decrease in WOMAC pain score (0.02); WOMAC pain score (0.009); WOMAC function score (0.008); normalised WOMAC score (0.017); Health Assessment Questionnaire Pain score (0.03).",
+            "score": 33.055459856987
+        },
+        {
+            "docid": "13312969_5",
+            "document": "Global mental health . Mental, neurological, and substance use disorders make a substantial contribution to the global burden of disease (GBD). This is a global measure of so-called disability-adjusted life years (DALY's) assigned to a certain disease/disorder, which is a sum of the years lived with disability and years of life lost due to this disease within the total population. Neuropsychiatric conditions account for 14% of the global burden of disease. Among non-communicable diseases, they account for 28% of the DALY's \u2013 more than cardiovascular disease or cancer. However, it is estimated that the real contribution of mental disorders to the global burden of disease is even higher, due to the complex interactions and co-morbidity of physical and mental illness.",
+            "score": 65.55217456817627
+        },
+        {
+            "docid": "7257968_12",
+            "document": "Disease burden . In 2002, the WHO estimated the global environmental burden of disease by using risk assessment data to develop environmentally attributable fractions (EAFs) of mortality and morbidity for 85 categories of disease. In 2007, they released the first country-by-country analysis of the impact environmental factors had on health for its then 192 member states. These country estimates were the first step to assist governments in carrying out preventive action. The country estimates were divided into three parts:",
+            "score": 32.182878732681274
+        }
+    ],
+    "r": [
+        {
+            "docid": "2188382_3",
+            "document": "Schistosoma japonicum . \"Schistosoma japonicum\" is the only human blood fluke that occurs in China, Philippines, Sri Lanka Asia and Lindu Lake .(Found by Markus Kleemann in a Rainforest Lake) It is the cause of schistosomiasis japonica, a disease that still remains a significant health problem especially in lake and marshland regions. Schistosomiasis is an infection caused mainly by three schistosome species; \"Schistosoma mansoni, Schistosoma japonicum\" and \"Schistosoma haematobium. S. japonicum\" being the most infectious of the three species. Infection by schistosomes is followed by an acute Katayama fever. Historical accounts of Katayama disease dates back to the discovery of \"S. Japonicum\" in Japan in 1904. The disease was named after an area it was endemic to, Katayama district, Hiroshima, Japan. If left untreated, it will develop into a chronic condition characterized by hepatosplenic disease and impaired physical and cognitive development. The severity of \"S. japonicum\" arises in 60% of all neurological diseases in schistosomes due to the migration of schistosome eggs to the brain.",
+            "score": 124.38106536865234
+        },
+        {
+            "docid": "34775443_5",
+            "document": "Elvio Sadun . Sadun's major research thrust was on the human immunologic reaction to parasitic diseases, or more precisely, host-parasite immunological interactions. Sadun made seminal contributions to the epidemiology of several parasitic diseases, immunodiagnostic methods, and was among the first to explore host-parasite relations. He also defined several epidemiological events and helped manage outbreaks of Opisthorchis viverrini in Thailand (1952\u20131953), of Schistosomiasis japonica in Japan (1957\u20131958), and of Schistosomiasis haematobia in Egypt (1970). In 1960, he and two other researchers were the first to apply a recently developed technique, fluorescent antibody imaging, to the diagnosis of schistosomiasis.",
+            "score": 117.22073364257812
+        },
+        {
+            "docid": "2188496_24",
+            "document": "Schistosoma mansoni . Schistosome eggs, which may become lodged within the hosts tissues, are the major cause of pathology in schistosomiasis. Some of the deposited eggs reach the outside environment by passing through the wall of the intestine; the rest are swept into the circulation and are filtered out in the periportal tracts of the liver, resulting in periportal fibrosis. Onset of egg laying in humans is sometimes associated with an onset of fever (Katayama fever). This \"acute schistosomiasis\" is not, however, as important as the chronic forms of the disease. For \"S. mansoni\" and \"S. japonicum\", these are \"intestinal\" and \"hepatic schistosomiasis\", associated with formation of granulomas around trapped eggs lodged in the intestinal wall or in the liver, respectively. The hepatic form of the disease is the most important, granulomas here giving rise to fibrosis of the liver and hepatosplenomegaly in severe cases. Symptoms and signs depend on the number and location of eggs trapped in the tissues. Initially, the inflammatory reaction is readily reversible. In the latter stages of the disease, the pathology is associated with collagen deposition and fibrosis, resulting in organ damage that may be only partially reversible.",
+            "score": 108.80719757080078
+        },
+        {
+            "docid": "21116598_2",
+            "document": "Schistosomiasis vaccine . A Schistosomiasis vaccine is a vaccine against Schistosomiasis (also known as bilharzia, bilharziosis or snail fever), a parasitic disease caused by several species of fluke of the genus \"Schistosoma\". No effective vaccine for the disease exists yet. Schistosomiasis affects over 200 million people worldwide, mainly in rural agricultural and peri-urban areas of developing countries, and approximately 10% suffer severe health complications from the infection. While chemotherepeutic drugs, such as praziquantel, oxamniquine and metrifonate, are currently considered safe and effective for the treatment of schistosomiasis, reinfection occurs frequently following drug treatment, thus a vaccine is sought to provide long-term treatment. Additionally, experimental vaccination efforts have been successful in animal models of schistosomiasis.",
+            "score": 108.62515258789062
+        },
+        {
+            "docid": "191304_4",
+            "document": "Schistosomiasis . In intestinal schistosomiasis, eggs become lodged in the intestinal wall and cause an immune system reaction called a granulomatous reaction. This immune response can lead to obstruction of the colon and blood loss. The infected individual may have what appears to be a potbelly. Eggs can also become lodged in the liver, leading to high blood pressure through the liver, enlarged spleen, the buildup of fluid in the abdomen, and potentially life-threatening dilations or swollen areas in the esophagus or gastrointestinal tract that can tear and bleed profusely (esophageal varices). In rare instances, the central nervous system is affected. Individuals with chronic active schistosomiasis may not complain of typical symptoms.",
+            "score": 107.93242645263672
+        },
+        {
+            "docid": "4637216_25",
+            "document": "Diseases of poverty . Schistosomiasis (bilharzia) is a parasitic disease caused by the parasitic flatworm trematodes. Moreover, more than 80 percent of the 200 million people worldwide who have schistosomiasis live in sub-Saharan Africa. Infections often occur in contaminated water where freshwater snails release larval forms of the parasite. After penetrating the skin and eventually traveling to the intestines or the urinary tract, the parasite lays eggs and infects those organs. It damages the intestines, bladder, and other organs and can lead to anemia and protein-energy deficiency. Along with malaria, schistosomiasis is one of the most important parasitic co-factors aiding in HIV transmission. Epidemiological data shows schistosome-endemic areas coincide with areas of high HIV prevalence, suggesting that parasitic infections such as schistosomiasis increase risk of HIV transmission.",
+            "score": 107.85881042480469
+        },
+        {
+            "docid": "6090525_32",
+            "document": "Neglected tropical diseases . There are over 200\u00a0million cases of schistosomiasis. Approximately 85 percent of cases are in sub-Saharan Africa. The disease can be fatal by causing bladder cancer and hematemesis. \"Schistosoma\" species have a complex life cycle that alternates between humans and freshwater snails. Infection occurs when skin comes into contact with contaminated freshwater in which the snail that carry the parasite are living. Symptoms for schistosomiasis not caused by the worms but by the body\u2019s reaction to the eggs. The eggs that do not pass out of the body can become lodged in the intestine or bladder, causing inflammation or scarring. Children who are repeatedly infected can develop anemia, malnutrition and learning difficulties. The symptoms are usually haematuria, bladder obstruction, renal failure, bladder cancer, periportal fibrosis, bladder fibrosis, liver fibrosis, portal hypertension, cervical lesions, ascites, and esophageal varices.",
+            "score": 107.8426284790039
+        },
+        {
+            "docid": "191304_2",
+            "document": "Schistosomiasis . Schistosomiasis, also known as snail fever and bilharzia, is a disease caused by parasitic flatworms called schistosomes. The urinary tract or the intestines may be infected. Symptoms include abdominal pain, diarrhea, bloody stool, or blood in the urine. Those who have been infected for a long time may experience liver damage, kidney failure, infertility, or bladder cancer. In children, it may cause poor growth and learning difficulty. The disease is spread by contact with fresh water contaminated with the parasites. These parasites are released from infected freshwater snails. The disease is especially common among children in developing countries as they are more likely to play in contaminated water. Other high risk groups include farmers, fishermen, and people using unclean water during daily living. It belongs to the group of helminth infections. Diagnosis is by finding eggs of the parasite in a person's urine or stool. It can also be confirmed by finding antibodies against the disease in the blood. Methods to prevent the disease include improving access to clean water and reducing the number of snails. In areas where the disease is common, the medication praziquantel may be given once a year to the entire group. This is done to decrease the number of people infected and, consequently, the spread of the disease. Praziquantel is also the treatment recommended by the World Health Organization (WHO) for those who are known to be infected. Schistosomiasis affected about 252 million people worldwide in 2015. An estimated 4,400 to 200,000 people die from it each year. The disease is most commonly found in Africa, as well as Asia and South America. Around 700 million people, in more than 70 countries, live in areas where the disease is common. In tropical countries, schistosomiasis is second only to malaria among parasitic diseases with the greatest economic impact. Schistosomiasis is listed as a neglected tropical disease. Many individuals do not experience symptoms. If symptoms do appear, they usually take from four to six weeks from the time of infection. The first symptom of the disease may be a general feeling of illness. Within twelve hours of infection, an individual may complain of a tingling sensation or light rash, commonly referred to as \"swimmer's itch\", due to irritation at the point of entrance. The rash that may develop can mimic scabies and other types of rashes. Other symptoms can occur two to ten weeks later and can include fever, aching, a cough, diarrhea, chills or gland enlargement. These symptoms can also be related to avian schistosomiasis, which does not cause any further symptoms in humans.",
+            "score": 105.5333251953125
+        },
+        {
+            "docid": "191304_24",
+            "document": "Schistosomiasis . There are two drugs available, praziquantel and oxamniquine, for the treatment of schistosomiasis. They are considered equivalent in relation to efficacy against \"S. mansoni\" and safety. Because of praziquantel's lower cost per treatment, and oxaminiquine's lack of efficacy against the urogenital form of the disease caused by \"S. haematobium\", in general praziquantel is considered the first option for treatment. The treatment objective is to cure the disease and to prevent the evolution of the acute to the chronic form of the disease. All cases of suspected schistosomiasis should be treated regardless of presentation because the adult parasite can live in the host for years.",
+            "score": 103.55979919433594
+        },
+        {
+            "docid": "46650485_3",
+            "document": "Gamal Esmat . Prof. Esmat`s researches started in 1985 through the Schistosomiasis Research Project, when Prof. Esmat was the co-PI of this project that studied the epidemiology and prevalence of schistosomiasis in 12 Egyptian governorates. In this project, prof Esmat mastered abdominal ultrasonography for the first time in diagnosis and grading of hepatic schistosomiasis which was approved by the WHO as an ideal method for the diagnosis of schistosomiasis. This project had great impact in the control of schistosomiasis in Egypt that led to the decrease of prevalence from 40% in 1980s to 2% in 2000s. He contributed in the first textbook \"Clinical application of 3D ultrasonography\", by a chapter titled \"Three dimensional ultrasonography in hepatogastroenterology\". In addition, he also contributed in the hepatology text book \"Zakim and Boyer's Hepatology\", by a chapter titled \"Parasitic liver disease\". During the country\u2019s decades-long fight against schistosomiasis. Six million Egyptians were infected with hepatitis C by unsterile needles. The virus spread insidiously; today, at least 10 percent of Egyptians (nearly nine million people), are chronically infected, the highest rate in the world. Prof. Esmat was the president of the National committee for the control of viral hepatitis. Through this committee, Prof. Esmat was the founder of 23 viral hepatitis treatment centers distributed throughout different Egyptian governorates. These centres were established in 2007 and till 2013, about 350.000 Egyptian patients with chronic HCV received treatment with nearly complete governmental financial support. Due to Esmat\u2019s research in the field of pegylated interferon, the price of pegylated interferon in Egypt was reduced to 10% its worldwide price.",
+            "score": 102.77543640136719
+        },
+        {
+            "docid": "971658_38",
+            "document": "Helminthiasis . The 1990\u20132013 Global Burden of Disease Study estimated 5,500 direct deaths from schistosomiasis, while more than 200,000 people were estimated in 2013 to die annually from causes related to schistosomiasis. Another 20 million have severe consequences from the disease. It is the most deadly of the neglected tropical diseases.",
+            "score": 101.4329605102539
+        },
+        {
+            "docid": "25121069_3",
+            "document": "Biomphalaria tenagophila . This species is medically important pest, because of transferring the disease intestinal schistosomiasis. (Intestinal schistosomiasis is the most widespread of all types of schistosomiasis).",
+            "score": 100.01587677001953
+        },
+        {
+            "docid": "191304_31",
+            "document": "Schistosomiasis . In 2010, approximately 238\u00a0million people were infected with schistosomiasis, 85 percent of whom live in Africa. An earlier estimate from 2006 had put the figure at 200 million people infected. In many of the affected areas, schistosomiasis infects a large proportion of children under 14 years of age. An estimated 600 to 700 million people worldwide are at risk from the disease because they live in countries where the organism is common. In 2012, 249 million people were in need of treatment to prevent the disease. This likely makes it the most common parasitic infection with malaria second and causing about 207 million cases in 2013.",
+            "score": 99.8201675415039
+        },
+        {
+            "docid": "191304_33",
+            "document": "Schistosomiasis . Estimates regarding the number of deaths vary. Worldwide, the Global Burden of Disease Study issued in 2010 estimated 12,000 direct deaths while the WHO in 2014 estimated more than 200,000 annual deaths related to schistosomiasis. Another 20 million have severe consequences from the disease. It is the most deadly of the neglected tropical diseases.",
+            "score": 98.78038024902344
+        },
+        {
+            "docid": "674529_30",
+            "document": "Pulmonary hypertension . For people considered likely to have PAH based on the above tests, the specific associated condition is then determined based on the physical examination, medical/family history and further specific diagnostic tests (for example, serological tests to detect underlying connective tissue disease, HIV infection or hepatitis, ultrasonography to confirm the presence of portal hypertension, echocardiography/cardiac magnetic resonance imaging for congenital heart disease, laboratory tests for schistosomiasis, and high resolution CT for PVOD and pulmonary capillary hemangiomatosis). Routine lung biopsy is discouraged in patients with PAH, because of the risk to the patient and because the findings are unlikely to alter the diagnosis and treatment.",
+            "score": 98.03349304199219
+        },
+        {
+            "docid": "10042176_7",
+            "document": "Tropical Asia . The occurrence and level of some vector-borne diseases are anticipated to rise with global warming. Malaria, schistosomiasis and dengue, that are significant causes of humanity and morbidity in tropical Asia, are very sensitive to climate and are likely to spread into new regions on the margins of currently widespread areas as a result of climate change. Lately affected populations initially would go through higher fatality rates. According to one study, specifically focused on climate influences on infectious disease in present vulnerable regions, a growth in epidemic potential of 12-27 per cent for malaria and 31 to 47 per cent for dengue and a decrease of schistosomiasis of 11-17 per cent are expected under a range of GCM scenarios through climate change. Waterborne and water related infectious diseases, already accounting for the majority of epidemic emergencies in the area, are also expected to increase when higher temperatures and higher humidity are placed over on existing conditions and estimated upsurge in population, urbanization, deduction of water quality and other trends.",
+            "score": 97.80389404296875
+        },
+        {
+            "docid": "191304_23",
+            "document": "Schistosomiasis . For many years from the 1950s onwards, vast dams and irrigation schemes were constructed, causing a massive rise in water-borne infections from schistosomiasis. The detailed specifications laid out in various United Nations documents since the 1950s could have minimized this problem. Irrigation schemes can be designed to make it hard for the snails to colonize the water and to reduce the contact with the local population. Even though guidelines on how to design these schemes to minimise the spread of the disease had been published years before, the designers were unaware of them. The dams appear to have reduced the population of the large migratory prawn \"Macrobrachium\". After the construction of fourteen large dams, greater increases in schistosomiasis occurred in the historical habitats of native prawns than in other areas. Further, at the 1986 Diama Dam on the Senegal River, restoring prawns upstream of the dam reduced both snail density and the human schistosomiasis reinfection rate.",
+            "score": 96.77629852294922
+        },
+        {
+            "docid": "2188496_2",
+            "document": "Schistosoma mansoni . Schistosoma mansoni is a water-borne parasite of humans, and belongs to the group of blood flukes (\"Schistosoma\"). The adult lives in the blood vessels (mesenteric veins) near the human intestine. It causes intestinal schistosomiasis (similar to \"S. japonicum\", \"S. mekongi\", \"S. guineensis\", and \"S. intercalatum\"). Clinical symptoms are caused by the eggs. As the leading cause of schistosomiasis in the world, it is the most prevalent parasite in humans. It is classified as a neglected tropical disease. As of 2016, 206.5 million people have schistosomiasis and \"S. mansoni\" is the major parasite. It is found in Africa, the Middle East, the Caribbean, Brazil, Venezuela and Suriname.",
+            "score": 94.2448959350586
+        },
+        {
+            "docid": "28152121_6",
+            "document": "Schistosoma spindale . The definitive hosts of \"Schistosoma spindale\" are (mainly) ruminants and \"Schistosoma spindale\" cause intestinal schistosomiasis of ruminants (Artiodactyla, Ruminantia). Surveillance for cattle schistosomiasis is generally inadequate and the literature is limited, but some idea of the problem can be gained from past small scale studies. For a diagnosis there is need to find eggs of \"Schistosoma spindale\" in feces. Surveys in Sri Lanka revealed prevalence of \"Schistosoma spindale\" of 31.2% (of 901 cattle), whilst in Bangladesh a similarly high prevalence of 36% has been reported. More recently, in Kerala South India, prevalences have been reported up to 57.3% in cattle, 50% in water buffalo (\"Bubalus bubalis\") and 4.7% in goats. The prevalence of Schistosoma spindale in the animals depend on the diagnostic test, employed. Thus, it was as low as 10-30% by faecal examination (again low if egg detection method is employed and high if hatching method is followed ) with as high as 80-95% by examining mesentery of the animals, for alive schistosomes, during post mortem (Agrawal MC 2012.Schistosomes and schistosomiasis in South Asia. Springer (India) Pvt, Ltd, New Delhi). Schistosoma spindale was found causing an outbreak in cattle in Maharashtra leading to heavy mortality with symptoms simulating to Rinder pest (Kulkarni HV,Rao SR and Chudhari PG 1954. Unusual outbreak of schistosomiasis in bovines due to Schistosoma spindale associated with heavy mortality in Bombay state. Bombay Veterinary college Magazine 4 : 3-15).",
+            "score": 93.86327362060547
+        },
+        {
+            "docid": "191304_19",
+            "document": "Schistosomiasis . In 2005, a field evaluation of a novel handheld microscope was undertaken in Uganda for the diagnosis of intestinal schistosomiasis by a team led by Russell Stothard from the Natural History Museum of London, working with the Schistosomiasis Control Initiative, London.",
+            "score": 93.77826690673828
+        },
+        {
+            "docid": "191304_17",
+            "document": "Schistosomiasis . Antibody detection can be useful to indicate schistosome infection in people who have traveled to areas where schistosomiasis is common and in whom eggs cannot be demonstrated in fecal or urine specimens. Test sensitivity and specificity vary widely among the many tests reported for the serologic diagnosis of schistosomiasis and are dependent on both the type of antigen preparations used (crude, purified, adult worm, egg, cercarial) and the test procedure.",
+            "score": 93.74481201171875
+        },
+        {
+            "docid": "28915376_4",
+            "document": "Jiang Shaoji . In 1950s', Jiang joined the campaign of schistosomiasis control. He manifested that dwarfism caused by schistosomiasis could come back to growing state after treatment. In China, he was the first to use colonoscopy observing pathological change in the colon of those suffered from schistosomiasis. He also do researches about chronic heptitis, gastritis and gastric cancer. His team established the gastric cancer model of wolf dog, observed the relationship of vitamins and gastric cancer. They applied folic acid, selenium, and tretinoin to induce differentiation of gastric precancerous lesions.",
+            "score": 93.49028778076172
+        },
+        {
+            "docid": "2188496_27",
+            "document": "Schistosoma mansoni . \"S. mansoni\" infection often occurs along side those of viral hepatitis, either hepatitis B virus (HBV) or hepatitis C virus (HCV). This is due to high prevalence of schistosomiasis in areas where chronic viral hepatitis is prevalent. One important factor was the development of large reservoir of infection due to extensive schistosomiasis control programs that used intravenously administered tartar emetic since the 1960s. Co-infection is known to cause earlier liver deterioration and more severe illness.",
+            "score": 92.8244857788086
+        },
+        {
+            "docid": "21116598_6",
+            "document": "Schistosomiasis vaccine . Schistosomiasis has been considered a \"neglected disease\" that disproportionately affects poorer localities and has received little attention from pharmaceutical companies. Support for current research efforts to develop hookworm vaccines has come from the Schistosomiasis Vaccine Initiative, a program of the Sabin Vaccine Institute in collaboration with George Washington University, the Oswaldo Cruz Foundation, the Chinese Institute of Parasitic Diseases, the Queensland Institute of Medical Research, and the London School of Hygiene and Tropical Medicine.",
+            "score": 92.37406158447266
+        },
+        {
+            "docid": "191304_41",
+            "document": "Schistosomiasis . As with other major parasitic diseases, there is ongoing research into developing a schistosomiasis vaccine that will prevent the parasite from completing its life cycle in humans.",
+            "score": 92.01517486572266
+        },
+        {
+            "docid": "1033288_2",
+            "document": "Gastric varices . Gastric varices are dilated submucosal veins in the stomach, which can be a life-threatening cause of bleeding in the upper gastrointestinal tract. They are most commonly found in patients with portal hypertension, or elevated pressure in the portal vein system, which may be a complication of cirrhosis. Gastric varices may also be found in patients with thrombosis of the splenic vein, into which the short gastric veins which drain the fundus of the stomach flow. The latter may be a complication of acute pancreatitis, pancreatic cancer, or other abdominal tumours, as well as hepatitis C. Gastric varices and associated bleeding are a potential complication of schistosomiasis resulting from portal hypertension.",
+            "score": 91.06301879882812
+        },
+        {
+            "docid": "191304_40",
+            "document": "Schistosomiasis . Among human parasitic diseases, schistosomiasis ranks second behind malaria in terms of socio-economic and public health importance in tropical and subtropical areas.",
+            "score": 90.50028228759766
+        },
+        {
+            "docid": "4637216_35",
+            "document": "Diseases of poverty . Women and children are often put at a high risk of being infected by schistosomiasis, which in turn puts them at a higher risk of acquiring HIV. Since the mode of schistosomiasis transmission is usually through contaminated water in streams and lakes, women and children who do their household chores by the water are more likely to acquire the disease. Activities that women and children often do around waterfront include washing clothes, collecting water, bathing, and swimming. Women who have schistosomiasis lesions are three times more likely to be infected with HIV.",
+            "score": 89.32164001464844
+        },
+        {
+            "docid": "298874_53",
+            "document": "Caraga . The region is faced with problems of endemic diseases like schistosomiasis and malaria. Although there was a slight reduction in its prevalence for the past three years, still Caraga ranked as number two in schistosomiasis cases and number six in malaria cases nationwide.",
+            "score": 89.19921112060547
+        },
+        {
+            "docid": "6090525_73",
+            "document": "Neglected tropical diseases . There are currently only two donor-funded non-governmental organizations that focus exclusively on NTDs: the Schistosomiasis Control Initiative and Deworm the World. Despite under-funding, many neglected diseases are cost-effective to treat and prevent. The cost of treating a child for infection of soil transmitted helminths and schistosomes (some of the main causes of neglected diseases), is less than US$0.50 per year, when administered as part of school-based mass deworming by Deworm the World. This programme is recommended by Giving What We Can and the Copenhagen Consensus Centre as one of the most efficient and cost-effective solutions. The efforts of Schistosomiasis Control Initiative to combat neglected diseases include the use of rapid-impact packages: supplying schools with packages including four or five drugs, and training teachers in how to administer them.",
+            "score": 89.03961944580078
+        },
+        {
+            "docid": "191304_34",
+            "document": "Schistosomiasis . Schistosomiasis is known as bilharzia or bilharziosis in many countries, after German physician Theodor Bilharz, who first described the cause of urinary schistosomiasis in 1851.",
+            "score": 88.10833740234375
+        },
+        {
+            "docid": "33833748_2",
+            "document": "Schistosomiasis Control Initiative . The Schistosomiasis Control Initiative (SCI), at Imperial College London, is a non-profit initiative that works with Ministries of Health in sub-Saharan African countries and Yemen. It supports and evaluates treatment programmes against schistosomiasis and soil-transmitted helminthiasis.",
+            "score": 87.92308807373047
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "18974125_24",
+            "document": "Bacillus anthracis . As with most other pathogenic bacteria, \"B. anthracis\" must acquire iron to grow and proliferate in its host environment. The most readily available iron sources for pathogenic bacteria are the heme groups used by the host in the transport of oxygen. To scavenge heme from host hemoglobin and myoglobin, \"B. anthracis\" uses two secretory siderophore proteins, IsdX1 and IsdX2. These proteins can separate heme from hemoglobin, allowing surface proteins of \"B. anthracis\" to transport it into the cell.",
+            "score": 110.78282523155212
+        },
+        {
+            "docid": "31627093_6",
+            "document": "Yersiniabactin . As previously mentioned, siderophores serve the essential function of iron acquisition for pathogens in the low iron conditions of the host. Thus the successful establishment of disease depends on the ability of the invading organism to acquire iron. Because of its high affinity for iron, yersiniabactin can solubilize the metal bound to host binding proteins and transport it back to the bacteria. The complex yersiniabactin-Fe recognizes the specific bacterial outer membrane TonB-dependent receptor, FyuA (Psn), and is translocated with the help of membrane-embedded proteins into the cytosol where the iron is discharged from yersiniabactin and used in various metabolic pathways. In the absence of a high-affinity iron-chelating compound, pathogenic \"Yersinia\", responsible for such lethal disease as the bubonic plague, only causes local symptoms of moderate intensity. The availability of iron, through an intrinsic high-affinity iron-chelating system such as Ybt, provides the bacteria with the ability to multiply in the host and to cause systemic infections.",
+            "score": 135.91065990924835
+        },
+        {
+            "docid": "1065475_4",
+            "document": "Siderophore . Siderophores are also important for some pathogenic bacteria for their acquisition of iron. In mammalian hosts, iron is tightly bound to proteins such as hemoglobin, transferrin, lactoferrin and ferritin. The strict homeostasis of iron leads to a free concentration of about 10 mol L, hence there are great evolutionary pressures put on pathogenic bacteria to obtain this metal. For example, the anthrax pathogen \"Bacillus anthracis\" releases two siderophores, bacillibactin and petrobactin, to scavenge ferric iron from iron proteins. While bacillibactin has been shown to bind to the immune system protein siderocalin, petrobactin is assumed to evade the immune system and has been shown to be important for virulence in mice.",
+            "score": 174.19306135177612
+        },
+        {
+            "docid": "15464966_17",
+            "document": "Pathogenic bacteria . Iron is required for humans, as well as the growth of most bacteria. To obtain free iron, some pathogens secrete proteins called siderophores, which take the iron away from iron-transport proteins by binding to the iron even more tightly. Once the iron-siderophore complex is formed, it is taken up by siderophore receptors on the bacterial surface and then that iron is brought into the bacterium.",
+            "score": 119.75329554080963
+        },
+        {
+            "docid": "45079586_2",
+            "document": "Siderocalin . Siderocalin (Scn), lipocalin-2, NGAL, 24p3 is a mammalian lipocalin-type protein that can prevent iron acquisition by pathogenic bacteria by binding siderophores, which are iron-binding chelators made by microorganisms.  Iron serves as a key nutrient in host-pathogen interactions, and pathogens can acquire iron from the host organism via synthesis and release siderophores such as enterobactin.  Siderocalin is a part of the mammalian defence mechanism and acts as an antibacterial agent.  Crystallographic studies of Scn demonstrated that it includes a calyx, a ligand-binding domain that is lined with polar cationic groups. Central to the siderophore/siderocalin recognition mechanism are hybrid electrostatic/cation-pi interactions.  To evade the host defences, pathogens evolved to produce structurally varied siderophores that would not be recognized by siderocalin, allowing the bacteria to acquire iron.",
+            "score": 144.3055305480957
+        },
+        {
+            "docid": "2206152_19",
+            "document": "Leptospira . Like most bacteria, \"Leptospira\" require iron for growth. \"L. interrogans\" and \"L. biflexa\" have the ability to acquire iron in different forms. A TonB-dependent receptor required for utilization of the ferrous form of the iron has been identified in \"L. biflexa\", and an ortholog of the receptor is encoded in the genome of \"L. interrogans\". \"L. interrogans\" can also obtain iron from heme, which is bound to most of the iron in the human body. The HbpA hemin-binding protein, which may be involved in the uptake of hemin, has been identified on the surface of \"L. interrogans\" Although other pathogenic species of \"Leptospira\" and \"L. biflexa\" lack HbpA, yet another hemin-binding protein, LipL41, may account for their ability to use hemin as a source of iron. Although they do not secrete siderophores, \"L. biflexa\" and \"L. interrogans\" may be capable of obtaining iron from siderophores secreted by other microorganisms.",
+            "score": 102.21791636943817
+        },
+        {
+            "docid": "45079586_12",
+            "document": "Siderocalin . The requirement for iron by humans and pathogens has been known for many years. The link between iron and mycobactins, iron-chelating growth factors from mycobacteria, was first made in the 1960s. At the time, interest was growing in resolving an application of mycobactins as target molecules for a rational anti-tuberculosis agent. Experiments in the 1960s and 1970s demonstrated that iron deficiency in mycobacteria was the cause of 'anaemic\u2019 cells. The majority of the genes and systems necessary for high affinity iron acquisition have been identified in pathogenic and saprophytic mycobacteria. These genes encode proteins for iron storage, uptake of ferric-siderophores, and heme.  Humans have evolved a defense for siderophore-mediated iron acquisition by developing siderocalin. To combat this, various pathogens have evolved siderophores that can evade siderocalin recognition. Siderocalin has been shown to bind to siderophores and inhibit iron acquisition, and prevent the growth of \"Mycobacterium tuberculosis\" in extracellular cultures; however, the effect of siderocalin on this pathogen within macrophages remains unclear.",
+            "score": 118.33762490749359
+        },
+        {
+            "docid": "34732944_6",
+            "document": "FepA . Iron is not usually readily available in the environment this group of bacteria find themselves in. However iron is essential in sustaining life due to its role in co-enzymes of respiration and DNA synthesis, so bacteria must adapt to have a mechanism for intake of iron. Because Fe has a very low solubility, most of the Fe ions in the bacteria\u2019s surrounding environment (e.g. soil) exist as iron oxides or hydroxides, and so the number of free Fe is low. Therefore, microbes have evolved to secret siderophores, Fe-binding peptides, into the surroundings and then actively transport the Fe-complex back into the cell by active transport. This can also be seen with pathogenic bacteria inside its host, where iron is bound tightly by haemoglobin, transferrin, lactoferrin and ferritin, and thus low in concentration (10 mol L). Here it secrets siderophores which has a higher affinity (with a formation constant, or ([ML])/([M][L]), of 10)to Fe than the host's iron-binding proteins, and so will remove iron and then transported inside the cell. \"Bacillus anthracis\", a Gram-positive bacteria that causes anthrax, secretes two siderophores: bacillibactin and petrobactin. \"Escherichia coli\" secrets many iron-siderophore transports, but produce only one siderophore\u2014enterobactin. The ferric enterobactin receptor FepA recognises the catecholate part of ferric enterobactin (FeEnt), and transports it across the outer membrane from the extracellular space into the periplasm. The binding is thought to be in two phases, a fast step which recognises FeEnt, and a slower step which may be the first step in translocation\u2014preparing the complex for translocation. Both steps occur independently of the TonB\u2013ExbB\u2013ExbD complex and the proton motive force it provides. In the periplasm, FeEnt is bound by FepB and passed to the integral inner membrane proteins FepG and FepD through active transport, with the energy provided by ATP hydrolysis catalysed by cytoplasmic FepC. In the cytoplasm, the Fes enterobactin esterase hydrolyses and this cleaves enterobactin, releasing Fe which will subsequently be reduced by the same protein, Fes, to Fe.",
+            "score": 144.86158859729767
+        },
+        {
+            "docid": "1551873_7",
+            "document": "ATP-binding cassette transporter . Bacterial ABC transporters are essential in cell viability, virulence, and pathogenicity. Iron ABC uptake systems, for example, are important effectors of virulence. Pathogens use siderophores, such as Enterobactin, to scavenge iron that is in complex with high-affinity iron-binding proteins or erythrocytes. These are high-affinity iron-chelating molecules that are secreted by bacteria and reabsorb iron into iron-siderophore complexes. The chvE-gguAB gene in \"Agrobacterium tumefaciens\" encodes glucose and galactose importers that are also associated with virulence. Transporters are extremely vital in cell survival such that they function as protein systems that counteract any undesirable change occurring in the cell. For instance, a potential lethal increase in osmotic strength is counterbalanced by activation of osmosensing ABC transporters that mediate uptake of solutes. Other than functioning in transport, some bacterial ABC proteins are also involved in the regulation of several physiological processes.",
+            "score": 130.62966656684875
+        },
+        {
+            "docid": "1065475_6",
+            "document": "Siderophore . Besides siderophores, some pathogenic bacteria produce \"hemophores\" (heme binding scavenging proteins) or have receptors that bind directly to iron/heme proteins. In eukaryotes, other strategies to enhance iron solubility and uptake are the acidification of the surroundings (e.g. used by plant roots) or the extracellular reduction of Fe into the more soluble Fe ions.",
+            "score": 95.75138330459595
+        },
+        {
+            "docid": "31627093_2",
+            "document": "Yersiniabactin . Yersiniabactin (Ybt) is a siderophore found in the pathogenic bacteria \"Yersinia pestis\", \"Yersinia pseudotuberculosis\", and \"Yersinia enterocolitica\", as well as several strains of enterobacteria including enteropathogenic \"Escherichia coli\". Siderophores, compounds of low molecular mass with high affinities for ferric iron, are important virulence factors in pathogenic bacteria. Iron\u2014an essential element for life used for such cellular processes as respiration and DNA replication\u2014is extensively chelated by host proteins like lactoferrin and ferritin; thus, the pathogen produces molecules with an even higher affinity for Fe than these proteins in order to acquire sufficient iron for growth. As a part of such an iron-uptake system, yersiniabactin plays an important role in pathogenicity of \"Y. pestis\", \"Y. pseudotuberculosis\", and \"Y. entercolitica\".",
+            "score": 153.81421613693237
+        },
+        {
+            "docid": "45079586_3",
+            "document": "Siderocalin . Organisms require iron for a variety of chemical reactions. Although iron can be found throughout the biosphere, free ferric iron forms insoluble hydroxides at physiological pH, limiting its accessibility in aerobic conditions to living organisms. In order to preserve homeostasis, organisms have evolved specific protein networks, with proteins and receptors translated in accordance with intracellular iron levels.  Export and import are supplemented by a cycling process between the ferrous Fe(II) available in the reducing environment of the cell, and ferric Fe(III) found primarily under aerobic conditions.  The iron acquisition mechanisms of pathogenic bacteria demonstrate the role of iron as a key component at the interface between pathogens and hosts.",
+            "score": 125.92736148834229
+        },
+        {
+            "docid": "1065475_26",
+            "document": "Siderophore . In addition to these two classes of iron-binding proteins, a hormone, hepcidin, is involved in controlling the release of iron from absorptive enterocytes, iron-storing hepatocytes and macrophages. Infection leads to inflammation and the release of interleukin-6 (IL-6 ) which stimulates hepcidin expression. In humans, IL-6 production results in low serum iron, making it difficult for invading pathogens to infect. Such iron depletion has been demonstrated to limit bacterial growth in both extracellular and intracellular locations.",
+            "score": 105.32694363594055
+        },
+        {
+            "docid": "45079586_5",
+            "document": "Siderocalin . The lipocalin siderocalin is found in neutrophil granules, uterine secretions, and at particularly high levels in serum during bacterial infection. Upon infection, pathogens use siderophores to capture iron from the host organism. This strategy is, however, complicated by the human protein siderocalin, which can sequester siderophores, and prevent their use by pathogenic bacteria as iron delivery agents.  This effect has been demonstrated by studies with siderocalin-knock-out mice, which are more sensitive to infections under iron-limiting conditions.",
+            "score": 112.76895475387573
+        },
+        {
+            "docid": "11445385_6",
+            "document": "Iron-responsive element-binding protein . Cells have advanced mechanisms for sensing their own need for iron. In human cells, the best-characterized iron-sensing mechanism is the result of post-transcriptional regulation of mRNA (the chemical instructions derived from DNA genes to make proteins). Sequences of mRNA called iron-responsive elements (IREs) are contained within the mRNA sequences that code for transferrin receptors and for ferritin. Iron-responsive element-binding protein (IRE-BP) binds to these mRNA sequences. On its own, the IRE-BP binds to the IREs of ferritin and transferrin receptor mRNA. But, when iron binds to the IRE-BP, the IRE-BP changes shape with the result that the IRE-BPs can no longer bind the ferritin mRNA. This liberates the mRNA to direct the cell to make more ferritin. In other words, when there is high iron in the cell, the iron itself causes the cell to produce more iron storage molecules. (The IRE-BP is an aconitase; for a schematic drawing of the shape change, see here).",
+            "score": 143.92207860946655
+        },
+        {
+            "docid": "11421135_2",
+            "document": "Iron response element . In molecular biology, the iron response element or iron-responsive element (IRE) is a short conserved stem-loop which is bound by iron response proteins (IRPs, also named IRE-BP or IRBP). The IRE is found in UTRs (untranslated regions) of various mRNAs whose products are involved in iron metabolism. For example, the mRNA of ferritin (an iron storage protein) contains one IRE in its 5' UTR. When iron concentration is low, IRPs bind the IRE in the ferritin mRNA and cause reduced translation rates. In contrast, binding to multiple IREs in the 3' UTR of the transferrin receptor (involved in iron acquisition) leads to increased mRNA stability.",
+            "score": 127.71004247665405
+        },
+        {
+            "docid": "11445385_5",
+            "document": "Iron-responsive element-binding protein . All cells use some iron, and must get it from the circulating blood. Since iron is tightly bound to transferrin, cells throughout the body have receptors for transferrin-iron complexes on their surfaces. These receptors engulf and internalize both the protein and the iron attached to it. Once inside, the cell transfers the iron to ferritin, the internal iron storage molecule.",
+            "score": 125.33317792415619
+        },
+        {
+            "docid": "3335116_10",
+            "document": "Human iron metabolism . In response to a systemic bacterial infection, the immune system initiates a process known as iron withholding. If bacteria are to survive, then they must obtain iron from their environment. Disease-causing bacteria do this in many ways, including releasing iron-binding molecules called siderophores and then reabsorbing them to recover iron, or scavenging iron from hemoglobin and transferrin. The harder they have to work to get iron, the greater a metabolic price they must pay. That means that iron-deprived bacteria reproduce more slowly. So our control of iron levels appears to be an important defense against most bacterial infections; there are some exceptions however. TB causing bacterium can reside within macrophages which are an iron rich environment and Borrelia burgdorferi utilises manganese in place of iron. People with increased amounts of iron, like people with hemochromatosis, are more susceptible to some bacterial infection.",
+            "score": 96.36347544193268
+        },
+        {
+            "docid": "1065475_19",
+            "document": "Siderophore . The dilute nature of the pelagic marine environment promotes large diffusive losses and renders the efficiency of the normal siderophore-based iron uptake strategies problematic. However, many heterotrophic marine bacteria do produce siderophores, albeit with properties different from those produced by terrestrial organisms. Many marine siderophores are surface-active and tend to form molecular aggregates, for example aquachelins. The presence of the fatty acyl chain renders the molecules with a high surface activity and an ability to form micelles. Thus, when secreted, these molecules bind to surfaces and to each other, thereby slowing the rate of diffusion away from the secreting organism and maintaining a relatively high local siderophore concentration. Phytoplankton have high iron requirements and yet the majority (and possibly all) do not produce siderophores . Phytoplankton can, however, obtain iron from siderophore complexes by the aid of membrane-bound reductases and certainly from iron(II) generated via photochemical decomposition of iron(III) siderophores. Thus a large proportion of iron (possibly all iron) absorbed by phytoplankton is dependent on bacterial siderophore production.",
+            "score": 93.09108686447144
+        },
+        {
+            "docid": "1065475_24",
+            "document": "Siderophore . There are two major types of iron-binding proteins present in most animals that provide protection against microbial invasion \u2013 extracellular protection is achieved by the transferrin family of proteins and intracellular protection is achieved by ferritin. Transferrin is present in the serum at approximately 30 \u03bcM, and contains two iron-binding sites, each with an extremely high affinity for iron. Under normal conditions it is about 25\u201340% saturated, which means that any freely available iron in the serum will be immediately scavenged \u2013 thus preventing microbial growth . Most siderophores are unable to remove iron from transferrin. Mammals also produce lactoferrin, which is similar to serum transferrin but possesses an even higher affinity for iron. Lactoferrin is present in secretory fluids, such as sweat, tears and milk, thereby minimising bacterial infection.",
+            "score": 109.76888847351074
+        },
+        {
+            "docid": "45079586_10",
+            "document": "Siderocalin . Siderophores are typically bound to siderocalin with subnanomolar affinities, and interact with siderocalin specifically. The Kd value of the siderocalin/siderophore interaction, measured by fluorescence quenching (Kd= 0.4 nM), indicates that siderocalin can capture siderophores with high affinity. This Kd value is similar to that of the FepA bacterial receptor (Kd= 0.3 nM). Siderophore/siderocalin binding is directed by electrostatic interactions. Specifically, the mechanism involves hybrid electrostatic and cation-pi interactions in the positively charged protein calyx. The siderophore is positioned in the centre of the siderocalin calyx, and is associated with multiple direct polar interactions. Structural analysis of the siderocalin/siderophore interaction has shown that the siderophore is accompanied by a poor and diffuse quality of electron density, with the majority of the ligand exposed to the solvent when the siderophore is fit in the calyx. Siderocalin typically does not bind hydroxamate-based siderophores because these substrates do not have the necessary aromatic electronic structure for cation-pi interactions. In order to acquire iron in the presence of siderocalin, pathogenic bacteria utilize several siderophores that do not bind to siderocalin, or structurally modify siderophores to inhibit siderocalin binding. Siderocalin can bind soluble siderophores of mycobacteria, including carboxymycobactins.  In vivo studies have shown that the binding interactions between carboxymycobactin and siderocalin serve to protect the host organism from mycobacterial infections, with siderocalin inhibiting mycobacterial iron acquisition. Siderocalin can sequester ferric carboxymycobactins by employing a polyspecific recognition mechanism. The siderophore/siderocalin recognition mechanism primarily involves hybrid electrostatic/cation-pi interactions.  The fatty acid tails of carboxymycobactin reside in a \u2018tail-in\u2019 or \u2018tail-out\u2019 conformation within pocket 2.  The \u2018tail-in\u2019 conformation of the fatty acid chain lengths introduces a significant interaction between the calyx and the ligand, increasing the affinity of the siderocalin calyx and carboxymycobactin.  The fatty acid tails of short lengths have a correspondingly less favorable binding to siderocalin, and cannot maintain the necessary interaction with the binding pocket. Since lipocalin-2 cannot bind the long fatty acid chain carboxymycobactins of mycobacteria, it is apparent that a number of pathogens have evolved to avoid the activity of lipocalin-2.",
+            "score": 97.58697879314423
+        },
+        {
+            "docid": "1065475_23",
+            "document": "Siderophore . Pathogenic bacteria and fungi have developed the means of survival in animal tissue. They may invade the gastro-intestinal tract (\"Escherichia\", \"Shigella\" and \"Salmonella\"), the lung (\"Pseudomonas\", \"Bordatella\", \"Streptococcus\" and \"Corynebacterium\"), skin (\"Staphylococcus\") or the urinary tract (\"Escherichia\" and \"Pseudomonas\"). Such bacteria may colonise wounds (\"Vibrio\" and \"Staphylococcus\") and be responsible for septicaemia (\"Yersinia\" and \"Bacillus\"). Some bacteria survive for long periods of time in intracellular organelles, for instance \"Mycobacterium\". (see table). Because of this continual risk of bacterial and fungal invasion, animals have developed a number of lines of defence based on immunological strategies, the complement system, the production of iron\u2013siderophore binding proteins and the general \u201cwithdrawal\u201dof iron.",
+            "score": 86.25544118881226
+        },
+        {
+            "docid": "46715739_3",
+            "document": "ACO1 . The protein encoded by this gene is a bifunctional, cytosolic protein that functions as an essential enzyme in the TCA cycle and interacts with mRNA to control the levels of iron inside cells. When cellular iron levels are high, this protein binds to a 4Fe-4S cluster and functions as an aconitase. Aconitases are iron-sulfur proteins that function to catalyze the conversion of citrate to isocitrate. When cellular iron levels are low, the protein binds to iron-responsive elements (IREs), which are stem-loop structures found in the 5' UTR of ferritin mRNA, and in the 3' UTR of transferrin receptor mRNA. When the protein binds to IRE, it results in repression of translation of ferritin mRNA, and inhibition of degradation of the otherwise rapidly degraded transferrin receptor mRNA. The encoded protein has been identified as a moonlighting protein based on its ability to perform mechanistically distinct functions. Alternative splicing results in multiple transcript variants.",
+            "score": 127.70075511932373
+        },
+        {
+            "docid": "3335116_24",
+            "document": "Human iron metabolism . In the cytoplasm, ferrous iron is found in a soluble, chelatable state which constitutes the labile iron pool (~0.001 mM). In this pool, iron is thought to be bound to low-mass compounds such as peptides, carboxylates and phosphates, although some might be in a free, hydrated form (aqua ions). Alternatively, iron ions might be bound to specialized proteins known as metallochaperones. Specifically, poly-r(C)-binding proteins (PCBPs) appear to mediate transfer of free iron to ferritin (for storage) and non-heme iron enzymes (for use in catalysis). The labile iron pool is potentially toxic due to iron's ability to generate reactive oxygen species. Iron from this pool can be taken up by mitochondria via mitoferrin to synthesize Fe-S clusters and heme groups.",
+            "score": 110.00150775909424
+        },
+        {
+            "docid": "470107_9",
+            "document": "Ferritin . Free iron is toxic to cells as it acts as a catalyst in the formation of free radicals from reactive oxygen species via the Fenton reaction. Hence vertebrates evolve an elaborate set of protective mechanisms to bind iron in various tissue compartments. Within cells, iron is stored in a protein complex as ferritin or hemosiderin. Apoferritin binds to free ferrous iron and stores it in the ferric state. As ferritin accumulates within cells of the reticuloendothelial system, protein aggregates are formed as hemosiderin. Iron in ferritin or hemosiderin can be extracted for release by the RE cells although hemosiderin is less readily available. Under steady state conditions, the serum ferritin level correlates with total body iron stores; thus, the serum ferritin FR5Rl is the most convenient laboratory test to estimate iron stores.",
+            "score": 145.16235613822937
+        },
+        {
+            "docid": "45079586_6",
+            "document": "Siderocalin . Siderophores are iron chelators, allowing organisms to acquire iron from their environment. In the case of pathogens, iron can be acquired from the host organism.  Siderophores and ferric iron can associate to form stable complexes. Siderophores bind iron using a variety of ligands, most commonly as \u03b1-hydroxycarboxylates (e.g. citrate), catecholates, and hydroxamates. As a defence mechanism, siderocalin can substitute ferric bis-catechol complexes (formed under physiological conditions) with a third catechol, in order to achieve a hexacoordinate ferric complex, resulting in higher affinity binding.",
+            "score": 100.56829047203064
+        },
+        {
+            "docid": "5922431_2",
+            "document": "Iron-binding proteins . Iron-binding proteins are carrier proteins and metalloproteins which play many important roles in metabolism. Iron is required by humans and bacteria for enzymes and metabolism to function properly.  Iron-binding proteins bind iron tightly which make it unavailable for microbial use, limiting growth. Four iron-binding proteins are Haemoglobin, Ferritin, lactoferrin and transferrin.  Haemoglobin is located in red blood cells. Transferrin is found in blood and tissue fluids. Lactoferrin is found in milk, blood, tears and saliva. Ferritin is found in every cell type.",
+            "score": 133.437185049057
+        },
+        {
+            "docid": "1271003_11",
+            "document": "Five prime untranslated region . Iron levels in cells are maintained by translation regulation of many proteins involved in iron storage and metabolism. The 5\u2032 UTR has the ability to form a hairpin loop secondary structure (known as the IRE, Iron response element) that is recognized by iron-regulatory proteins (IRP1 and IRP2). In low levels of iron, the ORF of the target mRNA is blocked as a result of steric hindrance from the binding of IRP1 and IRP2 to the iron-response element. When iron is high, then the two iron-regulatory proteins do not bind as strongly, and allow proteins to be expressed that have a role in iron concentration control. This function has gained some interest after it was revealed that the translation of amyloid precursor protein may be disrupted due to a single-nucleotide polymorphism to the iron response element found in the 5\u2032 UTR of its mRNA, leading to a spontaneous increased risk of Alzheimer's Disease.",
+            "score": 77.52887797355652
+        },
+        {
+            "docid": "34732944_2",
+            "document": "FepA . Many bacteria secrete small iron-binding molecules called siderophores, which bind strongly to ferric ions. FepA is an integral bacterial outer membrane porin protein, which is involved in the active transport of iron bound by the siderophore enterobactin from the extracellular space, into the periplasm of Gram-negative bacteria. FepA has also been shown to transport vitamin B12, and colicins B and D as well. This protein belongs to family of ligand-gated protein channels.",
+            "score": 93.45825529098511
+        },
+        {
+            "docid": "1065475_18",
+            "document": "Siderophore . In contrast to most fresh-water sources, iron levels in surface sea-water are extremely low (1 nM to 1 \u03bcM in the upper 200 m) and much lower than those of V, Cr, Co, Ni, Cu and Zn. Virtually all this iron is in the iron(III) state and complexed to organic ligands. These low levels of iron limit the primary production of phytoplankton and have led to the Iron Hypothesis where it was proposed that an influx of iron would promote phytoplankton growth and thereby reduce atmospheric CO. This hypothesis has been tested on more than 10 different occasions and in all cases, massive blooms resulted. However, the blooms persisted for variable periods of time. An interesting observation made in some of these studies was that the concentration of the organic ligands increased over a short time span in order to match the concentration of added iron, thus implying biological origin and in view of their affinity for iron possibly being of a siderophore or siderophore-like nature. Significantly, heterotrophic bacteria were also found to markedly increase in number in the iron-induced blooms. Thus there is the element of synergism between phytoplankton and heterotrophic bacteria. Phytoplankton require iron (provided by bacterial siderophores), and heterotrophic bacteria require non-CO carbon sources (provided by phytoplankton).",
+            "score": 91.91667008399963
+        },
+        {
+            "docid": "32752072_5",
+            "document": "Iron dependent repressor . Several proteins are known to contain a dtxR-type HTH domain. These include: \"Corynebacterium diphtheriae\" dtxR, a diphtheria toxin repressor, which regulates the expression of the high-affinity iron uptake system, other iron-sensitive genes, and the bacteriophage tox gene. Metal-bound dtxR represses transcription by binding the tox operator; if iron is limiting, conformational changes of the wHTH disrupt DNA-binding and the diphtheria toxin is produced. \"Mycobacterium tuberculosis\" ideR, an iron-dependent regulator that is essential for this pathogen. The regulator represses genes for iron acquisition and activates iron storage genes, and is a positive regulator of oxidative stress responses. \"Bacillus subtilis\" mntR, a manganese transport regulator, binds Mn2+ as an effector and is a transcriptional repressor of transporters for the import of manganese. \"Treponema pallidum\" troR, a metal-dependent transcriptional repressor. \"Archaeoglobus fulgidus\" MDR1 (troR), a metal-dependent transcriptional repressor, which negatively regulates its own transcription.",
+            "score": 93.44483852386475
+        },
+        {
+            "docid": "11445385_9",
+            "document": "Iron-responsive element-binding protein . When the cell has obtained more iron than it can bind up with ferritin or heme molecules, more and more iron will bind to the IRE-BPs. That will stop transferrin receptor production. And iron-IRE-BP binding will also start ferritin production.",
+            "score": 128.7805871963501
+        }
+    ],
+    "r": [
+        {
+            "docid": "1065475_4",
+            "document": "Siderophore . Siderophores are also important for some pathogenic bacteria for their acquisition of iron. In mammalian hosts, iron is tightly bound to proteins such as hemoglobin, transferrin, lactoferrin and ferritin. The strict homeostasis of iron leads to a free concentration of about 10 mol L, hence there are great evolutionary pressures put on pathogenic bacteria to obtain this metal. For example, the anthrax pathogen \"Bacillus anthracis\" releases two siderophores, bacillibactin and petrobactin, to scavenge ferric iron from iron proteins. While bacillibactin has been shown to bind to the immune system protein siderocalin, petrobactin is assumed to evade the immune system and has been shown to be important for virulence in mice.",
+            "score": 174.19305419921875
+        },
+        {
+            "docid": "31627093_2",
+            "document": "Yersiniabactin . Yersiniabactin (Ybt) is a siderophore found in the pathogenic bacteria \"Yersinia pestis\", \"Yersinia pseudotuberculosis\", and \"Yersinia enterocolitica\", as well as several strains of enterobacteria including enteropathogenic \"Escherichia coli\". Siderophores, compounds of low molecular mass with high affinities for ferric iron, are important virulence factors in pathogenic bacteria. Iron\u2014an essential element for life used for such cellular processes as respiration and DNA replication\u2014is extensively chelated by host proteins like lactoferrin and ferritin; thus, the pathogen produces molecules with an even higher affinity for Fe than these proteins in order to acquire sufficient iron for growth. As a part of such an iron-uptake system, yersiniabactin plays an important role in pathogenicity of \"Y. pestis\", \"Y. pseudotuberculosis\", and \"Y. entercolitica\".",
+            "score": 153.81422424316406
+        },
+        {
+            "docid": "470107_9",
+            "document": "Ferritin . Free iron is toxic to cells as it acts as a catalyst in the formation of free radicals from reactive oxygen species via the Fenton reaction. Hence vertebrates evolve an elaborate set of protective mechanisms to bind iron in various tissue compartments. Within cells, iron is stored in a protein complex as ferritin or hemosiderin. Apoferritin binds to free ferrous iron and stores it in the ferric state. As ferritin accumulates within cells of the reticuloendothelial system, protein aggregates are formed as hemosiderin. Iron in ferritin or hemosiderin can be extracted for release by the RE cells although hemosiderin is less readily available. Under steady state conditions, the serum ferritin level correlates with total body iron stores; thus, the serum ferritin FR5Rl is the most convenient laboratory test to estimate iron stores.",
+            "score": 145.16236877441406
+        },
+        {
+            "docid": "34732944_6",
+            "document": "FepA . Iron is not usually readily available in the environment this group of bacteria find themselves in. However iron is essential in sustaining life due to its role in co-enzymes of respiration and DNA synthesis, so bacteria must adapt to have a mechanism for intake of iron. Because Fe has a very low solubility, most of the Fe ions in the bacteria\u2019s surrounding environment (e.g. soil) exist as iron oxides or hydroxides, and so the number of free Fe is low. Therefore, microbes have evolved to secret siderophores, Fe-binding peptides, into the surroundings and then actively transport the Fe-complex back into the cell by active transport. This can also be seen with pathogenic bacteria inside its host, where iron is bound tightly by haemoglobin, transferrin, lactoferrin and ferritin, and thus low in concentration (10 mol L). Here it secrets siderophores which has a higher affinity (with a formation constant, or ([ML])/([M][L]), of 10)to Fe than the host's iron-binding proteins, and so will remove iron and then transported inside the cell. \"Bacillus anthracis\", a Gram-positive bacteria that causes anthrax, secretes two siderophores: bacillibactin and petrobactin. \"Escherichia coli\" secrets many iron-siderophore transports, but produce only one siderophore\u2014enterobactin. The ferric enterobactin receptor FepA recognises the catecholate part of ferric enterobactin (FeEnt), and transports it across the outer membrane from the extracellular space into the periplasm. The binding is thought to be in two phases, a fast step which recognises FeEnt, and a slower step which may be the first step in translocation\u2014preparing the complex for translocation. Both steps occur independently of the TonB\u2013ExbB\u2013ExbD complex and the proton motive force it provides. In the periplasm, FeEnt is bound by FepB and passed to the integral inner membrane proteins FepG and FepD through active transport, with the energy provided by ATP hydrolysis catalysed by cytoplasmic FepC. In the cytoplasm, the Fes enterobactin esterase hydrolyses and this cleaves enterobactin, releasing Fe which will subsequently be reduced by the same protein, Fes, to Fe.",
+            "score": 144.86158752441406
+        },
+        {
+            "docid": "45079586_2",
+            "document": "Siderocalin . Siderocalin (Scn), lipocalin-2, NGAL, 24p3 is a mammalian lipocalin-type protein that can prevent iron acquisition by pathogenic bacteria by binding siderophores, which are iron-binding chelators made by microorganisms.  Iron serves as a key nutrient in host-pathogen interactions, and pathogens can acquire iron from the host organism via synthesis and release siderophores such as enterobactin.  Siderocalin is a part of the mammalian defence mechanism and acts as an antibacterial agent.  Crystallographic studies of Scn demonstrated that it includes a calyx, a ligand-binding domain that is lined with polar cationic groups. Central to the siderophore/siderocalin recognition mechanism are hybrid electrostatic/cation-pi interactions.  To evade the host defences, pathogens evolved to produce structurally varied siderophores that would not be recognized by siderocalin, allowing the bacteria to acquire iron.",
+            "score": 144.30552673339844
+        },
+        {
+            "docid": "11445385_6",
+            "document": "Iron-responsive element-binding protein . Cells have advanced mechanisms for sensing their own need for iron. In human cells, the best-characterized iron-sensing mechanism is the result of post-transcriptional regulation of mRNA (the chemical instructions derived from DNA genes to make proteins). Sequences of mRNA called iron-responsive elements (IREs) are contained within the mRNA sequences that code for transferrin receptors and for ferritin. Iron-responsive element-binding protein (IRE-BP) binds to these mRNA sequences. On its own, the IRE-BP binds to the IREs of ferritin and transferrin receptor mRNA. But, when iron binds to the IRE-BP, the IRE-BP changes shape with the result that the IRE-BPs can no longer bind the ferritin mRNA. This liberates the mRNA to direct the cell to make more ferritin. In other words, when there is high iron in the cell, the iron itself causes the cell to produce more iron storage molecules. (The IRE-BP is an aconitase; for a schematic drawing of the shape change, see here).",
+            "score": 143.9220733642578
+        },
+        {
+            "docid": "470107_2",
+            "document": "Ferritin . Ferritin is a universal intracellular protein that stores iron and releases it in a controlled fashion. The protein is produced by almost all living organisms, including algae, bacteria, higher plants, and animals. In humans, it acts as a buffer against iron deficiency and iron overload. Ferritin is found in most tissues as a cytosolic protein, but small amounts are secreted into the serum where it functions as an iron carrier. Plasma ferritin is also an indirect marker of the total amount of iron stored in the body, hence serum ferritin is used as a diagnostic test for iron-deficiency anemia.",
+            "score": 141.458251953125
+        },
+        {
+            "docid": "1065475_25",
+            "document": "Siderophore . Ferritin is present in the cytoplasm of cells and limits the intracellular iron level to approximately 1 \u03bcM. Ferritin is a much larger protein than transferrin and is capable of binding several thousand iron atoms in a nontoxic form. Siderophores are unable to directly mobilise iron from ferritin.",
+            "score": 139.72264099121094
+        },
+        {
+            "docid": "31627093_6",
+            "document": "Yersiniabactin . As previously mentioned, siderophores serve the essential function of iron acquisition for pathogens in the low iron conditions of the host. Thus the successful establishment of disease depends on the ability of the invading organism to acquire iron. Because of its high affinity for iron, yersiniabactin can solubilize the metal bound to host binding proteins and transport it back to the bacteria. The complex yersiniabactin-Fe recognizes the specific bacterial outer membrane TonB-dependent receptor, FyuA (Psn), and is translocated with the help of membrane-embedded proteins into the cytosol where the iron is discharged from yersiniabactin and used in various metabolic pathways. In the absence of a high-affinity iron-chelating compound, pathogenic \"Yersinia\", responsible for such lethal disease as the bubonic plague, only causes local symptoms of moderate intensity. The availability of iron, through an intrinsic high-affinity iron-chelating system such as Ybt, provides the bacteria with the ability to multiply in the host and to cause systemic infections.",
+            "score": 135.91065979003906
+        },
+        {
+            "docid": "5922431_2",
+            "document": "Iron-binding proteins . Iron-binding proteins are carrier proteins and metalloproteins which play many important roles in metabolism. Iron is required by humans and bacteria for enzymes and metabolism to function properly.  Iron-binding proteins bind iron tightly which make it unavailable for microbial use, limiting growth. Four iron-binding proteins are Haemoglobin, Ferritin, lactoferrin and transferrin.  Haemoglobin is located in red blood cells. Transferrin is found in blood and tissue fluids. Lactoferrin is found in milk, blood, tears and saliva. Ferritin is found in every cell type.",
+            "score": 133.4371795654297
+        },
+        {
+            "docid": "1551873_7",
+            "document": "ATP-binding cassette transporter . Bacterial ABC transporters are essential in cell viability, virulence, and pathogenicity. Iron ABC uptake systems, for example, are important effectors of virulence. Pathogens use siderophores, such as Enterobactin, to scavenge iron that is in complex with high-affinity iron-binding proteins or erythrocytes. These are high-affinity iron-chelating molecules that are secreted by bacteria and reabsorb iron into iron-siderophore complexes. The chvE-gguAB gene in \"Agrobacterium tumefaciens\" encodes glucose and galactose importers that are also associated with virulence. Transporters are extremely vital in cell survival such that they function as protein systems that counteract any undesirable change occurring in the cell. For instance, a potential lethal increase in osmotic strength is counterbalanced by activation of osmosensing ABC transporters that mediate uptake of solutes. Other than functioning in transport, some bacterial ABC proteins are also involved in the regulation of several physiological processes.",
+            "score": 130.62966918945312
+        },
+        {
+            "docid": "24373367_13",
+            "document": "Neuroferritinopathy . The protein ferritin functions to sequester and release iron, acting as an iron buffering system in cells. Iron is essential to brain function in oxygen transport and cellular metabolism for example. However, careful control of iron is important as increased brain iron levels catalyze the formation of free radicals that create oxidative molecules via the Fenton Reaction. These oxidative molecules can cause oxidative brain damage. Iron that is bound to ferritin in nonreactive.",
+            "score": 129.7239990234375
+        },
+        {
+            "docid": "40025888_4",
+            "document": "Management of thalassemia . Two key substances involved in iron transport and storage in the body are ferritin and transferrin. Ferritin is a protein present within cells that binds to Fe (II) and stores it as Fe (III), releasing it into the blood whenever required. Transferrin is an iron-binding protein present in blood plasma; transferrin acts as a transporter, carrying iron through blood and providing cells with the metal through endocytosis. Transferrin is highly specific to iron (III), and binds to it with an equilibrium constant of 10 M at a pH of 7.4.",
+            "score": 129.28408813476562
+        },
+        {
+            "docid": "470107_15",
+            "document": "Ferritin . Mitochondrial ferritin has many roles pertaining to molecular function. It participates in ferroxidase activity, binding, iron ion binding, oxidoreductase activity, ferric iron binding, metal ion binding as well as transition metal binding. Within the realm of biological processes it participates in oxidation-reduction, iron ion transport across membranes and cellular iron ion homeostasis.",
+            "score": 128.90342712402344
+        },
+        {
+            "docid": "11445385_9",
+            "document": "Iron-responsive element-binding protein . When the cell has obtained more iron than it can bind up with ferritin or heme molecules, more and more iron will bind to the IRE-BPs. That will stop transferrin receptor production. And iron-IRE-BP binding will also start ferritin production.",
+            "score": 128.7805938720703
+        },
+        {
+            "docid": "52234631_8",
+            "document": "Hemochromatosis type 4 . Hemochromatosis type 4A is characterized by impaired iron export in cells. Reticuloendothelial macrophages are most affected. Iron accumulates preferentially in Kupffer cells, which are located in the liver, and serum ferritin increases; less iron is available for circulating transferrin, a protein that binds iron and transports it through the bloodstream to cell receptors. This means that, while iron is trapped in certain types of tissues, it cannot be transported to tissues where it is needed. The accumulation of iron in tissues due to impaired iron export can lead to increasing transferrin iron saturation and liver parenchymal iron overload in advanced stages of the disease. More ferritin is produced to suppress oxidative cell damage, although the amount of ferritin that cells can accumulate is limited.",
+            "score": 128.6891632080078
+        },
+        {
+            "docid": "11421135_2",
+            "document": "Iron response element . In molecular biology, the iron response element or iron-responsive element (IRE) is a short conserved stem-loop which is bound by iron response proteins (IRPs, also named IRE-BP or IRBP). The IRE is found in UTRs (untranslated regions) of various mRNAs whose products are involved in iron metabolism. For example, the mRNA of ferritin (an iron storage protein) contains one IRE in its 5' UTR. When iron concentration is low, IRPs bind the IRE in the ferritin mRNA and cause reduced translation rates. In contrast, binding to multiple IREs in the 3' UTR of the transferrin receptor (involved in iron acquisition) leads to increased mRNA stability.",
+            "score": 127.71004486083984
+        },
+        {
+            "docid": "46715739_3",
+            "document": "ACO1 . The protein encoded by this gene is a bifunctional, cytosolic protein that functions as an essential enzyme in the TCA cycle and interacts with mRNA to control the levels of iron inside cells. When cellular iron levels are high, this protein binds to a 4Fe-4S cluster and functions as an aconitase. Aconitases are iron-sulfur proteins that function to catalyze the conversion of citrate to isocitrate. When cellular iron levels are low, the protein binds to iron-responsive elements (IREs), which are stem-loop structures found in the 5' UTR of ferritin mRNA, and in the 3' UTR of transferrin receptor mRNA. When the protein binds to IRE, it results in repression of translation of ferritin mRNA, and inhibition of degradation of the otherwise rapidly degraded transferrin receptor mRNA. The encoded protein has been identified as a moonlighting protein based on its ability to perform mechanistically distinct functions. Alternative splicing results in multiple transcript variants.",
+            "score": 127.70075988769531
+        },
+        {
+            "docid": "48482491_4",
+            "document": "Elizabeth C. Theil . Her group discovered that iron directly binds ferritin mRNA to regulate ferritin protein biosynthesis, that iron enters ferritin protein though ion channels and pores similar to those in cell membranes, and that ferritin iron abundant in legumes can be absorbed intact, with the potential to ameliorate iron deficiency anemia, a disease identified 500 years ago and impacting 30% of the world\u2019s population in 2015.",
+            "score": 127.49779510498047
+        },
+        {
+            "docid": "45079586_3",
+            "document": "Siderocalin . Organisms require iron for a variety of chemical reactions. Although iron can be found throughout the biosphere, free ferric iron forms insoluble hydroxides at physiological pH, limiting its accessibility in aerobic conditions to living organisms. In order to preserve homeostasis, organisms have evolved specific protein networks, with proteins and receptors translated in accordance with intracellular iron levels.  Export and import are supplemented by a cycling process between the ferrous Fe(II) available in the reducing environment of the cell, and ferric Fe(III) found primarily under aerobic conditions.  The iron acquisition mechanisms of pathogenic bacteria demonstrate the role of iron as a key component at the interface between pathogens and hosts.",
+            "score": 125.92736053466797
+        },
+        {
+            "docid": "11445385_5",
+            "document": "Iron-responsive element-binding protein . All cells use some iron, and must get it from the circulating blood. Since iron is tightly bound to transferrin, cells throughout the body have receptors for transferrin-iron complexes on their surfaces. These receptors engulf and internalize both the protein and the iron attached to it. Once inside, the cell transfers the iron to ferritin, the internal iron storage molecule.",
+            "score": 125.33317565917969
+        },
+        {
+            "docid": "470107_19",
+            "document": "Ferritin . Serum ferritin levels are measured in medical laboratories as part of the iron studies workup for iron-deficiency anemia. The ferritin levels measured usually have a direct correlation with the total amount of iron stored in the body. However, ferritin levels may be artificially high in cases of anemia of chronic disease where ferritin is elevated in its capacity as an inflammatory acute phase protein and not as a marker for iron overload.",
+            "score": 124.38096618652344
+        },
+        {
+            "docid": "470107_5",
+            "document": "Ferritin . Ferritin is a hollow globular protein of 474\u00a0kDa consisting of 24 subunits that is present in every cell type. Typically it has internal and external diameters of about 8 and 12\u00a0nm, respectively. In vertebrates, these subunits are both the light (L) and the heavy (H) type with an apparent molecular weight of 19\u00a0kDa or 21\u00a0kDa respectively; their sequences are about 50% homologous. Amphibians have an additional (\"M\") type of ferritin; the single ferritin of plants and bacteria most closely resembles the vertebrate H-type. Two types have been recovered in the gastropod \"Lymnaea\", the somatic ferritin being distinct from the yolk ferritin (see below). An additional subunit resembling \"Lymnaea\" soma ferritin is associated with shell formation in the pearl oyster. Two types are present in the parasite \"Schistosoma\", one in males, the other in females. All the aforementioned ferritins are similar, in terms of their primary sequence, with the vertebrate H-type. In \"E. coli\", a 20% similarity to human H-ferritin is observed. Inside the ferritin shell, iron ions form crystallites together with phosphate and hydroxide ions. The resulting particle is similar to the mineral ferrihydrite. Each ferritin complex can store about 4500 iron (Fe) ions.",
+            "score": 124.17090606689453
+        },
+        {
+            "docid": "470107_3",
+            "document": "Ferritin . Ferritin is a globular protein complex consisting of 24 protein subunits forming a nanocage with multiple metal\u2013protein interactions. It is the primary \"intracellular iron-storage protein\" in both prokaryotes and eukaryotes, keeping iron in a soluble and non-toxic form. Ferritin that is not combined with iron is called apoferritin.",
+            "score": 122.78218841552734
+        },
+        {
+            "docid": "92522_5",
+            "document": "Ferric . The low bioavailability of iron affects all forms of life. Bacteria secrete iron-attracting agents called siderophores that form soluble compounds of iron that can be reabsorbed into the cell and used in building iron-containing metalloproteins.It forms mettalloprotein ferritin in our body and stores in this form. The impact of increasing the bioavailability of iron was famously demonstrated by an experiment where a large area of the ocean surface was sprayed with iron(III) salts. After several days, the phytoplankton within the treated area bloomed to such an extent that the effect was visible from outer space. This fertilizing process has been proposed as a means to mitigate the carbon dioxide content of the atmosphere.",
+            "score": 121.9537124633789
+        },
+        {
+            "docid": "470107_12",
+            "document": "Ferritin . Vertebrate ferritin consists of two or three subunits which are named based on their molecular weight: L \"light\", H \"heavy\", and M \"middle\" subunits. The M subunit has only been reported in bullfrogs. In bacteria and archaea, ferritin consists of one subunit type. H and M subunits of eukaryotic ferritin and all subunits of bacterial and archaeal ferritin are H-type and have ferroxidase activity, which is the conversion of iron from the ferrous (Fe) to ferric (Fe) forms. This limits the deleterious reaction which occurs between ferrous iron and hydrogen peroxide known as the Fenton reaction which produces the highly damaging hydroxyl radical. The ferroxidase activity occurs at a diiron binding site in the middle of each H-type subunits. After oxidation of Fe(II), the Fe(III) product stays metastably in the ferroxidase center and is displaced by Fe(II), a mechanism that appears to be common among ferritins of all three kingdoms of life. The light chain of ferritin has no ferroxidase activity but may be responsible for the electron transfer across the protein cage.",
+            "score": 121.42750549316406
+        },
+        {
+            "docid": "240832_28",
+            "document": "Restless legs syndrome . According to some guidelines, all people with RLS should have their serum ferritin level tested. The ferritin level, a measure of the body's iron stores, should be at least 50\u00a0\u00b5g/L (or ng/mL, an equivalent unit) for those with RLS. Oral iron supplements can increase ferritin levels. For some people, increasing ferritin will eliminate or reduce RLS symptoms; a ferritin level of 50\u00a0\u00b5g/L is not sufficient for some and increasing the level to 80\u00a0\u00b5g/L may further reduce symptoms. However, at least 40% of people will not notice any improvement. It is not advised to take oral iron supplements without first having ferritin levels tested, as many people with RLS do not have low ferritin and taking iron when it is not called for is unlikely to offer any therapeutic benefit whilst still able to cause adverse events. All parenteral iron treatments require diagnosis with laboratory tests to avoid iron overload.",
+            "score": 121.05209350585938
+        },
+        {
+            "docid": "14758198_4",
+            "document": "Ferritin light chain . This gene encodes the light subunit of the ferritin protein. Ferritin is the major intracellular iron storage protein in prokaryotes and eukaryotes. It is composed of 24 subunits of the heavy and light ferritin chains. Variation in ferritin subunit composition may affect the rates of iron uptake and release in different tissues. A major function of ferritin is the storage of iron in a soluble and nontoxic state. This gene has multiple pseudogenes.",
+            "score": 120.83999633789062
+        },
+        {
+            "docid": "470107_8",
+            "document": "Ferritin . Ferritin serves to store iron in a non-toxic form, to deposit it in a safe form, and to transport it to areas where it is required. The function and structure of the expressed ferritin protein varies in different cell types. This is controlled primarily by the amount and stability of Messenger RNA (mRNA). mRNA concentration is further tweaked by changes to how it is stored and how efficiently it is transcribed. The presence of iron itself is a major trigger for the production of ferritin, with some exceptions (such as the yolk ferritin of the gastropod \"Lymnaea\", which lacks an iron-responsive unit).",
+            "score": 120.42764282226562
+        },
+        {
+            "docid": "3335116_25",
+            "document": "Human iron metabolism . Iron can be stored in ferritin as ferric iron due to the ferroxidase activity of the ferritin heavy chain. Dysfunctional ferritin may accumulate as hemosiderin, which can be problematic in cases of iron overload. The ferritin storage iron pool is much larger than the labile iron pool, ranging in concentration from 0.7 mM to 3.6 mM.",
+            "score": 120.120849609375
+        },
+        {
+            "docid": "15464966_17",
+            "document": "Pathogenic bacteria . Iron is required for humans, as well as the growth of most bacteria. To obtain free iron, some pathogens secrete proteins called siderophores, which take the iron away from iron-transport proteins by binding to the iron even more tightly. Once the iron-siderophore complex is formed, it is taken up by siderophore receptors on the bacterial surface and then that iron is brought into the bacterium.",
+            "score": 119.7532958984375
+        },
+        {
+            "docid": "15677453_3",
+            "document": "FTH1 . This gene encodes the heavy subunit of ferritin, the major intracellular iron storage protein in prokaryotes and eukaryotes. It is composed of 24 subunits of the heavy and light ferritin chains. Variation in ferritin subunit composition may affect the rates of iron uptake and release in different tissues. A major function of ferritin is the storage of iron in a soluble and nontoxic state. Defects in ferritin proteins are associated with several neurodegenerative diseases. This gene has multiple pseudogenes. Several alternatively spliced transcript variants have been observed, but their biological validity has not been determined.",
+            "score": 119.71375274658203
+        }
+    ]
+}

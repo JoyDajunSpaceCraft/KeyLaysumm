@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "401150_35",
+            "document": "Photoreceptor cell . A non-rod non-cone photoreceptor in the eyes of mice, which was shown to mediate circadian rhythms, was discovered in 1991 by Foster \"et al.\" These neuronal cells, called intrinsically photosensitive retinal ganglion cells (ipRGC), are a small subset (\u22481\u20133%) of the retinal ganglion cells located in the inner retina, that is, in front of the rods and cones located in the outer retina. These light sensitive neurons contain a photopigment, melanopsin, which has an absorption peak of the light at a different wavelength (\u2248480\u00a0nm) than rods and cones. Beside circadian / behavioral functions, ipRGCs have a role in initiating the pupillary light reflex.",
+            "score": 209.999009847641
+        },
+        {
+            "docid": "534710_2",
+            "document": "Cone cell . Cone cells, or cones, are one of three types of photoreceptor cells in the retina of mammalian eyes (e.g. the human eye). They are responsible for color vision and function best in relatively bright light, as opposed to rod cells, which work better in dim light. Cone cells are densely packed in the fovea centralis, a 0.3\u00a0mm diameter rod-free area with very thin, densely packed cones which quickly reduce in number towards the periphery of the retina. There are about six to seven million cones in a human eye and are most concentrated towards the macula. The commonly cited figure of six million cone cells in the human eye was found by Osterberg in 1935. Oyster's textbook (1999) cites work by Curcio et al. (1990) indicating an average close to 4.5 million cone cells and 90 million rod cells in the human retina.",
+            "score": 228.39620327949524
+        },
+        {
+            "docid": "593784_5",
+            "document": "Monochromacy . Rods, which are extremely abundant (about 120 million), are in the periphery of the human retina. Rods respond only to faint levels of light and are very light sensitive, therefore, completely useless in daylight because bright light bleaches them. Cones, which are mostly near the fovea in the eye and are less active in dim light, more useful in bright light, are essential for color vision. There are three types of cones in normal human eyes (short, medium and long wavelength, sometimes called blue, green and red); each detects a different range of wavelengths. Rods outnumber cones by about 20 to 1 in the human retina, but cones provide about 90% of the brain's input. Cones respond faster than rods and have three types of pigments with different color sensitivities, where rods only have one and so are achromatic (colorless). Because of the distribution of rods and cones in the human eye, people have good color vision near the fovea (where cones are) but not in the periphery (where the rods are).",
+            "score": 265.5576899051666
+        },
+        {
+            "docid": "1887433_5",
+            "document": "Visual phototransduction . The photoreceptor cells involved in vision are the rods and cones. These cells contain a chromophore (11-cis retinal, the aldehyde of Vitamin A1 and light-absorbing portion) bound to cell membrane protein, opsin. Rods deal with low light level and do not mediate color vision. Cones, on the other hand, can code the color of an image through comparison of the outputs of the three different types of cones. Each cone type responds best to certain wavelengths, or colors, of light because each type has a slightly different opsin. The three types of cones are L-cones, M-cones and S-cones that respond optimally to long wavelengths (reddish color), medium wavelengths (greenish color), and short wavelengths (bluish color) respectively. Humans have a trichromatic visual system consisting of three unique systems, rods, mid and long-wavelength sensitive (red and green) cones and short wavelength sensitive (blue) cones.",
+            "score": 215.65574312210083
+        },
+        {
+            "docid": "401150_3",
+            "document": "Photoreceptor cell . There are currently three known types of photoreceptor cells in mammalian eyes: rods, cones, and photosensitive retinal ganglion cells. The two classic photoreceptor cells are rods and cones, each contributing information used by the visual system to form a representation of the visual world, sight. The rods are narrower than the cones and distributed differently across the retina, but the chemical process in each that supports phototransduction is similar. A third class of mammalian photoreceptor cell was discovered during the 1990s: the photosensitive ganglion cells. These cells do not contribute to sight directly, but are thought to support circadian rhythms and pupillary reflex.",
+            "score": 161.32023453712463
+        },
+        {
+            "docid": "859926_10",
+            "document": "Sensory neuron . There are three primary types of photoreceptors: Cones are photoreceptors that respond significantly to color. In humans the three different types of cones correspond with a primary response to short wavelength (blue), medium wavelength (green), and long wavelength (yellow/red). Rods are photoreceptors that are very sensitive to the intensity of light, allowing for vision in dim lighting. The concentrations and ratio of rods to cones is strongly correlated with whether an animal is diurnal or nocturnal. In humans, rods outnumber cones by approximately 20:1, while in nocturnal animals, such as the tawny owl, the ratio is closer to 1000:1. Retinal ganglion cells are involved in the sympathetic response. Of the ~1.3 million ganglion cells present in the retina, 1-2% are believed to be photosensitive.",
+            "score": 207.8838095664978
+        },
+        {
+            "docid": "2565082_2",
+            "document": "Intrinsically photosensitive retinal ganglion cells . Intrinsically photosensitive retinal ganglion cells (ipRGCs), also called photosensitive retinal ganglion cells (pRGC), or melanopsin-containing retinal ganglion cells (mRGCs), are a type of neuron in the retina of the mammalian eye. The presence of ipRGCs were first noted in 1923 when rodless, coneless mice still responded to a light stimulus through pupil constriction, suggesting that rods and cones are not the only light sensitive neurons in the retina. It wasn't until the 1980s that advancements in research on these cells began. Recent research has shown that these retinal ganglion cells, unlike other retinal ganglion cells, are intrinsically photosensitive due to the presence of melanopsin, a light sensitive protein. Therefore they constitute a third class of photoreceptors, in addition to rod and cone cells.",
+            "score": 179.6651076078415
+        },
+        {
+            "docid": "21280496_32",
+            "document": "Visual perception . Transduction is the process through which energy from environmental stimuli is converted to neural activity for the brain to understand and process. The back of the eye contains three different cell layers: photoreceptor layer, bipolar cell layer and ganglion cell layer. The photoreceptor layer is at the very back and contains rod photoreceptors and cone photoreceptors. Cones are responsible for color perception. There are three different cones: red, green and blue. Rods, are responsible for the perception of objects in low light. Photoreceptors contain within them a special chemical called a photopigment, which are embedded in the membrane of the lamellae; a single human rod contains approximately 10 million of them. The photopigment molecules consist of two parts: an opsin (a protein) and retinal (a lipid). There are 3 specific photopigments (each with their own color) that respond to specific wavelengths of light. When the appropriate wavelength of light hits the photoreceptor, its photopigment splits into two, which sends a message to the bipolar cell layer, which in turn sends a message to the ganglion cells, which then send the information through the optic nerve to the brain. If the appropriate photopigment is not in the proper photoreceptor (for example, a green photopigment inside a red cone), a condition called color vision deficiency will occur.",
+            "score": 200.25859308242798
+        },
+        {
+            "docid": "514355_2",
+            "document": "Rod cell . Rod cells are photoreceptor cells in the retina of the eye that can function in less intense light than the other type of visual photoreceptor, cone cells. Rods are usually found concentrated at the outer edges of the retina and are used in peripheral vision. On average, there are approximately 90 million rod cells in the human retina. Rod cells are more sensitive than cone cells and are almost entirely responsible for night vision. However, rods have little role in color vision, which is the main reason why colors are much less apparent in dim light, and not at all at night.",
+            "score": 240.880362033844
+        },
+        {
+            "docid": "19274237_21",
+            "document": "Mammalian eye . In the human eye, light enters the pupil and is focused on the retina by the lens. Light-sensitive nerve cells called rods (for brightness), cones (for color) and non-imaging ipRGC (intrinsincally photosensitive retinal ganglion cells) react to the light. They interact with each other and send messages to the brain. The rods and cones enable vision. The ipRGCs enable entrainment to the Earth's 24-hour cycle, resizing of the pupil and acute suppression of the pineal hormone melatonin.",
+            "score": 211.8798508644104
+        },
+        {
+            "docid": "19274237_26",
+            "document": "Mammalian eye . Differences between the rhodopsin and the iodopsins is the reason why cones and rods enable organisms to see in dark and light conditions \u2014 each of the photoreceptor proteins requires a different light intensity to break down into the constituent products. Further, synaptic convergence means that several rod cells are connected to a single bipolar cell, which then connects to a single ganglion cell by which information is relayed to the visual cortex. This convergence is in direct contrast to the situation with cones, where each cone cell is connected to a single bipolar cell. This divergence results in the high visual acuity, or the high ability to distinguish detail, of cone cells compared to rods. If a ray of light were to reach just one rod cell, the cell's response may not be enough to hyperpolarize the connected bipolar cell. But because several \"converge\" onto a bipolar cell, enough transmitter molecules reach the synapses of the bipolar cell to hyperpolarize it.",
+            "score": 205.940695643425
+        },
+        {
+            "docid": "22483_87",
+            "document": "Optics . In contrast, cone cells are less sensitive to the overall intensity of light, but come in three varieties that are sensitive to different frequency-ranges and thus are used in the perception of colour and photopic vision. Cone cells are highly concentrated in the fovea and have a high visual acuity meaning that they are better at spatial resolution than rod cells. Since cone cells are not as sensitive to dim light as rod cells, most night vision is limited to rod cells. Likewise, since cone cells are in the fovea, central vision (including the vision needed to do most reading, fine detail work such as sewing, or careful examination of objects) is done by cone cells.",
+            "score": 237.59083318710327
+        },
+        {
+            "docid": "379234_8",
+            "document": "Sensory nervous system . Photoreceptors are capable of phototransduction, a process which converts light (electromagnetic radiation) into, among other types of energy, a membrane potential. The three primary types of photoreceptors are: Cones are photoreceptors which respond significantly to color. In humans the three different types of cones correspond with a primary response to short wavelength (blue), medium wavelength (green), and long wavelength (yellow/red). Rods are photoreceptors which are very sensitive to the intensity of light, allowing for vision in dim lighting. The concentrations and ratio of rods to cones is strongly correlated with whether an animal is diurnal or nocturnal. In humans rods outnumber cones by approximately 20:1, while in nocturnal animals, such as the tawny owl, the ratio is closer to 1000:1. Ganglion Cells reside in the adrenal medulla and retina where they are involved in the sympathetic response. Of the ~1.3 million ganglion cells present in the retina, 1-2% are believed to be photosensitive ganglia. These photosensitive ganglia play a role in conscious vision for some animals, and are believed to do the same in humans.",
+            "score": 209.2970576286316
+        },
+        {
+            "docid": "534710_3",
+            "document": "Cone cell . Cones are less sensitive to light than the rod cells in the retina (which support vision at low light levels), but allow the perception of color. They are also able to perceive finer detail and more rapid changes in images, because their response times to stimuli are faster than those of rods. Cones are normally one of the three types, each with different pigment, namely: S-cones, M-cones and L-cones. Each cone is therefore sensitive to visible wavelengths of light that correspond to short-wavelength, medium-wavelength and long-wavelength light. Because humans usually have three kinds of cones with different photopsins, which have different response curves and thus respond to variation in color in different ways, we have trichromatic vision. Being color blind can change this, and there have been some verified reports of people with four or more types of cones, giving them tetrachromatic vision. The three pigments responsible for detecting light have been shown to vary in their exact chemical composition due to genetic mutation; different individuals will have cones with different color sensitivity. Destruction of the cone cells from disease would result in color blindness.",
+            "score": 230.3901183605194
+        },
+        {
+            "docid": "22483_86",
+            "document": "Optics . There are two types of photoreceptor cells, rods and cones, which are sensitive to different aspects of light. Rod cells are sensitive to the intensity of light over a wide frequency range, thus are responsible for black-and-white vision. Rod cells are not present on the fovea, the area of the retina responsible for central vision, and are not as responsive as cone cells to spatial and temporal changes in light. There are, however, twenty times more rod cells than cone cells in the retina because the rod cells are present across a wider area. Because of their wider distribution, rods are responsible for peripheral vision.",
+            "score": 238.45868039131165
+        },
+        {
+            "docid": "19274237_23",
+            "document": "Mammalian eye . Though structurally and metabolically similar, the functions of rods and cones are quite different. Rod cells are highly sensitive to light, allowing them to respond in dim light and dark conditions; however, they cannot detect color differences. These are the cells that allow humans and other animals to see by moonlight, or with very little available light (as in a dark room). Cone cells, conversely, need high light intensities to respond and have high visual acuity. Different cone cells respond to different wavelengths of light, which allows an organism to see color. The shift from cone vision to rod vision is why the darker conditions become, the less color objects seem to have.",
+            "score": 248.62970066070557
+        },
+        {
+            "docid": "19274237_25",
+            "document": "Mammalian eye . Rods and cones are both photosensitive, but respond in different ways to different frequencies of light. They contain different pigmented photoreceptor proteins. Rod cells contain the protein rhodopsin and cone cells contain different proteins for each color-range. The process through which these proteins go is quite similar \u2014 upon being subjected to electromagnetic radiation of a particular wavelength and intensity, the protein breaks down into two constituent products. Rhodopsin, of rods, breaks down into opsin and retinal; iodopsin of cones breaks down into photopsin and retinal. The breakdown results in the activation of Transducin and this activates cyclic GMP Phosphodiesterase, which lowers the number of open Cyclic nucleotide-gated ion channels on the cell membrane, which leads to hyperpolarization; this hyperpolarization of the cell leads to decreased release of transmitter molecules at the synapse.",
+            "score": 160.0414261817932
+        },
+        {
+            "docid": "302812_5",
+            "document": "Color vision . In very low light levels, vision is scotopic: light is detected by rod cells of the retina. Rods are maximally sensitive to wavelengths near 500\u00a0nm, and play little, if any, role in colour vision. In brighter light, such as daylight, vision is photopic: light is detected by cone cells which are responsible for colour vision. Cones are sensitive to a range of wavelengths, but are most sensitive to wavelengths near 555\u00a0nm. Between these regions, mesopic vision comes into play and both rods and cones provide signals to the retinal ganglion cells. The shift in colour perception from dim light to daylight gives rise to differences known as the Purkinje effect",
+            "score": 257.3491714000702
+        },
+        {
+            "docid": "1017131_6",
+            "document": "Retina bipolar cell . Rod bipolar cells do not synapse directly on to ganglion cells. Instead, rod bipolar cells synapse on to a Retina amacrine cell, which in turn excite cone ON bipolar cells (via gap junctions) and inhibit cone OFF bipolar cells (via glycine-mediated inhibitory synapses) thereby overtaking the cone pathway in order to send signals to ganglion cells at scotopic (low) ambient light conditions.",
+            "score": 186.59570407867432
+        },
+        {
+            "docid": "9061_22",
+            "document": "Dolphin . The dolphin eye is relatively small for its size, yet they do retain a good degree of eyesight. As well as this, the eyes of a dolphin are placed on the sides of its head, so their vision consists of two fields, rather than a binocular view like humans have. When dolphins surface, their lens and cornea correct the nearsightedness that results from the refraction of light; they contain both rod and cone cells, meaning they can see in both dim and bright light, but they have far more rod cells than they do cone cells. Dolphins do, however, lack short wavelength sensitive visual pigments in their cone cells indicating a more limited capacity for color vision than most mammals. Most dolphins have slightly flattened eyeballs, enlarged pupils (which shrink as they surface to prevent damage), slightly flattened corneas and a tapetum lucidum; these adaptations allow for large amounts of light to pass through the eye and, therefore, a very clear image of the surrounding area. They also have glands on the eyelids and outer corneal layer that act as protection for the cornea.",
+            "score": 216.13654935359955
+        },
+        {
+            "docid": "33777_28",
+            "document": "Whale . The whale eye is relatively small for its size, yet they do retain a good degree of eyesight. As well as this, the eyes of a whale are placed on the sides of its head, so their vision consists of two fields, rather than a binocular view like humans have. When belugas surface, their lens and cornea correct the nearsightedness that results from the refraction of light; they contain both rod and cone cells, meaning they can see in both dim and bright light, but they have far more rod cells than they do cone cells. Whales do, however, lack short wavelength sensitive visual pigments in their cone cells indicating a more limited capacity for colour vision than most mammals. Most whales have slightly flattened eyeballs, enlarged pupils (which shrink as they surface to prevent damage), slightly flattened corneas and a tapetum lucidum; these adaptations allow for large amounts of light to pass through the eye and, therefore, a very clear image of the surrounding area. They also have glands on the eyelids and outer corneal layer that act as protection for the cornea.",
+            "score": 218.32080924510956
+        },
+        {
+            "docid": "17188258_2",
+            "document": "Disc shedding . Disc shedding is the process by which photoreceptors in the eye are renewed. The retina contains two types of photoreceptor \u2013 rod cells and cone cells. There are about 6-7 million cones that provide color vision to the eye, and they are very concentrated in a central spot in the retina, called the macula. However, the rods are much more numerous \u2013 about 120 million \u2013 and are also more sensitive than the cones. These rods are responsible for scotopic (night) vision, our most sensitive motion detection, and our peripheral vision.",
+            "score": 195.5962860584259
+        },
+        {
+            "docid": "157898_57",
+            "document": "Eye . Cones are responsible for colour vision. They require brighter light to function than rods require. In humans, there are three types of cones, maximally sensitive to long-wavelength, medium-wavelength, and short-wavelength light (often referred to as red, green, and blue, respectively, though the sensitivity peaks are not actually at these colours). The colour seen is the combined effect of stimuli to, and responses from, these three types of cone cells. Cones are mostly concentrated in and near the fovea. Only a few are present at the sides of the retina. Objects are seen most sharply in focus when their images fall on the fovea, as when one looks at an object directly. Cone cells and rods are connected through intermediate cells in the retina to nerve fibres of the optic nerve. When rods and cones are stimulated by light, they connect through adjoining cells within the retina to send an electrical signal to the optic nerve fibres. The optic nerves send off impulses through these fibres to the brain.",
+            "score": 264.06769704818726
+        },
+        {
+            "docid": "9135513_5",
+            "document": "Ignacio Provencio . He found that blind mice lacking classic outer-retinal photoreceptors (rods and cones) still had eye-mediated responses to light. Mice with the melanopsin gene knocked out but with functional rods and cones were also able to entrain. However, when melanopsin was knocked out in blind mice without rods and cones, they exhibited \u201ccomplete loss of photoentrainment of the circadian oscillator, pupillary light responses, photic suppression of arylalkylamine-N-acetyltransferase transcript, and acute suppression of locomotor activity by light.\u201d Provencio concluded that either melanopsin-containing retinal ganglion cells or outer-retinal photoreceptors (rods and cones) are sufficient to induce a response to light. However, in the absence of either rods and cones or melanopsin, melanopsin becomes necessary for photoentrainment of the circadian oscillator and for other photic responses.",
+            "score": 205.38485395908356
+        },
+        {
+            "docid": "18416476_19",
+            "document": "Bird vision . There are two sorts of light receptors in a bird\u2019s eye, rods and cones. Rods, which contain the visual pigment rhodopsin are better for night vision because they are sensitive to small quantities of light. Cones detect specific colours (or wavelengths) of light, so they are more important to colour-orientated animals such as birds. Most birds are tetrachromatic, possessing four types of cone cells each with a distinctive maximal absorption peak. In some birds, the maximal absorption peak of the cone cell responsible for the shortest wavelength extends to the ultraviolet (UV) range, making them UV-sensitive. In addition to that, the cones at bird's retina are arranged in a characteristic form of spatial distribution, known as hyperuniform distribution, which maximizes its light and color absorption. This form of spatial distributions are only observed as a result of some optimization process, which in this case can be described in terms of bird's evolutionary history.",
+            "score": 218.4472894668579
+        },
+        {
+            "docid": "48334_3",
+            "document": "Retina . The retina consists of several layers of neurons interconnected by synapses. The neural retina refers to the three layers of neural cells (photo receptor cells, bipolar cells, and ganglion cells) within the retina, which in its entirety comprises ten distinct layers, including an outer layer of pigmented epithelial cells. The only neural cells that are directly sensitive to light are the photoreceptor cells, which are of two types: rods and cones. Rods function mainly in dim light and provide black-and-white vision while cones are responsible for the perception of colour. A third type of photoreceptor, the photosensitive ganglion cells, is important for entrainment and reflexive responses to the brightness of light.",
+            "score": 219.53670477867126
+        },
+        {
+            "docid": "2565082_24",
+            "document": "Intrinsically photosensitive retinal ganglion cells . In 2007, Zaidi and colleagues published their work on rodless, coneless humans, showing that these people retain normal responses to nonvisual effects of light. The identity of the non-rod, non-cone photoreceptor in humans was found to be a ganglion cell in the inner retina as shown previously in rodless, coneless models in some other mammals. The work was done using patients with rare diseases that wiped out classic rod and cone photoreceptor function but preserved ganglion cell function. Despite having no rods or cones, the patients continued to exhibit circadian photoentrainment, circadian behavioural patterns, melatonin suppression, and pupil reactions, with peak spectral sensitivities to environmental and experimental light that match the melanopsin photopigment. Their brains could also associate vision with light of this frequency. Clinicians and scientists are now seeking to understand the new receptor's role in human diseases and blindness.",
+            "score": 197.86695313453674
+        },
+        {
+            "docid": "401150_37",
+            "document": "Photoreceptor cell . In 2007, Farhan H. Zaidi and colleagues published pioneering work using rodless coneless humans. \"Current Biology\" subsequently announced in their 2008 editorial, commentary and despatches to scientists and ophthalmologists, that the non-rod non-cone photoreceptor had been conclusively discovered in humans using landmark experiments on rodless coneless humans by Zaidi and colleagues As had been found in other mammals, the identity of the non-rod non-cone photoreceptor in humans was found to be a ganglion cell in the inner retina. The workers had tracked down patients with rare diseases wiping out classic rod and cone photoreceptor function but preserving ganglion cell function. Despite having no rods or cones the patients continued to exhibit circadian photoentrainment, circadian behavioural patterns, melanopsin suppression, and pupil reactions, with peak spectral sensitivities to environmental and experimental light matching that for the melanopsin photopigment. Their brains could also associate vision with light of this frequency.",
+            "score": 189.63206660747528
+        },
+        {
+            "docid": "554130_6",
+            "document": "Adaptation (eye) . The human eye contains two types of photoreceptors, rods and cones, which can be easily distinguished by their structure. Cone photoreceptors are conical in shape and contain cone opsins as their visual pigments. There exist three types of cone photoreceptors, each being maximally sensitive to a specific wavelength of light depending on the structure of their opsin photopigment. The various cone cells are maximally sensitive to either short wavelengths (blue light), medium wavelengths (green light), or long wavelengths (red light). Rod photoreceptors only contain one type of photopigment, rhodopsin, which has a peak sensitivity at a wavelength of approximately 530 nanometers which corresponds to blue-green light.",
+            "score": 198.23434925079346
+        },
+        {
+            "docid": "514355_18",
+            "document": "Rod cell . A rod cell is sensitive enough to respond to a single photon of light and is about 100 times more sensitive to a single photon than cones. Since rods require less light to function than cones, they are the primary source of visual information at night (scotopic vision). Cone cells, on the other hand, require tens to hundreds of photons to become activated. Additionally, multiple rod cells converge on a single interneuron, collecting and amplifying the signals. However, this convergence comes at a cost to visual acuity (or image resolution) because the pooled information from multiple cells is less distinct than it would be if the visual system received information from each rod cell individually. Rod cells also respond slower to light than cones and the stimuli they receive are added over roughly 100 milliseconds. While this makes rods more sensitive to smaller amounts of light, it also means that their ability to sense temporal changes, such as quickly changing images, is less accurate than that of cones.",
+            "score": 230.5937466621399
+        },
+        {
+            "docid": "401150_15",
+            "document": "Photoreceptor cell . The process of phototransduction occurs in the retina. The retina has many layers of various cell types. The best-known photoreceptor cells (\"rods\" and \"cones\") form the outermost layer. They are the photoreceptors responsible for sight. The middle layer contains bipolar cells, which collect neural signals from the rods and the cones and then transmit them to the innermost layer of the retina, where the neurons called retinal ganglion cells (RGCs), a small percentage of which are themselves photosensitive, organize the signals and send them to the brain.",
+            "score": 157.37230372428894
+        },
+        {
+            "docid": "162843_5",
+            "document": "Color television . The human eye's detection system, which is in the retina consists primarily of two types of light detectors: rod cells that capture light, dark, and shapes/figures, and the cone cells that detect color. A typical retina contains 120 million rods and 4.5 million to 6 million cones, which are divided among three groups that are sensitive to red, green, and blue light. This means that the eye has far more resolution in brightness, or \"luminance\", than in color. However, post-processing of the optic nerve and other portions of the human visual system combine the information from the rods and cones to re-create what appears to be a high-resolution color image.",
+            "score": 220.35721158981323
+        }
+    ],
+    "r": [
+        {
+            "docid": "5921_21",
+            "document": "Color . The other type of light-sensitive cell in the eye, the rod, has a different response curve. In normal situations, when light is bright enough to strongly stimulate the cones, rods play virtually no role in vision at all. On the other hand, in dim light, the cones are understimulated leaving only the signal from the rods, resulting in a colorless response. (Furthermore, the rods are barely sensitive to light in the \"red\" range.) In certain conditions of intermediate illumination, the rod response and a weak cone response can together result in color discriminations not accounted for by cone responses alone. These effects, combined, are summarized also in the Kruithof curve, that describes the change of color perception and pleasingness of light as function of temperature and intensity.",
+            "score": 273.2991027832031
+        },
+        {
+            "docid": "593784_5",
+            "document": "Monochromacy . Rods, which are extremely abundant (about 120 million), are in the periphery of the human retina. Rods respond only to faint levels of light and are very light sensitive, therefore, completely useless in daylight because bright light bleaches them. Cones, which are mostly near the fovea in the eye and are less active in dim light, more useful in bright light, are essential for color vision. There are three types of cones in normal human eyes (short, medium and long wavelength, sometimes called blue, green and red); each detects a different range of wavelengths. Rods outnumber cones by about 20 to 1 in the human retina, but cones provide about 90% of the brain's input. Cones respond faster than rods and have three types of pigments with different color sensitivities, where rods only have one and so are achromatic (colorless). Because of the distribution of rods and cones in the human eye, people have good color vision near the fovea (where cones are) but not in the periphery (where the rods are).",
+            "score": 265.5577087402344
+        },
+        {
+            "docid": "157898_57",
+            "document": "Eye . Cones are responsible for colour vision. They require brighter light to function than rods require. In humans, there are three types of cones, maximally sensitive to long-wavelength, medium-wavelength, and short-wavelength light (often referred to as red, green, and blue, respectively, though the sensitivity peaks are not actually at these colours). The colour seen is the combined effect of stimuli to, and responses from, these three types of cone cells. Cones are mostly concentrated in and near the fovea. Only a few are present at the sides of the retina. Objects are seen most sharply in focus when their images fall on the fovea, as when one looks at an object directly. Cone cells and rods are connected through intermediate cells in the retina to nerve fibres of the optic nerve. When rods and cones are stimulated by light, they connect through adjoining cells within the retina to send an electrical signal to the optic nerve fibres. The optic nerves send off impulses through these fibres to the brain.",
+            "score": 264.0677185058594
+        },
+        {
+            "docid": "302812_5",
+            "document": "Color vision . In very low light levels, vision is scotopic: light is detected by rod cells of the retina. Rods are maximally sensitive to wavelengths near 500\u00a0nm, and play little, if any, role in colour vision. In brighter light, such as daylight, vision is photopic: light is detected by cone cells which are responsible for colour vision. Cones are sensitive to a range of wavelengths, but are most sensitive to wavelengths near 555\u00a0nm. Between these regions, mesopic vision comes into play and both rods and cones provide signals to the retinal ganglion cells. The shift in colour perception from dim light to daylight gives rise to differences known as the Purkinje effect",
+            "score": 257.34918212890625
+        },
+        {
+            "docid": "1707270_7",
+            "document": "Sensation (psychology) . The wavelength, intensity and complexity of Light are detected by visual receptors in the retina of the eye. There are two types of visual receptors: rods and cones. Rods are sensitive to dim light, which makes them useful for seeing at night. Cones are more sensitive to color and bright light, which makes them more useful in daylight. Signals from rods and cones are transduced into useful neural information via the optic nerve. Blindness is the complete or nearly complete inability to see.",
+            "score": 253.69296264648438
+        },
+        {
+            "docid": "19274237_23",
+            "document": "Mammalian eye . Though structurally and metabolically similar, the functions of rods and cones are quite different. Rod cells are highly sensitive to light, allowing them to respond in dim light and dark conditions; however, they cannot detect color differences. These are the cells that allow humans and other animals to see by moonlight, or with very little available light (as in a dark room). Cone cells, conversely, need high light intensities to respond and have high visual acuity. Different cone cells respond to different wavelengths of light, which allows an organism to see color. The shift from cone vision to rod vision is why the darker conditions become, the less color objects seem to have.",
+            "score": 248.62969970703125
+        },
+        {
+            "docid": "514355_2",
+            "document": "Rod cell . Rod cells are photoreceptor cells in the retina of the eye that can function in less intense light than the other type of visual photoreceptor, cone cells. Rods are usually found concentrated at the outer edges of the retina and are used in peripheral vision. On average, there are approximately 90 million rod cells in the human retina. Rod cells are more sensitive than cone cells and are almost entirely responsible for night vision. However, rods have little role in color vision, which is the main reason why colors are much less apparent in dim light, and not at all at night.",
+            "score": 240.88037109375
+        },
+        {
+            "docid": "22483_86",
+            "document": "Optics . There are two types of photoreceptor cells, rods and cones, which are sensitive to different aspects of light. Rod cells are sensitive to the intensity of light over a wide frequency range, thus are responsible for black-and-white vision. Rod cells are not present on the fovea, the area of the retina responsible for central vision, and are not as responsive as cone cells to spatial and temporal changes in light. There are, however, twenty times more rod cells than cone cells in the retina because the rod cells are present across a wider area. Because of their wider distribution, rods are responsible for peripheral vision.",
+            "score": 238.45867919921875
+        },
+        {
+            "docid": "22483_87",
+            "document": "Optics . In contrast, cone cells are less sensitive to the overall intensity of light, but come in three varieties that are sensitive to different frequency-ranges and thus are used in the perception of colour and photopic vision. Cone cells are highly concentrated in the fovea and have a high visual acuity meaning that they are better at spatial resolution than rod cells. Since cone cells are not as sensitive to dim light as rod cells, most night vision is limited to rod cells. Likewise, since cone cells are in the fovea, central vision (including the vision needed to do most reading, fine detail work such as sewing, or careful examination of objects) is done by cone cells.",
+            "score": 237.59083557128906
+        },
+        {
+            "docid": "252035_12",
+            "document": "Macula of retina . In details, the normal human eye contains three different types of cones, with different ranges of spectral sensitivity. The brain combines the signals from neighboring cones to distinguish different colors. There is only one type of rod, but the rods are more sensitive than the cones, so in dim light they are the dominant photoreceeptors active, and without information provided by the separate spectral sensitivity of the cones it is impossible to discriminate colors. In the fovea \"centralis\", cones predominate, and are present at high density. The macula is thus responsible for the central, high-resolution, color vision that is possible in good light; and this kind of vision is impaired if the macula is damaged, for example in macular degeneration.",
+            "score": 235.2025146484375
+        },
+        {
+            "docid": "514355_18",
+            "document": "Rod cell . A rod cell is sensitive enough to respond to a single photon of light and is about 100 times more sensitive to a single photon than cones. Since rods require less light to function than cones, they are the primary source of visual information at night (scotopic vision). Cone cells, on the other hand, require tens to hundreds of photons to become activated. Additionally, multiple rod cells converge on a single interneuron, collecting and amplifying the signals. However, this convergence comes at a cost to visual acuity (or image resolution) because the pooled information from multiple cells is less distinct than it would be if the visual system received information from each rod cell individually. Rod cells also respond slower to light than cones and the stimuli they receive are added over roughly 100 milliseconds. While this makes rods more sensitive to smaller amounts of light, it also means that their ability to sense temporal changes, such as quickly changing images, is less accurate than that of cones.",
+            "score": 230.59375
+        },
+        {
+            "docid": "534710_3",
+            "document": "Cone cell . Cones are less sensitive to light than the rod cells in the retina (which support vision at low light levels), but allow the perception of color. They are also able to perceive finer detail and more rapid changes in images, because their response times to stimuli are faster than those of rods. Cones are normally one of the three types, each with different pigment, namely: S-cones, M-cones and L-cones. Each cone is therefore sensitive to visible wavelengths of light that correspond to short-wavelength, medium-wavelength and long-wavelength light. Because humans usually have three kinds of cones with different photopsins, which have different response curves and thus respond to variation in color in different ways, we have trichromatic vision. Being color blind can change this, and there have been some verified reports of people with four or more types of cones, giving them tetrachromatic vision. The three pigments responsible for detecting light have been shown to vary in their exact chemical composition due to genetic mutation; different individuals will have cones with different color sensitivity. Destruction of the cone cells from disease would result in color blindness.",
+            "score": 230.39012145996094
+        },
+        {
+            "docid": "19274237_24",
+            "document": "Mammalian eye . The differences between rods and cones are useful; apart from enabling sight in both dim and light conditions, they have further advantages. The fovea, directly behind the lens, consists of mostly densely packed cone cells. The fovea gives humans a highly detailed central vision, allowing reading, bird watching, or any other task which primarily requires staring at things. Its requirement for high intensity light does cause problems for astronomers, as they cannot see dim stars, or other celestial objects, using central vision because the light from these is not enough to stimulate cone cells. Because cone cells are all that exist directly in the fovea, astronomers have to look at stars through the \"corner of their eyes\" (averted vision) where rods also exist, and where the light \"is\" sufficient to stimulate cells, allowing an individual to observe faint objects.",
+            "score": 229.53602600097656
+        },
+        {
+            "docid": "16176078_26",
+            "document": "Cat health . The retina, a thin layer of tissue in the back of the eye, is the structure affected by this disorder. This structure receives the light gathered and focused from the lens. It essentially take light and converts it into electrical nerve signals that the brain interprets as vision. The retina contains rods and cones which are photo-receptors that help the animal see (rods) and see certain colours (cones).",
+            "score": 228.5926971435547
+        },
+        {
+            "docid": "534710_2",
+            "document": "Cone cell . Cone cells, or cones, are one of three types of photoreceptor cells in the retina of mammalian eyes (e.g. the human eye). They are responsible for color vision and function best in relatively bright light, as opposed to rod cells, which work better in dim light. Cone cells are densely packed in the fovea centralis, a 0.3\u00a0mm diameter rod-free area with very thin, densely packed cones which quickly reduce in number towards the periphery of the retina. There are about six to seven million cones in a human eye and are most concentrated towards the macula. The commonly cited figure of six million cone cells in the human eye was found by Osterberg in 1935. Oyster's textbook (1999) cites work by Curcio et al. (1990) indicating an average close to 4.5 million cone cells and 90 million rod cells in the human retina.",
+            "score": 228.39620971679688
+        },
+        {
+            "docid": "23416874_9",
+            "document": "Sense . Sight or vision (adjectival form: visual/optical) is the capability of the eye(s) to focus and detect images of visible light on photoreceptors in the retina of each eye that generates electrical nerve impulses for varying colors, hues, and brightness. There are two types of photoreceptors: rods and cones. Rods are very sensitive to light, but do not distinguish colors. Cones distinguish colors, but are less sensitive to dim light. There is some disagreement as to whether this constitutes one, two or three senses. Neuroanatomists generally regard it as two senses, given that different receptors are responsible for the perception of color and brightness. Some argue that stereopsis, the perception of depth using both eyes, also constitutes a sense, but it is generally regarded as a cognitive (that is, post-sensory) function of the visual cortex of the brain where patterns and objects in images are recognized and interpreted based on previously learned information. This is called visual memory.",
+            "score": 228.07960510253906
+        },
+        {
+            "docid": "55932268_31",
+            "document": "Cat cognitive support diets . The retina, a thin layer of tissue in the back of the eye, is the structure affected by this disorder. This structure receives the light gathered and focused from the lens. It essentially take light and converts it into electrical nerve signals that the brain interprets as vision. The retina contains rods and cones which are photo-receptors that help the animal see (rods) and see certain colours (cones).",
+            "score": 226.8943634033203
+        },
+        {
+            "docid": "33193162_8",
+            "document": "Vision in fishes . Within the retina, rod cells provide high visual sensitivity (at the cost of acuity), being used in low light conditions. Cone cells provide higher spatial and temporal resolution than rods can, and allow for the possibility of colour vision by comparing absorbances across different types of cones which are more sensitive to different wavelengths. The ratio of rods to cones depends on the ecology of the fish species concerned, \"e.g.\", those mainly active during the day in clear waters will have more cones than those living in low light environments. Colour vision is more useful in environments with a broader range of wavelengths available, \"e.g.\", near the surface in clear waters rather than in deeper water where only a narrow band of wavelengths persist.",
+            "score": 226.68455505371094
+        },
+        {
+            "docid": "162843_5",
+            "document": "Color television . The human eye's detection system, which is in the retina consists primarily of two types of light detectors: rod cells that capture light, dark, and shapes/figures, and the cone cells that detect color. A typical retina contains 120 million rods and 4.5 million to 6 million cones, which are divided among three groups that are sensitive to red, green, and blue light. This means that the eye has far more resolution in brightness, or \"luminance\", than in color. However, post-processing of the optic nerve and other portions of the human visual system combine the information from the rods and cones to re-create what appears to be a high-resolution color image.",
+            "score": 220.35720825195312
+        },
+        {
+            "docid": "6678_32",
+            "document": "Cat . Cats have excellent night vision and can see at only one-sixth the light level required for human vision. This is partly the result of cat eyes having a tapetum lucidum, which reflects any light that passes through the retina back into the eye, thereby increasing the eye's sensitivity to dim light. Another adaptation to dim light is the large pupils of cats' eyes. Unlike some big cats, such as tigers, domestic cats have slit pupils. These slit pupils can focus bright light without chromatic aberration, and are needed since the domestic cat's pupils are much larger, relative to their eyes, than the pupils of the big cats. At low light levels, a cat's pupils will expand to cover most of the exposed surface of its eyes. However, domestic cats have rather poor color vision and (like most nonprimate mammals) have only two types of cones, optimized for sensitivity to blue and yellowish green; they have limited ability to distinguish between red and green. A 1993 paper reported a response to middle wavelengths from a system other than the rods which might be due to a third type of cone. However, this appears to be an adaptation to low light levels rather than representing true trichromatic vision.",
+            "score": 220.32789611816406
+        },
+        {
+            "docid": "8497569_2",
+            "document": "Dark adaptation threshold . Dark Adaptation Threshold (DAT) is a vision test that measures the adjustment of the eye occurring under low levels of illumination. When light enters the eye, it ultimately reaches the rods and cones, which are two types of cells in the retina. Rods handle vision in low light conditions and cones handle color vision and detail. The rods and cones each react differently during the DAT test, and are measured on a graph. The test determines the threshold, or minimum light intensity required to produce a visual sensation in the child's eye. In order to perform this test, the child is asked to sit in the dark for a half-hour. This allows the eyes to be most sensitive for the test. Once the eyes have fully adapted, the child stands in front of a black projection screen. Dim spots of light are projected onto the screen, one at a time, on either the right or the left side. The spots get dimmer as the test goes on. The child is asked to point to the spots until he or she can no longer distinguish them. In order to keep the child's attention on the screen, sometimes the doctor will wave a brighter light on the screen to hold the child's interest when the test becomes harder to see. When an infant is being tested, an observer with a night vision camera records the head and eye movements of the child as they look at the spots. Once the patient can no longer see the spots, the dark adapted threshold is determined. The DAT test lasts for about 10 to 15 minutes.",
+            "score": 220.0834197998047
+        },
+        {
+            "docid": "48334_3",
+            "document": "Retina . The retina consists of several layers of neurons interconnected by synapses. The neural retina refers to the three layers of neural cells (photo receptor cells, bipolar cells, and ganglion cells) within the retina, which in its entirety comprises ten distinct layers, including an outer layer of pigmented epithelial cells. The only neural cells that are directly sensitive to light are the photoreceptor cells, which are of two types: rods and cones. Rods function mainly in dim light and provide black-and-white vision while cones are responsible for the perception of colour. A third type of photoreceptor, the photosensitive ganglion cells, is important for entrainment and reflexive responses to the brightness of light.",
+            "score": 219.5366973876953
+        },
+        {
+            "docid": "14575800_7",
+            "document": "OPN1LW . LWS opsin resides in disks of the outer segment of LWS cone cells, which mediate photopic vision along with MWS and SWS cones. Cone representation in the retina is substantially smaller than rod representation, with the majority of cones localizing in the fovea. When light within the LWS opsin spectral range reaches the retina, the 11-\"cis\"-retinal chromophore within the opsin protein becomes excited. This excitation causes a conformational change in the protein and triggers a series of chemical reactions. This reaction series passes from the LWS cone cells into horizontal cells, bipolar cells, amacrine cells, and finally ganglion cells before continuing to the brain via the optic nerve. Ganglion cells compile the signal from the LWS cones with all other cone signals that occurred in response to the light that was seen, and pass the overall signal into the optic nerve. The cones themselves do not process colour, it is the brain that decides what colour is being seen by the signal combination it receives from the ganglion cells.",
+            "score": 219.27928161621094
+        },
+        {
+            "docid": "48334_30",
+            "document": "Retina . The cones respond to bright light and mediate high-resolution colour vision during daylight illumination (also called photopic vision). The rods are saturated at daylight levels and don't contribute to pattern vision. However, rods do respond to dim light and mediate lower-resolution, monochromatic vision under very low levels of illumination (called scotopic vision). The illumination in most office settings falls between these two levels and is called mesopic vision. At mesopic light levels, both the rods and cones are actively contributing pattern information. What contribution the rod information makes to pattern vision under these circumstances is unclear.",
+            "score": 219.15444946289062
+        },
+        {
+            "docid": "18416476_19",
+            "document": "Bird vision . There are two sorts of light receptors in a bird\u2019s eye, rods and cones. Rods, which contain the visual pigment rhodopsin are better for night vision because they are sensitive to small quantities of light. Cones detect specific colours (or wavelengths) of light, so they are more important to colour-orientated animals such as birds. Most birds are tetrachromatic, possessing four types of cone cells each with a distinctive maximal absorption peak. In some birds, the maximal absorption peak of the cone cell responsible for the shortest wavelength extends to the ultraviolet (UV) range, making them UV-sensitive. In addition to that, the cones at bird's retina are arranged in a characteristic form of spatial distribution, known as hyperuniform distribution, which maximizes its light and color absorption. This form of spatial distributions are only observed as a result of some optimization process, which in this case can be described in terms of bird's evolutionary history.",
+            "score": 218.44729614257812
+        },
+        {
+            "docid": "33777_28",
+            "document": "Whale . The whale eye is relatively small for its size, yet they do retain a good degree of eyesight. As well as this, the eyes of a whale are placed on the sides of its head, so their vision consists of two fields, rather than a binocular view like humans have. When belugas surface, their lens and cornea correct the nearsightedness that results from the refraction of light; they contain both rod and cone cells, meaning they can see in both dim and bright light, but they have far more rod cells than they do cone cells. Whales do, however, lack short wavelength sensitive visual pigments in their cone cells indicating a more limited capacity for colour vision than most mammals. Most whales have slightly flattened eyeballs, enlarged pupils (which shrink as they surface to prevent damage), slightly flattened corneas and a tapetum lucidum; these adaptations allow for large amounts of light to pass through the eye and, therefore, a very clear image of the surrounding area. They also have glands on the eyelids and outer corneal layer that act as protection for the cornea.",
+            "score": 218.32081604003906
+        },
+        {
+            "docid": "9061_22",
+            "document": "Dolphin . The dolphin eye is relatively small for its size, yet they do retain a good degree of eyesight. As well as this, the eyes of a dolphin are placed on the sides of its head, so their vision consists of two fields, rather than a binocular view like humans have. When dolphins surface, their lens and cornea correct the nearsightedness that results from the refraction of light; they contain both rod and cone cells, meaning they can see in both dim and bright light, but they have far more rod cells than they do cone cells. Dolphins do, however, lack short wavelength sensitive visual pigments in their cone cells indicating a more limited capacity for color vision than most mammals. Most dolphins have slightly flattened eyeballs, enlarged pupils (which shrink as they surface to prevent damage), slightly flattened corneas and a tapetum lucidum; these adaptations allow for large amounts of light to pass through the eye and, therefore, a very clear image of the surrounding area. They also have glands on the eyelids and outer corneal layer that act as protection for the cornea.",
+            "score": 216.1365509033203
+        },
+        {
+            "docid": "1887433_5",
+            "document": "Visual phototransduction . The photoreceptor cells involved in vision are the rods and cones. These cells contain a chromophore (11-cis retinal, the aldehyde of Vitamin A1 and light-absorbing portion) bound to cell membrane protein, opsin. Rods deal with low light level and do not mediate color vision. Cones, on the other hand, can code the color of an image through comparison of the outputs of the three different types of cones. Each cone type responds best to certain wavelengths, or colors, of light because each type has a slightly different opsin. The three types of cones are L-cones, M-cones and S-cones that respond optimally to long wavelengths (reddish color), medium wavelengths (greenish color), and short wavelengths (bluish color) respectively. Humans have a trichromatic visual system consisting of three unique systems, rods, mid and long-wavelength sensitive (red and green) cones and short wavelength sensitive (blue) cones.",
+            "score": 215.65574645996094
+        },
+        {
+            "docid": "554130_2",
+            "document": "Adaptation (eye) . In ocular physiology, adaptation is the ability of the eye to adjust to various levels of light. Natural night vision, or scotopic vision, is the ability to see under low-light conditions. In humans, rod cells are exclusively responsible for night vision as cone cells are only able to function at higher illumination levels. Night vision is of a much poorer quality than day vision because it is limited by a reduced resolution and therefore provides the ability to only discriminate between shades of black and white. In order for humans to transition from day to night vision they must undergo a dark adaptation period in which each eye adjusts from a high luminescence setting to a low luminescence setting. This adaptation period is different for both rod and cone cells and results from the regeneration of photopigments to restore retinal sensitivity.",
+            "score": 214.42034912109375
+        },
+        {
+            "docid": "534710_12",
+            "document": "Cone cell . The color yellow, for example, is perceived when the L cones are stimulated slightly more than the M cones, and the color red is perceived when the L cones are stimulated significantly more than the M cones. Similarly, blue and violet hues are perceived when the S receptor is stimulated more. Cones are most sensitive to light at wavelengths around 420\u00a0nm. However, the lens and cornea of the human eye are increasingly absorptive to shorter wavelengths, and this sets the short wavelength limit of human-visible light to approximately 380\u00a0nm, which is therefore called 'ultraviolet' light. People with aphakia, a condition where the eye lacks a lens, sometimes report the ability to see into the ultraviolet range. At moderate to bright light levels where the cones function, the eye is more sensitive to yellowish-green light than other colors because this stimulates the two most common (M and L) of the three kinds of cones almost equally. At lower light levels, where only the rod cells function, the sensitivity is greatest at a blueish-green wavelength.",
+            "score": 213.16831970214844
+        },
+        {
+            "docid": "19274237_21",
+            "document": "Mammalian eye . In the human eye, light enters the pupil and is focused on the retina by the lens. Light-sensitive nerve cells called rods (for brightness), cones (for color) and non-imaging ipRGC (intrinsincally photosensitive retinal ganglion cells) react to the light. They interact with each other and send messages to the brain. The rods and cones enable vision. The ipRGCs enable entrainment to the Earth's 24-hour cycle, resizing of the pupil and acute suppression of the pineal hormone melatonin.",
+            "score": 211.87985229492188
+        },
+        {
+            "docid": "54204162_6",
+            "document": "Eccentricity effect . Retinal eccentricity is when objects projected directly onto the fovea are the sharpest, while those further out in the periphery of the retina become steadily less focused. This is due to the distribution of cones and rods throughout the retina. When we view an image, light passes through the cornea, and through the pupil, which is controlled by the iris. It then passes through the lens and is projected onto the retina at the back of the eye. In the middle of the retina is the fovea, which contains a high concentration of cones. Cones are responsible for colour vision and have high spatial acuity, whereas rods are not. Rods are instead responsible for vision at lower light. Cones are much more sparsely located in the periphery of the retina, where there is instead a greater concentration of rods. When a central image is projected directly onto the fovea it is sharper and processed with greater speed and accuracy due to these cones, whereas images further in the periphery (greater eccentricity) are processed more slowly and less accurately.",
+            "score": 210.68267822265625
+        }
+    ]
+}

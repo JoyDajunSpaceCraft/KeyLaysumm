@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "1017131_3",
+            "document": "Retina bipolar cell . Bipolar cells are so-named as they have a central body from which two sets of processes arise. They can synapse with either rods or cones (rod/cone mixed input BCs have been found in teleost fish but not mammals), and they also accept synapses from horizontal cells. The bipolar cells then transmit the signals from the photoreceptors or the horizontal cells, and pass it on to the ganglion cells directly or indirectly (via amacrine cells). Unlike most neurons, bipolar cells communicate via graded potentials, rather than action potentials.",
+            "score": 219.5442932844162
+        },
+        {
+            "docid": "401150_15",
+            "document": "Photoreceptor cell . The process of phototransduction occurs in the retina. The retina has many layers of various cell types. The best-known photoreceptor cells (\"rods\" and \"cones\") form the outermost layer. They are the photoreceptors responsible for sight. The middle layer contains bipolar cells, which collect neural signals from the rods and the cones and then transmit them to the innermost layer of the retina, where the neurons called retinal ganglion cells (RGCs), a small percentage of which are themselves photosensitive, organize the signals and send them to the brain.",
+            "score": 231.81157684326172
+        },
+        {
+            "docid": "531587_16",
+            "document": "Depolarization . The importance and versatility of depolarization within cells can be seen in the relationship between rod cells in the eye and their associated neurons. When rod cells are in the dark, they are depolarized. In the rod cells, this depolarization is maintained by ion channels that remain open due to the higher voltage of the rod cell in the depolarized state. The ion channels allow calcium and sodium to pass freely into the cell, maintaining the depolarized state. Rod cells in the depolarized state constantly release neurotransmitters which in turn stimulate the nerves associated with rod cells. This cycle is broken when rod cells are exposed to light; the absorption of light by the rod cell causes the channels that had facilitated the entry of sodium and calcium into the rod cell to close. When these channels close, the rod cell produces less neurotransmitter, which is perceived by the brain as light. In the case of rod cells and neurons, depolarization actually prevents a signal from reaching the brain as opposed to stimulating the transmission of the signal.",
+            "score": 203.95307838916779
+        },
+        {
+            "docid": "401150_35",
+            "document": "Photoreceptor cell . A non-rod non-cone photoreceptor in the eyes of mice, which was shown to mediate circadian rhythms, was discovered in 1991 by Foster \"et al.\" These neuronal cells, called intrinsically photosensitive retinal ganglion cells (ipRGC), are a small subset (\u22481\u20133%) of the retinal ganglion cells located in the inner retina, that is, in front of the rods and cones located in the outer retina. These light sensitive neurons contain a photopigment, melanopsin, which has an absorption peak of the light at a different wavelength (\u2248480\u00a0nm) than rods and cones. Beside circadian / behavioral functions, ipRGCs have a role in initiating the pupillary light reflex.",
+            "score": 182.6929485797882
+        },
+        {
+            "docid": "941909_11",
+            "document": "Receptive field . The receptive field is often identified as the region of the retina where the action of light alters the firing of the neuron. In retinal ganglion cells (see below), this area of the retina would encompass all the photoreceptors, all the rods and cones from one eye that are connected to this particular ganglion cell via bipolar cells, horizontal cells, and amacrine cells. In binocular neurons in the visual cortex, it is necessary to specify the corresponding area in both retinas (one in each eye). Although these can be mapped separately in each retina by shutting one or the other eye, the full influence on the neuron's firing is revealed only when both eyes are open.",
+            "score": 192.30414295196533
+        },
+        {
+            "docid": "33438935_25",
+            "document": "Hydrodynamic reception . Using these push-rods in combination with electroreceptors, also on the bill, allows the platypus to find prey with its eyes closed. While researchers initially believed that the push-rods could only function when something is in contact with the bill (implicating their use for a tactile sense), it is now believed that they can also be used at a distance to detect hydrodynamic stimuli. The information from push-rods and electroreceptors combine in the somatosensory cortex in a structure with stripes similar to the ocular dominance columns for vision. In the third layer of this structure, sensory inputs from push-rods and electroreceptors may combine so that the platypus can use the time difference between arrival of each type of signal at the bill (with hydrodynamic stimuli arriving after electrical signals) to determine the location of prey. That is, different cortical neurons could encode the delay between detection of electrical and hydrodynamic stimuli. However, a specific neural mechanism for this is not yet known.",
+            "score": 113.67943346500397
+        },
+        {
+            "docid": "21120_2",
+            "document": "Neuron . A neuron, also known as a neurone (British spelling) and nerve cell, is an electrically excitable cell that receives, processes, and transmits information through electrical and chemical signals. These signals between neurons occur via specialized connections called synapses. Neurons can connect to each other to form neural circuits. Neurons are the primary components of the central nervous system, which includes the brain and spinal cord, and of the peripheral nervous system, which comprises the autonomic nervous system and the somatic nervous system.",
+            "score": 150.7948784828186
+        },
+        {
+            "docid": "42073672_46",
+            "document": "Neuronal self-avoidance . Considering that \"Dscam\" and \"Dscaml1\" have non-overlapping expression patterns in the mouse retina, with \"Dscam\" being expressed in a subset of amacrine cells and most retinal ganglion cells (RGC) and \"Dscaml1\" expressed in the rod circuit, Fuerst et al. (2009) examined retinal ganglion cell populations in \"Dscam\" mice and, in addition, assessed retinal anatomy in the rod circuit using a gene-trap-knockout allele of \"Dscaml1\". In the absence of either gene, the cells that would normally express it showed excessive fasciculation of their dendrites and clumping of their cell bodies. These findings led to the conclusion that \"Dscam\" and \"Dscaml1\" prevent excessive adhesion, primarily by masking cell-type-specific adhesive interactions between dendrites of the same cell class, rather than actively promoting repulsion between them. Thus, in the absence of diversity, mammalian DSCAMs do not provide cells with the ability to distinguish between their own processes and the processes of all other cells, including processes from cells of the same type. Instead, DSCAM acts to negate cell-type-specific interactions that are promoted by other recognition molecules.",
+            "score": 162.25334560871124
+        },
+        {
+            "docid": "1110766_13",
+            "document": "Melanopsin . When light enters the eye, ipRGCs discharge nerve impulses. These neuronal electrical signals travel through neuronal axons to specific brain targets, such as the center of pupillary control called the olivary pretectal nucleus (OPN) of the midbrain. Consequently, stimulation of melanopsin contributes to the regulation of behavioral responses to light, such as pupil size and melatonin release from the pineal gland. The ipRGCs in the mammalian retina form the retinohypothalamic tract that projects to the suprachiasmatic nucleus (SCN), a region of the brain in the hypothalamus which is considered the master pacemaker of circadian rhythms. The retinohypothalamic tract also receives input from rods and cones. Thus, information from all three opsins in the mammalian retina integrate before transmission to the SCN.",
+            "score": 141.9200360774994
+        },
+        {
+            "docid": "401150_4",
+            "document": "Photoreceptor cell . There are major functional differences between the rods and cones. Rods are extremely sensitive, and can be triggered by a single photon. At very low light levels, visual experience is based solely on the rod signal. This explains why colors cannot be seen at low light levels: only one type of photoreceptor cell is active.",
+            "score": 201.46131944656372
+        },
+        {
+            "docid": "554130_17",
+            "document": "Adaptation (eye) . Inhibition by neurons also affects activation in synapses. Together with the bleaching of a rod or cone pigment, merging of signals on ganglion cells are inhibited, reducing convergence. Alpha adaptation, \"i.e.\", rapid sensitivity fluctuations, is powered by nerve control. The merging of signals by virtue of the diffuse ganglion cells, as well as horizontal and amacrine cells, allow a cumulative effect. Thus that area of stimulation is inversely proportional to intensity of light, a strong stimulus of 100 rods equivalent to a weak stimulus of 1,000 rods.",
+            "score": 202.8669717311859
+        },
+        {
+            "docid": "21245_12",
+            "document": "Neuroscience . The scientific study of the nervous system has increased significantly during the second half of the twentieth century, principally due to advances in molecular biology, electrophysiology, and computational neuroscience. This has allowed neuroscientists to study the nervous system in all its aspects: how it is structured, how it works, how it develops, how it malfunctions, and how it can be changed. For example, it has become possible to understand, in much detail, the complex processes occurring within a single neuron. Neurons are cells specialized for communication. They are able to communicate with neurons and other cell types through specialized junctions called synapses, at which electrical or electrochemical signals can be transmitted from one cell to another. Many neurons extrude a long thin filament of axoplasm called an axon, which may extend to distant parts of the body and are capable of rapidly carrying electrical signals, influencing the activity of other neurons, muscles, or glands at their termination points. A nervous system emerges from the assemblage of neurons that are connected to each other.",
+            "score": 145.69306528568268
+        },
+        {
+            "docid": "4455796_6",
+            "document": "Lateral inhibition . Lateral inhibition increases the contrast and sharpness in visual response. This phenomenon already occurs in the mammalian retina. In the dark, a small light stimulus will enhance the different photoreceptors (rod cells). The rods in the center of the stimulus will transduce the \"light\" signal to the brain, whereas different rods on the outside of the stimulus will send a \"dark\" signal to the brain due to lateral inhibition from horizontal cells. This contrast between the light and dark creates a sharper image. (Compare unsharp masking in digital processing). This mechanism also creates the Mach band visual effect.",
+            "score": 166.29193663597107
+        },
+        {
+            "docid": "1017131_6",
+            "document": "Retina bipolar cell . Rod bipolar cells do not synapse directly on to ganglion cells. Instead, rod bipolar cells synapse on to a Retina amacrine cell, which in turn excite cone ON bipolar cells (via gap junctions) and inhibit cone OFF bipolar cells (via glycine-mediated inhibitory synapses) thereby overtaking the cone pathway in order to send signals to ganglion cells at scotopic (low) ambient light conditions.",
+            "score": 213.18290519714355
+        },
+        {
+            "docid": "33193162_7",
+            "document": "Vision in fishes . Once light passes through the lens it is transmitted through a transparent liquid medium until it reaches the retina, containing the photoreceptors. Like other vertebrates, the photoreceptors are on the inside layer so light must pass through layers of other neurons before it reaches them. The retina contains rod cells and cone cells.",
+            "score": 149.74813842773438
+        },
+        {
+            "docid": "2565082_2",
+            "document": "Intrinsically photosensitive retinal ganglion cells . Intrinsically photosensitive retinal ganglion cells (ipRGCs), also called photosensitive retinal ganglion cells (pRGC), or melanopsin-containing retinal ganglion cells (mRGCs), are a type of neuron in the retina of the mammalian eye. The presence of ipRGCs were first noted in 1923 when rodless, coneless mice still responded to a light stimulus through pupil constriction, suggesting that rods and cones are not the only light sensitive neurons in the retina. It wasn't until the 1980s that advancements in research on these cells began. Recent research has shown that these retinal ganglion cells, unlike other retinal ganglion cells, are intrinsically photosensitive due to the presence of melanopsin, a light sensitive protein. Therefore they constitute a third class of photoreceptors, in addition to rod and cone cells.",
+            "score": 176.83700037002563
+        },
+        {
+            "docid": "305136_18",
+            "document": "Visual system . In the retina, the photoreceptors synapse directly onto bipolar cells, which in turn synapse onto ganglion cells of the outermost layer, which will then conduct action potentials to the brain. A significant amount of visual processing arises from the patterns of communication between neurons in the retina. About 130 million photo-receptors absorb light, yet roughly 1.2 million axons of ganglion cells transmit information from the retina to the brain. The processing in the retina includes the formation of center-surround receptive fields of bipolar and ganglion cells in the retina, as well as convergence and divergence from photoreceptor to bipolar cell. In addition, other neurons in the retina, particularly horizontal and amacrine cells, transmit information laterally (from a neuron in one layer to an adjacent neuron in the same layer), resulting in more complex receptive fields that can be either indifferent to color and sensitive to motion or sensitive to color and indifferent to motion.",
+            "score": 210.50179386138916
+        },
+        {
+            "docid": "514355_6",
+            "document": "Rod cell . In vertebrates, activation of a photoreceptor cell is a hyperpolarization (inhibition) of the cell. When they are not being stimulated, such as in the dark, rod cells and cone cells depolarize and release a neurotransmitter spontaneously. This neurotransmitter hyperpolarizes the bipolar cell. Bipolar cells exist between photoreceptors and ganglion cells and act to transmit signals from the photoreceptors to the ganglion cells. As a result of the bipolar cell being hyperpolarized, it does not release its transmitter at the bipolar-ganglion synapse and the synapse is not excited.",
+            "score": 244.13308119773865
+        },
+        {
+            "docid": "22671435_9",
+            "document": "Retinal degeneration (rhodopsin mutation) . Rhodopsin is a transmembrane protein (Rh1) that is the primary visual pigment (photopigment) of rod photoreceptors (which are the only cells in the retina to express rhodopsin and which express it as their most abundant protein) and forms an integral part of the visual cascade. It is a G-protein-coupled receptor activated by light that initiates the phototransduction cascade (visual transduction cascade taking place in photoreceptor rod outer segments.) converting light signals to electrophysiological signals in retinal neurons. This photo-activated signal transduction process is essential for vision.",
+            "score": 165.50314664840698
+        },
+        {
+            "docid": "48334_3",
+            "document": "Retina . The retina consists of several layers of neurons interconnected by synapses. The neural retina refers to the three layers of neural cells (photo receptor cells, bipolar cells, and ganglion cells) within the retina, which in its entirety comprises ten distinct layers, including an outer layer of pigmented epithelial cells. The only neural cells that are directly sensitive to light are the photoreceptor cells, which are of two types: rods and cones. Rods function mainly in dim light and provide black-and-white vision while cones are responsible for the perception of colour. A third type of photoreceptor, the photosensitive ganglion cells, is important for entrainment and reflexive responses to the brightness of light.",
+            "score": 194.57743096351624
+        },
+        {
+            "docid": "160519_14",
+            "document": "Medium frequency . Receiving antennas do not have to be as efficient as transmitting antennas since in this band the signal to noise ratio is determined by atmospheric noise. The noise floor in the receiver is far below the noise in the signal, so antennas small in comparison to the wavelength, which are inefficient and produce low signal strength, can be used. The most common receiving antenna is the ferrite loopstick antenna (also known as a \"ferrite rod aerial\"), made from a ferrite rod with a coil of fine wire wound around it. This antenna is small enough that it is usually enclosed inside the radio case. In addition to their use in AM radios, ferrite antennas are also used in portable radio direction finder (RDF) receivers. The ferrite rod antenna has a dipole reception pattern with sharp nulls along the axis of the rod, so that reception is at its best when the rod is at right angles to the transmitter, but fades to nothing when the rod points exactly at the transmitter. Other types of loop antennas and random wire antennas are also used.",
+            "score": 127.1820957660675
+        },
+        {
+            "docid": "569444_4",
+            "document": "Transduction (physiology) . In the visual system, sensory cells called rod and cone cells in the retina convert the physical energy of light signals into electrical impulses that travel to the brain. The light causes a conformational change in a protein called rhodopsin. This conformational change sets in motion a series of molecular events that result in a reduction of the electrochemical gradient of the photoreceptor. The decrease in the electrochemical gradient causes a reduction in the electrical signals going to the brain. Thus, in this example, more light hitting the photoreceptor results in the transduction of a signal into fewer electrical impulses, effectively communicating that stimulus to the brain. A change in neurotransmitter release is mediated through a second messenger system. Note that the change in neurotransmitter release is by rods. Because of the change, a change in light intensity causes the response of the rods to be much slower than expected (for a process associated with the nervous system).",
+            "score": 202.1099922657013
+        },
+        {
+            "docid": "4455796_8",
+            "document": "Lateral inhibition . This excitatory signal, however, will only be transmitted by the rod cells in the center of the Ganglion cell receptive field to ganglion cells because horizontal cells respond by sending an inhibitory signal to the neighboring rods to create a balance that allows mammals to perceive more vivid images. The central rod will send the light signals directly to bipolar cells which in turn will relay the signal to the ganglion cells. Amacrine cells also produce lateral inhibition to bipolar cells and ganglion cells to perform various visual computations including image sharpening. The final visual signals will be sent to the thalamus and cerebral cortex, where additional lateral inhibition occurs.",
+            "score": 183.24058508872986
+        },
+        {
+            "docid": "20510214_7",
+            "document": "Activity-dependent plasticity . Neurons are the basic functional unit of the brain and process and transmit information through signals. Many different types of neurons can be identified based on their function, such as sensory neurons or motor neurons. Each responds to specific stimuli and sends respective and appropriate chemical signals to other neurons. The basic structure of a neuron is shown here on the right and consists of a nucleus that contains genetic information; the cell body, or the soma, which is equipped with dendritic branches that mostly receive the incoming inputs from other neurons; a long, thin axon that bears axon terminals which carry the output information to other neurons. The dendrites and axons are interfaced through a small connection called a synapse. This component of the neuron contains a variety of chemical messengers and proteins that allow for the transmission of information. It is the variety of proteins and affect of the signal that fundamentally lead to the plasticity feature.",
+            "score": 141.16007041931152
+        },
+        {
+            "docid": "8131_4",
+            "document": "Dendrite . Dendrites are one of two types of protoplasmic protrusions that extrude from the cell body of a neuron, the other type being an axon. Axons can be distinguished from dendrites by several features including shape, length, and function. Dendrites often taper off in shape and are shorter, while axons tend to maintain a constant radius and be relatively long. Typically, axons transmit electrochemical signals and dendrites receive the electrochemical signals, although some types of neurons in certain species lack axons and simply transmit signals via their dendrites. Dendrites provide an enlarged surface area to receive signals from the terminal buttons of other axons, and the axon also commonly divides at its far end into many branches (telodendria) each of which ends in a nerve terminal, allowing a chemical signal to pass simultaneously to many target cells. Typically, when an electrochemical signal stimulates a neuron, it occurs at a dendrite and causes changes in the electrical potential across the neuron\u2019s plasma membrane. This change in the membrane potential will passively spread across the dendrite but becomes weaker with distance without an action potential. An action potential propagates the electrical activity along the membrane of the neuron's dendrites to the cell body and then afferently down the length of the axon to the axon terminal, where it triggers the release of neurotransmitters into the synaptic cleft. However, synapses involving dendrites can also be axodendritic, involving an axon signaling to a dendrite, or dendrodendritic, involving signaling between dendrites. An autapse is a synapse in which the axon of one neuron transmits signals to its own dendrites.",
+            "score": 149.17370855808258
+        },
+        {
+            "docid": "19274237_26",
+            "document": "Mammalian eye . Differences between the rhodopsin and the iodopsins is the reason why cones and rods enable organisms to see in dark and light conditions \u2014 each of the photoreceptor proteins requires a different light intensity to break down into the constituent products. Further, synaptic convergence means that several rod cells are connected to a single bipolar cell, which then connects to a single ganglion cell by which information is relayed to the visual cortex. This convergence is in direct contrast to the situation with cones, where each cone cell is connected to a single bipolar cell. This divergence results in the high visual acuity, or the high ability to distinguish detail, of cone cells compared to rods. If a ray of light were to reach just one rod cell, the cell's response may not be enough to hyperpolarize the connected bipolar cell. But because several \"converge\" onto a bipolar cell, enough transmitter molecules reach the synapses of the bipolar cell to hyperpolarize it.",
+            "score": 195.6404972076416
+        },
+        {
+            "docid": "2018673_2",
+            "document": "Retina horizontal cell . Horizontal cells are the laterally interconnecting neurons having cell bodies in the inner nuclear layer of the retina of vertebrate eyes. They help integrate and regulate the input from multiple photoreceptor cells. Among their functions, horizontal cells are responsible for allowing eyes to adjust to see well under both bright and dim light conditions. Horizontal cells provide inhibitory feedback to rod and cone photoreceptors.",
+            "score": 147.94317758083344
+        },
+        {
+            "docid": "801776_5",
+            "document": "Retinal ganglion cell . The six types of retinal neurons are bipolar cells, ganglion cells, horizontal cells, retina amacrine cells, and rod and cone photoreceptors.",
+            "score": 180.55124139785767
+        },
+        {
+            "docid": "8159922_5",
+            "document": "X-linked congenital stationary night blindness . CSNB was originally believed to be caused by malfunction in neurotransmission from rods to bipolar cells in the retina. This is due to electroretinogram (ERG) measurements on CSNB patients which show a drastic decrease in the size of the scotopic b-wave in comparison to the a-wave, in CSNB2, or a complete loss of both in CSNB1. The a-wave is believed to represent the response of rods to visual input and remains largely unchanged in CSNB2 patients. The b-wave, however, is believed to result from electrical activity of bipolar cells and is decreased or non-existent in both CSNB1 and 2. CSNB1 patients also show mildly altered cone activity. Further study has demonstrated that the defects found in CSNB patients are better explained by more general defects in both the rod and cone ON-signaling pathways.",
+            "score": 148.69780147075653
+        },
+        {
+            "docid": "1017131_2",
+            "document": "Retina bipolar cell . As a part of the retina, bipolar cells exist between photoreceptors (rod cells and cone cells) and ganglion cells. They act, directly or indirectly, to transmit signals from the photoreceptors to the ganglion cells.",
+            "score": 186.7989466190338
+        },
+        {
+            "docid": "37689509_4",
+            "document": "Neuroscience of rhythm . Circadian literally translates to \"about a day\" in Latin. This refers to the human 24-hour cycle of sleep and wakefulness. This cycle is driven by light. The human body must photoentrain or synchronize itself with light in order to make this happen. The rod cells are the photoreceptor cells in the retina capable of sensing light. However, they are not what sets the biological clock. The photosensitive retinal ganglion cells contain a pigment called melanopsin. This photopigment is depolarized in the presence of light, unlike the rods which are hyperpolarized. Melanopsin encodes the day-night cycle to the suprachiasmatic nucleus (SCN) via the retinohypothalamic tract. The SCN evokes a response from the spinal cord. Preganglionic neurons in the spinal cord modulate the superior cervical ganglia, which synapses on the pineal gland. The pineal gland synthesizes the neurohormone melatonin from tryptophan. Melatonin is secreted into the bloodstream where it affects neural activity by interacting with melatonin receptors on the SCN. The SCN is then able to influence the sleep wake cycle, acting as the \"apex of a hierarchy\" that governs physiological timing functions. \"Rest and sleep are the best example of self-organized operations within neuronal circuits\". Sleep and memory have been closely correlated for over a century. It seemed logical that the rehearsal of learned information during the day, such as in dreams, could be responsible for this consolidation. REM sleep was first studied in 1953. It was thought to be the sole contributor to memory due to its association with dreams. It has recently been suggested that if sleep and waking experience are found to be using the same neuronal content, it is reasonable to say that all sleep has a role in memory consolidation. This is supported by the rhythmic behavior of the brain. Harmonic oscillators have the capability to reproduce a perturbation that happened in previous cycles. It follows that when the brain is unperturbed, such as during sleep, it is in essence rehearsing the perturbations of the day. Recent studies have confirmed that off wave states, such as slow-wave sleep, play a part in consolidation as well as REM sleep. There have even been studies done implying that sleep can lead to insight or creativity. Jan Born, from the University of Lubeck, showed subjects a number series with a hidden rule. She allowed one group to sleep for three hours, while the other group stayed awake. The awake group showed no progress, while most of the group that was allowed to sleep was able to solve the rule. This is just one example of how rhythm could contribute to humans unique cognitive abilities.",
+            "score": 144.8988093137741
+        },
+        {
+            "docid": "24950378_10",
+            "document": "Cell\u2013cell interaction . Synaptic signaling, an integral part of nervous system activity, occurs between neurons and target cells. These target cells can also be neurons or other cell types (i.e. muscle or gland cells). Protocadherins, a member of the cadherin family, mediate the adhesion of neurons to their target cells at synapses otherwise known as synaptic junctions. In order to for communication to occur between a neuron and its target cell, a wave of depolarization travels the length of the neuron and causes neurotransmitters to be released into the synaptic junction. These neurotransmitters bind and activate receptors on the post-synaptic neuron thereby transmitting the signal to the target cell. Thus, a post-synaptic membrane belongs to the membrane receiving the signal, while a pre-synaptic membrane is the source of the neurotransmitter. In a neuromuscular junction, a synapse is formed between a motor neuron and muscle fibers. In vertebrates, acetylcholine released from the motor neuron acts as a neurotransmitter which depolarizes the muscle fiber and causes muscle contraction. A neuron\u2019s ability to receive and integrate simultaneous signals from the environment and other neurons allows for complex animal behavior.",
+            "score": 178.9348795413971
+        }
+    ],
+    "r": [
+        {
+            "docid": "514355_6",
+            "document": "Rod cell . In vertebrates, activation of a photoreceptor cell is a hyperpolarization (inhibition) of the cell. When they are not being stimulated, such as in the dark, rod cells and cone cells depolarize and release a neurotransmitter spontaneously. This neurotransmitter hyperpolarizes the bipolar cell. Bipolar cells exist between photoreceptors and ganglion cells and act to transmit signals from the photoreceptors to the ganglion cells. As a result of the bipolar cell being hyperpolarized, it does not release its transmitter at the bipolar-ganglion synapse and the synapse is not excited.",
+            "score": 244.13307189941406
+        },
+        {
+            "docid": "401150_15",
+            "document": "Photoreceptor cell . The process of phototransduction occurs in the retina. The retina has many layers of various cell types. The best-known photoreceptor cells (\"rods\" and \"cones\") form the outermost layer. They are the photoreceptors responsible for sight. The middle layer contains bipolar cells, which collect neural signals from the rods and the cones and then transmit them to the innermost layer of the retina, where the neurons called retinal ganglion cells (RGCs), a small percentage of which are themselves photosensitive, organize the signals and send them to the brain.",
+            "score": 231.8115692138672
+        },
+        {
+            "docid": "514355_7",
+            "document": "Rod cell . Activation of photopigments by light sends a signal by hyperpolarizing the rod cell, leading to the rod cell not sending its neurotransmitter, which leads to the bipolar cell then releasing its transmitter at the bipolar-ganglion synapse and exciting the synapse.",
+            "score": 221.8529815673828
+        },
+        {
+            "docid": "1017131_3",
+            "document": "Retina bipolar cell . Bipolar cells are so-named as they have a central body from which two sets of processes arise. They can synapse with either rods or cones (rod/cone mixed input BCs have been found in teleost fish but not mammals), and they also accept synapses from horizontal cells. The bipolar cells then transmit the signals from the photoreceptors or the horizontal cells, and pass it on to the ganglion cells directly or indirectly (via amacrine cells). Unlike most neurons, bipolar cells communicate via graded potentials, rather than action potentials.",
+            "score": 219.54429626464844
+        },
+        {
+            "docid": "2565082_9",
+            "document": "Intrinsically photosensitive retinal ganglion cells . ipRGCs are both pre- and postsynaptic to dopaminergic amacrine cells (DA cells) via reciprocal synapses, with ipRGCs sending excitatory signals to the DA cells and the DA cells sending inhibitory signals to the ipRGCs. These inhibitory signals are mediated through GABA which is co-released from the DA cells along with dopamine. Dopamine has functions in the light adaptation process by up-regulating melanopsin transcription in ipRGCs and thus increasing the photoreceptor's sensitivity. In parallel with the DA amacrine cell inhibition, somatostatin-releasing amacrine cells, themselves inhibited by DA amacrine cells, inhibit ipRGCs. Other synaptic inputs to ipRGC dendrites include cone bipolar cells and rod bipolar cells.",
+            "score": 214.22476196289062
+        },
+        {
+            "docid": "21280496_32",
+            "document": "Visual perception . Transduction is the process through which energy from environmental stimuli is converted to neural activity for the brain to understand and process. The back of the eye contains three different cell layers: photoreceptor layer, bipolar cell layer and ganglion cell layer. The photoreceptor layer is at the very back and contains rod photoreceptors and cone photoreceptors. Cones are responsible for color perception. There are three different cones: red, green and blue. Rods, are responsible for the perception of objects in low light. Photoreceptors contain within them a special chemical called a photopigment, which are embedded in the membrane of the lamellae; a single human rod contains approximately 10 million of them. The photopigment molecules consist of two parts: an opsin (a protein) and retinal (a lipid). There are 3 specific photopigments (each with their own color) that respond to specific wavelengths of light. When the appropriate wavelength of light hits the photoreceptor, its photopigment splits into two, which sends a message to the bipolar cell layer, which in turn sends a message to the ganglion cells, which then send the information through the optic nerve to the brain. If the appropriate photopigment is not in the proper photoreceptor (for example, a green photopigment inside a red cone), a condition called color vision deficiency will occur.",
+            "score": 214.09214782714844
+        },
+        {
+            "docid": "1017131_6",
+            "document": "Retina bipolar cell . Rod bipolar cells do not synapse directly on to ganglion cells. Instead, rod bipolar cells synapse on to a Retina amacrine cell, which in turn excite cone ON bipolar cells (via gap junctions) and inhibit cone OFF bipolar cells (via glycine-mediated inhibitory synapses) thereby overtaking the cone pathway in order to send signals to ganglion cells at scotopic (low) ambient light conditions.",
+            "score": 213.1829071044922
+        },
+        {
+            "docid": "305136_19",
+            "document": "Visual system . Mechanism of generating visual signals: The retina adapts to change in light through the use of the rods. In the dark, the chromophore retinal has a bent shape called cis-retinal (referring to a \"cis\" conformation in one of the double bonds). When light interacts with the retinal, it changes conformation to a straight form called trans-retinal and breaks away from the opsin. This is called bleaching because the purified rhodopsin changes from violet to colorless in the light. At baseline in the dark, the rhodopsin absorbs no light and releases glutamate which inhibits the bipolar cell. This inhibits the release of neurotransmitters from the bipolar cells to the ganglion cell. When there is light present, glutamate secretion ceases thus no longer inhibiting the bipolar cell from releasing neurotransmitters to the ganglion cell and therefore an image can be detected.",
+            "score": 211.13003540039062
+        },
+        {
+            "docid": "305136_18",
+            "document": "Visual system . In the retina, the photoreceptors synapse directly onto bipolar cells, which in turn synapse onto ganglion cells of the outermost layer, which will then conduct action potentials to the brain. A significant amount of visual processing arises from the patterns of communication between neurons in the retina. About 130 million photo-receptors absorb light, yet roughly 1.2 million axons of ganglion cells transmit information from the retina to the brain. The processing in the retina includes the formation of center-surround receptive fields of bipolar and ganglion cells in the retina, as well as convergence and divergence from photoreceptor to bipolar cell. In addition, other neurons in the retina, particularly horizontal and amacrine cells, transmit information laterally (from a neuron in one layer to an adjacent neuron in the same layer), resulting in more complex receptive fields that can be either indifferent to color and sensitive to motion or sensitive to color and indifferent to motion.",
+            "score": 210.50180053710938
+        },
+        {
+            "docid": "531587_16",
+            "document": "Depolarization . The importance and versatility of depolarization within cells can be seen in the relationship between rod cells in the eye and their associated neurons. When rod cells are in the dark, they are depolarized. In the rod cells, this depolarization is maintained by ion channels that remain open due to the higher voltage of the rod cell in the depolarized state. The ion channels allow calcium and sodium to pass freely into the cell, maintaining the depolarized state. Rod cells in the depolarized state constantly release neurotransmitters which in turn stimulate the nerves associated with rod cells. This cycle is broken when rod cells are exposed to light; the absorption of light by the rod cell causes the channels that had facilitated the entry of sodium and calcium into the rod cell to close. When these channels close, the rod cell produces less neurotransmitter, which is perceived by the brain as light. In the case of rod cells and neurons, depolarization actually prevents a signal from reaching the brain as opposed to stimulating the transmission of the signal.",
+            "score": 203.9530792236328
+        },
+        {
+            "docid": "401150_31",
+            "document": "Photoreceptor cell . The rod and cone photoreceptors signal their absorption of photons via a decrease in the release of the neurotransmitter glutamate to bipolar cells at its axon terminal. Since the photoreceptor is depolarized in the dark, a high amount of glutamate is being released to bipolar cells in the dark. Absorption of a photon will hyperpolarize the photoreceptor and therefore result in the release of \"less\" glutamate at the presynaptic terminal to the bipolar cell.",
+            "score": 203.77784729003906
+        },
+        {
+            "docid": "554130_17",
+            "document": "Adaptation (eye) . Inhibition by neurons also affects activation in synapses. Together with the bleaching of a rod or cone pigment, merging of signals on ganglion cells are inhibited, reducing convergence. Alpha adaptation, \"i.e.\", rapid sensitivity fluctuations, is powered by nerve control. The merging of signals by virtue of the diffuse ganglion cells, as well as horizontal and amacrine cells, allow a cumulative effect. Thus that area of stimulation is inversely proportional to intensity of light, a strong stimulus of 100 rods equivalent to a weak stimulus of 1,000 rods.",
+            "score": 202.86697387695312
+        },
+        {
+            "docid": "569444_4",
+            "document": "Transduction (physiology) . In the visual system, sensory cells called rod and cone cells in the retina convert the physical energy of light signals into electrical impulses that travel to the brain. The light causes a conformational change in a protein called rhodopsin. This conformational change sets in motion a series of molecular events that result in a reduction of the electrochemical gradient of the photoreceptor. The decrease in the electrochemical gradient causes a reduction in the electrical signals going to the brain. Thus, in this example, more light hitting the photoreceptor results in the transduction of a signal into fewer electrical impulses, effectively communicating that stimulus to the brain. A change in neurotransmitter release is mediated through a second messenger system. Note that the change in neurotransmitter release is by rods. Because of the change, a change in light intensity causes the response of the rods to be much slower than expected (for a process associated with the nervous system).",
+            "score": 202.1099853515625
+        },
+        {
+            "docid": "401150_4",
+            "document": "Photoreceptor cell . There are major functional differences between the rods and cones. Rods are extremely sensitive, and can be triggered by a single photon. At very low light levels, visual experience is based solely on the rod signal. This explains why colors cannot be seen at low light levels: only one type of photoreceptor cell is active.",
+            "score": 201.46131896972656
+        },
+        {
+            "docid": "3717_9",
+            "document": "Brain . Axons transmit signals to other neurons by means of specialized junctions called synapses. A single axon may make as many as several thousand synaptic connections with other cells. When an action potential, traveling along an axon, arrives at a synapse, it causes a chemical called a neurotransmitter to be released. The neurotransmitter binds to receptor molecules in the membrane of the target cell. Synapses are the key functional elements of the brain. The essential function of the brain is cell-to-cell communication, and synapses are the points at which communication occurs. The human brain has been estimated to contain approximately 100 trillion synapses; even the brain of a fruit fly contains several million. The functions of these synapses are very diverse: some are excitatory (exciting the target cell); others are inhibitory; others work by activating second messenger systems that change the internal chemistry of their target cells in complex ways. A large number of synapses are dynamically modifiable; that is, they are capable of changing strength in a way that is controlled by the patterns of signals that pass through them. It is widely believed that activity-dependent modification of synapses is the brain's primary mechanism for learning and memory.",
+            "score": 200.2569122314453
+        },
+        {
+            "docid": "4455796_7",
+            "document": "Lateral inhibition . Visual Lateral Inhibition is the process in which photoreceptor cells aid the brain in perceiving contrast within an image. Electromagnetic light enters the eye by passing through the cornea, pupil, and the lens (optics). It then bypasses the ganglion cells, amacrine cells, bipolar cells, and horizontal cells in order to reach the photoreceptors rod cells which absorb light. The rods become stimulated by the energy from the light and release an excitatory neural signal to the horizontal cells.",
+            "score": 199.6439971923828
+        },
+        {
+            "docid": "19274237_26",
+            "document": "Mammalian eye . Differences between the rhodopsin and the iodopsins is the reason why cones and rods enable organisms to see in dark and light conditions \u2014 each of the photoreceptor proteins requires a different light intensity to break down into the constituent products. Further, synaptic convergence means that several rod cells are connected to a single bipolar cell, which then connects to a single ganglion cell by which information is relayed to the visual cortex. This convergence is in direct contrast to the situation with cones, where each cone cell is connected to a single bipolar cell. This divergence results in the high visual acuity, or the high ability to distinguish detail, of cone cells compared to rods. If a ray of light were to reach just one rod cell, the cell's response may not be enough to hyperpolarize the connected bipolar cell. But because several \"converge\" onto a bipolar cell, enough transmitter molecules reach the synapses of the bipolar cell to hyperpolarize it.",
+            "score": 195.64048767089844
+        },
+        {
+            "docid": "401150_20",
+            "document": "Photoreceptor cell . Thus, a rod or cone photoreceptor actually releases less neurotransmitter when stimulated by light. Less neurotransmitter in the synaptic cleft between a photoreceptor and bipolar cell will serve to either excite (depolarize) ON bipolar cells or inhibit (hyperpolarize) OFF bipolar cells. Thus, it is at the photoreceptor-bipolar cell synapse where visual signals are split into ON and OFF pathways.",
+            "score": 195.5145721435547
+        },
+        {
+            "docid": "48334_3",
+            "document": "Retina . The retina consists of several layers of neurons interconnected by synapses. The neural retina refers to the three layers of neural cells (photo receptor cells, bipolar cells, and ganglion cells) within the retina, which in its entirety comprises ten distinct layers, including an outer layer of pigmented epithelial cells. The only neural cells that are directly sensitive to light are the photoreceptor cells, which are of two types: rods and cones. Rods function mainly in dim light and provide black-and-white vision while cones are responsible for the perception of colour. A third type of photoreceptor, the photosensitive ganglion cells, is important for entrainment and reflexive responses to the brightness of light.",
+            "score": 194.57742309570312
+        },
+        {
+            "docid": "1070221_5",
+            "document": "Human eye . Light energy enters the eye through the cornea, through the pupil and then through the lens. The lens shape is changed for near focus (accommodation) and is controlled by the ciliary muscle. Photons of light falling on the light-sensitive cells of the retina (photoreceptor cones and rods) are converted into electrical signals that are transmitted to the brain by the optic nerve and interpreted as sight and vision.",
+            "score": 194.3289031982422
+        },
+        {
+            "docid": "21280496_4",
+            "document": "Visual perception . The visual system in animals allows individuals to assimilate information from their surroundings. The act of seeing starts when the cornea and then the lens of the eye focuses light from its surroundings onto a light-sensitive membrane in the back of the eye, called the retina. The retina is actually part of the brain that is isolated to serve as a transducer for the conversion of light into neuronal signals. Based on feedback from the visual system, the lens of the eye adjusts its thickness to focus light on the photoreceptive cells of the retina, also known as the rods and cones, which detect the photons of light and respond by producing neural impulses. These signals are processed via complex feedforward and feedback processes by different parts of the brain, from the retina upstream to central ganglia in the brain.",
+            "score": 194.255126953125
+        },
+        {
+            "docid": "2961628_5",
+            "document": "Special senses . The visual system in animals allows individuals to assimilate information from their surroundings. The act of seeing starts when the cornea and then the lens of the eye focuses light from its surroundings onto a light-sensitive membrane in the back of the eye, called the retina. The retina is actually part of the brain that is isolated to serve as a transducer for the conversion of light into neuronal signals. Based on feedback from the visual system, the lens of the eye adjusts its thickness to focus light on the photoreceptive cells of the retina, also known as the rods and cones, which detect the photons of light and respond by producing neural impulses. These signals are processed via complex feedforward and feedback processes by different parts of the brain, from the retina upstream to central ganglia in the brain.",
+            "score": 194.255126953125
+        },
+        {
+            "docid": "941909_11",
+            "document": "Receptive field . The receptive field is often identified as the region of the retina where the action of light alters the firing of the neuron. In retinal ganglion cells (see below), this area of the retina would encompass all the photoreceptors, all the rods and cones from one eye that are connected to this particular ganglion cell via bipolar cells, horizontal cells, and amacrine cells. In binocular neurons in the visual cortex, it is necessary to specify the corresponding area in both retinas (one in each eye). Although these can be mapped separately in each retina by shutting one or the other eye, the full influence on the neuron's firing is revealed only when both eyes are open.",
+            "score": 192.30413818359375
+        },
+        {
+            "docid": "401150_13",
+            "document": "Photoreceptor cell . The human retina has approximately 6 million cones and 120 million rods. Signals from the rods and cones converge on ganglion and bipolar cells for preprocessing before they are sent to the lateral geniculate nucleus. At the \"center\" of the retina (the point directly behind the lens) lies the fovea (or fovea centralis), which contains only cone cells; and is the region capable of producing the highest visual acuity or highest resolution. Across the rest of the retina, rods and cones are intermingled. No photoreceptors are found at the blind spot, the area where ganglion cell fibers are collected into the optic nerve and leave the eye.",
+            "score": 191.49465942382812
+        },
+        {
+            "docid": "48548_26",
+            "document": "Dopamine . An additional group of dopamine-secreting neurons is found in the retina of the eye. These neurons are amacrine cells, meaning that they have no axons. They release dopamine into the extracellular medium, and are specifically active during daylight hours, becoming silent at night. This retinal dopamine acts to enhance the activity of cone cells in the retina while suppressing rod cells\u2014the result is to increase sensitivity to color and contrast during bright light conditions, at the cost of reduced sensitivity when the light is dim.",
+            "score": 191.1757354736328
+        },
+        {
+            "docid": "14575800_7",
+            "document": "OPN1LW . LWS opsin resides in disks of the outer segment of LWS cone cells, which mediate photopic vision along with MWS and SWS cones. Cone representation in the retina is substantially smaller than rod representation, with the majority of cones localizing in the fovea. When light within the LWS opsin spectral range reaches the retina, the 11-\"cis\"-retinal chromophore within the opsin protein becomes excited. This excitation causes a conformational change in the protein and triggers a series of chemical reactions. This reaction series passes from the LWS cone cells into horizontal cells, bipolar cells, amacrine cells, and finally ganglion cells before continuing to the brain via the optic nerve. Ganglion cells compile the signal from the LWS cones with all other cone signals that occurred in response to the light that was seen, and pass the overall signal into the optic nerve. The cones themselves do not process colour, it is the brain that decides what colour is being seen by the signal combination it receives from the ganglion cells.",
+            "score": 189.83702087402344
+        },
+        {
+            "docid": "21120_26",
+            "document": "Neuron . The distinction between excitatory and inhibitory neurotransmitters is not absolute, however. Rather, it depends on the class of chemical receptors present on the postsynaptic neuron. In principle, a single neuron, releasing a single neurotransmitter, can have excitatory effects on some targets, inhibitory effects on others, and modulatory effects on others still. For example, photoreceptor cells in the retina constantly release the neurotransmitter glutamate in the absence of light. So-called OFF bipolar cells are, like most neurons, excited by the released glutamate. However, neighboring target neurons called ON bipolar cells are instead \"inhibited\" by glutamate, because they lack the typical ionotropic glutamate receptors and instead express a class of inhibitory metabotropic glutamate receptors. When light is present, the photoreceptors cease releasing glutamate, which relieves the ON bipolar cells from inhibition, activating them; this simultaneously removes the excitation from the OFF bipolar cells, silencing them.",
+            "score": 187.60694885253906
+        },
+        {
+            "docid": "1017131_2",
+            "document": "Retina bipolar cell . As a part of the retina, bipolar cells exist between photoreceptors (rod cells and cone cells) and ganglion cells. They act, directly or indirectly, to transmit signals from the photoreceptors to the ganglion cells.",
+            "score": 186.7989501953125
+        },
+        {
+            "docid": "401150_25",
+            "document": "Photoreceptor cell . Second, there is a lot of amplification in two stages of classic phototransduction: one pigment will activate many molecules of transducin, and one PDE will cleave many cGMPs. This amplification means that even the absorption of one photon will affect membrane potential and signal to the brain that light is in the visual field. This is the main feature that differentiates rod photoreceptors from cone photoreceptors. Rods are extremely sensitive and have the capacity of registering a single photon of light, unlike cones. On the other hand, cones are known to have very fast kinetics in terms of rate of amplification of phototransduction, unlike rods.",
+            "score": 186.3314971923828
+        },
+        {
+            "docid": "514355_18",
+            "document": "Rod cell . A rod cell is sensitive enough to respond to a single photon of light and is about 100 times more sensitive to a single photon than cones. Since rods require less light to function than cones, they are the primary source of visual information at night (scotopic vision). Cone cells, on the other hand, require tens to hundreds of photons to become activated. Additionally, multiple rod cells converge on a single interneuron, collecting and amplifying the signals. However, this convergence comes at a cost to visual acuity (or image resolution) because the pooled information from multiple cells is less distinct than it would be if the visual system received information from each rod cell individually. Rod cells also respond slower to light than cones and the stimuli they receive are added over roughly 100 milliseconds. While this makes rods more sensitive to smaller amounts of light, it also means that their ability to sense temporal changes, such as quickly changing images, is less accurate than that of cones.",
+            "score": 186.07546997070312
+        },
+        {
+            "docid": "1017131_8",
+            "document": "Retina bipolar cell . Bipolar cells effectively transfer information from rods and cones to ganglion cells. The horizontal cells and the amacrine cells complicate matters somewhat. The horizontal cells introduce lateral inhibition to the dendrites and give rise to the center-surround inhibition which is apparent in retinal receptive fields. The amacrine cells also introduce lateral inhibition to the axon terminal, serving various visual functions including efficient signal transduction with high signal-to-noise ratio.",
+            "score": 185.77464294433594
+        },
+        {
+            "docid": "1017131_5",
+            "document": "Retina bipolar cell . In the dark, a photoreceptor (rod/cone) cell will release glutamate, which inhibits (hyperpolarizes) the ON bipolar cells and excites (depolarizes) the OFF bipolar cells. In light, however, light strikes the photoreceptor which causes the photoreceptor to be inhibited (hyperpolarized) due to the activation of opsins which activate All trans-Retinal, giving energy to stimulate G-Protein coupled receptors to activate phosphodiesterase (PDE) which cleaves cGMP into 5'-GMP. In photoreceptor cells, there is an abundance of cGMP in dark conditions, keeping cGMP-gated Na channels open and so, activating PDE diminishes the supply of cGMP, reducing the number of open Na channels and thus hyperpolarizing the photoreceptor cell, causing less glutamate to be released. This causes the ON bipolar cell to lose its inhibition and become active (depolarized), while the OFF bipolar cell loses its excitation (becomes hyperpolarized) and becomes silent.",
+            "score": 184.20738220214844
+        }
+    ]
+}

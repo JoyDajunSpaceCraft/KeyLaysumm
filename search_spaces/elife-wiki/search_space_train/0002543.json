@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "49827542_7",
+            "document": "Insect olfaction . Specifically the process is as follows: first the odorant wafts towards an insects antenna or maxillary palp which is covered with hair like projections called sensilla. The odorant then enters through tiny pores in the exoskeleton (or cuticle) of that sensillum and diffuses into the fluid between the cells called extracellular fluids. There the odorant molecule binds to an odorant binding protein which transports it to a receptor and co-receptor (Orco) team on the surface of the olfactory receptor neuron (ORN). This leads to the neuron firing an action potential down the axon. This signal is sent to the antennal lobe or subesophogeal ganglion of the insects brain where it can then integrate the information with other signals from other sensilla.",
+            "score": 337.79420924186707
+        },
+        {
+            "docid": "639660_4",
+            "document": "Olfactory receptor neuron . Many tiny hair-like cilia protrude from the olfactory receptor cell's dendrite into the mucus covering the surface of the olfactory epithelium. The surface of these cilia is covered with olfactory receptors, a type of G protein-coupled receptor. Each olfactory receptor cell expresses only one type of olfactory receptor (OR), but many separate olfactory receptor cells express ORs which bind the same set of odors. The axons of olfactory receptor cells which express the same OR converge to form glomeruli in the olfactory bulb.",
+            "score": 188.75994491577148
+        },
+        {
+            "docid": "21312304_4",
+            "document": "Olfactory memory . An odorant is a physiochemical molecule that binds to a specific receptor protein. In mammals, each olfactory receptor protein has one type of molecule that it responds to, known as the one-olfactory-one-neuron rule, and approximately one thousand kinds of which have been identified. Structure and complexity constitute an odorant\u2019s features, with changes resulting in altered odorant quality. An odorant\u2019s features are detected by the olfactory system\u2019s glomeruli and mitral cells which can be found in the olfactory bulb, a cortical structure involved in the perceptual differentiation of odorants. The olfactory bulb itself affects how odors come to be encoded through its temporal structure and firing rate, which in turn influences the likelihood of an odorant being remembered.",
+            "score": 273.81730008125305
+        },
+        {
+            "docid": "21244265_37",
+            "document": "Olfaction . Early scientific study of olfaction includes the extensive doctoral dissertation of Eleanor Gamble, published in 1898, which compared olfactory to other stimulus modalities, and implied that smell had a lower intensity discrimination. As the Epicurean and atomistic Roman philosopher Lucretius (1stcentury BCE) speculated, different odors are attributed to different shapes and sizes of \"atoms\" (odor molecules in the modern understanding) that stimulate the olfactory organ . A modern demonstration of that theory was the cloning of olfactory receptor proteins by Linda B. Buck and Richard Axel (who were awarded the Nobel Prize in 2004), and subsequent pairing of odor molecules to specific receptor proteins. Each odor receptor molecule recognizes only a particular molecular feature or class of odor molecules. Mammals have about a thousand genes that code for odor reception. Of the genes that code for odor receptors, only a portion are functional. Humans have far fewer active odor receptor genes than other primates and other mammals. In mammals, each olfactory receptor neuron expresses only one functional odor receptor. Odor receptor nerve cells function like a key\u2013lock system: if the airborne molecules of a certain chemical can fit into the lock, the nerve cell will respond. There are, at present, a number of competing theories regarding the mechanism of odor coding and perception. According to the shape theory, each receptor detects a feature of the odor molecule. The weak-shape theory, known as the odotope theory, suggests that different receptors detect only small pieces of molecules, and these minimal inputs are combined to form a larger olfactory perception (similar to the way visual perception is built up of smaller, information-poor sensations, combined and refined to create a detailed overall perception). According to a new study, researchers have found that a functional relationship exists between molecular volume of odorants and the olfactory neural response.<ref name=\"10.1101/013516\"></ref> An alternative theory, the vibration theory proposed by Luca Turin, posits that odor receptors detect the frequencies of vibrations of odor molecules in the infrared range by quantum tunnelling. However, the behavioral predictions of this theory have been called into question. There is no theory yet that explains olfactory perception completely.",
+            "score": 239.78835594654083
+        },
+        {
+            "docid": "665470_2",
+            "document": "Olfactory receptor . Olfactory receptors (ORs), also known as odorant receptors, are expressed in the cell membranes of olfactory receptor neurons and are responsible for the detection of odorants (i.e., compounds that have an odor) which give rise to the sense of smell. Activated olfactory receptors trigger nerve impulses which transmit information about odor to the brain. These receptors are members of the class A rhodopsin-like family of G protein-coupled receptors (GPCRs). The olfactory receptors form a multigene family consisting of around 800 genes in humans and 1400 genes in mice.",
+            "score": 227.22262001037598
+        },
+        {
+            "docid": "53758770_8",
+            "document": "Retronasal smell . The first stop in the olfactory system is the olfactory epithelium, or tissue resting on the roof of the nasal cavity which houses smell receptors. Smell receptors are bipolar neurons that bind odorants from the air and congregate at the olfactory nerve before passing axons to the dendrites of mitral cells in the olfactory bulb. Sensory receptors in the mouth and nose are polarized at resting state, and they depolarize in response to some change in environment, such as coming in contact with odor molecules. Odor molecules, consisting of hydrocarbon chains with functional groups, bind to sensory receptors in the nose and mouth. Properties of functional groups include: (1) length of carbon chain, (2) terminal group, which concord with differences associated with different smells, (3) side group, (4) chirality, (5) shape, and (6) size. When odor molecules bind to sensory receptors, they do so in according to these properties. Each olfactory cell has a single type of receptor, but that receptor can be \u201cbroadly tuned\u201d and odor molecules further interact at the receptor level, meaning that, in certain cases, an odor molecule alone may not bind to a receptor, but in the presence of another odor molecule, the original would bind and thus create a sensation of smell only in the presence of the second molecule.",
+            "score": 252.7697491645813
+        },
+        {
+            "docid": "665470_4",
+            "document": "Olfactory receptor . Rather than binding specific ligands, olfactory receptors display affinity for a range of odor molecules, and conversely a single odorant molecule may bind to a number of olfactory receptors with varying affinities, which depend on physio-chemical properties of molecules like their molecular volumes.<ref name=\"10.1101/013516\"></ref> Once the odorant has bound to the odor receptor, the receptor undergoes structural changes and it binds and activates the olfactory-type G protein on the inside of the olfactory receptor neuron. The G protein (G and/or G) in turn activates the lyase - adenylate cyclase - which converts ATP into cyclic AMP (cAMP). The cAMP opens cyclic nucleotide-gated ion channels which allow calcium and sodium ions to enter into the cell, depolarizing the olfactory receptor neuron and beginning an action potential which carries the information to the brain.",
+            "score": 252.31884217262268
+        },
+        {
+            "docid": "34816371_3",
+            "document": "Insect pheromone-binding protein . A class of small (14-20 Kd) water-soluble proteins, called pheromone binding proteins, first discovered in the insect sensillar lymph but also found in the mucus of vertebrates, is postulated to mediate the solubilisation of hydrophobic odorant molecules, and thereby to facilitate their transport to the receptor neurons. The product of a gene expressed in the olfactory system of \"Drosophila melanogaster\" (Fruit fly), OS-D, shares features common to vertebrate odorant binding proteins, but has a primary structure unlike odorant-binding proteins. OS-D derivatives have subsequently been found in chemosensory organs of phylogenetically distinct insects, including cockroaches, phasmids and moths, suggesting that OS-D-like proteins seem to be conserved in the insect phylum. OS-D and related proteins are members of the insect pheromone-binding family A10/OS-D.",
+            "score": 284.79198598861694
+        },
+        {
+            "docid": "49827542_3",
+            "document": "Insect olfaction . The two organs insects primarily use for detecting odors are the antennae and specialized mouth parts called the maxillary palps. However, a recent study has demonstrated the olfactory role of ovipositor in fig wasps. Inside of these olfactory organs there are neurons called olfactory receptor neurons which, as the name implies, house receptors for scent molecules in their cell membrane.The majority of olfactory receptor neurons typically reside in the antenna. These neurons can be very abundant, for example Drosophila flies have 2,600 olfactory sensory neurons.",
+            "score": 240.32306385040283
+        },
+        {
+            "docid": "635489_6",
+            "document": "Olfactory system . Olfactory neurons are receptor cells in the epithelium that detect odor molecules dissolved in the mucus and transmit information about the odor to the brain in a process called sensory transduction. Olfactory neurons have cilia (tiny hairs) containing proteins that bind to odor molecules, causing an electrical response that spreads through the receptor cells to the olfactory nerve fibers at the back of the nasal cavity.",
+            "score": 262.25832533836365
+        },
+        {
+            "docid": "665470_10",
+            "document": "Olfactory receptor . The reason for the large number of different odor receptors is to provide a system for discriminating between as many different odors as possible. Even so, each odor receptor does not detect a single odor. Rather each individual odor receptor is broadly tuned to be activated by a number of similar odorant structures. Analogous to the immune system, the diversity that exists within the olfactory receptor family allows molecules that have never been encountered before to be characterized. However, unlike the immune system, which generates diversity through \"in-situ\" recombination, every single olfactory receptor is translated from a specific gene; hence the large portion of the genome devoted to encoding OR genes. Furthermore, most odors activate more than one type of odor receptor. Since the number of combinations and permutations of olfactory receptors is very large, the olfactory receptor system is capable of detecting and distinguishing between a very large number of odorant molecules.",
+            "score": 196.41751515865326
+        },
+        {
+            "docid": "4109042_20",
+            "document": "Cell signaling . A more complex signal transduction pathway is shown in Figure 3. This pathway involves changes of protein\u2013protein interactions inside the cell, induced by an external signal. Many growth factors bind to receptors at the cell surface and stimulate cells to progress through the cell cycle and divide. Several of these receptors are kinases that start to phosphorylate themselves and other proteins when binding to a ligand. This phosphorylation can generate a binding site for a different protein and thus induce protein\u2013protein interaction. In Figure 3, the ligand (called epidermal growth factor (EGF)) binds to the receptor (called EGFR). This activates the receptor to phosphorylate itself. The phosphorylated receptor binds to an adaptor protein (GRB2), which couples the signal to further downstream signaling processes. For example, one of the signal transduction pathways that are activated is called the mitogen-activated protein kinase (MAPK) pathway. The signal transduction component labeled as \"MAPK\" in the pathway was originally called \"ERK,\" so the pathway is called the MAPK/ERK pathway. The MAPK protein is an enzyme, a protein kinase that can attach phosphate to target proteins such as the transcription factor MYC and, thus, alter gene transcription and, ultimately, cell cycle progression. Many cellular proteins are activated downstream of the growth factor receptors (such as EGFR) that initiate this signal transduction pathway.",
+            "score": 111.00498974323273
+        },
+        {
+            "docid": "374331_8",
+            "document": "Neurotransmitter receptor . G protein-coupled receptors (GPCRs), also known as seven-transmembrane domain receptors, 7TM receptors, heptahelical receptors, serpentine receptor, and G protein-linked receptors (GPLR), comprise a large protein family of transmembrane receptors that sense molecules outside the cell and activate inside signal transduction pathways and, ultimately, cellular responses. G protein-coupled receptors are found only in eukaryotes, including yeast, choanoflagellates, and animals. The ligands that bind and activate these receptors include light-sensitive compounds, odors, pheromones, hormones, and neurotransmitters, and vary in size from small molecules to peptides to large proteins. G protein-coupled receptors are involved in many diseases, and are also the target of approximately 30% of all modern medicinal drugs.",
+            "score": 174.08288669586182
+        },
+        {
+            "docid": "569399_10",
+            "document": "Stimulus (physiology) . Smell allows the body to recognize chemical molecules in the air through inhalation. Olfactory organs located on either side of the nasal septum consist of olfactory epithelium and lamina propria. The olfactory epithelium, which contains olfactory receptor cells, covers the inferior surface of the cribiform plate, the superior portion of the perpendicular plate, the superior nasal concha. Only roughly two percent of airborne compounds inhaled are carried to olfactory organs as a small sample of the air being inhaled. Olfactory receptors extend past the epithelial surface providing a base for many cilia that lie in the surrounding mucus. Odorant-binding proteins interact with these cilia stimulating the receptors. Odorants are generally small organic molecules. Greater water and lipid solubility is related directly to stronger smelling odorants. Odorant binding to G protein coupled receptors activates adenylate cyclase, which converts ATP to camp. cAMP, in turn, promotes the opening of sodium channels resulting in a localized potential.",
+            "score": 233.64070415496826
+        },
+        {
+            "docid": "443416_10",
+            "document": "Phagocyte . A phagocyte has many types of receptors on its surface that are used to bind material. They include opsonin receptors, scavenger receptors, and Toll-like receptors. Opsonin receptors increase the phagocytosis of bacteria that have been coated with immunoglobulin G (IgG) antibodies or with complement. \"Complement\" is the name given to a complex series of protein molecules found in the blood that destroy cells or mark them for destruction. Scavenger receptors bind to a large range of molecules on the surface of bacterial cells, and Toll-like receptors\u2014so called because of their similarity to well-studied receptors in fruit flies that are encoded by the Toll gene\u2014bind to more specific molecules. Binding to Toll-like receptors increases phagocytosis and causes the phagocyte to release a group of hormones that cause inflammation.",
+            "score": 116.59028434753418
+        },
+        {
+            "docid": "11988867_25",
+            "document": "Agrotis ipsilon . \"A. ipsilon\" has a sensitive olfactory system with many proteins that are expressed in the antennae. Such proteins include odorant binding proteins (OBPs), chemosensory proteins (CSPs), odorant receptors (ORs), ionotropic receptors (IRs) and sensory neuron membrane proteins (SNMPs). These proteins are responsible for recognizing sex pheromone and general odorants, such as those released by host plants.",
+            "score": 221.94298315048218
+        },
+        {
+            "docid": "9855298_3",
+            "document": "Odorant-binding protein . The olfactory receptors of terrestrial animals exist in an aqueous environment, yet detect odorants that are primarily hydrophobic. The aqueous solubility of hydrophobic odorants is greatly enhanced via odorant-binding proteins, which exist in the extracellular fluid surrounding the odorant receptors. This family is composed of pheromone binding proteins (PBP), which are male-specific and associate with pheromone-sensitive neurons and general-odorant-binding proteins (GOBP).",
+            "score": 246.13765954971313
+        },
+        {
+            "docid": "51903_14",
+            "document": "Tyrosine kinase . Major changes are sometimes induced when the tyrosine kinase enzyme is affected by other factors. One of the factors is a molecule that is bound reversibly by a protein, called a ligand. A number of receptor tyrosine kinases, though certainly not all, do not perform protein-kinase activity until they are occupied, or activated, by one of these ligands. It is interesting to note that, although many more recent cases of research indicate that receptors remain active within endosomes, it was once thought that endocytosis caused by ligands was the event responsible for the process in which receptors are inactivated. Activated receptor tyrosine kinase receptors are internalized (recycled back into the system) in short time and are ultimately delivered to lysosomes, where they become work-adjacent to the catabolic acid hydrolases that partake in digestion. Internalized signaling complexes are involved in different roles in different receptor tyrosine kinase systems, the specifics of which were researched. In addition, ligands participate in reversible binding, a term that describes those inhibitors that bind non-covalently (inhibition of different types are effected depending on whether these inhibitors bind the enzyme, the enzyme-substrate complex, or both). Multivalency, which is an attribute that bears particular interest to some people involved in related scientific research, is a phenomenon characterized by the concurrent binding of several ligands positioned on one unit to several coinciding receptors on another. In any case, the binding of the ligand to its partner is apparent owing to the effects that it can have on the functionality of many proteins. Ligand-activated receptor tyrosine kinases, as they are sometimes referred to, demonstrate a unique attribute. Once a tyrosine receptor kinase is bonded to its ligand, it is able to bind to tyrosine kinase residing in the cytosol of the cell.",
+            "score": 109.80709505081177
+        },
+        {
+            "docid": "1039176_6",
+            "document": "Linda B. Buck . In her landmark paper published in 1991 with Richard Axel, Linda Buck discovered hundreds of genes code for the odorant sensors located in the olfactory neurons of our noses. Each receptor is a protein that changes when an odor attaches to the receptor, causing an electrical signal to be sent to the brain. Differences between odorant sensors mean that certain odors cause a signal to be released from a certain receptor. We are then able to interpret varying signals from our receptors as specific scents. To do this, Buck and Axel cloned olfactory receptors, showing that they belong to the family of G protein-coupled receptors. By analyzing rat DNA, they estimated that there were approximately one thousand different genes for olfactory receptors in the mammalian genome. This research opened the door to the genetic and molecular analysis of the mechanisms of olfaction. In their later work, Buck and Axel have shown that each olfactory receptor neuron remarkably only expresses one kind of olfactory receptor protein and that the input from all neurons expressing the same receptor is collected by a single dedicated glomerulus of the olfactory bulb.",
+            "score": 223.0267857313156
+        },
+        {
+            "docid": "37748971_2",
+            "document": "OR6C75 . Olfactory receptor, family 6, subfamily C, member 75 is a protein in humans that is encoded by the OR6C75 gene. Olfactory receptors interact with odorant molecules in the nose to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter receptors and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 227.06447196006775
+        },
+        {
+            "docid": "14881110_2",
+            "document": "OR52M1 . Olfactory receptor 52M1 is a protein that in humans is encoded by the \"OR52M1\" gene. Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 229.24933338165283
+        },
+        {
+            "docid": "14881215_3",
+            "document": "OR10A7 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12764024734497
+        },
+        {
+            "docid": "14880502_3",
+            "document": "OR51B4 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12764024734497
+        },
+        {
+            "docid": "14883293_3",
+            "document": "OR2L13 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12764024734497
+        },
+        {
+            "docid": "14881228_3",
+            "document": "OR10H4 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12764024734497
+        },
+        {
+            "docid": "14892239_3",
+            "document": "OR6B2 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12764024734497
+        },
+        {
+            "docid": "14879699_3",
+            "document": "OR6A2 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitters and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12764024734497
+        },
+        {
+            "docid": "14880732_3",
+            "document": "OR4P4 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12764024734497
+        },
+        {
+            "docid": "14881385_3",
+            "document": "OR4D2 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12764024734497
+        },
+        {
+            "docid": "14892113_3",
+            "document": "OR51M1 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12764024734497
+        },
+        {
+            "docid": "14879666_3",
+            "document": "OR1G1 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12764024734497
+        },
+        {
+            "docid": "14882352_3",
+            "document": "OR8K3 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12764024734497
+        }
+    ],
+    "r": [
+        {
+            "docid": "49827542_7",
+            "document": "Insect olfaction . Specifically the process is as follows: first the odorant wafts towards an insects antenna or maxillary palp which is covered with hair like projections called sensilla. The odorant then enters through tiny pores in the exoskeleton (or cuticle) of that sensillum and diffuses into the fluid between the cells called extracellular fluids. There the odorant molecule binds to an odorant binding protein which transports it to a receptor and co-receptor (Orco) team on the surface of the olfactory receptor neuron (ORN). This leads to the neuron firing an action potential down the axon. This signal is sent to the antennal lobe or subesophogeal ganglion of the insects brain where it can then integrate the information with other signals from other sensilla.",
+            "score": 337.7942199707031
+        },
+        {
+            "docid": "21244265_5",
+            "document": "Olfaction . In insects, smells are sensed by olfactory sensory neurons in the chemosensory sensilla, which are present in insect antenna, palps, and tarsa, but also on other parts of the insect body. Odorants penetrate into the cuticle pores of chemosensory sensilla and get in contact with insect odorant-binding proteins (OBPs) or Chemosensory proteins (CSPs), before activating the sensory neurons.",
+            "score": 317.8069763183594
+        },
+        {
+            "docid": "34816371_3",
+            "document": "Insect pheromone-binding protein . A class of small (14-20 Kd) water-soluble proteins, called pheromone binding proteins, first discovered in the insect sensillar lymph but also found in the mucus of vertebrates, is postulated to mediate the solubilisation of hydrophobic odorant molecules, and thereby to facilitate their transport to the receptor neurons. The product of a gene expressed in the olfactory system of \"Drosophila melanogaster\" (Fruit fly), OS-D, shares features common to vertebrate odorant binding proteins, but has a primary structure unlike odorant-binding proteins. OS-D derivatives have subsequently been found in chemosensory organs of phylogenetically distinct insects, including cockroaches, phasmids and moths, suggesting that OS-D-like proteins seem to be conserved in the insect phylum. OS-D and related proteins are members of the insect pheromone-binding family A10/OS-D.",
+            "score": 284.7919921875
+        },
+        {
+            "docid": "21312304_4",
+            "document": "Olfactory memory . An odorant is a physiochemical molecule that binds to a specific receptor protein. In mammals, each olfactory receptor protein has one type of molecule that it responds to, known as the one-olfactory-one-neuron rule, and approximately one thousand kinds of which have been identified. Structure and complexity constitute an odorant\u2019s features, with changes resulting in altered odorant quality. An odorant\u2019s features are detected by the olfactory system\u2019s glomeruli and mitral cells which can be found in the olfactory bulb, a cortical structure involved in the perceptual differentiation of odorants. The olfactory bulb itself affects how odors come to be encoded through its temporal structure and firing rate, which in turn influences the likelihood of an odorant being remembered.",
+            "score": 273.8172912597656
+        },
+        {
+            "docid": "14085336_2",
+            "document": "Chemosensory protein . Chemosensory proteins are a class of small (10-15 kDa), soluble proteins characterised for the first time by Angeli et al. (1999) as secreted into the sensillar lymph of insect chemosensory sensilla. Some members of CSPs were already discovered in Drosophila, and other insects, although no clear link with olfactory or gustatory function was assigned. In the last years CSPs were found in insect contact and olfactory sensilla, but other members showed peculiar functions. In Apis mellifera one member was found to be involved in larval development and in Blatta a CSP is involved in leg regeneration.  Binding activity of volatile compounds has been described in a similar way as in other group of soluble sensillar proteins, called Odorant binding proteins or OBPs. CSPs do not share sequence similarity with OBPs and are characterized by only 4 conserved cysteines, where insect OBPs have 6 conserved cysteines.",
+            "score": 263.73150634765625
+        },
+        {
+            "docid": "635489_6",
+            "document": "Olfactory system . Olfactory neurons are receptor cells in the epithelium that detect odor molecules dissolved in the mucus and transmit information about the odor to the brain in a process called sensory transduction. Olfactory neurons have cilia (tiny hairs) containing proteins that bind to odor molecules, causing an electrical response that spreads through the receptor cells to the olfactory nerve fibers at the back of the nasal cavity.",
+            "score": 262.2583312988281
+        },
+        {
+            "docid": "9855298_2",
+            "document": "Odorant-binding protein . Odorant-binding proteins are abundant small soluble proteins secreted in the nasal mucus of many animal species and in the sensillar lymph of chemosensory sensilla of insects.",
+            "score": 255.9545440673828
+        },
+        {
+            "docid": "53758770_8",
+            "document": "Retronasal smell . The first stop in the olfactory system is the olfactory epithelium, or tissue resting on the roof of the nasal cavity which houses smell receptors. Smell receptors are bipolar neurons that bind odorants from the air and congregate at the olfactory nerve before passing axons to the dendrites of mitral cells in the olfactory bulb. Sensory receptors in the mouth and nose are polarized at resting state, and they depolarize in response to some change in environment, such as coming in contact with odor molecules. Odor molecules, consisting of hydrocarbon chains with functional groups, bind to sensory receptors in the nose and mouth. Properties of functional groups include: (1) length of carbon chain, (2) terminal group, which concord with differences associated with different smells, (3) side group, (4) chirality, (5) shape, and (6) size. When odor molecules bind to sensory receptors, they do so in according to these properties. Each olfactory cell has a single type of receptor, but that receptor can be \u201cbroadly tuned\u201d and odor molecules further interact at the receptor level, meaning that, in certain cases, an odor molecule alone may not bind to a receptor, but in the presence of another odor molecule, the original would bind and thus create a sensation of smell only in the presence of the second molecule.",
+            "score": 252.76974487304688
+        },
+        {
+            "docid": "665470_4",
+            "document": "Olfactory receptor . Rather than binding specific ligands, olfactory receptors display affinity for a range of odor molecules, and conversely a single odorant molecule may bind to a number of olfactory receptors with varying affinities, which depend on physio-chemical properties of molecules like their molecular volumes.<ref name=\"10.1101/013516\"></ref> Once the odorant has bound to the odor receptor, the receptor undergoes structural changes and it binds and activates the olfactory-type G protein on the inside of the olfactory receptor neuron. The G protein (G and/or G) in turn activates the lyase - adenylate cyclase - which converts ATP into cyclic AMP (cAMP). The cAMP opens cyclic nucleotide-gated ion channels which allow calcium and sodium ions to enter into the cell, depolarizing the olfactory receptor neuron and beginning an action potential which carries the information to the brain.",
+            "score": 252.31884765625
+        },
+        {
+            "docid": "2961628_14",
+            "document": "Special senses . Molecules of odorants passing through the superior nasal concha of the nasal passages dissolve in the mucus that lines the superior portion of the cavity and are detected by olfactory receptors on the dendrites of the olfactory sensory neurons. This may occur by diffusion or by the binding of the odorant to odorant-binding proteins. The mucus overlying the epithelium contains mucopolysaccharides, salts, enzymes, and antibodies (these are highly important, as the olfactory neurons provide a direct passage for infection to pass to the brain). This mucus acts as a solvent for odor molecules, flows constantly, and is replaced approximately every ten minutes.",
+            "score": 251.69590759277344
+        },
+        {
+            "docid": "21244096_4",
+            "document": "Odor . The sense of smell gives rise to the perception of odors, mediated by the olfactory nerve. The olfactory receptor (OR) cells are neurons present in the olfactory epithelium. This is a small patch of tissue at the back of the nasal cavity. There are millions of olfactory receptor neurons that act as sensory signaling cells. Each neuron has cilia in direct contact with air. The olfactory nerve is usually agreed to be the smell mediator. The axon connects the brain to the external air. Odorous molecules act as a chemical stimulus. Molecules bind to receptor proteins extended from cilia, initiating an electric signal.",
+            "score": 248.44277954101562
+        },
+        {
+            "docid": "21244265_4",
+            "document": "Olfaction . Molecules of odorants passing through the superior nasal concha of the nasal passages dissolve in the mucus that lines the superior portion of the cavity and are detected by olfactory receptors on the dendrites of the olfactory sensory neurons. This may occur by diffusion or by the binding of the odorant to odorant-binding proteins. The mucus overlying the epithelium contains mucopolysaccharides, salts, enzymes, and antibodies (these are highly important, as the olfactory neurons provide a direct passage for infection to pass to the brain). This mucus acts as a solvent for odor molecules, flows constantly, and is replaced approximately every ten minutes.",
+            "score": 246.29354858398438
+        },
+        {
+            "docid": "9855298_3",
+            "document": "Odorant-binding protein . The olfactory receptors of terrestrial animals exist in an aqueous environment, yet detect odorants that are primarily hydrophobic. The aqueous solubility of hydrophobic odorants is greatly enhanced via odorant-binding proteins, which exist in the extracellular fluid surrounding the odorant receptors. This family is composed of pheromone binding proteins (PBP), which are male-specific and associate with pheromone-sensitive neurons and general-odorant-binding proteins (GOBP).",
+            "score": 246.1376495361328
+        },
+        {
+            "docid": "49827542_3",
+            "document": "Insect olfaction . The two organs insects primarily use for detecting odors are the antennae and specialized mouth parts called the maxillary palps. However, a recent study has demonstrated the olfactory role of ovipositor in fig wasps. Inside of these olfactory organs there are neurons called olfactory receptor neurons which, as the name implies, house receptors for scent molecules in their cell membrane.The majority of olfactory receptor neurons typically reside in the antenna. These neurons can be very abundant, for example Drosophila flies have 2,600 olfactory sensory neurons.",
+            "score": 240.32305908203125
+        },
+        {
+            "docid": "21244265_37",
+            "document": "Olfaction . Early scientific study of olfaction includes the extensive doctoral dissertation of Eleanor Gamble, published in 1898, which compared olfactory to other stimulus modalities, and implied that smell had a lower intensity discrimination. As the Epicurean and atomistic Roman philosopher Lucretius (1stcentury BCE) speculated, different odors are attributed to different shapes and sizes of \"atoms\" (odor molecules in the modern understanding) that stimulate the olfactory organ . A modern demonstration of that theory was the cloning of olfactory receptor proteins by Linda B. Buck and Richard Axel (who were awarded the Nobel Prize in 2004), and subsequent pairing of odor molecules to specific receptor proteins. Each odor receptor molecule recognizes only a particular molecular feature or class of odor molecules. Mammals have about a thousand genes that code for odor reception. Of the genes that code for odor receptors, only a portion are functional. Humans have far fewer active odor receptor genes than other primates and other mammals. In mammals, each olfactory receptor neuron expresses only one functional odor receptor. Odor receptor nerve cells function like a key\u2013lock system: if the airborne molecules of a certain chemical can fit into the lock, the nerve cell will respond. There are, at present, a number of competing theories regarding the mechanism of odor coding and perception. According to the shape theory, each receptor detects a feature of the odor molecule. The weak-shape theory, known as the odotope theory, suggests that different receptors detect only small pieces of molecules, and these minimal inputs are combined to form a larger olfactory perception (similar to the way visual perception is built up of smaller, information-poor sensations, combined and refined to create a detailed overall perception). According to a new study, researchers have found that a functional relationship exists between molecular volume of odorants and the olfactory neural response.<ref name=\"10.1101/013516\"></ref> An alternative theory, the vibration theory proposed by Luca Turin, posits that odor receptors detect the frequencies of vibrations of odor molecules in the infrared range by quantum tunnelling. However, the behavioral predictions of this theory have been called into question. There is no theory yet that explains olfactory perception completely.",
+            "score": 239.78836059570312
+        },
+        {
+            "docid": "49827542_6",
+            "document": "Insect olfaction . Sensory neurons in the antenna, maxillary palp, and labella generate odor-specific electrical signals called spikes (action potentials) in response to binding of odors to cell surface proteins like the insect pheromone-binding protein. The sensory neurons in the antenna and maxillary send this information via their axons to the antennal lobe, while sensory neuron in the labella send this information via axons to the subesophageal ganglion. Inside the antennal lobe they synapse with other neurons in semidelineated (with membrane boundaries) structures called glomeruli.",
+            "score": 236.3048553466797
+        },
+        {
+            "docid": "569399_10",
+            "document": "Stimulus (physiology) . Smell allows the body to recognize chemical molecules in the air through inhalation. Olfactory organs located on either side of the nasal septum consist of olfactory epithelium and lamina propria. The olfactory epithelium, which contains olfactory receptor cells, covers the inferior surface of the cribiform plate, the superior portion of the perpendicular plate, the superior nasal concha. Only roughly two percent of airborne compounds inhaled are carried to olfactory organs as a small sample of the air being inhaled. Olfactory receptors extend past the epithelial surface providing a base for many cilia that lie in the surrounding mucus. Odorant-binding proteins interact with these cilia stimulating the receptors. Odorants are generally small organic molecules. Greater water and lipid solubility is related directly to stronger smelling odorants. Odorant binding to G protein coupled receptors activates adenylate cyclase, which converts ATP to camp. cAMP, in turn, promotes the opening of sodium channels resulting in a localized potential.",
+            "score": 233.64071655273438
+        },
+        {
+            "docid": "14881215_3",
+            "document": "OR10A7 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14880502_3",
+            "document": "OR51B4 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14883293_3",
+            "document": "OR2L13 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14881228_3",
+            "document": "OR10H4 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14892239_3",
+            "document": "OR6B2 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14879699_3",
+            "document": "OR6A2 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitters and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14880732_3",
+            "document": "OR4P4 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14881385_3",
+            "document": "OR4D2 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14892113_3",
+            "document": "OR51M1 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14879666_3",
+            "document": "OR1G1 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14882352_3",
+            "document": "OR8K3 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14879678_3",
+            "document": "OR3A3 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14892228_3",
+            "document": "OR56B1 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14880067_3",
+            "document": "OR12D2 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        },
+        {
+            "docid": "14881883_3",
+            "document": "OR1Q1 . Olfactory receptors interact with odorant molecules in the nose, to initiate a neuronal response that triggers the perception of a smell. The olfactory receptor proteins are members of a large family of G-protein-coupled receptors (GPCR) arising from single coding-exon genes. Olfactory receptors share a 7-transmembrane domain structure with many neurotransmitter and hormone receptors and are responsible for the recognition and G protein-mediated transduction of odorant signals. The olfactory receptor gene family is the largest in the genome. The nomenclature assigned to the olfactory receptor genes and proteins for this organism is independent of other organisms.",
+            "score": 231.12765502929688
+        }
+    ]
+}

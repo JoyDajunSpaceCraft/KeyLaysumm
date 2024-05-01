@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "21360297_2",
+            "document": "Decapping complex . The mRNA decapping complex is a protein complex in eukaryotic cells responsible for removal of the 5' cap. The core of the decapping complex is the Nudix family enzyme Dcp2. Many other proteins assemble with Dcp2 to form a protein complex.",
+            "score": 129.31322574615479
+        },
+        {
+            "docid": "20232_32",
+            "document": "Messenger RNA . Inside eukaryotic cells, there is a balance between the processes of translation and mRNA decay. Messages that are being actively translated are bound by ribosomes, the eukaryotic initiation factors eIF-4E and eIF-4G, and poly(A)-binding protein. eIF-4E and eIF-4G block the decapping enzyme (DCP2), and poly(A)-binding protein blocks the exosome complex, protecting the ends of the message. The balance between translation and decay is reflected in the size and abundance of cytoplasmic structures known as P-bodies The poly(A) tail of the mRNA is shortened by specialized exonucleases that are targeted to specific messenger RNAs by a combination of cis-regulatory sequences on the RNA and trans-acting RNA-binding proteins. Poly(A) tail removal is thought to disrupt the circular structure of the message and destabilize the cap binding complex. The message is then subject to degradation by either the exosome complex or the decapping complex. In this way, translationally inactive messages can be destroyed quickly, while active messages remain intact. The mechanism by which translation stops and the message is handed-off to decay complexes is not understood in detail.",
+            "score": 93.33273768424988
+        },
+        {
+            "docid": "11835257_5",
+            "document": "Cap binding complex . When translationally repressed or marked for decay by various mechanisms the 5' cap is bound by the mRNA decapping enzyme DCP2. A host of proteins accompany it including UPF1, UPF2, UPF3A, Dcp1, Dhh1, XRN1, and others. The decapping enzyme removes the 5' cap leading to destruction of the message.",
+            "score": 92.29693174362183
+        },
+        {
+            "docid": "14877613_3",
+            "document": "DCPS (gene) . The scavenger mRNA decapping enzymes include Dcp2 and DcpS. DcpS is a scavenger pyrophosphatase that hydrolyses the residual cap structure following 3' to 5' mRNA degradation. DcpS uses cap dinucleotides or capped oligonucleotides as substrates to release m(7)GMP (N7-methyl GMP), while Dcp2 uses capped mRNA as a substrate in order to hydrolyse the cap to release m(7)GDP (N7-methyl GDP). The association of DcpS with 3' to 5' exonuclease exosome components suggests that these two activities are linked and there is a coupled exonucleolytic decay-dependent decapping pathway. The family contains a histidine triad (HIT) sequence in its C-terminal domain, with three histidines separated by hydrophobic residues. The central histidine within the DcpS HIT motif is critical for decapping activity and defines the HIT motif as a new mRNA decapping domain, making DcpS the first member of the HIT family of proteins with a defined biological function.",
+            "score": 92.43187403678894
+        },
+        {
+            "docid": "616901_15",
+            "document": "Polyadenylation . In animals, poly(A) ribonuclease (PARN) can bind to the 5' cap and remove nucleotides from the poly(A) tail. The level of access to the 5' cap and poly(A) tail is important in controlling how soon the mRNA is degraded. PARN deadenylates less if the RNA is bound by the initiation factors 4E (at the 5' cap) and 4G (at the poly(A) tail), which is why translation reduces deadenylation. The rate of deadenylation may also be regulated by RNA-binding proteins. Once the poly(A) tail is removed, the decapping complex removes the 5' cap, leading to a degradation of the RNA. Several other enzymes that seem to be involved in deadenylation have been identified in yeast.",
+            "score": 69.28190588951111
+        },
+        {
+            "docid": "39383683_2",
+            "document": "M7GpppN-mRNA hydrolase . M7GpppN-mRNA hydrolase (, \"DCP2\", \"NUDT16\", \"D10 protein\", \"D9 protein\", \"D10 decapping enzyme\", \"decapping enzyme\") is an enzyme with systematic name \"m7GpppN-mRNA m7GDP phosphohydrolase\". This enzyme catalyses the following chemical reaction",
+            "score": 77.26624774932861
+        },
+        {
+            "docid": "21321919_4",
+            "document": "Messenger RNA decapping . Inside cells, there is a balance between the processes of translation and mRNA decay. Messages which are being actively translated are bound by polysomes and the eukaryotic initiation factors eIF-4E and eIF-4G (in eukaryotes). This blocks access to the cap by the decapping enzyme DCP2 and protects the mRNA molecule. In nutrient-starvation conditions or viral infection, translation may be compromised and decapping is stimulated. This balance is reflected in the size and abundance of the cytoplasmic structures known as P-bodies.",
+            "score": 87.37430906295776
+        },
+        {
+            "docid": "3378903_5",
+            "document": "Nonsense-mediated decay . The process of detecting aberrant transcripts occurs during translation of the mRNA. A popular model for the detection of aberrant transcripts in mammals suggests that during the first round of translation, the ribosome removes the exon-exon junction complexes bound to the mRNA after splicing occurs. If after this first round of translation, any of these proteins remain bound to the mRNA, NMD is activated. Exon-exon junction complexes located downstream of a stop codon are not removed from the transcript because the ribosome is released before reaching them. Termination of translation leads to the assembly of a complex composed of UPF1, SMG1 and the release factors, eRF1 and eRF3, on the mRNA. If an EJC is left on the mRNA because the transcript contains a premature stop codon, then UPF1 comes into contact with UPF2 and UPF3, triggering the phosphorylation of UPF1. In vertebrates, the location of the last exon-junction complex relative to the termination codon usually determines whether the transcript will be subjected to NMD or not. If the termination codon is downstream of or within about 50 nucleotides of the final exon-junction complex then the transcript is translated normally. However, if the termination codon is further than about 50 nucleotides upstream of any exon-junction complexes, then the transcript is down regulated by NMD. The phosphorylated UPF1 then interacts with SMG-5, SMG-6 and SMG-7, which promote the dephosphorylation of UPF1. SMG-7 is thought to be the terminating effector in NMD, as it accumulates in P-bodies, which are cytoplasmic sites for mRNA decay. In both yeast and human cells, the major pathway for mRNA decay is initiated by the removal of the 5\u2019 cap followed by degradation by XRN1, an exoribonuclease enzyme. The other pathway by which mRNA is degraded is by deadenylation from 3\u2019-5'.",
+            "score": 55.434611082077026
+        },
+        {
+            "docid": "6924749_4",
+            "document": "Capping enzyme . Eukaryotic RNA must undergo a series of modifications in order to be exported from the nucleus and successfully translated into function proteins, many of which are dependent on mRNA capping, the first mRNA modification to take place. 5' capping is essential for mRNA stability, enhancing mRNA processing, mRNA export and translation. After successful capping, an additional phosphorylation event initiates the recruitment of machinery necessary for RNA splicing, a process by which introns are removed to produce a mature mRNA. The addition of the cap onto mRNA confers protection to the transcript from exonucleases that degrade unprotected RNA and assist in the nuclear export transport process so that the mRNA can be translated to form proteins. The function of the 5' cap is essential to the ultimate expression of the RNA.",
+            "score": 66.41400694847107
+        },
+        {
+            "docid": "11835253_2",
+            "document": "Nuclear cap-binding protein complex . Nuclear cap-binding protein complex is a RNA-binding protein which binds to the 5' cap of pre-mRNA. The cap and nuclear cap-binding protein have many function in mRNA biogenesis including splicing, 3'-end formation by stabilizing the interaction of the 3'-end processing machinery, nuclear export and protection of the transcripts from nuclease degradation. When RNA is exported to the cytoplasm the nuclear cap-binding protein complex is replaced by cytoplasmic cap binding complex. The nuclear cap-binding complex is a functional heterodimer and composed of Cbc1/Cbc2 in yeast and CBC20/CBC80 in multicellular eukaryotes. Human nuclear cap-binding protein complex shows the large subunit, CBC80 consists of 757 amino acid residues. Its secondary structure contains approximately sixty percent of helical and one percent of beta sheet in the strand. The small subunit, CBC20 has 98 amino acid residues. Its secondary structure contains approximately twenty percent of helical and twenty-four percent of beta sheet in the strand. Human nuclear cap-binding protein complex plays important role in the maturation of pre-mRNA and uracil-rich small nuclear RNA.",
+            "score": 68.4548202753067
+        },
+        {
+            "docid": "417038_12",
+            "document": "Rhabdoviridae . Replication of many rhabdoviruses occurs in the cytoplasm, although several of the plant infecting viruses replicate in the nucleus.. In order for replication, both the L and P protein must be expressed to regulate transcription. The L protein have a lot of enzymatic actiivites such as RNA replication, capping mRNAs phospholorylation of P. L protein gives feature in about replication in cytopolasm. Transcription results in five monocistronic mRNAs being produced because the intergenic sequences act as both termination and promoter sequences for adjacent genes. This type of transcription mechanism is explained by stop-start model( stuttering transcription). Owing to stop-start model, the large amounts of the structural proteins are produced. According to this model, the virus-associated RNA polymerase starts firstly the synthesis of leader RNA and then the five mRNA which will produce N,P,M,G,L proteins, respectively. After the leader RNA was produced, the polymerase enzyme reinitiates virion transcription on N gene and proceeds its synthesis until it ends 3\u2032 end of the chain.Then, the synthesis of P mRNAs are made by same enzyme with new starter sinyal. These steps continue until the enzyme arrives the end of the L gene. During transcription process, the polymerase enzyme may leave the template at any point and then bound just at the 3\u2032 end of the genome RNA to start mRNA synthesis again. This process will results concentration gradient of the amount of mRNA based on its place and its range from the 3\u2032 end. In the circumstances, the amounts of mRNA species change and will be produced N>P>M>G>L proteins. During their synthesis the mRNAs are processed to introduce a 5' cap and a 3\u2019 polyadenylated tail to each of the molecules .This structure is homologous to cellular mRNAs and can thus be translated by cellular ribosomes to produce both structural and non-structural proteins.",
+            "score": 48.11993098258972
+        },
+        {
+            "docid": "9577500_14",
+            "document": "Exosome complex . The exosome is involved in the degradation and processing of a wide variety of RNA species. In the cytoplasm of cells, it is involved in the turn-over of messenger RNA (mRNA) molecules. The complex can degrade mRNA molecules that have been tagged for degradation because they contain errors, through interactions with proteins from the nonsense mediated decay or non-stop decay pathways. In alternative fashion, mRNAs are degraded as part of their normal turnover. Several proteins that stabilize or destabilize mRNA molecules through binding to AU-rich elements in the 3' untranslated region of mRNAs interact with the exosome complex. In the nucleus, the exosome is required for the correct processing of several small nuclear RNA molecules. Finally, the nucleolus is the compartment where the majority of the exosome complexes are found. There it plays a role in the processing of the 5.8S ribosomal RNA (the first identified function of the exosome) and of several small nucleolar RNAs.",
+            "score": 49.287880420684814
+        },
+        {
+            "docid": "159266_11",
+            "document": "Gene expression . Another modification is 3' \"cleavage and polyadenylation\". They occur if polyadenylation signal sequence (5'- AAUAAA-3') is present in pre-mRNA, which is usually between protein-coding sequence and terminator. The pre-mRNA is first cleaved and then a series of ~200 adenines (A) are added to form poly(A) tail, which protects the RNA from degradation. Poly(A) tail is bound by multiple poly(A)-binding proteins (PABP) necessary for mRNA export and translation re-initiation. A very important modification of eukaryotic pre-mRNA is \"RNA splicing\". The majority of eukaryotic pre-mRNAs consist of alternating segments called exons and introns. During the process of splicing, an RNA-protein catalytical complex known as spliceosome catalyzes two transesterification reactions, which remove an intron and release it in form of lariat structure, and then splice neighbouring exons together. In certain cases, some introns or exons can be either removed or retained in mature mRNA. This so-called alternative splicing creates series of different transcripts originating from a single gene. Because these transcripts can be potentially translated into different proteins, splicing extends the complexity of eukaryotic gene expression.",
+            "score": 63.81841433048248
+        },
+        {
+            "docid": "14168329_3",
+            "document": "UPF1 . This gene encodes a protein that is part of a post-splicing multiprotein complex, the exon junction complex, involved in both mRNA nuclear export and mRNA surveillance. mRNA surveillance detects exported mRNAs with truncated open reading frames and initiates nonsense-mediated mRNA decay (NMD). When translation ends upstream from the last exon-exon junction, this triggers NMD to degrade mRNAs containing premature stop codons. This protein is located only in the cytoplasm. When translation ends, it interacts with the protein that is a functional homolog of yeast Upf2p to trigger mRNA decapping. Use of multiple polyadenylation sites has been noted for this gene.",
+            "score": 65.6440360546112
+        },
+        {
+            "docid": "4501641_10",
+            "document": "Stress granule . Although some protein components are shared between stress granules and processing bodies, the majority of proteins in either structure are uniquely localized to either structure. While both stress granules and processing bodies are associated with mRNAs, processing bodies have been long proposed to be sites of mRNA degradation because they contain enzymes like DCP1/2 and XRN1 that are known to degrade mRNAs. However, others have demonstrated that mRNAs associated with processing bodies are largely translationally repressed but not degraded. It has also been proposed that mRNAs selected for degradation are passed from stress granules to processing bodies.",
+            "score": 42.25096845626831
+        },
+        {
+            "docid": "2826492_7",
+            "document": "RNA editing . The mechanism of the editosome involves an endonucleolytic cut at the mismatch point between the guide RNA and the unedited transcript. The next step is catalyzed by one of the enzymes in the complex, a terminal U-transferase, which adds Us from UTP at the 3' end of the mRNA. The opened ends are held in place by other proteins in the complex. Another enzyme, a U-specific exoribonuclease, removes the unpaired Us. After editing has made mRNA complementary to gRNA, an RNA ligase rejoins the ends of the edited mRNA transcript. As a consequence, the editosome can edit only in a 3' to 5' direction along the primary RNA transcript. The complex can act on only a single guide RNA at a time. Therefore, a RNA transcript requiring extensive editing will need more than one guide RNA and editosome complex.",
+            "score": 52.39141297340393
+        },
+        {
+            "docid": "55595064_2",
+            "document": "Smaug (protein) . Smaug is a RNA binding protein in \"Drosophila\" that helps in maternal to zygotic transition (MZT). Named after the fictional character Smaug, the dragon in J.R.R. Tolkien's 1937 novel \"The Hobbit\". The MZT ends with the midblastula transition (MBT), which is defined as the first developmental event in \"Drosophila\" that depends on zygotic mRNA. In Drosophila, the initial developmental events are controlled by maternal mRNAs like \"Hsp83\", \"nanos\", \"string\", \"Pgc\", and \"cyclin B\" mRNA. Degradation of these mRNAs, which is expected to terminate maternal control and enable zygotic control of embryogenesis, happens at interphase of nuclear division cycle 14. During this transition smaug protein targets the maternal mRNA for destruction using miRs. Thus activating the zygotic genes. Smaug is expected to play a role in expression of three miRNAs \u2013 \"miR-3, miR-6, miR-309\" and \"miR-286\" during MZT in Drosophila. Among them smaug dependent expression of \"miR-309\" is needed for destabilization of 410 maternal mRNA. In smaug mutants almost 85% of maternal mRNA is found to be stable. Smaug also bind to 3\u2032 untranslated region (UTR) elements known as \"SMG response elements\" (SREs) on \"nanos\" mRNA and represses its expression by recruiting a protein called Cup \"(an eIF4E-binding protein that blocks the binding of eIF4G to eIF4E)\". There after it recruits deadenylation complex CCR4-NOT on to the nanos mRNA which leads to deadenylation and subsequent decay of the mRNA. It is also found to be involved in degradation and repression of maternal Hsp83 mRNA by recruiting CCR4/POP2/NOT deadenylase to the mRNA.",
+            "score": 42.881773352622986
+        },
+        {
+            "docid": "584617_10",
+            "document": "Small interfering RNA . The siRNA induced post transcriptional gene silencing starts with the assembly of the RNA-induced silencing complex (RISC). The complex silences certain gene expression by cleaving the mRNA molecules coding the target genes. To begin the process, one of the two siRNA strands, the guide strand, will be loaded into the RISC while the other strand, the passenger strand, is degraded. Certain Dicer enzymes may be responsible of loading the guide strand into RISC. Then, the siRNA scans for and direct RISC to perfectly complementary sequence on the mRNA molecules. The cleavage of the mRNA molecules is thought to be catalyzed by the Piwi domain of Argonaute proteins of the RISC. The mRNA molecule is then cut precisely by cleaving the phosphodiester bond between the target nucleotides which are paired to siRNA residues 10 and 11, counting from the 5\u2019end. This cleavage results in mRNA fragments that are further degraded by cellular exonucleases. The 5\u2019 fragment is degraded from its 3\u2019 end by exosome while the 3\u2019 fragment is degraded from its 5\u2019 end by 5' -3' exoribonuclease 1(XRN1). Dissociation of the target mRNA strand from RISC after the cleavage allow more mRNA to be silenced. This dissociation process is likely to be promoted by extrinsic factors driven by ATP hydrolysis.",
+            "score": 49.380775690078735
+        },
+        {
+            "docid": "4355487_20",
+            "document": "Apolipoprotein B . C to U editing of ApoB mRNA requires an editing complex or holoenzyme (editosome) consisting of the C to U-editing enzyme Apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1 (ApoBEC-1) as well as other auxiliary factors. ApoBEC-1 is a protein that in humans is encoded by the \"APOBEC1\" gene.[1]It is a member of the cytidine deaminase family. ApoBEC-1 alone is not sufficient for the editing of ApoB mRNA and requires at least one of these auxiliary factors, APOBEC1 complementation factor (A1CF) for editing to occur. A1CF contains 3 non identical repeats. It acts as the RNA binding subunit and directs ApoBEC-1 to the ApoB mRNA downstream of the edited cytidine. Other auxiliary factors are known to be part of the holoenzyme. Some of these proteins have been identified. these are CUG binding protein 2 (CUGBP2), SYNCRIP (glycine-arginine-tyrosine-rich RNA binding protein, GRY-RBP), heterogenous nuclear ribonucleoprotein (hnRNP)-C1, ApoBEC-1 binding protein (ABBP)1, ABBP2, KH-type splicing regulatory binding protein (KSRP), Bcl-2-associated anthogene 4 (BAG4), and auxiliary factor (AUX)240. All these proteins have been identified using detection assays and have all been demonstrated to interact with either ApoBEC-1, A1CF, or ApoB RNA. The function of these auxiliary proteins in the editing complex are unknown. As well as editing ApoB mRNA, the ApoBEC-1 editsome also edits the mRNA of NF1. mRNA editing of ApoB mRNA is the best defined example of this type of C to U RNA editing in humans.",
+            "score": 49.88702118396759
+        },
+        {
+            "docid": "14776592_3",
+            "document": "HNRNPL . Heterogeneous nuclear RNAs (hnRNAs) which include mRNA precursors and mature mRNAs are associated with specific proteins to form heterogeneous ribonucleoprotein (hnRNP) complexes. Heterogeneous nuclear ribonucleoprotein L is among the proteins that are stably associated with hnRNP complexes and along with other hnRNP proteins is likely to play a major role in the formation, packaging, processing, and function of mRNA. Heterogeneous nuclear ribonucleoprotein L is present in the nucleoplasm as part of the HNRP complex. HNRP proteins have also been identified outside of the nucleoplasm. Exchange of hnRNP for mRNA-binding proteins accompanies transport of mRNA from the nucleus to the cytoplasm. Since HNRP proteins have been shown to shuttle between the nucleus and the cytoplasm, it is possible that they also have cytoplasmic functions. Two transcript variants encoding different isoforms have been found for this gene.",
+            "score": 51.27750253677368
+        },
+        {
+            "docid": "12026496_3",
+            "document": "XRN1 (gene) . This gene encodes a member of the 5'-3' exonuclease family. The encoded protein may be involved in replication-dependent histone mRNA degradation, and interacts directly with the enhancer of mRNA-decapping protein 4. In addition to mRNA metabolism, a similar protein in yeast has been implicated in a variety of nuclear and cytoplasmic functions, including homologous recombination, meiosis, telomere maintenance, and microtubule assembly. Mutations in this gene are associated with osteosarcoma, suggesting that the encoded protein may also play a role in bone formation. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Sep 2013].",
+            "score": 54.31699085235596
+        },
+        {
+            "docid": "11834955_7",
+            "document": "Poly(A)-binding protein . The cytosolic isoform of eukaryotic poly(A)-binding protein binds to the initiation factor eIF4G via its C-terminal domain. eIF4G is a component of the eIF4F complex, containing eIF4E, another initiation factor bound to the 5' cap on the 5' end of mRNA. This binding forms the characteristic loop structure of eukaryotic protein synthesis. Poly(A)-binding proteins in the cytosol compete for the eIF4G binding sites. This interaction enhances both the affinity of eIF4E for the cap structure and PABP1 for poly(A), effectively locking proteins onto both ends of the mRNA. As a result, this association may in part underlie the ability of PABP1 to promote small ribosomal (40S) subunit recruitment, which is aided by the interaction between eIF4G and eIF3. Poly(A)-binding protein has also been shown to interact with a termination factor (eRF3). The eRF3/PABP1 interaction may promote recycling of terminating ribosomes from the 3' to 5' end, facilitating multiple rounds of initiation on an mRNA. Alternatively, it may link translation to mRNA decay, as eRF3 appears to interfere with the ability of PABP1 to multimerise/form on poly(A), potentially leading to PABP1 dissociation, deadenylation and, ultimately, turnover.",
+            "score": 64.45234704017639
+        },
+        {
+            "docid": "6924749_2",
+            "document": "Capping enzyme . A capping enzyme (CE) is an enzyme that catalyzes the attachment of the 5' cap to messenger RNA molecules that are in the process of being synthesized in the cell nucleus during the first stages of gene expression. The addition of the cap occurs co-transcriptionally, after the growing RNA molecule contains as little as 25 nucleotides. The enzymatic reaction is catalyzed specifically by the phosphorylated carboxyl-terminal domain (CTD) of RNA polymerase II. The 5' cap is therefore specific to RNAs synthesized by this polymerase rather than those synthesized by RNA polymerase I or RNA polymerase III. Pre-mRNA undergoes a series of modifications - 5' capping, splicing and 3' polyadenylation before becoming mature mRNA that exits the nucleus to be translated into functional proteins and capping of the 5' end is the first of these modifications. Three enzymes, RNA triphosphatase, guanylyltransferase (or CE), and methyltransferase are involved in the addition of the methylated 5' cap to the mRNA.",
+            "score": 57.017977476119995
+        },
+        {
+            "docid": "616901_13",
+            "document": "Polyadenylation . The poly(A) tail acts as the binding site for poly(A)-binding protein. Poly(A)-binding protein promotes export from the nucleus and translation, and inhibits degradation. This protein binds to the poly(A) tail prior to mRNA export from the nucleus and in yeast also recruits poly(A) nuclease, an enzyme that shortens the poly(A) tail and allows the export of the mRNA. Poly(A)-binding protein is exported to the cytoplasm with the RNA. mRNAs that are not exported are degraded by the exosome. Poly(A)-binding protein also can bind to, and thus recruit, several proteins that affect translation, one of these is initiation factor-4G, which in turn recruits the 40S ribosomal subunit. However, a poly(A) tail is not required for the translation of all mRNAs. Further, poly(A) tailing (oligo-adenylation) can determine the fate of RNA molecules that are usually not poly(A)-tailed (such as (small) non-coding (sn)RNAs etc.) and thereby induce their RNA decay.",
+            "score": 39.57354652881622
+        },
+        {
+            "docid": "20232_15",
+            "document": "Messenger RNA . Another difference between eukaryotes and prokaryotes is mRNA transport. Because eukaryotic transcription and translation is compartmentally separated, eukaryotic mRNAs must be exported from the nucleus to the cytoplasm\u2014a process that may be regulated by different signaling pathways. Mature mRNAs are recognized by their processed modifications and then exported through the nuclear pore by binding to the cap-binding proteins CBP20 and CBP80, as well as the transcription/export complex (TREX). Multiple mRNA export pathways have been identified in eukaryotes.",
+            "score": 62.8693904876709
+        },
+        {
+            "docid": "9955145_23",
+            "document": "Eukaryotic transcription . Elongating polymerase is associated with a set of protein factors required for various types of RNA processing. mRNA is capped as soon as it emerges from the RNA-exit channel of the polymerase. After capping, dephosphorylation of Ser-5 within the CTD repeats may be responsible for dissociation of the capping machinery. Further phosphorylation of Ser-2 causes recruitment of the RNA splicing machinery that catalyzes the removal of non-coding introns to generate mature mRNA. Alternative splicing expands the protein complements in eukaryotes. Just as with 5\u2019-capping and splicing, the CTD tail is involved in recruiting enzymes responsible for 3\u2019-polyadenylation, the final RNA processing event that is coupled with the termination of transcription.",
+            "score": 60.570109367370605
+        },
+        {
+            "docid": "14796592_2",
+            "document": "DCP2 . mRNA-decapping enzyme 2 is a protein that in humans is encoded by the \"DCP2\" gene.",
+            "score": 67.40168380737305
+        },
+        {
+            "docid": "22300778_2",
+            "document": "Exon junction complex . An exon junction complex (EJC) is a protein complex which forms on a pre-messenger RNA strand at the junction of two exons which have been joined together during RNA splicing. The EJC has major influences on translation, surveillance and localization of the spliced mRNA. It is first deposited onto mRNA during splicing and is then transported into the cytoplasm. There it plays a major role in post-transcriptional regulation of mRNA. It is believed that exon junction complexes provide a position-specific memory of the splicing event. The EJC consists of a stable heterotetramer core, which serves as a binding platform for other factors necessary for the mRNA pathway. The core of the EJC contains the protein eukaryotic initiation factor 4A-III (eIF4A-III; a DEAD-box RNA helicase) bound to an adenosine triphosphate (ATP) analog, as well as the additional proteins Magoh and Y14.The binding of these proteins to nuclear speckled domains has been measured recently and it may be regulated by PI3K/AKT/mTOR signaling pathways. In order for the binding of the complex to the mRNA to occur, the eIF4AIII factor is inhibited, stopping the hydrolysis of ATP. This recognizes EJC as an ATP dependent complex. EJC also interacts with a large number of additional proteins; most notably SR proteins. These interactions are suggested to be important for mRNA compaction.",
+            "score": 61.569448351860046
+        },
+        {
+            "docid": "21957_12",
+            "document": "Nuclear pore . There are different export pathways through the NPC for each RNA class that exists. RNA export is also signal mediated (NES); the NES is in RNA-binding proteins (except for tRNA which has no adapter). It is notable that all viral RNAs and cellular RNAs (tRNA, rRNA, U snRNA, microRNA) except mRNA are dependent on RanGTP. Conserved mRNA export factors are necessary for mRNA nuclear export. Export factors are Mex67/Tap (large subunit) and Mtr2/p15 (small subunit). In higher eukaryotes, mRNA export is thought to be dependent on splicing which in turn recruits a protein complex, TREX, to spliced messages. TREX functions as an adapter for TAP, which is a very poor RNA binding protein. However, there are alternative mRNA export pathways that do not rely on splicing for specialized messages such as histones. Recent work also suggest an interplay between splicing-dependent export and one of these alternative mRNA export pathways for secretory and mitochondrial transcripts.",
+            "score": 55.85936260223389
+        },
+        {
+            "docid": "11834955_2",
+            "document": "Poly(A)-binding protein . Poly(A)-binding protein (PAB or PABP) is a RNA-binding protein which binds to the poly(A) tail of mRNA. The poly(A) tail is located on the 3' end of mRNA and is 200-250 nucleotides long. The binding protein is also involved in mRNA precursors by helping polyadenylate polymerase add the poly(A) nucleotide tail to the pre-mRNA before translation. The nuclear isoform selectively binds to around 50 nucleotides and stimulates the activity of polyadenylate polymerase by increasing its affinity towards RNA. Poly(A)-binding protein is also present during stages of mRNA metabolism including nonsense-mediated decay and nucleocytoplasmic trafficking. The poly(A)-binding protein may also protect the tail from degradation and regulate mRNA production. Without these two proteins in-tandem, then the poly(A) tail would not be added and the RNA would degrade quickly.",
+            "score": 38.285457611083984
+        },
+        {
+            "docid": "4144434_5",
+            "document": "P-bodies . P-bodies were first described in the scientific literature by Bashkirov \"et al.\" in 1997, in which they describe \"small granules\u2026 discrete, prominent foci\" as the cytoplasmic location of the mouse exoribonuclease mXrn1p. It wasn\u2019t until 2002 that a glimpse into the nature and importance of these cytoplasmic foci was published. In 2002, researchers demonstrated that multiple proteins involved with mRNA degradation localize to the foci. During this time, many descriptive names were used to identify the processing bodies, including \"GW-bodies\" and \"decapping-bodies\"; however \"P-bodies\" was the term chosen and is now widely used and accepted in the scientific literature. Recently evidence has been presented suggesting that GW-bodies and P-bodies may in fact be different cellular components. The evidence being that GW182 and Ago2, both associated with miRNA gene silencing, are found exclusively in multivesicular bodies or GW-bodies and are not localized to P-bodies. Also of note, P-bodies are not equivalent to stress granules and they contain largely non-overlapping proteins. The two structures support overlapping cellular functions but generally occur under different stimuli. Hoyle et al. suggests a novel site termed EGP bodies, or stress granules, may be responsible for mRNA storage as these sites lack the decapping enzyme.",
+            "score": 53.33645248413086
+        },
+        {
+            "docid": "3239191_6",
+            "document": "Post-transcriptional modification . RNA splicing is the process by which introns, regions of RNA that do not code for proteins, are removed from the pre-mRNA and the remaining exons connected to re-form a single continuous molecule. Exons are sections of mRNA which become \"expressed\" or translated into a protein. They are the coding portions of a mRNA molecule. Although most RNA splicing occurs after the complete synthesis and end-capping of the pre-mRNA, transcripts with many exons can be spliced co-transcriptionally. The splicing reaction is catalyzed by a large protein complex called the spliceosome assembled from proteins and small nuclear RNA molecules that recognize splice sites in the pre-mRNA sequence. Many pre-mRNAs, including those encoding antibodies, can be spliced in multiple ways to produce different mature mRNAs that encode different protein sequences. This process is known as alternative splicing, and allows production of a large variety of proteins from a limited amount of DNA.",
+            "score": 45.06250476837158
+        }
+    ],
+    "r": [
+        {
+            "docid": "21360297_2",
+            "document": "Decapping complex . The mRNA decapping complex is a protein complex in eukaryotic cells responsible for removal of the 5' cap. The core of the decapping complex is the Nudix family enzyme Dcp2. Many other proteins assemble with Dcp2 to form a protein complex.",
+            "score": 129.313232421875
+        },
+        {
+            "docid": "20232_32",
+            "document": "Messenger RNA . Inside eukaryotic cells, there is a balance between the processes of translation and mRNA decay. Messages that are being actively translated are bound by ribosomes, the eukaryotic initiation factors eIF-4E and eIF-4G, and poly(A)-binding protein. eIF-4E and eIF-4G block the decapping enzyme (DCP2), and poly(A)-binding protein blocks the exosome complex, protecting the ends of the message. The balance between translation and decay is reflected in the size and abundance of cytoplasmic structures known as P-bodies The poly(A) tail of the mRNA is shortened by specialized exonucleases that are targeted to specific messenger RNAs by a combination of cis-regulatory sequences on the RNA and trans-acting RNA-binding proteins. Poly(A) tail removal is thought to disrupt the circular structure of the message and destabilize the cap binding complex. The message is then subject to degradation by either the exosome complex or the decapping complex. In this way, translationally inactive messages can be destroyed quickly, while active messages remain intact. The mechanism by which translation stops and the message is handed-off to decay complexes is not understood in detail.",
+            "score": 93.3327407836914
+        },
+        {
+            "docid": "14877613_3",
+            "document": "DCPS (gene) . The scavenger mRNA decapping enzymes include Dcp2 and DcpS. DcpS is a scavenger pyrophosphatase that hydrolyses the residual cap structure following 3' to 5' mRNA degradation. DcpS uses cap dinucleotides or capped oligonucleotides as substrates to release m(7)GMP (N7-methyl GMP), while Dcp2 uses capped mRNA as a substrate in order to hydrolyse the cap to release m(7)GDP (N7-methyl GDP). The association of DcpS with 3' to 5' exonuclease exosome components suggests that these two activities are linked and there is a coupled exonucleolytic decay-dependent decapping pathway. The family contains a histidine triad (HIT) sequence in its C-terminal domain, with three histidines separated by hydrophobic residues. The central histidine within the DcpS HIT motif is critical for decapping activity and defines the HIT motif as a new mRNA decapping domain, making DcpS the first member of the HIT family of proteins with a defined biological function.",
+            "score": 92.43187713623047
+        },
+        {
+            "docid": "11835257_5",
+            "document": "Cap binding complex . When translationally repressed or marked for decay by various mechanisms the 5' cap is bound by the mRNA decapping enzyme DCP2. A host of proteins accompany it including UPF1, UPF2, UPF3A, Dcp1, Dhh1, XRN1, and others. The decapping enzyme removes the 5' cap leading to destruction of the message.",
+            "score": 92.29693603515625
+        },
+        {
+            "docid": "21321919_4",
+            "document": "Messenger RNA decapping . Inside cells, there is a balance between the processes of translation and mRNA decay. Messages which are being actively translated are bound by polysomes and the eukaryotic initiation factors eIF-4E and eIF-4G (in eukaryotes). This blocks access to the cap by the decapping enzyme DCP2 and protects the mRNA molecule. In nutrient-starvation conditions or viral infection, translation may be compromised and decapping is stimulated. This balance is reflected in the size and abundance of the cytoplasmic structures known as P-bodies.",
+            "score": 87.37431335449219
+        },
+        {
+            "docid": "21360297_4",
+            "document": "Decapping complex . Higher eukaryotes have slightly different members of the decapping complex. The enzyme Dcp2 is still the catalytic subunit along with Dcp1, Xrn1, Upf1-3, the LSm complex, and the Dhh1 ortholog Rck/p-54. Proteins unique to plants and mammals include the beta propeller protein Hedls and the enhancer of decapping Edc3. Structural details of the assembly of this complex are not known, only physical association by immunoprecipitation.",
+            "score": 78.42373657226562
+        },
+        {
+            "docid": "616940_14",
+            "document": "Five-prime cap . Capping with 7-methylguanylate prevents 5\u2032 degradation in two ways. First, degradation of the mRNA by 5\u2032 exonucleases is prevented (as mentioned above) by functionally looking like a 3\u2032 end. Second, the CBC and eIF4E/eIF4G block the access of decapping enzymes to the cap. This increases the half-life of the mRNA, essential in eukaryotes as the export and translation processes take significant time.",
+            "score": 78.28244018554688
+        },
+        {
+            "docid": "39383683_2",
+            "document": "M7GpppN-mRNA hydrolase . M7GpppN-mRNA hydrolase (, \"DCP2\", \"NUDT16\", \"D10 protein\", \"D9 protein\", \"D10 decapping enzyme\", \"decapping enzyme\") is an enzyme with systematic name \"m7GpppN-mRNA m7GDP phosphohydrolase\". This enzyme catalyses the following chemical reaction",
+            "score": 77.26625061035156
+        },
+        {
+            "docid": "616940_15",
+            "document": "Five-prime cap . Decapping of a 7-methylguanylate-capped mRNA is catalyzed by the decapping complex made up of at least Dcp1 and Dcp2, which must compete with eIF4E to bind the cap. Thus the 7-methylguanylate cap is a marker of an actively translating mRNA and is used by cells to regulate mRNA half-lives in response to new stimuli. Undesirable mRNAs are sent to P-bodies for temporary storage or decapping, the details of which are still being resolved.",
+            "score": 76.17853546142578
+        },
+        {
+            "docid": "23762695_2",
+            "document": "Red clover necrotic mosaic virus translation enhancer elements . Red clover necrotic mosaic virus (RCNMV) contains several structural elements present within the 3' and 5' untranslated regions (UTR) of the genome that enhance translation. In eukaryotes transcription is a prerequisite for translation. During transcription the pre-mRNA transcript is processes where a 5' cap is attached onto mRNA and this 5' cap allows for ribosome assembly onto the mRNA as it acts as a binding site for the eukaryotic initiation factor eIF4F. Once eIF4F is bound to the mRNA this protein complex interacts with the poly(A) binding protein which is present within the 3' UTR and results in mRNA circularization. This multiprotein-mRNA complex then recruits the ribosome subunits and scans the mRNA until it reaches the start codon. Transcription of viral genomes differs from eukaryotes as viral genomes produce mRNA transcripts that lack a 5\u2019 cap site. Despite lacking a cap site viral genes contain a structural element within the 5\u2019 UTR known as an internal ribosome entry site (IRES). IRES is a structural element that recruits the 40s ribosome subunit to the mRNA within close proximity of the start codon.",
+            "score": 69.8805923461914
+        },
+        {
+            "docid": "21321919_2",
+            "document": "Messenger RNA decapping . The process of messenger RNA decapping consists of hydrolysis of the 5' cap structure on the RNA exposing a 5' monophosphate. In eukaryotes, this 5' monophosphate is a substrate for the 5' exonuclease Xrn1 and the mRNA is quickly destroyed. There are many situations which may lead to the removal of the cap, some of which are discussed below.",
+            "score": 69.7182846069336
+        },
+        {
+            "docid": "616901_15",
+            "document": "Polyadenylation . In animals, poly(A) ribonuclease (PARN) can bind to the 5' cap and remove nucleotides from the poly(A) tail. The level of access to the 5' cap and poly(A) tail is important in controlling how soon the mRNA is degraded. PARN deadenylates less if the RNA is bound by the initiation factors 4E (at the 5' cap) and 4G (at the poly(A) tail), which is why translation reduces deadenylation. The rate of deadenylation may also be regulated by RNA-binding proteins. Once the poly(A) tail is removed, the decapping complex removes the 5' cap, leading to a degradation of the RNA. Several other enzymes that seem to be involved in deadenylation have been identified in yeast.",
+            "score": 69.28190612792969
+        },
+        {
+            "docid": "11835253_2",
+            "document": "Nuclear cap-binding protein complex . Nuclear cap-binding protein complex is a RNA-binding protein which binds to the 5' cap of pre-mRNA. The cap and nuclear cap-binding protein have many function in mRNA biogenesis including splicing, 3'-end formation by stabilizing the interaction of the 3'-end processing machinery, nuclear export and protection of the transcripts from nuclease degradation. When RNA is exported to the cytoplasm the nuclear cap-binding protein complex is replaced by cytoplasmic cap binding complex. The nuclear cap-binding complex is a functional heterodimer and composed of Cbc1/Cbc2 in yeast and CBC20/CBC80 in multicellular eukaryotes. Human nuclear cap-binding protein complex shows the large subunit, CBC80 consists of 757 amino acid residues. Its secondary structure contains approximately sixty percent of helical and one percent of beta sheet in the strand. The small subunit, CBC20 has 98 amino acid residues. Its secondary structure contains approximately twenty percent of helical and twenty-four percent of beta sheet in the strand. Human nuclear cap-binding protein complex plays important role in the maturation of pre-mRNA and uracil-rich small nuclear RNA.",
+            "score": 68.45481872558594
+        },
+        {
+            "docid": "14796592_2",
+            "document": "DCP2 . mRNA-decapping enzyme 2 is a protein that in humans is encoded by the \"DCP2\" gene.",
+            "score": 67.40167999267578
+        },
+        {
+            "docid": "14161767_3",
+            "document": "EIF4E . Most eukaryotic cellular mRNAs are blocked at their 5'-ends with the 7-methyl-guanosine five-prime cap structure, m7GpppX (where X is any nucleotide). This structure is involved in several cellular processes including enhanced translational efficiency, splicing, mRNA stability, and RNA nuclear export. eIF4E is a eukaryotic translation initiation factor involved in directing ribosomes to the cap structure of mRNAs. It is a 24-kD polypeptide that exists as both a free form and as part of the eIF4F pre-initiation complex. Almost all cellular mRNA require eIF4E in order to be translated into protein. The eIF4E polypeptide is the rate-limiting component of the eukaryotic translation apparatus and is involved in the mRNA-ribosome binding step of eukaryotic protein synthesis.",
+            "score": 67.25482940673828
+        },
+        {
+            "docid": "1212895_2",
+            "document": "Exonuclease . Exonucleases are enzymes that work by cleaving nucleotides one at a time from the end (exo) of a polynucleotide chain. A hydrolyzing reaction that breaks phosphodiester bonds at either the 3' or the 5' end occurs. Its close relative is the endonuclease, which cleaves phosphodiester bonds in the middle (endo) of a polynucleotide chain. Eukaryotes and prokaryotes have three types of exonucleases involved in the normal turnover of mRNA: 5' to 3' exonuclease (Xrn1), which is a dependent decapping protein; 3' to 5' exonuclease, an independent protein; and poly(A)-specific 3' to 5' exonuclease.",
+            "score": 67.08211517333984
+        },
+        {
+            "docid": "6924749_4",
+            "document": "Capping enzyme . Eukaryotic RNA must undergo a series of modifications in order to be exported from the nucleus and successfully translated into function proteins, many of which are dependent on mRNA capping, the first mRNA modification to take place. 5' capping is essential for mRNA stability, enhancing mRNA processing, mRNA export and translation. After successful capping, an additional phosphorylation event initiates the recruitment of machinery necessary for RNA splicing, a process by which introns are removed to produce a mature mRNA. The addition of the cap onto mRNA confers protection to the transcript from exonucleases that degrade unprotected RNA and assist in the nuclear export transport process so that the mRNA can be translated to form proteins. The function of the 5' cap is essential to the ultimate expression of the RNA.",
+            "score": 66.41400909423828
+        },
+        {
+            "docid": "49497304_2",
+            "document": "Eukaryotic initiation factor 4F . Eukaryotic initiation factor 4F (eIF4F) is a heterotrimeric protein complex that binds the 5' cap of messenger RNAs (mRNAs) to promote eukaryotic translation initiation. The eIF4F complex is composed of three non-identical subunits: the DEAD-box RNA helicase eIF4A, the cap-binding protein eIF4E, and the large \"scaffold\" protein eIF4G. The mammalian eIF4F complex was first described in 1983, and has been a major area of study into the molecular mechanisms of cap-dependent translation initiation ever since.",
+            "score": 66.1378173828125
+        },
+        {
+            "docid": "14168329_3",
+            "document": "UPF1 . This gene encodes a protein that is part of a post-splicing multiprotein complex, the exon junction complex, involved in both mRNA nuclear export and mRNA surveillance. mRNA surveillance detects exported mRNAs with truncated open reading frames and initiates nonsense-mediated mRNA decay (NMD). When translation ends upstream from the last exon-exon junction, this triggers NMD to degrade mRNAs containing premature stop codons. This protein is located only in the cytoplasm. When translation ends, it interacts with the protein that is a functional homolog of yeast Upf2p to trigger mRNA decapping. Use of multiple polyadenylation sites has been noted for this gene.",
+            "score": 65.64403533935547
+        },
+        {
+            "docid": "11835257_3",
+            "document": "Cap binding complex . In the nucleus freshly transcribed mRNA molecules are bound on the 5' cap by the nuclear cap-binding complex of Cbc1/Cbc2 in yeast or CBP20/CBP80 in metazoans. These aid in the export of the mRNA and protect it from decapping. They also serve as a marker for the so-called pioneer round of translation when the message is examined by nonsense mediated decay.",
+            "score": 64.78722381591797
+        },
+        {
+            "docid": "9577500_11",
+            "document": "Exosome complex . As stated above, the exosome complex contains many proteins with ribonuclease domains. The exact nature of these ribonuclease domains has changed across evolution from bacterial to archaeal to eukaryotic complexes as various activities have been gained and lost. The exosome is primarily a 3'-5' exoribonuclease, meaning that it degrades RNA molecules from their 3' end. Exoribonucleases contained in exosome complexes are either phosphorolytic (the RNase PH-like proteins) or, in eukaryotes, hydrolytic (the RNase R and RNase D domain proteins). The phosphorolytic enzymes use inorganic phosphate to cleave the phosphodiester bonds - releasing nucleotide diphosphates. The hydrolytic enzymes use water to hydrolyse these bonds - releasing nucleotide monophosphates.",
+            "score": 64.60140991210938
+        },
+        {
+            "docid": "38402739_22",
+            "document": "MTORC1 . Activated mTORC1 will phosphorylate translation inhibitor 4E-BP1, releasing it from eukaryotic translation initiation factor 4E (eIF4E). eIF4E is now free to join the eukaryotic translation initiation factor 4G (eIF4G) and the eukaryotic translation initiation factor 4A (eIF4A). This complex then binds to the 5' cap of mRNA and will recruit the helicase eukaryotic translation initiation factor A (eIF4A) and its cofactor eukaryotic translation initiation factor 4B (eIF4B). The helicase is required to remove hairpin loops that arise in the 5' untranslated regions of mRNA, which prevent premature translation of proteins. Once the initiation complex is assembled at the 5' cap of mRNA, it will recruit the 40S small ribosomal subunit that is now capable of scanning for the AUG start codon start site, because the hairpin loop has been eradicated by the eIF4A helicase. Once the ribosome reaches the AUG codon, translation can begin.",
+            "score": 64.57131958007812
+        },
+        {
+            "docid": "11834955_7",
+            "document": "Poly(A)-binding protein . The cytosolic isoform of eukaryotic poly(A)-binding protein binds to the initiation factor eIF4G via its C-terminal domain. eIF4G is a component of the eIF4F complex, containing eIF4E, another initiation factor bound to the 5' cap on the 5' end of mRNA. This binding forms the characteristic loop structure of eukaryotic protein synthesis. Poly(A)-binding proteins in the cytosol compete for the eIF4G binding sites. This interaction enhances both the affinity of eIF4E for the cap structure and PABP1 for poly(A), effectively locking proteins onto both ends of the mRNA. As a result, this association may in part underlie the ability of PABP1 to promote small ribosomal (40S) subunit recruitment, which is aided by the interaction between eIF4G and eIF3. Poly(A)-binding protein has also been shown to interact with a termination factor (eRF3). The eRF3/PABP1 interaction may promote recycling of terminating ribosomes from the 3' to 5' end, facilitating multiple rounds of initiation on an mRNA. Alternatively, it may link translation to mRNA decay, as eRF3 appears to interfere with the ability of PABP1 to multimerise/form on poly(A), potentially leading to PABP1 dissociation, deadenylation and, ultimately, turnover.",
+            "score": 64.45234680175781
+        },
+        {
+            "docid": "36384078_3",
+            "document": "YjeF N terminal protein domain . At the cellular level, the YjeF-N terminal domain is vital to the assembly of the processing body (P-body). This aids mRNA decay and is thought to bring together different complexes to aggregate mRNPs. At the organism level, in bacteria and archaea, YjeF N-terminal domains are often fused to a YjeF C-terminal domain with high structural homology to the members of a ribokinase-like superfamily or belong to operons that encode enzymes of diverse functions. Examples of such include: In plants, the YjeF N-terminal domain is fused to a C-terminal putative pyridoxamine 5'-phosphate oxidase. In eukaryotes, proteins that consist of (Sm)-FDF-YjeF N-terminal domains may be involved in RNA processing.",
+            "score": 64.23360443115234
+        },
+        {
+            "docid": "18523258_2",
+            "document": "EIF4G . Eukaryotic translation initiation factor 4 G (eIF4G) is a protein involved in eukaryotic translation initiation and is a component of the eIF4F cap-binding complex. Orthologs of eIF4G have been studied in multiple species, including humans, yeast, and wheat. However, eIF4G is exclusively found in domain Eukarya, and not in domains Bacteria or Archaea, which do not have capped mRNA. As such, eIF4G structure and function may vary between species, although the human eIF4G 1 has been the focus of extensive studies.",
+            "score": 64.03215789794922
+        },
+        {
+            "docid": "9508538_2",
+            "document": "Eukaryotic initiation factor . Eukaryotic initiation factors (eIFs) are proteins or protein complexes involved in the initiation phase of eukaryotic translation. These proteins help stabilize the formation of ribosomal preinitiation complexes around the start codon and are an important input for post-transcription gene regulation. Several initiation factors form a complex with the small 40S ribosomal subunit and Met-tRNA called the 43S preinitiation complex (43S PIC). Additional factors of the eIF4F complex (eIF4A, E, and G) recruit the 43S PIC to the five-prime cap structure of the mRNA, from which the 43S particle scans 5'-->3' along the mRNA to reach an AUG start codon. Recognition of the start codon by the Met-tRNA promotes gated phosphate and eIF1 release to form the 48S preinitiation complex (48S PIC), followed by large 60S ribosomal subunit recruitment to form the 80S ribosome. There exist many more eukaryotic initiation factors than prokaryotic initiation factors, reflecting the greater biological complexity of eukaryotic translation. There are at least twelve eukaryotic initiation factors, composed of many more polypeptides, and these are described below.",
+            "score": 63.95310592651367
+        },
+        {
+            "docid": "159266_11",
+            "document": "Gene expression . Another modification is 3' \"cleavage and polyadenylation\". They occur if polyadenylation signal sequence (5'- AAUAAA-3') is present in pre-mRNA, which is usually between protein-coding sequence and terminator. The pre-mRNA is first cleaved and then a series of ~200 adenines (A) are added to form poly(A) tail, which protects the RNA from degradation. Poly(A) tail is bound by multiple poly(A)-binding proteins (PABP) necessary for mRNA export and translation re-initiation. A very important modification of eukaryotic pre-mRNA is \"RNA splicing\". The majority of eukaryotic pre-mRNAs consist of alternating segments called exons and introns. During the process of splicing, an RNA-protein catalytical complex known as spliceosome catalyzes two transesterification reactions, which remove an intron and release it in form of lariat structure, and then splice neighbouring exons together. In certain cases, some introns or exons can be either removed or retained in mature mRNA. This so-called alternative splicing creates series of different transcripts originating from a single gene. Because these transcripts can be potentially translated into different proteins, splicing extends the complexity of eukaryotic gene expression.",
+            "score": 63.818416595458984
+        },
+        {
+            "docid": "20232_15",
+            "document": "Messenger RNA . Another difference between eukaryotes and prokaryotes is mRNA transport. Because eukaryotic transcription and translation is compartmentally separated, eukaryotic mRNAs must be exported from the nucleus to the cytoplasm\u2014a process that may be regulated by different signaling pathways. Mature mRNAs are recognized by their processed modifications and then exported through the nuclear pore by binding to the cap-binding proteins CBP20 and CBP80, as well as the transcription/export complex (TREX). Multiple mRNA export pathways have been identified in eukaryotes.",
+            "score": 62.86939239501953
+        },
+        {
+            "docid": "39383683_3",
+            "document": "M7GpppN-mRNA hydrolase . Decapping of mRNA is essential in eukaryotic mRNA turnover.",
+            "score": 62.849273681640625
+        },
+        {
+            "docid": "9508538_12",
+            "document": "Eukaryotic initiation factor . eIF4G is a 175.5-kDa scaffolding protein that interacts with eIF3 and the Poly(A)-binding protein (PABP), as well as the other members of the eIF4F complex. eIF4E recognizes and binds to the 5' cap structure of mRNA, while eIF4G binds PABP, which binds the poly(A) tail, potentially circularizing and activating the bound mRNA. eIF4Aa DEAD box RNA helicaseis important for resolving mRNA secondary structures.",
+            "score": 61.98495101928711
+        },
+        {
+            "docid": "27122321_12",
+            "document": "Synaptic tagging . Researchers provided evidence of local synthesis, by examining the distribution of Arc mRNA after selective stimulation of certain synapses of a hippocampal cell. They found that Arc mRNA was localized at the activated synapses, and Arc protein appeared there simultaneously. This suggests that the mRNA was translated locally. These mRNA transcripts are translated in a cap-dependent manner, meaning they use a \"cap\" anchoring point to facilitate ribosome attachment to the 5' untranslated region. Eukaryotic initiation factor 4 group (eIF4) members recruit ribosomal subunits to the mRNA terminus, and assembly of the eIF4F initiation complex is a target of translational control: phosphorylation of eIF4F exposes the cap for rapid reloading, quickening the rate-limiting step of translation. It is suggested that eIF4F complex formation is regulated during LTP to increase local translation. In addition, excessive eIF4F complex destabilizes LTP.",
+            "score": 61.59696960449219
+        },
+        {
+            "docid": "22300778_2",
+            "document": "Exon junction complex . An exon junction complex (EJC) is a protein complex which forms on a pre-messenger RNA strand at the junction of two exons which have been joined together during RNA splicing. The EJC has major influences on translation, surveillance and localization of the spliced mRNA. It is first deposited onto mRNA during splicing and is then transported into the cytoplasm. There it plays a major role in post-transcriptional regulation of mRNA. It is believed that exon junction complexes provide a position-specific memory of the splicing event. The EJC consists of a stable heterotetramer core, which serves as a binding platform for other factors necessary for the mRNA pathway. The core of the EJC contains the protein eukaryotic initiation factor 4A-III (eIF4A-III; a DEAD-box RNA helicase) bound to an adenosine triphosphate (ATP) analog, as well as the additional proteins Magoh and Y14.The binding of these proteins to nuclear speckled domains has been measured recently and it may be regulated by PI3K/AKT/mTOR signaling pathways. In order for the binding of the complex to the mRNA to occur, the eIF4AIII factor is inhibited, stopping the hydrolysis of ATP. This recognizes EJC as an ATP dependent complex. EJC also interacts with a large number of additional proteins; most notably SR proteins. These interactions are suggested to be important for mRNA compaction.",
+            "score": 61.56945037841797
+        }
+    ]
+}

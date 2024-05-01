@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "1789075_25",
+            "document": "Tropomyosin . Skeletal muscle is composed of large, multi-nucleated cells (muscle fibers). Each muscle fiber is packed with longitudinal arrays of myofibrils. Myofibrils are composed of repeating protein structures or sarcomeres, the basic functional unit of skeletal muscle. The sarcomere is a highly structured protein array, consisting of interdigitating thick and thin filaments, where the thin filaments are tethered to a protein structure, the Z-line. The dynamic interaction between the thick and thin filaments results in muscle contraction.",
+            "score": 348.9734756946564
+        },
+        {
+            "docid": "571549_12",
+            "document": "Myocyte . Each muscle fiber contains myofibrils, which are very long chains of sarcomeres, the contractile units of the cell. A cell from the biceps brachii muscle may contain 100,000 sarcomeres. The myofibrils of smooth muscle cells are not arranged into sarcomeres. The sarcomeres are composed of thin and thick filaments. Thin filaments are made of actin and attach at Z lines which help them line up correctly with each other. Troponins are found at intervals along the thin filaments. Thick filaments are made of the elongated protein myosin. The sarcomere does not contain organelles or a nucleus. Sarcomeres are marked by Z lines which show the beginning and the end of a sarcomere. Individual myocytes are surrounded by endomysium.",
+            "score": 352.9151213169098
+        },
+        {
+            "docid": "19723734_11",
+            "document": "Muscle . This same bundles-within-bundles structure is replicated within the muscle cells. Within the cells of the muscle are myofibrils, which themselves are bundles of protein filaments. The term \"myofibril\" should not be confused with \"myofiber\", which is a simply another name for a muscle cell. Myofibrils are complex strands of several kinds of protein filaments organized together into repeating units called sarcomeres. The striated appearance of both skeletal and cardiac muscle results from the regular pattern of sarcomeres within their cells. Although both of these types of muscle contain sarcomeres, the fibers in cardiac muscle are typically branched to form a network. Cardiac muscle fibers are interconnected by intercalated discs, giving that tissue the appearance of a syncytium.",
+            "score": 282.41665720939636
+        },
+        {
+            "docid": "319342_15",
+            "document": "Microfilament . The actin filament network in non-muscle cells is highly dynamic. The actin filament network is arranged with the barbed-end of each filament attached to the cell's peripheral membrane by means of clamped-filament elongation motors, the above-mentioned \"actoclampins\", formed from a filament barbed-end and a clamping protein (formins, VASP, Mena, WASP, and N-WASP). The primary substrate for these elongation motors is profilin-actin-ATP complex which is directly transferred to elongating filament ends. The pointed-end of each filament is oriented toward the cell's interior. In the case of lamellipodial growth, the Arp2/3 complex generates a branched network, and in filopodia a parallel array of filaments is formed.",
+            "score": 262.66118359565735
+        },
+        {
+            "docid": "420224_3",
+            "document": "Myofibril . Myofibrils are composed of long proteins including actin, myosin, and titin, and other proteins that hold them together. These proteins are organized into thick and thin filaments called myofilaments, which repeat along the length of the myofibril in sections called sarcomeres. Muscles contract by sliding the thick (myosin) and thin (actin) filaments along each other.",
+            "score": 313.7571108341217
+        },
+        {
+            "docid": "419952_7",
+            "document": "Calcium metabolism . In skeletal and heart muscle calcium ions, released from the sarcoplasmic reticulum (the endoplasmic reticulum of striated muscles) binds to the troponin C present on the actin-containing thin filaments of the myofibrils. The troponin's 3D structure changes as a result, causing the tropomyosin to which it is attached to be rolled away from the myosin-binding sites on the actin molecules that form the back-bone of the thin filaments. Myosin can then bind to the exposed myosin-binding sites on the thin filament, to undergo a repeating series of conformational changes called the cross-bridge cycle, for which ATP provides the energy. During the cycle, each myosin protein \u2018paddles\u2019 along the thin actin filament, repeatedly binding to myosin-binding sites along the actin filament, ratcheting and letting go. In effect, the thick filament moves or slides along the thin filament, resulting in muscle contraction. This process is known as the sliding filament model of muscle contraction.",
+            "score": 311.8835405111313
+        },
+        {
+            "docid": "3904626_5",
+            "document": "Myofilament . The contractile nature of this protein complex is based on the structure of the thick and thin filaments. The thick filament, myosin, has a double-headed structure, with the heads positioned at opposite ends of the molecule. During muscle contraction, the heads of the myosin filaments attach to oppositely oriented thin filaments, actin, and pull them past one another. The action of myosin attachment and actin movement results in sarcomere shortening. Muscle contraction consists of the simultaneous shortening of multiple sarcomeres.",
+            "score": 329.32394766807556
+        },
+        {
+            "docid": "156970_13",
+            "document": "Cytoskeleton . Microfilaments are composed of linear polymers of G-actin proteins, and generate force when the growing (plus) end of the filament pushes against a barrier, such as the cell membrane. They also act as tracks for the movement of myosin molecules that affix to the microfilament and \"walk\" along them. In general, the major component or protein of microfilaments are actin. The G-actin monomer combines to form a polymer which continues to form the microfilament (actin filament). These subunits then assemble into two chains that intertwine into what is called, F-actin chains. Myosin motoring along F-actin filaments generates contractile forces in so-called actomyosin fibers, both in muscle as well as most non-muscle cell types. Actin structures are controlled by the Rho family of small GTP-binding proteins such as Rho itself for contractile acto-myosin filaments (\"stress fibers\"), Rac for lamellipodia and Cdc42 for filopodia.",
+            "score": 286.13532388210297
+        },
+        {
+            "docid": "8057329_2",
+            "document": "CapZ . In molecular biology CapZ, also known as CAPZ; CAZ1 and CAPPA1, is a protein composed of alpha and beta subunits. Its main function is to cap the barbed (plus) end of actin filaments in muscle cells. It is located in the Z band of the muscle sarcomere. This protein helps to stabilize the actin filaments protecting it from assembly and disassembly. The activity regulation of this protein can be done by other regulatory proteins that bind to the actin filaments blocking the CapZ, hence allowing assembly. CapZ is also known to play a role in cell signaling, as it regulates PKC activity in cardiac cells.",
+            "score": 303.11324310302734
+        },
+        {
+            "docid": "420224_10",
+            "document": "Myofibril . A study of the developing leg muscle in a 12-day chick embryo using electron microscopy proposes a mechanism for the development of myofibrils. Developing muscle cells contain thick (myosin) filaments that are 160\u2013170 \u00c5 in diameter and thin (actin)filaments that are 60\u201370 \u00c5 in diameter. Young myofibers contain a 7:1 ratio of thin to thick filaments. Along the long axis of the muscle cells in subsarcolemmal locations, free myofilaments become aligned and aggregate into hexagonally packed arrays. These aggregates form regardless of the presence of Z band or M band material. Aggregation occurs spontaneously because the tertiary structures of actin and myosin monomers contain all the \"information\" with the ionic strength and ATP concentration of the cell to aggregate into the filaments.",
+            "score": 255.63630294799805
+        },
+        {
+            "docid": "3904626_4",
+            "document": "Myofilament . The protein complex composed of actin and myosin, contractile proteins, is sometimes referred to as \"actomyosin\". In striated muscle, such as skeletal and cardiac muscle, the actin and myosin filaments each have a specific and constant length in the order of a few micrometers, far less than the length of the elongated muscle cell (a few millimeters in the case of human skeletal muscle cells). The filaments are organized into repeated subunits along the length of the myofibril. These subunits are called sarcomeres.",
+            "score": 291.4689145088196
+        },
+        {
+            "docid": "45502636_3",
+            "document": "Sliding filament theory . According to the sliding filament theory, the myosin (thick) filaments of muscle fibers slide past the actin (thin) filaments during muscle contraction, while the two groups of filaments remain at relatively constant length. Before the 1950s there were several competing theories on muscle contraction, including electrical attraction, protein folding, and protein modification. The novel theory directly introduced a new concept called cross-bridge theory (classically swinging cross-bridge, now mostly referred to as cross-bridge cycle) which explains the molecular mechanism of sliding filament. Cross-bridge theory states that actin and myosin form a protein complex (classically called actomyosin) by attachment of myosin head on the actin filament, thereby forming a sort of cross-bridge between the two filaments. These two complementary hypotheses turned out to be the correct description, and became a universally accepted explanation of the mechanism of muscle movement.",
+            "score": 281.63659381866455
+        },
+        {
+            "docid": "1789075_31",
+            "document": "Tropomyosin . Although smooth muscles do not form regular arrays of thick and thin filaments like the sarcomeres of striated muscles, contraction is still due to the same sliding filament mechanism controlled by myosin crossbridges interacting with actin filaments. The thin filament of smooth muscle is made of actin, tropomyosin, caldesmon, and calmodulin. Within this type of muscle, caldesmon and calmodulin control the tropomyosin-mediated transition between on and off activity states. Caldesmon binds to actin, tropomyosin, calmodulin, and myosin, of which its interactions with actin are most important. The binding of caldesmon is strongly influenced by tropomyosin. Caldesmon is an inhibitor of actinomyosin ATPase and motility, and both actin binding and caldesmon inhibition are greatly enhanced in the presence of tropomyosin.",
+            "score": 302.7526788711548
+        },
+        {
+            "docid": "14877868_4",
+            "document": "NRAP . An important role has been implicated for N-RAP in myofibrilar organization during cardiomyocyte development. It is clear that NRAP is critical for normal \u03b1-actinin-dependent organization of myofibrils in cardiomyocytes, as knock-down of N-RAP protein levels causes myofbrillar disassembly in embryonic cardiomyocytes. Specifically, studies suggest that NRAP super repeats may be an essential scaffold for organizing alpha-actinin and actin into sarcomereic I-Z-I complexes in premyofibrils, and dynamic imaging studies have shown that N-RAP departs from the I-Z-I complexes upon completion of actin thin filament assembly. In adult cardiac muscle, N-RAP colocalizes to intercalated discs, where it functions to anchor terminal actin filaments to the sarcolemma. It has been suggested that its role in adult muscle is force transduction from the sarcomere to the extracellular matrix.",
+            "score": 293.02022075653076
+        },
+        {
+            "docid": "7105177_2",
+            "document": "Tropomodulin . Tropomodulin (TMOD) is a protein which binds and caps the minus end of actin (the \"pointed\" end), regulating the length of actin filaments in muscle and non-muscle cells. The protein functions by physically blocking the spontaneous dissociation of ADP-bound actin monomers from the minus end of the actin fibre. This, along with plus end capping proteins, such as capZ stabilise the structure of the actin filament. End capping is particularly important when long-lived actin filaments are necessary, for example: in myofibrils. Inhibition of tropomodulin capping activity leads to dramatic increase in thin filament length from its pointed end.",
+            "score": 282.5031101703644
+        },
+        {
+            "docid": "598619_6",
+            "document": "Troponin . Troponin is a component of thin filaments (along with actin and tropomyosin), and is the protein complex to which calcium binds to trigger the production of muscular force. Troponin itself has three subunits, TnC, TnI, and TnT, each playing a role in force regulation . Under resting intracellular levels of calcium, tropomyosin covers the active sites on actin to which myosin (a molecular motor organized in muscle thick filaments) binds in order to generate force. When calcium becomes bound to specific sites in the N-domain of TnC, a series of protein structural changes occurs such that tropomyosin is rolled away from myosin-binding sites on actin, allowing myosin to attach to the thin filament and produce force and/or shorten the sarcomere.",
+            "score": 306.9381024837494
+        },
+        {
+            "docid": "420224_6",
+            "document": "Myofibril . In striated muscle, such as skeletal and cardiac muscle, the actin and myosin filaments each have a specific and constant length on the order of a few micrometers, far less than the length of the elongated muscle cell (a few millimeters in the case of human skeletal muscle cells). The filaments are organized into repeated subunits along the length of the myofibril. These subunits are called sarcomeres. The muscle cell is nearly filled with myofibrils running parallel to each other on the long axis of the cell. The sarcomeric subunits of one myofibril are in nearly perfect alignment with those of the myofibrils next to it. This alignment gives rise to certain optical properties which cause the cell to appear striped or striated. In smooth muscle cells, this alignment is absent, hence there are no apparent striations and the cells are called smooth. Exposed muscle cells at certain angles, such as in meat cuts, can show structural coloration or iridescence due to this periodic alignment of the fibrils and sarcomeres.",
+            "score": 277.8874921798706
+        },
+        {
+            "docid": "438944_70",
+            "document": "Actin . In muscle cells, actomyosin myofibrils makeup much of the cytoplasmic material. These myofibrils are made of \"thin filaments\" of actin (typically around 7\u00a0nm in diameter), and \"thick filaments\" of the motor-protein myosin (typically around 15\u00a0nm in diameter). These myofibrils use energy derived from ATP to create movements of cells, such as muscle contraction. Using the hydrolysis of ATP for energy, myosin heads undergo a cycle during which they attach to thin filaments, exert a tension, and then, depending on the load, perform a power stroke that causes the thin filaments to slide past, shortening the muscle.",
+            "score": 275.8201912641525
+        },
+        {
+            "docid": "3960285_2",
+            "document": "Nebulin . Nebulin is an actin-binding protein which is localized to the thin filament of the sarcomeres in skeletal muscle. It is a very large protein (600\u2013900 kDa) and binds as many as 200 actin monomers. Because its length is proportional to thin filament length, it is believed that nebulin acts as a thin filament \"ruler\" and regulates thin filament length during sarcomere assembly. Other functions of nebulin, such as a role in cell signaling, remain uncertain.",
+            "score": 346.4764013290405
+        },
+        {
+            "docid": "380541_9",
+            "document": "Skeletal muscle . Skeletal muscle exhibits a distinctive banding pattern when viewed under the microscope due to the arrangement of cytoskeletal elements in the cytoplasm of the muscle fibers. The principal cytoplasmic proteins are myosin and actin (also known as \"thick\" and \"thin\" filaments, respectively) which are arranged in a repeating unit called a sarcomere. The interaction of myosin and actin is responsible for muscle contraction.",
+            "score": 296.51237964630127
+        },
+        {
+            "docid": "1789075_26",
+            "document": "Tropomyosin . Myosin belongs to a family of motor proteins, and the muscle isoforms of this family comprise the thick filament. The thin filament is made of the skeletal muscle isoforms of actin. Each myosin protein 'paddles' along the thin actin filament, repeatedly binding to myosin-binding sites along the actin filament, ratcheting and letting go. In effect, the thick filament moves or slides along the thin filament, resulting in muscle contraction. This process is known as the sliding filament model.",
+            "score": 324.85423517227173
+        },
+        {
+            "docid": "424348_21",
+            "document": "Cardiac muscle . During contraction of a cardiac muscle cell, the long protein myofilaments oriented along the length of the slide over each other in what is known as the sliding filament hypothesis. There are two kinds of myofilaments, thick filaments composed of the protein myosin, and thin filaments composed of the proteins actin, troponin and tropomyosin. As the thick and thin filaments slide past each other the cell becomes shorter and fatter. In a mechanism known as crossbridge cycling, calcium ions bind to the protein troponin, which along with tropomyosin then uncover key binding sites on actin. Myosin, in the thick filament, can then bind to actin, pulling the thick filaments along the thin filaments. When the concentration of calcium within the cell falls, troponin and tropomyosin once again cover the binding sites on actin, causing the cell to relax.",
+            "score": 294.61241924762726
+        },
+        {
+            "docid": "319342_5",
+            "document": "Microfilament . Actin filaments are assembled in two general types of structures: bundles and networks. Bundles can be composed of polar filament arrays, in which all barbed ends point to the same end of the bundle, or non-polar arrays, where the barbed ends point towards both ends. A class of actin-binding proteins, called cross-linking proteins, dictate the formation of these structures. Cross-linking proteins determine filament orientation and spacing in the bundles and networks. These structures are regulated by many other classes of actin-binding proteins, including motor proteins, branching proteins, severing proteins, polymerization promoters, and capping proteins.",
+            "score": 263.9027075767517
+        },
+        {
+            "docid": "45502636_5",
+            "document": "Sliding filament theory . By the time Hugh Huxley earned his PhD from the University of Cambridge in 1952 on his research on the structure of muscle, Szent-Gy\u00f6rgyi had turned his career into cancer research. Huxley went to Francis O. Schmitt's laboratory at the Massachusetts Institute of Technology with a post-doctoral fellowship in September 1952, where he was joined by another English post-doctoral fellow Jean Hanson in January 1953. Hanson had a PhD in muscle structure from King's College, London in 1951. Huxley had used X-ray diffraction to speculate that muscle proteins, particularly myosin, form structured filaments giving rise to sarcomere (a segment of muscle fibre). Their main aim was to use electron microscopy to study the details of those filaments as never done before. They soon discovered and confirmed the filament nature of muscle proteins. Myosin and actin form overlapping filaments, myosin filaments mainly constituting the A band (the dark region of a sarcomere), while actin filaments traverse both the A and I (light region) bands. Huxley was the first to suggest the sliding filament theory in 1953, stating:",
+            "score": 302.80394172668457
+        },
+        {
+            "docid": "3017886_6",
+            "document": "Motor protein . Myosins are a superfamily of actin motor proteins that convert chemical energy in the form of ATP to mechanical energy, thus generating force and movement. The first identified myosin, myosin II, is responsible for generating muscle contraction. Myosin II is an elongated protein that is formed from two heavy chains with motor heads and two light chains. Each myosin head contains actin and ATP binding site. The myosin heads bind and hydrolyze ATP, which provides the energy to walk toward the plus end of an actin filament. Myosin II are also vital in the process of cell division. For example, non-muscle myosin II bipolar thick filaments provide the force of contraction needed to divide cell into two daughter cells during cytokinesis.In addition to myosin II, many other myosin types are responsible for variety of movement of non-muscle cells. For example, myosin is involved in intracellular organization and the protrusion of actin-rich structures at the cell surface. Myosin V is involved in vesicle and organelle transport. Myosin XI are involved in cytoplasmic streaming, wherein movement along microfilament networks in the cell allows organelles and cytoplasm to stream in a particular direction. Eighteen different classes of myosins are known.",
+            "score": 261.6888208389282
+        },
+        {
+            "docid": "9717637_2",
+            "document": "Myomesin . Myomesin is an end line protein that is part of the M line. It is a protein found in the M-band of muscle sarcomeres in association with M-protein. It is found in both slow and fast muscle fibers while M-protein is only found in fast fibers. These proteins are thought to be involved in anchoring the thick filaments of the sarcomere (myosin) to other filaments, namely titin, stabilizing and aligning the structure. It may function as a molecular spring that protects the sarcomere and keeps it stable during intense or sustained stretching. While its specific function is still not completely understood, it has been shown that it is closely associated with myosin as it is present in all skeletal and cardiac muscle from the earliest stages of muscle tissue formation.",
+            "score": 286.5314519405365
+        },
+        {
+            "docid": "420229_2",
+            "document": "Sarcomere . A sarcomere (Greek \"sarx\" \"flesh\", \"meros\" \"part\") is the basic unit of striated muscle tissue. It is the repeating unit between two Z lines. Skeletal muscles are composed of tubular muscle cells (myocytes called muscle fibers or myofibers) which are formed in a process known as myogenesis. Muscle fibers contain numerous tubular myofibrils. Myofibrils are composed of repeating sections of sarcomeres, which appear under the microscope as alternating dark and light bands. Sarcomeres are composed of long, fibrous proteins as filaments that slide past each other when a muscle contracts or relaxes.",
+            "score": 266.6225492954254
+        },
+        {
+            "docid": "7525740_2",
+            "document": "Actinin . Actinin is a microfilament protein. \u03b1-Actinin is necessary for the attachment of actin filaments to the Z-lines in skeletal muscle cells, and to the dense bodies in smooth muscle cells. The functional protein is an anti-parallel dimer, which cross-links the thin filaments in adjacent sarcomeres, and therefore coordinates contractions between sarcomeres in the horizontal axis.",
+            "score": 314.372145652771
+        },
+        {
+            "docid": "940316_4",
+            "document": "Dystrophin . Dystrophin is a protein located between the sarcolemma and the outermost layer of myofilaments in the muscle fiber (myofiber). It is a cohesive protein, linking actin filaments to another support protein that resides on the inside surface of each muscle fiber\u2019s plasma membrane (sarcolemma). This support protein on the inside surface of the sarcolemma in turn links to two other consecutive proteins for a total of three linking proteins. The final linking protein is attached to the fibrous endomysium of the entire muscle fiber. Dystrophin supports muscle fiber strength, and the absence of dystrophin reduces muscle stiffness, increases sarcolemmal deformability, and compromises the mechanical stability of costameres and their connections to nearby myofibrils. This has been shown in recent studies where biomechanical properties of the sarcolemma and its links through costameres to the contractile apparatus were measured, and helps to prevent muscle fiber injury. Movement of thin filaments (actin) creates a pulling force on the extracellular connective tissue that eventually becomes the tendon of the muscle.",
+            "score": 242.56810331344604
+        },
+        {
+            "docid": "200182_11",
+            "document": "Cytokinesis . At the cytokinesis furrow, it is the actin-myosin contractile ring that drives the cleavage process, during which cell membrane and wall grow inward, which eventually pinches the mother cell in two. The key components of this ring are the filamentous protein actin and the motor protein myosin II. The contractile ring assembles equatorially (in the middle of the cell) at the cell cortex (adjacent to the cell membrane). Rho protein family (RhoA protein in mammalian cells) is a key regulator of contractile ring formation and contraction in animal cells. The RhoA pathway promotes assembly of the actin-myosin ring by two main effectors. First, RhoA stimulates nucleation of unbranched actin filaments by activation of Diaphanous-related formins. This local generation of new actin filaments is important for the contractile ring formation. This actin filament formation process also requires a protein called profilin, which binds to actin monomers and helps load them onto the filament end. Second, RhoA promotes myosin II activation by the kinase ROCK, which activates myosin II directly by phosphorylation of the myosin light chain and also inhibits myosin phosphatase by phosphorylation of the phosphatase-targeting subunit MYPT. Besides actin and myosin II, the contractile ring contains the scaffolding protein anillin. Anillin binds to actin, myosin, RhoA, and CYK-4, and thereby links the equatorial cortex with the signals from the central spindle. It also contributes to the linkage of the actin-myosin ring to the plasma membrane. Another protein, septin, has also been speculated to serve as a structural scaffold on which the cytokinesis apparatus is organized. Following its assembly, contraction of the actin-myosin ring leads to ingression of the attached plasma membrane, which partitions the cytoplasm into two domains of emerging sister cells. The force for the contractile processes is generated by movements along actin by the motor protein myosin II. Myosin II uses the free energy released when ATP is hydrolyzed to move along these actin filaments, constricting the cell membrane to form a cleavage furrow. Continued hydrolysis causes this cleavage furrow to ingress (move inwards), a striking process that is clearly visible through a light microscope.",
+            "score": 257.57366693019867
+        },
+        {
+            "docid": "159748_4",
+            "document": "Muscular system . Skeletal muscles, like other striated muscles, are composed of myocytes, or muscle fibers, which are in turn composed of myofibrils, which are composed of sarcomeres, the basic building block of striated muscle tissue. Upon stimulation by an action potential, skeletal muscles perform a coordinated contraction by shortening each sarcomere. The best proposed model for understanding contraction is the sliding filament model of muscle contraction. Within the sarcomere, actin and myosin fibers overlap in a contractile motion towards each other. Myosin filaments have club-shaped heads that project toward the actin filaments.",
+            "score": 306.0352439880371
+        },
+        {
+            "docid": "300381_27",
+            "document": "Smooth muscle tissue . Smooth muscle contraction is caused by the sliding of myosin and actin filaments (a sliding filament mechanism) over each other. The energy for this to happen is provided by the hydrolysis of ATP. Myosin functions as an ATPase utilizing ATP to produce a molecular conformational change of part of the myosin and produces movement. Movement of the filaments over each other happens when the globular heads protruding from myosin filaments attach and interact with actin filaments to form crossbridges. The myosin heads tilt and drag along the actin filament a small distance (10-12\u00a0nm). The heads then release the actin filament and then changes angle to relocate to another site on the actin filament a further distance (10-12\u00a0nm) away. They can then re-bind to the actin molecule and drag it along further. This process is called crossbridge cycling and is the same for all muscles (see muscle contraction). Unlike cardiac and skeletal muscle, smooth muscle does not contain the calcium-binding protein troponin. Contraction is initiated by a calcium-regulated phosphorylation of myosin, rather than a calcium-activated troponin system.",
+            "score": 271.82952547073364
+        }
+    ],
+    "r": [
+        {
+            "docid": "571549_12",
+            "document": "Myocyte . Each muscle fiber contains myofibrils, which are very long chains of sarcomeres, the contractile units of the cell. A cell from the biceps brachii muscle may contain 100,000 sarcomeres. The myofibrils of smooth muscle cells are not arranged into sarcomeres. The sarcomeres are composed of thin and thick filaments. Thin filaments are made of actin and attach at Z lines which help them line up correctly with each other. Troponins are found at intervals along the thin filaments. Thick filaments are made of the elongated protein myosin. The sarcomere does not contain organelles or a nucleus. Sarcomeres are marked by Z lines which show the beginning and the end of a sarcomere. Individual myocytes are surrounded by endomysium.",
+            "score": 352.9151306152344
+        },
+        {
+            "docid": "1789075_25",
+            "document": "Tropomyosin . Skeletal muscle is composed of large, multi-nucleated cells (muscle fibers). Each muscle fiber is packed with longitudinal arrays of myofibrils. Myofibrils are composed of repeating protein structures or sarcomeres, the basic functional unit of skeletal muscle. The sarcomere is a highly structured protein array, consisting of interdigitating thick and thin filaments, where the thin filaments are tethered to a protein structure, the Z-line. The dynamic interaction between the thick and thin filaments results in muscle contraction.",
+            "score": 348.9734802246094
+        },
+        {
+            "docid": "3960285_2",
+            "document": "Nebulin . Nebulin is an actin-binding protein which is localized to the thin filament of the sarcomeres in skeletal muscle. It is a very large protein (600\u2013900 kDa) and binds as many as 200 actin monomers. Because its length is proportional to thin filament length, it is believed that nebulin acts as a thin filament \"ruler\" and regulates thin filament length during sarcomere assembly. Other functions of nebulin, such as a role in cell signaling, remain uncertain.",
+            "score": 346.47637939453125
+        },
+        {
+            "docid": "3904626_5",
+            "document": "Myofilament . The contractile nature of this protein complex is based on the structure of the thick and thin filaments. The thick filament, myosin, has a double-headed structure, with the heads positioned at opposite ends of the molecule. During muscle contraction, the heads of the myosin filaments attach to oppositely oriented thin filaments, actin, and pull them past one another. The action of myosin attachment and actin movement results in sarcomere shortening. Muscle contraction consists of the simultaneous shortening of multiple sarcomeres.",
+            "score": 329.3239440917969
+        },
+        {
+            "docid": "1789075_26",
+            "document": "Tropomyosin . Myosin belongs to a family of motor proteins, and the muscle isoforms of this family comprise the thick filament. The thin filament is made of the skeletal muscle isoforms of actin. Each myosin protein 'paddles' along the thin actin filament, repeatedly binding to myosin-binding sites along the actin filament, ratcheting and letting go. In effect, the thick filament moves or slides along the thin filament, resulting in muscle contraction. This process is known as the sliding filament model.",
+            "score": 324.8542175292969
+        },
+        {
+            "docid": "7525740_2",
+            "document": "Actinin . Actinin is a microfilament protein. \u03b1-Actinin is necessary for the attachment of actin filaments to the Z-lines in skeletal muscle cells, and to the dense bodies in smooth muscle cells. The functional protein is an anti-parallel dimer, which cross-links the thin filaments in adjacent sarcomeres, and therefore coordinates contractions between sarcomeres in the horizontal axis.",
+            "score": 314.37213134765625
+        },
+        {
+            "docid": "420224_3",
+            "document": "Myofibril . Myofibrils are composed of long proteins including actin, myosin, and titin, and other proteins that hold them together. These proteins are organized into thick and thin filaments called myofilaments, which repeat along the length of the myofibril in sections called sarcomeres. Muscles contract by sliding the thick (myosin) and thin (actin) filaments along each other.",
+            "score": 313.7571105957031
+        },
+        {
+            "docid": "419952_7",
+            "document": "Calcium metabolism . In skeletal and heart muscle calcium ions, released from the sarcoplasmic reticulum (the endoplasmic reticulum of striated muscles) binds to the troponin C present on the actin-containing thin filaments of the myofibrils. The troponin's 3D structure changes as a result, causing the tropomyosin to which it is attached to be rolled away from the myosin-binding sites on the actin molecules that form the back-bone of the thin filaments. Myosin can then bind to the exposed myosin-binding sites on the thin filament, to undergo a repeating series of conformational changes called the cross-bridge cycle, for which ATP provides the energy. During the cycle, each myosin protein \u2018paddles\u2019 along the thin actin filament, repeatedly binding to myosin-binding sites along the actin filament, ratcheting and letting go. In effect, the thick filament moves or slides along the thin filament, resulting in muscle contraction. This process is known as the sliding filament model of muscle contraction.",
+            "score": 311.883544921875
+        },
+        {
+            "docid": "598619_6",
+            "document": "Troponin . Troponin is a component of thin filaments (along with actin and tropomyosin), and is the protein complex to which calcium binds to trigger the production of muscular force. Troponin itself has three subunits, TnC, TnI, and TnT, each playing a role in force regulation . Under resting intracellular levels of calcium, tropomyosin covers the active sites on actin to which myosin (a molecular motor organized in muscle thick filaments) binds in order to generate force. When calcium becomes bound to specific sites in the N-domain of TnC, a series of protein structural changes occurs such that tropomyosin is rolled away from myosin-binding sites on actin, allowing myosin to attach to the thin filament and produce force and/or shorten the sarcomere.",
+            "score": 306.9381103515625
+        },
+        {
+            "docid": "159748_4",
+            "document": "Muscular system . Skeletal muscles, like other striated muscles, are composed of myocytes, or muscle fibers, which are in turn composed of myofibrils, which are composed of sarcomeres, the basic building block of striated muscle tissue. Upon stimulation by an action potential, skeletal muscles perform a coordinated contraction by shortening each sarcomere. The best proposed model for understanding contraction is the sliding filament model of muscle contraction. Within the sarcomere, actin and myosin fibers overlap in a contractile motion towards each other. Myosin filaments have club-shaped heads that project toward the actin filaments.",
+            "score": 306.0352478027344
+        },
+        {
+            "docid": "8057329_2",
+            "document": "CapZ . In molecular biology CapZ, also known as CAPZ; CAZ1 and CAPPA1, is a protein composed of alpha and beta subunits. Its main function is to cap the barbed (plus) end of actin filaments in muscle cells. It is located in the Z band of the muscle sarcomere. This protein helps to stabilize the actin filaments protecting it from assembly and disassembly. The activity regulation of this protein can be done by other regulatory proteins that bind to the actin filaments blocking the CapZ, hence allowing assembly. CapZ is also known to play a role in cell signaling, as it regulates PKC activity in cardiac cells.",
+            "score": 303.1132507324219
+        },
+        {
+            "docid": "45502636_5",
+            "document": "Sliding filament theory . By the time Hugh Huxley earned his PhD from the University of Cambridge in 1952 on his research on the structure of muscle, Szent-Gy\u00f6rgyi had turned his career into cancer research. Huxley went to Francis O. Schmitt's laboratory at the Massachusetts Institute of Technology with a post-doctoral fellowship in September 1952, where he was joined by another English post-doctoral fellow Jean Hanson in January 1953. Hanson had a PhD in muscle structure from King's College, London in 1951. Huxley had used X-ray diffraction to speculate that muscle proteins, particularly myosin, form structured filaments giving rise to sarcomere (a segment of muscle fibre). Their main aim was to use electron microscopy to study the details of those filaments as never done before. They soon discovered and confirmed the filament nature of muscle proteins. Myosin and actin form overlapping filaments, myosin filaments mainly constituting the A band (the dark region of a sarcomere), while actin filaments traverse both the A and I (light region) bands. Huxley was the first to suggest the sliding filament theory in 1953, stating:",
+            "score": 302.8039245605469
+        },
+        {
+            "docid": "1789075_31",
+            "document": "Tropomyosin . Although smooth muscles do not form regular arrays of thick and thin filaments like the sarcomeres of striated muscles, contraction is still due to the same sliding filament mechanism controlled by myosin crossbridges interacting with actin filaments. The thin filament of smooth muscle is made of actin, tropomyosin, caldesmon, and calmodulin. Within this type of muscle, caldesmon and calmodulin control the tropomyosin-mediated transition between on and off activity states. Caldesmon binds to actin, tropomyosin, calmodulin, and myosin, of which its interactions with actin are most important. The binding of caldesmon is strongly influenced by tropomyosin. Caldesmon is an inhibitor of actinomyosin ATPase and motility, and both actin binding and caldesmon inhibition are greatly enhanced in the presence of tropomyosin.",
+            "score": 302.752685546875
+        },
+        {
+            "docid": "14722941_2",
+            "document": "ACTC1 . ACTC1 encodes cardiac muscle alpha actin. This isoform differs from the alpha actin that is expressed in skeletal muscle, ACTA1. Alpha cardiac actin is the major protein of the thin filament in cardiac sarcomeres, which are responsible for muscle contraction and generation of force to support the pump function of the heart.",
+            "score": 300.6083068847656
+        },
+        {
+            "docid": "1110611_21",
+            "document": "Muscle contraction . The sliding filament theory describes a process used by muscles to contract. It is a cycle of repetitive events that cause a thin filament to slide over a thick filament and generate tension in the muscle. It was independently developed by Andrew Huxley and Rolf Niedergerke and by Hugh Huxley and Jean Hanson in 1954. Physiologically, this contraction is not uniform across the sarcomere; the central position of the thick filaments becomes unstable and can shift during contraction. However the actions of elastic proteins such as titin are hypothesised to maintain uniform tension across the sarcomere and pull the thick filament into a central position.",
+            "score": 300.1941223144531
+        },
+        {
+            "docid": "380541_9",
+            "document": "Skeletal muscle . Skeletal muscle exhibits a distinctive banding pattern when viewed under the microscope due to the arrangement of cytoskeletal elements in the cytoplasm of the muscle fibers. The principal cytoplasmic proteins are myosin and actin (also known as \"thick\" and \"thin\" filaments, respectively) which are arranged in a repeating unit called a sarcomere. The interaction of myosin and actin is responsible for muscle contraction.",
+            "score": 296.51239013671875
+        },
+        {
+            "docid": "424348_21",
+            "document": "Cardiac muscle . During contraction of a cardiac muscle cell, the long protein myofilaments oriented along the length of the slide over each other in what is known as the sliding filament hypothesis. There are two kinds of myofilaments, thick filaments composed of the protein myosin, and thin filaments composed of the proteins actin, troponin and tropomyosin. As the thick and thin filaments slide past each other the cell becomes shorter and fatter. In a mechanism known as crossbridge cycling, calcium ions bind to the protein troponin, which along with tropomyosin then uncover key binding sites on actin. Myosin, in the thick filament, can then bind to actin, pulling the thick filaments along the thin filaments. When the concentration of calcium within the cell falls, troponin and tropomyosin once again cover the binding sites on actin, causing the cell to relax.",
+            "score": 294.6124267578125
+        },
+        {
+            "docid": "14877868_4",
+            "document": "NRAP . An important role has been implicated for N-RAP in myofibrilar organization during cardiomyocyte development. It is clear that NRAP is critical for normal \u03b1-actinin-dependent organization of myofibrils in cardiomyocytes, as knock-down of N-RAP protein levels causes myofbrillar disassembly in embryonic cardiomyocytes. Specifically, studies suggest that NRAP super repeats may be an essential scaffold for organizing alpha-actinin and actin into sarcomereic I-Z-I complexes in premyofibrils, and dynamic imaging studies have shown that N-RAP departs from the I-Z-I complexes upon completion of actin thin filament assembly. In adult cardiac muscle, N-RAP colocalizes to intercalated discs, where it functions to anchor terminal actin filaments to the sarcolemma. It has been suggested that its role in adult muscle is force transduction from the sarcomere to the extracellular matrix.",
+            "score": 293.02020263671875
+        },
+        {
+            "docid": "3904626_4",
+            "document": "Myofilament . The protein complex composed of actin and myosin, contractile proteins, is sometimes referred to as \"actomyosin\". In striated muscle, such as skeletal and cardiac muscle, the actin and myosin filaments each have a specific and constant length in the order of a few micrometers, far less than the length of the elongated muscle cell (a few millimeters in the case of human skeletal muscle cells). The filaments are organized into repeated subunits along the length of the myofibril. These subunits are called sarcomeres.",
+            "score": 291.4689025878906
+        },
+        {
+            "docid": "14760515_6",
+            "document": "TNNI1 . The function of TnI is to control striated muscle contraction and relaxation. Troponin I interacts with all major regulatory proteins in the sarcomeric thin filaments of cardiac and skeletal muscles: troponin C, troponin T, tropomyosin and actin. When cytosolic Ca is low, TnI binds the thin filament to block the myosin binding sites on actin. The rise of cytosolic Ca results in binding to the N-terminal domain of troponin C and induces conformational changes in troponin C and the troponin complex, which releases the inhibition of myosin-actin interaction and activates myosin ATPase and cross bridge cycling to generate myosin power strokes and muscle contraction.",
+            "score": 290.3798522949219
+        },
+        {
+            "docid": "1668482_11",
+            "document": "Titin . Titin is a large abundant protein of striated muscle. Titin's primary functions are to stabilize the thick filament, center it between the thin filaments, prevent overstretching of the sarcomere, and to recoil the sarcomere like a spring after it is stretched. An N-terminal Z-disc region and a C-terminal M-line region bind to the Z-line and M-line of the sarcomere, respectively, so that a single titin molecule spans half the length of a sarcomere. Titin also contains binding sites for muscle-associated proteins so it serves as an adhesion template for the assembly of contractile machinery in muscle cells. It has also been identified as a structural protein for chromosomes. Considerable variability exists in the I-band, the M-line and the Z-disc regions of titin. Variability in the I-band region contributes to the differences in elasticity of different titin isoforms and, therefore, to the differences in elasticity of different muscle types. Of the many titin variants identified, five are described with complete transcript information available.",
+            "score": 287.2874755859375
+        },
+        {
+            "docid": "9717637_2",
+            "document": "Myomesin . Myomesin is an end line protein that is part of the M line. It is a protein found in the M-band of muscle sarcomeres in association with M-protein. It is found in both slow and fast muscle fibers while M-protein is only found in fast fibers. These proteins are thought to be involved in anchoring the thick filaments of the sarcomere (myosin) to other filaments, namely titin, stabilizing and aligning the structure. It may function as a molecular spring that protects the sarcomere and keeps it stable during intense or sustained stretching. While its specific function is still not completely understood, it has been shown that it is closely associated with myosin as it is present in all skeletal and cardiac muscle from the earliest stages of muscle tissue formation.",
+            "score": 286.5314636230469
+        },
+        {
+            "docid": "156970_13",
+            "document": "Cytoskeleton . Microfilaments are composed of linear polymers of G-actin proteins, and generate force when the growing (plus) end of the filament pushes against a barrier, such as the cell membrane. They also act as tracks for the movement of myosin molecules that affix to the microfilament and \"walk\" along them. In general, the major component or protein of microfilaments are actin. The G-actin monomer combines to form a polymer which continues to form the microfilament (actin filament). These subunits then assemble into two chains that intertwine into what is called, F-actin chains. Myosin motoring along F-actin filaments generates contractile forces in so-called actomyosin fibers, both in muscle as well as most non-muscle cell types. Actin structures are controlled by the Rho family of small GTP-binding proteins such as Rho itself for contractile acto-myosin filaments (\"stress fibers\"), Rac for lamellipodia and Cdc42 for filopodia.",
+            "score": 286.13531494140625
+        },
+        {
+            "docid": "420229_3",
+            "document": "Sarcomere . Two of the important proteins are myosin, which forms the thick filament, and actin, which forms the thin filament. Myosin has a long, fibrous tail and a globular head, which binds to actin. The myosin head also binds to ATP, which is the source of energy for muscle movement. Myosin can only bind to actin when the binding sites on actin are exposed by calcium ions.",
+            "score": 285.859130859375
+        },
+        {
+            "docid": "7105177_2",
+            "document": "Tropomodulin . Tropomodulin (TMOD) is a protein which binds and caps the minus end of actin (the \"pointed\" end), regulating the length of actin filaments in muscle and non-muscle cells. The protein functions by physically blocking the spontaneous dissociation of ADP-bound actin monomers from the minus end of the actin fibre. This, along with plus end capping proteins, such as capZ stabilise the structure of the actin filament. End capping is particularly important when long-lived actin filaments are necessary, for example: in myofibrils. Inhibition of tropomodulin capping activity leads to dramatic increase in thin filament length from its pointed end.",
+            "score": 282.50311279296875
+        },
+        {
+            "docid": "19723734_11",
+            "document": "Muscle . This same bundles-within-bundles structure is replicated within the muscle cells. Within the cells of the muscle are myofibrils, which themselves are bundles of protein filaments. The term \"myofibril\" should not be confused with \"myofiber\", which is a simply another name for a muscle cell. Myofibrils are complex strands of several kinds of protein filaments organized together into repeating units called sarcomeres. The striated appearance of both skeletal and cardiac muscle results from the regular pattern of sarcomeres within their cells. Although both of these types of muscle contain sarcomeres, the fibers in cardiac muscle are typically branched to form a network. Cardiac muscle fibers are interconnected by intercalated discs, giving that tissue the appearance of a syncytium.",
+            "score": 282.4166564941406
+        },
+        {
+            "docid": "420229_14",
+            "document": "Sarcomere . The structure of the sarcomere affects its function in several ways. The overlap of actin and myosin gives rise to the length-tension curve, which shows how sarcomere force output decreases if the muscle is stretched so that fewer cross-bridges can form or compressed until actin filaments interfere with each other. Length of the actin and myosin filaments (taken together as sarcomere length) affects force and velocity \u2013 longer sarcomeres have more cross-bridges and thus more force, but have a reduced range of shortening. Vertebrates display a very limited range of sarcomere lengths, with roughly the same optimal length (length at peak length-tension) in all muscles of an individual as well as between species. Arthropods, however, show tremendous variation (over seven-fold) in sarcomere length, both between species and between muscles in a single individual. The reasons for the lack of substantial sarcomere variability in vertebrates is not fully known.",
+            "score": 282.1759033203125
+        },
+        {
+            "docid": "45502636_3",
+            "document": "Sliding filament theory . According to the sliding filament theory, the myosin (thick) filaments of muscle fibers slide past the actin (thin) filaments during muscle contraction, while the two groups of filaments remain at relatively constant length. Before the 1950s there were several competing theories on muscle contraction, including electrical attraction, protein folding, and protein modification. The novel theory directly introduced a new concept called cross-bridge theory (classically swinging cross-bridge, now mostly referred to as cross-bridge cycle) which explains the molecular mechanism of sliding filament. Cross-bridge theory states that actin and myosin form a protein complex (classically called actomyosin) by attachment of myosin head on the actin filament, thereby forming a sort of cross-bridge between the two filaments. These two complementary hypotheses turned out to be the correct description, and became a universally accepted explanation of the mechanism of muscle movement.",
+            "score": 281.6365966796875
+        },
+        {
+            "docid": "420224_15",
+            "document": "Myofibril . When a muscle contracts, the actin is pulled along myosin toward the center of the sarcomere until the actin and myosin filaments are completely overlapped. The H zone becomes smaller and smaller due to the increasing overlap of actin and myosin filaments, and the muscle shortens. Thus when the muscle is fully contracted, the H zone is no longer visible. Note that the actin and myosin filaments themselves do not change length, but instead slide past each other. This is known as the sliding filament theory of muscle contraction.",
+            "score": 280.4869689941406
+        },
+        {
+            "docid": "420224_6",
+            "document": "Myofibril . In striated muscle, such as skeletal and cardiac muscle, the actin and myosin filaments each have a specific and constant length on the order of a few micrometers, far less than the length of the elongated muscle cell (a few millimeters in the case of human skeletal muscle cells). The filaments are organized into repeated subunits along the length of the myofibril. These subunits are called sarcomeres. The muscle cell is nearly filled with myofibrils running parallel to each other on the long axis of the cell. The sarcomeric subunits of one myofibril are in nearly perfect alignment with those of the myofibrils next to it. This alignment gives rise to certain optical properties which cause the cell to appear striped or striated. In smooth muscle cells, this alignment is absent, hence there are no apparent striations and the cells are called smooth. Exposed muscle cells at certain angles, such as in meat cuts, can show structural coloration or iridescence due to this periodic alignment of the fibrils and sarcomeres.",
+            "score": 277.8874816894531
+        },
+        {
+            "docid": "6190347_5",
+            "document": "Cadaveric spasm . ATP is required to reuptake calcium into the sarcomere's sarcoplasmic reticulum (SR). When a muscle is relaxed, the myosin heads are returned to their \"high energy\" position, ready and waiting for a binding site on the actin filament to become available. Because there is no ATP available, previously released calcium ions cannot return to the SR. These leftover calcium ions move around inside the sarcomere and may eventually find their way to a binding site on the thin filament's regulatory protein. Since the myosin head is already ready to bind, no additional ATP expenditure is required and the sarcomere contracts.",
+            "score": 276.0062255859375
+        },
+        {
+            "docid": "438944_70",
+            "document": "Actin . In muscle cells, actomyosin myofibrils makeup much of the cytoplasmic material. These myofibrils are made of \"thin filaments\" of actin (typically around 7\u00a0nm in diameter), and \"thick filaments\" of the motor-protein myosin (typically around 15\u00a0nm in diameter). These myofibrils use energy derived from ATP to create movements of cells, such as muscle contraction. Using the hydrolysis of ATP for energy, myosin heads undergo a cycle during which they attach to thin filaments, exert a tension, and then, depending on the load, perform a power stroke that causes the thin filaments to slide past, shortening the muscle.",
+            "score": 275.8201904296875
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "52234631_7",
+            "document": "Hemochromatosis type 4 . In normal iron regulation, iron is absorbed in the intestine, and ferroportin transports iron from the cells of the intestinal lining into the bloodstream. Iron in the bloodstream is then bound by transferrin, which carries the iron to target cells. Iron is stored in cells and blood serum in a protein called ferritin. Reticuloendothelial macrophages, which can phagocytose red blood cells, are important in the iron recycling process. Ferroportin is upregulated in the reticuloendothelial macrophages after phagocytosis occurs so that iron from the degraded red blood cells can be released into the bloodstream and transported to other types of cells as needed. Hepcidin, a protein synthesized in the liver in response to iron or inflammation, is a regulator of ferroportin expression. When hepcidin binds ferroportin, ferroportin is phosphorylated, endocytosed, tagged with ubiquitin, and degraded. More than 39 mutations to the SLC40A1 gene have been identified in patients with type 4 hemochromatosis. The misregulation of ferroportin in type 4 hemochromatosis can involve a failure of ferroportin to be properly expressed at the cell membrane, or it can involve a failure of ferroportin to respond to negative regulation by hepcidin.",
+            "score": 313.8445430994034
+        },
+        {
+            "docid": "68349_19",
+            "document": "HFE hereditary haemochromatosis . Since the regulation of iron metabolism is still poorly understood, a clear model of how haemochromatosis operates is still not available. A working model describes the defect in the HFE gene, where a mutation puts the intestinal absorption of iron into overdrive. Normally, HFE facilitates the binding of transferrin, which is iron's carrier protein in the blood. Transferrin levels are typically elevated at times of iron depletion (low ferritin stimulates the release of transferrin from the liver). When transferrin is high, HFE works to increase the intestinal release of iron into the blood. When HFE is mutated, the intestines perpetually interpret a strong transferrin signal as if the body were deficient in iron. This leads to maximal iron absorption from ingested foods and iron overload in the tissues. However, HFE is only part of the story, since many patients with mutated HFE do not manifest clinical iron overload, and some patients with iron overload have a normal HFE genotype. A possible explanation is the fact that HFE normally plays a role in the production of hepcidin in the liver, a function that is impaired in HFE mutations.",
+            "score": 158.88336396217346
+        },
+        {
+            "docid": "4368806_14",
+            "document": "HFE (gene) . It is possible to delete part or all of a gene of interest in mice (or other experimental animals) as a means of studying function of the gene and its protein. Such mice are called \u201cknockouts\u201d with respect to the deleted gene. \"Hfe\" is the mouse equivalent of the human hemochromatosis gene \"HFE\". The protein encoded by \"Hfe\" is Hfe. Mice homozygous (two abnormal gene copies) for a targeted knockout of all six transcribed \"Hfe\" exons are designated \"Hfe\"\u2212/\u2212. Iron-related traits of \"Hfe\"\u2212/\u2212 mice, including increased iron absorption and hepatic iron loading, are inherited in an autosomal recessive pattern. Thus, the \"Hfe\"\u2212/\u2212 mouse model simulates important genetic and physiologic abnormalities of \"HFE\" hemochromatosis. Other knockout mice were created to delete the second and third \"Hfe\" exons (corresponding to \u03b11 and \u03b12 domains of Hfe). Mice homozygous for this deletion also had increased duodenal iron absorption, elevated plasma iron and transferrin saturation levels, and iron overload, mainly in hepatocytes. Mice have also been created that are homozygous for a missense mutation in \"Hfe\" (C282Y). These mice correspond to persons with hemochromatosis who are homozygous for \"HFE\" C282Y. These mice develop iron loading that is less severe than that of \"Hfe\"\u2212/\u2212 mice.",
+            "score": 94.79277813434601
+        },
+        {
+            "docid": "6481547_6",
+            "document": "Hephaestin . Much of what is known about hephaestin comes from studying heritable mutants of murine iron metabolism. The protein was discovered and identified through the study of mice with sex-linked anemia, or sla mice, in which there is normal mucosal uptake of dietary iron but impaired transport of iron from the intestinal enterocytes into the circulation. \"sla\" mice harbor a partial deletion mutation of the \"HEPH\" gene, resulting in the expression of a hephaestin protein that is truncated by 194 amino acids. Studies suggest that this truncated hephaestin protein still retains a minimal, yet detectable and quantifiable level of ferroxidase activity. This raises the possibility that alternative factors may contribute to the decreased efflux of iron seen in the \"sla\" phenotype.",
+            "score": 82.94984197616577
+        },
+        {
+            "docid": "3363020_9",
+            "document": "Aceruloplasminemia . Aceruloplasminemia is caused by a mutation (a five-base pair insertion in exon 7) in the CP gene, which provides instructions for making a protein called ceruloplasmin, a protein involved in iron transport and processing. Ceruloplasmin helps move iron from the organs and tissues of the body and prepares it for incorporation into a molecule called transferrin, which transports it to red blood cells to help carry oxygen. The CP gene mutation results in the production of ceruloplasmin protein that is unstable or nonfunctional by altering the open reading frame such that the amino acid ligands in the essential carboxyl terminal region are eliminated. When ceruloplasmin is unavailable, transport of iron out of the body's tissues is impaired. The resulting iron accumulation damages cells in those tissues, leading to neurological dysfunction and other health problems.",
+            "score": 105.03315949440002
+        },
+        {
+            "docid": "3352829_19",
+            "document": "Hepcidin . \u03b2-thalassemia, one of the most common congenital anemias, arises from partial or complete lack of \u03b2-globin synthesis. Excessive iron absorption is one of the main features of \u03b2-thalassemia and can lead to severe morbidity and mortality. The serial analyses of \u03b2-thalassemic mice indicate hemoglobin levels decreases over time, while the concentration of iron in the liver, spleen, and kidneys markedly increases. The overload of iron is associated with low levels of hepcidin. Patients with \u03b2-thalassemia also have low hepcidin levels. The observations led researchers to hypothesize that more iron is absorbed in \u03b2-thalassemia than is required for erythropoiesis. Increasing expression of hepcidin in \u03b2-thalassemic mice limits iron overload, and also decreases formation of insoluble membrane-bound globins and reactive oxygen species, and improves anemia. Mice with increased hepcidin expression also demonstrated an increase in the lifespan of their red cells, reversal of ineffective erythropoiesis and splenomegaly, and an increase in total hemoglobin levels. From these data, researchers suggested that therapeutics to increase hepcidin levels or act as hepcidin agonists could help treat the abnormal iron absorption in individuals with \u03b2-thalassemia and related disorders. In later studies in mice, erythroferrone has been suggested to be the factor that is responsible for the hepcidin suppression. Correcting hepcidin and iron levels in these mice did not improve their anemia.",
+            "score": 206.84579741954803
+        },
+        {
+            "docid": "52637243_3",
+            "document": "Sport dog nutrition . Protein is an essential component in any dog's diet. \u00a0Muscle, hair, skin, ligaments, cartilage, and chest and abdomen organs are structurally supported by protein. In comparison to the average dog, a performance or sporting dog requires a greater protein intake. This is a result of wear and tear on muscles and other organ tissues caused by strenuous activity. Protein is also a vital component in bodily functions such as transporting oxygen and energy to the muscles, regulating blood glucose levels, fighting infections, and repairing tissues. Many diets targeted for performance dogs contain 30% protein. However, dogs performing in different athletic activities can require varying amounts of protein and essential amino acids. For instance, studies have shown that sled dogs require a high protein, high fat diet, where 30 to 40% of energy comes from protein and 50% of energy comes from fat. Greyhounds were found to require a moderate protein (25% energy) and moderately high fat (30-50% energy) diet. At present there are conflicting opinions concerning whether protein from animal sources is of higher quality than protein from non animal sources. For instance, a study completed by Brown et al., concluded that \"In a 16-week controlled experiment, a meat-free diet maintained haematological characteristics in sprint-racing sled dogs (Siberian huskies)\". No deficiencies or side effects were noted in this study. However, in previous studies it was discovered that when feeding non animal protein diets to performance dogs, a larger prevalence of anemia was found in comparison to when dogs were fed diets containing animal protein. Poor iron bioavailability can lead to anemia. As stated by Chausow and Czarnecki-Maulden, it is generally accepted that animal sources of protein have more iron bioavailability than plant sources. Studies have been conducted to compare iron bioavailability when feeding animal and non animal sources of protein. However, research on dogs for this topic is are lacking. Studies completed by Chausow and Czarnecki-Maulden conclude that more research needs to be done on iron bioavailability of plant and animal protein sources. Regardless of the source, when feeding the sporting dog, protein is an essential component of the diet. Nutritional demands must be met in order to achieve high performance levels.",
+            "score": 120.34844517707825
+        },
+        {
+            "docid": "17364944_3",
+            "document": "Iron metabolism disorder . Hepcidin is the master regulator of iron metabolism and, therefore, most genetic forms of iron overload can be thought of as relative hepcidin deficiency in one way or another. For instance, a severe form of iron overload, juvenile hemochromatosis, is a result of severe hepcidin deficiency. The majority of cases are caused by mutations in the hemojuvelin gene (HJV or RGMc/repulsive guidance molecule c). The exceptions, people who have mutations in the gene for ferroportin, prove the rule: these people have plenty of hepcidin, but their cells lack the proper response to it. So, in people with ferroportin proteins that transport iron out of cells without responding to hepcidin's signals to stop, they have a deficiency in the action of hepcidin, if not in hepcidin itself.",
+            "score": 263.53615617752075
+        },
+        {
+            "docid": "3352829_16",
+            "document": "Hepcidin . Soon after this discovery, researchers discovered that hepcidin production in mice increases in conditions of iron overload as well as in inflammation. Genetically modified mice engineered to overexpress hepcidin died shortly after birth with severe iron deficiency, again suggesting a central and not redundant role in iron regulation. The first evidence that linked hepcidin to the clinical condition known as the anemia of inflammation came from the lab of Nancy Andrews in Boston when researchers looked at tissue from two patients with liver tumors with a severe microcytic anemia that did not respond to iron supplements. The tumor tissue appeared to be overproducing hepcidin, and contained large quantities of hepcidin mRNA. Removing the tumors surgically cured the anemia.",
+            "score": 188.43466973304749
+        },
+        {
+            "docid": "14734_105",
+            "document": "Iron . Overdoses of ingested iron can cause excessive levels of free iron in the blood. High blood levels of free ferrous iron react with peroxides to produce highly reactive free radicals that can damage DNA, proteins, lipids, and other cellular components. Iron toxicity occurs when the cell contains free iron, which generally occurs when iron levels exceed the availability of transferrin to bind the iron. Damage to the cells of the gastrointestinal tract can also prevent them from regulating iron absorption, leading to further increases in blood levels. Iron typically damages cells in the heart, liver and elsewhere, causing adverse effects that include coma, metabolic acidosis, shock, liver failure, coagulopathy, adult respiratory distress syndrome, long-term organ damage, and even death. Humans experience iron toxicity when the iron exceeds 20\u00a0milligrams for every kilogram of body mass; 60\u00a0milligrams per kilogram is considered a lethal dose. Overconsumption of iron, often the result of children eating large quantities of ferrous sulfate tablets intended for adult consumption, is one of the most common toxicological causes of death in children under six. The Dietary Reference Intake (DRI) sets the Tolerable Upper Intake Level (UL) for adults at 45\u00a0mg/day. For children under fourteen years old the UL is 40\u00a0mg/day.",
+            "score": 139.31358563899994
+        },
+        {
+            "docid": "14734_104",
+            "document": "Iron . Iron uptake is tightly regulated by the human body, which has no regulated physiological means of excreting iron. Only small amounts of iron are lost daily due to mucosal and skin epithelial cell sloughing, so control of iron levels is primarily accomplished by regulating uptake. Regulation of iron uptake is impaired in some people as a result of a genetic defect that maps to the HLA-H gene region on chromosome 6 and leads to abnormally low levels of hepcidin, a key regulator of the entry of iron into the circulatory system in mammals. In these people, excessive iron intake can result in iron overload disorders, known medically as hemochromatosis. Many people have an undiagnosed genetic susceptibility to iron overload, and are not aware of a family history of the problem. For this reason, people should not take iron supplements unless they suffer from iron deficiency and have consulted a doctor. Hemochromatosis is estimated to be the cause of 0.3 to 0.8% of all metabolic diseases of Caucasians.",
+            "score": 144.77228891849518
+        },
+        {
+            "docid": "3335116_19",
+            "document": "Human iron metabolism . These intestinal lining cells can then either store the iron as ferritin, which is accomplished by Fe binding to apoferritin (in which case the iron will leave the body when the cell dies and is sloughed off into feces), or the cell can release it into the body via the only known iron exporter in mammals, ferroportin. Hephaestin, a ferroxidase that can oxidize Fe to Fe and is found mainly in the small intestine, helps ferroportin transfer iron across the basolateral end of the intestine cells. In contrast, ferroportin is post-translationally repressed by hepcidin, a 25-amino acid peptide hormone. The body regulates iron levels by regulating each of these steps. For instance, enterocytes synthesize more Dcytb, DMT1 and ferroportin in response to iron deficiency anemia. Iron absorption from diet is enhanced in the presence of vitamin C and diminished by excess calcium, zinc, or manganese.",
+            "score": 228.92720198631287
+        },
+        {
+            "docid": "3368914_5",
+            "document": "Beta-2 microglobulin . An additional function is association with the HFE protein, together regulating the expression of hepcidin in the liver which targets the iron transporter ferroportin on the cytoplasmic membrane of enterocytes and macrophages for degradation resulting in increased iron uptake from food and decreased iron release from recycled red blood cells in the MPS (mononuclear phagocyte system) respectively. Loss of this function causes iron excess and hemochromatosis.",
+            "score": 212.74887704849243
+        },
+        {
+            "docid": "5922431_2",
+            "document": "Iron-binding proteins . Iron-binding proteins are carrier proteins and metalloproteins which play many important roles in metabolism. Iron is required by humans and bacteria for enzymes and metabolism to function properly.  Iron-binding proteins bind iron tightly which make it unavailable for microbial use, limiting growth. Four iron-binding proteins are Haemoglobin, Ferritin, lactoferrin and transferrin.  Haemoglobin is located in red blood cells. Transferrin is found in blood and tissue fluids. Lactoferrin is found in milk, blood, tears and saliva. Ferritin is found in every cell type.",
+            "score": 124.06923246383667
+        },
+        {
+            "docid": "52234631_8",
+            "document": "Hemochromatosis type 4 . Hemochromatosis type 4A is characterized by impaired iron export in cells. Reticuloendothelial macrophages are most affected. Iron accumulates preferentially in Kupffer cells, which are located in the liver, and serum ferritin increases; less iron is available for circulating transferrin, a protein that binds iron and transports it through the bloodstream to cell receptors. This means that, while iron is trapped in certain types of tissues, it cannot be transported to tissues where it is needed. The accumulation of iron in tissues due to impaired iron export can lead to increasing transferrin iron saturation and liver parenchymal iron overload in advanced stages of the disease. More ferritin is produced to suppress oxidative cell damage, although the amount of ferritin that cells can accumulate is limited.",
+            "score": 108.87064623832703
+        },
+        {
+            "docid": "158402_4",
+            "document": "Iron deficiency . Untreated iron deficiency can lead to iron deficiency anemia, a common type of anemia. Anemia is a condition characterized by inadequate red blood cells (erythrocytes) or hemoglobin. Iron deficiency anemia occurs when the body lacks sufficient amounts of iron, resulting in reduced production of the protein hemoglobin. Hemoglobin binds to oxygen, thus enabling red blood cells to supply oxygenated blood throughout the body. Children, pre-menopausal women (women of child-bearing age) and people with poor diet are most susceptible to the disease. Most cases of iron deficiency anemia are mild, but if not treated can cause problems like fast or irregular heartbeat, complications during pregnancy, and delayed growth in infants and children.",
+            "score": 100.31032538414001
+        },
+        {
+            "docid": "549333_21",
+            "document": "Iron overload . Two factors are thought to have had large influence on the mutation of genes related to Iron overload during the Stone Age: diet and the environment. Starting during the Mesolithic Era, communities of people lived in an environment that was fairly sunny, warm and had the dry climates of the Middle East. Most of the humans who lived at the time were foragers and their diets consisted mostly of hunting game, gathering and even fishing when and if the opportunity arose. With the archaeologists studying dental plaque and the assumptions of what would have been available to the people due to their environment, leads to the theories of Mesolithic foragers eating substances such as tubers, nuts, plantains, grass and much of the food would have been was very rich in iron. Over hundreds of years the body was very well adapted to the high level of iron content in the consumption. Moving forward in time and studying the Neolithic Era, which was during the end of the Stone Age, we see serious advancements in both the environment and diet of the travelling people. During the European Neolithic era, some communities of foragers started to migrate north. The lifestyle and environment started to change to a decrease in temperatures and a change in the landscaping in which the foragers now needed to adapt to. As the people began to develop and advance their use of tools and learn new ways of producing food, hunting and gathering was no longer the main source, but farming also slowly started to develop. The change that the travellers encountered would have lead to serious stress on the body and a decrease in iron rich consumption. This transition is a key factor in which researchers can start to see the link between the travellers diets, environment & the mutations of genes, especially those that regulated the iron absorption within the body. The iron, that makes of 70% of our red blood cell composition, \u00a0is a critical micronutrient for effective thermoregulation in the body. When the body encounters a deficiency of its micronutrients, in this case iron, it will lead to a drop in the core temperature. When the travellers encountered the much more chilly & damp environments of Europe, the supplementary iron from there food was a necessity to help keep their temperatures regulated- however, without the iron supplements from the food the human body would have undergone serious stress to make up for the lost iron and would have started to store iron at higher rates than normal. This theory hypothesizes that the pressures cause by the migration would be the initiation to the gene mutation that allowed the body to absorb & store higher amounts of iron. There is no way to know the exact time at which the gene mutated or in which location these people were in when it happened. However, when the time frame at which the migrators would have started to move north and the increasing probability of the people\u2019s bodies adapting, lead to the assumption that the travellers would have moved and helped to develop the Celtic Empire during the Bronzing Age. This theory would also offer an explanation of why the name \u2018Celtic Curse\u2019 became a well known alternative/nickname for hemochromatosis.",
+            "score": 99.40777921676636
+        },
+        {
+            "docid": "470107_2",
+            "document": "Ferritin . Ferritin is a universal intracellular protein that stores iron and releases it in a controlled fashion. The protein is produced by almost all living organisms, including algae, bacteria, higher plants, and animals. In humans, it acts as a buffer against iron deficiency and iron overload. Ferritin is found in most tissues as a cytosolic protein, but small amounts are secreted into the serum where it functions as an iron carrier. Plasma ferritin is also an indirect marker of the total amount of iron stored in the body, hence serum ferritin is used as a diagnostic test for iron-deficiency anemia.",
+            "score": 105.23083209991455
+        },
+        {
+            "docid": "1551873_7",
+            "document": "ATP-binding cassette transporter . Bacterial ABC transporters are essential in cell viability, virulence, and pathogenicity. Iron ABC uptake systems, for example, are important effectors of virulence. Pathogens use siderophores, such as Enterobactin, to scavenge iron that is in complex with high-affinity iron-binding proteins or erythrocytes. These are high-affinity iron-chelating molecules that are secreted by bacteria and reabsorb iron into iron-siderophore complexes. The chvE-gguAB gene in \"Agrobacterium tumefaciens\" encodes glucose and galactose importers that are also associated with virulence. Transporters are extremely vital in cell survival such that they function as protein systems that counteract any undesirable change occurring in the cell. For instance, a potential lethal increase in osmotic strength is counterbalanced by activation of osmosensing ABC transporters that mediate uptake of solutes. Other than functioning in transport, some bacterial ABC proteins are also involved in the regulation of several physiological processes.",
+            "score": 99.94452118873596
+        },
+        {
+            "docid": "12234_22",
+            "document": "George Whipple . In 1937, Whipple collaborated with William B. Hawkins to determine the life-span of the red blood cell in dogs. Simultaneously, with the advent of radioactive iron, Whipple, Paul F. Hahn, and William F. Bale collaborated to study iron absorption and utilization. They demonstrated that iron absorption was highly regulated in the small intestine and was influenced by the amount of iron stores in the body. They also demonstrated that insignificant amounts of iron were normally excreted or lost in the urine, feces, or bile. During this time, Whipple also formulated his theory on \u201cthe dynamic equilibrium between blood and tissue proteins\u201d based on earlier plasmapheresis experiments he had performed (in the early 1930s) which demonstrated the importance of dietary protein on production of plasma proteins. This formed the foundation of research into mammalian protein metabolism, and led Rudolf Schoenheimer to write \"The Dynamic State of the Body Constituents,\" marking the modern era of biochemistry and biology.",
+            "score": 96.65170693397522
+        },
+        {
+            "docid": "470140_13",
+            "document": "Transferrin . An increased plasma transferrin level is often seen in patients suffering from iron deficiency anemia, during pregnancy, and with the use of oral contraceptives, reflecting an increase in transferrin protein expression. When plasma transferrin levels rise, there is a reciprocal decrease in percent transferrin iron saturation, and a corresponding increase in total iron binding capacity in iron deficient states A decreased plasma transferrin can occur in iron overload diseases and protein malnutrition. An absence of transferrin results from a rare genetic disorder known as atransferrinemia, a condition characterized by anemia and hemosiderosis in the heart and liver that leads to heart failure and many other complications.",
+            "score": 119.26912760734558
+        },
+        {
+            "docid": "3335116_2",
+            "document": "Human iron metabolism . Human iron metabolism is the set of chemical reactions that maintain human homeostasis of iron at the systemic and cellular level. Iron is both necessary to the body and potentially toxic, and controlling iron levels in the body is a critically important part of many aspects of human health and disease. Hematologists have been especially interested in systemic iron metabolism because iron is essential for red blood cells, where most of the human body's iron is contained. Understanding iron metabolism is also important for understanding diseases of iron overload, such as hereditary hemochromatosis, and iron deficiency, such as iron deficiency anemia.",
+            "score": 118.7013292312622
+        },
+        {
+            "docid": "45079586_12",
+            "document": "Siderocalin . The requirement for iron by humans and pathogens has been known for many years. The link between iron and mycobactins, iron-chelating growth factors from mycobacteria, was first made in the 1960s. At the time, interest was growing in resolving an application of mycobactins as target molecules for a rational anti-tuberculosis agent. Experiments in the 1960s and 1970s demonstrated that iron deficiency in mycobacteria was the cause of 'anaemic\u2019 cells. The majority of the genes and systems necessary for high affinity iron acquisition have been identified in pathogenic and saprophytic mycobacteria. These genes encode proteins for iron storage, uptake of ferric-siderophores, and heme.  Humans have evolved a defense for siderophore-mediated iron acquisition by developing siderocalin. To combat this, various pathogens have evolved siderophores that can evade siderocalin recognition. Siderocalin has been shown to bind to siderophores and inhibit iron acquisition, and prevent the growth of \"Mycobacterium tuberculosis\" in extracellular cultures; however, the effect of siderocalin on this pathogen within macrophages remains unclear.",
+            "score": 91.76178002357483
+        },
+        {
+            "docid": "1948728_5",
+            "document": "Aconitase . The iron-responsive element-binding protein (IRE-BP) and 3-isopropylmalate dehydratase (\u03b1-isopropylmalate isomerase; ), an enzyme catalysing the second step in the biosynthesis of leucine, are known aconitase homologues. Iron regulatory elements (IREs) constitute a family of 28-nucleotide, non-coding, stem-loop structures that regulate iron storage, heme synthesis and iron uptake. They also participate in ribosome binding and control the mRNA turnover (degradation). The specific regulator protein, the IRE-BP, binds to IREs in both 5' and 3' regions, but only to RNA in the apo form, without the Fe-S cluster. Expression of IRE-BP in cultured cells has revealed that the protein functions either as an active aconitase, when cells are iron-replete, or as an active RNA-binding protein, when cells are iron-depleted. Mutant IRE-BPs, in which any or all of the three Cys residues involved in Fe-S formation are replaced by serine, have no aconitase activity, but retain RNA-binding properties.",
+            "score": 98.40404808521271
+        },
+        {
+            "docid": "9445904_71",
+            "document": "Lactalbumin . Conclusion: Mice receiving iron treatments with whey supplementation had significantly lower concentrations of cytotoxic aldehydes and significantly higher cardiac levels of GPx and GSH activity than did iron-only treated mice. Additional basic research is warranted to examine the exact mechanisms by which milk whey protein protects the heart.",
+            "score": 96.66664147377014
+        },
+        {
+            "docid": "1271003_11",
+            "document": "Five prime untranslated region . Iron levels in cells are maintained by translation regulation of many proteins involved in iron storage and metabolism. The 5\u2032 UTR has the ability to form a hairpin loop secondary structure (known as the IRE, Iron response element) that is recognized by iron-regulatory proteins (IRP1 and IRP2). In low levels of iron, the ORF of the target mRNA is blocked as a result of steric hindrance from the binding of IRP1 and IRP2 to the iron-response element. When iron is high, then the two iron-regulatory proteins do not bind as strongly, and allow proteins to be expressed that have a role in iron concentration control. This function has gained some interest after it was revealed that the translation of amyloid precursor protein may be disrupted due to a single-nucleotide polymorphism to the iron response element found in the 5\u2032 UTR of its mRNA, leading to a spontaneous increased risk of Alzheimer's Disease.",
+            "score": 112.0042839050293
+        },
+        {
+            "docid": "3356434_10",
+            "document": "Ferroportin . Mutations in the ferroportin gene are known to cause an autosomal dominant form of iron overload known as type IV haemochromatosis or Ferroportin Disease. The effects of the mutations are generally not severe but a spectrum of clinical outcomes are seen with different mutations. Ferroportin is also associated with African iron overload. Ferroportin and hepcidin are critical proteins for the regulation of systemic iron homeostasis.",
+            "score": 215.2434206008911
+        },
+        {
+            "docid": "3352829_8",
+            "document": "Hepcidin . Hepcidin is a regulator of iron metabolism. Hepcidin inhibits iron transport by binding to the iron export channel ferroportin which is located on the basolateral surface of gut enterocytes and the plasma membrane of reticuloendothelial cells (macrophages). Hepcidin ultimately breaks down the transporter protein in the lysosome. Inhibiting ferroportin prevents iron from being exported and the iron is sequestered in the cells. By inhibiting ferroportin, hepcidin prevents enterocytes from allowing iron into the hepatic portal system, thereby reducing dietary iron absorption. The iron release from macrophages is also reduced by ferroportin inhibition. Increased hepcidin activity is partially responsible for reduced iron availability seen in anemia of chronic inflammation, such as renal failure.",
+            "score": 283.87436866760254
+        },
+        {
+            "docid": "593388_24",
+            "document": "Iron-deficiency anemia . Iron-deficiency anemia is confirmed by tests that include serum ferritin, serum iron level, serum transferrin, and total iron binding capacity (TIBC). A low serum ferritin is most commonly found. However, serum ferritin can be elevated by any type of chronic inflammation and thus is not consistently decreased in iron-deficiency anemia. Serum iron levels may be measured, but serum iron concentration is not as reliable as the measurement of both serum iron and serum iron-binding protein levels (TIBC). The ratio of serum iron to TIBC (called iron saturation or transferrin saturation index or percent) is a value with defined parameters that can help to confirm the diagnosis of iron-deficiency anemia; however, other conditions must also be considered, including other types of anemia.",
+            "score": 82.9731296300888
+        },
+        {
+            "docid": "3335116_16",
+            "document": "Human iron metabolism . Human iron homeostasis is regulated at two different levels. Systemic iron levels are balanced by the controlled absorption of dietary iron by enterocytes, the cells that line the interior of the intestines, and the uncontrolled loss of iron from epithelial sloughing, sweat, injuries and blood loss. In addition, systemic iron is continuously recycled. Cellular iron levels are controlled differently by different cell types due to the expression of particular iron regulatory and transport proteins.",
+            "score": 109.83739829063416
+        },
+        {
+            "docid": "52234631_9",
+            "document": "Hemochromatosis type 4 . Hemochromatosis type 4B is characterized by abnormal iron release from macrophages and enterocytes because the mutant ferroportin is resistant to the hepcidin protein, which serves a regulatory function in wild-type ferroportin. Intestinal iron absorption and release of iron from macrophages is increased. Thus, this form of the disease leads to elevated transferrin saturation levels. Systemic iron overload results, and liver iron deposition is primarily in the hepatocytes.",
+            "score": 214.89676523208618
+        },
+        {
+            "docid": "11445385_6",
+            "document": "Iron-responsive element-binding protein . Cells have advanced mechanisms for sensing their own need for iron. In human cells, the best-characterized iron-sensing mechanism is the result of post-transcriptional regulation of mRNA (the chemical instructions derived from DNA genes to make proteins). Sequences of mRNA called iron-responsive elements (IREs) are contained within the mRNA sequences that code for transferrin receptors and for ferritin. Iron-responsive element-binding protein (IRE-BP) binds to these mRNA sequences. On its own, the IRE-BP binds to the IREs of ferritin and transferrin receptor mRNA. But, when iron binds to the IRE-BP, the IRE-BP changes shape with the result that the IRE-BPs can no longer bind the ferritin mRNA. This liberates the mRNA to direct the cell to make more ferritin. In other words, when there is high iron in the cell, the iron itself causes the cell to produce more iron storage molecules. (The IRE-BP is an aconitase; for a schematic drawing of the shape change, see here).",
+            "score": 101.08649981021881
+        }
+    ],
+    "r": [
+        {
+            "docid": "52234631_7",
+            "document": "Hemochromatosis type 4 . In normal iron regulation, iron is absorbed in the intestine, and ferroportin transports iron from the cells of the intestinal lining into the bloodstream. Iron in the bloodstream is then bound by transferrin, which carries the iron to target cells. Iron is stored in cells and blood serum in a protein called ferritin. Reticuloendothelial macrophages, which can phagocytose red blood cells, are important in the iron recycling process. Ferroportin is upregulated in the reticuloendothelial macrophages after phagocytosis occurs so that iron from the degraded red blood cells can be released into the bloodstream and transported to other types of cells as needed. Hepcidin, a protein synthesized in the liver in response to iron or inflammation, is a regulator of ferroportin expression. When hepcidin binds ferroportin, ferroportin is phosphorylated, endocytosed, tagged with ubiquitin, and degraded. More than 39 mutations to the SLC40A1 gene have been identified in patients with type 4 hemochromatosis. The misregulation of ferroportin in type 4 hemochromatosis can involve a failure of ferroportin to be properly expressed at the cell membrane, or it can involve a failure of ferroportin to respond to negative regulation by hepcidin.",
+            "score": 313.84454345703125
+        },
+        {
+            "docid": "3352829_8",
+            "document": "Hepcidin . Hepcidin is a regulator of iron metabolism. Hepcidin inhibits iron transport by binding to the iron export channel ferroportin which is located on the basolateral surface of gut enterocytes and the plasma membrane of reticuloendothelial cells (macrophages). Hepcidin ultimately breaks down the transporter protein in the lysosome. Inhibiting ferroportin prevents iron from being exported and the iron is sequestered in the cells. By inhibiting ferroportin, hepcidin prevents enterocytes from allowing iron into the hepatic portal system, thereby reducing dietary iron absorption. The iron release from macrophages is also reduced by ferroportin inhibition. Increased hepcidin activity is partially responsible for reduced iron availability seen in anemia of chronic inflammation, such as renal failure.",
+            "score": 283.8743591308594
+        },
+        {
+            "docid": "17364944_3",
+            "document": "Iron metabolism disorder . Hepcidin is the master regulator of iron metabolism and, therefore, most genetic forms of iron overload can be thought of as relative hepcidin deficiency in one way or another. For instance, a severe form of iron overload, juvenile hemochromatosis, is a result of severe hepcidin deficiency. The majority of cases are caused by mutations in the hemojuvelin gene (HJV or RGMc/repulsive guidance molecule c). The exceptions, people who have mutations in the gene for ferroportin, prove the rule: these people have plenty of hepcidin, but their cells lack the proper response to it. So, in people with ferroportin proteins that transport iron out of cells without responding to hepcidin's signals to stop, they have a deficiency in the action of hepcidin, if not in hepcidin itself.",
+            "score": 263.5361633300781
+        },
+        {
+            "docid": "3356434_8",
+            "document": "Ferroportin . Ferroportin is inhibited by hepcidin, which binds to ferroportin and internalizes it within the cell. This results in the retention of iron within enterocytes, hepatocytes, and macrophages with a consequent reduction in iron levels within the blood serum. This is especially significant with enterocytes which, when shed at the end of their lifespan, results in significant iron loss. This is part of the mechanism that causes anaemia of chronic disease; hepcidin is released from the liver in response to inflammatory cytokines, namely interleukin-6, which results in an increased hepcidin concentration and a consequent decrease in plasma iron levels.",
+            "score": 248.58909606933594
+        },
+        {
+            "docid": "3352829_3",
+            "document": "Hepcidin . During conditions in which the hepcidin level is abnormally high, such as inflammation, serum iron falls due to iron trapping within macrophages and liver cells and decreased gut iron absorption. This typically leads to anemia due to an inadequate amount of serum iron being available for developing red cells. When the hepcidin level is abnormally low such as in hemochromatosis, iron overload occurs due to increased ferroportin mediated iron efflux from storage and increased gut iron absorption.",
+            "score": 240.37599182128906
+        },
+        {
+            "docid": "3335116_26",
+            "document": "Human iron metabolism . Iron export occurs in a variety of cell types, including neurons, erythrocytes, macrophages and enterocytes. The latter two are especially important since systemic iron levels depend upon them. There is only one known iron exporter, ferroportin. It transports ferrous iron out of the cell, generally aided by ceruloplasmin and/or hephaestin (mostly in enterocytes), which oxidize iron to its ferric state so it can bind ferritin in the extracellular medium. Hepcidin causes the internalization of ferroportin, decreasing iron export. Besides, hepcidin seems to downregulate both TFR1 and DMT1 through an unknown mechanism. Another player assisting ferroportin in effecting cellular iron export is GAPDH. A specific post translationally modified isoform of GAPDH is recruited to the surface of iron loaded cells where it recruits apo-transferrin in close proximity to ferroportin so as to rapidly chelate the iron extruded.",
+            "score": 236.8739471435547
+        },
+        {
+            "docid": "2363722_4",
+            "document": "Anemia of chronic disease . Anemia is considered when RBCs count : Or Hemoglobin ( Hb ) content : In response to inflammatory cytokines, increasingly IL-6, the liver produces increased amounts of hepcidin. Hepcidin in turn causes increased internalisation of ferroportin molecules on cell membranes which prevents release from iron stores. Inflammatory cytokines also appear to affect other important elements of iron metabolism, including decreasing ferroportin expression, and probably directly blunting erythropoiesis by decreasing the ability of the bone marrow to respond to erythropoietin.",
+            "score": 235.07814025878906
+        },
+        {
+            "docid": "3335116_19",
+            "document": "Human iron metabolism . These intestinal lining cells can then either store the iron as ferritin, which is accomplished by Fe binding to apoferritin (in which case the iron will leave the body when the cell dies and is sloughed off into feces), or the cell can release it into the body via the only known iron exporter in mammals, ferroportin. Hephaestin, a ferroxidase that can oxidize Fe to Fe and is found mainly in the small intestine, helps ferroportin transfer iron across the basolateral end of the intestine cells. In contrast, ferroportin is post-translationally repressed by hepcidin, a 25-amino acid peptide hormone. The body regulates iron levels by regulating each of these steps. For instance, enterocytes synthesize more Dcytb, DMT1 and ferroportin in response to iron deficiency anemia. Iron absorption from diet is enhanced in the presence of vitamin C and diminished by excess calcium, zinc, or manganese.",
+            "score": 228.9272003173828
+        },
+        {
+            "docid": "3352829_5",
+            "document": "Hepcidin . Hepcidin, a peptide hormone which is mainly synthesized in the liver, was discovered in 2000. It reduces extracellular iron in the body by several mechanisms: 1) It lowers dietary iron absorption by reducing iron transport across gut mucosal cells (enterocytes); 2) It reduces iron exit from macrophages, the main site of iron storage; and 3) it reduces iron exit from the liver. In all three instances this is accomplished by reducing the transmembrane iron transporter ferroportin.",
+            "score": 226.7699432373047
+        },
+        {
+            "docid": "3356434_10",
+            "document": "Ferroportin . Mutations in the ferroportin gene are known to cause an autosomal dominant form of iron overload known as type IV haemochromatosis or Ferroportin Disease. The effects of the mutations are generally not severe but a spectrum of clinical outcomes are seen with different mutations. Ferroportin is also associated with African iron overload. Ferroportin and hepcidin are critical proteins for the regulation of systemic iron homeostasis.",
+            "score": 215.24342346191406
+        },
+        {
+            "docid": "52234631_9",
+            "document": "Hemochromatosis type 4 . Hemochromatosis type 4B is characterized by abnormal iron release from macrophages and enterocytes because the mutant ferroportin is resistant to the hepcidin protein, which serves a regulatory function in wild-type ferroportin. Intestinal iron absorption and release of iron from macrophages is increased. Thus, this form of the disease leads to elevated transferrin saturation levels. Systemic iron overload results, and liver iron deposition is primarily in the hepatocytes.",
+            "score": 214.89675903320312
+        },
+        {
+            "docid": "3368914_5",
+            "document": "Beta-2 microglobulin . An additional function is association with the HFE protein, together regulating the expression of hepcidin in the liver which targets the iron transporter ferroportin on the cytoplasmic membrane of enterocytes and macrophages for degradation resulting in increased iron uptake from food and decreased iron release from recycled red blood cells in the MPS (mononuclear phagocyte system) respectively. Loss of this function causes iron excess and hemochromatosis.",
+            "score": 212.74887084960938
+        },
+        {
+            "docid": "2363722_2",
+            "document": "Anemia of chronic disease . Anemia of chronic disease, or anemia of chronic inflammation, is a form of anemia seen in chronic infection, chronic immune activation, and malignancy. These conditions all produce massive elevation of Interleukin-6, which stimulates hepcidin production and release from the liver, which in turn reduces the iron carrier protein ferroportin so that access of iron to the circulation is reduced. Other mechanisms may also play a role, such as reduced erythropoiesis.",
+            "score": 211.53933715820312
+        },
+        {
+            "docid": "3352829_19",
+            "document": "Hepcidin . \u03b2-thalassemia, one of the most common congenital anemias, arises from partial or complete lack of \u03b2-globin synthesis. Excessive iron absorption is one of the main features of \u03b2-thalassemia and can lead to severe morbidity and mortality. The serial analyses of \u03b2-thalassemic mice indicate hemoglobin levels decreases over time, while the concentration of iron in the liver, spleen, and kidneys markedly increases. The overload of iron is associated with low levels of hepcidin. Patients with \u03b2-thalassemia also have low hepcidin levels. The observations led researchers to hypothesize that more iron is absorbed in \u03b2-thalassemia than is required for erythropoiesis. Increasing expression of hepcidin in \u03b2-thalassemic mice limits iron overload, and also decreases formation of insoluble membrane-bound globins and reactive oxygen species, and improves anemia. Mice with increased hepcidin expression also demonstrated an increase in the lifespan of their red cells, reversal of ineffective erythropoiesis and splenomegaly, and an increase in total hemoglobin levels. From these data, researchers suggested that therapeutics to increase hepcidin levels or act as hepcidin agonists could help treat the abnormal iron absorption in individuals with \u03b2-thalassemia and related disorders. In later studies in mice, erythroferrone has been suggested to be the factor that is responsible for the hepcidin suppression. Correcting hepcidin and iron levels in these mice did not improve their anemia.",
+            "score": 206.84579467773438
+        },
+        {
+            "docid": "3335116_20",
+            "document": "Human iron metabolism . The human body\u2019s rate of iron absorption appears to respond to a variety of interdependent factors, including total iron stores, the extent to which the bone marrow is producing new red blood cells, the concentration of hemoglobin in the blood, and the oxygen content of the blood. The body also absorbs less iron during times of inflammation, in order to deprive bacteria of iron. Recent discoveries demonstrate that hepcidin regulation of ferroportin is responsible for the syndrome of anemia of chronic disease.",
+            "score": 201.30213928222656
+        },
+        {
+            "docid": "3372232_16",
+            "document": "African iron overload . Distinctive phenotypes of individuals with SLC40A1 Q248H are minor, if any. Serum ferritin concentration is likely to be high in persons with Q248H (mostly heterozygotes) than in wild-type SLC40A1. In \"xenopus oocytes\" and HEK 293 cells, the expression of wild type ferroportin was similar to the expression of ferroportin Q248H at the plasma membrane. In HEK 293 cells, Q248H was as predisposed to the activities of hepcidin-25 as wild type ferroportin. Ferroportin Q248H also unregulated the expression of transferrin receptor-1 in the same way as wild type. This indicates the ferroportin Q248H is associated with mild clinical phenotype or causes iron disorder in the presence of other factors.",
+            "score": 199.56143188476562
+        },
+        {
+            "docid": "47641935_6",
+            "document": "Erythroferrone . Its mechanism of action is to inhibit the expression of the liver hormone, hepcidin. This process is governed by the renal hormone, erythropoietin. By suppressing this, ERFE increases the function of the cellular iron export channel, ferroportin. This then results in increased iron absorption from the intestine and mobilization of iron from stores, which can then be used in the synthesis of hemoglobin in new red blood cells.",
+            "score": 198.64694213867188
+        },
+        {
+            "docid": "3356434_2",
+            "document": "Ferroportin . Ferroportin-1, also known as solute carrier family 40 member 1 (SLC40A1) or iron-regulated transporter 1 (IREG1), is a protein that in humans is encoded by the \"SLC40A1\" gene, and is part of the Ferroportin (Fpn) Family (TC# 2.A.100). Ferroportin is a transmembrane protein that transports iron from the inside of a cell to the outside of the cell. After iron is absorbed into the cells of the intestine, ferroportin allows that iron to be transported out of those cells and into the bloodstream.",
+            "score": 197.1924591064453
+        },
+        {
+            "docid": "682181_11",
+            "document": "Erythropoiesis . Recent studies have also shown that the peptide hormone hepcidin may play a role in the regulation of hemoglobin production, and thus affect erythropoiesis. The liver produces hepcidin. Hepcidin controls iron absorption in the gastrointestinal tract and iron release from reticuloendothelial tissue. Iron must be released from macrophages in the bone marrow to be incorporated into the heme group of hemoglobin in erythrocytes. There are colony forming units that the cells follow during their formation. These cells are referred to as the committed cells including the granulocyte monocyte colony forming units.",
+            "score": 196.2904815673828
+        },
+        {
+            "docid": "169270_32",
+            "document": "Macrophage . The iron that is released from the haemoglobin is either stored internally in ferritin or is released into the circulation via ferroportin. In cases where systemic iron levels are raised, or where inflammation is present, raised levels of hepcidin act on macrophage ferroportin channels, leading to iron remaining within the macrophages.",
+            "score": 195.22410583496094
+        },
+        {
+            "docid": "3352829_16",
+            "document": "Hepcidin . Soon after this discovery, researchers discovered that hepcidin production in mice increases in conditions of iron overload as well as in inflammation. Genetically modified mice engineered to overexpress hepcidin died shortly after birth with severe iron deficiency, again suggesting a central and not redundant role in iron regulation. The first evidence that linked hepcidin to the clinical condition known as the anemia of inflammation came from the lab of Nancy Andrews in Boston when researchers looked at tissue from two patients with liver tumors with a severe microcytic anemia that did not respond to iron supplements. The tumor tissue appeared to be overproducing hepcidin, and contained large quantities of hepcidin mRNA. Removing the tumors surgically cured the anemia.",
+            "score": 188.43466186523438
+        },
+        {
+            "docid": "3335116_27",
+            "document": "Human iron metabolism . The expression of hepcidin, which only occurs in certain cell types such as hepatocytes, is tightly controlled at the transcriptional level and it represents the link between cellular and systemic iron homeostasis due to hepcidin's role as \"gatekeeper\" of iron release from enterocytes into the rest of the body. Erythroblasts produce erythroferrone, a hormone which inhibits hepcidin and so increases the availability of iron needed for hemoglobin synthesis.",
+            "score": 186.77590942382812
+        },
+        {
+            "docid": "7056464_14",
+            "document": "Hemojuvelin . Mutations in HJV are responsible for the vast majority of juvenile hemochromatosis patients. A small number of patients have mutations in the hepcidin (HAMP) gene. The gene was positionally cloned. Hemojuvelin is highly expressed in skeletal muscle and heart, and to a lesser extent in the liver. One insight into the pathogenesis of juvenile hemochromatosis is that patients have low to undetectable urinary hepcidin levels, suggesting that hemojuvelin is a positive regulator of hepcidin, the central iron regulatory hormone. As a result, low hepcidin levels would result in increased intestinal iron absorption. Thus, HJV/RGMc appears to play a critical role in iron metabolism.",
+            "score": 180.04080200195312
+        },
+        {
+            "docid": "3352829_18",
+            "document": "Hepcidin . There are many diseases where failure to adequately absorb iron contributes to iron deficiency and iron deficiency anaemia. The treatment will depend on the hepcidin levels that are present, as oral treatment will be unlikely to be effective if hepcidin is blocking enteral absorption, in which cases parenteral iron treatment would be appropriate. Studies have found that measuring hepcidin would be of benefit to establish optimal treatment, although as this is not widely available, C-reactive protein (CRP) is used as a surrogate marker.",
+            "score": 177.96034240722656
+        },
+        {
+            "docid": "3356434_6",
+            "document": "Ferroportin . Ferroportin-1 plays an important role in neural tube closure and forebrain patterning. Mouse embyros lacking the \"Scl40a1\" gene are aborted before gastrulation occurs, suggesting that the Fpn1 protein encoded is necessary and essential for normal embryonic development. Fpn1 is expressed in the syncytiotrophoblast cells in the placenta and visceral endoderm of mice at E7.5. Further, several retrospective studies have noted an increased incidence of spina bifida occurring after low maternal intake of iron during embryonic and fetal development.",
+            "score": 167.20477294921875
+        },
+        {
+            "docid": "1961275_17",
+            "document": "Amyloid precursor protein . As APP does not possess ferroxidase activity within its E2 domain, the mechanism of APP-modulated iron efflux from ferroportin has come under scrutiny. One model suggests that APP acts to stabilize the iron efflux protein ferroportin in the plasma membrane of cells thereby increasing the total number of ferroportin molecules at the membrane. These iron-transporters can then be activated by known mammalian ferroxidases (i.e. ceruloplasmin or hephaestin).",
+            "score": 165.11273193359375
+        },
+        {
+            "docid": "3372232_12",
+            "document": "African iron overload . The severity of iron overload can be determined and monitored using a combination of tests. Measurement of serum ferritin indicates for total body iron overload. Liver biopsy measures the iron concentration of liver. It provides the microscopic examination of the liver. Measurement of serum hepcidin levels may be useful in diagnostic for iron overload. MRI can detect the degree of magnetic disruption due to iron accumulation. MRI can measure iron accumulation within the heart, liver, and pituitary. Accumulation of iron in a single organ does not provide proper representation of the total body iron overload.",
+            "score": 162.83241271972656
+        },
+        {
+            "docid": "52234631_2",
+            "document": "Hemochromatosis type 4 . Hemochromatosis type 4, also known as ferroportin disease, is a hereditary iron overload disorder that affects ferroportin, an iron transport protein needed to export iron from cells into circulation. Although the disease is rare, it is found throughout the world and affects people from various ethnic groups. While the majority of individuals with type 4 hemochromatosis have a relatively mild form of the disease, some affected individuals have a more severe form. As the disease progresses, iron may accumulate in the tissues of affected individuals over time, potentially resulting in organ damage.",
+            "score": 160.93148803710938
+        },
+        {
+            "docid": "68349_19",
+            "document": "HFE hereditary haemochromatosis . Since the regulation of iron metabolism is still poorly understood, a clear model of how haemochromatosis operates is still not available. A working model describes the defect in the HFE gene, where a mutation puts the intestinal absorption of iron into overdrive. Normally, HFE facilitates the binding of transferrin, which is iron's carrier protein in the blood. Transferrin levels are typically elevated at times of iron depletion (low ferritin stimulates the release of transferrin from the liver). When transferrin is high, HFE works to increase the intestinal release of iron into the blood. When HFE is mutated, the intestines perpetually interpret a strong transferrin signal as if the body were deficient in iron. This leads to maximal iron absorption from ingested foods and iron overload in the tissues. However, HFE is only part of the story, since many patients with mutated HFE do not manifest clinical iron overload, and some patients with iron overload have a normal HFE genotype. A possible explanation is the fact that HFE normally plays a role in the production of hepcidin in the liver, a function that is impaired in HFE mutations.",
+            "score": 158.88336181640625
+        },
+        {
+            "docid": "3335116_11",
+            "document": "Human iron metabolism . Although this mechanism is an elegant response to short-term bacterial infection, it can cause problems when inflammation goes on for longer. Since the liver produces hepcidin in response to inflammatory cytokines, hepcidin levels can increase as the result of non-bacterial sources of inflammation, like viral infection, cancer, auto-immune diseases or other chronic diseases. When this occurs, the sequestration of iron appears to be the major cause of the syndrome of anemia of chronic disease, in which not enough iron is available to produce enough hemoglobin-containing red blood cells.",
+            "score": 158.49632263183594
+        },
+        {
+            "docid": "52234631_5",
+            "document": "Hemochromatosis type 4 . Mutations to SLC40A1 that change the amino acid sequence can result in loss of function or gain of function for the resulting ferroportin protein. The loss of function mutation results in a phenotype that is different from that of a gain of function mutation, and these phenotypes are associated with two different forms of type 4 hemochromatosis. Loss-of-function mutations are more frequent and are associated with type 4A hemochromatosis. These mutations lead to a defect in the localization of ferroportin. Gain-of-function mutations are associated with type 4B and lead to production of ferroportin that resists negative regulation by hepcidin.",
+            "score": 157.22427368164062
+        },
+        {
+            "docid": "3352829_11",
+            "document": "Hepcidin . Hepcidin synthesis and secretion by the liver is controlled by iron stores within macrophages, inflammation, hypoxia, and erythropoiesis. Macrophages communicate with the hepatocyte to regulate hepcidin release into the circulation via eight different proteins: hemojuvelin, heriditrary hemochromatosis protein, transferrin receptor 2, bone morphogenic protein 6 (BMP6), matriptase-2, neogenin, BMP receptors, and transferrin.",
+            "score": 155.7583770751953
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "1695344_11",
+            "document": "Gene conversion . Studies of gene conversion have contributed to our understanding of the adaptive function of meiotic recombination. The ordinary segregation pattern of an allele pair (Aa) among the 4 products of meiosis is 2A:2a. Detection of infrequent gene conversion events (e.g. 3:1 or 1:3 segregation patterns during individual meioses) provides insight into the alternate pathways of recombination leading either to crossover or non-crossover chromosomes. Gene conversion events are thought to arise where the \u201cA\u201d and \u201ca\u201d alleles happen to be near the exact location of a molecular recombination event. Thus, it is possible to measure the frequency with which gene conversion events are associated with crossover or non-crossover of chromosomal regions adjacent to, but outside, the immediate conversion event. Numerous studies of gene conversion in various fungi (which are especially suited for such studies) have been carried out, and the findings of these studies have been reviewed by Whitehouse. It is clear from this review that most gene conversion events are not associated with outside marker exchange. Thus, most gene conversion events in the several different fungi studied are associated with non-crossover of outside markers. Non-crossover gene conversion events are mainly produced by Synthesis Dependent Strand Annealing (SDSA). This process involves limited informational exchange, but not physical exchange of DNA, between the two participating homologous chromosomes at the site of the conversion event, and little genetic variation is produced. Thus, explanations for the adaptive function of meiotic recombination that focus exclusively on the adaptive benefit of producing new genetic variation or physical exchange seem inadequate to explain the majority of recombination events during meiosis. However, the majority of meiotic recombination events can be explained by the proposal that they are an adaptation for repair of damage in the DNA that is to be passed on to gametes.",
+            "score": 170.32812535762787
+        },
+        {
+            "docid": "274192_20",
+            "document": "Genetic linkage . Recombination frequency is a measure of genetic linkage and is used in the creation of a genetic linkage map. Recombination frequency (\"\u03b8\") is the frequency with which a single chromosomal crossover will take place between two genes during meiosis. A centimorgan (cM) is a unit that describes a recombination frequency of 1%. In this way we can measure the genetic distance between two loci, based upon their recombination frequency. This is a good estimate of the real distance. Double crossovers would turn into no recombination. In this case we cannot tell if crossovers took place. If the loci we're analysing are very close (less than 7 cM) a double crossover is very unlikely. When distances become higher, the likelihood of a double crossover increases. As the likelihood of a double crossover increases we systematically underestimate the genetic distance between two loci.",
+            "score": 140.32639610767365
+        },
+        {
+            "docid": "158005_10",
+            "document": "Genetic recombination . In eukaryotes, recombination during meiosis is facilitated by chromosomal crossover. The crossover process leads to offspring having different combinations of genes from those of their parents, and can occasionally produce new chimeric alleles. The shuffling of genes brought about by genetic recombination produces increased genetic variation. It also allows sexually reproducing organisms to avoid Muller's ratchet, in which the genomes of an asexual population accumulate genetic deletions in an irreversible manner.",
+            "score": 126.66049790382385
+        },
+        {
+            "docid": "2631477_8",
+            "document": "Homologous recombination . In addition to repairing DNA, homologous recombination also helps produce genetic diversity when cells divide in meiosis to become specialized gamete cells\u2014sperm or egg cells in animals, pollen or ovules in plants, and spores in fungi. It does so by facilitating chromosomal crossover, in which regions of similar but not identical DNA are exchanged between homologous chromosomes. This creates new, possibly beneficial combinations of genes, which can give offspring an evolutionary advantage. Chromosomal crossover often begins when a protein called Spo11 makes a targeted double-strand break in DNA. These sites are non-randomly located on the chromosomes; usually in intergenic promoter regions and preferentially in GC-rich domains These double-strand break sites often occur at recombination hotspots, regions in chromosomes that are about 1,000\u20132,000 base pairs in length and have high rates of recombination. The absence of a recombination hotspot between two genes on the same chromosome often means that those genes will be inherited by future generations in equal proportion. This represents linkage between the two genes greater than would be expected from genes that independently assort during meiosis.",
+            "score": 148.79911088943481
+        },
+        {
+            "docid": "274192_2",
+            "document": "Genetic linkage . Genetic linkage is the tendency of DNA sequences that are close together on a chromosome to be inherited together during the meiosis phase of sexual reproduction. Two genetic markers that are physically near to each other are unlikely to be separated onto different chromatids during chromosomal crossover, and are therefore said to be more \"linked\" than markers that are far apart. In other words, the nearer two genes are on a chromosome, the lower the chance of recombination between them, and the more likely they are to be inherited together. Markers on different chromosomes are perfectly \"unlinked\".",
+            "score": 113.73612475395203
+        },
+        {
+            "docid": "481020_8",
+            "document": "Nondisjunction . Surveys of cases of human aneuploidy syndromes have shown that most of them are maternally derived. This raises the question: Why is female meiosis more error prone? The most obvious difference between female oogenesis and male spermatogenesis is the prolonged arrest of oocytes in late stages of prophase I for many years up to several decades. Male gametes on the other hand quickly go through all stages of meiosis I and II.  Another important difference between male and female meiosis concerns the frequency of recombination between homologous chromosomes: In the male, almost all chromosome pairs are joined by at least one crossover, while more than 10% of human oocytes contain at least one bivalent without any crossover event. Failures of recombination or inappropriately located crossovers have been well documented as contributors to the occurrence of nondisjunction in humans.",
+            "score": 128.4771020412445
+        },
+        {
+            "docid": "13663720_8",
+            "document": "Chromosome segregation . Meiotic chromosomal crossover (CO) recombination facilitates the proper segregation of homologous chromosomes. This is because, at the end of meiotic prophase I, CO recombination provides a physical link that holds homologous chromosome pairs together. These linkages are established by chiasmata, which are the cytological manifestations of CO recombination. Together with cohesion linkage between sister chromatids, CO recombination may help ensure the orderly segregation of the paired homologous chromosomes to opposite poles. In support of this, a study of aneuploidy in single spermatozoa by whole genome sequencing found that, on average, human sperm cells with aneuploid autosomes exhibit significantly fewer crossovers than normal cells. After the first chromosome segregation in meiosis I is complete, there is further chromosome segregation during the second equational division of meiosis II. Both proper initial segregation of chromosomes in prophase I and the next chromosome segregation during equational division in meiosis II are required to generate gametes with the correct number of chromosomes.",
+            "score": 126.66611564159393
+        },
+        {
+            "docid": "8511907_3",
+            "document": "Complete linkage . Genetic Linkage is the tendency of alleles, which are located closely together on a chromosome, to be inherited together during the process of meiosis in sexually reproducing organisms. During the process of meiosis, homologous chromosomes pair up, and can exchange corresponding sections of DNA. As a result, genes that were originally on the same chromosome can finish up on different chromosomes. This process is known as genetic recombination. The rate of recombination of two discrete loci corresponds to their physical proximity. Alleles that are closer together have lower rates of recombination than those that are located far apart.The distance between two alleles on a chromosome can be determined by calculating the percentage or recombination between two loci. These probabilities of recombination can be used to construct a linkage map, or a graphical representation of the location of genes and gene in respect to one another. If linkage is complete, there should be no recombination events that separate the two alleles, and therefore only parental combinations of alleles should be observed in offspring. Linkage between two loci can have significant implications regarding the inheritance of certain types of diseases.",
+            "score": 105.83208405971527
+        },
+        {
+            "docid": "12266_50",
+            "document": "Genetics . In organisms that use chromosomal crossover to exchange DNA and recombine genes, errors in alignment during meiosis can also cause mutations. Errors in crossover are especially likely when similar sequences cause partner chromosomes to adopt a mistaken alignment; this makes some regions in genomes more prone to mutating in this way. These errors create large structural changes in DNA sequenceduplications, inversions, deletions of entire regionsor the accidental exchange of whole parts of sequences between different chromosomes (chromosomal translocation).",
+            "score": 133.6214632987976
+        },
+        {
+            "docid": "11692451_4",
+            "document": "Centimorgan . One centimorgan corresponds to about 1 million base pairs in humans on average. The relationship is only rough as the physical chromosomal distance corresponding to one centimorgan varies from place to place in the genome, and also varies between men and women since recombination during gamete formation in females is significantly more frequent than in males. Morton et al. calculated that the female genome is 4782 centimorgans long, while the male genome is only 2809 centimorgans long. \"Plasmodium falciparum\" has an average recombination distance of ~15 kb per centimorgan: markers separated by 15 kb of DNA (15,000 nucleotides) have an expected rate of chromosomal crossovers of 0.01 per generation. Note that non-syntenic genes (genes residing on different chromosomes) are inherently unlinked, and cM distances have no meaning between them.",
+            "score": 108.8329713344574
+        },
+        {
+            "docid": "274192_32",
+            "document": "Genetic linkage . With very large pedigrees or with very dense genetic marker data, such as from whole-genome sequencing, it is possible to precisely locate recombinations. With this type of genetic analysis, a meiosis indicator is assigned to each position of the genome for each meiosis in a pedigree. The indicator indicates which copy of the parental chromosome contributes to the transmitted gamete at that position. For example, if the allele from the 'first' copy of the parental chromosome is transmitted, a '0' might be assigned to that meiosis. If the allele from the 'second' copy of the parental chromosome is transmitted, a '1' would be assigned to that meiosis. The two alleles in the parent came, one each, from two grandparents. These indicators are then used to determine identical-by-descent (IBD) states or inheritance states, which are in turn used to identify genes responsible for diseases.",
+            "score": 75.58436131477356
+        },
+        {
+            "docid": "12266_35",
+            "document": "Genetics . The diploid nature of chromosomes allows for genes on different chromosomes to assort independently or be separated from their homologous pair during sexual reproduction wherein haploid gametes are formed. In this way new combinations of genes can occur in the offspring of a mating pair. Genes on the same chromosome would theoretically never recombine. However, they do, via the cellular process of chromosomal crossover. During crossover, chromosomes exchange stretches of DNA, effectively shuffling the gene alleles between the chromosomes. This process of chromosomal crossover generally occurs during meiosis, a series of cell divisions that creates haploid cells.",
+            "score": 141.373028755188
+        },
+        {
+            "docid": "3568270_3",
+            "document": "Recombination hotspot . Meiotic recombination through crossing over is thought to be a mechanism by which a cell promotes correct segregation of homologous chromosomes and repair of DNA damages. Crossing over requires a DNA double-stranded break followed by strand invasion of the homolog and subsequent repair. Initiation sites for recombination are usually identified by mapping crossing over events through pedigree analysis or through analysis of linkage disequilibrium. Linkage disequilibrium has identified more than 30,000 hotspots within the human genome. In humans, the average number of crossover recombination events per hotspot is one crossover per 1,300 meioses, and the most extreme hotspot has a crossover frequency of one per 110 meioses.",
+            "score": 125.523446559906
+        },
+        {
+            "docid": "19544_8",
+            "document": "Microevolution . In organisms that use chromosomal crossover to exchange DNA and recombine genes, errors in alignment during meiosis can also cause mutations. Errors in crossover are especially likely when similar sequences cause partner chromosomes to adopt a mistaken alignment making some regions in genomes more prone to mutating in this way. These errors create large structural changes in DNA sequence\u2014duplications, inversions or deletions of entire regions, or the accidental exchanging of whole parts between different chromosomes (called translocation).",
+            "score": 126.77438545227051
+        },
+        {
+            "docid": "14575800_5",
+            "document": "OPN1LW . The arrangement of OPN1LW and OPN1MW, as well as the high similarity of the two genes, allows for frequent recombination between the two. Unequal recombination between female X chromosomes during meiosis is the main cause of the varying number of OPN1LW genes and OPN1MW genes among individuals, as well as being the cause of inherited colour vision deficiencies. Recombination events usually begin with misalignment of an OPN1LW gene with an OPN1MW gene and are followed by a certain type of crossover, which can result in many different gene abnormalities. Crossover in regions between OPN1LW and OPN1MW genes can produce chromosome products with extra OPN1LW or OPN1MW genes on one chromosome and reduced OPN1LW or OPN1MW genes on the other chromosome. If crossover occurs within the misaligned genes of OPN1LW and OPN1MW, then a new array will be produced on each chromosome consisting of only partial pieces of the two genes. This would create colour vision deficiencies if either chromosome were passed onto a male offspring.",
+            "score": 140.00340449810028
+        },
+        {
+            "docid": "64045_10",
+            "document": "Chromosomal crossover . Recombination results in a new arrangement of maternal and paternal alleles on the same chromosome. Although the same genes appear in the same order, some alleles are different. In this way, it is theoretically possible to have any combination of parental alleles in an offspring, and the fact that two alleles appear together in one offspring does not have any influence on the statistical probability that another offspring will have the same combination. This principle of \"independent assortment\" of genes is fundamental to genetic inheritance. However, the frequency of recombination is actually not the same for all gene combinations. This leads to the notion of \"genetic distance\", which is a measure of recombination frequency averaged over a (suitably large) sample of pedigrees. Loosely speaking, one may say that this is because recombination is greatly influenced by the proximity of one gene to another. If two genes are located close together on a chromosome, the likelihood that a recombination event will separate these two genes is less than if they were farther apart. Genetic linkage describes the tendency of genes to be inherited together as a result of their location on the same chromosome. Linkage disequilibrium describes a situation in which some combinations of genes or genetic markers occur more or less frequently in a population than would be expected from their distances apart. This concept is applied when searching for a gene that may cause a particular disease. This is done by comparing the occurrence of a specific DNA sequence with the appearance of a disease. When a high correlation between the two is found, it is likely that the appropriate gene sequence is really closer.",
+            "score": 120.52509462833405
+        },
+        {
+            "docid": "64045_11",
+            "document": "Chromosomal crossover . Crossovers typically occur between homologous regions of matching chromosomes, but similarities in sequence and other factors can result in mismatched alignments. Most DNA is composed of base pair sequences repeated very large numbers of times. These repetitious segments, often referred to as satellites, are fairly homogenous among a species. During DNA replication, each strand of DNA is used as a template for the creation of new strands using a partially-conserved mechanism; proper functioning of this process results in two identical, paired chromosomes, often called sisters. Sister chromatid crossover events are known to occur at a rate of several crossover events per cell per division in eukaryotes. Most of these events involve an exchange of equal amounts of genetic information, but unequal exchanges may occur due to sequence mismatch. These are referred to by a variety of names, including non-homologous crossover, unequal crossover, and unbalanced recombination, and result in an insertion or deletion of genetic information into the chromosome. While rare compared to homologous crossover events, these mutations are drastic, affecting many loci at the same time. They are considered the main driver behind the generation of gene duplications and are a general source of mutation within the genome.",
+            "score": 169.67019546031952
+        },
+        {
+            "docid": "64045_12",
+            "document": "Chromosomal crossover . The specific causes of non-homologous crossover events are unknown, but several influential factors are known to increase the likelihood of an unequal crossover. One common vector leading to unbalanced recombination is the repair of double-strand breaks (DSBs). DSBs are often repaired using non-homologous end joining, a process which involves invasion of a template strand by the DSB strand (see figure below). Nearby homologous regions of the template strand are often used for repair, which can give rise to either insertions or deletions in the genome if a non-homologous but complementary part of the template strand is used. Sequence similarity is a major player in crossover \u2013 crossover events are more likely to occur in long regions of close identity on a gene. This means that any section of the genome with long sections of repetitive DNA is prone to crossover events.",
+            "score": 155.15497589111328
+        },
+        {
+            "docid": "1695344_8",
+            "document": "Gene conversion . GC-biased gene conversion (gBGC) is the process by which the GC content of DNA increases due to gene conversion during recombination. Evidence for gBGC exists for yeasts and humans and the theory has more recently been tested in other eukaryotic lineages. In analyzed human DNA sequences, crossover rate has been found to correlate positively with GC-content. The pseudoautosomal regions (PAR) of the X and Y chromosomes in humans, which are known to have high recombination rates also have high GC contents. Certain mammalian genes undergoing concerted evolution (for example, ribosomal operons, tRNAs, and histone genes) are very GC-rich. It has been shown that GC content is higher in paralogous human and mouse histone genes that are members of large subfamilies (presumably undergoing concerted evolution) than in paralogous histone genes with relatively unique sequences. There is also evidence for GC bias in the mismatch repair process. It is thought that this may be an adaptation to the high rate of methyl-cytosine deamination which can lead to C\u2192T transitions.",
+            "score": 126.57125568389893
+        },
+        {
+            "docid": "9878834_14",
+            "document": "MLH1 . MLH1 protein appears to localize to sites of crossing over in meiotic chromosomes. Recombination during meiosis is often initiated by a DNA double-strand break (DSB) as illustrated in the accompanying diagram. During recombination, sections of DNA at the 5' ends of the break are cut away in a process called \"resection\". In the \"strand invasion\" step that follows, an overhanging 3' end of the broken DNA molecule then \"invades\" the DNA of an homologous chromosome that is not broken forming a displacement loop (D-loop). After strand invasion, the further sequence of events may follow either of two main pathways leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination). The pathway leading to a CO involves a double Holliday junction (DHJ) intermediate. Holliday junctions need to be resolved for CO recombination to be completed.",
+            "score": 135.888676404953
+        },
+        {
+            "docid": "14306256_4",
+            "document": "Bloom syndrome protein . Recombination during meiosis is often initiated by a DNA double-strand break (DSB). During recombination, sections of DNA at the 5' ends of the break are cut away in a process called resection. In the strand invasion step that follows, an overhanging 3' end of the broken DNA molecule then \"invades\" the DNA of an homologous chromosome that is not broken. After strand invasion, the further sequence of events may follow either of two main pathways leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination and bottom of Figure in this section).",
+            "score": 141.22610330581665
+        },
+        {
+            "docid": "64045_2",
+            "document": "Chromosomal crossover . Chromosomal crossover (or crossing over) is the exchange of genetic material between homologous chromosomes that results in recombinant chromosomes during sexual reproduction. It is one of the final phases of genetic recombination, which occurs in the \"pachytene\" stage of prophase I of meiosis during a process called synapsis. Synapsis begins before the synaptonemal complex develops and is not completed until near the end of prophase\u00a0I. Crossover usually occurs when matching regions on matching chromosomes break and then reconnect to the other chromosome.",
+            "score": 134.86693120002747
+        },
+        {
+            "docid": "14877594_5",
+            "document": "MLH3 . The MLH1-MLH3 heterodimers promote crossovers. Recombination during meiosis is often initiated by a DNA double-strand break (DSB) as illustrated in the accompanying diagram. During recombination, sections of DNA at the 5' ends of the break are cut away in a process called \"resection\". In the \"strand invasion\" step that follows, an overhanging 3' end of the broken DNA molecule then \"invades\" the DNA of an homologous chromosome that is not broken forming a displacement loop (D-loop). After strand invasion, the further sequence of events may follow either of two main pathways leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination. The pathway leading to a CO involves a double Holliday junction (DHJ) intermediate. Holliday junctions need to be resolved for CO recombination to be completed.",
+            "score": 139.96915364265442
+        },
+        {
+            "docid": "2631477_16",
+            "document": "Homologous recombination . After the stages of resection, strand invasion and DNA synthesis, the DSBR and SDSA pathways become distinct. The DSBR pathway is unique in that the second 3' overhang (which was not involved in strand invasion) also forms a Holliday junction with the homologous chromosome. The double Holliday junctions are then converted into recombination products by nicking endonucleases, a type of restriction endonuclease which cuts only one DNA strand. The DSBR pathway commonly results in crossover, though it can sometimes result in non-crossover products; the ability of a broken DNA molecule to collect sequences from separated donor loci was shown in mitotic budding yeast using plasmids or endonuclease induction of chromosomal events. Because of this tendency for chromosomal crossover, the DSBR pathway is a likely model of how crossover homologous recombination occurs during meiosis.",
+            "score": 137.78016996383667
+        },
+        {
+            "docid": "14757202_5",
+            "document": "Exonuclease 1 . Recombination during meiosis is often initiated by a DNA double-strand break (DSB) as illustrated in the accompanying diagram. During recombination, sections of DNA at the 5' ends of the break are cut away in a process called \"resection\". In the \"strand invasion\" step that follows, an overhanging 3' end of the broken DNA molecule \"invades\" the DNA of an homologous chromosome that is not broken, forming a displacement loop (D-loop). After strand invasion, the further sequence of events may follow either of two main pathways leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination and Homologous recombination). The pathway leading to a CO involves a double Holliday junction (DHJ) intermediate. Holliday junctions need to be resolved for CO recombination to be completed.",
+            "score": 135.611004114151
+        },
+        {
+            "docid": "19218509_5",
+            "document": "FANCM . Recombination during meiosis is often initiated by a DNA double-strand break (DSB). During recombination, sections of DNA at the 5' ends of the break are cut away in a process called resection. In the strand invasion step that follows, an overhanging 3' end of the broken DNA molecule then \"invades\" the DNA of an homologous chromosome that is not broken forming a displacement loop (D-loop). After strand invasion, the further sequence of events may follow either of two main pathways leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination and Homologous recombination). The pathway leading to a NCO is referred to as synthesis dependent strand annealing (SDSA).",
+            "score": 138.20535683631897
+        },
+        {
+            "docid": "274192_31",
+            "document": "Genetic linkage . While recombination of chromosomes is an essential process during meiosis, there is a large range of frequency of cross overs across organisms and within species. Sexually dimorphic rates of recombination are termed heterochiasmy, and are observed more often than a common rate between male and females. In mammals, females often have a higher rate of recombination compared to males. It is theorised that there are unique selections acting or meiotic drivers which influence the difference in rates. The difference in rates may also reflect the vastly different environments and conditions of meiosis in oogenesis and spermatogenesis.",
+            "score": 76.77191579341888
+        },
+        {
+            "docid": "55188_11",
+            "document": "Barbara McClintock . In 1930, McClintock was the first person to describe the cross-shaped interaction of homologous chromosomes during meiosis. The following year, McClintock and Creighton proved the link between chromosomal crossover during meiosis and the recombination of genetic traits. They observed how the recombination of chromosomes seen under a microscope correlated with new traits. Until this point, it had only been hypothesized that genetic recombination could occur during meiosis, although it had not been shown genetically. McClintock published the first genetic map for maize in 1931, showing the order of three genes on maize chromosome 9. This information provided necessary data for the crossing-over study she published with Creighton; they also showed that crossing-over occurs in sister chromatids as well as homologous chromosomes. In 1938, she produced a cytogenetic analysis of the centromere, describing the organization and function of the centromere, as well as the fact that it can divide.",
+            "score": 113.80046510696411
+        },
+        {
+            "docid": "31599091_14",
+            "document": "PRDM9 . PRDM9 mediates the process of meiosis by directing the sites of homologous recombination. In humans and mice, recombination does not occur evenly throughout the genome but at particular sites along the chromosomes called recombination hotspots. Hotspots are regions of DNA about 1-2kb in length. There are approximately 30,000 to 50,000 hotspots within the human genome corresponding to one for every 50-100kb DNA on average. In humans, the average number of crossover recombination events per hotspot is one per 1,300 meioses, and the most extreme hotspot has a crossover frequency of one per 110 meioses. These hotspots are binding sites for the PRDM9 Zinc Finger array. Upon binding to DNA, PRDM9 catalyzes trimethylation of Histone 3 at lysine 4 and Histone 4 at lysine 36. As a result, local nucleosomes are reorganized and through an unknown mechanism the recombination machinary is recruited to form double strand breaks.",
+            "score": 111.01076769828796
+        },
+        {
+            "docid": "14799819_4",
+            "document": "TOP3A . Recombination during meiosis is often initiated by a DNA double-strand break (DSB). During recombination, sections of DNA at the 5' ends of the break are cut away in a process called \"resection\". In the \"strand invasion\" step that follows, an overhanging 3' end of the broken DNA molecule then \"invades\" the DNA of an homologous chromosome that is not broken forming a displacement loop (D-loop). After strand invasion, the further sequence of events may follow either of two main pathways leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination and see Figure). The pathway leading to a NCO is referred to as Synthesis-dependent strand annealing (SDSA).",
+            "score": 135.76728463172913
+        },
+        {
+            "docid": "14819568_5",
+            "document": "MUS81 . The relationship of the CO pathway to the overall process of meiotic recombination is illustrated in the accompanying diagram. Recombination during meiosis is often initiated by a DNA double-strand break (DSB). During recombination, sections of DNA at the 5' ends of the break are cut away in a process called \"resection\". In the \"strand invasion\" step that follows, an overhanging 3' end of the broken DNA molecule \"invades\" the DNA of an homologous chromosome that is not broken forming a displacement loop (D-loop). After strand invasion, the further sequence of events may follow either of two main pathways, leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination). The pathway leading to a CO involves a double Holliday junction (DHJ) intermediate. Holliday junctions need to be resolved for CO recombination to be completed.",
+            "score": 134.13023352622986
+        },
+        {
+            "docid": "46828_37",
+            "document": "Fertilisation . Meiosis results in a random segregation of the genes that each parent contributes. Each parent organism is usually identical save for a fraction of their genes; each gamete is therefore genetically unique. At fertilisation, parental chromosomes combine. In humans, (2\u00b2\u00b2)\u00b2 = 17.6x10 chromosomally different zygotes are possible for the non-sex chromosomes, even assuming no chromosomal crossover. If crossover occurs once, then on average (4\u00b2\u00b2)\u00b2 = 309x10 genetically different zygotes are possible for every couple, not considering that crossover events can take place at most points along each chromosome. The X and Y chromosomes undergo no crossover events and are therefore excluded from the calculation. The mitochondrial DNA is only inherited from the maternal parent.",
+            "score": 130.60891437530518
+        }
+    ],
+    "r": [
+        {
+            "docid": "1695344_11",
+            "document": "Gene conversion . Studies of gene conversion have contributed to our understanding of the adaptive function of meiotic recombination. The ordinary segregation pattern of an allele pair (Aa) among the 4 products of meiosis is 2A:2a. Detection of infrequent gene conversion events (e.g. 3:1 or 1:3 segregation patterns during individual meioses) provides insight into the alternate pathways of recombination leading either to crossover or non-crossover chromosomes. Gene conversion events are thought to arise where the \u201cA\u201d and \u201ca\u201d alleles happen to be near the exact location of a molecular recombination event. Thus, it is possible to measure the frequency with which gene conversion events are associated with crossover or non-crossover of chromosomal regions adjacent to, but outside, the immediate conversion event. Numerous studies of gene conversion in various fungi (which are especially suited for such studies) have been carried out, and the findings of these studies have been reviewed by Whitehouse. It is clear from this review that most gene conversion events are not associated with outside marker exchange. Thus, most gene conversion events in the several different fungi studied are associated with non-crossover of outside markers. Non-crossover gene conversion events are mainly produced by Synthesis Dependent Strand Annealing (SDSA). This process involves limited informational exchange, but not physical exchange of DNA, between the two participating homologous chromosomes at the site of the conversion event, and little genetic variation is produced. Thus, explanations for the adaptive function of meiotic recombination that focus exclusively on the adaptive benefit of producing new genetic variation or physical exchange seem inadequate to explain the majority of recombination events during meiosis. However, the majority of meiotic recombination events can be explained by the proposal that they are an adaptation for repair of damage in the DNA that is to be passed on to gametes.",
+            "score": 170.328125
+        },
+        {
+            "docid": "64045_11",
+            "document": "Chromosomal crossover . Crossovers typically occur between homologous regions of matching chromosomes, but similarities in sequence and other factors can result in mismatched alignments. Most DNA is composed of base pair sequences repeated very large numbers of times. These repetitious segments, often referred to as satellites, are fairly homogenous among a species. During DNA replication, each strand of DNA is used as a template for the creation of new strands using a partially-conserved mechanism; proper functioning of this process results in two identical, paired chromosomes, often called sisters. Sister chromatid crossover events are known to occur at a rate of several crossover events per cell per division in eukaryotes. Most of these events involve an exchange of equal amounts of genetic information, but unequal exchanges may occur due to sequence mismatch. These are referred to by a variety of names, including non-homologous crossover, unequal crossover, and unbalanced recombination, and result in an insertion or deletion of genetic information into the chromosome. While rare compared to homologous crossover events, these mutations are drastic, affecting many loci at the same time. They are considered the main driver behind the generation of gene duplications and are a general source of mutation within the genome.",
+            "score": 169.67019653320312
+        },
+        {
+            "docid": "64045_12",
+            "document": "Chromosomal crossover . The specific causes of non-homologous crossover events are unknown, but several influential factors are known to increase the likelihood of an unequal crossover. One common vector leading to unbalanced recombination is the repair of double-strand breaks (DSBs). DSBs are often repaired using non-homologous end joining, a process which involves invasion of a template strand by the DSB strand (see figure below). Nearby homologous regions of the template strand are often used for repair, which can give rise to either insertions or deletions in the genome if a non-homologous but complementary part of the template strand is used. Sequence similarity is a major player in crossover \u2013 crossover events are more likely to occur in long regions of close identity on a gene. This means that any section of the genome with long sections of repetitive DNA is prone to crossover events.",
+            "score": 155.1549835205078
+        },
+        {
+            "docid": "2631477_8",
+            "document": "Homologous recombination . In addition to repairing DNA, homologous recombination also helps produce genetic diversity when cells divide in meiosis to become specialized gamete cells\u2014sperm or egg cells in animals, pollen or ovules in plants, and spores in fungi. It does so by facilitating chromosomal crossover, in which regions of similar but not identical DNA are exchanged between homologous chromosomes. This creates new, possibly beneficial combinations of genes, which can give offspring an evolutionary advantage. Chromosomal crossover often begins when a protein called Spo11 makes a targeted double-strand break in DNA. These sites are non-randomly located on the chromosomes; usually in intergenic promoter regions and preferentially in GC-rich domains These double-strand break sites often occur at recombination hotspots, regions in chromosomes that are about 1,000\u20132,000 base pairs in length and have high rates of recombination. The absence of a recombination hotspot between two genes on the same chromosome often means that those genes will be inherited by future generations in equal proportion. This represents linkage between the two genes greater than would be expected from genes that independently assort during meiosis.",
+            "score": 148.79910278320312
+        },
+        {
+            "docid": "64045_13",
+            "document": "Chromosomal crossover . The presence of transposable elements is another influential element of non-homologous crossover. Repetitive regions of code characterize transposable elements; complementary but non-homologous regions are ubiquitous within transposons. Because chromosomal regions composed of transposons have large quantities of identical, repetitious code in a condensed space, it is thought that transposon regions undergoing a crossover event are more prone to erroneous complementary match-up; that is to say, a section of a chromosome containing a lot of identical sequences, should it undergo a crossover event, is less certain to match up with a perfectly homologous section of complementary code and more prone to binding with a section of code on a slightly different part of the chromosome. This results in unbalanced recombination, as genetic information may be either inserted or deleted into the new chromosome, depending on where the recombination occurred.",
+            "score": 144.4308319091797
+        },
+        {
+            "docid": "12266_35",
+            "document": "Genetics . The diploid nature of chromosomes allows for genes on different chromosomes to assort independently or be separated from their homologous pair during sexual reproduction wherein haploid gametes are formed. In this way new combinations of genes can occur in the offspring of a mating pair. Genes on the same chromosome would theoretically never recombine. However, they do, via the cellular process of chromosomal crossover. During crossover, chromosomes exchange stretches of DNA, effectively shuffling the gene alleles between the chromosomes. This process of chromosomal crossover generally occurs during meiosis, a series of cell divisions that creates haploid cells.",
+            "score": 141.37303161621094
+        },
+        {
+            "docid": "14306256_4",
+            "document": "Bloom syndrome protein . Recombination during meiosis is often initiated by a DNA double-strand break (DSB). During recombination, sections of DNA at the 5' ends of the break are cut away in a process called resection. In the strand invasion step that follows, an overhanging 3' end of the broken DNA molecule then \"invades\" the DNA of an homologous chromosome that is not broken. After strand invasion, the further sequence of events may follow either of two main pathways leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination and bottom of Figure in this section).",
+            "score": 141.22610473632812
+        },
+        {
+            "docid": "274192_20",
+            "document": "Genetic linkage . Recombination frequency is a measure of genetic linkage and is used in the creation of a genetic linkage map. Recombination frequency (\"\u03b8\") is the frequency with which a single chromosomal crossover will take place between two genes during meiosis. A centimorgan (cM) is a unit that describes a recombination frequency of 1%. In this way we can measure the genetic distance between two loci, based upon their recombination frequency. This is a good estimate of the real distance. Double crossovers would turn into no recombination. In this case we cannot tell if crossovers took place. If the loci we're analysing are very close (less than 7 cM) a double crossover is very unlikely. When distances become higher, the likelihood of a double crossover increases. As the likelihood of a double crossover increases we systematically underestimate the genetic distance between two loci.",
+            "score": 140.32640075683594
+        },
+        {
+            "docid": "14575800_5",
+            "document": "OPN1LW . The arrangement of OPN1LW and OPN1MW, as well as the high similarity of the two genes, allows for frequent recombination between the two. Unequal recombination between female X chromosomes during meiosis is the main cause of the varying number of OPN1LW genes and OPN1MW genes among individuals, as well as being the cause of inherited colour vision deficiencies. Recombination events usually begin with misalignment of an OPN1LW gene with an OPN1MW gene and are followed by a certain type of crossover, which can result in many different gene abnormalities. Crossover in regions between OPN1LW and OPN1MW genes can produce chromosome products with extra OPN1LW or OPN1MW genes on one chromosome and reduced OPN1LW or OPN1MW genes on the other chromosome. If crossover occurs within the misaligned genes of OPN1LW and OPN1MW, then a new array will be produced on each chromosome consisting of only partial pieces of the two genes. This would create colour vision deficiencies if either chromosome were passed onto a male offspring.",
+            "score": 140.00340270996094
+        },
+        {
+            "docid": "14877594_5",
+            "document": "MLH3 . The MLH1-MLH3 heterodimers promote crossovers. Recombination during meiosis is often initiated by a DNA double-strand break (DSB) as illustrated in the accompanying diagram. During recombination, sections of DNA at the 5' ends of the break are cut away in a process called \"resection\". In the \"strand invasion\" step that follows, an overhanging 3' end of the broken DNA molecule then \"invades\" the DNA of an homologous chromosome that is not broken forming a displacement loop (D-loop). After strand invasion, the further sequence of events may follow either of two main pathways leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination. The pathway leading to a CO involves a double Holliday junction (DHJ) intermediate. Holliday junctions need to be resolved for CO recombination to be completed.",
+            "score": 139.9691619873047
+        },
+        {
+            "docid": "19218509_5",
+            "document": "FANCM . Recombination during meiosis is often initiated by a DNA double-strand break (DSB). During recombination, sections of DNA at the 5' ends of the break are cut away in a process called resection. In the strand invasion step that follows, an overhanging 3' end of the broken DNA molecule then \"invades\" the DNA of an homologous chromosome that is not broken forming a displacement loop (D-loop). After strand invasion, the further sequence of events may follow either of two main pathways leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination and Homologous recombination). The pathway leading to a NCO is referred to as synthesis dependent strand annealing (SDSA).",
+            "score": 138.2053680419922
+        },
+        {
+            "docid": "2631477_16",
+            "document": "Homologous recombination . After the stages of resection, strand invasion and DNA synthesis, the DSBR and SDSA pathways become distinct. The DSBR pathway is unique in that the second 3' overhang (which was not involved in strand invasion) also forms a Holliday junction with the homologous chromosome. The double Holliday junctions are then converted into recombination products by nicking endonucleases, a type of restriction endonuclease which cuts only one DNA strand. The DSBR pathway commonly results in crossover, though it can sometimes result in non-crossover products; the ability of a broken DNA molecule to collect sequences from separated donor loci was shown in mitotic budding yeast using plasmids or endonuclease induction of chromosomal events. Because of this tendency for chromosomal crossover, the DSBR pathway is a likely model of how crossover homologous recombination occurs during meiosis.",
+            "score": 137.78016662597656
+        },
+        {
+            "docid": "9878834_14",
+            "document": "MLH1 . MLH1 protein appears to localize to sites of crossing over in meiotic chromosomes. Recombination during meiosis is often initiated by a DNA double-strand break (DSB) as illustrated in the accompanying diagram. During recombination, sections of DNA at the 5' ends of the break are cut away in a process called \"resection\". In the \"strand invasion\" step that follows, an overhanging 3' end of the broken DNA molecule then \"invades\" the DNA of an homologous chromosome that is not broken forming a displacement loop (D-loop). After strand invasion, the further sequence of events may follow either of two main pathways leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination). The pathway leading to a CO involves a double Holliday junction (DHJ) intermediate. Holliday junctions need to be resolved for CO recombination to be completed.",
+            "score": 135.888671875
+        },
+        {
+            "docid": "14799819_4",
+            "document": "TOP3A . Recombination during meiosis is often initiated by a DNA double-strand break (DSB). During recombination, sections of DNA at the 5' ends of the break are cut away in a process called \"resection\". In the \"strand invasion\" step that follows, an overhanging 3' end of the broken DNA molecule then \"invades\" the DNA of an homologous chromosome that is not broken forming a displacement loop (D-loop). After strand invasion, the further sequence of events may follow either of two main pathways leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination and see Figure). The pathway leading to a NCO is referred to as Synthesis-dependent strand annealing (SDSA).",
+            "score": 135.7672882080078
+        },
+        {
+            "docid": "14757202_5",
+            "document": "Exonuclease 1 . Recombination during meiosis is often initiated by a DNA double-strand break (DSB) as illustrated in the accompanying diagram. During recombination, sections of DNA at the 5' ends of the break are cut away in a process called \"resection\". In the \"strand invasion\" step that follows, an overhanging 3' end of the broken DNA molecule \"invades\" the DNA of an homologous chromosome that is not broken, forming a displacement loop (D-loop). After strand invasion, the further sequence of events may follow either of two main pathways leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination and Homologous recombination). The pathway leading to a CO involves a double Holliday junction (DHJ) intermediate. Holliday junctions need to be resolved for CO recombination to be completed.",
+            "score": 135.6110076904297
+        },
+        {
+            "docid": "64045_2",
+            "document": "Chromosomal crossover . Chromosomal crossover (or crossing over) is the exchange of genetic material between homologous chromosomes that results in recombinant chromosomes during sexual reproduction. It is one of the final phases of genetic recombination, which occurs in the \"pachytene\" stage of prophase I of meiosis during a process called synapsis. Synapsis begins before the synaptonemal complex develops and is not completed until near the end of prophase\u00a0I. Crossover usually occurs when matching regions on matching chromosomes break and then reconnect to the other chromosome.",
+            "score": 134.86692810058594
+        },
+        {
+            "docid": "2631477_38",
+            "document": "Homologous recombination . In RNA viruses, homologous recombination can be either precise or imprecise. In the precise type of RNA-RNA recombination, there is no difference between the two parental RNA sequences and the resulting crossover RNA region. Because of this, it is often difficult to determine the location of crossover events between two recombining RNA sequences. In imprecise RNA homologous recombination, the crossover region has some difference with the parental RNA sequences\u00a0\u2013 caused by either addition, deletion, or other modification of nucleotides. The level of precision in crossover is controlled by the sequence context of the two recombining strands of RNA: sequences rich in adenine and uracil decrease crossover precision.",
+            "score": 134.662353515625
+        },
+        {
+            "docid": "14819568_5",
+            "document": "MUS81 . The relationship of the CO pathway to the overall process of meiotic recombination is illustrated in the accompanying diagram. Recombination during meiosis is often initiated by a DNA double-strand break (DSB). During recombination, sections of DNA at the 5' ends of the break are cut away in a process called \"resection\". In the \"strand invasion\" step that follows, an overhanging 3' end of the broken DNA molecule \"invades\" the DNA of an homologous chromosome that is not broken forming a displacement loop (D-loop). After strand invasion, the further sequence of events may follow either of two main pathways, leading to a crossover (CO) or a non-crossover (NCO) recombinant (see Genetic recombination). The pathway leading to a CO involves a double Holliday junction (DHJ) intermediate. Holliday junctions need to be resolved for CO recombination to be completed.",
+            "score": 134.13023376464844
+        },
+        {
+            "docid": "12266_50",
+            "document": "Genetics . In organisms that use chromosomal crossover to exchange DNA and recombine genes, errors in alignment during meiosis can also cause mutations. Errors in crossover are especially likely when similar sequences cause partner chromosomes to adopt a mistaken alignment; this makes some regions in genomes more prone to mutating in this way. These errors create large structural changes in DNA sequenceduplications, inversions, deletions of entire regionsor the accidental exchange of whole parts of sequences between different chromosomes (chromosomal translocation).",
+            "score": 133.6214599609375
+        },
+        {
+            "docid": "46828_37",
+            "document": "Fertilisation . Meiosis results in a random segregation of the genes that each parent contributes. Each parent organism is usually identical save for a fraction of their genes; each gamete is therefore genetically unique. At fertilisation, parental chromosomes combine. In humans, (2\u00b2\u00b2)\u00b2 = 17.6x10 chromosomally different zygotes are possible for the non-sex chromosomes, even assuming no chromosomal crossover. If crossover occurs once, then on average (4\u00b2\u00b2)\u00b2 = 309x10 genetically different zygotes are possible for every couple, not considering that crossover events can take place at most points along each chromosome. The X and Y chromosomes undergo no crossover events and are therefore excluded from the calculation. The mitochondrial DNA is only inherited from the maternal parent.",
+            "score": 130.60891723632812
+        },
+        {
+            "docid": "481020_8",
+            "document": "Nondisjunction . Surveys of cases of human aneuploidy syndromes have shown that most of them are maternally derived. This raises the question: Why is female meiosis more error prone? The most obvious difference between female oogenesis and male spermatogenesis is the prolonged arrest of oocytes in late stages of prophase I for many years up to several decades. Male gametes on the other hand quickly go through all stages of meiosis I and II.  Another important difference between male and female meiosis concerns the frequency of recombination between homologous chromosomes: In the male, almost all chromosome pairs are joined by at least one crossover, while more than 10% of human oocytes contain at least one bivalent without any crossover event. Failures of recombination or inappropriately located crossovers have been well documented as contributors to the occurrence of nondisjunction in humans.",
+            "score": 128.4770965576172
+        },
+        {
+            "docid": "312354_11",
+            "document": "Homologous chromosome . In the process of crossing-over, genes are exchanged by the breaking and union of homologous portions of the chromosomes\u2019 lengths. Structures called chiasmata are the site of the exchange. Chiasmata physically link the homologous chromosomes once crossing over occurs and throughout the process of chromosomal segregation during meiosis. Both the non-crossover and crossover types of recombination function as processes for repairing DNA damage, particularly double-strand breaks. At the diplotene stage of prophase I the synaptonemal complex disassembles before which will allow the homologous chromosomes to separate, while the sister chromatids stay associated by their centromeres.",
+            "score": 127.29029846191406
+        },
+        {
+            "docid": "19544_8",
+            "document": "Microevolution . In organisms that use chromosomal crossover to exchange DNA and recombine genes, errors in alignment during meiosis can also cause mutations. Errors in crossover are especially likely when similar sequences cause partner chromosomes to adopt a mistaken alignment making some regions in genomes more prone to mutating in this way. These errors create large structural changes in DNA sequence\u2014duplications, inversions or deletions of entire regions, or the accidental exchanging of whole parts between different chromosomes (called translocation).",
+            "score": 126.77438354492188
+        },
+        {
+            "docid": "13663720_8",
+            "document": "Chromosome segregation . Meiotic chromosomal crossover (CO) recombination facilitates the proper segregation of homologous chromosomes. This is because, at the end of meiotic prophase I, CO recombination provides a physical link that holds homologous chromosome pairs together. These linkages are established by chiasmata, which are the cytological manifestations of CO recombination. Together with cohesion linkage between sister chromatids, CO recombination may help ensure the orderly segregation of the paired homologous chromosomes to opposite poles. In support of this, a study of aneuploidy in single spermatozoa by whole genome sequencing found that, on average, human sperm cells with aneuploid autosomes exhibit significantly fewer crossovers than normal cells. After the first chromosome segregation in meiosis I is complete, there is further chromosome segregation during the second equational division of meiosis II. Both proper initial segregation of chromosomes in prophase I and the next chromosome segregation during equational division in meiosis II are required to generate gametes with the correct number of chromosomes.",
+            "score": 126.66612243652344
+        },
+        {
+            "docid": "158005_10",
+            "document": "Genetic recombination . In eukaryotes, recombination during meiosis is facilitated by chromosomal crossover. The crossover process leads to offspring having different combinations of genes from those of their parents, and can occasionally produce new chimeric alleles. The shuffling of genes brought about by genetic recombination produces increased genetic variation. It also allows sexually reproducing organisms to avoid Muller's ratchet, in which the genomes of an asexual population accumulate genetic deletions in an irreversible manner.",
+            "score": 126.6604995727539
+        },
+        {
+            "docid": "1695344_8",
+            "document": "Gene conversion . GC-biased gene conversion (gBGC) is the process by which the GC content of DNA increases due to gene conversion during recombination. Evidence for gBGC exists for yeasts and humans and the theory has more recently been tested in other eukaryotic lineages. In analyzed human DNA sequences, crossover rate has been found to correlate positively with GC-content. The pseudoautosomal regions (PAR) of the X and Y chromosomes in humans, which are known to have high recombination rates also have high GC contents. Certain mammalian genes undergoing concerted evolution (for example, ribosomal operons, tRNAs, and histone genes) are very GC-rich. It has been shown that GC content is higher in paralogous human and mouse histone genes that are members of large subfamilies (presumably undergoing concerted evolution) than in paralogous histone genes with relatively unique sequences. There is also evidence for GC bias in the mismatch repair process. It is thought that this may be an adaptation to the high rate of methyl-cytosine deamination which can lead to C\u2192T transitions.",
+            "score": 126.57125091552734
+        },
+        {
+            "docid": "2991457_4",
+            "document": "Synapsis . When the non-sister chromatids intertwine, segments of chromatids with similar sequence may break apart and be exchanged in a process known as genetic recombination or \"crossing-over\". This exchange produces a chiasma, a region that is shaped like an X, where the two chromosomes are physically joined. At least one chiasma per chromosome often appears to be necessary to stabilise bivalents along the metaphase plate during separation. The crossover of genetic material also provides a possible defence against 'chromosome killer' mechanisms, by removing the distinction between 'self' and 'non-self' through which such a mechanism could operate. A further consequence of recombinant synapsis is to increase genetic variability within the offspring. Repeated recombination also has the general effect of allowing genes to move independently of each other through the generations, allowing for the independent concentration of beneficial genes and the purging of the detrimental.",
+            "score": 126.18710327148438
+        },
+        {
+            "docid": "3568270_3",
+            "document": "Recombination hotspot . Meiotic recombination through crossing over is thought to be a mechanism by which a cell promotes correct segregation of homologous chromosomes and repair of DNA damages. Crossing over requires a DNA double-stranded break followed by strand invasion of the homolog and subsequent repair. Initiation sites for recombination are usually identified by mapping crossing over events through pedigree analysis or through analysis of linkage disequilibrium. Linkage disequilibrium has identified more than 30,000 hotspots within the human genome. In humans, the average number of crossover recombination events per hotspot is one crossover per 1,300 meioses, and the most extreme hotspot has a crossover frequency of one per 110 meioses.",
+            "score": 125.52344512939453
+        },
+        {
+            "docid": "2631477_19",
+            "document": "Homologous recombination . During mitosis, the major homologous recombination pathway for repairing DNA double-strand breaks appears to be the SDSA pathway (rather than the DSBR pathway). The SDSA pathway produces non-crossover recombinants (Figure 4). During meiosis non-crossover recombinants also occur frequently and these appear to arise mainly by the SDSA pathway as well. Non-crossover recombination events occurring during meiosis likely reflect instances of repair of DNA double-strand damages or other types of DNA damages.",
+            "score": 124.80339813232422
+        },
+        {
+            "docid": "371709_6",
+            "document": "Genetic operator . Crossover is the process of taking more than one parent solutions (chromosomes) and producing a child solution from them. By recombining portions of good solutions, the genetic algorithm is more likely to create a better solution. As with selection, there are a number of different methods for combining the parent solutions, including the \"edge recombination operator\" (ERO) and the 'cut and splice crossover' and 'uniform crossover' methods. The crossover method is often chosen to closely match the chromosome's representation of the solution; this may become particularly important when variables are grouped together as building blocks, which might be disrupted by a non-respectful crossover operator. Similarly, crossover methods may be particularly suited to certain problems; the ERO is generally considered a good option for solving the travelling salesman problem.",
+            "score": 123.94820404052734
+        },
+        {
+            "docid": "52802727_3",
+            "document": "Crossover value . Crossover implies the exchange of chromosomal segments between non-sister chromatids, in meiosis during the production of gametes. The effect is to assort the alleles on parental chromosomes, so that the gametes carry \"recombinations\" of genes different from either parent. This has the overall effect of increasing the variety of phenotypes present in a population.",
+            "score": 122.0566177368164
+        },
+        {
+            "docid": "52802727_2",
+            "document": "Crossover value . In genetics, the crossover value is the linked frequency of chromosomal crossover between two gene loci (markers). For fixed set of genetic and environmental conditions, recombination in a particular region of a linkage structure (chromosome) tends to be constant and the same is then true for the crossover value which is used in the production of genetic map.",
+            "score": 121.81049346923828
+        }
+    ]
+}

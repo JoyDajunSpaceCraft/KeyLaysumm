@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "43118_11",
+            "document": "Cilium . Inside cilia and flagella is a microtubule-based cytoskeleton called the axoneme. The axoneme of primary cilia typically has a ring of nine outer microtubule doublets (called a 9+0 axoneme), and the axoneme of a motile cilium has two central microtubule singlets in addition to the nine outer doublets (called a 9+2 axoneme). The axonemal cytoskeleton acts as a scaffolding for various protein complexes and provides binding sites for molecular motor proteins such as kinesin II, that help carry proteins up and down the microtubules. On the outside of cilia is a membrane like the plasma membrane, but compositionally distinct due to a blocking ring (\"necklace\") around the base, and distinct also in its population of receptors and other integral proteins.",
+            "score": 117.70157074928284
+        },
+        {
+            "docid": "5230538_3",
+            "document": "Smoothened . Cellular localization plays an essential role in the function of SMO, which anchors to the cell membrane as a 7-pass transmembrane protein. Stimulation of the patched 12-pass transmembrane receptor by the sonic hedgehog ligand leads to translocation of SMO to the primary cilium in vertebrates in a process that involves the exit of patched from the primary cilium, where it normally localizes in its unstimulated state. Vertebrate SMO that is mutated in the domain required for ciliary localisation often cannot contribute to hedgehog pathway activation. Conversely, SMO can become constitutively localized to the primary cilium and potentially activate pathway signaling constitutively as a result of a tryptophan to leucine mutation in the aforementioned domain. SMO has been shown to move during patched stimulation from the plasma membrane near the primary cilium to the ciliary membrane itself via a lateral transport pathway along the membrane, as opposed to via directed transport by vesicles. The cAMP-PKA pathway is known to promote the lateral movement of SMO and hedgehog signal transduction in general. In invertebrates like \"Drosophila,\" SMO does not organize at cilia and instead is generally translocated to the plasma membrane following hedgehog binding to patched.",
+            "score": 81.0539220571518
+        },
+        {
+            "docid": "11805871_5",
+            "document": "Nephronophthisis . Mechanism of nephronophthisis indicates that all proteins mutated in cystic kidney diseases express themselves in primary cilia. NPHP gene mutations cause defects in signaling resulting in flaws of planar cell polarity. The ciliary theory indicates that multiple organs are involved in NPHP (retinal degeneration, cerebellar hypoplasia, liver fibrosis, and intellectual disability).",
+            "score": 80.97247505187988
+        },
+        {
+            "docid": "35552831_4",
+            "document": "Ciliogenesis . Proteins must be synthesized in the cytoplasm of the cell and cannot be synthesized within cilia. For the cilium to elongate, proteins must be selectively imported from the cytoplasm into the cilium and transported to the tip of the cilium by intraflagellar transport (IFT). Once the cilium is completely formed, it continues to incorporate new tubulin at the tip of the cilia. However, the cilium does not elongate further, because older tubulin is simultaneously degraded. This requires an active mechanism that maintains ciliary length. Impairments in these mechanisms can affect the motility of the cell and cell signaling between cells.",
+            "score": 95.17316842079163
+        },
+        {
+            "docid": "43118_18",
+            "document": "Cilium . Some primary cilia on epithelial cells in eukaryotes act as \"cellular antennae\", providing chemosensation, thermosensation and mechanosensation of the extracellular environment. These cilia then play a role in mediating specific signalling cues, including soluble factors in the external cell environment, a secretory role in which a soluble protein is released to have an effect downstream of the fluid flow, and mediation of fluid flow if the cilia are motile. Some epithelial cells are ciliated, and they commonly exist as a sheet of polarized cells forming a tube or tubule with cilia projecting into the lumen. This sensory and signalling role puts cilia in a central role for maintaining the local cellular environment and may be why ciliary defects cause such a wide range of human diseases.",
+            "score": 114.84276723861694
+        },
+        {
+            "docid": "35552831_10",
+            "document": "Ciliogenesis . Each type of cell has a specific optimal length for its cilia. Therefore, the length of the cilia must be regulated to ensure optimal function of the cell. Some of the same processes that are used to control to formation and removal of cilia (such as IFT) are thought to be used in the regulation of cilia length. The regulation of ciliary length is very important because it affects how the cell is able to use its cilia to move fluid over its surface or conduct cellular signaling. Different ciliopathies can be caused by defects in ciliary length. For instance, proteins that have been shown to cause Meckel\u2013Gruber syndrome affect ciliary length control. However, the mechanisms that affect ciliary length control are not understood very well. Until they are, it will be difficult to determine how defects in ciliary length may related to ciliopathic diseases and syndromes.",
+            "score": 127.89930248260498
+        },
+        {
+            "docid": "1726426_6",
+            "document": "Bardet\u2013Biedl syndrome . Using the round worm \"C. elegans\" as a model system, biologists found that BBS proteins are involved in a process called Intraflagellar transport (IFT), a bi-directional transportation activity within the cilia along the long axis of the ciliary shaft that is essential for ciliogenesis and the maintenance of cilia. Recent biochemical analysis of human BBS proteins revealed that BBS proteins are assembled into a multiple protein complex, called \"BBSome\". BBSome is proposed to be responsible for transporting intracellular vesicles to the base of the cilia and to play an important role in the ciliary function.",
+            "score": 130.72701478004456
+        },
+        {
+            "docid": "15419099_3",
+            "document": "IFT20 . Intraflagellar transport (IFT), in which molecular motors and IFT particle proteins participate, is very important in assembling and maintaining many cilia/flagella, such as the motile cilia that drive the swimming of cells and embryos, the nodal cilia that generate left-right asymmetry in vertebrate embryos, and the sensory cilia that detect sensory stimuli in some animals. IFT20 subunit of the particle is localized to the Golgi complex in addition to the basal body and cilia where all previous IFT particle proteins had been found. In living cells, fluorescently tagged IFT20 is highly dynamic and moves between the Golgi complex and the cilium as well as along ciliary microtubules. IFT20 has been shown to interact with SPEF2 in the testis, and plays a role in sperm motility.",
+            "score": 119.99374008178711
+        },
+        {
+            "docid": "14796567_3",
+            "document": "KIF3A . KIF3A is one subunit of the heterotrimeric motor protein, kinesin-2, that was initially isolated from sea urchin egg/embryo cytosol using microtubule affinity purification. This motor consists of two kinesin-related subunits (called KIF3A and KIF3B or 3C in vertebrates) and an associated protein (KAP3), and it transports protein complexes, nucleic acids and organelles towards the \"plus\" ends of microtubule tracks within cells. Work done in a broad range of eukaryotic cells has revealed that heterotrimeric kinesin-2 is the primary motor protein driving the intra-flagellar transport of tubulins and other axonemal building blocks from the base of the ciliary/flagellar axoneme to their site of assembly at the distal tips. This process is required for cilium assembly/maintenance and cilium-based signalling which play key roles in various cell and developmental processes. For example, in vertebrate embryos, kinesin-2 function is required for cilia-dependent nodal flow and the development of left-right asymmetry.",
+            "score": 92.77192652225494
+        },
+        {
+            "docid": "43118_13",
+            "document": "Cilium . Cilia are formed through the process of ciliogenesis. The building blocks of the cilia such as tubulins and other partially assembled axonemal proteins are added to the ciliary tips which point away from the cell body. In most species bi-directional motility called intraflagellar transport (IFT) plays an essential role in moving these building materials from the cell body to the assembly site. IFT also carries the disassembled material to be recycled from the ciliary tip back to the cell body. By regulating the equilibrium between these two IFT processes, the length of cilia can be maintained dynamically. Disassembly of cilia requires the action of the Aurora A kinase .",
+            "score": 117.61575865745544
+        },
+        {
+            "docid": "156970_19",
+            "document": "Cytoskeleton . In nine triplet sets (star-shaped), they form the centrioles, and in nine doublets oriented about two additional microtubules (wheel-shaped), they form cilia and flagella. The latter formation is commonly referred to as a \"9+2\" arrangement, wherein each doublet is connected to another by the protein dynein. As both flagella and cilia are structural components of the cell, and are maintained by microtubules, they can be considered part of the cytoskeleton. There are two types of cilia:\u00a0motile\u00a0and\u00a0non-motile cilia. Cilia are short and more numerous than flagella. The motile cilia have a rhythmic waving or beating motion compared to the non-motile cilia which receive sensory information for the cell; processing signals from the other cells or the fluids surrounding it. Additionally, the microtubules control the beating (movement) of the cilia and flagella. Also, the dynein arms attached to the microtubules function as the molecular motors. The motion of the cilia and flagella is created by the microtubules sliding past one another, which requires ATP.  They play key roles in:",
+            "score": 133.09494018554688
+        },
+        {
+            "docid": "1682332_3",
+            "document": "Axoneme . Inside cilia and flagella is a microtubule-based cytoskeleton called the axoneme. The axoneme of primary cilia typically has a ring of nine outer microtubule doublets (called a 9+0 axoneme), and the axoneme of a motile cilium has two central microtubules in addition to the nine outer doublets (called a 9+2 axoneme). The axonemal cytoskeleton acts as a scaffolding for various protein complexes and provides binding sites for molecular motor proteins such as kinesin II, that help carry proteins up and down the microtubules.",
+            "score": 103.65970754623413
+        },
+        {
+            "docid": "16435604_5",
+            "document": "Conorenal syndrome . The link to ciliar problems as a cause for Nephronopthisis and similar Kidney diseases is relatively new. Watnick and Germino note that NPHP1 and NPHP4 encode for the proteins nephrocystin and nephrocystin-4 (nephroretinin). These have been shown to interact in a series of cell-cell and cell-matrix signaling proteins. NPHP2 has been also shown to have possible links to the function of the primary renal cilium and to control of the cell cycle (Otto). Otto further found that nephrocystin, inversin (INVS) and nephroretinin colocalize in the primary cilia of cultured renal epithelia cells. One interesting connection is that primary cilia in renal cells may perform a sensing function which maintains the renal tubules. The loss of cystoproteins may lead to dysregulated growth.",
+            "score": 110.70424294471741
+        },
+        {
+            "docid": "18400698_3",
+            "document": "Orofaciodigital syndrome 1 . Orofaciodigital syndrome type 1 is caused by mutations in the OFD1 gene. OFD1 localizes to both centrosomes and basal bodies within the human genetic cellular structure. This suggests that this syndrome may fall into a broad category of ciliary diseases. The ciliary organelles are present in many cellular types throughout the human body. Cilia defects adversely affect numerous critical developmental signaling pathways essential to cellular development.",
+            "score": 102.20765280723572
+        },
+        {
+            "docid": "18211344_15",
+            "document": "Ciliopathy . Although \"non-motile\" or primary cilia were first described in 1898, they were largely ignored by biologists. However, microscopists continued to document their presence in the cells of most vertebrate organisms. The primary cilium was long considered\u2014with few exceptions\u2014to be a largely useless evolutionary vestige, a vestigial organelle. Recent research has revealed that cilia are essential to many of the body's organs. These primary cilia play important roles in chemosensation, mechanosensation, and thermosensation. Cilia may thus be \"viewed as sensory cellular antennae that coordinate a large number of cellular signaling pathways, sometimes coupling the signaling to ciliary motility or alternatively to cell division and differentiation.\"",
+            "score": 118.56316781044006
+        },
+        {
+            "docid": "35552831_2",
+            "document": "Ciliogenesis . Ciliogenesis is defined as the building of the cell's antenna (primary cilia) or extracellular fluid mediation mechanism (motile cilium). It includes the assembly and disassembly of the cilia during the cell cycle. Cilia are important organelles of cells and are involved in numerous activities such as cell signaling, processing developmental signals, and directing the flow of fluids such as mucus over and around cells. Due to the importance of these cell processes, defects in ciliogenesis can lead to numerous human diseases related to non-functioning cilia. Ciliogenesis may also play a role in the development of left/right handedness in humans.",
+            "score": 123.72429776191711
+        },
+        {
+            "docid": "29728822_3",
+            "document": "LRRC50 . Leucine-rich repeat-containing protein 50 is cilium-specific and is required for the stability of the ciliary architecture. It is involved in the regulation of microtubule-based cilia and actin-based brush border microvilli.",
+            "score": 97.12901401519775
+        },
+        {
+            "docid": "43118_7",
+            "document": "Cilium . Although the primary cilium was discovered in 1898, it was largely ignored for a century. Only recently has great progress been made in understanding the function of the primary cilium. Until the 1990s, the prevailing view of the primary cilium was that it was merely a vestigial organelle without important function. Recent findings regarding its physiological roles in chemical sensation, signal transduction, and control of cell growth, have led scientists to acknowledge its importance in cell function, with the discovery of its role in diseases not previously recognized to involve the dysgenesis and dysfunction of cilia, such as polycystic kidney disease, congenital heart disease, and an emerging group of genetic ciliopathies. The primary cilium is now known to play an important role in the function of many human organs. The current scientific understanding of primary cilia views them as \"sensory cellular antennae that coordinate a large number of cellular signaling pathways, sometimes coupling the signaling to ciliary motility or alternatively to cell division and differentiation.\".",
+            "score": 120.50969910621643
+        },
+        {
+            "docid": "666842_2",
+            "document": "Ora serrata . The ora serrata is the serrated junction between the retina and the ciliary body. This junction marks the transition from the simple, non-photosensitive area of the ciliary body to the complex, multi-layered, photosensitive region of the retina. The pigmented layer is continuous over choroid, ciliary body and iris while the nervous layer terminates just before the ciliary body. This point is the ora serrata. In this region the pigmented epithelium of the retina transitions into the outer pigmented epithelium of the ciliary body and the inner portion of the retina transitions into the non-pigmented epithelium of the cilia. In animals in which the region does not have a serrated appearance, it is called the \"ora ciliaris retinae\".",
+            "score": 71.20944881439209
+        },
+        {
+            "docid": "14881782_5",
+            "document": "TFEB . Nuclear localization and activity of TFEB is inhibited by serine phosphorylation by mTORC1 and extracellular signal\u2013regulated kinase 2 (ERK2). mTORC1 phosphorylation of TFEB occurs at the lysosomal surface, both of which are localized there by interaction with the Rag GTPases. Phosphorylated TFEB is then retained in the cytosol by interaction with 14-3-3 proteins. These kinases are tuned to the levels of extracellular nutrients suggesting a coordination in regulation of autophagy and lysomal biogenesis and partnership of two distinct cellular organelles. TFEB is activated in Trex1-deficient cells via inhibition of mTORC1 activity, resulting in an expanded lysosomal compartment.",
+            "score": 45.41978394985199
+        },
+        {
+            "docid": "20621_35",
+            "document": "Microtubule . Microtubules have a major structural role in eukaryotic cilia and flagella. Cilia and flagella always extend directly from a MTOC, in this case termed the basal body. The action of the dynein motor proteins on the various microtubule strands that run along a cilium or flagellum allows the organelle to bend and generate force for swimming, moving extracellular material, and other roles. Prokaryotes possess tubulin-like proteins including FtsZ. However, prokaryotic flagella are entirely different in structure from eukaryotic flagella and do not contain microtubule-based structures.",
+            "score": 98.56041407585144
+        },
+        {
+            "docid": "542598_8",
+            "document": "Protein complex . Transient protein complexes form and break down transiently \"in vivo\", whereas permanent complexes have a relatively long half-life. Typically, the obligate interactions (protein\u2013protein interactions in an obligate complex) are permanent, whereas non-obligate interactions have been found to be either permanent or transient. Note that there is no clear distinction between obligate and non-obligate interaction, rather there exist a continuum between them which depends on various conditions e.g. pH, protein concentration etc. However, there are important distinctions between the properties of transient and permanent/stable interactions: stable interactions are highly conserved but transient interactions are far less conserved, interacting proteins on the two sides of a stable interaction have more tendency of being co-expressed than those of a transient interaction (in fact, co-expression probability between two transiently interacting proteins is not higher than two random proteins), and transient interactions are much less co-localized than stable interactions. Though, transient by nature, transient interactions are very important for cell biology: human interactome is enriched in such interactions, these interactions are the dominating players of gene regulation and signal transduction, and proteins with \"intrinsically disordered regions\" (IDR: regions in protein that show dynamic inter-converting structures in the native state) are found to be enriched in transient regulatory and signaling interactions.",
+            "score": 45.34938144683838
+        },
+        {
+            "docid": "15181875_3",
+            "document": "CEP170 . The product of this gene is a component of the centrosome, a non-membraneous organelle that functions as the major microtubule-organizing center in animal cells. During interphase, the encoded protein localizes to the sub-distal appendages of mature centrioles, which are microtubule-based structures thought to help organize centrosomes. During mitosis, the protein associates with spindle microtubules near the centrosomes. The protein interacts with the intraflagellar transport protein 81 (IFT81), the SH3-domain containing protein PRAX-1, and is phosphorylated by cyclin dependent kinase 1 () and polo-like kinase 1 (), and functions in maintaining Microtubule organization, cell morphology and cilium stability.",
+            "score": 59.591614961624146
+        },
+        {
+            "docid": "3190871_2",
+            "document": "Intraflagellar transport . Intraflagellar transport or IFT is a bidirectional motility along axonemal microtubules that is essential for the formation (ciliogenesis) and maintenance of most eukaryotic cilia and flagella. It is thought to be required to build all cilia that assemble within a membrane projection from the cell surface. \"Plasmodium falciparum\" cilia and the sperm flagella of Drosophila are examples of cilia that assemble in the cytoplasm and do not require IFT. The process of IFT involves movement of large protein complexes called IFT particles or trains from the cell body to the ciliary tip and followed by their return to the cell body. The outward or anterograde movement is powered by kinesin-2 while the inward or retrograde movement is powered by cytoplasmic dynein 2/1b. The IFT particles are composed of about 20 proteins organized in two subcomplexes called complex A and B.",
+            "score": 103.8923408985138
+        },
+        {
+            "docid": "53452258_2",
+            "document": "Compartmentalized ciliogenesis . Compartmentalized ciliogenesis is the most common type of ciliogenesis where the cilium axoneme is formed separated from the cytoplasm by the ciliary membrane and a ciliary gate known as the transition zone.",
+            "score": 39.30597376823425
+        },
+        {
+            "docid": "11443855_20",
+            "document": "Folliculin . Additional experimental evidence that FLCN may be involved in primary cilium function was obtained from a yeast two-hybrid screening that identified KIF3A as a FLCN interacting protein. Intraflagellar transport, which is required for primary cilium assembly and maintenance, is driven by kinesin-2 motor made up of subunits KIF3A and KIF3B. Researchers have shown that FLCN could interact with both subunits in a cilium-dependent manner and localize to cilia in FLCN-expressing but not FLCN-deficient cells. Cilia have been shown to act as flow sensors and suppress mTOR signaling by activating the serine/threonine kinase LKB1 located in the basal body of resting cells in response to flow stimuli. LKB1 in turn phosphorylates and activates AMPK, a negative regulator of mTOR activation. Flow stress was able to suppress mTOR signaling in FLCN-expressing human kidney cells but not under FLCN deficient conditions, and required intact cilia. FLCN was shown to recruit LKB1 and facilitate its interaction with AMPK in the basal body in a flow stress-dependent manner. These findings suggest a role for FLCN in the mechanosensory signaling machinery of the cell that controls the cilia-dependent regulation of the LKB1-AMPK-mTOR signaling axis.",
+            "score": 98.23906445503235
+        },
+        {
+            "docid": "20519370_18",
+            "document": "Mechanosensation . Within the biological and medical disciplines, recent discoveries have noted that \"primary cilia\" in many types of cells within eukaryotes serve as \"cellular antennae\". These cilia play important roles in mechanosensation. The current scientific understanding of primary cilia organelles views them as \"sensory cellular antennae that coordinate a large number of cellular signaling pathways, sometimes coupling the signaling to ciliary motility or alternatively to cell division and differentiation.\"",
+            "score": 106.15340185165405
+        },
+        {
+            "docid": "18768921_8",
+            "document": "Hydrolethalus syndrome . The pathophysiology of HLS is abnormal cilia development arising from the inability of the mutated \"HYLS1\" gene to correctly target centrioles to the plasma membrane. Specifically, transition fibres within the transition zone, at the base of the axoneme and adjoining to the plasma membrane, lack proper development. As these structures form the cilial gate, improper development results in a loss of selectivity for protein entry into the ciliary compartment.",
+            "score": 92.41323745250702
+        },
+        {
+            "docid": "32753428_2",
+            "document": "FEZ-like protein . In molecular biology, the FEZ-like protein family is a family of eukaryotic proteins thought to be involved in axonal outgrowth and fasciculation. The N-terminal regions of these sequences are less conserved than the C-terminal regions, and are highly acidic. The \"Caenorhabditis elegans\" homologue, UNC-76, may play structural and signalling roles in the control of axonal extension and adhesion (particularly in the presence of adjacent neuronal cells) and these roles have also been postulated for other FEZ family proteins. Certain homologues have been definitively found to interact with the N-terminal variable region (V1) of PKC-zeta, and this interaction causes cytoplasmic translocation of the FEZ family protein in mammalian neuronal cells. The C-terminal region probably participates in the association with the regulatory domain of PKC-zeta. The members of this family are predicted to form coiled-coil structures which may interact with members of the RhoA family of signalling proteins, but are not thought to contain other characteristic protein motifs. Certain members of this family are expressed almost exclusively in the brain, whereas others (such as FEZ2) are expressed in other tissues, and are thought to perform similar but unknown functions in these tissues.",
+            "score": 50.903022050857544
+        },
+        {
+            "docid": "35629754_8",
+            "document": "Fam158a . Fam158a has an isoelectric point of 5.5 and a molecular weight of 23 kiloDaltons. Fam158a does not have any predicted signal peptides or transmembrane regions. There are several predicted phosphorylation sites. marked in the conceptual translation as well as the predicted secondary structure. There are no regions significantly different from other human proteins with regard to composition, regions of polarity, or regions of hydrophobicity. iPsortII predicts no signal peptides and localizes Fam158a to the cytoplasm- I-Tasser predicts several structures for Fam158a and the best prediction is shown. Swiss Model predicts two potential protein structures, as seen in the images. The first structure predicts the protein forms a protein dimer, the second as a monomer. Rual et al. found that Fam158a interacts with a protein called TTC35. The function of TTC35 is unknown but it is also known to interact with Cox4NB and Ubiquitin C.",
+            "score": 38.18023145198822
+        },
+        {
+            "docid": "1682332_7",
+            "document": "Axoneme . The axoneme structure in non-motile (\"primary\") cilia shows some variation from the canonical \u201c9x2 + 2\u201d anatomy. No dynein arms are found on the outer doublet microtubules, and there is no pair of central microtubule singlets. This organization of axoneme is referred as \u201c9x2 + 0\u201d. In addition, \u201c9x2 + 1\u201d axonemes, with only a single central microtubule, have been found to exist.  Primary cilia appear to serve sensory functions.",
+            "score": 100.0617641210556
+        },
+        {
+            "docid": "18211344_7",
+            "document": "Ciliopathy . \"In effect, the [motile cilium] is a nanomachine composed of perhaps over 600 proteins in molecular complexes, many of which also function independently as nanomachines.\" Cilia \"function as mechano- or chemosensors and as a cellular global positioning system to detect changes in the surrounding environment.\" For example, ciliary signaling plays a role in the initiation of cellular replacement after cell damage.",
+            "score": 90.54016923904419
+        }
+    ],
+    "r": [
+        {
+            "docid": "156970_19",
+            "document": "Cytoskeleton . In nine triplet sets (star-shaped), they form the centrioles, and in nine doublets oriented about two additional microtubules (wheel-shaped), they form cilia and flagella. The latter formation is commonly referred to as a \"9+2\" arrangement, wherein each doublet is connected to another by the protein dynein. As both flagella and cilia are structural components of the cell, and are maintained by microtubules, they can be considered part of the cytoskeleton. There are two types of cilia:\u00a0motile\u00a0and\u00a0non-motile cilia. Cilia are short and more numerous than flagella. The motile cilia have a rhythmic waving or beating motion compared to the non-motile cilia which receive sensory information for the cell; processing signals from the other cells or the fluids surrounding it. Additionally, the microtubules control the beating (movement) of the cilia and flagella. Also, the dynein arms attached to the microtubules function as the molecular motors. The motion of the cilia and flagella is created by the microtubules sliding past one another, which requires ATP.  They play key roles in:",
+            "score": 133.09494018554688
+        },
+        {
+            "docid": "45209731_4",
+            "document": "Lynne Quarmby . Quarmby's research has been aimed at understanding the signals and mechanisms of deflagellation, the process by which cells shed their cilia into the environment. Cilia are found on most eukaryotic cells and on most cells in the human body, and defects in a cell's ability to form or maintain its cilia can cause diseases known as ciliopathies, that may include symptoms such as cystic kidney disease, blindness, and obesity. Through her research using the single-celled ciliated green alga Chlamydomonas reinhardtii as a model organism, Quarmby identified members of the NIMA-related family of serine/threonine kinases that function in deflagellation as well as in the assembly and maintenance of cilia. Her group went on to show that NEK8 localizes to cilia, and that mutations in NEK8 interfere with its ciliary localization and cause a severe juvenile cystic kidney disease known as nephronophthisis, underscoring the important link between cilia and cystic kidney disease.",
+            "score": 130.93972778320312
+        },
+        {
+            "docid": "1726426_6",
+            "document": "Bardet\u2013Biedl syndrome . Using the round worm \"C. elegans\" as a model system, biologists found that BBS proteins are involved in a process called Intraflagellar transport (IFT), a bi-directional transportation activity within the cilia along the long axis of the ciliary shaft that is essential for ciliogenesis and the maintenance of cilia. Recent biochemical analysis of human BBS proteins revealed that BBS proteins are assembled into a multiple protein complex, called \"BBSome\". BBSome is proposed to be responsible for transporting intracellular vesicles to the base of the cilia and to play an important role in the ciliary function.",
+            "score": 130.7270050048828
+        },
+        {
+            "docid": "35552831_10",
+            "document": "Ciliogenesis . Each type of cell has a specific optimal length for its cilia. Therefore, the length of the cilia must be regulated to ensure optimal function of the cell. Some of the same processes that are used to control to formation and removal of cilia (such as IFT) are thought to be used in the regulation of cilia length. The regulation of ciliary length is very important because it affects how the cell is able to use its cilia to move fluid over its surface or conduct cellular signaling. Different ciliopathies can be caused by defects in ciliary length. For instance, proteins that have been shown to cause Meckel\u2013Gruber syndrome affect ciliary length control. However, the mechanisms that affect ciliary length control are not understood very well. Until they are, it will be difficult to determine how defects in ciliary length may related to ciliopathic diseases and syndromes.",
+            "score": 127.89929962158203
+        },
+        {
+            "docid": "43118_19",
+            "document": "Cilium . Ciliary defects can lead to a number of human diseases. Genetic mutations compromising the proper functioning of cilia, ciliopathies, can cause chronic disorders such as primary ciliary dyskinesia (PCD), nephronophthisis or Senior-Loken syndrome. In addition, a defect of the primary cilium in the renal tube cells can lead to polycystic kidney disease (PKD). In another genetic disorder called Bardet-Biedl syndrome (BBS), the mutant gene products are the components in the basal body and cilia.",
+            "score": 127.27938842773438
+        },
+        {
+            "docid": "43118_24",
+            "document": "Cilium . Recent findings in genetic research have suggested that a large number of genetic disorders, both genetic syndromes and genetic diseases, that were not previously related in the medical literature, may be, in fact, highly related in the root cause of the widely varying set of medical symptoms that are clinically visible in the disorder. These have been grouped as an emerging class of diseases called ciliopathies. The underlying cause may be a dysfunctional molecular mechanism in the primary/immotile cilia, organelles which are present in many diverse cellular types throughout the human body. Cilia defects adversely affect numerous critical developmental signaling pathways essential to cellular development and thus offer a plausible hypothesis for the often multi-symptom nature of a large set of syndromes and diseases. Known ciliopathies include primary ciliary dyskinesia, Bardet-Biedl syndrome, polycystic kidney and liver disease, nephronophthisis, Alstrom syndrome, Meckel-Gruber syndrome, Sensenbrenner syndrome and some forms of retinal degeneration.",
+            "score": 125.03296661376953
+        },
+        {
+            "docid": "35552831_2",
+            "document": "Ciliogenesis . Ciliogenesis is defined as the building of the cell's antenna (primary cilia) or extracellular fluid mediation mechanism (motile cilium). It includes the assembly and disassembly of the cilia during the cell cycle. Cilia are important organelles of cells and are involved in numerous activities such as cell signaling, processing developmental signals, and directing the flow of fluids such as mucus over and around cells. Due to the importance of these cell processes, defects in ciliogenesis can lead to numerous human diseases related to non-functioning cilia. Ciliogenesis may also play a role in the development of left/right handedness in humans.",
+            "score": 123.72429656982422
+        },
+        {
+            "docid": "11443855_19",
+            "document": "Folliculin . Individuals affected with the inherited kidney cancer syndromes von Hippel-Lindau syndrome and tuberous sclerosis complex can develop kidney cysts in addition to kidney tumors, which have been shown to result from defects in primary cilia function. BHD patients also may present with kidney cysts, which led researchers to investigate a potential role for FLCN in regulating primary cilia development and/or function. FLCN protein was found to localize on primary cilia, the basal body and centrosome in different cell types. \"FLCN\" siRNA knockdown in nutrient starved kidney cells resulted in delayed cilia development. Both overexpression of FLCN in FLCN-expressing kidney cells and knockdown of \"FLCN\" resulted in reduced numbers of cilia and aberrant cell divisions, suggesting that levels of FLCN must be tightly regulated for proper ciliogenesis. Primary cilia play a role in inhibiting the canonical Wnt signaling pathway ( Wnt/\u03b2-catenin signaling pathway) by sequestering \u03b2-catenin in the basal body, and dysregulated Wnt/\u03b2-catenin signaling has been linked to kidney cyst formation. In \"Flcn\"-deficient mouse inner medullary collecting duct cells, levels of unphosphorylated (active) \u03b2-catenin and its down stream targets were elevated suggesting that improper activation of the canonical Wnt/\u03b2-catenin signaling pathway through defective ciliogenesis may lead to kidney, and potentially lung, cyst development in BHD syndrome.",
+            "score": 122.66635131835938
+        },
+        {
+            "docid": "43118_7",
+            "document": "Cilium . Although the primary cilium was discovered in 1898, it was largely ignored for a century. Only recently has great progress been made in understanding the function of the primary cilium. Until the 1990s, the prevailing view of the primary cilium was that it was merely a vestigial organelle without important function. Recent findings regarding its physiological roles in chemical sensation, signal transduction, and control of cell growth, have led scientists to acknowledge its importance in cell function, with the discovery of its role in diseases not previously recognized to involve the dysgenesis and dysfunction of cilia, such as polycystic kidney disease, congenital heart disease, and an emerging group of genetic ciliopathies. The primary cilium is now known to play an important role in the function of many human organs. The current scientific understanding of primary cilia views them as \"sensory cellular antennae that coordinate a large number of cellular signaling pathways, sometimes coupling the signaling to ciliary motility or alternatively to cell division and differentiation.\".",
+            "score": 120.50969696044922
+        },
+        {
+            "docid": "15419099_3",
+            "document": "IFT20 . Intraflagellar transport (IFT), in which molecular motors and IFT particle proteins participate, is very important in assembling and maintaining many cilia/flagella, such as the motile cilia that drive the swimming of cells and embryos, the nodal cilia that generate left-right asymmetry in vertebrate embryos, and the sensory cilia that detect sensory stimuli in some animals. IFT20 subunit of the particle is localized to the Golgi complex in addition to the basal body and cilia where all previous IFT particle proteins had been found. In living cells, fluorescently tagged IFT20 is highly dynamic and moves between the Golgi complex and the cilium as well as along ciliary microtubules. IFT20 has been shown to interact with SPEF2 in the testis, and plays a role in sperm motility.",
+            "score": 119.99374389648438
+        },
+        {
+            "docid": "18211344_15",
+            "document": "Ciliopathy . Although \"non-motile\" or primary cilia were first described in 1898, they were largely ignored by biologists. However, microscopists continued to document their presence in the cells of most vertebrate organisms. The primary cilium was long considered\u2014with few exceptions\u2014to be a largely useless evolutionary vestige, a vestigial organelle. Recent research has revealed that cilia are essential to many of the body's organs. These primary cilia play important roles in chemosensation, mechanosensation, and thermosensation. Cilia may thus be \"viewed as sensory cellular antennae that coordinate a large number of cellular signaling pathways, sometimes coupling the signaling to ciliary motility or alternatively to cell division and differentiation.\"",
+            "score": 118.56317138671875
+        },
+        {
+            "docid": "3190871_8",
+            "document": "Intraflagellar transport . Due to the importance of IFT in maintaining functional cilia, defective IFT machinery has now been implicated in many disease phenotypes generally associated with non-functional (or absent) cilia. IFT88, for example, encodes a protein also known as Tg737 or Polaris in mouse and human, and the loss of this protein has been found to cause an autosomal-recessive polycystic kidney disease model phenotype in mice. Other human diseases such as retinal degeneration, situs inversus (a reversal of the body's left-right axis), Senior-Loken syndrome, liver disease, primary ciliary dyskinesia, nephronophthisis, Alstrom syndrome, Meckel-Gruber syndrome, Sensenbrenner syndrome, Jeune syndrome, and Bardet-Biedl syndrome, which causes both cystic kidneys and retinal degeneration, have been linked to the IFT machinery. This diverse group of genetic syndromes and genetic diseases are now understood to arise due to malfunctioning cilia, and the term \"ciliopathy\" is now used to indicate their common origin. These and possibly many more disorders may be better understood via study of IFT.",
+            "score": 118.23114776611328
+        },
+        {
+            "docid": "43118_11",
+            "document": "Cilium . Inside cilia and flagella is a microtubule-based cytoskeleton called the axoneme. The axoneme of primary cilia typically has a ring of nine outer microtubule doublets (called a 9+0 axoneme), and the axoneme of a motile cilium has two central microtubule singlets in addition to the nine outer doublets (called a 9+2 axoneme). The axonemal cytoskeleton acts as a scaffolding for various protein complexes and provides binding sites for molecular motor proteins such as kinesin II, that help carry proteins up and down the microtubules. On the outside of cilia is a membrane like the plasma membrane, but compositionally distinct due to a blocking ring (\"necklace\") around the base, and distinct also in its population of receptors and other integral proteins.",
+            "score": 117.70156860351562
+        },
+        {
+            "docid": "43118_13",
+            "document": "Cilium . Cilia are formed through the process of ciliogenesis. The building blocks of the cilia such as tubulins and other partially assembled axonemal proteins are added to the ciliary tips which point away from the cell body. In most species bi-directional motility called intraflagellar transport (IFT) plays an essential role in moving these building materials from the cell body to the assembly site. IFT also carries the disassembled material to be recycled from the ciliary tip back to the cell body. By regulating the equilibrium between these two IFT processes, the length of cilia can be maintained dynamically. Disassembly of cilia requires the action of the Aurora A kinase .",
+            "score": 117.61576080322266
+        },
+        {
+            "docid": "232035_7",
+            "document": "Anencephaly . Until recently, medical literature did not indicate a connection among many genetic disorders, both genetic syndromes and genetic diseases, that are now being found to be related. As a result of new genetic research, some of these are, in fact, highly related in their root cause despite the widely varying set of medical symptoms that are clinically visible in the disorders. Anencephaly is one such disease, part of an emerging class of diseases called ciliopathies. The underlying cause may be a dysfunctional molecular mechanism in the primary cilia structures of the cell, organelles present in many cellular types throughout the human body. The cilia defects adversely affect \"numerous critical developmental signaling pathways\" essential to cellular development and, thus, offer a plausible hypothesis for the often multi-symptom nature of a large set of syndromes and diseases. Known ciliopathies include primary ciliary dyskinesia, Bardet-Biedl syndrome, polycystic kidney and liver disease, nephronophthisis, Alstr\u00f6m syndrome, Meckel-Gruber syndrome, and some forms of retinal degeneration.",
+            "score": 117.17975616455078
+        },
+        {
+            "docid": "2236023_8",
+            "document": "Agenesis of the corpus callosum . Until recently, the medical literature did not indicate a connection among many genetic disorders, both genetic syndromes and genetic diseases, that are now being found to be related. As a result of new genetic research, some of these are, in fact, highly related in their root cause despite the widely varying symptoms apparent on clinical examination. Agenesis of the corpus callosum is one such disease, part of an emerging class of diseases called ciliopathies. The underlying cause may be a dysfunctional molecular mechanism in the primary cilia structures of the cell organelles that are present in many cellular types throughout the human body. The cilia defects adversely affect \"numerous critical developmental signaling pathways\" essential to cellular development and thus offer a plausible hypothesis for the often multi-symptom nature of a large set of syndromes and diseases. Known ciliopathies include primary ciliary dyskinesia, Bardet\u2013Biedl syndrome, polycystic kidney and liver disease, nephronophthisis, Alstr\u00f6m syndrome, Meckel\u2013Gruber syndrome, and some forms of retinal degeneration.",
+            "score": 117.17975616455078
+        },
+        {
+            "docid": "18211344_16",
+            "document": "Ciliopathy . Recent advances in mammalian genetic research have made possible the understanding of a molecular basis for a number of dysfunctional mechanisms in both motile and primary cilia structures of the cell. A number of critical developmental signaling pathways essential to cellular development have been discovered. These are principally but not exclusively found in the non-motile or primary cilia. A number of common observable characteristics of mammalian genetic disorders and diseases are caused by ciliary dysgenesis and dysfunction. Once identified, these characteristics thus describe a set of hallmarks of a ciliopathy.",
+            "score": 117.17388916015625
+        },
+        {
+            "docid": "232055_4",
+            "document": "Exencephaly . Until recently, the medical literature did not indicate a connection among many genetic disorders, both genetic syndromes and genetic diseases, that are now being found to be related. As a result of new genetic research, some of these are, in fact, highly related in their root cause despite the widely varying set of medical symptoms that are clinically visible in the disorders. Exencephaly is one such disease that has recently been identified as part of an emerging class of diseases called cilopathies. The underlying cause may be a dysfunctional molecular mechanism in the primary cilia structures of the cell, organelles which are present in many cellular types throughout the human body. The cilia defects adversely affect \"numerous critical developmental signaling pathways\" essential to cellular development and thus offer a plausible hypothesis for the often multi-symptom nature of a large set of syndromes and diseases. Known ciliopathies include primary ciliary dyskinesia, Bardet\u2013Biedl syndrome, polycystic kidney and liver disease, nephronophthisis, Alstr\u00f6m syndrome, Meckel\u2013Gruber syndrome and some forms of retinal degeneration.",
+            "score": 115.67171478271484
+        },
+        {
+            "docid": "3350633_10",
+            "document": "Dandy\u2013Walker syndrome . Until recently, the medical literature did not indicate a connection among many genetic disorders, both genetic syndromes and genetic diseases, that are now being found to be related. As a result of new genetic research, some of these are, in fact, highly related in their root cause (genotype) despite the widely varying set of medical characteristics (phenotype) that are clinically visible in the disorders. Dandy\u2013Walker syndrome is one such disease, part of an emerging class of diseases called ciliopathies. The underlying cause may be a dysfunctional molecular mechanism in the primary cilia structures of the cell, organelles which are present in many cellular types throughout the human body. The cilia defects adversely affect \"numerous critical developmental signaling pathways\" essential to cellular development and thus offer a plausible hypothesis for the often multi-symptom nature of a large set of syndromes and diseases. Known ciliopathies include primary ciliary dyskinesia, Bardet-Biedl syndrome, polycystic kidney and liver disease, nephronophthisis, Alstrom syndrome, Meckel-Gruber syndrome and some forms of retinal degeneration.",
+            "score": 115.2916259765625
+        },
+        {
+            "docid": "1445505_6",
+            "document": "Ellis\u2013van Creveld syndrome . Until recently, the medical literature did not indicate a connection among many genetic disorders, both genetic syndromes and genetic diseases, that are now being found to be related. As a result of new genetic research, some of these are, in fact, highly related in their root cause despite the widely varying set of medical symptoms that are clinically visible in the disorders. Ellis\u2013van Creveld syndrome is one such disease, part of an emerging class of diseases called ciliopathies. The underlying cause may be a dysfunctional molecular mechanism in the primary cilia structures of the cell, organelles which are present in many cellular types throughout the human body. The cilia defects adversely affect \"numerous critical developmental signaling pathways\" essential to cellular development and thus offer a plausible hypothesis for the often multi-symptom nature of a large set of syndromes and diseases. Known ciliopathies include primary ciliary dyskinesia, Bardet\u2013Biedl syndrome, polycystic kidney and liver disease, nephronophthisis, Alstrom syndrome, Meckel\u2013Gruber syndrome and some forms of retinal degeneration.",
+            "score": 115.2916259765625
+        },
+        {
+            "docid": "7114421_11",
+            "document": "Juvenile myoclonic epilepsy . Until recently, the medical literature did not indicate a connection among many genetic disorders; however, genetic syndromes and genetic diseases are now being found to be related. As a result of new genetic research, some of these are, in fact, highly related in their root cause despite the widely varying set of medical symptoms that are clinically visible in the disorders. This emerging class of diseases are called ciliopathies. The underlying cause may be a dysfunctional molecular mechanism in the primary cilia structures of the cell organelles, which are present in many cellular types throughout the human body. The cilia defects adversely affect \"numerous critical developmental signaling pathways\" essential to cellular development and thus offer a plausible hypothesis for the often multi-symptom nature of a large set of syndromes and diseases. Known ciliopathies include primary ciliary dyskinesia, Bardet-Biedl syndrome, polycystic kidney and liver disease, nephronophthisis, Alstrom syndrome, Meckel-Gruber syndrome and some forms of retinal degeneration. It has been suggested that juvenile myoclonic epilepsy may be a ciliopathy.",
+            "score": 115.09901428222656
+        },
+        {
+            "docid": "43118_18",
+            "document": "Cilium . Some primary cilia on epithelial cells in eukaryotes act as \"cellular antennae\", providing chemosensation, thermosensation and mechanosensation of the extracellular environment. These cilia then play a role in mediating specific signalling cues, including soluble factors in the external cell environment, a secretory role in which a soluble protein is released to have an effect downstream of the fluid flow, and mediation of fluid flow if the cilia are motile. Some epithelial cells are ciliated, and they commonly exist as a sheet of polarized cells forming a tube or tubule with cilia projecting into the lumen. This sensory and signalling role puts cilia in a central role for maintaining the local cellular environment and may be why ciliary defects cause such a wide range of human diseases.",
+            "score": 114.84276580810547
+        },
+        {
+            "docid": "18768921_7",
+            "document": "Hydrolethalus syndrome . Prior to the discovery of HLS, the \"HYLS1\" gene was unknown, and similar genes within humans have not been identified. Orthologs, genes in other species with common ancestral heritage, have been examined to explain the pathophysiology of HLS; a similar gene within the roundworm, \"Caenorhabditis elegans\", is responsible for the formation of cilia. Current hypotheses place a dysfunction of cilia as the main cause of HLS defects arising from the \"HYLS1\" mutation in humans.  Differences between wild type and mutant \"HYLS1\" have been clearly observed; the wild type form is localised to the cytoplasm, while the mutant form is localised to the nucleus and forms small clusters, suggesting that the mutant gene disrupts cellular localisation. The protein encoded by the \"HYLS1\" mutant form is unable to carry out essential targetting of centrioles to the plasma membrane, disrupting ciliary function, which results in ciliopathy. As cilia are located in almost all cells throughout the body, cilial dysfunction causes developmental defects in a range of organs and thus the phenotype of HLS can vary greatly, though brain malformation and polydactyly are most commonly observed.  Currently, no environmental factors are known to increase the likelihood of HLS development or progression; HLS is caused only by genetic abnormalities.",
+            "score": 114.41081237792969
+        },
+        {
+            "docid": "18882012_5",
+            "document": "MORM syndrome . MORM syndrome is associated with the gene INPP5E. INPP5E is a gene who's function is not well understood. It is hypothesized to play a role in primary cilia stability. A homozygous mutation in the INPP5E gene, on chromosome 9q34, is the cause for MORM syndrome. The mutation causes a homozygous transition in the last exon of the INPP5E gene. This transition results in the DNA bases changing from a cytosine residue to a thymine residue. The resulting protein will then have an altered amino acid sequence. In unaffected individuals this specific codon (region of DNA bases) is supposed to code for the amino acid glutamine. In cases of MORM syndrome this codon codes for a termination sequence, which prematurely stops the production of the protein. In unaffected individuals the protein is evenly disbursed throughout the ciliia axoneme which allows for the cilia to be stable. Cilia are antenna like structures which protrude from the extracellular surface of the cell. The cilia allows for extracellular signalling/communication between cells and their environment. When the INPP5E gene is mutated, the protein is damaged and is unable to spread out along the cilia axoneme and is unable to interact with other stabilizing proteins. This results is MORM syndrome individuals being unable to stabilize their cilia axoneme. It is still not well understood the exact mechanism as to how the mutation in the INNP5E gene causes cilia instability.",
+            "score": 113.46354675292969
+        },
+        {
+            "docid": "16435604_5",
+            "document": "Conorenal syndrome . The link to ciliar problems as a cause for Nephronopthisis and similar Kidney diseases is relatively new. Watnick and Germino note that NPHP1 and NPHP4 encode for the proteins nephrocystin and nephrocystin-4 (nephroretinin). These have been shown to interact in a series of cell-cell and cell-matrix signaling proteins. NPHP2 has been also shown to have possible links to the function of the primary renal cilium and to control of the cell cycle (Otto). Otto further found that nephrocystin, inversin (INVS) and nephroretinin colocalize in the primary cilia of cultured renal epithelia cells. One interesting connection is that primary cilia in renal cells may perform a sensing function which maintains the renal tubules. The loss of cystoproteins may lead to dysregulated growth.",
+            "score": 110.70423889160156
+        },
+        {
+            "docid": "16435604_6",
+            "document": "Conorenal syndrome . The link to a ciliar dysfunction in the Retinal degenerative diseases also comes from Otto. Like the described Kidney diseases, Retinitis Pigmentosa is a disease where the ciliar cells (Rods and Cones) fail to thrive. In a study of patients with a disease similar to Conorenal (renal-retinal Senior-Loken) the authors state \"We show that nephrocystin-5, RPGR and calmodulin can be coimmniprecipitated from retinal extracts, and that these proteins localize to connecting cilia of photoreceptors and to primary cilia of renal epithelial cells. Our studies emphasize the central role of ciliary dysfunction in the pathogenesis of renal-retinal Senior Loken Syndrome.\" In other words, there is a common link between certain kidney diseases and some forms of RP and it is through the something related to a problem in the cilia cells. This may be a problem in the cells themselves, or with something that keeps them alive and healthy.",
+            "score": 108.30329895019531
+        },
+        {
+            "docid": "18211344_17",
+            "document": "Ciliopathy . Cilia have recently been implicated in a wide variety of human genetic diseases by \"the discovery that numerous proteins involved in mammalian disease localize to the basal bodies and cilia.\" For example, in just a single area of human disease physiology, cystic renal disease, cilia-related genes and proteins have been identified to have causal effect in polycystic kidney disease, nephronophthisis, Senior-Loken syndrome type 5, orofaciodigital syndrome type 1 and Bardet-Biedl syndrome.",
+            "score": 107.73333740234375
+        },
+        {
+            "docid": "53451790_3",
+            "document": "Cytosolic ciliogenesis . Cytosolic ciliogenesis is divided into three types: Primary cytosolic cilia are formed by exposing the axoneme of compartmentalized cilium (formed initially by compartmentalized ciliogenesis) to the cytoplasm. This type of cilia is found in the sperm of human and other mammals. Secondary cytosolic cilia are formed in parallels to the formation of the typical compartmentalized cilium. One end of the axoneme is exposed to the cytoplasm as the other end of the axoneme is formed as compartmentalized cilia. This type of cilia is found in insects. Tertiary cytosolic cilia are axonemes that form directly in the cytoplasm. This type of cilia is found in Plasmodium (the malaria parasite).",
+            "score": 106.93781280517578
+        },
+        {
+            "docid": "1482994_15",
+            "document": "Spermatocyte . Primary cilia are common organelles found in eukaryotic cells; they play an important role in development of animals. \"Drosophila\" have unique properties in their spermatocyte primary cilia\u2014they are assembled by four centrioles independently in the G2 phase and are sensitive to microtubule-targeting drugs. Normally, primary cilia will develop from one centriole in the G0/G1 phase and are not affected by microtubule targeting drugs.",
+            "score": 106.43544006347656
+        },
+        {
+            "docid": "20519370_18",
+            "document": "Mechanosensation . Within the biological and medical disciplines, recent discoveries have noted that \"primary cilia\" in many types of cells within eukaryotes serve as \"cellular antennae\". These cilia play important roles in mechanosensation. The current scientific understanding of primary cilia organelles views them as \"sensory cellular antennae that coordinate a large number of cellular signaling pathways, sometimes coupling the signaling to ciliary motility or alternatively to cell division and differentiation.\"",
+            "score": 106.15340423583984
+        },
+        {
+            "docid": "43118_3",
+            "document": "Cilium . There are two types of cilia: \"motile\" cilia and \"nonmotile\", or \"primary\", cilia, which typically serve as sensory organelles. In eukaryotes, motile cilia and flagella together make up a group of organelles known as undulipodia. Eukaryotic cilia are structurally identical to eukaryotic flagella, although distinctions are sometimes made according to function and/or length. Biologists have various ideas about how the various flagella may have evolved.",
+            "score": 105.56301879882812
+        },
+        {
+            "docid": "56464_14",
+            "document": "Joubert syndrome . The underlying cause of the ciliopathies may be a dysfunctional molecular mechanism in the primary cilia structures of the cell, organelles which are present in many cellular types throughout the human body. The cilia defects adversely affect \"numerous critical developmental signaling pathways\" essential to cellular development and thus offer a plausible hypothesis for the often multi-symptom nature of a large set of syndromes and diseases.",
+            "score": 105.56111145019531
+        }
+    ]
+}

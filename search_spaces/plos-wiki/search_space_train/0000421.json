@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "2146034_3",
+            "document": "CRISPR . CRISPR is an abbreviation of Clustered Regularly Interspaced Short Palindromic Repeats. The name was minted at a time when the origin and use of the interspacing subsequences were not known. At that time the CRISPRs were described as segments of prokaryotic DNA containing short, repetitive base sequences. In a palindromic repeat, the sequence of nucleotides is the same in both directions. Each repetition is followed by short segments of spacer DNA from previous exposures to foreign DNA (e.g., a virus or plasmid). Small clusters of \"cas\" (CRISPR-associated system) genes are located next to CRISPR sequences. The CRISPR/Cas system is a prokaryotic immune system that confers resistance to foreign genetic elements such as those present within plasmids and phages that provides a form of acquired immunity. RNA harboring the spacer sequence helps Cas (CRISPR-associated) proteins recognize and cut exogenous DNA. Other RNA-guided Cas proteins cut foreign RNA. CRISPRs are found in approximately 50% of sequenced bacterial genomes and nearly 90% of sequenced archaea.",
+            "score": 185.5187282562256
+        },
+        {
+            "docid": "2146034_49",
+            "document": "CRISPR . The alternative is to extract and reconstruct CRISPR arrays from shotgun metagenomic data. This is computationally more difficult, particularly with second generation sequencing technologies (e.g. 454, Illumina), as the short read lengths prevent more than two or three repeat units appearing in a single read. CRISPR identification in raw reads has been achieved using purely \"de novo\" identification or by using direct repeat sequences in partially assembled CRISPR arrays from contigs (overlapping DNA segments that together represent a consensus region of DNA) and direct repeat sequences from published genomes as a hook for identifying direct repeats in individual reads.",
+            "score": 123.29224061965942
+        },
+        {
+            "docid": "49539168_7",
+            "document": "No-SCAR (Scarless Cas9 Assisted Recombineering) Genome Editing . A more recent method for genome editing uses CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) sequences and the endonuclease Cas9 (CRISPR-associated protein 9). These components are an integral part of the immune response for some bacteria. and have been repurposed for genome engineering. In this system, sequences matching foreign bacteriophage or plasmid DNA are incorporated as \u201cspacer\u201d sequences into the bacterial genome located between repeating CRISPR loci. Cas endonucleases are able to initiate double strand breaks within these foreign DNAs that are complement to the transcribed CRISPR RNAs (crRNA, or \u201cprotospacers\u201d), thus degrading them. A conserved protospacer-adjacent motif (PAM, sequence 5\u2019-NGG-3\u2019) located immediately downstream of the protospacer in the cellular genome is necessary for Cas9 cleavage. Together, this system allows for adaptive immunity to the dynamic viral genetic material.",
+            "score": 167.4309470653534
+        },
+        {
+            "docid": "2146034_10",
+            "document": "CRISPR . Experimental work by several groups revealed the basic mechanisms of CRISPR-Cas immunity. In 2007 the first experimental evidence that CRISPR was an adaptive immune system was published. A CRISPR region in \"Streptococcus thermophilus\" acquired spacers from the DNA of an infecting bacteriophage. The researchers manipulated the resistance of \"S. thermophilus\" to phage by adding and deleting spacers whose sequence matched those found in the tested phages. In 2008, Brouns and Van der Oost identified a complex of Cas proteins (called Cascade) that in \"E. coli\" cut the CRISPR RNA precursor within the repeats into mature spacer-containing RNA molecules (crRNA), which remained bound to the protein complex. Moreover, it was found that Cascade, crRNA and a helicase/nuclease (Cas3) were required to provide a bacterial host with immunity against infection by a DNA virus. By designing an anti-virus CRISPR, they demonstrated that two orientations of the crRNA (sense/antisense) provided immunity, indicating that the crRNA guides were targeting dsDNA. That year Marraffini and Sontheimer indeed confirmed that a CRISPR sequence of \"S. epidermidis\" targeted DNA and not RNA to prevent conjugation. This finding was at odds with the proposed RNA-interference-like mechanism of CRISPR-Cas immunity, although a CRISPR-Cas system that targets foreign RNA was later found in \"Pyrococcus furiosus\". A 2010 study showed that CRISPR-Cas cuts both strands of phage and plasmid DNA in \"S. thermophilus\".",
+            "score": 182.95995330810547
+        },
+        {
+            "docid": "446223_8",
+            "document": "Gene knockdown . A different means of silencing exogenous DNA that has been discovered in prokaryotes is a mechanism involving loci called 'Clustered Regularly Interspaced Short Palindromic Repeats', or CRISPRs. Proteins called 'CRISPR-associated genes' (cas genes) encode cellular machinery that cuts exogenous DNA into small fragments and inserts them into a CRISPR repeat locus. When this CRISPR region of DNA is expressed by the cell, the small RNAs produced from the exogenous DNA inserts serve as a template sequence that other Cas proteins use to silence this same exogenous sequence. The transcripts of the short exogenous sequences are used as a guide to silence these foreign DNA when they are present in the cell. This serves as a kind of acquired immunity, and this process is like a prokaryotic RNA interference mechanism. The CRISPR repeats are conserved amongst many species and have been demonstrated to be usable in human cells, bacteria, \"C. elegans\", zebrafish, and other organisms for effective genome manipulation. The use of CRISPRs as a versatile research tool can be illustrated by many studies making use of it to generate organisms with genome alterations.",
+            "score": 145.83475768566132
+        },
+        {
+            "docid": "34930586_32",
+            "document": "Genome editing . CRISPRs (Clustered Regularly Interspaced Short Palindromic Repeats) are genetic elements that bacteria use as a kind of acquired immunity to protect against viruses. They consist of short sequences that originate from viral genomes and have been incorporated into the bacterial genome. Cas (CRISPR associated proteins) process these sequences and cut matching viral DNA sequences. By introducing plasmids containing Cas genes and specifically constructed CRISPRs into eukaryotic cells, the eukaryotic genome can be cut at any desired position. Several companies, including Cellectis and Editas, have been working to monetize the CRISPR method while developing gene-specific therapies.",
+            "score": 139.42227053642273
+        },
+        {
+            "docid": "34970018_11",
+            "document": "Earth Microbiome Project . Depending on the biological question, researchers can choose to sequence a metagenomic sample using two main approaches. If the biological question to be resolved is, what types of organisms are present and in what abundance, the preferred approach would be to target and amplify a specific gene that is highly conserved among the species of interest. The 16S ribosomal RNA gene for bacteria and the 18S ribosomal RNA gene for protists are often used as target genes for this purpose. The advantage of targeting a specific gene is that the gene can be amplified and sequenced at a very high coverage. This approach is called \"deep sequencing\", which allows rare species to be identified in a sample. However, this approach will not enable assembly of any whole genomes, nor will it provide information on how organisms may interact with each other. The second approach is called shotgun metagenomics, in which all the DNA in the sample is sheared and the random fragments sequenced. In principle, this approach allows for the assembly of whole microbial genomes, and it allows inference of metabolic relationships. However, if most of microbes are uncharacterised in a given environment, \"de novo\" assembly will be computationally expensive.",
+            "score": 77.73216509819031
+        },
+        {
+            "docid": "53368771_9",
+            "document": "Pharmacomicrobiomics . Advances in high-throughput sequencing has facilitated shotgun metagenome sequencing (SMS), a technology that provides a broader characterization of microbial samples by sequencing a larger number of genes in each organism. SMS involves collecting microbial samples from the environment, isolating DNA, shearing the DNA into small fragments, and then performing whole genome sequencing (WGS). Reads can be assembled de novo or using reference genomes. However, SMS is not without limitations. Reads may overlap and prevent accurate alignment to reference genomes. In addition, reads may be contaminated by human DNA sequence, confounding results. In reference-based assembly, reads may also be biased towards species which have publicly available reference genomes.",
+            "score": 79.9514479637146
+        },
+        {
+            "docid": "16359310_3",
+            "document": "Human Microbiome Project . Important components of the HMP were culture-independent methods of microbial community characterization, such as metagenomics (which provides a broad genetic perspective on a single microbial community), as well as extensive whole genome sequencing (which provides a \"deep\" genetic perspective on certain aspects of a given microbial community, \"i.e.\" of individual bacterial species). The latter served as reference genomic sequences \u2014 3000 such sequences of individual bacterial isolates are currently planned \u2014 for comparison purposes during subsequent metagenomic analysis. The project also financed deep sequencing of bacterial 16S rRNA sequences amplified by polymerase chain reaction from human subjects.",
+            "score": 115.30248355865479
+        },
+        {
+            "docid": "53368771_20",
+            "document": "Pharmacomicrobiomics . The limitations of pharmacomicrobiomics primarily arise from the uncertainty associated with metagenomic profiling. Namely, short reads obtained by shotgun sequencing can be difficult to align to reference genomes since many organism have homologous sequences. In addition, 16S rRNA sequencing cannot consistently resolve species identity, a finding that casts doubt on species identities in metagenomic samples. Limitations also arise from differing study designs, as unique approaches to identifying the nature of the xenobiotic-microbiome interactions are often taken. For instance, because pharmacomicrobiomics very broadly denotes the association between xenobiotics and the microbiome, the extent to which studies profile the genetics of the microbiome can vary significantly. Studies aiming to characterize organism identity, but not gene identity or copy number may elect to use 16S shotgun sequencing as opposed to SMS. Conversely, studies aiming to identify genes and their products rather than organism identity may elect WMGS coupled with transcriptomic analysis. Initially, these differences may mean that researchers wanting to investigate publicly available data may have to target their research questions to fit the data at hand.",
+            "score": 60.60619592666626
+        },
+        {
+            "docid": "39597449_7",
+            "document": "Metagenomics: An Alternative Approach to Genomics . The human body is inhabited by trillions of bacteria and other microbes, which have recently been studied in many different habitats (including gut, mouth, skin, and urogenital) by the Human Microbiome Project (HMP). These microbial communities were assayed using high-throughput DNA sequencing. HMP showed that, unlike individual microbial species, many metabolic processes were present among all body habitats with varying frequencies. Microbial communities of 649 metagenomes drawn from seven primary body sites on 102 individuals were studied as part of the human microbiome project. The metagenomic analysis revealed variations in niche specific abundance among 168 functional modules and 196 metabolic pathways within the microbiome. These included glycosaminoglycan degradation in the gut, as well as phosphate and amino acid transport linked to host phenotype (vaginal pH) in the posterior fornix. The HMP has brought to light the utility of metagenomics in diagnostics and evidence-based medicine. Thus metagenomics is a powerful tool to address many of the pressing issues in the field of Personalized medicine.",
+            "score": 133.76062333583832
+        },
+        {
+            "docid": "477989_6",
+            "document": "Sequence assembly . Expressed sequence tag or EST assembly was an early strategy, dating from the mid-1990s to the mid-2000s, to assemble individual genes rather than whole genomes. The problem differs from genome assembly in several ways. The input sequences for EST assembly are fragments of the transcribed mRNA of a cell and represent only a subset of the whole genome. A number of algorithmical problems differ between genome and EST assembly. For instance, genomes often have large amounts of repetitive sequences, concentrated in the intergenic regions. Transcribed genes contain many fewer repeats, making assembly somewhat easier. On the other hand, some genes are expressed (transcribed) in very high numbers (e.g., housekeeping genes), which means that unlike whole-genome shotgun sequencing, the reads are not uniformly sampled across the genome.",
+            "score": 49.94797468185425
+        },
+        {
+            "docid": "35256679_2",
+            "document": "Community fingerprinting . Community fingerprinting is a set of molecular biology techniques that can be used to quickly profile the diversity of a microbial community. Rather than directly identifying or counting individual cells in an environmental sample, these techniques show how many variants of a gene are present. In general, it is assumed that each different gene variant represents a different type of microbe. Community fingerprinting is used by microbiologists studying a variety of microbial systems (e.g. marine, freshwater, soil, and human microbial communities) to measure biodiversity or track changes in community structure over time. The method analyzes environmental samples by assaying genomic DNA. This approach offers an alternative to microbial culturing, which is important because most microbes cannot be cultured in the laboratory. Community fingerprinting does not result in identification of individual microbe species; instead, it presents an overall picture of a microbial community. These methods are now largely being replaced by high throughput sequencing, such as targeted microbiome analysis (e.g., 16s rRNA sequencing) and metagenomics.",
+            "score": 106.5277590751648
+        },
+        {
+            "docid": "34970018_14",
+            "document": "Earth Microbiome Project . Depending on the sequencing technology and the underlying biological question, additional methods may be employed. For example, if the sequenced reads are too short to infer any useful information, an assembly will be required. An assembly can also be used to construct whole genomes, which will provide useful information on the species. Furthermore, if the metabolic relationships within a microbial metagenome are to be understood, DNA sequences need to be translated into amino acid sequences, for example with using gene prediction tools such as GeneMark or FragGeneScan.",
+            "score": 62.47224140167236
+        },
+        {
+            "docid": "30833420_19",
+            "document": "Transmission electron microscopy DNA sequencing . The microbiome refers the total collection of microbes present in a microenvironment and their respective genomes. For example, an estimated 100 trillion microbial cells colonize the human body at any given time. The human microbiome is of particular interest, as these commensal bacteria are important for human health and immunity. Most of the Earth's bacterial genomes have not yet been sequenced; undertaking a microbiome sequencing project would require extensive \"de novo\" genome assembly, a prospect which is daunting with short read DNA sequencing technologies. Longer reads would greatly facilitate the assembly of new microbial genomes.",
+            "score": 99.2965476512909
+        },
+        {
+            "docid": "19456032_26",
+            "document": "Microbiota . Metagenomics is also used extensively for studying microbial communities. In metagenomic sequencing, DNA is recovered directly from environmental samples in an untargeted manner with the goal of obtaining an unbiased sample from all genes of all members of the community. Recent studies use shotgun Sanger sequencing or pyrosequencing to recover the sequences of the reads. The reads can then be assembled into contigs. To determine the phylogenetic identity of a sequence, it is compared to available full genome sequences using methods such as BLAST. One drawback of this approach is that many members of microbial communities do not have a representative sequenced genome.",
+            "score": 70.89967894554138
+        },
+        {
+            "docid": "196493_27",
+            "document": "Non-coding RNA . Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) are repeats found in the DNA of many bacteria and archaea. The repeats are separated by spacers of similar length. It has been demonstrated that these spacers can be derived from phage and subsequently help protect the cell from infection.",
+            "score": 97.134037733078
+        },
+        {
+            "docid": "28202032_3",
+            "document": "Hybrid genome assembly . The term genome assembly refers to the process of taking a large number of DNA fragments that are generated during shotgun sequencing and assembling them into the correct order such as to reconstruct the original genome. Sequencing involves using automated machines to determine the order of nucleic acids in the DNA of interest (the nucleic acids in DNA are adenine, cytosine, guanine and thymine) to conduct genomic analyses involving an organism of interest. The advent of next generation sequencing has presented significant improvements in the speed, accuracy and cost of DNA sequencing and has made the sequencing of entire genomes a feasible process. There are many different sequencing technologies that have been developed by various biotechnology companies, each of which produce different sequencing reads in terms of accuracy and read length. Some of these technologies include Roche 454, Illumina, SOLiD, and IonTorrent. These sequencing technologies produce relatively short reads (50-700 bases) and have a high accuracy (>98%). Third generation sequencing include technologies as the PacBio RS system which can produce long reads (maximum of 23kb) but have a relatively low accuracy. Genome assembly is normally done by one of two methods: assembly using a reference genome as a scaffold, or \"de novo\" assembly. The scaffolding approach can be useful if the genome of a similar organism has been previously sequenced. This process involves assembling the genome of interest by comparing it to a known genome or scaffold. \"De novo\" genome assembly is used when the genome to be assembled is not similar to any other organisms whose genomes have been previously sequenced. This process is carried out by assembling single reads into contiguous sequences (contigs) which are then extended in the 3\u2019 and 5\u2019 directions by overlapping other sequences. The latter is preferred because it allows for the conservation of more sequences. The \"de novo\" assembly of DNA sequences is a very computationally challenging process and can fall into the NP-hard class of problems if the Hamiltonian-cycle approach is used. This is because millions of sequences must be assembled to reconstruct a genome. Within genomes, there are often tandem repeats of DNA segments that can be thousands of base pairs in length, which can cause problems during assembly. Although next generation sequencing technology is now capable of producing millions of reads, the assembly of these reads can cause a bottleneck in the entire genome assembly process. As such, extensive research is being done to develop new techniques and algorithms to streamline the genome assembly process and make it a more computationally efficient process and to increase the accuracy of the process as a whole.",
+            "score": 70.3863263130188
+        },
+        {
+            "docid": "37720522_3",
+            "document": "Binning (metagenomics) . Metagenomic samples can contain reads from a huge number of organisms. For example, in a single gram of soil, there can be up to 18000 different types of organisms, each with its own genome. Metagenomic studies sample DNA from the whole community, and make it available as nucleotide sequences of certain length. In most cases, the incomplete nature of the obtained sequences makes it hard to assemble individual genes, much less recovering the full genomes of each organism. Thus, binning techniques represent a \"best effort\" to identify reads or contigs with certain groups of organisms designated as operational taxonomic units (OTUs).",
+            "score": 54.361855030059814
+        },
+        {
+            "docid": "57432949_24",
+            "document": "Plant genome assembly . With the emergence of third-generation sequencing (TGS) some of the limitations from previous methods of sequencing and assembling plant genomes have started to be addressed. This technology is characterized by the parallel sequencing of single molecules of DNA, that results in sequences up to 54 kbp length (PacBio RS 2). In general, long reads from TGS have relatively high error rates (~10% on average) and therefore repeated sequencing of the same DNA fragments is required. The price of such technology is still quite high and therefore is generally used in combination with short reads from NGS. One of the first plant genome that used long-reads from TGS, Pacific Biosciences in combination with short reads from NGS was the genome of Spinach having a genome size estimated at 989 Mb. For this, a 60\u00d7 coverage of the genome was generated, with 20% of the reads larger than 20 kb. Data were assembled using PacBio\u2019s hierarchical genome assembly process (HGAP), and showed that long-read assemblies revealed a 63-fold improvement in contig size over an Illumina-only assembly. Another plant genome that was recently published that used long reads in combination with short reads is the improved assembly of the apple genome. In this project a hybrid approach was used, combining different data types from sequencing technologies. The sequences used came from: PacBio RS II, Illumina paired-end reads (PE) and Illumina mate- pair reads (MP). As a first step an assembly from Illumina paired-end reads was performed using a well-known de novo assembly software SOAPdevo. Then using a hybrid assembly pipeline DBG2OLC. the contigs obtained at the first step and the long reads from PacBio were combined. The assembly was then polished with the help of Illumina paired-end reads by mapping them to the contigs using BWA-MEM. By mapping the mate-pair reads on the corrected contigs they scaffold the assembly. Further BioNano (https://bionanogenomics.com/) optical mapping analysis with a total length of 649.7 Mb, were used in the hybrid assembly pipeline together with the scaffolds obtained from the previous step. The resulting scaffolds were anchored to a genetic map constructed from 15,417 single-nucleotide polymorphisms (SNPs) markers. For better understanding of the number and diversity of genes that were identified, ribonucleic acid RNA-seq, were used. The resulted genome has a dimension of 643.2 Mb getting closer to the estimated genome size than the previous published assembly and a smaller number of protein-coding- genes.",
+            "score": 47.81282579898834
+        },
+        {
+            "docid": "2146034_17",
+            "document": "CRISPR . The CRISPR array comprises an AT-rich leader sequence followed by short repeats that are separated by unique spacers. CRISPR repeats typically range in size from 28 to 37 base pairs (bps), though there can be as few as 23 bp and as many as 55 bp. Some show dyad symmetry, implying the formation of a secondary structure such as a stem-loop ('hairpin') in the RNA, while others are predicted to be unstructured. The size of spacers in different CRISPR arrays is typically 32 to 38 bp (range 21 to 72 bp). New spacers can appear rapidly as part of the immune response to phage infection. There are usually fewer than 50 units of the repeat-spacer sequence in a CRISPR array.",
+            "score": 136.47427821159363
+        },
+        {
+            "docid": "1408929_12",
+            "document": "Metagenomics . DNA sequence data from genomic and metagenomic projects are essentially the same, but genomic sequence data offers higher coverage while metagenomic data is usually highly non-redundant. Furthermore, the increased use of second-generation sequencing technologies with short read lengths means that much of future metagenomic data will be error-prone. Taken in combination, these factors make the assembly of metagenomic sequence reads into genomes difficult and unreliable. Misassemblies are caused by the presence of repetitive DNA sequences that make assembly especially difficult because of the difference in the relative abundance of species present in the sample. Misassemblies can also involve the combination of sequences from more than one species into chimeric contigs.",
+            "score": 49.27548599243164
+        },
+        {
+            "docid": "2146034_44",
+            "document": "CRISPR . CRISPRs were analysed from the metagenomes produced for the human microbiome project. Although most were body-site specific, some within a body site are widely shared among individuals. One of these loci originated from streptococcal species and contained ~15,000 spacers, 50% of which were unique. Similar to the targeted studies of the oral cavity, some showed little evolution over time.",
+            "score": 124.19489026069641
+        },
+        {
+            "docid": "38570862_5",
+            "document": "Cas9 . To survive in a variety of challenging, inhospitable habitats that are filled with bacteriophage, bacteria have evolved methods to evade and fend off predatory viruses. This includes the recently appreciated CRISPR system. CRISPR loci are composed of short, palindromic repeats that occur at regular intervals composed of alternate CRISPR repeats and variable CRISPR spacers. These CRISPR loci are usually accompanied by adjacent CRISPR-associated (cas) genes. In 2005, it was discovered by three separate groups that the spacer regions were homologous to foreign DNA elements, including plasmids and viruses. These reports provided the first biological evidence that CRISPRs might function as an immune system.",
+            "score": 161.61002111434937
+        },
+        {
+            "docid": "1408929_6",
+            "document": "Metagenomics . In 2002, Mya Breitbart, Forest Rohwer, and colleagues used environmental shotgun sequencing (see below) to show that 200 liters of seawater contains over 5000 different viruses. Subsequent studies showed that there are more than a thousand viral species in human stool and possibly a million different viruses per kilogram of marine sediment, including many bacteriophages. Essentially all of the viruses in these studies were new species. In 2004, Gene Tyson, Jill Banfield, and colleagues at the University of California, Berkeley and the Joint Genome Institute sequenced DNA extracted from an acid mine drainage system. This effort resulted in the complete, or nearly complete, genomes for a handful of bacteria and archaea that had previously resisted attempts to culture them. Beginning in 2003, Craig Venter, leader of the privately funded parallel of the Human Genome Project, has led the Global Ocean Sampling Expedition (GOS), circumnavigating the globe and collecting metagenomic samples throughout the journey. All of these samples are sequenced using shotgun sequencing, in hopes that new genomes (and therefore new organisms) would be identified. The pilot project, conducted in the Sargasso Sea, found DNA from nearly 2000 different species, including 148 types of bacteria never before seen. Venter has circumnavigated the globe and thoroughly explored the West Coast of the United States, and completed a two-year expedition to explore the Baltic, Mediterranean and Black Seas. Analysis of the metagenomic data collected during this journey revealed two groups of organisms, one composed of taxa adapted to environmental conditions of 'feast or famine', and a second composed of relatively fewer but more abundantly and widely distributed taxa primarily composed of plankton.",
+            "score": 82.89335513114929
+        },
+        {
+            "docid": "2146034_40",
+            "document": "CRISPR . The basic model of CRISPR evolution is newly incorporated spacers driving phages to mutate their genomes to avoid the bacterial immune response, creating diversity in both the phage and host populations. To fight off a phage infection, the sequence of the CRISPR spacer must correspond perfectly to the sequence of the target phage gene. Phages can continue to infect their hosts given point mutations in the spacer. Similar stringency is required in PAM or the bacterial strain remains phage sensitive.",
+            "score": 122.7466037273407
+        },
+        {
+            "docid": "1408929_10",
+            "document": "Metagenomics . The data generated by metagenomics experiments are both enormous and inherently noisy, containing fragmented data representing as many as 10,000 species. The sequencing of the cow rumen metagenome generated 279 gigabases, or 279 billion base pairs of nucleotide sequence data, while the human gut microbiome gene catalog identified 3.3 million genes assembled from 567.7 gigabases of sequence data. Collecting, curating, and extracting useful biological information from datasets of this size represent significant computational challenges for researchers.",
+            "score": 53.05299735069275
+        },
+        {
+            "docid": "16359310_9",
+            "document": "Human Microbiome Project . In 2014, the NIH launched the second phase of the project, known as the Integrative Human Microbiome Project (iHMP). The goal of the iHMP was to produce resources to create a complete characterization of the human microbiome, with a focus on understanding the presence of microbiota in health and disease states. The project mission, as stated by the NIH, was as follows: The iHMP will create integrated longitudinal datasets of biological properties from both the microbiome and host from three different cohort studies of microbiome-associated conditions using multiple \"omics\" technologies.The project encompassed three sub-projects carried out at multiple institutions. Study methods included 16S rRNA gene profiling, whole metagenome shotgun sequencing, whole genome sequencing, metatranscriptomics, metabolomics/lipidomics, and immunoproteomics. The key findings of the iHMP are due for publishing in 2018.",
+            "score": 74.48971366882324
+        },
+        {
+            "docid": "47268817_9",
+            "document": "PICRUSt . Langille et al., 2013 tested the accuracy of this genome prediction step by using previously reported datasets in which the same biological sample was subjected to 16S rRNA gene amplification and shotgun metagenomics. In these cases, the shotgun metagenomic results were taken as a representation of the 'true' community, and the 16S rRNA gene amplicon libraries fed into PICRUSt to attempt to predict those data. Test datasets included human microbiome samples from the Human Microbiome Project, soil samples, diverse mammalian samples, and samples from the Guerrero Negro microbial mats",
+            "score": 84.66443204879761
+        },
+        {
+            "docid": "2146034_36",
+            "document": "CRISPR . The mechanism for distinguishing self from foreign DNA during interference is built into the crRNAs and is therefore likely common to all three systems. Throughout the distinctive maturation process of each major type, all crRNAs contain a spacer sequence and some portion of the repeat at one or both ends. It is the partial repeat sequence that prevents the CRISPR-Cas system from targeting the chromosome as base pairing beyond the spacer sequence signals self and prevents DNA cleavage. RNA-guided CRISPR enzymes are classified as type V restriction enzymes.",
+            "score": 136.97659611701965
+        },
+        {
+            "docid": "53368771_15",
+            "document": "Pharmacomicrobiomics . The primary means of characterization is through 16S rRNA sequencing and shotgun metagenomic sequencing. Body sites that are sampled include skin, oral cavity, gut, vagina and nasal cavity. The HMP website includes sequence, metabolic reconstruction, and community profile data. These datasets have been used to associate certain clinical variables with microbiome composition",
+            "score": 66.34497094154358
+        },
+        {
+            "docid": "1408929_8",
+            "document": "Metagenomics . Recovery of DNA sequences longer than a few thousand base pairs from environmental samples was very difficult until recent advances in molecular biological techniques allowed the construction of libraries in bacterial artificial chromosomes (BACs), which provided better vectors for molecular cloning. Advances in bioinformatics, refinements of DNA amplification, and the proliferation of computational power have greatly aided the analysis of DNA sequences recovered from environmental samples, allowing the adaptation of shotgun sequencing to metagenomic samples (known also as whole metagenome shotgun or WMGS sequencing). The approach, used to sequence many cultured microorganisms and the human genome, randomly shears DNA, sequences many short sequences, and reconstructs them into a consensus sequence. Shotgun sequencing reveals genes present in environmental samples. Historically, clone libraries were used to facilitate this sequencing. However, with advances in high throughput sequencing technologies, the cloning step is no longer necessary and greater yields of sequencing data can be obtained without this labour-intensive bottleneck step. Shotgun metagenomics provides information both about which organisms are present and what metabolic processes are possible in the community. Because the collection of DNA from an environment is largely uncontrolled, the most abundant organisms in an environmental sample are most highly represented in the resulting sequence data. To achieve the high coverage needed to fully resolve the genomes of under-represented community members, large samples, often prohibitively so, are needed. On the other hand, the random nature of shotgun sequencing ensures that many of these organisms, which would otherwise go unnoticed using traditional culturing techniques, will be represented by at least some small sequence segments.",
+            "score": 74.96640312671661
+        }
+    ],
+    "r": [
+        {
+            "docid": "2146034_3",
+            "document": "CRISPR . CRISPR is an abbreviation of Clustered Regularly Interspaced Short Palindromic Repeats. The name was minted at a time when the origin and use of the interspacing subsequences were not known. At that time the CRISPRs were described as segments of prokaryotic DNA containing short, repetitive base sequences. In a palindromic repeat, the sequence of nucleotides is the same in both directions. Each repetition is followed by short segments of spacer DNA from previous exposures to foreign DNA (e.g., a virus or plasmid). Small clusters of \"cas\" (CRISPR-associated system) genes are located next to CRISPR sequences. The CRISPR/Cas system is a prokaryotic immune system that confers resistance to foreign genetic elements such as those present within plasmids and phages that provides a form of acquired immunity. RNA harboring the spacer sequence helps Cas (CRISPR-associated) proteins recognize and cut exogenous DNA. Other RNA-guided Cas proteins cut foreign RNA. CRISPRs are found in approximately 50% of sequenced bacterial genomes and nearly 90% of sequenced archaea.",
+            "score": 185.51873779296875
+        },
+        {
+            "docid": "2146034_10",
+            "document": "CRISPR . Experimental work by several groups revealed the basic mechanisms of CRISPR-Cas immunity. In 2007 the first experimental evidence that CRISPR was an adaptive immune system was published. A CRISPR region in \"Streptococcus thermophilus\" acquired spacers from the DNA of an infecting bacteriophage. The researchers manipulated the resistance of \"S. thermophilus\" to phage by adding and deleting spacers whose sequence matched those found in the tested phages. In 2008, Brouns and Van der Oost identified a complex of Cas proteins (called Cascade) that in \"E. coli\" cut the CRISPR RNA precursor within the repeats into mature spacer-containing RNA molecules (crRNA), which remained bound to the protein complex. Moreover, it was found that Cascade, crRNA and a helicase/nuclease (Cas3) were required to provide a bacterial host with immunity against infection by a DNA virus. By designing an anti-virus CRISPR, they demonstrated that two orientations of the crRNA (sense/antisense) provided immunity, indicating that the crRNA guides were targeting dsDNA. That year Marraffini and Sontheimer indeed confirmed that a CRISPR sequence of \"S. epidermidis\" targeted DNA and not RNA to prevent conjugation. This finding was at odds with the proposed RNA-interference-like mechanism of CRISPR-Cas immunity, although a CRISPR-Cas system that targets foreign RNA was later found in \"Pyrococcus furiosus\". A 2010 study showed that CRISPR-Cas cuts both strands of phage and plasmid DNA in \"S. thermophilus\".",
+            "score": 182.9599609375
+        },
+        {
+            "docid": "49539168_7",
+            "document": "No-SCAR (Scarless Cas9 Assisted Recombineering) Genome Editing . A more recent method for genome editing uses CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) sequences and the endonuclease Cas9 (CRISPR-associated protein 9). These components are an integral part of the immune response for some bacteria. and have been repurposed for genome engineering. In this system, sequences matching foreign bacteriophage or plasmid DNA are incorporated as \u201cspacer\u201d sequences into the bacterial genome located between repeating CRISPR loci. Cas endonucleases are able to initiate double strand breaks within these foreign DNAs that are complement to the transcribed CRISPR RNAs (crRNA, or \u201cprotospacers\u201d), thus degrading them. A conserved protospacer-adjacent motif (PAM, sequence 5\u2019-NGG-3\u2019) located immediately downstream of the protospacer in the cellular genome is necessary for Cas9 cleavage. Together, this system allows for adaptive immunity to the dynamic viral genetic material.",
+            "score": 167.43093872070312
+        },
+        {
+            "docid": "36788083_2",
+            "document": "Trans-activating crRNA . In molecular biology, trans-activating crRNA (tracrRNA) is a small \"trans-encoded\" RNA. It was first discovered in the human pathogen \"Streptococcus pyogenes\". In bacteria and archaea; CRISPR/Cas (clustered, regularly interspaced short palindromic repeats/CRISPR-associated proteins) constitute an RNA-mediated defense system which protects against viruses and plasmids. This defensive pathway has three steps. First a copy of the invading nucleic acid is integrated into the CRISPR locus. Next, CRISPR RNAs (crRNAs) are transcribed from this CRISPR locus. The crRNAs are then incorporated into effector complexes, where the crRNA guides the complex to the invading nucleic acid and the Cas proteins degrade this nucleic acid. There are several pathways of CRISPR activation, one of which requires a tracrRNA which plays a role in the maturation of crRNA. TracrRNA is partially complementary to and base pairs with a pre-crRNA forming an RNA duplex. This is cleaved by RNase III, an RNA-specific ribonuclease, to form a crRNA/tracrRNA hybrid. This hybrid acts as a guide for the endonuclease Cas9, which cleaves the invading nucleic acid.",
+            "score": 163.43508911132812
+        },
+        {
+            "docid": "38570862_5",
+            "document": "Cas9 . To survive in a variety of challenging, inhospitable habitats that are filled with bacteriophage, bacteria have evolved methods to evade and fend off predatory viruses. This includes the recently appreciated CRISPR system. CRISPR loci are composed of short, palindromic repeats that occur at regular intervals composed of alternate CRISPR repeats and variable CRISPR spacers. These CRISPR loci are usually accompanied by adjacent CRISPR-associated (cas) genes. In 2005, it was discovered by three separate groups that the spacer regions were homologous to foreign DNA elements, including plasmids and viruses. These reports provided the first biological evidence that CRISPRs might function as an immune system.",
+            "score": 161.6100311279297
+        },
+        {
+            "docid": "2146034_8",
+            "document": "CRISPR . A major addition to the understanding of CRISPR came with Jansen's observation that the prokaryote repeat cluster was accompanied by a set of homologous genes that make up CRISPR-associated systems or \"cas\" genes. Four \"cas\" genes (\"cas\" 1 - 4) were initially recognized. The Cas proteins showed helicase and nuclease motifs, suggesting a role in the dynamic structure of the CRISPR loci. In this publication the acronym CRISPR was coined as the universal name of this pattern. However, the CRISPR function remained enigmatic. In 2005, three independent research groups showed that some CRISPR spacers are derived from phage DNA and extrachromosomal DNA such as plasmids. In effect, the spacers are fragments of DNA gathered from viruses that previously tried to attack the cell. The source of the spacers was a sign that the CRISPR/\"cas\" system could have a role in adaptive immunity in bacteria. All three studies proposing this idea were initially rejected by high-profile journals, but eventually appeared in other journals.",
+            "score": 158.36541748046875
+        },
+        {
+            "docid": "446223_8",
+            "document": "Gene knockdown . A different means of silencing exogenous DNA that has been discovered in prokaryotes is a mechanism involving loci called 'Clustered Regularly Interspaced Short Palindromic Repeats', or CRISPRs. Proteins called 'CRISPR-associated genes' (cas genes) encode cellular machinery that cuts exogenous DNA into small fragments and inserts them into a CRISPR repeat locus. When this CRISPR region of DNA is expressed by the cell, the small RNAs produced from the exogenous DNA inserts serve as a template sequence that other Cas proteins use to silence this same exogenous sequence. The transcripts of the short exogenous sequences are used as a guide to silence these foreign DNA when they are present in the cell. This serves as a kind of acquired immunity, and this process is like a prokaryotic RNA interference mechanism. The CRISPR repeats are conserved amongst many species and have been demonstrated to be usable in human cells, bacteria, \"C. elegans\", zebrafish, and other organisms for effective genome manipulation. The use of CRISPRs as a versatile research tool can be illustrated by many studies making use of it to generate organisms with genome alterations.",
+            "score": 145.8347625732422
+        },
+        {
+            "docid": "2146034_9",
+            "document": "CRISPR . The first publication proposing a role of CRISPR-Cas in microbial immunity, by the researchers at the University of Alicante, predicted a role for the RNA transcript of spacers on target recognition in a mechanism that could be analogous to the RNA interference system used by eukaryotic cells. Koonin and colleagues extended this RNA interference hypothesis by proposing mechanisms of action for the different CRISPR-Cas subtypes according to the predicted function of their proteins.",
+            "score": 142.45809936523438
+        },
+        {
+            "docid": "38570862_2",
+            "document": "Cas9 . Cas9 (CRISPR associated protein 9) is an RNA-guided DNA endonuclease enzyme associated with the CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) adaptive immunity system in \"Streptococcus pyogenes\", among other bacteria. \"S. pyogenes\" utilizes Cas9 to memorize and later interrogate and cleave foreign DNA, such as invading bacteriophage DNA or plasmid DNA. Cas9 performs this interrogation by unwinding foreign DNA and checking for sites complementary to the 20 basepair spacer region of the guide RNA. If the DNA substrate is complementary to the guide RNA, Cas9 cleaves the invading DNA. In this sense, the CRISPR-Cas9 mechanism has a number of parallels with the RNA interference (RNAi) mechanism in eukaryotes.",
+            "score": 142.07769775390625
+        },
+        {
+            "docid": "2146034_21",
+            "document": "CRISPR . When a microbe is invaded by a virus, the first stage of the immune response is to capture viral DNA and insert it into a CRISPR locus in the form of a spacer. Cas1 and Cas2 are found in both types of CRISPR-Cas immune systems, which indicates that they are involved in spacer acquisition. Mutation studies confirmed this hypothesis, showing that removal of cas1 or cas2 stopped spacer acquisition, without affecting CRISPR immune response.",
+            "score": 141.1803436279297
+        },
+        {
+            "docid": "18878850_11",
+            "document": "Synechocystis . The CRISPR-Cas (Clustered Regularly Interspaced Short Palindrome Repeats \u2013 CRISPR associated proteins) system provides adaptive immunity in archaea and bacteria. \"Synechocystis\" sp. PCC6803 contains three different CRISPR-Cas systems: type I-D, and two versions of type III. All three CRISPR-Cas systems are localize on the pSYSA plasmid. All cyanobacteria are lacking the type II system, which has been widely adapted for genetic engineering purposes across many species.",
+            "score": 140.67738342285156
+        },
+        {
+            "docid": "34930586_32",
+            "document": "Genome editing . CRISPRs (Clustered Regularly Interspaced Short Palindromic Repeats) are genetic elements that bacteria use as a kind of acquired immunity to protect against viruses. They consist of short sequences that originate from viral genomes and have been incorporated into the bacterial genome. Cas (CRISPR associated proteins) process these sequences and cut matching viral DNA sequences. By introducing plasmids containing Cas genes and specifically constructed CRISPRs into eukaryotic cells, the eukaryotic genome can be cut at any desired position. Several companies, including Cellectis and Editas, have been working to monetize the CRISPR method while developing gene-specific therapies.",
+            "score": 139.42227172851562
+        },
+        {
+            "docid": "43732972_3",
+            "document": "Protospacer adjacent motif . CRISPR loci in a bacterium contain \"spacers\" (viral DNA inserted into a CRISPR locus) that in type II adaptive immune systems were created from invading viral or plasmid DNA (called \"protospacers\"). On subsequent invasion, Cas9 nuclease attaches to tracrRNA:crRNA which guides Cas9 to the invading protospacer sequence. But Cas9 will not cleave the protospacer sequence unless there is an adjacent PAM sequence. The spacer in the bacterial CRISPR loci will not contain a PAM sequence, and will thus not be cut by the nuclease. But the protospacer in the invading virus or plasmid will contain the PAM sequence, and will thus be cleaved by the Cas9 nuclease. For editing genes, guideRNAs (gRNAs) are synthesized to perform the function of the tracrRNA:crRNA complex in recognizing gene sequences having a PAM sequence at the 3'-end.",
+            "score": 137.87693786621094
+        },
+        {
+            "docid": "2146034_78",
+            "document": "CRISPR . CRISPR/Cas-based \"RNA-guided nucleases\" can be used to target virulence factors, genes encoding antibiotic resistance and other medically relevant sequences of interest. This technology thus represents a novel form of antimicrobial therapy and a strategy by which to manipulate bacterial populations. Recent studies suggested a correlation between the interfering of the CRISPR/Cas locus and acquisition of antibiotic resistance This system provides protection of bacteria against invading foreign DNA, such as transposons, bacteriophages and plasmids. This system was shown to be a strong selective pressure for the acquisition of antibiotic resistance and virulence factor in bacterial pathogens. Some of the affected genes are tied to human diseases, including those involved in muscle differentiation, cancer, inflammation and fetal hemoglobin.",
+            "score": 137.45755004882812
+        },
+        {
+            "docid": "2146034_36",
+            "document": "CRISPR . The mechanism for distinguishing self from foreign DNA during interference is built into the crRNAs and is therefore likely common to all three systems. Throughout the distinctive maturation process of each major type, all crRNAs contain a spacer sequence and some portion of the repeat at one or both ends. It is the partial repeat sequence that prevents the CRISPR-Cas system from targeting the chromosome as base pairing beyond the spacer sequence signals self and prevents DNA cleavage. RNA-guided CRISPR enzymes are classified as type V restriction enzymes.",
+            "score": 136.97659301757812
+        },
+        {
+            "docid": "2146034_17",
+            "document": "CRISPR . The CRISPR array comprises an AT-rich leader sequence followed by short repeats that are separated by unique spacers. CRISPR repeats typically range in size from 28 to 37 base pairs (bps), though there can be as few as 23 bp and as many as 55 bp. Some show dyad symmetry, implying the formation of a secondary structure such as a stem-loop ('hairpin') in the RNA, while others are predicted to be unstructured. The size of spacers in different CRISPR arrays is typically 32 to 38 bp (range 21 to 72 bp). New spacers can appear rapidly as part of the immune response to phage infection. There are usually fewer than 50 units of the repeat-spacer sequence in a CRISPR array.",
+            "score": 136.4742889404297
+        },
+        {
+            "docid": "2146034_29",
+            "document": "CRISPR . CRISPR-RNA (crRNA), which later guides the Cas nuclease to the target during the interference step, must be generated from the CRISPR sequence. The crRNA is initially transcribed as part of a single long transcript encompassing much of the CRISPR array. This transcript is then cleaved by Cas proteins to form crRNAs. The mechanism to produce crRNAs differs among CRISPR/Cas systems. In type I-E and type I-F systems, the proteins Cas6e and Cas6f respectively, recognise stem-loops created by the pairing of identical repeats that flank the crRNA. These Cas proteins cleave the longer transcript at the edge of the paired region, leaving a single crRNA along with a small remnant of the paired repeat region.",
+            "score": 135.66775512695312
+        },
+        {
+            "docid": "2146034_24",
+            "document": "CRISPR . Bioinformatic analysis of regions of phage genomes that were excised as spacers (termed protospacers) revealed that they were not randomly selected but instead were found adjacent to short (3 \u2013 5 bp) DNA sequences termed protospacer adjacent motifs (PAM). Analysis of CRISPR-Cas systems showed PAMs to be important for type I and type II, but not type III systems during acquisition. In type I and type II systems, protospacers are excised at positions adjacent to a PAM sequence, with the other end of the spacer cut using a ruler mechanism, thus maintaining the regularity of the spacer size in the CRISPR array. The conservation of the PAM sequence differs between CRISPR-Cas systems and appears to be evolutionarily linked to Cas1 and the leader sequence.",
+            "score": 134.32887268066406
+        },
+        {
+            "docid": "39597449_7",
+            "document": "Metagenomics: An Alternative Approach to Genomics . The human body is inhabited by trillions of bacteria and other microbes, which have recently been studied in many different habitats (including gut, mouth, skin, and urogenital) by the Human Microbiome Project (HMP). These microbial communities were assayed using high-throughput DNA sequencing. HMP showed that, unlike individual microbial species, many metabolic processes were present among all body habitats with varying frequencies. Microbial communities of 649 metagenomes drawn from seven primary body sites on 102 individuals were studied as part of the human microbiome project. The metagenomic analysis revealed variations in niche specific abundance among 168 functional modules and 196 metabolic pathways within the microbiome. These included glycosaminoglycan degradation in the gut, as well as phosphate and amino acid transport linked to host phenotype (vaginal pH) in the posterior fornix. The HMP has brought to light the utility of metagenomics in diagnostics and evidence-based medicine. Thus metagenomics is a powerful tool to address many of the pressing issues in the field of Personalized medicine.",
+            "score": 133.7606201171875
+        },
+        {
+            "docid": "38570862_10",
+            "document": "Cas9 . Stage 3: CRISPR interference. crRNA with a spacer that has strong complementarity to the incoming foreign DNA begins a cleavage event (depicted with scissors), which requires Cas proteins. DNA cleavage interferes with viral replication and provides immunity to the host. The interference stage can be functionally and temporarily distinct from CRISPR acquisition and expression (depicted by white line dividing the cell).",
+            "score": 131.6527862548828
+        },
+        {
+            "docid": "38570862_8",
+            "document": "Cas9 . Stage 1: CRISPR spacer integration. Protospacers and protospacer-associated motifs (shown in red) are acquired at the \u201cleader\u201d end of a CRISPR array in the host DNA. The CRISPR array is composed of spacer sequences (shown in colored boxes) flanked by repeats (black diamonds). This process requires Cas1 and Cas2 (and Cas9 in type II), which are encoded in the cas locus, which are usually located near the CRISPR array.",
+            "score": 131.5027618408203
+        },
+        {
+            "docid": "50659905_7",
+            "document": "Virome . Then the CRISPR\u2013Cas prokaryotic immune system which holds a \"library\" of genome fragments from phages (proto-spacers) that have previously infected the host. Spacers from isolate microbial genomes with matches to metagenomic viral contigs (mVCs) were identified for 4.4% of the viral groups and 1.7% of singletons. The hypothesis was explored that viral transfer RNA (tRNA) genes originate from their host.",
+            "score": 129.28611755371094
+        },
+        {
+            "docid": "2146034_19",
+            "document": "CRISPR . CRISPR-Cas systems fall into two classes. Class 1 systems use a complex of multiple Cas proteins to degrade foreign nucleic acids. Class 2 systems use a single large Cas protein for the same purpose. Class 1 is divided into types I, III, and IV; class 2 is divided into types II, V, and VI. The 6 system types are divided into 19 subtypes. Each type and most subtypes are characterized by a \"signature gene\" found almost exclusively in the category. Classification is also based on the complement of \"cas\" genes that are present. Most CRISPR-Cas systems have a Cas1 protein. The phylogeny of Cas1 proteins generally agrees with the classification system. Many organisms contain multiple CRISPR-Cas systems suggesting that they are compatible and may share components. The sporadic distribution of the CRISPR/Cas subtypes suggests that the CRISPR/Cas system is subject to horizontal gene transfer during microbial evolution.",
+            "score": 127.0232162475586
+        },
+        {
+            "docid": "41992525_4",
+            "document": "CRISPR interference . Many bacteria and most archaea have an adaptive immune system which incorporates CRISPR RNA (crRNA) and CRISPR-associated (cas) genes.",
+            "score": 125.58588409423828
+        },
+        {
+            "docid": "2146034_44",
+            "document": "CRISPR . CRISPRs were analysed from the metagenomes produced for the human microbiome project. Although most were body-site specific, some within a body site are widely shared among individuals. One of these loci originated from streptococcal species and contained ~15,000 spacers, 50% of which were unique. Similar to the targeted studies of the oral cavity, some showed little evolution over time.",
+            "score": 124.19489288330078
+        },
+        {
+            "docid": "47277243_2",
+            "document": "Cas1 . CRISPR-associated protein 1 (cas1) is one of the two universally conserved proteins found in the CRISPR prokaryotic immune defense system. Cas1 is a metal-dependent DNA-specific endonuclease that produces double-stranded DNA fragments. Cas1 forms a stable complex with the other universally conserved CRISPR-associated protein, cas2, which is essential to spacer acquisition for CRISPR systems.",
+            "score": 123.99740600585938
+        },
+        {
+            "docid": "48343282_2",
+            "document": "CRISPR/Cpf1 . Clustered Regularly Interspaced Short Palindromic Repeats from Prevotella and Francisella 1 or CRISPR/Cpf1 is a DNA-editing technology analogous to the CRISPR/Cas9 system. Cpf1 is an RNA-guided endonuclease of a class II CRISPR/Cas system. This acquired immune mechanism is found in Prevotella and Francisella bacteria. It prevents genetic damage from viruses. Cpf1 genes are associated with the CRISPR locus, coding for an endonuclease that use a guide RNA to find and cleave viral DNA. Cpf1 is a smaller and simpler endonuclease than Cas9, overcoming some of the CRISPR/Cas9 system limitations. CRISPR/Cpf1 could have multiple applications, including treatment of genetic illnesses and degenerative conditions.",
+            "score": 123.61997985839844
+        },
+        {
+            "docid": "2146034_49",
+            "document": "CRISPR . The alternative is to extract and reconstruct CRISPR arrays from shotgun metagenomic data. This is computationally more difficult, particularly with second generation sequencing technologies (e.g. 454, Illumina), as the short read lengths prevent more than two or three repeat units appearing in a single read. CRISPR identification in raw reads has been achieved using purely \"de novo\" identification or by using direct repeat sequences in partially assembled CRISPR arrays from contigs (overlapping DNA segments that together represent a consensus region of DNA) and direct repeat sequences from published genomes as a hook for identifying direct repeats in individual reads.",
+            "score": 123.29224395751953
+        },
+        {
+            "docid": "2146034_40",
+            "document": "CRISPR . The basic model of CRISPR evolution is newly incorporated spacers driving phages to mutate their genomes to avoid the bacterial immune response, creating diversity in both the phage and host populations. To fight off a phage infection, the sequence of the CRISPR spacer must correspond perfectly to the sequence of the target phage gene. Phages can continue to infect their hosts given point mutations in the spacer. Similar stringency is required in PAM or the bacterial strain remains phage sensitive.",
+            "score": 122.7466049194336
+        },
+        {
+            "docid": "32150862_11",
+            "document": "Bacterial DNA binding protein . IHF was discovered as a necessary co-factor for recombination of \u03bb phage in to \"E.coli.\" In 2016 it was discovered that IHF also plays a key role in CRISPR type I and type II systems. It has a major role in allowing the Cas1-Cas2 complex to integrate new spacers into the CRISPR sequence. The bending of the DNA by IHF is thought to alter spacing in the DNA major and minor grooves, allowing the Cas1-Cas2 complex to make contact with the DNA bases. This is a key function in the CRISPR system as it ensures that new spacers area always added at the beginning of the CRISPE sequence next to the leader sequence. This directing of integration by IHF ensures that spacers are added chronologically, allowing better protection against the most recent viral infection.",
+            "score": 122.12073516845703
+        },
+        {
+            "docid": "43732972_2",
+            "document": "Protospacer adjacent motif . Protospacer adjacent motif (PAM) is a 2-6 base pair DNA sequence immediately following the DNA sequence targeted by the Cas9 nuclease in the CRISPR bacterial adaptive immune system. PAM is a component of the invading virus or plasmid, but is not a component of the bacterial CRISPR locus. Cas9 will not successfully bind to or cleave the target DNA sequence if it is not followed by the PAM sequence. PAM is an essential targeting component (not found in bacterial genome) which distinguishes bacterial self from non-self DNA, thereby preventing the CRISPR locus from being targeted and destroyed by nuclease.",
+            "score": 120.61112976074219
+        },
+        {
+            "docid": "2146034_23",
+            "document": "CRISPR . In the I-E system of \"E. coli\" Cas1 and Cas2 form a complex where a Cas2 dimer bridges two Cas1 dimers. In this complex Cas2 performs a non-enzymatic scaffolding role, binding double-stranded fragments of invading DNA, while Cas1 binds the single-stranded flanks of the DNA and catalyses their integration into CRISPR arrays. New spacers are usually added at the beginning of the CRISPR next to the leader sequence creating a chronological record of viral infections. In \"E. Coli\" a histone like protein called integration host factor (IHF), which binds to the leader sequence, is responsible for the accuracy of this integration.",
+            "score": 119.44390106201172
+        }
+    ]
+}

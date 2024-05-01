@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "11445385_6",
+            "document": "Iron-responsive element-binding protein . Cells have advanced mechanisms for sensing their own need for iron. In human cells, the best-characterized iron-sensing mechanism is the result of post-transcriptional regulation of mRNA (the chemical instructions derived from DNA genes to make proteins). Sequences of mRNA called iron-responsive elements (IREs) are contained within the mRNA sequences that code for transferrin receptors and for ferritin. Iron-responsive element-binding protein (IRE-BP) binds to these mRNA sequences. On its own, the IRE-BP binds to the IREs of ferritin and transferrin receptor mRNA. But, when iron binds to the IRE-BP, the IRE-BP changes shape with the result that the IRE-BPs can no longer bind the ferritin mRNA. This liberates the mRNA to direct the cell to make more ferritin. In other words, when there is high iron in the cell, the iron itself causes the cell to produce more iron storage molecules. (The IRE-BP is an aconitase; for a schematic drawing of the shape change, see here).",
+            "score": 126.91243433952332
+        },
+        {
+            "docid": "1602117_13",
+            "document": "Friedreich's ataxia . Low frataxin levels lead to insufficient biosynthesis of iron\u2013sulfur clusters that are required for mitochondrial electron transport and assembly of functional aconitase and iron dysmetabolism of the entire cell. In normal individuals, the FXN gene encodes frataxin, a mitochondrial matrix protein. This globular protein consists of two \u03b1 helices and seven \u03b2 strands and is highly conserved, occurring in all eukaryotes and some prokaryotes. Frataxin has a variety of known functions. Frataxin assists iron-sulfur protein synthesis in the electron transport chain to ultimately generate adenosine triphosphate (ATP), the energy molecule necessary to carry out metabolic functions in cells. Frataxin also regulates iron transfer in the mitochondria for providing a proper amount of reactive oxygen species (ROS) to maintain normal processes. Without frataxin, the energy in the mitochondria falls, and excess iron causes extra ROS to be created, leading to further cell damage.",
+            "score": 128.72448551654816
+        },
+        {
+            "docid": "3335116_24",
+            "document": "Human iron metabolism . In the cytoplasm, ferrous iron is found in a soluble, chelatable state which constitutes the labile iron pool (~0.001 mM). In this pool, iron is thought to be bound to low-mass compounds such as peptides, carboxylates and phosphates, although some might be in a free, hydrated form (aqua ions). Alternatively, iron ions might be bound to specialized proteins known as metallochaperones. Specifically, poly-r(C)-binding proteins (PCBPs) appear to mediate transfer of free iron to ferritin (for storage) and non-heme iron enzymes (for use in catalysis). The labile iron pool is potentially toxic due to iron's ability to generate reactive oxygen species. Iron from this pool can be taken up by mitochondria via mitoferrin to synthesize Fe-S clusters and heme groups.",
+            "score": 121.32624733448029
+        },
+        {
+            "docid": "46715739_3",
+            "document": "ACO1 . The protein encoded by this gene is a bifunctional, cytosolic protein that functions as an essential enzyme in the TCA cycle and interacts with mRNA to control the levels of iron inside cells. When cellular iron levels are high, this protein binds to a 4Fe-4S cluster and functions as an aconitase. Aconitases are iron-sulfur proteins that function to catalyze the conversion of citrate to isocitrate. When cellular iron levels are low, the protein binds to iron-responsive elements (IREs), which are stem-loop structures found in the 5' UTR of ferritin mRNA, and in the 3' UTR of transferrin receptor mRNA. When the protein binds to IRE, it results in repression of translation of ferritin mRNA, and inhibition of degradation of the otherwise rapidly degraded transferrin receptor mRNA. The encoded protein has been identified as a moonlighting protein based on its ability to perform mechanistically distinct functions. Alternative splicing results in multiple transcript variants.",
+            "score": 146.43789541721344
+        },
+        {
+            "docid": "1948728_5",
+            "document": "Aconitase . The iron-responsive element-binding protein (IRE-BP) and 3-isopropylmalate dehydratase (\u03b1-isopropylmalate isomerase; ), an enzyme catalysing the second step in the biosynthesis of leucine, are known aconitase homologues. Iron regulatory elements (IREs) constitute a family of 28-nucleotide, non-coding, stem-loop structures that regulate iron storage, heme synthesis and iron uptake. They also participate in ribosome binding and control the mRNA turnover (degradation). The specific regulator protein, the IRE-BP, binds to IREs in both 5' and 3' regions, but only to RNA in the apo form, without the Fe-S cluster. Expression of IRE-BP in cultured cells has revealed that the protein functions either as an active aconitase, when cells are iron-replete, or as an active RNA-binding protein, when cells are iron-depleted. Mutant IRE-BPs, in which any or all of the three Cys residues involved in Fe-S formation are replaced by serine, have no aconitase activity, but retain RNA-binding properties.",
+            "score": 134.3039746284485
+        },
+        {
+            "docid": "32753209_2",
+            "document": "Iron-sulfur cluster biosynthesis protein family . In molecular biology, the iron-sulfur cluster biosynthesis protein family of includes proteins involved in biogenesis of Fe-S clusters (iron-sulfur cluster insertion protein, Fe/S biogenesis protein). This family includes IscA, HesB, YadR and YfhF-like proteins. The hesB gene is expressed only under nitrogen fixation conditions, within nitrogen fixing cyanobacteria. IscA, an 11 kDa member of the hesB family of proteins, binds iron and [2Fe-2S] clusters, and participates in the biosynthesis of iron-sulfur proteins. IscA is able to bind at least 2 iron ions per dimer. Other members of this family include various hypothetical proteins that also contain the NifU-like domain suggesting that they too are able to bind iron and are involved in Fe-S cluster biogenesis. The HesB family are found in species as divergent as \"Homo sapiens\" (Human) and \"Haemophilus influenzae\" suggesting that these proteins are involved in basic cellular functions.",
+            "score": 131.59919798374176
+        },
+        {
+            "docid": "105328_10",
+            "document": "Hemerythrin . The hemerythrin/HHE cation-binding domain occurs as a duplicated domain in hemerythrins, myohemerythrins and related proteins. This domain binds iron in hemerythrin, but can bind other metals in related proteins, such as cadmium in the \"Nereis diversicolor\" hemerythrin. It is also found in the NorA protein from \"Cupriavidus necator\", this protein is a regulator of response to nitric oxide, which suggests a different set-up for its metal ligands. A protein from \"Cryptococcus neoformans\" (Filobasidiella neoformans) that contains haemerythrin/HHE cation-binding domains is also involved in nitric oxide response. A \"Staphylococcus aureus\" protein containing this domain, iron-sulfur cluster repair protein ScdA, has been noted to be important when the organism switches to living in environments with low oxygen concentrations; perhaps this protein acts as an oxygen store or scavenger.",
+            "score": 131.40015256404877
+        },
+        {
+            "docid": "1271003_11",
+            "document": "Five prime untranslated region . Iron levels in cells are maintained by translation regulation of many proteins involved in iron storage and metabolism. The 5\u2032 UTR has the ability to form a hairpin loop secondary structure (known as the IRE, Iron response element) that is recognized by iron-regulatory proteins (IRP1 and IRP2). In low levels of iron, the ORF of the target mRNA is blocked as a result of steric hindrance from the binding of IRP1 and IRP2 to the iron-response element. When iron is high, then the two iron-regulatory proteins do not bind as strongly, and allow proteins to be expressed that have a role in iron concentration control. This function has gained some interest after it was revealed that the translation of amyloid precursor protein may be disrupted due to a single-nucleotide polymorphism to the iron response element found in the 5\u2032 UTR of its mRNA, leading to a spontaneous increased risk of Alzheimer's Disease.",
+            "score": 133.57785940170288
+        },
+        {
+            "docid": "2160013_12",
+            "document": "Regulatory enzyme . Feedback inhibition is one of the most important function of proteins. Due to feedback inhibition, a cell is able to know whether the amount of a product is enough for its subsistence or there is a lack of the product (or there is too much product). The cell is able to react to this kind of situation in a mechanical way and solve the problem of the amount of a product. An example of feedback inhibition in human cells is the protein aconitase (an enzyme that catalyses the isomeration of citrate to isocitrate). When the cell needs iron, this enzyme loses the iron molecule and its form changes. When this happens, the aconitase is converted to IRPF1, a translation repressor or mRNA stabilizer that represses the formation of iron-binding proteins and favours formation of proteins that can get iron from the cell's reservations",
+            "score": 116.81894326210022
+        },
+        {
+            "docid": "36929643_8",
+            "document": "Ruthenium anti-cancer drugs . As ruthenium is in the same group as iron, they share many characteristics. Electronically, ruthenium molecules readily bond with nitrogen and sulphur donor molecules that are abundantly found in many proteins within the body. For this reason ruthenium complexes are able to take advantage of the body\u2019s ability to efficiently transport and uptake of iron. The ruthenium complexes can be transported by binding to serum albumin and transferrin proteins. These proteins allow for the efficient uptake of soluble iron for metabolic purposes. As rapidly dividing cells have an increased demand for iron, the levels of transferrin receptors found on these cancerous cells are greatly increased. The receptor increase on cancerous cells has been document as two to twelve times that of healthy cells. This greatly increases the selectivity of the drug as the majority of the dose is sequestered in cancerous tissues, bypassing most healthy cells. This effect contributes to the lower toxicity that is associated to the ruthenium drugs in comparison to platinum. It is important to note that the ruthenium is not necessarily replacing the iron within these proteins, but that they are transported concurrently. It has been documented that transferrin-mediated ruthenium uptake is more efficient when the proteins are also saturated with iron.",
+            "score": 131.85820496082306
+        },
+        {
+            "docid": "24373367_13",
+            "document": "Neuroferritinopathy . The protein ferritin functions to sequester and release iron, acting as an iron buffering system in cells. Iron is essential to brain function in oxygen transport and cellular metabolism for example. However, careful control of iron is important as increased brain iron levels catalyze the formation of free radicals that create oxidative molecules via the Fenton Reaction. These oxidative molecules can cause oxidative brain damage. Iron that is bound to ferritin in nonreactive.",
+            "score": 108.343257188797
+        },
+        {
+            "docid": "1551873_7",
+            "document": "ATP-binding cassette transporter . Bacterial ABC transporters are essential in cell viability, virulence, and pathogenicity. Iron ABC uptake systems, for example, are important effectors of virulence. Pathogens use siderophores, such as Enterobactin, to scavenge iron that is in complex with high-affinity iron-binding proteins or erythrocytes. These are high-affinity iron-chelating molecules that are secreted by bacteria and reabsorb iron into iron-siderophore complexes. The chvE-gguAB gene in \"Agrobacterium tumefaciens\" encodes glucose and galactose importers that are also associated with virulence. Transporters are extremely vital in cell survival such that they function as protein systems that counteract any undesirable change occurring in the cell. For instance, a potential lethal increase in osmotic strength is counterbalanced by activation of osmosensing ABC transporters that mediate uptake of solutes. Other than functioning in transport, some bacterial ABC proteins are also involved in the regulation of several physiological processes.",
+            "score": 127.24473977088928
+        },
+        {
+            "docid": "470107_9",
+            "document": "Ferritin . Free iron is toxic to cells as it acts as a catalyst in the formation of free radicals from reactive oxygen species via the Fenton reaction. Hence vertebrates evolve an elaborate set of protective mechanisms to bind iron in various tissue compartments. Within cells, iron is stored in a protein complex as ferritin or hemosiderin. Apoferritin binds to free ferrous iron and stores it in the ferric state. As ferritin accumulates within cells of the reticuloendothelial system, protein aggregates are formed as hemosiderin. Iron in ferritin or hemosiderin can be extracted for release by the RE cells although hemosiderin is less readily available. Under steady state conditions, the serum ferritin level correlates with total body iron stores; thus, the serum ferritin FR5Rl is the most convenient laboratory test to estimate iron stores.",
+            "score": 114.99505114555359
+        },
+        {
+            "docid": "52234631_7",
+            "document": "Hemochromatosis type 4 . In normal iron regulation, iron is absorbed in the intestine, and ferroportin transports iron from the cells of the intestinal lining into the bloodstream. Iron in the bloodstream is then bound by transferrin, which carries the iron to target cells. Iron is stored in cells and blood serum in a protein called ferritin. Reticuloendothelial macrophages, which can phagocytose red blood cells, are important in the iron recycling process. Ferroportin is upregulated in the reticuloendothelial macrophages after phagocytosis occurs so that iron from the degraded red blood cells can be released into the bloodstream and transported to other types of cells as needed. Hepcidin, a protein synthesized in the liver in response to iron or inflammation, is a regulator of ferroportin expression. When hepcidin binds ferroportin, ferroportin is phosphorylated, endocytosed, tagged with ubiquitin, and degraded. More than 39 mutations to the SLC40A1 gene have been identified in patients with type 4 hemochromatosis. The misregulation of ferroportin in type 4 hemochromatosis can involve a failure of ferroportin to be properly expressed at the cell membrane, or it can involve a failure of ferroportin to respond to negative regulation by hepcidin.",
+            "score": 115.78494262695312
+        },
+        {
+            "docid": "3335116_9",
+            "document": "Human iron metabolism . To prevent that kind of damage, all life forms that use iron bind the iron atoms to proteins. This binding allows cells to benefit from iron while also limiting its ability to do harm. Typical intracellular labile iron concentrations in bacteria are 10-20 micromolar, though they can be 10-fold higher in anaerobic environment, where free radicals and reactive oxygen species are scarcer. In mammalian cells, intracellular labile iron concentrations are typically smaller than 1 micromolar, less than 5 percent of total cellular iron.",
+            "score": 114.48610830307007
+        },
+        {
+            "docid": "14734_88",
+            "document": "Iron . Iron is required for life. The iron\u2013sulfur clusters are pervasive and include nitrogenase, the enzymes responsible for biological nitrogen fixation. Iron-containing proteins participate in transport, storage and used of oxygen. Iron proteins are involved in electron transfer. Examples of iron-containing proteins in higher organisms include hemoglobin, cytochrome (see high-valent iron), and catalase. The average adult human contains about 0.005% body weight of iron, or about four grams, of which three quarters is in hemoglobin \u2013 a level that remains constant despite only about one milligram of iron being absorbed each day, because the human body recycles its hemoglobin for the iron content.",
+            "score": 140.7129054069519
+        },
+        {
+            "docid": "92524_4",
+            "document": "Hemeprotein . Hemeproteins probably evolved to incorporate the iron atom contained within the protoporphyrin IX ring of heme into proteins. As it makes hemeproteins responsive to molecules that can bind divalent iron, this strategy has been maintained throughout evolution as it plays crucial physiological functions. Oxygen (O), nitric oxide (NO), carbon monoxide (CO) and hydrogen sulfide (HS) bind to the iron atom in heme proteins. Once bound to the prosthetic heme groups, these molecules can modulate the activity/function of those hemeproteins, affording signal transduction. Therefore, when produced in biologic systems (cells), these gaseous molecules are referred to as gasotransmitters. Because of their diverse biological functions and widespread abundance, hemeproteins are among the most studied biomolecules. Data on heme protein structure and function has been aggregated into The Heme Protein Database (HPD), a secondary database to the Protein Data Bank.",
+            "score": 119.25329947471619
+        },
+        {
+            "docid": "45079586_3",
+            "document": "Siderocalin . Organisms require iron for a variety of chemical reactions. Although iron can be found throughout the biosphere, free ferric iron forms insoluble hydroxides at physiological pH, limiting its accessibility in aerobic conditions to living organisms. In order to preserve homeostasis, organisms have evolved specific protein networks, with proteins and receptors translated in accordance with intracellular iron levels.  Export and import are supplemented by a cycling process between the ferrous Fe(II) available in the reducing environment of the cell, and ferric Fe(III) found primarily under aerobic conditions.  The iron acquisition mechanisms of pathogenic bacteria demonstrate the role of iron as a key component at the interface between pathogens and hosts.",
+            "score": 118.54156160354614
+        },
+        {
+            "docid": "32864376_2",
+            "document": "Ferric uptake regulator family . In molecular biology, the ferric uptake regulator family is a family of bacterial proteins involved in regulating metal ion uptake and in metal homeostasis. The family is named for its founding member, known as the ferric uptake regulator or ferric uptake regulatory protein (Fur). Fur proteins are responsible for controlling the intracellular concentration of iron in many bacteria. Iron is essential for most organisms, but its concentration must be carefully managed over a wide range of environmental conditions; high concentrations can be toxic due to the formation of reactive oxygen species.",
+            "score": 108.43102812767029
+        },
+        {
+            "docid": "1939754_2",
+            "document": "Iron\u2013sulfur protein . Iron\u2013sulfur proteins are proteins characterized by the presence of iron\u2013sulfur clusters containing sulfide-linked di-, tri-, and tetrairon centers in variable oxidation states. Iron\u2013sulfur clusters are found in a variety of metalloproteins, such as the ferredoxins, as well as NADH dehydrogenase, hydrogenases, coenzyme Q \u2013 cytochrome c reductase, succinate \u2013 coenzyme Q reductase and nitrogenase. Iron\u2013sulfur clusters are best known for their role in the oxidation-reduction reactions of mitochondrial electron transport. Both Complex I and Complex II of oxidative phosphorylation have multiple Fe\u2013S clusters. They have many other functions including catalysis as illustrated by aconitase, generation of radicals as illustrated by SAM-dependent enzymes, and as sulfur donors in the biosynthesis of lipoic acid and biotin. Additionally, some Fe\u2013S proteins regulate gene expression. Fe\u2013S proteins are vulnerable to attack by biogenic nitric oxide, forming dinitrosyl iron complexes. In most Fe\u2013S proteins, the terminal ligands on Fe are thiolate, but exceptions exist.",
+            "score": 128.04773545265198
+        },
+        {
+            "docid": "22773_13",
+            "document": "Oxidative phosphorylation . Within proteins, electrons are transferred between flavin cofactors, iron\u2013sulfur clusters, and cytochromes. There are several types of iron\u2013sulfur cluster. The simplest kind found in the electron transfer chain consists of two iron atoms joined by two atoms of inorganic sulfur; these are called [2Fe\u20132S] clusters. The second kind, called [4Fe\u20134S], contains a cube of four iron atoms and four sulfur atoms. Each iron atom in these clusters is coordinated by an additional amino acid, usually by the sulfur atom of cysteine. Metal ion cofactors undergo redox reactions without binding or releasing protons, so in the electron transport chain they serve solely to transport electrons through proteins. Electrons move quite long distances through proteins by hopping along chains of these cofactors. This occurs by quantum tunnelling, which is rapid over distances of less than 1.4 m.",
+            "score": 143.3291299343109
+        },
+        {
+            "docid": "14734_105",
+            "document": "Iron . Overdoses of ingested iron can cause excessive levels of free iron in the blood. High blood levels of free ferrous iron react with peroxides to produce highly reactive free radicals that can damage DNA, proteins, lipids, and other cellular components. Iron toxicity occurs when the cell contains free iron, which generally occurs when iron levels exceed the availability of transferrin to bind the iron. Damage to the cells of the gastrointestinal tract can also prevent them from regulating iron absorption, leading to further increases in blood levels. Iron typically damages cells in the heart, liver and elsewhere, causing adverse effects that include coma, metabolic acidosis, shock, liver failure, coagulopathy, adult respiratory distress syndrome, long-term organ damage, and even death. Humans experience iron toxicity when the iron exceeds 20\u00a0milligrams for every kilogram of body mass; 60\u00a0milligrams per kilogram is considered a lethal dose. Overconsumption of iron, often the result of children eating large quantities of ferrous sulfate tablets intended for adult consumption, is one of the most common toxicological causes of death in children under six. The Dietary Reference Intake (DRI) sets the Tolerable Upper Intake Level (UL) for adults at 45\u00a0mg/day. For children under fourteen years old the UL is 40\u00a0mg/day.",
+            "score": 126.4229165315628
+        },
+        {
+            "docid": "1939754_9",
+            "document": "Iron\u2013sulfur protein . Proteins are also known to contain [FeS] centres, which feature one iron less than the more common [FeS] cores. Three sulfide ions bridge two iron ions each, while the fourth sulfide bridges three iron ions. Their formal oxidation states may vary from [FeS] (all-Fe form) to [FeS] (all-Fe form). In a number of iron\u2013sulfur proteins, the [FeS] cluster can be reversibly converted by oxidation and loss of one iron ion to a [FeS] cluster. E.g., the inactive form of aconitase possesses an [FeS] and is activated by addition of Fe and reductant.",
+            "score": 138.5470106601715
+        },
+        {
+            "docid": "11421135_3",
+            "document": "Iron response element . The two leading theories describe how iron probably interacts to impact posttranslational control of transcription. The classical theory suggests that IRPs, in the absence of iron, bind avidly to the mRNA IRE. When Iron is present, it interacts with the protein to cause it to release the mRNA. For example, In high iron conditions in humans, IRP1 binds with an iron-sulphur complex [4Fe-4S] and adopts an aconitase conformation unsuitable for IRE binding. In contrast, IRP2 is degraded in high iron conditions. There is variation in affinity between different IREs and different IRPs. Some IREs can also be affected by alternative gene splicing. In the second theory, There are two proteins competing for the IRE binding site\u2014both IRP and eukaryotic Initiation Factor F4 (eIFF4). In the absence of iron IRP binds about 10 times more avidly than the initiation factor. However, when Iron interacts at the IRE, it causes the mRNA to change its shape, thus favoring the binding of the eIFF4. Several studies have identified non-canonical IREs. It has also been shown that IRP binds to some IREs better than others.",
+            "score": 112.3774619102478
+        },
+        {
+            "docid": "46219227_38",
+            "document": "Evolution of metal ions in biological systems . The prevalence of iron is apparently due to the large availability of Fe(II) in the initial evolution of living organisms, before the rise of photosynthesis and an increase in atmospheric oxygen levels which resulted in the precipitation of iron in the environment as Fe(OH). It has flexible redox properties because such properties are sensitive to ligand coordination, including geometry. Iron can be also used in enzymes due to its Lewis acid properties, for example in nitrile hydratase. Iron is frequently found in mononuclear sites in the reduced Fe(II) form, and functions in dioxygen activation; this function is used as a major mechanism adopted by living organisms to avoid the kinetic barrier hindering the transformation of organic compounds by O. Iron can be taken up selectively as ferredoxins, Fe-O-Fe (hemerythrin and ribonucleotide reductase), Fe (many oxidases), apart from iron porphyrin. Variation in the related proteins with any one of these chemical forms of iron has produced a wide range of enzymes. All of these arrangements are modified to function both in the sense of reactivity and the positioning of the protein in the cell. Iron can have various redox and spin states, and it can be held in many stereochemistries.",
+            "score": 133.51286673545837
+        },
+        {
+            "docid": "3363020_9",
+            "document": "Aceruloplasminemia . Aceruloplasminemia is caused by a mutation (a five-base pair insertion in exon 7) in the CP gene, which provides instructions for making a protein called ceruloplasmin, a protein involved in iron transport and processing. Ceruloplasmin helps move iron from the organs and tissues of the body and prepares it for incorporation into a molecule called transferrin, which transports it to red blood cells to help carry oxygen. The CP gene mutation results in the production of ceruloplasmin protein that is unstable or nonfunctional by altering the open reading frame such that the amino acid ligands in the essential carboxyl terminal region are eliminated. When ceruloplasmin is unavailable, transport of iron out of the body's tissues is impaired. The resulting iron accumulation damages cells in those tissues, leading to neurological dysfunction and other health problems.",
+            "score": 108.34415769577026
+        },
+        {
+            "docid": "11445385_3",
+            "document": "Iron-responsive element-binding protein . ACO1, or IRP1, is a bifunctional protein that functions as an iron-responsive element (IRE)-binding protein involved in the control of iron metabolism by binding mRNA to repress translation or degradation. It functions also as the cytoplasmic isoform of aconitase. Aconitases are iron-sulfur proteins that require a 4Fe-4S cluster for their enzymatic activity, in which they catalyze conversion of citrate to isocitrate. This structure was based on x-ray crystal diffraction. The resolution was 2.80 \u00c5. This protein was harvested from the species \"Oryctolagus cuniculus\", or more commonly known as a rabbit. This protein has a couple conformational changes associated with it to explain the alternative functions as either mRNA regulator or as an enzyme. This informations was obtained from the RCSB protein data bank website.",
+            "score": 121.20991706848145
+        },
+        {
+            "docid": "46376449_2",
+            "document": "Iron-starvation-induced protein A . Iron-starvation-induced protein A also known as IsiA is a photosynthesis-related chlorophyll-containing protein found in cyanobacteria. It belongs to the chlorophyll-a/b-binding family of proteins, and has been shown to have a photoprotection role in preventing oxidative damage via energy dissipation. It was originally identified under Fe-starvation, and thus received the name Iron-Starvation-Induced protein A. However, the protein has more recently been found to respond to a variety of stress conditions such as high irradiance. It can aggregate with carotenoids and form rings around the PSI reaction center complexes to aid in photoprotective energy dissipation.",
+            "score": 98.48150563240051
+        },
+        {
+            "docid": "3335116_3",
+            "document": "Human iron metabolism . Iron is an essential bioelement for most forms of life, from bacteria to mammals. Its importance lies in its ability to mediate electron transfer. In the ferrous state, iron acts as an electron donor, while in the ferric state it acts as an acceptor. Thus, iron plays a vital role in the catalysis of enzymatic reactions that involve electron transfer (reduction and oxidation, redox). Proteins can contain iron as part of different cofactors, such as iron-sulfur clusters (Fe-S) and heme groups, both of which are assembled in mitochondria.",
+            "score": 125.22407126426697
+        },
+        {
+            "docid": "14853095_2",
+            "document": "High potential iron-sulfur protein . High potential iron-sulfur proteins (HIPIP) are a specific class of high-redox potential 4Fe-4S ferredoxins that functions in anaerobic electron transport and which occurs in photosynthetic bacteria and in \"Paracoccus denitrificans\". The HiPIPs are small proteins which show significant variation in their sequences, their sizes (from 63 to 85 amino acids), and in their oxidation- reduction potentials. As shown in the following schematic representation the iron-sulfur cluster is bound by four conserved cysteine residues.",
+            "score": 118.60383176803589
+        },
+        {
+            "docid": "593388_24",
+            "document": "Iron-deficiency anemia . Iron-deficiency anemia is confirmed by tests that include serum ferritin, serum iron level, serum transferrin, and total iron binding capacity (TIBC). A low serum ferritin is most commonly found. However, serum ferritin can be elevated by any type of chronic inflammation and thus is not consistently decreased in iron-deficiency anemia. Serum iron levels may be measured, but serum iron concentration is not as reliable as the measurement of both serum iron and serum iron-binding protein levels (TIBC). The ratio of serum iron to TIBC (called iron saturation or transferrin saturation index or percent) is a value with defined parameters that can help to confirm the diagnosis of iron-deficiency anemia; however, other conditions must also be considered, including other types of anemia.",
+            "score": 104.1873437166214
+        },
+        {
+            "docid": "3335116_18",
+            "document": "Human iron metabolism . Like most mineral nutrients, the majority of the iron absorbed from digested food or supplements is absorbed in the duodenum by enterocytes of the duodenal lining. These cells have special molecules that allow them to move iron into the body. To be absorbed, dietary iron can be absorbed as part of a protein such as heme protein or iron must be in its ferrous Fe form. A ferric reductase enzyme on the enterocytes\u2019 brush border, duodenal cytochrome B (Dcytb), reduces ferric Fe to Fe. A protein called divalent metal transporter 1 (DMT1), which can transport several divalent metals across the plasma membrane, then transports iron across the enterocyte\u2019s cell membrane into the cell.",
+            "score": 115.85108304023743
+        }
+    ],
+    "r": [
+        {
+            "docid": "46715739_3",
+            "document": "ACO1 . The protein encoded by this gene is a bifunctional, cytosolic protein that functions as an essential enzyme in the TCA cycle and interacts with mRNA to control the levels of iron inside cells. When cellular iron levels are high, this protein binds to a 4Fe-4S cluster and functions as an aconitase. Aconitases are iron-sulfur proteins that function to catalyze the conversion of citrate to isocitrate. When cellular iron levels are low, the protein binds to iron-responsive elements (IREs), which are stem-loop structures found in the 5' UTR of ferritin mRNA, and in the 3' UTR of transferrin receptor mRNA. When the protein binds to IRE, it results in repression of translation of ferritin mRNA, and inhibition of degradation of the otherwise rapidly degraded transferrin receptor mRNA. The encoded protein has been identified as a moonlighting protein based on its ability to perform mechanistically distinct functions. Alternative splicing results in multiple transcript variants.",
+            "score": 146.43789672851562
+        },
+        {
+            "docid": "22773_13",
+            "document": "Oxidative phosphorylation . Within proteins, electrons are transferred between flavin cofactors, iron\u2013sulfur clusters, and cytochromes. There are several types of iron\u2013sulfur cluster. The simplest kind found in the electron transfer chain consists of two iron atoms joined by two atoms of inorganic sulfur; these are called [2Fe\u20132S] clusters. The second kind, called [4Fe\u20134S], contains a cube of four iron atoms and four sulfur atoms. Each iron atom in these clusters is coordinated by an additional amino acid, usually by the sulfur atom of cysteine. Metal ion cofactors undergo redox reactions without binding or releasing protons, so in the electron transport chain they serve solely to transport electrons through proteins. Electrons move quite long distances through proteins by hopping along chains of these cofactors. This occurs by quantum tunnelling, which is rapid over distances of less than 1.4 m.",
+            "score": 143.32913208007812
+        },
+        {
+            "docid": "1602117_9",
+            "document": "Friedreich's ataxia . Friedreich's ataxia is an autosomal recessive disorder that occurs when the FXN gene on chromosome 9 contains amplified intronic GAA repeats (an example of Trinucleotide repeat expansion). The FXN gene encodes the protein frataxin. GAA repeat expansion causes frataxin levels to be reduced and long tracts of GAA repeats induce chromosome breaks in (\"in vivo\" yeast studies). Frataxin is an iron-binding protein responsible for forming iron\u2013sulphur clusters. One result of frataxin deficiency is mitochondrial iron overload which can cause damage to many proteins. The exact role of frataxin in normal physiology remains unclear.",
+            "score": 141.63717651367188
+        },
+        {
+            "docid": "14734_88",
+            "document": "Iron . Iron is required for life. The iron\u2013sulfur clusters are pervasive and include nitrogenase, the enzymes responsible for biological nitrogen fixation. Iron-containing proteins participate in transport, storage and used of oxygen. Iron proteins are involved in electron transfer. Examples of iron-containing proteins in higher organisms include hemoglobin, cytochrome (see high-valent iron), and catalase. The average adult human contains about 0.005% body weight of iron, or about four grams, of which three quarters is in hemoglobin \u2013 a level that remains constant despite only about one milligram of iron being absorbed each day, because the human body recycles its hemoglobin for the iron content.",
+            "score": 140.71290588378906
+        },
+        {
+            "docid": "1939754_9",
+            "document": "Iron\u2013sulfur protein . Proteins are also known to contain [FeS] centres, which feature one iron less than the more common [FeS] cores. Three sulfide ions bridge two iron ions each, while the fourth sulfide bridges three iron ions. Their formal oxidation states may vary from [FeS] (all-Fe form) to [FeS] (all-Fe form). In a number of iron\u2013sulfur proteins, the [FeS] cluster can be reversibly converted by oxidation and loss of one iron ion to a [FeS] cluster. E.g., the inactive form of aconitase possesses an [FeS] and is activated by addition of Fe and reductant.",
+            "score": 138.54701232910156
+        },
+        {
+            "docid": "1961054_5",
+            "document": "Hydrogenase . Until 2004, the [Fe]-only hydrogenase was believed to be \"metal-free\". Then, Thauer \"et al.\" showed that the metal-free hydrogenases in fact contain iron atom in its active site. As a result, those enzymes previously classified as \"metal-free\" are now named [Fe]-only hydrogenases. This protein contains only a mononuclear Fe active site and no iron-sulfur clusters, in contrast to the [FeFe] hydrogenases. [NiFe] and [FeFe] hydrogenases have some common features in their structures: Each enzyme has an active site and a few Fe-S clusters that are buried in protein. The active site, which is believed to be the place where catalysis takes place, is also a metallocluster, and each metal is coordinated by carbon monoxide (CO) and cyanide (CN) ligands.",
+            "score": 138.54681396484375
+        },
+        {
+            "docid": "46219227_37",
+            "document": "Evolution of metal ions in biological systems . Iron (Fe) is the most abundant element in the Earth and the fourth most abundant element in the crust, approximately 5 percent by mass. Due to the abundance of iron and its role in biological systems, the transition and mineralogical stages of iron have played a key role in Earth surface systems. It played a larger role in the geological past in marine geochemistry, as evidenced by the deposits of Precambrian iron-rich sediments. The redox transformation of Fe(II) to Fe(III), or vice versa, is vital to a number of biological and element cycling processes. The reduction of Fe(III) is seen to oxidize sulfur (from HS to SO), which is a central process in marine sediments. Many of the first metalloproteins consisted of iron-sulphur complexes formed during photosynthesis. Iron is the main redox metal in biological systems. In proteins, it is found in a variety of sites and cofactors, including, for instance, haem groups, Fe\u2013O\u2013Fe sites, and iron\u2013sulfur clusters.",
+            "score": 138.23068237304688
+        },
+        {
+            "docid": "1948728_5",
+            "document": "Aconitase . The iron-responsive element-binding protein (IRE-BP) and 3-isopropylmalate dehydratase (\u03b1-isopropylmalate isomerase; ), an enzyme catalysing the second step in the biosynthesis of leucine, are known aconitase homologues. Iron regulatory elements (IREs) constitute a family of 28-nucleotide, non-coding, stem-loop structures that regulate iron storage, heme synthesis and iron uptake. They also participate in ribosome binding and control the mRNA turnover (degradation). The specific regulator protein, the IRE-BP, binds to IREs in both 5' and 3' regions, but only to RNA in the apo form, without the Fe-S cluster. Expression of IRE-BP in cultured cells has revealed that the protein functions either as an active aconitase, when cells are iron-replete, or as an active RNA-binding protein, when cells are iron-depleted. Mutant IRE-BPs, in which any or all of the three Cys residues involved in Fe-S formation are replaced by serine, have no aconitase activity, but retain RNA-binding properties.",
+            "score": 134.30397033691406
+        },
+        {
+            "docid": "1271003_11",
+            "document": "Five prime untranslated region . Iron levels in cells are maintained by translation regulation of many proteins involved in iron storage and metabolism. The 5\u2032 UTR has the ability to form a hairpin loop secondary structure (known as the IRE, Iron response element) that is recognized by iron-regulatory proteins (IRP1 and IRP2). In low levels of iron, the ORF of the target mRNA is blocked as a result of steric hindrance from the binding of IRP1 and IRP2 to the iron-response element. When iron is high, then the two iron-regulatory proteins do not bind as strongly, and allow proteins to be expressed that have a role in iron concentration control. This function has gained some interest after it was revealed that the translation of amyloid precursor protein may be disrupted due to a single-nucleotide polymorphism to the iron response element found in the 5\u2032 UTR of its mRNA, leading to a spontaneous increased risk of Alzheimer's Disease.",
+            "score": 133.57786560058594
+        },
+        {
+            "docid": "46219227_38",
+            "document": "Evolution of metal ions in biological systems . The prevalence of iron is apparently due to the large availability of Fe(II) in the initial evolution of living organisms, before the rise of photosynthesis and an increase in atmospheric oxygen levels which resulted in the precipitation of iron in the environment as Fe(OH). It has flexible redox properties because such properties are sensitive to ligand coordination, including geometry. Iron can be also used in enzymes due to its Lewis acid properties, for example in nitrile hydratase. Iron is frequently found in mononuclear sites in the reduced Fe(II) form, and functions in dioxygen activation; this function is used as a major mechanism adopted by living organisms to avoid the kinetic barrier hindering the transformation of organic compounds by O. Iron can be taken up selectively as ferredoxins, Fe-O-Fe (hemerythrin and ribonucleotide reductase), Fe (many oxidases), apart from iron porphyrin. Variation in the related proteins with any one of these chemical forms of iron has produced a wide range of enzymes. All of these arrangements are modified to function both in the sense of reactivity and the positioning of the protein in the cell. Iron can have various redox and spin states, and it can be held in many stereochemistries.",
+            "score": 133.5128631591797
+        },
+        {
+            "docid": "36929643_8",
+            "document": "Ruthenium anti-cancer drugs . As ruthenium is in the same group as iron, they share many characteristics. Electronically, ruthenium molecules readily bond with nitrogen and sulphur donor molecules that are abundantly found in many proteins within the body. For this reason ruthenium complexes are able to take advantage of the body\u2019s ability to efficiently transport and uptake of iron. The ruthenium complexes can be transported by binding to serum albumin and transferrin proteins. These proteins allow for the efficient uptake of soluble iron for metabolic purposes. As rapidly dividing cells have an increased demand for iron, the levels of transferrin receptors found on these cancerous cells are greatly increased. The receptor increase on cancerous cells has been document as two to twelve times that of healthy cells. This greatly increases the selectivity of the drug as the majority of the dose is sequestered in cancerous tissues, bypassing most healthy cells. This effect contributes to the lower toxicity that is associated to the ruthenium drugs in comparison to platinum. It is important to note that the ruthenium is not necessarily replacing the iron within these proteins, but that they are transported concurrently. It has been documented that transferrin-mediated ruthenium uptake is more efficient when the proteins are also saturated with iron.",
+            "score": 131.8582000732422
+        },
+        {
+            "docid": "32753209_2",
+            "document": "Iron-sulfur cluster biosynthesis protein family . In molecular biology, the iron-sulfur cluster biosynthesis protein family of includes proteins involved in biogenesis of Fe-S clusters (iron-sulfur cluster insertion protein, Fe/S biogenesis protein). This family includes IscA, HesB, YadR and YfhF-like proteins. The hesB gene is expressed only under nitrogen fixation conditions, within nitrogen fixing cyanobacteria. IscA, an 11 kDa member of the hesB family of proteins, binds iron and [2Fe-2S] clusters, and participates in the biosynthesis of iron-sulfur proteins. IscA is able to bind at least 2 iron ions per dimer. Other members of this family include various hypothetical proteins that also contain the NifU-like domain suggesting that they too are able to bind iron and are involved in Fe-S cluster biogenesis. The HesB family are found in species as divergent as \"Homo sapiens\" (Human) and \"Haemophilus influenzae\" suggesting that these proteins are involved in basic cellular functions.",
+            "score": 131.5991973876953
+        },
+        {
+            "docid": "105328_10",
+            "document": "Hemerythrin . The hemerythrin/HHE cation-binding domain occurs as a duplicated domain in hemerythrins, myohemerythrins and related proteins. This domain binds iron in hemerythrin, but can bind other metals in related proteins, such as cadmium in the \"Nereis diversicolor\" hemerythrin. It is also found in the NorA protein from \"Cupriavidus necator\", this protein is a regulator of response to nitric oxide, which suggests a different set-up for its metal ligands. A protein from \"Cryptococcus neoformans\" (Filobasidiella neoformans) that contains haemerythrin/HHE cation-binding domains is also involved in nitric oxide response. A \"Staphylococcus aureus\" protein containing this domain, iron-sulfur cluster repair protein ScdA, has been noted to be important when the organism switches to living in environments with low oxygen concentrations; perhaps this protein acts as an oxygen store or scavenger.",
+            "score": 131.40016174316406
+        },
+        {
+            "docid": "15348727_2",
+            "document": "Mitoferrin-1 . Mitoferrin-1 (Mfrn1) is a 38 kDa protein that is encoded by the \"SLC25A37\" gene in humans. It is a member of the Mitochondrial carrier (MC) Superfamily, however, its metal cargo makes it distinct from other members of this family. Mfrn1 plays a key role in mitochondrial iron homeostasis as an iron transporter, importing ferrous iron from the intermembrane space of the mitochondria to the mitochondrial matrix for the biosynthesis of heme groups and Fe-S clusters. This process is tightly regulated, given the redox potential of Mitoferrin\u2019s iron cargo. Mfrn1 is paralogous to Mitoferrin-2 (Mfrn2), a 39 kDa protein encoded by the \"SLC25A28\" gene in humans. Mfrn1 is highly expressed in differentiating erythroid cells and in other tissues at low levels, while Mfrn2 is expressed ubiquitously in non-erythroid tissues.",
+            "score": 131.17715454101562
+        },
+        {
+            "docid": "27127_69",
+            "document": "Sulfur . Inorganic sulfur forms a part of iron\u2013sulfur clusters as well as many copper, nickel, and iron proteins. Most pervasive are the ferrodoxins, which serve as electron shuttles in cells. In bacteria, the important nitrogenase enzymes contains an Fe\u2013Mo\u2013S cluster and is a catalyst that performs the important function of nitrogen fixation, converting atmospheric nitrogen to ammonia that can be used by microorganisms and plants to make proteins, DNA, RNA, alkaloids, and the other organic nitrogen compounds necessary for life.",
+            "score": 130.3603515625
+        },
+        {
+            "docid": "1602117_13",
+            "document": "Friedreich's ataxia . Low frataxin levels lead to insufficient biosynthesis of iron\u2013sulfur clusters that are required for mitochondrial electron transport and assembly of functional aconitase and iron dysmetabolism of the entire cell. In normal individuals, the FXN gene encodes frataxin, a mitochondrial matrix protein. This globular protein consists of two \u03b1 helices and seven \u03b2 strands and is highly conserved, occurring in all eukaryotes and some prokaryotes. Frataxin has a variety of known functions. Frataxin assists iron-sulfur protein synthesis in the electron transport chain to ultimately generate adenosine triphosphate (ATP), the energy molecule necessary to carry out metabolic functions in cells. Frataxin also regulates iron transfer in the mitochondria for providing a proper amount of reactive oxygen species (ROS) to maintain normal processes. Without frataxin, the energy in the mitochondria falls, and excess iron causes extra ROS to be created, leading to further cell damage.",
+            "score": 128.7244873046875
+        },
+        {
+            "docid": "1939754_2",
+            "document": "Iron\u2013sulfur protein . Iron\u2013sulfur proteins are proteins characterized by the presence of iron\u2013sulfur clusters containing sulfide-linked di-, tri-, and tetrairon centers in variable oxidation states. Iron\u2013sulfur clusters are found in a variety of metalloproteins, such as the ferredoxins, as well as NADH dehydrogenase, hydrogenases, coenzyme Q \u2013 cytochrome c reductase, succinate \u2013 coenzyme Q reductase and nitrogenase. Iron\u2013sulfur clusters are best known for their role in the oxidation-reduction reactions of mitochondrial electron transport. Both Complex I and Complex II of oxidative phosphorylation have multiple Fe\u2013S clusters. They have many other functions including catalysis as illustrated by aconitase, generation of radicals as illustrated by SAM-dependent enzymes, and as sulfur donors in the biosynthesis of lipoic acid and biotin. Additionally, some Fe\u2013S proteins regulate gene expression. Fe\u2013S proteins are vulnerable to attack by biogenic nitric oxide, forming dinitrosyl iron complexes. In most Fe\u2013S proteins, the terminal ligands on Fe are thiolate, but exceptions exist.",
+            "score": 128.0477294921875
+        },
+        {
+            "docid": "1551873_7",
+            "document": "ATP-binding cassette transporter . Bacterial ABC transporters are essential in cell viability, virulence, and pathogenicity. Iron ABC uptake systems, for example, are important effectors of virulence. Pathogens use siderophores, such as Enterobactin, to scavenge iron that is in complex with high-affinity iron-binding proteins or erythrocytes. These are high-affinity iron-chelating molecules that are secreted by bacteria and reabsorb iron into iron-siderophore complexes. The chvE-gguAB gene in \"Agrobacterium tumefaciens\" encodes glucose and galactose importers that are also associated with virulence. Transporters are extremely vital in cell survival such that they function as protein systems that counteract any undesirable change occurring in the cell. For instance, a potential lethal increase in osmotic strength is counterbalanced by activation of osmosensing ABC transporters that mediate uptake of solutes. Other than functioning in transport, some bacterial ABC proteins are also involved in the regulation of several physiological processes.",
+            "score": 127.24474334716797
+        },
+        {
+            "docid": "97051_2",
+            "document": "Iron\u2013sulfur cluster . Iron\u2013sulfur clusters are molecular ensembles of iron and sulfide. They are most often discussed in the context of the biological role for iron-sulfur proteins, which are pervasive. Many Fe-S clusters are known in the area of organometallic chemistry and as precursors to synthetic analogues of the biological clusters (see Figure).",
+            "score": 127.19408416748047
+        },
+        {
+            "docid": "11445385_6",
+            "document": "Iron-responsive element-binding protein . Cells have advanced mechanisms for sensing their own need for iron. In human cells, the best-characterized iron-sensing mechanism is the result of post-transcriptional regulation of mRNA (the chemical instructions derived from DNA genes to make proteins). Sequences of mRNA called iron-responsive elements (IREs) are contained within the mRNA sequences that code for transferrin receptors and for ferritin. Iron-responsive element-binding protein (IRE-BP) binds to these mRNA sequences. On its own, the IRE-BP binds to the IREs of ferritin and transferrin receptor mRNA. But, when iron binds to the IRE-BP, the IRE-BP changes shape with the result that the IRE-BPs can no longer bind the ferritin mRNA. This liberates the mRNA to direct the cell to make more ferritin. In other words, when there is high iron in the cell, the iron itself causes the cell to produce more iron storage molecules. (The IRE-BP is an aconitase; for a schematic drawing of the shape change, see here).",
+            "score": 126.91242980957031
+        },
+        {
+            "docid": "14734_105",
+            "document": "Iron . Overdoses of ingested iron can cause excessive levels of free iron in the blood. High blood levels of free ferrous iron react with peroxides to produce highly reactive free radicals that can damage DNA, proteins, lipids, and other cellular components. Iron toxicity occurs when the cell contains free iron, which generally occurs when iron levels exceed the availability of transferrin to bind the iron. Damage to the cells of the gastrointestinal tract can also prevent them from regulating iron absorption, leading to further increases in blood levels. Iron typically damages cells in the heart, liver and elsewhere, causing adverse effects that include coma, metabolic acidosis, shock, liver failure, coagulopathy, adult respiratory distress syndrome, long-term organ damage, and even death. Humans experience iron toxicity when the iron exceeds 20\u00a0milligrams for every kilogram of body mass; 60\u00a0milligrams per kilogram is considered a lethal dose. Overconsumption of iron, often the result of children eating large quantities of ferrous sulfate tablets intended for adult consumption, is one of the most common toxicological causes of death in children under six. The Dietary Reference Intake (DRI) sets the Tolerable Upper Intake Level (UL) for adults at 45\u00a0mg/day. For children under fourteen years old the UL is 40\u00a0mg/day.",
+            "score": 126.42292022705078
+        },
+        {
+            "docid": "14853095_5",
+            "document": "High potential iron-sulfur protein . The [FeS] clusters are abundant cofactors of metalloproteins. They participate in electron-transfer sequences. The core structure for the [FeS] cluster is a cube with alternating Fe and S vertices. These clusters exist in two oxidation states with a small structural change. Two families of [FeS] clusters are known: the ferredoxin (Fd) family and the high-potential iron\u2013suflur protein (HiPIP) family. Both HiPIP and Fd share the same resting state: [FeS], which have the same geometric and spectroscopic features. Differences arise when it comes to their active state: HiPIP forms by oxidation to [FeS], and Fd is formed by reduction to [FeS].",
+            "score": 125.64910888671875
+        },
+        {
+            "docid": "1162678_4",
+            "document": "Ferredoxin . Ferredoxins are small proteins containing iron and sulfur atoms organized as iron-sulfur clusters. These biological \"capacitors\" can accept or discharge electrons, with the effect of a change in the oxidation state of the iron atoms between +2 and +3. In this way, ferredoxin acts as an electron transfer agent in biological redox reactions.",
+            "score": 125.4040298461914
+        },
+        {
+            "docid": "3335116_3",
+            "document": "Human iron metabolism . Iron is an essential bioelement for most forms of life, from bacteria to mammals. Its importance lies in its ability to mediate electron transfer. In the ferrous state, iron acts as an electron donor, while in the ferric state it acts as an acceptor. Thus, iron plays a vital role in the catalysis of enzymatic reactions that involve electron transfer (reduction and oxidation, redox). Proteins can contain iron as part of different cofactors, such as iron-sulfur clusters (Fe-S) and heme groups, both of which are assembled in mitochondria.",
+            "score": 125.22407531738281
+        },
+        {
+            "docid": "1939754_11",
+            "document": "Iron\u2013sulfur protein . The biosynthesis of the Fe\u2013S clusters has been well studied. The biogenesis of iron sulfur clusters has been studied most extensively in the bacteria \"E. coli\" and \"A. vinelandii\" and yeast \"S. cerevisiae\". At least three different biosynthetic systems have been identified so far, namely nif, suf, and isc systems, which were first identified in bacteria. The nif system is responsible for the clusters in the enzyme nitrogenase. The suf and isc systems are more general. The yeast isc system is the best described. Several proteins constitute the biosynthetic machinery via the isc pathway. The process occurs in two major steps: (1) the Fe/S cluster is assembled on a scaffold protein followed by (2) transfer of the preformed cluster to the recipient proteins. The first step of this process occurs in the cytoplasm of prokaryotic organisms or in the mitochondria of eukaryotic organisms. In the higher organisms the clusters are therefore transported out of the mitochondrion to be incorporated into the extramitochondrial enzymes. These organisms also possess a set of proteins involved in the Fe/S clusters transport and incorporation processes that are not homologous to proteins found in prokaryotic systems.",
+            "score": 124.55996704101562
+        },
+        {
+            "docid": "25457745_7",
+            "document": "Iron\u2013nickel clusters . Several general trends are recognized in determining the structure of Fe\u2013Ni clusters. Larger clusters, containing both iron and nickel, are most stable with Fe atoms located in the inner parts of the cluster and Ni metals on outside. In other terms, when iron and nickel form body-centered cubic structures the preferred position of Ni atoms is at the surface, instead of at the center of the cluster, as it is energetically unfavorable for two nickel atoms to occupy nearest-neighbor positions.",
+            "score": 123.81361389160156
+        },
+        {
+            "docid": "25262438_6",
+            "document": "Superficial siderosis . Iron deposition is prevalent in siderotic brain tissues, with iron concentrations of 1.79 to 8.26 times normal levels. Ferritin, an iron storage protein, is over-produced in response to excess heme by glial cells in order to sequester iron, with production ranging from 20.1 to 27.4 times normal levels. Excess iron, ferritin, and red blood cells may result in xanthochromia of the cerebrospinal fluid. Amongst neuronal cells types, iron deposition appears to be preferential for oligodendroglial cells, which is supported by the belief that they can act as iron sinks in the central nervous system. Schwann cells are also frequently damaged, contributing to demyelination.",
+            "score": 123.38407897949219
+        },
+        {
+            "docid": "366555_24",
+            "document": "Biomolecule . An apoenzyme (or, generally, an apoprotein) is the protein without any small-molecule cofactors, substrates, or inhibitors bound. It is often important as an inactive storage, transport, or secretory form of a protein. This is required, for instance, to protect the secretory cell from the activity of that protein. Apoenzymes becomes active enzymes on addition of a cofactor. Cofactors can be either inorganic (e.g., metal ions and iron-sulfur clusters) or organic compounds, (e.g., [Flavin group|flavin] and heme). Organic cofactors can be either prosthetic groups, which are tightly bound to an enzyme, or coenzymes, which are released from the enzyme's active site during the reaction.",
+            "score": 122.41864776611328
+        },
+        {
+            "docid": "6492263_9",
+            "document": "Leucine-rich repeat . An iron sulphur cluster is found at the N-terminus of some proteins containing the leucine-rich repeat variant domain (LRV). These proteins have a two-domain structure, composed of a small N-terminal domain containing a cluster of four Cysteine residues that houses the 4Fe:4S cluster, and a larger C-terminal domain containing the LRV repeats. Biochemical studies revealed that the 4Fe:4S cluster is sensitive to oxygen, but does not appear to have reversible redox activity.",
+            "score": 122.40333557128906
+        },
+        {
+            "docid": "25457745_2",
+            "document": "Iron\u2013nickel clusters . Iron\u2013nickel (Fe\u2013Ni) clusters are metal clusters consisting of iron and nickel, i.e. Fe\u2013Ni structures displaying polyhedral frameworks held together by two or more metal\u2013metal bonds per metal atom, where the metal atoms are located at the vertices of closed, triangulated polyhedra.",
+            "score": 121.96920013427734
+        },
+        {
+            "docid": "23229398_4",
+            "document": "GLRX5 . GLRX5 is a mitochondrial protein is conserved evolutionarily and plays a role in the formation of iron-sulfur clusters, which function to maintain iron homeostasis within the mitochondria and in the cell. GLRX5 is required for the steps in haem synthesis that involves mitochondrial enzymes, and is therefore involved in hematopoiesis. GLRX5 activity is required for normal regulation of hemoglobin synthesis by the iron-sulfur protein ACO1. The function of GLRX5 is highly conserved evolutionarily.",
+            "score": 121.4228744506836
+        },
+        {
+            "docid": "3335116_24",
+            "document": "Human iron metabolism . In the cytoplasm, ferrous iron is found in a soluble, chelatable state which constitutes the labile iron pool (~0.001 mM). In this pool, iron is thought to be bound to low-mass compounds such as peptides, carboxylates and phosphates, although some might be in a free, hydrated form (aqua ions). Alternatively, iron ions might be bound to specialized proteins known as metallochaperones. Specifically, poly-r(C)-binding proteins (PCBPs) appear to mediate transfer of free iron to ferritin (for storage) and non-heme iron enzymes (for use in catalysis). The labile iron pool is potentially toxic due to iron's ability to generate reactive oxygen species. Iron from this pool can be taken up by mitochondria via mitoferrin to synthesize Fe-S clusters and heme groups.",
+            "score": 121.32624816894531
+        }
+    ]
+}

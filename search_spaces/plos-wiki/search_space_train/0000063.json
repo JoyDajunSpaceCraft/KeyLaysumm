@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "496334_2",
+            "document": "Sigma factor . A sigma factor (\u03c3 factor) is a protein needed only for initiation of transcription. It is a bacterial transcription initiation factor that enables specific binding of RNA polymerase to gene promoters. It is homologous to archaeal transcription factor B and to eukaryotic TFIIB. The specific sigma factor used to initiate transcription of a given gene will vary, depending on the gene and on the environmental signals needed to initiate transcription of that gene. Selection of promoters by RNA polymerase is dependent on the sigma factor that associates with it.",
+            "score": 27.312203884124756
+        },
+        {
+            "docid": "6446041_2",
+            "document": "RpoS . The gene rpoS (RNA polymerase, sigma S) encodes the sigma factor \"sigma-38\" (\u03c338, or RpoS), a 37.8 kD protein in \"Escherichia coli\". Sigma factors are proteins that regulate transcription in bacteria. Sigma factors can be activated in response to different environmental conditions. \"rpoS\" is transcribed in late exponential phase, and RpoS is the primary regulator of stationary phase genes. RpoS is a central regulator of the general stress response and operates in both a retroactive and a proactive manner: it not only allows the cell to survive environmental challenges, but it also prepares the cell for subsequent stresses (cross-protection). The transcriptional regulator CsgD is central to biofilm formation, controlling the expression of the curli structural and export proteins, and the diguanylate cyclase, adrA, which indirectly activates cellulose production. The \"rpoS\" gene most likely originated in the \u03b3 branch of the proteobacteria.",
+            "score": 42.88440442085266
+        },
+        {
+            "docid": "1936957_6",
+            "document": "General transcription factor . A sigma factor is a protein needed only for initiation of RNA synthesis in bacteria. Sigma factors provide promoter recognition specificity to the RNA polymerase (RNAP) and contribute to DNA strand separation, then dissociating from the RNA polymerase core enzyme following transcription initiation. The RNA polymerase core associates with the sigma factor to form RNA polymerase holoenzyme. Sigma factor reduces the affinity of RNA polymerase for nonspecific DNA while increasing specificity for promoters, allowing transcription to initiate at correct sites. The core enzyme of RNA polymerase has five subunits (protein subunits) (~400 kDa). Because of the RNA polymerase association with sigma factor, the complete RNA polymerase therefore has 6 subunits: the sigma subunit-in addition to the two alpha (\u03b1), one beta (\u03b2), one beta prime (\u03b2'), and one omega (\u03c9) subunits that make up the core enzyme(~450 kDa). In addition, many bacteria can have multiple alternative \u03c3 factors. The level and activity of the alternative \u03c3 factors are highly regulated and can vary depending on environmental or developmental signals.",
+            "score": 21.4624125957489
+        },
+        {
+            "docid": "28253826_9",
+            "document": "Bacterial small RNA . The RpoS gene in \"E. coli\" encodes sigma 38, a sigma factor which regulates stress response and acts as a transcriptional regulator for many genes involved in cell adaptation. At least three sRNAs, DsrA, RprA and OxyS, regulate the translation of RpoS. DsrA and RprA both activate RpoS translation by base pairing to a region in the leader sequence of the RpoS mRNA and disrupting formation of a hairpin which frees up the ribosome loading site. OxyS inhibits RpoS translation. DsrA levels are increased in response to low temperatures and osmotic stress, and RprA levels are increased in response to osmotic stress and cell-surface stress, therefore increasing RpoS levels in response to these conditions. Levels of OxyS are increased in response to oxidative stress, therefore inhibiting RpoS under these conditions.",
+            "score": 40.19627022743225
+        },
+        {
+            "docid": "40616056_6",
+            "document": "Oxidation response . The transcriptional factor OxyR regulates the expression of OxyR regulon. HO oxidizes the transcriptional factor by forming an intramolecular disulfide bond. The oxidized form of this factor specifically binds to the promoters of constituent genes of OxyR regulon, including \"katG\" (hydroperoxidase-catalase HP\u0406), \"gorA\" (glutathione reductase), \"grxA\" (glutaredoxin 1), \"trxC\"(thioredoxin 2), \"ahpCF\" (alkyl hydroperoxide reductase), \"dps\" (nonspecific DNA binding protein) and \"oxyS\" (a small regulatory RNA). Reduced OxyR provides autorepression by binding only to the \"oxyR\" promoter.",
+            "score": 11.076307773590088
+        },
+        {
+            "docid": "21673918_3",
+            "document": "Bacterial one-hybrid system . Across all living organisms, regulation of gene expression is controlled by interactions between DNA-binding regulatory proteins (transcription factors) and cis-regulatory elements, DNA sequences in or around genes that act as target sites for DNA-binding proteins. By binding to cis-regulatory sequences and to each other, transcription factors fine-tune transcriptional levels by stabilizing/destabilizing binding of RNA polymerase to a gene's promoter. But despite their importance and ubiquity, little is known about where exactly each of these regulatory proteins binds. Literature suggests that nearly 8% of human genes encode transcription factors and the functions and specificities of their interactions remain largely unexplored. We are on the brink of a convergence of high-throughput technologies and genomic theory that is allowing researchers to start mapping these interactions on a genome-wide scale. Only recently has a complete survey of DNA-binding specificities been attempted for a large family of DNA-binding domains. B1H is just one emerging technique among many that is useful for studying protein\u2013DNA interactions.",
+            "score": 25.740834832191467
+        },
+        {
+            "docid": "19179592_42",
+            "document": "Archaea . Transcription in archaea more closely resembles eukaryotic than bacterial transcription, with the archaeal RNA polymerase being very close to its equivalent in eukaryotes; while archaeal translation shows signs of both bacterial and eukaryal equivalents. Although archaea only have one type of RNA polymerase, its structure and function in transcription seems to be close to that of the eukaryotic RNA polymerase II, with similar protein assemblies (the general transcription factors) directing the binding of the RNA polymerase to a gene's promoter., but other archaeal transcription factors are closer to those found in bacteria. Post-transcriptional modification is simpler than in eukaryotes, since most archaeal genes lack introns, although there are many introns in their transfer RNA and ribosomal RNA genes, and introns may occur in a few protein-encoding genes.",
+            "score": 18.70448327064514
+        },
+        {
+            "docid": "32150862_9",
+            "document": "Bacterial DNA binding protein . Recent research has revealed that HU binds with high specificity to the mRNA of rpoS, a transcript for the stress sigma factor of RNA polymerase, and stimulates translation of the protein. Additional to this RNA function, it was also demonstrated that HU binds DsrA, a small non-coding RNA that regulates transcription through repressing H-NS and stimulates translation through increasing expression of rpoS. These interactions suggest that HU has multiple influences on transcription and translation in bacterial cells.",
+            "score": 36.53922653198242
+        },
+        {
+            "docid": "14766524_3",
+            "document": "BRF1 (gene) . This gene encodes one of the three subunits of the RNA polymerase III transcription factor complex. This complex plays a central role in transcription initiation by RNA polymerase III on genes encoding tRNA, 5S rRNA, and other small structural RNAs. The gene product belongs to the TF2B family. Three alternatively spliced variants encoding three different isoforms, that function at different promoters transcribed by RNA polymerase III, have been identified. A transcript encoding a fourth isoform has not yet been completely characterized.",
+            "score": 18.858461380004883
+        },
+        {
+            "docid": "12589529_2",
+            "document": "Transcription factor II B . Transcription factor II B (TFIIB) is a general transcription factor that is involved in the formation of the RNA polymerase II preinitiation complex (PIC) and aids in stimulating transcription initiation. TFIIB is localised to the nucleus and provides a platform for PIC formation by binding and stabilising the DNA-TBP (TATA-binding protein) complex and by recruiting RNA polymerase II and other transcription factors. It is encoded by the gene, and is homologous to both archaeal transcription factor B and more distantly to bacterial sigma factors",
+            "score": 23.02617645263672
+        },
+        {
+            "docid": "53277574_4",
+            "document": "Gisela Storz . Dr. Storz's research interests include the characterization of small non-coding RNA and small proteins of 50 amino acids or less. An early focus of her research was the study of redox-sensitive transcription factors and the bacterial and yeast responses to oxidative stress. She discovered that the activity of the \"Escherichia coli\" transcription factor OxyR, now a paradigm for other redox-sensitive proteins, is regulated by reversible disulfide bond formation and elucidated how disulfide bond formation controls the nuclear localization of the \"Saccharomyces cerevisiae\" transcription factor Yap1. As a result of her group's serendipitous detection of the OxyS RNA, one of the first small regulatory RNAs to be discovered, attention shifted to the genome-wide identification and characterization of small regulatory RNAs in the model organism \"Escherichia coli\". Work on small RNAs in Dr. Storz's lab revealed that the RNA chaperone Hfq stimulates the pairing of the majority of the small RNAs with mRNA targets and that small RNAs are integral to most regulatory circuits in bacteria. While identifying these small RNAs, her lab discovered that some of these small RNAs encode small proteins that had previously been overlooked because they are not detected in many traditional biochemical assays and the corresponding genes are poorly annotated. Her research group demonstrated that one such small protein, AcrZ, binds to the multidrug efflux pump protein AcrB to affect its ability to export certain classes of antibiotics. The Storz lab currently seeks to identify characterize the function of other small proteins from \"Escherichia coli\".",
+            "score": 18.9111590385437
+        },
+        {
+            "docid": "14774906_3",
+            "document": "TAF15 . Initiation of transcription by RNA polymerase II requires the activities of more than 70 polypeptides. The protein that coordinates these activities is transcription factor IID (TFIID), which binds to the core promoter to position the polymerase properly, serves as the scaffold for assembly of the remainder of the transcription complex, and acts as a channel for regulatory signals. TFIID is composed of the TATA-binding protein (TBP) and a group of evolutionarily conserved proteins known as TBP-associated factors or TAFs. TAFs may participate in basal transcription, serve as coactivators, function in promoter recognition or modify general transcription factors (GTFs) to facilitate complex assembly and transcription initiation. This gene encodes a subunit of TFIID present in a subset of TFIID complexes. Translocations involving chromosome 17 and chromosome 9, where the gene for the nuclear receptor CSMF is located, result in a gene fusion product that is an RNA binding protein associated with a subset of extraskeletal myxoid chondrosarcomas. Two transcripts encoding different isoforms have been identified.",
+            "score": 13.911995887756348
+        },
+        {
+            "docid": "55694123_6",
+            "document": "Avian paramyxovirus 2 . Paramyxoviruses only encode one RNA polymerase and it is believed that replication takes place in the cytoplasm of the cell, with no involvement or entry into the host cell nucleus. Little is understood as to how the polymerase assists in both viral replication and transcription and how these processes can be regulated. The encoded polymerase consists of two proteins, a large subunit responsible for RNA synthesis and capping, and the encoded protein phosphoprotein (P) which acts as a cofactor. As described, the viral genome includes intergenic regions between the viral genes with specific start and stop signals. The polymerase recognizes these cis-acting elements within the viral genome and initiates transcription. Transcription first begins at the 3' end of the genome at a 40-55 nucleotide long promoter region. The polymerase produces subgenomic RNAs by transcribing each gene, releasing the produced RNA and then locating the next gene for transcription by the cis-acting elements present in the genome. The signal at which the polymerase releases the transcribed RNA of a single gene is believed to contain a Poly U tract, leading to the capping of a poly(A) tail to the transcribed RNA. In contrast to producing viral mRNA for viral protein synthesis, when replicating the viral genome, the polymerase does not start and stop at the indicated cis-acting elements between each gene. Instead, the polymerase elongates the RNA along the entire length of the genome. Described above is one model for the hypothesized viral replication and protein production of paramyxoviruses, however, other models exist that suggest the polymerase initiates replication and transcription at different areas in the genome.",
+            "score": 13.652980089187622
+        },
+        {
+            "docid": "15181253_3",
+            "document": "TAF1B . Initiation of transcription by RNA polymerase I requires the formation of a complex composed of the TATA-binding protein (TBP) and three TBP-associated factors (TAFs) specific for RNA polymerase I. This complex, known as SL1, binds to the core promoter of ribosomal RNA genes to position the polymerase properly and acts as a channel for regulatory signals. This gene encodes one of the SL1-specific TAFs.",
+            "score": 10.39872121810913
+        },
+        {
+            "docid": "14879013_3",
+            "document": "TAF1A . Initiation of transcription by RNA polymerase I requires the formation of a complex composed of the TATA-binding protein (TBP) and three TBP-associated factors (TAFs) specific for RNA polymerase I. This complex, known as SL1, binds to the core promoter of ribosomal RNA genes to position the polymerase properly and acts as a channel for regulatory signals. This gene encodes the smallest SL1-specific TAF. Two transcripts encoding different isoforms have been identified.",
+            "score": 11.450869798660278
+        },
+        {
+            "docid": "14879007_3",
+            "document": "TAF1C . Initiation of transcription by RNA polymerase I requires the formation of a complex composed of the TATA-binding protein (TBP) and three TBP-associated factors (TAFs) specific for RNA polymerase I. This complex, known as SL1, binds to the core promoter of ribosomal RNA genes to position the polymerase properly and acts as a channel for regulatory signals. This gene encodes the largest SL1-specific TAF. Two transcripts encoding different isoforms have been identified.",
+            "score": 11.450869798660278
+        },
+        {
+            "docid": "553121_11",
+            "document": "Regulation of gene expression . Regulation of transcription thus controls when transcription occurs and how much RNA is created. Transcription of a gene by RNA polymerase can be regulated by several mechanisms. Specificity factors alter the specificity of RNA polymerase for a given promoter or set of promoters, making it more or less likely to bind to them (i.e., sigma factors used in prokaryotic transcription). Repressors bind to the Operator, coding sequences on the DNA strand that are close to or overlapping the promoter region, impeding RNA polymerase's progress along the strand, thus impeding the expression of the gene.The image to the right demonstrates regulation by a repressor in the lac operon. General transcription factors position RNA polymerase at the start of a protein-coding sequence and then release the polymerase to transcribe the mRNA. Activators enhance the interaction between RNA polymerase and a particular promoter, encouraging the expression of the gene. Activators do this by increasing the attraction of RNA polymerase for the promoter, through interactions with subunits of the RNA polymerase or indirectly by changing the structure of the DNA. Enhancers are sites on the DNA helix that are bound by activators in order to loop the DNA bringing a specific promoter to the initiation complex. Enhancers are much more common in eukaryotes than prokaryotes, where only a few examples exist (to date). Silencers are regions of DNA sequences that, when bound by particular transcription factors, can silence expression of the gene.",
+            "score": 19.14281976222992
+        },
+        {
+            "docid": "398124_9",
+            "document": "Transcriptional regulation . While in prokaryotic systems the basal transcription state can be thought of as nonrestrictive (that is, \u201con\u201d in the absence of modifying factors), eukaryotes have a restrictive basal state which requires the recruitment of other factors in order to generate RNA transcripts. This difference is largely due to the compaction of the eukaryotic genome by winding DNA around histones to form higher order structures. This compaction makes the gene promoter inaccessible without the assistance of other factors in the nucleus, and thus chromatin structure is a common site of regulation. Similar to the sigma factors in prokaryotes, the general transcription factors (GTFs) are a set of factors in eukaryotes that are required for all transcription events. These factors are responsible for stabilizing binding interactions and opening the DNA helix to allow the RNA polymerase to access the template, but generally lack specificity for different promoter sites. A large part of gene regulation occurs through transcription factors that either recruit or inhibit the binding of the general transcription machinery and/or the polymerase. This can be accomplished through close interactions with core promoter elements, or through the long distance enhancer elements.",
+            "score": 22.304133534431458
+        },
+        {
+            "docid": "10085290_33",
+            "document": "Lyme disease microbiology . OspC is a strong antigen; detection of its presence by the host organism stimulates an immune response. While each individual bacterial cell contains just one copy of the \"ospC\" gene, the gene sequence of \"ospC\" among different strains within each of the three major Lyme disease species is highly variable. OspC plays an essential role during the early stage of mammalian infection. In infected ticks feeding on a mammalian host, OspC may also be necessary to allow \"B. burgdorferi\" to invade and attach to the salivary gland after leaving the gut, although not all studies agree on such a role for the protein. OspC attaches to the tick salivary protein Salp15, which protects the spirochete from complement and impairs the function of dendritic cells.",
+            "score": 126.96840167045593
+        },
+        {
+            "docid": "15220288_3",
+            "document": "Transcription factor IIIB 50 kDa subunit . This gene encodes one of the multiple subunits of the RNA polymerase III transcription factor complex required for transcription of genes with promoter elements upstream of the initiation site. The product of this gene, a TFIIB-like factor, is directly recruited to the TATA box of polymerase III small nuclear RNA gene promoters through its interaction with the TATA-binding protein.",
+            "score": 17.504298210144043
+        },
+        {
+            "docid": "14754467_3",
+            "document": "TAF9 . Initiation of transcription by RNA polymerase II requires the activities of more than 70 polypeptides. The protein complex that coordinates these activities is transcription factor IID (TFIID), which binds to the core promoter to position the polymerase properly, serves as the scaffold for assembly of the remainder of the transcription complex, and acts as a channel for regulatory signals. TFIID is composed of the TATA-binding protein (TBP) and a group of evolutionarily conserved proteins known as TBP-associated factors or TAFs. TAFs may participate in basal transcription, serve as coactivators, function in promoter recognition or modify general transcription factors (GTFs) to facilitate complex assembly and transcription initiation. This gene encodes one of the smaller subunits of TFIID that binds to the basal transcription factor GTF2B as well as to several transcriptional activators such as p53 and VP16. A similar but distinct gene (TAF9B) has been found on the X chromosome and a pseudogene has been identified on chromosome 19. Alternative splicing results in multiple transcript variants encoding different isoforms.",
+            "score": 15.835657835006714
+        },
+        {
+            "docid": "10085290_32",
+            "document": "Lyme disease microbiology . The OspA and OspB genes encode the major outer membrane proteins of \"B.\u00a0burgdorferi\". The two Osp proteins show a high degree of sequence similarity, indicating a recent duplication event. Virtually all spirochetes in the midgut of an unfed nymph tick express OspA. OspA promotes the attachment of \"B. burgdorferi\" to the tick protein TROSPA, present on tick gut epithelial cells. OspB also has an essential role in the adherence of \"B. burgdorferi\" to the tick gut. Although OspD has been shown to bind to tick gut extracts \"in vitro\", as well as OspA and OspB, it is not essential for the attachment and colonization of the tick gut, and it is not required for human infections.",
+            "score": 121.23479533195496
+        },
+        {
+            "docid": "4250553_24",
+            "document": "Gene . Flanking the open reading frame, genes contain a regulatory sequence that is required for their expression. First, genes require a promoter sequence. The promoter is recognized and bound by transcription factors and RNA polymerase to initiate transcription. The recognition typically occurs as a consensus sequence like the TATA box. A gene can have more than one promoter, resulting in messenger RNAs (mRNA) that differ in how far they extend in the 5'\u00a0end. Highly transcribed genes have \"strong\" promoter sequences that form strong associations with transcription factors, thereby initiating transcription at a high rate. Others genes have \"weak\" promoters that form weak associations with transcription factors and initiate transcription less frequently. Eukaryotic promoter regions are much more complex and difficult to identify than prokaryotic promoters.",
+            "score": 17.94150710105896
+        },
+        {
+            "docid": "398124_7",
+            "document": "Transcriptional regulation . Sigma factors are specialized bacterial proteins that bind to RNA polymerases and orchestrate transcription initiation. Sigma factors act as mediators of sequence-specific transcription, such that a single sigma factor can be used for transcription of all housekeeping genes or a suite of genes the cell wishes to express in response to some external stimuli such as stress.",
+            "score": 15.891969203948975
+        },
+        {
+            "docid": "14815485_3",
+            "document": "TAF13 . Initiation of transcription by RNA polymerase II requires the activities of more than 70 polypeptides. The protein that coordinates these activities is transcription factor IID (TFIID), which binds to the core promoter to position the polymerase properly, serves as the scaffold for assembly of the remainder of the transcription complex, and acts as a channel for regulatory signals. TFIID is composed of the TATA-binding protein (TBP) and a group of evolutionarily conserved proteins known as TBP-associated factors or TAFs. TAFs may participate in basal transcription, serve as coactivators, function in promoter recognition or modify general transcription factors (GTFs) to facilitate complex assembly and transcription initiation. This gene encodes a small subunit associated with a subset of TFIID complexes. This subunit interacts with TBP and with two other small subunits of TFIID, TAF10 and TAF11. There is a pseudogene located on chromosome 6.",
+            "score": 11.840503931045532
+        },
+        {
+            "docid": "14181279_3",
+            "document": "TAF7 . The intronless gene for this transcription coactivator is located between the protocadherin beta and gamma gene clusters on chromosome 5. The protein encoded by this gene is a component of the TFIID protein complex, a complex which binds to the TATA box in class II promoters and recruits RNA polymerase II and other factors. This particular subunit interacts with the largest TFIID subunit, as well as multiple transcription activators. The protein is required for transcription by promoters targeted by RNA polymerase II.",
+            "score": 10.946157693862915
+        },
+        {
+            "docid": "53821839_2",
+            "document": "AsrC small RNA . AsrC (Antisense RNA of rseC) is a\u00a0\"cis-\"encoded antisense RNA of\u00a0rseC (an\u00a0activator gene of sigma factor RpoE) described in\u00a0\"Salmonella enterica\"\u00a0serovar Typhi. It was discovered by deep sequencing and its transcription was confirmed by Northern blot. AsrC\u00a0 is an 893 bp sequence that covers all of the rseC coding region in the reverse direction of transcription. It increases the level of rseC mRNA and protein, indirectly activating RpoE. RpoE can promote flagellar gene expression and motility. Coincidently, expression of AsrC increased bacterial swimming motility. it is possible that it is because AsrC is promoting the expression of genes related to motility.",
+            "score": 13.31815791130066
+        },
+        {
+            "docid": "15075281_3",
+            "document": "TEAD4 . This gene product is a member of the transcriptional enhancer factor (TEF) family of transcription factors, which contain the TEA/ATTS DNA-binding domain. Members of the family in mammals are TEAD1, TEAD2, TEAD3, TEAD4. TEAD4 is preferentially expressed in the skeletal muscle, and binds to the M-CAT regulatory element found in promoters of muscle-specific genes to direct their gene expression. Alternatively spliced transcripts encoding distinct isoforms, some of which are translated through the use of a non-AUG (UUG) initiation codon, have been described for this gene.Gene ablation experiments in mice (i.e. knockout mice) showed that TEAD4 is essential for the formation of blastocysts during preimplantation embryo development. Although it was originally hypothesized to be essential for specification of trophectoderm lineage, it was later shown that functional trophectoderm can be produced leading to formation of blastocysts under in vitro conditions that suppress oxidative stress.",
+            "score": 19.991621255874634
+        },
+        {
+            "docid": "29732133_31",
+            "document": "History of RNA biology . Segments of RNA, typically embedded within the 5'-untranslated region of a vast number of bacterial mRNA molecules, have a profound effect on gene expression through a previously-undiscovered mechanism that does not involve the participation of proteins. In many cases, riboswitches change their folded structure in response to environmental conditions (e.g. ambient temperature or concentrations of specific metabolites), and the structural change controls the translation or stability of the mRNA in which the riboswitch is embedded. In this way, gene expression can be dramatically regulated at the post-transcriptional level.",
+            "score": 8.569009065628052
+        },
+        {
+            "docid": "37691693_3",
+            "document": "Sepiapterin reductase deficiency . This disorder occurs through a mutation in the SPR gene, which is responsible for encoding the signals that create sepiapterin reductase enzyme. The enzyme is involved in the last step of producing tetrahydrobiopterin better known as BH. BH is involved in the processing of amino acids and the production of neurotransmitters, specifically that of dopamine and serotonin which are primarily used in transmission of signals between nerve cells in the brain. The mutation in the SPR gene interferes with the production of the enzyme by producing enzymes with little or no function at all. This interference results in a lack of BH specifically in the brain. The lack of BH only occurs in the brain because other parts of the body adapt and utilize alternate pathways for the production of BH. The mutation in the SPR gene leads to nonfunctional sepiapterin reductase enzymes, which results in a lack of BH and ultimately disrupts the production of dopamine and serotonin in the brain. The disruption of dopamine and serotonin production leads to the visible symptoms present in patients suffering from sepiapterin reductase deficiency. SR deficiency is considered an inherited autosomal recessive condition disorder because each parent carries one copy of the mutated gene, but typically do not show any signs or symptoms of the condition.",
+            "score": 18.026238083839417
+        },
+        {
+            "docid": "8326859_2",
+            "document": "NtrC . NtrC (Nitrogen regulatory protein C) is the name of the protein necessary for the prokaryotic regulation transcription factor sigma N (sigma 54) to form an open complex with RNA polymerase in order to activate glnA transcription. The closed -> open conformational change of the sigma N-RNA polymerase complex around the glutamine synthetase gene promoter requires ATP and involves the formation of a loop between the enhancer and the promoter regions, which may be facilitated by DNA-bending proteins (such as IHF). The NtrC proteins bind at two sites located -140 and -108 upstream from the point of gene transcription.",
+            "score": 18.859546184539795
+        },
+        {
+            "docid": "2239513_6",
+            "document": "Lentivirus . Retroviruses carry specific proteins within their capsids, which typically associate with the RNA genome. These proteins are typically involved in the early stages of genome replication, and include reverse transcriptase and integrase. Reverse transcriptase is the virally encoded RNA-dependent DNA polymerase. The enzyme uses the viral RNA genome as a template for the synthesis of a complementary DNA copy. Reverse transcriptase also has RNaseH activity for destruction of the RNA-template. Integrase binds both the viral cDNA generated by reverse transcriptase and the host DNA. Integrase processes the LTR before inserting the viral genome into the host DNA. Tat acts as a trans-activator during transcription to enhance initiation and elongation. The Rev responsive element acts post-transcriptionally, regulating mRNA splicing and transport to the cytoplasm.",
+            "score": 15.971301078796387
+        }
+    ],
+    "r": [
+        {
+            "docid": "2142816_7",
+            "document": "Borrelia burgdorferi . \"B. burgdorferi\" circulates between \"Ixodes\" ticks and a vertebrate host in an enzootic cycle. \"B. burgdorferi\" living in a tick cannot be passed to its offspring. Therefore, tick larvae must feed on the blood of an infected animal to acquire \"B. burgdorferi\", which ends up in the midgut. The spirochetes survive as the larvae molts into a nymph and persist in the nutrient-poor midgut as the nymph overwinters. Infected nymphs then transmit \"B. burgdorferi\" by feeding on another vertebrate to complete the cycle. Ticks can transmit \"B. burgdorferi\" to humans, but humans are dead-end hosts, unlikely to continue the life cycle of the spirochete. Nymphs molt into adult ticks, which usually feed on larger mammals that are not able to support the survival of \"B. burgdorferi\".",
+            "score": 147.1905975341797
+        },
+        {
+            "docid": "10085290_31",
+            "document": "Lyme disease microbiology . OspA, OspB, and OspD are expressed by \"B. burgdorferi\" residing in the gut of unfed ticks, suggesting they promote the persistence of the spirochete in ticks between blood meals. During transmission to the mammalian host, when the nymphal tick begins to feed and the spirochetes in the midgut begin to multiply rapidly, most spirochetes cease expressing OspA on their surfaces. Simultaneous with the disappearance of OspA, the spirochete population in the midgut begins to express an OspC and migrates to the salivary gland. Upregulation of OspC begins during the first day of feeding and peaks 48 hours after attachment.",
+            "score": 135.0839080810547
+        },
+        {
+            "docid": "10085290_33",
+            "document": "Lyme disease microbiology . OspC is a strong antigen; detection of its presence by the host organism stimulates an immune response. While each individual bacterial cell contains just one copy of the \"ospC\" gene, the gene sequence of \"ospC\" among different strains within each of the three major Lyme disease species is highly variable. OspC plays an essential role during the early stage of mammalian infection. In infected ticks feeding on a mammalian host, OspC may also be necessary to allow \"B. burgdorferi\" to invade and attach to the salivary gland after leaving the gut, although not all studies agree on such a role for the protein. OspC attaches to the tick salivary protein Salp15, which protects the spirochete from complement and impairs the function of dendritic cells.",
+            "score": 126.96839904785156
+        },
+        {
+            "docid": "244113_82",
+            "document": "Lyme disease . While \"B. burgdorferi\" is most associated with ticks hosted by white-tailed deer and white-footed mice, \"Borrelia afzelii\" is most frequently detected in rodent-feeding vector ticks, and \"Borrelia garinii\" and \"Borrelia valaisiana\" appear to be associated with birds. Both rodents and birds are competent reservoir hosts for \"B. burgdorferi sensu stricto\". The resistance of a genospecies of Lyme disease spirochetes to the bacteriolytic activities of the alternative complement pathway of various host species may determine its reservoir host association.",
+            "score": 125.54335021972656
+        },
+        {
+            "docid": "10085290_24",
+            "document": "Lyme disease microbiology . Whereas \"B. burgdorferi\" is most associated with deer ticks and the white footed mouse, \"B. afzelli\" is most frequently detected in rodent-feeding vector ticks, and \"B. garinii\" and \"B. valaisiana\" appear to be associated with birds. Both rodents and birds are competent reservoir hosts for \"B. burgdorferi\" \"sensu stricto\". The resistance of a genospecies of Lyme disease spirochetes to the bacteriolytic activities of the alternative immune complement system of various host species may determine its reservoir host association.",
+            "score": 121.8902816772461
+        },
+        {
+            "docid": "10085290_32",
+            "document": "Lyme disease microbiology . The OspA and OspB genes encode the major outer membrane proteins of \"B.\u00a0burgdorferi\". The two Osp proteins show a high degree of sequence similarity, indicating a recent duplication event. Virtually all spirochetes in the midgut of an unfed nymph tick express OspA. OspA promotes the attachment of \"B. burgdorferi\" to the tick protein TROSPA, present on tick gut epithelial cells. OspB also has an essential role in the adherence of \"B. burgdorferi\" to the tick gut. Although OspD has been shown to bind to tick gut extracts \"in vitro\", as well as OspA and OspB, it is not essential for the attachment and colonization of the tick gut, and it is not required for human infections.",
+            "score": 121.23479461669922
+        },
+        {
+            "docid": "2142816_8",
+            "document": "Borrelia burgdorferi . Lyme disease is a zoonotic, vector-borne disease transmitted by the \"Ixodes\" tick (also the vector for \"Babesia\" and \"Anaplasma\"). The infected nymphal tick transmits \"B. burgdorferi\" via its saliva to the human during its blood meal.",
+            "score": 113.5088119506836
+        },
+        {
+            "docid": "2142816_14",
+            "document": "Borrelia burgdorferi . Stage 3 is known as the Late Disseminated stage and occurs months - years after the initial infection. Effects of the 3 stage include encephalitis or meningitis.. as well as migratory arthropathies (most commonly of the knee). Anaplasmosis and babesiosis are also common tick-borne pathogens carried by the Ixodes tick that infect humans similarly to Borrelia burgdorferi. Consequently, it is possible for an Ixodes tick to coinfect a host with either two or all other diseases. When a host is coinfected, the combined effects of the diseases act synergistically, often proving to cause worse symptoms than a single infection alone Coinfected humans tend to display a more severe manifestation of Lyme disease. In addition, they tend to acquire a wider range of secondary symptoms, such as influenza-like symptoms. More studies and research must be done to determine the synergistic effect of co-infection and its effect on the human body.",
+            "score": 112.94586181640625
+        },
+        {
+            "docid": "22612978_11",
+            "document": "Ixodes pacificus . The western black-legged tick is a vector for Lyme disease, which is caused by infection with \"Borrelia burgdorferi\". After feeding on a host animal infected with the bacterium, the tick is then able to transmit it to other animals, including humans, through subsequent blood meals. The nymphal stage, and sometimes adult female ticks, are responsible for the majority of transmission events. Nymphal ticks primarily feed on small animals and humans during the spring and early summer, while adult ticks are most active during the winter and seek out hosts from late fall to spring.",
+            "score": 108.5913314819336
+        },
+        {
+            "docid": "33170887_2",
+            "document": "Borrelia miyamotoi . Borrelia miyamotoi is a spirochete bacterium in the genus \"Borrelia\". A zoonotic bacterium, \"B. miyamotoi\" can be transferred to humans through the hard (\"Ixodes\") ticks, the same tick species that spread \"B. burgdorferi\", the causative agent of Lyme disease, and \"Babesia microti\", the causative agent of babesiosis. Although infection can cause some similar symptoms including fever, headache, fatigue, and muscle aches, acute Lyme disease often presents with rash, while infection with \"B. miyamotoi\" does not; it remains unclear whether \"B. miyamotoi\" causes a relapsing fever syndrome.",
+            "score": 106.98885345458984
+        },
+        {
+            "docid": "53887284_8",
+            "document": "Borrelia mayonii . Infection by \"B. mayonii\" is also transferred from the bite of \"Ixodes scapularis\", a tick. \"Borellia mayonii\" causes Lyme disease like \"Borrelia burgdorferi\" with the symptoms of fever, headache, rash, neck pain, and arthritis. However, \"B. mayonii\" also has additional symptoms differentiating it from \"B. burgdorferi\", such as nausea, vomiting, macular rash, and neurological symptoms. To identify infection of \"B. mayonii\", we can use blood smears, slides with blood samples on them for use with a microscope. Mayonii spirochetes in blood smears indicate a positive infection for Lyme disease caused by \"B. mayonii\". Another alternative is using Lyme disease PCR tests which is currently only available at the Mayo Clinic. To treat this infection, the current drug of choice is doxycycline, an antibiotic, over a 2 to 4 week course.",
+            "score": 105.56986236572266
+        },
+        {
+            "docid": "244113_26",
+            "document": "Lyme disease . \"B. burgdorferi\" is injected into the skin by the bite of an infected \"Ixodes\" tick. Tick saliva, which accompanies the spirochete into the skin during the feeding process, contains substances that disrupt the immune response at the site of the bite. This provides a protective environment where the spirochete can establish infection. The spirochetes multiply and migrate outward within the dermis. The host inflammatory response to the bacteria in the skin causes the characteristic circular EM lesion. Neutrophils, however, which are necessary to eliminate the spirochetes from the skin, fail to appear in the developing EM lesion. This allows the bacteria to survive and eventually spread throughout the body.",
+            "score": 105.41973114013672
+        },
+        {
+            "docid": "11245344_7",
+            "document": "Ixodes ricinus . A number of tick-borne diseases can be transmitted by \"I.\u00a0ricinus\" to a variety of mammal hosts. Dogs can be infected with Lyme disease (borreliosis), caused by the spirochaete bacteria \"Borrelia burgdorferi\", \"B.\u00a0afzeli\", and \"B.\u00a0garnii\". Cattle can become infected with redwater fever (from the protozoans \"Babesia divergens\", \"B.\u00a0bovis\", and \"B.\u00a0ovis\"), Lyme disease (from \"B. burgdorferi\"), sheep tick pyemia (\"Staphylococcus aureus\"), cattle tick-borne fever (\"Anaplasma phagocytophila\"), Q fever (\"Coxiella burnetii\"), Boutonneuse fever (\"Rickettsia conorii\"), and the bacterium \"Anaplasma marginale\". Horses may be infected with Lyme disease, \"Anaplasma phagocytophila\", and the viral infection louping ill. Humans can become infected with Lyme disease, louping ill, Q fever, and tick-borne encephalitis.",
+            "score": 105.3620376586914
+        },
+        {
+            "docid": "244113_16",
+            "document": "Lyme disease . Within the tick midgut, the \"Borrelia\"s outer surface protein A (OspA) binds to the tick receptor for OspA, known as TROSPA. When the tick feeds, the\" Borrelia\" downregulates OspA and upregulates OspC, another surface protein. After the bacteria migrate from the midgut to the salivary glands, OspC binds to Salp15, a tick salivary protein that appears to have immunosuppressive effects that enhance infection. Successful infection of the mammalian host depends on bacterial expression of OspC.",
+            "score": 103.82899475097656
+        },
+        {
+            "docid": "40054434_2",
+            "document": "Borrelia lusitaniae . Borrelia lusitaniae is a bacterium of the spirochete class of the genus\" Borrelia\", which has a diderm (double-membrane) envelope. It is a part of the \"Borrelia burgdorferi\" \"sensu lato\" genospecies and is a Gram-negative bacterium. \"B. lusitaniae\" is tick-borne; he type strain is PotiB2. It can be pathogenic, being involved in cases of Lyme borreliosis. A species of tick, \"Ixodes ricinus\", is the host of \"B. lusitaniae\". It is thought to have originated from Portugal and has since spread to parts of Europe and North Africa. Lizards of the family Lacertidae are now believed to be important reservoir hosts of this bacterium.",
+            "score": 103.13758850097656
+        },
+        {
+            "docid": "244113_15",
+            "document": "Lyme disease . Lyme disease is classified as a zoonosis, as it is transmitted to humans from a natural reservoir among small mammals and birds by ticks that feed on both sets of hosts. Hard-bodied ticks of the genus \"Ixodes\" are the main vectors of Lyme disease (also the vector for \"Babesia\"). Most infections are caused by ticks in the nymphal stage, because they are very small and thus may feed for long periods of time undetected. Larval ticks are very rarely infected. Although deer are the preferred hosts of the adult stage of deer ticks, and tick populations are much lower in the absence of deer, ticks generally do not acquire Lyme disease spirochetes from deer. Rather, deer ticks acquire \"Borrelia\" microbes from infected small mammals and occasionally birds, including the white-footed mouse, \"Peromyscus leucopus\".",
+            "score": 100.99842834472656
+        },
+        {
+            "docid": "244113_67",
+            "document": "Lyme disease . In Europe, Lyme disease is caused by infection with one or more pathogenic European genospecies of the spirochaete \"B. burgdorferi sensu lato\", mainly transmitted by the tick \"Ixodes ricinus\". Cases of \"B. burgdorferi sensu lato\"-infected ticks are found predominantly in central Europe, particularly in Slovenia and Austria, but have been isolated in almost every country on the continent. Incidence in southern Europe, such as Italy and Portugal, is much lower.",
+            "score": 100.70018768310547
+        },
+        {
+            "docid": "244113_101",
+            "document": "Lyme disease . After the identification of \"B. burgdorferi\" as the causative agent of Lyme disease, antibiotics were selected for testing, guided by \"in vitro\" antibiotic sensitivities, including tetracycline antibiotics, amoxicillin, cefuroxime axetil, intravenous and intramuscular penicillin and intravenous ceftriaxone. The mechanism of tick transmission was also the subject of much discussion. \"B. burgdorferi\" spirochetes were identified in tick saliva in 1987, confirming the hypothesis that transmission occurred via tick salivary glands.",
+            "score": 100.55570220947266
+        },
+        {
+            "docid": "10707712_10",
+            "document": "Ixodes scapularis . Although they are the preferred mammalian hosts, deer cannot transmit \"Borrelia\" spirochetes to ticks. Ticks acquire Lyme disease microbes by feeding on infected mice and other small rodents.",
+            "score": 99.13813018798828
+        },
+        {
+            "docid": "12573760_7",
+            "document": "Amblyomma americanum . Though the primary bacterium responsible for Lyme disease, \"Borrelia burgdorferi\", has occasionally been isolated from lone star ticks, numerous vector competency tests have demonstrated that this tick is extremely unlikely to be capable of transmitting Lyme disease. Some evidence indicates \"A. americanum\" saliva inactivates \"B. burgdorferi\" more quickly than the saliva of \"Ixodes scapularis\". Recently the bacteria \"Borrelia andersonii\" and \"Borrelia americana\" have been linked to \"Amblyomma americanum\".",
+            "score": 97.48137664794922
+        },
+        {
+            "docid": "45691295_8",
+            "document": "Pat Nuttall . These results challenge the then-accepted idea that arthropod-transmitted viruses can only be transmitted when the arthropod vector feeds on an infected host in which the virus is replicating and circulating in the blood above a threshold level. Sarah Randolph comments:  The phenomenon of nonviraemic or nonsystemic transmission turns out to be widespread \u2013 it has been subsequently observed with many other viruses transmitted by ticks, black flies and mosquitos, including major human pathogens such as West Nile virus, as well as other pathogens, including the spirochaete \"Borrelia burgdorferi\", which causes Lyme disease. \u2013 and important in natural transmission. Nuttall's group has continued to study the phenomenon, and have shown that immunity to tick-borne encephalitis virus does not prevent nonsystemic transmission.",
+            "score": 96.39872741699219
+        },
+        {
+            "docid": "2142816_16",
+            "document": "Borrelia burgdorferi . After the pathogen is transmitted, it will acclimate to the mammalian conditions. \"Borrelia burgdorferi\" will change its glycoproteins and proteases on its plasma membrane to facilitate its dissemination throughout the blood. While infecting, \"B. burgdorferi\" will express proteins that will interact with endothelial cells, platelets, chondrocytes, and the extracellular matrix. This interaction inhibits proper function of the infected areas, leading to the pathological manifestations of Lyme disease. In response, the host will initiate an inflammatory response to attempt to remove the infection.",
+            "score": 96.26461791992188
+        },
+        {
+            "docid": "244113_50",
+            "document": "Lyme disease . In Europe known reservoirs of \"Borrelia burgdorferi\" were 9 small mammals, 7 medium-sized mammals and 16 species of birds (including passerines, sea-birds and pheasants). These animals seem to transmit spirochetes to ticks and thus participate in the natural circulation of B. burgdorferi in Europe. The house mouse is also suspected as well as other species of small rodents, particularly in Eastern Europe and Russia.",
+            "score": 95.23994445800781
+        },
+        {
+            "docid": "5733851_20",
+            "document": "Babesia . Of the species to infect humans, \"B. microti\" is most common in the Americas, whereas \"B. divergens\" is the predominant strain found in Europe. Endemic areas are regions of tick habitat, including the forest regions of the northeastern United States and temperate regions of Europe. Ixodidae, the tick vectors of \"B. microti\", also transmit the better-known \"Borrelia burgdorferi\", causative agent of Lyme disease. For reasons that remain unclear, in areas endemic to both Lyme disease and babesiosis, Lyme disease transmission prevails and is more predominant in the region. Prevalence of babesiosis in malaria-endemic regions remains unknown due to the likelihood of misdiagnosis as malaria. As the disease results in a high number of asympomatic individuals, many populations can possess high seroprevalence without much documentation of illness. For example, in Rhode Island and Nantucket, seroprevalence has been measured to be 20\u201325%. Prevalence of babesiosis is mostly documented during the months of May to September when tick activity in endemic regions is high.",
+            "score": 90.60372924804688
+        },
+        {
+            "docid": "1112059_7",
+            "document": "Tick-borne disease . For an individual to acquire infection, the feeding tick must also be infected. Not all ticks are infected. In most places in the US, 30-50% of deer ticks will be infected with \"Borrelia burgdorferi\" (the agent of Lyme disease). Other pathogens are much more rare. Ticks can be tested for infection using a highly specific and sensitive qPCR procedure. Several commercial labs provide this service to individuals for a fee. The Laboratory of Medical Zoology (LMZ), a nonprofit lab at the University of Massachusetts, provides a comprehensive TickReport for a variety of human pathogens and makes the data available to the public. Those wishing to know the incidence of tick-borne diseases in their town or state can search the LMZ surveillance database.",
+            "score": 90.47808837890625
+        },
+        {
+            "docid": "10085290_16",
+            "document": "Lyme disease microbiology . In South America, tick-borne disease recognition and occurrence is rising. Ticks carrying \"B. burgdorferi\" \"s.l.\", as well as canine and human tick-borne diseases, have been reported widely in Brazil, but the subspecies of \"Borrelia\" has not yet been defined. The first reported case of Lyme disease in Brazil was made in 1993 in Sao Paulo. \"B. burgdorferi\" \"sensu stricto\" antigens in patients have been identified in Colombia and in Bolivia. B. burgorferi has been reported in Bay Islands of Honduras.",
+            "score": 90.46784210205078
+        },
+        {
+            "docid": "4782903_3",
+            "document": "Dermacentor variabilis . Though \"D. variabilis\" may be exposed to \"Borrelia burgdorferi\", the causative agent of Lyme disease, these ticks are not competent vectors for the transmission of this disease. The primary vectors for \"Borrelia burgdorferi\" are the deer tick \"Ixodes scapularis\" in Eastern parts of the United States, \"Ixodes pacificus\" in California and Oregon, and \"Ixodes ricinus\" in Europe. \"Dermacentor variabilis\" may also carry \"Anaplasma phagocytophilum\", the causative agent of HGA (Human granulocytic anaplasmosis), and \"Ehrlichia chaffeensis\", the causative agent of HME (human monocytic ehrlichiosis).",
+            "score": 89.65302276611328
+        },
+        {
+            "docid": "54370125_2",
+            "document": "Occupational exposure to Lyme disease . Occupational exposure to Lyme disease is exposure to Lyme disease on the job. It is a major health issue among outdoor workers. Lyme disease is the most commonly reported tick-borne disease in the United States. In 2010, more than 22,500 confirmed and 7,500 probable cases of Lyme disease were reported to the Centers for Disease Control and Prevention (CDC). Lyme disease is passed to humans by the bite of black-legged ticks (also known as deer ticks in the eastern United States) and western black-legged ticks infected with the bacterium \"Borrelia burgdorferi\". The Lyme disease bacterium normally lives in mice, squirrels, and other small mammals. Cat fleas and ticks can carry pathogenic organisms that infect a person with Lyme disease and other tick-borne diseases.",
+            "score": 89.31640625
+        },
+        {
+            "docid": "22612978_12",
+            "document": "Ixodes pacificus . In order for a human to be infected by the bacterium, the tick carrying it must be attached for approximately 36 to 48 hours. Due to the smaller size of the nymphal stage ticks, approximately 2 mm, they are more likely to go unnoticed when attached to a human. This enables a nymph to potentially stay attached longer to the host it is feeding on. For this reason, the nymphal stage is primarily responsible for transmission of \"Borrelia burgdorferi\".",
+            "score": 88.80229949951172
+        },
+        {
+            "docid": "18455515_4",
+            "document": "Southern tick-associated rash illness . Several studies have failed to detect \"Borrelia burgdorferi\", which is the causative agent of Lyme disease, in patients from the southern United States. This disease may be caused by the related bacterium \"Borrelia lonestari\", which is a spirochete first isolated in culture in 2004. However, this conclusion is controversial since the spirochete is not detected in all cases of the syndrome, which has led some authors to argue that the illness is not caused by a bacterial pathogen.",
+            "score": 88.77153015136719
+        },
+        {
+            "docid": "244113_27",
+            "document": "Lyme disease . Days to weeks following the tick bite, the spirochetes spread via the bloodstream to joints, heart, nervous system, and distant skin sites, where their presence gives rise to the variety of symptoms of the disseminated disease. The spread of \"B. burgdorferi\" is aided by the attachment of the host protease plasmin to the surface of the spirochete.",
+            "score": 88.59017181396484
+        },
+        {
+            "docid": "10707408_2",
+            "document": "Ixodes . Ixodes is a genus of hard-bodied ticks (family Ixodidae). It includes important disease vectors of animals and humans (tick-borne disease), and some species (notably \"Ixodes holocyclus\") inject toxins that can cause paralysis. Some ticks in this genus may transmit the pathogenic bacterium \"Borrelia burgdorferi\" responsible for causing Lyme disease. Additional organisms that may be transmitted by \"Ixodes\" are parasites from the genus \"Babesia\" which cause babesiosis, and bacteria from the related genera \"Anaplasma\" which cause anaplasmosis.",
+            "score": 88.16670989990234
+        }
+    ]
+}

@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "9775_5",
+            "document": "Endoplasmic reticulum . The membrane of the rough endoplasmic reticulum forms large double membrane sheets that are located near, and continuous with, the outer layer of the nuclear envelope. The double membrane sheets are stacked and connected through several right or left-handed helical ramps, the so-called Terasaki ramps, giving rise to a structure resembling a multi-storey car park. Although there is no continuous membrane between the endoplasmic reticulum and the Golgi apparatus, membrane-bound transport vesicles shuttle proteins between these two compartments. Vesicles are surrounded by coating proteins called COPI and COPII. COPII targets vesicles to the Golgi apparatus and COPI marks them to be brought back to the rough endoplasmic reticulum. The rough endoplasmic reticulum works in concert with the Golgi complex to target new proteins to their proper destinations. A second method of transport out of the endoplasmic reticulum involves areas called membrane contact sites, where the membranes of the endoplasmic reticulum and other organelles are held closely together, allowing the transfer of lipids and other small molecules.",
+            "score": 285.59166502952576
+        },
+        {
+            "docid": "501827_2",
+            "document": "COPI . COPI is a coatomer, a protein complex that coats vesicles transporting proteins from the \"cis\" end of the Golgi complex back to the rough endoplasmic reticulum (ER), where they were originally synthesized, and between Golgi compartments. This type of transport is termed as \"retrograde transport\", in contrast to the \"anterograde transport\" associated with the COPII protein. The name \"COPI\" refers to the specific coat protein complex that initiates the budding process on the \"cis\"-Golgi membrane. The coat consists of large protein subcomplexes that are made of seven different protein subunits, namely \u03b1, \u03b2, \u03b2', \u03b3, \u03b4, \u03b5 and \u03b6.",
+            "score": 275.79171204566956
+        },
+        {
+            "docid": "5092142_21",
+            "document": "Laboratory of Molecular Biology . The emphasis on classical molecular biology shifted towards cell biology and development, so that the Molecular Genetics division was renamed Cell Biology. Mark Bretscher discovered the topological way proteins are arranged in the human erythrocyte membrane and its phospholipid asymmetry. Richard Henderson and Nigel Unwin developed electron crystallography to determine the structure of two-dimensional arrays, applying this to the bacterial purple protein, bacteriorhodopsin. Barbara Pearse discovered the major components of clathrin-coated vesicles, structures formed during endocytosis, and a low resolution structure of the cage-like lattice around them was determined. How proteins become localised to different parts of the cell \u2014 such as to the endoplasmic reticulum, Golgi apparatus or the plasma membrane \u2014 and the role of this in cell polarity, have been elucidated by Bretscher, Hugh Pelham and Sean Munro. The spindle pole bodies \u2014 the large structures in yeast cells which act as the foci to which chromosomes are moved during mitosis \u2014 have been purified and a low resolution structure of them deduced by John Kilmartin.",
+            "score": 215.58033180236816
+        },
+        {
+            "docid": "501826_2",
+            "document": "COPII . COPII is a coatomer, a type of vesicle coat protein that transports proteins from the rough endoplasmic reticulum to the Golgi apparatus. This process is termed anterograde transport, in contrast to the retrograde transport associated with the COPI protein. The name \"COPII\" refers to the specific coat protein complex that initiates the budding process. The coat consists of large protein subcomplexes that are made of four different protein subunits.",
+            "score": 242.9272005558014
+        },
+        {
+            "docid": "14759820_3",
+            "document": "USO1 . The protein encoded by this gene is a peripheral membrane protein which recycles between the cytosol and the Golgi apparatus during interphase. It is regulated by phosphorylation: dephosphorylated protein associates with the Golgi membrane and dissociates from the membrane upon phosphorylation. Ras-associated protein 1 recruits this protein to coat protein complex II (COPII) vesicles during budding from the endoplasmic reticulum (ER), where it interacts with a set of COPII vesicle-associated SNAREs to form a cis-SNARE complex that promotes targeting to the Golgi apparatus. Transport from the ER to the cis/medial Golgi compartments requires the action of this gene product, GOLGA2, and giantin in a sequential manner.",
+            "score": 303.84354162216187
+        },
+        {
+            "docid": "501826_3",
+            "document": "COPII . There are two protein heterodimers that form the coat complex. These proteins are These proteins alone are not able to cause the budding of the vesicle or direct the vesicle to the correct target membrane. SNARE, cargo, and other proteins are also needed for these processes to occur. The CopII protein does, however, cause the binding that forms vesicle coat, and thereby causes the release from the ER. The exact process of how the vesicle is brought to a particular location, or how that location is determined is not yet known.",
+            "score": 315.55306243896484
+        },
+        {
+            "docid": "36332878_5",
+            "document": "B2-adapt-app C . Proteins synthesized on the ribosome and processed in the endoplasmic reticulum are transported from the Golgi apparatus to the trans-Golgi network (TGN), and from there via small carrier vesicles to their final destination compartment. These vesicles have specific coat proteins (such as clathrin or coatomer) that are important for cargo selection and direction of transport. Clathrin coats contain both clathrin (acts as a scaffold) and adaptor complexes that link clathrin to receptors in coated vesicles. Clathrin-associated protein complexes are believed to interact with the cytoplasmic tails of membrane proteins, leading to their selection and concentration. The two major types of clathrin adaptor complexes are the heterotetrameric adaptor protein (AP) complexes, and the monomeric GGA (Golgi-localising, Gamma-adaptin ear domain homology, ARF-binding proteins) adaptors.",
+            "score": 233.85287022590637
+        },
+        {
+            "docid": "5884194_10",
+            "document": "Vesicular transport adaptor protein . The best characterized type of vesicle is the clathrin coated vesicle (CCV). The formation of a COPII vesicle at the endoplasmic reticulum and its transport to the Golgi body. The involvement of the heterotetramer of COPI is similar to that of the AP/clathrin situation, but the coat of COPI is not closely related to the coats of either CCVs or COPII vesicles. AP-5 is associated with 2 proteins, SPG11 and SPG15, which have some structural similarity to clathrin, and may form the coat around the AP-5 complex, but the ultrastructure of that coat is not known. The coat of AP-4 is unknown.",
+            "score": 255.29001200199127
+        },
+        {
+            "docid": "12386405_10",
+            "document": "Potato virus Y . Upon entrance into the plant cell, the virus coat protein disassembles and releases its RNA genome. The viral RNA serves as mRNA, and although little is known about the translation thereof, it is believed that the 5\u2019 non-coding region functions as an enhancer of translation. The translated mRNA results in a polyprotein which is processed into mature proteins. Each polyprotein is then cleaved into ten different proteins which are believed to be multifunctional. These proteins, along with host proteins, assemble to form a replication complex. This complex performs negative-strand RNA synthesis, using the positive strand of viral RNA as a template. Once the additional RNA copies have been produced, they code for the synthesis of various proteins, as mentioned before, as well as coat proteins. These coat proteins will now enclose the newly formed genomes to give rise to new virions. It has been suggested that enclosure of the newly formed virions is initiated by the interaction of the coat proteins with the 5\u2019terminus and that the coat protein is built up towards the 3\u2019terminus. The entire process of viral replication occurs within the endoplasmic reticulum. These newly synthesized viral particles are subsequently transported through the plasmodesmata to adjacent plant cells via several assisting potyvirus proteins. Distribution of viruses within the plant occurs according to the source-sink relationship between maturing and growing tissues. Virus concentration throughout the plant is high and this greatly increases the chance of uptake by aphids. Infection of plants by potyviruses can be varied in the symptoms shown. Infection can include veinal necrosis, mosaic symptoms as well as leaf malformation (Boonham et al., 2002). Infected plants that do not show symptoms may have infected canopies and will yield lower quality products than their healthy counterparts.",
+            "score": 198.10621917247772
+        },
+        {
+            "docid": "2069041_5",
+            "document": "Brefeldin A . In mammalian and yeast cells, the main target of brefeldin A appears to be a guanine nucleotide exchange factor (GEF) called GBF1. GBF1 is a member of the Arf family of GEFs which are recruited to membranes of the Golgi. It is responsible for the regulation of Arf1p GTPase. It does this through converting the inactive GDP-bound form of Arf1p to the active GTP-bound form. The nucleotide exchange occurs at the catalytic Sec7 domain of GBF1. Activated Arf1p then recruits coat protein \u03b2-COP, a subunit of the COP-I complex, to cargo-bound receptors on the membrane. Coat protein recruitment is necessary for proper vesicle formation and transport. Brefeldin A reversibly inhibits the function of GBF1 uncompetitively by binding to the complex it forms with GDP-bound Arf1p and preventing conversion to the GTP-bound form. The lack of active Arf1p prevents coat protein recruitment, which then ultimately induces the fusion of neighboring ER and Golgi membranes due to lack of vesicle formation. This is because lack of vesicle formation results in a buildup of SNARE proteins in the Golgi which would otherwise be bound to coat protein-coated vesicles and removed with the vesicles once they bud off. SNARE proteins mediate membrane fusion and it is postulated that the described SNARE build up in the Golgi increases the chances of aberrant fusion of the Golgi membrane with that of the ER. The collapse of the Golgi into the ER triggers activation of unfolded protein response (UPR) (or ER stress) which can result in apoptosis.",
+            "score": 288.84508657455444
+        },
+        {
+            "docid": "14873446_3",
+            "document": "KDELR1 . Retention of resident soluble proteins in the lumen of the endoplasmic reticulum (ER) is achieved in both yeast and animal cells by their continual retrieval from the cis-Golgi or a pre-Golgi compartment. Sorting of these proteins is dependent on a C-terminal tetrapeptide signal, usually lys-asp-glu-leu (KDEL) in animal cells and his-asp-glu-leu (HDEL) in \"S. cerevisiae\". This process is mediated by a receptor that recognizes and binds the tetrapeptide-containing protein and then returns it to the ER. In yeast, the sorting receptor is encoded by a single gene, ERD2, which is a seven-transmembrane protein. Unlike yeast, several human homologs of the ERD2 gene, constituting the KDEL receptor gene family, have been described. The protein encoded by this gene was the first member of the family to be identified, and it encodes a protein structurally and functionally similar to the yeast ERD2 gene product. The KDEL receptor mediates the retrieval of misfolded proteins between the ER and the Golgi apparatus. The KDEL receptor functions by binding to endoplasmic reticulum chaperones. These chaperones are recognized by the KDEL receptor in downstream compartments of the ER. Once bound, they are packaged into coat protein complex I vesicles for retrograde transport to the ER. In vitro studies in yeast have revealed that this receptor regulates membrane transport in the early stages of the secretory pathway from ER to the Golgi. An error or mutation in the KDEL receptor disturbs the ER quality control and diseases associated with ER stress are observed.",
+            "score": 220.4115743637085
+        },
+        {
+            "docid": "4817_16",
+            "document": "Biological membrane . Distinct types of membranes also create intracellular organelles: endosome; smooth and rough endoplasmic reticulum; sarcoplasmic reticulum; Golgi apparatus; lysosome; mitochondrion (inner and outer membranes); nucleus (inner and outer membranes); peroxisome; vacuole; cytoplasmic granules; cell vesicles (phagosome, autophagosome, clathrin-coated vesicles, COPI-coated and COPII-coated vesicles) and secretory vesicles (including synaptosome, acrosomes, melanosomes, and chromaffin granules). Different types of biological membranes have diverse lipid and protein compositions. The content of membranes defines their physical and biological properties. Some components of membranes play a key role in medicine, such as the efflux pumps that pump drugs out of a cell.",
+            "score": 295.1215788125992
+        },
+        {
+            "docid": "12584_10",
+            "document": "Golgi apparatus . The Golgi apparatus is a major collection and dispatch station of protein products received from the endoplasmic reticulum (ER). Proteins synthesized in the ER are packaged into vesicles, which then fuse with the Golgi apparatus. These cargo proteins are modified and destined for secretion via exocytosis or for use in the cell.  In this respect, the Golgi can be thought of as similar to a post office: it packages and labels items which it then sends to different parts of the cell or to the extracellular space. The Golgi apparatus is also involved in lipid transport and lysosome formation.",
+            "score": 192.4701156616211
+        },
+        {
+            "docid": "21400587_6",
+            "document": "History of cell membrane theory . A decade later, Davson and Danielli proposed a modification to this concept. In their model, the lipid bilayer was coated on either side with a layer of globular proteins. According to their view, this protein coat had no particular structure and was simply formed by adsorption from solution. Their theory was also incorrect in that it ascribed the barrier properties of the membrane to electrostatic repulsion from the protein layer rather than the energetic cost of crossing the hydrophobic core. A more direct investigation of the membrane was made possible through the use of electron microscopy in the late 1950s. After staining with heavy metal labels, Sj\u00f6strand et al. noted two thin dark bands separated by a light region, which they incorrectly interpreted as a single molecular layer of protein. A more accurate interpretation was made by J. David Robertson, who determined that the dark electron-dense bands were the headgroups and associated proteins of two apposed lipid monolayers. In this body of work, Robertson put forward the concept of the \u201cunit membrane.\u201d This was the first time the bilayer structure had been universally assigned to all cell membranes as well as organelle membranes.",
+            "score": 200.36710953712463
+        },
+        {
+            "docid": "6253216_8",
+            "document": "Alpha solenoid . Vesicle coat proteins frequently contain alpha solenoids and share common domain architecture with some NPC proteins. Three major coat complexes involved in distinct cellular pathways all contain alpha solenoid proteins: the clathrin/adaptin complex, which buds vesicles from the plasma membrane and is involved in endocytosis; the COPI complex, which buds vesicles from the Golgi apparatus and is associated with retrograde transport; and the COPII complex, which buds vesicles from the endoplasmic reticulum and is associated with anterograde transport.",
+            "score": 251.2987561225891
+        },
+        {
+            "docid": "35666519_2",
+            "document": "Clathrin adaptor protein . Clathrin adaptor proteins, also known as adaptins, are vesicular transport adaptor proteins associated with clathrin. These proteins are synthesized in the ribosomes, processed in the endoplasmic reticulum and transported from the Golgi apparatus to the trans-Golgi network, and from there via small carrier vesicles to their final destination compartment. The association between adaptins and clathrin are important for vesicular cargo selection and transporting. Clathrin coats contain both clathrin (acts as a scaffold) and adaptor complexes that link clathrin to receptors in coated vesicles. Clathrin-associated protein complexes are believed to interact with the cytoplasmic tails of membrane proteins, leading to their selection and concentration. The two major types of clathrin adaptor complexes are the heterotetrameric vesicular transport adaptor proteins (AP1-5), and the monomeric GGA (Golgi-localising, Gamma-adaptin ear homology, ARF-binding proteins) adaptors. Adaptins are distantly related to the other main type of vesicular transport proteins, the coatomer subunits, sharing between 16% and 26% of their amino acid sequence.",
+            "score": 219.43379390239716
+        },
+        {
+            "docid": "21045203_12",
+            "document": "Reticulon . Evidence shows that reticulons influence ER and Golgi-body trafficking in and out of the cell through plasma membrane-associated proteins. Reticulons additionally aid in the formation of vesicles and membrane morphogenesis. When inhibiting RTNA in mammalian cells, it does not allow for proper formation of membrane tubules. In \"C. elegans\", removing RTNL RET and associated proteins interferes with the formation of the ER during mitosis. It also disrupts nuclear envelope reassembly. Reticulons have been found to interact with proteins that are involved with vesicular formation and morphogenesis of the ER. They are additionally involved in intracellular trafficking. In one example, it was shown that increasing expression of RTN keeps transport of proteins from retrograding from the Golgi bodies to the ER. Additionally, reticulons may be used to shape coated protein vesicles by interacting with a component of the adaptor protein complex (which maintains the coat on the vesicle). Reticulons may also be involved with apoptosis. The RTNC inhibits Bcl-X, which is an inhibitor of apoptosis. RTNC has also been shown in the ER to upregulate it\u2019s sensitivity to stressors, which is able to modulate apoptosis.",
+            "score": 273.5626676082611
+        },
+        {
+            "docid": "40773905_8",
+            "document": "Margaret Robinson . Every form of eukaryotic life on earth contains coated vesicles and adaptors. Her work is also speculated to play a key role in evolution of eukaryotes form prokaryotes over two billion years ago. Her work also has medical implications. Some adaptors are mutated in certain genetic disorders, and adaptors are frequently exploited by pathogens . For example, the HIV genome encodes a protein called Nef, which is required for the development of AIDS, and which works by hijacking adaptors and using them to modify the surface of the infected cell. Robinson\u2019s work explains how coated vesicles sort cargo but also provides tools that can be used by others to address their own favorite problems. For instance, her newly developed method called knocksideways. Knocksideways gets rid of proteins rapidly. Her technique has found its way into other labs who are also interested in how particular proteins contribute to different stages of cell division.",
+            "score": 202.22201251983643
+        },
+        {
+            "docid": "10116_12",
+            "document": "Endocytosis . Coats function to deform the donor membrane to produce a vesicle, and they also function in the selection of the vesicle cargo. Coat complexes that have been well characterized so far include coat protein-I (COP-I), COP-II, and clathrin. Clathrin coats are involved in two crucial transport steps: (i) receptor-mediated and fluid-phase endocytosis from the plasma membrane to early endosome and (ii) transport from the TGN to endosomes. In endocytosis, the clathrin coat is assembled on the cytoplasmic face of the plasma membrane, forming pits that invaginate to pinch off (scission) and become free CCVs. In cultured cells, the assembly of a CCV takes ~ 1min, and several hundred to a thousand or more can form every minute. The main scaffold component of clathrin coat is the 190-kD protein called clathrin heavy chain (CHC), which is associated with a 25- kD protein called clathrin light chain (CLC), forming three-legged trimers called triskelions.",
+            "score": 263.3320128917694
+        },
+        {
+            "docid": "22729563_3",
+            "document": "Jennifer Lippincott-Schwartz . The current research of Lippincott-Schwartz has helped to debunk the traditional \u2018static\u2019 view of molecules in cells including the methods of secretory membrane trafficking, compartmentalization, and trafficking of eukaryotic cells. Her research involves multiple live cell imaging techniques in order to study the dynamic interactions of molecules in cells and has led to a more lively view on the inner-workings of the cells. Such live cell imaging techniques include green fluorescent protein fusion alongside photobleaching and photoactivation techniques which allow investigation of subcellular localization, mobility, transport routes, and turnover of important cellular proteins related to membrane trafficking and compartmentalization. Lippincott-Schwartz's lab also tests mechanistic hypotheses related to protein and organelle functions and dynamics by utilizing quantitative measurements through kinetic modeling and simulation experiments. Along with Dr. Craig Blackstone, Lippincott-Schwartz utilized advanced imaging techniques to reveal a more accurate picture of how the peripheral endoplasmic reticulum is structured. Their findings may yield new insights for genetic diseases affecting proteins that help shape the endoplasmic reticulum. Additionally, Lippincott-Schwartz's laboratory demonstrated that Golgi enzymes constitutively recycle back to the endoplasmic reticulum and that such recycling plays a central role in the maintenance, biogenesis, and inheritance of the Golgi apparatus in mammalian cells.",
+            "score": 167.86255586147308
+        },
+        {
+            "docid": "51361870_2",
+            "document": "TANGO1/MIA3 . Melanoma inhibitory activity protein 3 (MIA3), also known as transport and Golgi organization protein 1 (TANGO1), is a protein that in humans is encoded by the \"MIA3\" gene on chromosome 1. It is ubiquitously expressed in many tissues and cell types. MIA3 localizes to the endoplasmic reticulum (ER) exit site, where it binds bulky cargo molecules such as collagens and creates mega transport carriers for the export of cargoes from the ER. This function suggests that it plays a role in assembly of extracellular matrix (ECM) and bone formation. MIA3 has been demonstrated to contribute to both tumor suppression and progression. The \"MIA3\" gene also contains one of 27 loci associated with increased risk of coronary artery disease.. A TANGO1 like protein called TALI is expressed in liver and intestine and shown to be required for the export of bulky very Low density lipoproteins (VLDL) and chylomicrons. TANGO1 and TALI assemble into rings around COPII coats and this function is necessary for cargo export.",
+            "score": 199.4542944431305
+        },
+        {
+            "docid": "44214016_14",
+            "document": "Glutamate receptor-interacting protein . Motor proteins such as Kinesin (KIF5) are bound to adapter molecules like GRIP1 to move cargo from the Golgi to the extremities of a neuron cell. GRIP1 and KIF5 are very commonly found together due to a good binding affinity (Kd range from 10-20nM). As for how cargo gets to the right place, there has been a hypothesis called the \u201csmart motor\u201d. It is currently thought that the \u201csmart motor\u201d recognizes the difference between axonal (coated with KLC protein) and dendritic (coated with KHC) proteins. The destination is chosen accordingly. Unfortunately, details about the intermediate transporting steps are unknown. However, at the destination the binding of protein 14-3-3 disrupts the interaction between KIF5 and GRIP1. This releases the cargo.",
+            "score": 168.67358541488647
+        },
+        {
+            "docid": "416934_6",
+            "document": "Vesicular stomatitis virus . The VSIV G protein, aka VSVG, enables viral entry. It mediates viral attachment to an LDL receptor (LDLR) or an LDLR family member present on the host cell. Following binding, the VSIV-LDLR complex is rapidly endocytosed. It then mediates fusion of the viral envelope with the endosomal membrane. VSIV enters the cell through partially clathrin-coated vesicles; virus-containing vesicles contain more clathrin and clathrin adaptor than conventional vesicles. Virus-containing vesicles recruit components of the actin machinery for their interaction, thus inducing its own uptake. VSIV G does not follow the same path as most vesicles because transport of the G protein from the ER to the plasma membrane is interrupted by incubation at 15\u00a0\u00b0C. Under this condition, the molecules accumulate in both the ER and a subcellular vesicle fraction of low density called the lipid-rich vesicle fraction. The material in the lipid-rich vesicle fraction appears to be a post-ER intermediate in the transport process to the plasma membrane (PM). After infection, the VSIV G gene is expressed and is commonly studied as a model for \"N\"-linked glycosylation in the endoplasmic reticulum (ER). It is translated into the rough ER where the Glc-Man-GlcNac oligosaccharide is added by a dolichol-containing protein, to an NXS motif on VSIV G. Sugars are removed gradually as the protein travels to the Golgi apparatus, and it becomes resistant to endoglycosidase H. When synthesized in polarized epithelial cells, the envelope glycoprotein VSV G is targeted to the basolateral PM. VSVG is also a common coat protein for lentiviral vector expression systems used to introduce genetic material into \"in vitro\" systems or animal models, mainly because of its extremely broad tropism.",
+            "score": 252.41213965415955
+        },
+        {
+            "docid": "501101_2",
+            "document": "Clathrin . Clathrin is a protein that plays a major role in the formation of coated vesicles. Clathrin was first isolated and named by Barbara Pearse in 1976. It forms a triskelion shape composed of three clathrin heavy chains and three light chains. When the triskelia interact they form a polyhedral lattice that surrounds the vesicle. This is how clathrin gets its name, from the Latin \"clathratus\" meaning like a lattice. Coat-proteins, like clathrin, are used to build small vesicles in order to transport molecules within cells. The endocytosis and exocytosis of vesicles allows cells to communicate, to transfer nutrients, to import signaling receptors, to mediate an immune response after sampling the extracellular world, and to clean up the cell debris left by tissue inflammation. The endocytic pathway can be hijacked by viruses and other pathogens in order to gain entry to the cell during infection.",
+            "score": 222.9095139503479
+        },
+        {
+            "docid": "38523023_3",
+            "document": "Unconventional protein secretion . These proteins contain a specific signal-peptide sequence, which is to be translated into the endoplasmic reticulum, but are, however, able to reach the cell surface unconventionally. They can be packed into COPII-coated vesicle and directly fuse with plasma membrane or can fuse with endosomal or lysosomal compartment. Alternatively they can be packed into non-COPII-coated vesicle as well and fuse with Golgi (before reaching plasma membrane) or directly delivered to plasma membrane.",
+            "score": 284.92900800704956
+        },
+        {
+            "docid": "9903607_4",
+            "document": "Insulin-like growth factor 2 receptor . IGF2R functions to clear IGF2 from the cell surface to attenuate signalling, and to transport lysosomal acid hydrolase precursors from the Golgi apparatus to the lysosome. After binding IGF2 at the cell surface, IGF2Rs accumulate in forming clathrin-coated vesicles and are internalized. In the lumen of the \"trans\"-Golgi network, the IGF2R binds M6P-tagged cargo. The IGF2Rs (bound to their cargo) are recognized by the GGA family of clathrin adaptor proteins and accumulate in forming clathrin-coated vesicles. IGF2Rs from both the cell surface and the Golgi are trafficked to the early endosome where, in the relatively low pH environment of the endosome, the IGF2Rs release their cargo. The IGF2Rs are recycled back to the Golgi by the retromer complex, again by way of interaction with GGAs and vesicles. The cargo proteins are then trafficked to the lysosome via the late endosome independently of the IGF2Rs.",
+            "score": 203.50283551216125
+        },
+        {
+            "docid": "32572_19",
+            "document": "Vesicle (biology and chemistry) . There are three types of vesicle coats: clathrin, COPI and COPII. The various types of coat proteins help with sorting of vesicles to their final destination. Clathrin coats are found on vesicles trafficking between the Golgi and plasma membrane, the Golgi and endosomes and the plasma membrane and endosomes. COPI coated vesicles are responsible for retrograde transport from the Golgi to the ER, while COPII coated vesicles are responsible for anterograde transport from the ER to the Golgi.",
+            "score": 302.24195170402527
+        },
+        {
+            "docid": "35666519_3",
+            "document": "Clathrin adaptor protein . Adaptor protein (AP) complexes are found in coated vesicles and clathrin-coated pits. AP complexes connect cargo proteins and lipids to clathrin at vesicle budding sites, as well as binding accessory proteins that regulate coat assembly and disassembly (such as AP180, epsins and auxilin). There are different AP complexes in mammals. AP1 is responsible for the transport of lysosomal hydrolases between the trans-Golgi network, and endosomes. AP2 adaptor complex associates with the plasma membrane and is responsible for endocytosis. AP3 is responsible for protein trafficking to lysosomes and other related organelles. AP4 is less well characterised. AP complexes are heterotetramers composed of two large subunits (adaptins), a medium subunit (mu) and a small subunit (sigma). For example, in AP1 these subunits are gamma-1-adaptin, beta-1-adaptin, mu-1 and sigma-1, while in AP2 they are alpha-adaptin, beta-2-adaptin, mu-2 and sigma-2. Each subunit has a specific function. Adaptins recognise and bind to clathrin through their hinge region (clathrin box), and recruit accessory proteins that modulate AP function through their C-terminal ear (appendage) domains. Mu recognises tyrosine-based sorting signals within the cytoplasmic domains of transmembrane cargo proteins. One function of clathrin and AP2 complex-mediated endocytosis is to regulate the number of GABA(A) receptors available at the cell surface .",
+            "score": 217.00382137298584
+        },
+        {
+            "docid": "14879432_3",
+            "document": "SEC23A . The protein encoded by this gene is a member of the SEC23 subfamily of the SEC23/SEC24 family. It contains a gelsolin domain. It is part of a protein complex and found in the ribosome-free transitional face of the endoplasmic reticulum (ER) and associated vesicles. This protein has similarity to yeast Sec23p component of COPII. COPII is the coat protein complex responsible for vesicle budding from the ER. The encoded protein is suggested to play a role in the ER-Golgi protein trafficking.",
+            "score": 269.05351972579956
+        },
+        {
+            "docid": "9927_31",
+            "document": "Endomembrane system . There are three well known types of vesicles. They are clathrin-coated, COPI-coated, and COPII-coated vesicles. Each performs different functions in the cell. For example, clathrin-coated vesicles transport substances between the Golgi apparatus and the plasma membrane. COPI- and COPII-coated vesicles are frequently used for transportation between the ER and the Golgi apparatus.",
+            "score": 271.25117897987366
+        },
+        {
+            "docid": "164217_4",
+            "document": "Tobacco mosaic virus . Tobacco mosaic virus has a rod-like appearance. Its capsid is made from 2130 molecules of coat protein (see image to the left) and one molecule of genomic single strand RNA, 6400 bases long. The coat protein self-assembles into the rod-like helical structure (16.3 proteins per helix turn) around the RNA, which forms a hairpin loop structure (see the electron micrograph above). The protein monomer consists of 158 amino acids which are assembled into four main alpha-helices, which are joined by a prominent loop proximal to the axis of the virion. Virions are ~300\u00a0nm in length and ~18\u00a0nm in diameter. Negatively stained electron microphotographs show a distinct inner channel of ~4\u00a0nm. The RNA is located at a radius of ~6\u00a0nm and is protected from the action of cellular enzymes by the coat protein. There are three RNA nucleotides per protein monomer. X-ray fiber diffraction structure of the intact virus was studied based on an electron density map at 3.6 \u00c5 resolution.",
+            "score": 168.23527765274048
+        },
+        {
+            "docid": "40773905_6",
+            "document": "Margaret Robinson . Her achievements include the discovery of adaptins, which are specific proteins that manage cell-trafficking to ensure the correct cell cargo is transported to the right location. She also discovered different combinations of adapting, when together with clathrin, form a coat around vesicles that bud from intracellular membranes and act as transporters for protein packages to be distributed in the cell. She also developed the technique \u201cknock sideways,\u201d which inactivates proteins in seconds.",
+            "score": 224.9702651500702
+        }
+    ],
+    "r": [
+        {
+            "docid": "501826_3",
+            "document": "COPII . There are two protein heterodimers that form the coat complex. These proteins are These proteins alone are not able to cause the budding of the vesicle or direct the vesicle to the correct target membrane. SNARE, cargo, and other proteins are also needed for these processes to occur. The CopII protein does, however, cause the binding that forms vesicle coat, and thereby causes the release from the ER. The exact process of how the vesicle is brought to a particular location, or how that location is determined is not yet known.",
+            "score": 315.5530700683594
+        },
+        {
+            "docid": "14759820_3",
+            "document": "USO1 . The protein encoded by this gene is a peripheral membrane protein which recycles between the cytosol and the Golgi apparatus during interphase. It is regulated by phosphorylation: dephosphorylated protein associates with the Golgi membrane and dissociates from the membrane upon phosphorylation. Ras-associated protein 1 recruits this protein to coat protein complex II (COPII) vesicles during budding from the endoplasmic reticulum (ER), where it interacts with a set of COPII vesicle-associated SNAREs to form a cis-SNARE complex that promotes targeting to the Golgi apparatus. Transport from the ER to the cis/medial Golgi compartments requires the action of this gene product, GOLGA2, and giantin in a sequential manner.",
+            "score": 303.8435363769531
+        },
+        {
+            "docid": "3956121_5",
+            "document": "TRAPP complex . Once proteins have folded and are ready to be transported out of the ER it is thought that they assemble at specific site within the ER called \"ER exit sites\". These sites can be transient but are most likely situated in the ER where the ER is close to the next transport compartment, the vesicular-tubular cluster (VTC) (also referred to as the ER-Golgi Intermediate Compartment (ERGIC)). The details of how proteins are concentrated or localized to the exit site is unclear (some aspects are emerging!) but the actual process of budding a vesicle containing these proteins start with a protein called Sec12. This protein recruits a small GTPase called Sar1 (think of Sar1 as a switch, it is active when bound to GTP and inactive when it hydrolyses the GTP to GDP). This in turn leads to the recruitment of a protein complex, the Sec23/Sec24 and the Sec13/Sec31 complex (also known as the COPII coat). In a nutshell what these proteins do is form a mesh at the ER exit site and the mesh through mechanical curvature forms a little \"blob\" that pinches off from the ER with proteins inside (think, playdough as the ER and your hand as the Sec complex pinching off little bits). The mesh disassembles off the budded vesicle when Sar1 hydrolyses the GTP to GDP. Interestingly, this activity of Sar1 is enhanced by Sec23/24.",
+            "score": 302.46685791015625
+        },
+        {
+            "docid": "32572_19",
+            "document": "Vesicle (biology and chemistry) . There are three types of vesicle coats: clathrin, COPI and COPII. The various types of coat proteins help with sorting of vesicles to their final destination. Clathrin coats are found on vesicles trafficking between the Golgi and plasma membrane, the Golgi and endosomes and the plasma membrane and endosomes. COPI coated vesicles are responsible for retrograde transport from the Golgi to the ER, while COPII coated vesicles are responsible for anterograde transport from the ER to the Golgi.",
+            "score": 302.241943359375
+        },
+        {
+            "docid": "4817_16",
+            "document": "Biological membrane . Distinct types of membranes also create intracellular organelles: endosome; smooth and rough endoplasmic reticulum; sarcoplasmic reticulum; Golgi apparatus; lysosome; mitochondrion (inner and outer membranes); nucleus (inner and outer membranes); peroxisome; vacuole; cytoplasmic granules; cell vesicles (phagosome, autophagosome, clathrin-coated vesicles, COPI-coated and COPII-coated vesicles) and secretory vesicles (including synaptosome, acrosomes, melanosomes, and chromaffin granules). Different types of biological membranes have diverse lipid and protein compositions. The content of membranes defines their physical and biological properties. Some components of membranes play a key role in medicine, such as the efflux pumps that pump drugs out of a cell.",
+            "score": 295.12158203125
+        },
+        {
+            "docid": "2069041_5",
+            "document": "Brefeldin A . In mammalian and yeast cells, the main target of brefeldin A appears to be a guanine nucleotide exchange factor (GEF) called GBF1. GBF1 is a member of the Arf family of GEFs which are recruited to membranes of the Golgi. It is responsible for the regulation of Arf1p GTPase. It does this through converting the inactive GDP-bound form of Arf1p to the active GTP-bound form. The nucleotide exchange occurs at the catalytic Sec7 domain of GBF1. Activated Arf1p then recruits coat protein \u03b2-COP, a subunit of the COP-I complex, to cargo-bound receptors on the membrane. Coat protein recruitment is necessary for proper vesicle formation and transport. Brefeldin A reversibly inhibits the function of GBF1 uncompetitively by binding to the complex it forms with GDP-bound Arf1p and preventing conversion to the GTP-bound form. The lack of active Arf1p prevents coat protein recruitment, which then ultimately induces the fusion of neighboring ER and Golgi membranes due to lack of vesicle formation. This is because lack of vesicle formation results in a buildup of SNARE proteins in the Golgi which would otherwise be bound to coat protein-coated vesicles and removed with the vesicles once they bud off. SNARE proteins mediate membrane fusion and it is postulated that the described SNARE build up in the Golgi increases the chances of aberrant fusion of the Golgi membrane with that of the ER. The collapse of the Golgi into the ER triggers activation of unfolded protein response (UPR) (or ER stress) which can result in apoptosis.",
+            "score": 288.8450927734375
+        },
+        {
+            "docid": "501835_3",
+            "document": "SAR1A . GDP-bound Sar1 interacts with the membrane-bound exchange factor Sec12 and exchanges its bound GDP for GTP. The hydrophobic N-terminus of Sar1-GTP then locates it to the membrane, where it serves as the binding site for the Sec23/Sec24 protein coat complex. After the vesicle coat is completely assembled and the vesicle is released from the donor membrane, the Sec23 subunit promotes Sar1 GTPase activity, which triggers the disassembly of the COPII coat.",
+            "score": 286.5677185058594
+        },
+        {
+            "docid": "9775_5",
+            "document": "Endoplasmic reticulum . The membrane of the rough endoplasmic reticulum forms large double membrane sheets that are located near, and continuous with, the outer layer of the nuclear envelope. The double membrane sheets are stacked and connected through several right or left-handed helical ramps, the so-called Terasaki ramps, giving rise to a structure resembling a multi-storey car park. Although there is no continuous membrane between the endoplasmic reticulum and the Golgi apparatus, membrane-bound transport vesicles shuttle proteins between these two compartments. Vesicles are surrounded by coating proteins called COPI and COPII. COPII targets vesicles to the Golgi apparatus and COPI marks them to be brought back to the rough endoplasmic reticulum. The rough endoplasmic reticulum works in concert with the Golgi complex to target new proteins to their proper destinations. A second method of transport out of the endoplasmic reticulum involves areas called membrane contact sites, where the membranes of the endoplasmic reticulum and other organelles are held closely together, allowing the transfer of lipids and other small molecules.",
+            "score": 285.5916748046875
+        },
+        {
+            "docid": "38523023_3",
+            "document": "Unconventional protein secretion . These proteins contain a specific signal-peptide sequence, which is to be translated into the endoplasmic reticulum, but are, however, able to reach the cell surface unconventionally. They can be packed into COPII-coated vesicle and directly fuse with plasma membrane or can fuse with endosomal or lysosomal compartment. Alternatively they can be packed into non-COPII-coated vesicle as well and fuse with Golgi (before reaching plasma membrane) or directly delivered to plasma membrane.",
+            "score": 284.92901611328125
+        },
+        {
+            "docid": "501826_4",
+            "document": "COPII . The GTPase Sar1p is a protein that hydrolyzes GTP and acts like a molecular \"switch\" that flips between an activated and membrane embedded GTP-bound form, and inactive and soluble GDP-bound form. Inactive GDP-bound Sar1p is attracted to the cytosolic side of the endoplasmic reticulum. Sec12, a transmembrane protein found in the ER acts as a Guanine nucleotide exchange factor by stimulating the release of GDP to allow the binding of GTP. Now in a GTP bound state, Sar1p undergoes a conformational change which exposes a hydrophobic tail that can be inserted into the lipid bilayer, binding it to the membrane. Membrane-bound Sar1p recruits the Sec23p/24p complex to form what is collectively known as the pre-budding complex. The pre-budding complex recruits the long, flexible Sec13p/31p complex. Sec13p/31p complexes polymerizes on the cytosolic side of the membrane to form a convex mesh structure. The assembling mesh causes the membrane to bulge outward until a vesicle buds off. Some proteins are found to be responsible for selectively packaging cargos into COPII vesicles. For example, Erv29p in \"Saccharomyces cerevisiae\" is found to be necessary for packaging glycosylated pro-\u03b1-factor.",
+            "score": 275.7998962402344
+        },
+        {
+            "docid": "501827_2",
+            "document": "COPI . COPI is a coatomer, a protein complex that coats vesicles transporting proteins from the \"cis\" end of the Golgi complex back to the rough endoplasmic reticulum (ER), where they were originally synthesized, and between Golgi compartments. This type of transport is termed as \"retrograde transport\", in contrast to the \"anterograde transport\" associated with the COPII protein. The name \"COPI\" refers to the specific coat protein complex that initiates the budding process on the \"cis\"-Golgi membrane. The coat consists of large protein subcomplexes that are made of seven different protein subunits, namely \u03b1, \u03b2, \u03b2', \u03b3, \u03b4, \u03b5 and \u03b6.",
+            "score": 275.7917175292969
+        },
+        {
+            "docid": "21045203_12",
+            "document": "Reticulon . Evidence shows that reticulons influence ER and Golgi-body trafficking in and out of the cell through plasma membrane-associated proteins. Reticulons additionally aid in the formation of vesicles and membrane morphogenesis. When inhibiting RTNA in mammalian cells, it does not allow for proper formation of membrane tubules. In \"C. elegans\", removing RTNL RET and associated proteins interferes with the formation of the ER during mitosis. It also disrupts nuclear envelope reassembly. Reticulons have been found to interact with proteins that are involved with vesicular formation and morphogenesis of the ER. They are additionally involved in intracellular trafficking. In one example, it was shown that increasing expression of RTN keeps transport of proteins from retrograding from the Golgi bodies to the ER. Additionally, reticulons may be used to shape coated protein vesicles by interacting with a component of the adaptor protein complex (which maintains the coat on the vesicle). Reticulons may also be involved with apoptosis. The RTNC inhibits Bcl-X, which is an inhibitor of apoptosis. RTNC has also been shown in the ER to upregulate it\u2019s sensitivity to stressors, which is able to modulate apoptosis.",
+            "score": 273.56268310546875
+        },
+        {
+            "docid": "9927_31",
+            "document": "Endomembrane system . There are three well known types of vesicles. They are clathrin-coated, COPI-coated, and COPII-coated vesicles. Each performs different functions in the cell. For example, clathrin-coated vesicles transport substances between the Golgi apparatus and the plasma membrane. COPI- and COPII-coated vesicles are frequently used for transportation between the ER and the Golgi apparatus.",
+            "score": 271.25115966796875
+        },
+        {
+            "docid": "15419658_3",
+            "document": "SEC24C . The protein encoded by this gene is a member of the SEC24 subfamily of the SEC23/SEC24 family, which is involved in vesicle trafficking. The encoded protein has similarity to yeast Sec24p component of COPII. COPII is the coat protein complex responsible for vesicle budding from the ER. The product of this gene may play a role in shaping the vesicle, as well as in cargo selection and concentration. Alternatively spliced transcript variants encoding the same protein have been identified.",
+            "score": 269.1155700683594
+        },
+        {
+            "docid": "14879432_3",
+            "document": "SEC23A . The protein encoded by this gene is a member of the SEC23 subfamily of the SEC23/SEC24 family. It contains a gelsolin domain. It is part of a protein complex and found in the ribosome-free transitional face of the endoplasmic reticulum (ER) and associated vesicles. This protein has similarity to yeast Sec23p component of COPII. COPII is the coat protein complex responsible for vesicle budding from the ER. The encoded protein is suggested to play a role in the ER-Golgi protein trafficking.",
+            "score": 269.05352783203125
+        },
+        {
+            "docid": "625229_16",
+            "document": "Adipocyte . SREBF1 (sterol regulatory element-binding transcription factor 1) is a transcription factor synthesized as an inactive precursor protein inserted into the endoplasmic reticulum (ER) membrane by two membrane-spanning helices. Also anchored in the ER membrane is SCAP (SREBF-cleavage activating protein), which binds SREBF1. The SREBF1-SCAP complex is retained in the ER membrane by INSIG1 (insulin-induced gene 1 protein). When sterol levels are depleted, INSIG1 releases SCAP and the SREBF1-SCAP complex can be sorted into COPII-coated transport vesicles that are exported to the Golgi. In the Golgi, SREBF1 is cleaved and released as a transcriptionally active mature protein. It is then free to translocate to the nucleus and activate the expression of its target genes.",
+            "score": 264.26373291015625
+        },
+        {
+            "docid": "10116_12",
+            "document": "Endocytosis . Coats function to deform the donor membrane to produce a vesicle, and they also function in the selection of the vesicle cargo. Coat complexes that have been well characterized so far include coat protein-I (COP-I), COP-II, and clathrin. Clathrin coats are involved in two crucial transport steps: (i) receptor-mediated and fluid-phase endocytosis from the plasma membrane to early endosome and (ii) transport from the TGN to endosomes. In endocytosis, the clathrin coat is assembled on the cytoplasmic face of the plasma membrane, forming pits that invaginate to pinch off (scission) and become free CCVs. In cultured cells, the assembly of a CCV takes ~ 1min, and several hundred to a thousand or more can form every minute. The main scaffold component of clathrin coat is the 190-kD protein called clathrin heavy chain (CHC), which is associated with a 25- kD protein called clathrin light chain (CLC), forming three-legged trimers called triskelions.",
+            "score": 263.3320007324219
+        },
+        {
+            "docid": "32572_18",
+            "document": "Vesicle (biology and chemistry) . The vesicle \"coat\" is a collection of proteins that serve to shape the curvature of a donor membrane, forming the rounded vesicle shape. Coat proteins can also function to bind to various transmembrane receptor proteins, called cargo receptors. These receptors help select what material is endocytosed in receptor-mediated endocytosis or intracellular transport.",
+            "score": 262.4945373535156
+        },
+        {
+            "docid": "501835_2",
+            "document": "SAR1A . SAR1A or Sar1 is a protein involved in membrane trafficking. It is a monomeric small GTPase found in COPII vesicles. It regulates the assembly and disassembly of COPII coats.",
+            "score": 257.25665283203125
+        },
+        {
+            "docid": "5884194_10",
+            "document": "Vesicular transport adaptor protein . The best characterized type of vesicle is the clathrin coated vesicle (CCV). The formation of a COPII vesicle at the endoplasmic reticulum and its transport to the Golgi body. The involvement of the heterotetramer of COPI is similar to that of the AP/clathrin situation, but the coat of COPI is not closely related to the coats of either CCVs or COPII vesicles. AP-5 is associated with 2 proteins, SPG11 and SPG15, which have some structural similarity to clathrin, and may form the coat around the AP-5 complex, but the ultrastructure of that coat is not known. The coat of AP-4 is unknown.",
+            "score": 255.29000854492188
+        },
+        {
+            "docid": "1501977_3",
+            "document": "Receptor-mediated endocytosis . Although receptors and their ligands can be brought into the cell through a few mechanisms (e.g. caveolin), clathrin-mediated endocytosis remains the best studied. Clathrin-mediated endocytosis of many receptor types begins with the cargo ligands in the luminal compartment of the cell binding to receptors on the cell membrane. The cargo ligand and receptor will then recruit adaptor proteins and clathrin triskelions to the outside membrane of the cell around where budding will form. Budding of the plasma membrane then occurs, forming a clathrin coated pit. Other receptors can nucleate a clathrin-coated pit allowing formation around the receptor. A mature pit will be cleaved from the plasma membrane through the use of membrane binding and fission proteins such as Dynamin, (as well as other BAR domain proteins) forming a clathrin-coated vesicle that then uncoats and typically fuses to an early endosome. Once fused, the endocytosed cargo (receptor and/or ligand) can then be sorted to lysosomal, recycling, or other trafficking pathways.",
+            "score": 254.05166625976562
+        },
+        {
+            "docid": "416934_6",
+            "document": "Vesicular stomatitis virus . The VSIV G protein, aka VSVG, enables viral entry. It mediates viral attachment to an LDL receptor (LDLR) or an LDLR family member present on the host cell. Following binding, the VSIV-LDLR complex is rapidly endocytosed. It then mediates fusion of the viral envelope with the endosomal membrane. VSIV enters the cell through partially clathrin-coated vesicles; virus-containing vesicles contain more clathrin and clathrin adaptor than conventional vesicles. Virus-containing vesicles recruit components of the actin machinery for their interaction, thus inducing its own uptake. VSIV G does not follow the same path as most vesicles because transport of the G protein from the ER to the plasma membrane is interrupted by incubation at 15\u00a0\u00b0C. Under this condition, the molecules accumulate in both the ER and a subcellular vesicle fraction of low density called the lipid-rich vesicle fraction. The material in the lipid-rich vesicle fraction appears to be a post-ER intermediate in the transport process to the plasma membrane (PM). After infection, the VSIV G gene is expressed and is commonly studied as a model for \"N\"-linked glycosylation in the endoplasmic reticulum (ER). It is translated into the rough ER where the Glc-Man-GlcNac oligosaccharide is added by a dolichol-containing protein, to an NXS motif on VSIV G. Sugars are removed gradually as the protein travels to the Golgi apparatus, and it becomes resistant to endoglycosidase H. When synthesized in polarized epithelial cells, the envelope glycoprotein VSV G is targeted to the basolateral PM. VSVG is also a common coat protein for lentiviral vector expression systems used to introduce genetic material into \"in vitro\" systems or animal models, mainly because of its extremely broad tropism.",
+            "score": 252.41213989257812
+        },
+        {
+            "docid": "6253216_8",
+            "document": "Alpha solenoid . Vesicle coat proteins frequently contain alpha solenoids and share common domain architecture with some NPC proteins. Three major coat complexes involved in distinct cellular pathways all contain alpha solenoid proteins: the clathrin/adaptin complex, which buds vesicles from the plasma membrane and is involved in endocytosis; the COPI complex, which buds vesicles from the Golgi apparatus and is associated with retrograde transport; and the COPII complex, which buds vesicles from the endoplasmic reticulum and is associated with anterograde transport.",
+            "score": 251.2987518310547
+        },
+        {
+            "docid": "4917048_8",
+            "document": "Sterol regulatory element-binding protein . In addition to S1P and S2P, the regulated release of transcriptionally active SREBP requires the cholesterol-sensing protein SREBP cleavage-activating protein (SCAP), which forms a complex with SREBP owing to interaction between their respective carboxy-terminal domains. SCAP, in turn, can bind reversibly with another ER-resident membrane protein, INSIG. In the presence of sterols, which bind to INSIG and SCAP, INSIG and SCAP also bind one another. INSIG always stays in the ER membrane and thus the SREBP-SCAP complex remains in the ER when SCAP is bound to INSIG. When sterol levels are low, INSIG and SCAP no longer bind. Then, SCAP undergoes a conformational change that exposes a portion of the protein ('MELADL') that signals it to be included as cargo in the COPII vesicles that move from the ER to the Golgi apparatus. In these vesicles, SCAP, dragging SREBP along with it, is transported to the Golgi. The regulation of SREBP cleavage employs a notable feature of eukaryotic cells, subcellular compartmentalization defined by intracellular membranes, to ensure that cleavage occurs only when needed.",
+            "score": 249.724853515625
+        },
+        {
+            "docid": "14877124_3",
+            "document": "SEC31A . The protein encoded by this gene is similar to the SEC31 protein from yeast. The yeast SEC31 protein is known to be a component of the COPII protein complex which is responsible for vesicle budding from endoplasmic reticulum (ER). This protein was found to colocalize with SEC13, one of the other components of COPII, in the subcellular structures corresponding to the vesicle transport function. An immunodepletion experiment confirmed that this protein is required for ER-Golgi transport. Alternative splicing results in multiple transcript variants encoding different isoforms.",
+            "score": 248.9978790283203
+        },
+        {
+            "docid": "9927_21",
+            "document": "Endomembrane system . Once secretory proteins are formed, the ER membrane separates them from the proteins that will remain in the cytosol. Secretory proteins depart from the ER enfolded in the membranes of vesicles that bud like bubbles from the transitional ER. These vesicles in transit to another part of the cell are called transport vesicles. An alternative mechanism for transport of lipids and proteins out of the ER are through lipid transfer proteins at regions called membrane contact sites where the ER becomes closely and stably associated with the membranes of other organelles, such as the plasma membrane, Golgi or lysosomes.",
+            "score": 248.51675415039062
+        },
+        {
+            "docid": "501101_6",
+            "document": "Clathrin . In a cell, clathrin triskelion in the cytoplasm binds to an adaptor protein that has bound membrane, linking one of its three feet to the membrane at a time. Clathrin cannot bind to membrane or cargo directly and instead uses adaptor proteins to do this. This triskelion will bind to other membrane-attached triskelia to form a rounded lattice of hexagons and pentagons, reminiscent of the panels on a soccer ball, that pulls the membrane into a bud. By constructing different combinations of 5-sided and 6-sided rings, vesicles of different sizes may assemble. The smallest clathrin cage commonly imaged, called a mini-coat, has 12 pentagons and only two hexagons. Even smaller cages with zero hexagons probably do not form from the native protein, because the feet of the triskelia are too bulky.",
+            "score": 245.06219482421875
+        },
+        {
+            "docid": "43744300_2",
+            "document": "SEC31 . SEC31 is a protein which in yeast promotes the formation of transport vesicles from the Endoplasmic Reticulum (ER). The coat has two main functions, the physical deformation of the endoplasmic reticulum membrane into vesicles and the selection of cargo molecules.",
+            "score": 244.9981689453125
+        },
+        {
+            "docid": "501826_2",
+            "document": "COPII . COPII is a coatomer, a type of vesicle coat protein that transports proteins from the rough endoplasmic reticulum to the Golgi apparatus. This process is termed anterograde transport, in contrast to the retrograde transport associated with the COPI protein. The name \"COPII\" refers to the specific coat protein complex that initiates the budding process. The coat consists of large protein subcomplexes that are made of four different protein subunits.",
+            "score": 242.9272003173828
+        },
+        {
+            "docid": "46319796_4",
+            "document": "Intracellular transport . Small membrane bound vesicles responsible for transporting proteins from one organelle to another are commonly found in endocytic and secretory pathways. Vesicles bud from their donor organelle and release the contents of their vesicle by a fusion event in a particular target organelle. The net movement of proteins from the Endoplasmic Reticulum (ER) to the Golgi Apparatus represents one form of intracellular transport through this mode of vesicle budding. Since the ER is the site of protein synthesis it would serve as the parent organelle and the cis face of the golgi, where proteins and signals are received, would be the acceptor. In order for the transport vesicle to accurately undergo a fusion event it must first recognize the correct target membrane then fuse with that membrane.",
+            "score": 241.91329956054688
+        },
+        {
+            "docid": "501101_8",
+            "document": "Clathrin . Adaptor molecules are responsible for self-assembly and recruitment. Two examples of adaptor proteins are AP180 and epsin. AP180 is used in synaptic vesicle formation. It recruits clathrin to membranes and also promotes its polymerization. Epsin also recruits clathrin to membranes and promotes its polymerization, and can help deform the membrane, and thus clathrin-coated vesicles can bud. In a cell, a triskelion floating in the cytoplasm binds to an adaptor protein, linking one of its feet to the membrane at a time. The skelion will bind to other ones attached to the membrane to form a polyhedral lattice, skelion, which pulls the membrane into a bud. The skelion does not bind directly to the membrane, but binds to the adaptor proteins that recognize the molecules on the membrane surface.",
+            "score": 240.91983032226562
+        },
+        {
+            "docid": "21052035_4",
+            "document": "KDEL (amino acid sequence) . The soluble resident protein will remain in the ER as long as it contains a KDEL signal sequence. However, since vesicle budding is such a dynamic process, and there is a high concentration of soluble proteins in the ER, soluble proteins are inadvertently transported to the cis-golgi via COP2 coated vesicles. Upon fusion with the cis-golgi the soluble protein is released where its KDEL signal sequence is recognized by receptors located on the membrane. The receptor and soluble protein are transported via COP1 coated vesicles back to the ER where the contents of the vesicle are released and the soluble protein dissociates from the receptor. The association of the protein in the cis-golgi and dissociation in the ER is mediated by pH, since a slightly acidic pH, found in the cis-golgi provides optimum binding conditions. The related sequence HDEL also functions to keep resident proteins in the ER.",
+            "score": 240.7969512939453
+        }
+    ]
+}

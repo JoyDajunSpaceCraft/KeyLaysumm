@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "5872745_5",
+            "document": "GM1 . The bacteria Vibrio cholerae produces a multimeric toxin called the cholera toxin. The secreted toxin attaches to the surface of the host mucosa cell by binding to GM1 gangliosides. GM1 consists of a sialic acid-containing oligosaccharide covalently attached to a ceramide lipid. The A1 subunit of this toxin will gain entry to intestinal epithelial cells with the assistance of the B subunit via the GM1 ganglioside receptor. Once inside, the A1 subunit will ADP ribosylate the Gs alpha subunit which will prevent its GTPase activity. This will lock it in the active state and it will continuously stimulate adenylate cyclase. The sustained adenylate cyclase activity will lead to a sustained increase of cAMP which will cause electrolyte and water loss, causing diarrhea.",
+            "score": 302.8916881084442
+        },
+        {
+            "docid": "52080_4",
+            "document": "Vibrio cholerae . \"V. cholerae\" pathogenicity genes code for proteins directly or indirectly involved in the virulence of the bacteria. During infection, \"V. cholerae\" secretes cholera toxin, a protein that causes profuse, watery diarrhea (known as \"rice-water stool\"). Colonization of the small intestine also requires the toxin coregulated pilus (TCP), a thin, flexible, filamentous appendage on the surface of bacterial cells. \"V. cholerae\" can cause syndromes ranging from asymptomatic to cholera gravis. In endemic areas, 75% of cases are asymptomatic, 20% are mild to moderate, and 2-5% are severe forms such as cholera gravis. Symptoms include abrupt onset of watery diarrhea (a grey and cloudy liquid), occasional vomiting, and abdominal cramps. Dehydration ensues, with symptoms and signs such as thirst, dry mucous membranes, decreased skin turgor, sunken eyes, hypotension, weak or absent radial pulse, tachycardia, tachypnea, hoarse voice, oliguria, cramps, renal failure, seizures, somnolence, coma, and death. Death due to dehydration can occur in a few hours to days in untreated children. The disease is also particularly dangerous for pregnant women and their fetuses during late pregnancy, as it may cause premature labor and fetal death. In cases of cholera gravis involving severe dehydration, up to 60% of patients can die; however, less than 1% of cases treated with rehydration therapy are fatal. The disease typically lasts 4\u20136 days. Worldwide, diarrhoeal disease, caused by cholera and many other pathogens, is the second-leading cause of death for children under the age of 5 and at least 120,000 deaths are estimated to be caused by cholera each year. In 2002, the WHO deemed that the case fatality ratio for cholera was about 3.95%.",
+            "score": 216.26850008964539
+        },
+        {
+            "docid": "7591_14",
+            "document": "Cholera . The cholera toxin (CTX or CT) is an oligomeric complex made up of six protein subunits: a single copy of the A subunit (part A), and five copies of the B subunit (part B), connected by a disulfide bond. The five B subunits form a five-membered ring that binds to GM1 gangliosides on the surface of the intestinal epithelium cells. The A1 portion of the A subunit is an enzyme that ADP-ribosylates G proteins, while the A2 chain fits into the central pore of the B subunit ring. Upon binding, the complex is taken into the cell via receptor-mediated endocytosis. Once inside the cell, the disulfide bond is reduced, and the A1 subunit is freed to bind with a human partner protein called ADP-ribosylation factor 6 (Arf6). Binding exposes its active site, allowing it to permanently ribosylate the Gs alpha subunit of the heterotrimeric G protein. This results in constitutive cAMP production, which in turn leads to the secretion of water, sodium, potassium, and bicarbonate into the lumen of the small intestine and rapid dehydration. The gene encoding the cholera toxin was introduced into \"V. cholerae\" by horizontal gene transfer. Virulent strains of \"V. cholerae\" carry a variant of a temperate bacteriophage called CTX\u03c6.",
+            "score": 298.12786054611206
+        },
+        {
+            "docid": "7591_15",
+            "document": "Cholera . Microbiologists have studied the genetic mechanisms by which the \"V. cholerae\" bacteria turn off the production of some proteins and turn on the production of other proteins as they respond to the series of chemical environments they encounter, passing through the stomach, through the mucous layer of the small intestine, and on to the intestinal wall. Of particular interest have been the genetic mechanisms by which cholera bacteria turn on the protein production of the toxins that interact with host cell mechanisms to pump chloride ions into the small intestine, creating an ionic pressure which prevents sodium ions from entering the cell. The chloride and sodium ions create a salt-water environment in the small intestines, which through osmosis can pull up to six liters of water per day through the intestinal cells, creating the massive amounts of diarrhea. The host can become rapidly dehydrated unless an appropriate mixture of dilute salt water and sugar is taken to replace the blood's water and salts lost in the diarrhea.",
+            "score": 283.308776140213
+        },
+        {
+            "docid": "26522611_13",
+            "document": "RTX toxin . RTX toxins in \"Vibrio\" bacteria represent an early discovery in RTX toxin research, but were only recently discovered to belong to a separate class of RTX toxins called MARTX toxins. In \"Vibrio cholerae\" the \"martx\" gene encodes six proteins: the MARTX toxin (RtxA), an acyltransferase (RtxC), a membrane fusion protein (RtxD), two ABC-transporters (RtxB and RtxE), and one protein with unknown function. RtxA is a virulence factor involved in cholera which facilitates colonization of \"V. cholerae\" the small intestine. RtxA causes destruction of the actin cytoskeleton in host cells through G-actin modification and destruction of Rho GTPases. The toxin contains four functional domains: an actin cross-linking domain (ACD), a Rho-inactivating domain (RID), a cysteine protease domain (CPD), and an \u03b1\u03b2-hydrolase. In \"V. cholerae\" infection, the CPD binds to inositol hexakisphosphate (InsP, Phytic acid) inside eukaryotic host cells. This binding activates the autoproteolytic CPD which cleaves the MARTX protein into smaller independent proteins each containing only one of the effector domains ACD, RID, and \u03b1\u03b2-hydrolase. This allows each effector to act independently within the host cell, this increases the effects of RtxA because the ACD and RID function in different locations within the cell. ACD cross-links monomeric G-actin in the host cell cytosol, preventing formation of actin microfilament, a major component of the cytoskeleton. RID inactivates membrane bound Rho-GTPases, which are regulators of cytoskeleton formation.",
+            "score": 242.24251770973206
+        },
+        {
+            "docid": "7591_16",
+            "document": "Cholera . By inserting separate, successive sections of \"V. cholerae\" DNA into the DNA of other bacteria, such as \"E. coli\" that would not naturally produce the protein toxins, researchers have investigated the mechanisms by which \"V. cholerae\" responds to the changing chemical environments of the stomach, mucous layers, and intestinal wall. Researchers have discovered a complex cascade of regulatory proteins controls expression of \"V. cholerae\" virulence determinants. In responding to the chemical environment at the intestinal wall, the \"V. cholerae\" bacteria produce the TcpP/TcpH proteins, which, together with the ToxR/ToxS proteins, activate the expression of the ToxT regulatory protein. ToxT then directly activates expression of virulence genes that produce the toxins, causing diarrhea in the infected person and allowing the bacteria to colonize the intestine. Current research aims at discovering \"the signal that makes the cholera bacteria stop swimming and start to colonize (that is, adhere to the cells of) the small intestine.\"",
+            "score": 233.7091715335846
+        },
+        {
+            "docid": "50196193_5",
+            "document": "Larazotide . Larazotide acetate is a synthetic peptide based on a \"Vibrio cholerae\" enterotoxin called zonula occludens toxin that increases intestinal permeability. An investigation was carried out to discover which specific part of this toxin was responsible for this activity. Several mutants were constructed and tested for their biological activity and their ability to bind to intestinal epithelial cells in culture. The responsible region was located near the carboxyl terminus of the toxin protein. This region coincided with a peptide product generated by \"Vibrio cholerae\". The eight amino acid sequence in this region was shared with zonulin, an endogenous protein involved in tight junction modulation. This sequence was later designated larazotide acetate.",
+            "score": 216.4491786956787
+        },
+        {
+            "docid": "5499945_2",
+            "document": "Cholera toxin . Cholera toxin (also known as choleragen and sometimes abbreviated to CTX, Ctx or CT) is protein complex secreted by the bacterium \"Vibrio cholerae\". CTX is responsible for the massive, watery diarrhea characteristic of cholera infection.",
+            "score": 168.25901198387146
+        },
+        {
+            "docid": "5499945_7",
+            "document": "Cholera toxin . Cholera toxin acts by the following mechanism: First, the B subunit ring of the cholera toxin binds to GM1 gangliosides on the surface of target cells. The B subunit can also bind to cells lacking GM1. The toxin then most likely binds to other types of glycans, such as Lewis Y and Lewis X, attached to proteins instead of lipids. Once bound, the entire toxin complex is endocytosed by the cell and the cholera toxin A1 (CTA1) chain is released by the reduction of a disulfide bridge. The endosome is moved to the Golgi apparatus, where the A1 protein is recognized by the endoplasmic reticulum chaperone, protein disulfide isomerase. The A1 chain is then unfolded and delivered to the membrane, where Ero1 triggers the release of the A1 protein by oxidation of protein disulfide isomerase complex. As the A1 protein moves from the ER into the cytoplasm by the Sec61 channel, it refolds and avoids deactivation as a result of ubiquitination.",
+            "score": 268.2919659614563
+        },
+        {
+            "docid": "9642130_2",
+            "document": "AB5 toxin . The AB5 toxins are six-component protein complexes secreted by certain pathogenic bacteria known to cause human diseases such as cholera, dysentery, and hemolytic-uremic syndrome. One component is known as the A subunit, and the remaining five components make up the B subunit. All of these toxins share a similar structure and mechanism for entering targeted host cells. The B subunit is responsible for binding to receptors to open up a pathway for the A subunit to enter the cell. The A subunit is then able to use its catalytic machinery to take over the host cell's regular functions.",
+            "score": 226.75056886672974
+        },
+        {
+            "docid": "63764_7",
+            "document": "Dysentery . Extensive cellular damage or death is required to cause bleeding. Bacteria can do this either by invading into intestinal mucosa or by secreting toxins that cause cell death. Bacterial infections that cause bloody diarrhea are typically classified as being either invasive or toxogenic. Invasive species cause damage directly by invading into the mucosa. The toxogenic species do not invade, but cause cellular damage by secreting toxins, resulting in bloody diarrhea. This is also in contrast to toxins that cause watery diarrhea, which usually do not cause cellular damage, but rather they take over cellular machinery for a portion of life of the cell.",
+            "score": 142.3144829273224
+        },
+        {
+            "docid": "6862740_6",
+            "document": "Exogenous bacteria . \"Cholera\" is a waterborne infection caused by the bacterium \"Vibrio chloerae\", and is transmitted via food or water that is contaminated with fecal matter. \"Vibrio chloerae\" releases a toxin that induces an increased amount of water in the small intestines. Symptoms primarily observed include, watery diarrhea and vomiting that can cause dehydration and death if not treated. An estimated 3-5 million cases of \"Cholera\" occur yearly around the world. The exogenous bacteria derived infection is primarilyfound in Africa, Asia, as well as Central and South America.",
+            "score": 187.2996838092804
+        },
+        {
+            "docid": "1221516_24",
+            "document": "Small intestinal bacterial overgrowth . While the consensus definition of chronic diarrhea varies, in general it is considered to be an alteration in stool consistency or increased frequency, that occurs for over three weeks. Various mechanisms are involved in the development of diarrhea in bacterial overgrowth. First, the excessive bacterial concentrations can cause direct inflammation of the small bowel cells, leading to an \"inflammatory\" diarrhea. The malabsorption of lipids, proteins and carbohydrates may cause poorly digestible products to enter into the colon. This can cause diarrhea by the osmotic drive of these molecules, but can also stimulate the secretory mechanisms of colonic cells, leading to a \"secretory diarrhea\".",
+            "score": 130.04109525680542
+        },
+        {
+            "docid": "20637113_18",
+            "document": "Clostridium difficile toxin B . Many early studies have suggested that toxin A (also known as TcdA) is the major toxin protein causing antibiotic-associated diarrhea (AAD); however, research scientists within last decade or so have shown that Toxin B (or TcdB) plays a more important role in disease than anyone had forecasted. With this knowledge, Toxin B has been identified as the major virulence factor that causes the opening of tight junctions of intestinal epithelial cells, which enables toxin to increase vascular permeability and induce hemorrhaging. Hence, this leads to tumor necrosis factor \u03b1 (TNF \u03b1) and proinflammatory interleukins being established as the major causative agents of pseudomembranous colitis (PMC) and antibiotic-associated diarrhea (AAD).",
+            "score": 144.07599353790283
+        },
+        {
+            "docid": "39856859_4",
+            "document": "Guy R. Cornelis . He investigates the complex mechanisms of bacterial infectious diseases. He received particular recognition for the co-discovery with H. Wolf-Watz (Umea, Sweden) of the bacterial type III secretion system (T3SS). T3SS is a mechanism by which many bacteria inject a cocktail of toxins, so-called effector proteins into animal, plant or insect cells. The effectors disarm or reprogram the target cell by sabotaging the cellular signaling network. The T3SS apparatus, called injectisome, is a complex nanosyringe made of more than 25 different proteins. Since 2004, Cornelis also studies Capnocytophaga canimorsus, a bacterium from dog's mouths responsible for fatal infections in humans. Cornelis belongs to the world\u2019s most cited scientists.",
+            "score": 98.19014120101929
+        },
+        {
+            "docid": "12800708_13",
+            "document": "Guillain\u2013Barr\u00e9 syndrome . Various antibodies directed at nerve cells have been reported in Guillain\u2013Barr\u00e9 syndrome. In the axonal subtype, these antibodies have been shown to bind to gangliosides, a group of substances found in peripheral nerves. A ganglioside is a molecule consisting of ceramide bound to a small group of hexose-type sugars and containing various numbers of \"N\"-acetylneuraminic acid groups. The key four gangliosides against which antibodies have been described are GM1, GD1a, GT1a, and GQ1b, with different anti-ganglioside antibodies being associated with particular features; for instance, GQ1b antibodies have been linked with Miller Fisher variant GBS and related forms including Bickerstaff encephalitis. The production of these antibodies after an infection is probably the result of molecular mimicry, where the immune system is reacting to microbial substances,but the resultant antibodies also react with substances occurring naturally in the body. After a \"Campylobacter\" infection, the body produces antibodies of the IgA class; only a small proportion of people also produce IgG antibodies against bacterial substance cell wall substances (e.g. lipooligosaccharides) that crossreact with human nerve cell gangliosides. It is not currently known how this process escapes central tolerance to gangliosides, which is meant to suppress the production of antibodies against the body's own substances. Not all antiganglioside antibodies cause disease, and it has recently been suggested that some antibodies bind to more than one type of epitope simultaneously (heterodimeric binding) and that this determines the response. Furthermore, the development of pathogenic antibodies may depend on the presence of other strains of bacteria in the bowel.",
+            "score": 118.42199170589447
+        },
+        {
+            "docid": "20637118_17",
+            "document": "Clostridium difficile toxin A . TcdA can induce the physiological changes that occur in \"C. difficile\" related pseudomembranous colitis (PMC), a severe ulceration of the colon. Toxin damage to the colonic mucosa promotes accumulations of fibrin, mucin, and dead cells to form a layer of debris in the colon (pseudomembrane), causing an inflammatory response. TcdA damage causes increased epithelial permeability, cytokine and chemokine production, neutrophil infiltration, production of reactive oxygen species (ROS), mast cell activation, and direct damage to the intestinal mucosa. All can be attributed to TcdA induced inactivation of Rho GTPase proteins. Loss of tight junctions can provide entry for neutrophils into the intestines, leading to neutrophil accumulation; a hallmark of PMC. TcdA induced cytokine production of IL-8 and other inflammatory mediators contributes to the stages of inflammation seen in PMC. Infiltration by neutrophils, macrophages, and mast cells in response to TcdA damage increases the inflammatory response through production and release of other mediators such as tumor necrosis factor alpha, IL-1, IL-6, and other monokines. These mediators cause additional damage to intestinal mucosa and further increase the inflammatory response, influencing PMC persistence. If extensive damage to the intestinal wall occurs, bacteria can enter the bloodstream and cause septic shock and death.",
+            "score": 152.6411259174347
+        },
+        {
+            "docid": "92410_7",
+            "document": "Shigella . \"Shigella\" infection is typically by ingestion. Depending on the health of the host, fewer than 100 bacterial cells can be enough to cause an infection. \"Shigella\" species generally invade the epithelial lining of the colon, causing severe inflammation and death of the cells lining the colon. This inflammation results in the diarrhea and even dysentery that are the hallmarks of \"Shigella\" infection. Some strains of \"Shigella\" produce toxins which contribute to disease during infection. \"S. flexneri\" strains produce ShET1 and ShET2, which may contribute to diarrhea. \"S. dysenteriae\" strains produce the enterotoxin Shiga toxin, which is similar to the verotoxin produced by enterohemorrhagic \"E. coli\". Both Shiga toxin and verotoxin are associated with causing potentially fatal hemolytic-uremic syndrome.",
+            "score": 119.67952156066895
+        },
+        {
+            "docid": "23053555_2",
+            "document": "Enteroinvasive Escherichia coli . Enteroinvasive \"Escherichia coli\" (EIEC) is a type of pathogenic bacteria whose infection causes a syndrome that is identical to shigellosis, with profuse diarrhea and high fever. EIEC are highly invasive, and they use adhesin proteins to bind to and enter intestinal cells. They produce no toxins, but severely damage the intestinal wall through mechanical cell destruction.",
+            "score": 162.5331482887268
+        },
+        {
+            "docid": "20637118_16",
+            "document": "Clostridium difficile toxin A . Animal models have shown TcdA includes diarrhea, neutrophil infiltration, inflammation of intestinal mucosa, and necrosis of epithelial cells. This toxin is considered the main cause of CDAD. TcdA damages intestinal villous tips, which disrupts the brush border membrane, leading to cell erosion and fluid leakage from the damaged area. This damage and associated fluid response causes the diarrhea associated with \"Clostridium difficile\" infection.",
+            "score": 143.56070232391357
+        },
+        {
+            "docid": "12936761_3",
+            "document": "MACPF . Archetypal members of the family are complement C9 and perforin, both of which function in human immunity. C9 functions by punching holes in the membranes of Gram-negative bacteria. Perforin is released by cytotoxic T cells and lyses virally infected and transformed cells. In addition, perforin permits delivery of cytotoxic proteases called granzymes that cause cell death. Deficiency of either protein can result in human disease. Structural studies reveal that MACPF domains are related to cholesterol-dependent cytolysins (CDCs), a family of pore forming toxins previously thought to only exist in bacteria.",
+            "score": 111.72379088401794
+        },
+        {
+            "docid": "32440734_18",
+            "document": "Pathogenic Escherichia coli . Certain strains of \"E. coli\", such as , , O121, O26, , O111, O145, and , produce potentially lethal toxins. Food poisoning caused by \"E. coli\" can result from eating unwashed vegetables or poorly butchered and undercooked meat. O157:H7 is also notorious for causing serious and even life-threatening complications such as hemolytic-uremic syndrome. This particular strain is linked to the 2006 United States \"E. coli\" outbreak due to fresh spinach. The strain is equally virulent. Antibiotic and supportive treatment protocols for it are not as well-developed (it has the ability to be very enterohemorrhagic like O157:H7, causing bloody diarrhea, but also is more enteroaggregative, meaning it adheres well and clumps to intestinal membranes). It is the strain behind the deadly June 2011 E. coli outbreak in Europe. Severity of the illness varies considerably; it can be fatal, particularly to young children, the elderly or the immunocompromised, but is more often mild. Earlier, poor hygienic methods of preparing meat in Scotland killed seven people in 1996 due to \"E. coli\" poisoning, and left hundreds more infected. \"E. coli\" can harbour both heat-stable and heat-labile enterotoxins. The latter, termed LT, contain one A subunit and five B subunits arranged into one holotoxin, and are highly similar in structure and function to cholera toxins. The B subunits assist in adherence and entry of the toxin into host intestinal cells, while the A subunit is cleaved and prevents cells from absorbing water, causing diarrhea. LT is secreted by the Type 2 secretion pathway.",
+            "score": 209.9267998933792
+        },
+        {
+            "docid": "43695865_5",
+            "document": "Clostridium difficile (bacteria) . Pathogenic \"C. difficile\" strains produce multiple toxins. The best-characterized are enterotoxin (\"Clostridium difficile\" toxin A) and cytotoxin (\"Clostridium difficile\" toxin B), both of which may produce diarrhea and inflammation in infected patients (\"Clostridium difficile\" colitis), although their relative contributions have been debated. The diarrhea may range from a few days of intestinal fluid loss to life-threatening pseudomembranous colitis. Pseudomembranous colitis is associated with intense inflammation of the colon and formation of pseudomembranes on the intestinal mucosal surface. Toxins A and B are glucosyltransferases that target and inactivate the Rho family of GTPases. Toxin B (cytotoxin) induces actin depolymerization by a mechanism correlated with a decrease in the ADP-ribosylation of the low molecular mass GTP-binding Rho proteins. Another toxin, binary toxin, also has been described, but its role in disease is not fully understood.",
+            "score": 149.05826103687286
+        },
+        {
+            "docid": "36275670_2",
+            "document": "Ichthyotoxin . Ichthyotoxins are compounds which are either toxic to fish or are toxins produced by fish. The toxins can be found in gar eggs and the eggs of several other species' roe. It can also be found in some species of algae such as prymnesium parvum. \u00a0They include euglenophycin and prymnesins, made by algae and can cause large-scale fish deaths, and ostracitoxin made by boxfish. Many toxin producing algal species can be found both in marine and fresh water environments when the algae is in bloom. The toxin is protein based and is poisonous to humans, small mammals, and some fish. An ichthyotoxic poisoning (in humans) can cause symptoms ranging in severity dependent on how much toxin was consumed. The symptoms of an ichthyotoxin poisoning can include headache, vomiting, diarrhea, dizziness, drop in blood pressure, and many others.",
+            "score": 110.76137804985046
+        },
+        {
+            "docid": "5795298_8",
+            "document": "Molecular mimicry . Autoimmunity can thus be defined simply as exceptions to the tolerance \"rules.\" By doing this, an immune response is generated against self-tissue and cells. These mechanisms are known by many to be intrinsic. However, there are pathogenic mechanisms for the generation of autoimmune disease. Pathogens can induce autoimmunity by polyclonal activation of B or T cells, or increased expression of major histocompatibility complex (MHC) class I or II molecules. There are several ways in which a pathogen can cause an autoimmune response. A pathogen may contain a protein that acts as a mitogen to encourage cell division, thus causing more B or T cell clones to be produced. Similarly, a pathogenic protein may act as a superantigen which causes rapid polyclonal activation of B or T cells. Pathogens can also cause the release of cytokines resulting in the activation of B or T cells, or they can alter macrophage function. Finally, pathogens may also expose B or T cells to cryptic determinants, which are self antigen determinants that have not been processed and presented sufficiently to tolerize the developing T cells in the thymus and are presented at the periphery where the infection occurs.  Molecular mimicry has been characterized as recently as the 1970s as another mechanism by which a pathogen can generate autoimmunity. Molecular mimicry is defined as similar structures shared by molecules from dissimilar genes or by their protein products. Either the linear amino acid sequence or the conformational fit of the immunodominant epitope may be shared between the pathogen and host. This is also known as \"cross-reactivity\" between self antigen of the host and immunodominant epitopes of the pathogen. An autoimmune response is then generated against the epitope. Due to similar sequence homology in the epitope between the pathogen and the host, cells and tissues of the host associated with the protein are destroyed as a result of the autoimmune response.",
+            "score": 121.04846489429474
+        },
+        {
+            "docid": "9642130_12",
+            "document": "AB5 toxin . For the cholera toxin, the principal glycolipid receptor for the cholera toxin is ganglioside GM1. After endocytosis to the golgi apparatus, the toxin is redirected to the endoplasmic reticulum. In order for the A subunit to reach its target, a disulfide bond between the A1 and A2 domain must be broken. This breakage is catalyzed by a protein disulfide isomerase that is in the endoplasmic reticulum. Following separation, the A1 domain unfolds and is redirected back to the cytosol where it refolds and catalyzes ADP-ribosylation of certain G protein alpha subunits. In doing so, the downstream effects of the G protein signal transduction pathway is disrupted by activating adenylate cyclase. This causes a higher concentration of cAMP in the cell, which disrupts the regulation of ion transport mechanisms.",
+            "score": 201.4616096019745
+        },
+        {
+            "docid": "9642130_4",
+            "document": "AB5 toxin . This family is also known as Ct or Ctx, and includes the heat-labile enterotoxin family, known as LT. Cholera toxin\u2019s discovery is credited by many to Dr. Sambhu Nath De. He conducted his research in Calcutta (now Kolkata) making his discovery in 1959, although it was first purified by Robert Koch in 1883. Cholera toxin is an infectious toxin composed of a protein complex that is secreted by the bacterium \"Vibrio cholerae\". Some symptoms of this toxin include chronic and widespread watery diarrhea and dehydration that, in some cases, leads to death.",
+            "score": 168.45075941085815
+        },
+        {
+            "docid": "36135797_3",
+            "document": "Host\u2013pathogen interaction . On the molecular and cellular level, microbes can infect the host and divide rapidly, causing disease by being there and causing a homeostatic imbalance in the body, or by secreting toxins which cause symptoms to appear. Viruses can also infect the host with virulent DNA, which can affect normal cell processes (transcription, translation, etc.), protein folding, or evading the immune response.",
+            "score": 105.3264274597168
+        },
+        {
+            "docid": "40142_2",
+            "document": "Botulism . Botulism is a rare and potentially fatal illness caused by a toxin produced by the bacterium \"Clostridium botulinum\". The disease begins with weakness, blurred vision, feeling tired, and trouble speaking. This may then be followed by weakness of the arms, chest muscles, and legs. Vomiting, swelling of the abdomen, and diarrhea may also occur. The disease does not usually affect consciousness or cause a fever. Botulism can be spread in several different ways. The bacterial spores which cause it are common in both soil and water. They produce the botulinum toxin when exposed to low oxygen levels and certain temperatures. Foodborne botulism happens when food containing the toxin is eaten. Infant botulism happens when the bacteria develops in the intestines and releases the toxin. This typically only occurs in children less than six months old, as protective mechanisms develop after that time. Wound botulism is found most often among those who inject street drugs. In this situation, spores enter a wound, and in the absence of oxygen, release the toxin. It is not passed directly between people. The diagnosis is confirmed by finding the toxin or bacteria in the person in question. Prevention is primarily by proper food preparation. The toxin, though not the organism, is destroyed by heating it to more than for longer than 5\u00a0minutes. Honey can contain the organism, and for this reason, honey should not be fed to children under 12 months. Treatment is with an antitoxin. In those who lose their ability to breathe on their own, mechanical ventilation may be necessary for months. Antibiotics may be used for wound botulism. Death occurs in 5 to 10% of people. Botulism also affects many other animals. The word is from Latin, \"botulus\", meaning sausage. Early descriptions of botulism date from at least as far back as 1793 in Germany.",
+            "score": 127.27300190925598
+        },
+        {
+            "docid": "6278176_2",
+            "document": "Anthrax toxin . Anthrax toxin is a three-protein exotoxin secreted by virulent strains of the bacterium, \"Bacillus anthracis\"\u2014the causative agent of anthrax. The toxin was first discovered by Harry Smith in 1954. Anthrax toxin is composed of a cell-binding protein, known as protective antigen (PA), and two enzyme components, called edema factor (EF) and lethal factor (LF). These three protein components act together to impart their physiological effects. Assembled complexes containing the toxin components are endocytosed. In the endosome, the enzymatic components of the toxin translocate into the cytoplasm of a target cell. Once in the cytosol, the enzymatic components of the toxin disrupts various immune cell functions, namely cellular signaling and cell migration. The toxin may even induce cell lysis, as is observed for macrophage cells. Anthrax toxin allows the bacteria to evade the immune system, proliferate, and ultimately kill the host animal. Research on anthrax toxin also provides insight into the generation of macromolecular assemblies, and on protein translocation, pore formation, endocytosis, and other biochemical processes.",
+            "score": 160.91862201690674
+        },
+        {
+            "docid": "12827583_5",
+            "document": "SLC5A1 . SLC5A1 is important because of its role in the absorption of glucose and sodium, however, mutations in the gene can cause serious effects. A mutation in the SLC5A1 gene can cause problems creating the SGLT1 protein, leading to a rare glucose-galactose malabsorption disease. Glucose-galactose malabsorption occurs when the lining of the intestinal cells can't take in glucose and galactose which prevents the use of those molecules in catabolism and anabolism. The disease has symptoms that consist of watery and/or acidic diarrhea which is the result of water retention in the intestinal lumen and osmotic loss created by non-absorbed glucose, galactose and sodium. Glucose-Galactose malabsorption can cause death, due to loss of water from diarrhea, if the disease isn't treated soon. To counteract the disease, oral rehydration therapy is performed using sodium, glucose, and water for intestinal reabsorption.",
+            "score": 139.8247891664505
+        },
+        {
+            "docid": "571816_6",
+            "document": "Campylobacter jejuni . Studies on the pathogenesis of \"C. jejuni\" show that for this organism to cause disease, the susceptibility of the host and the relative virulence of the infecting strain are both important. Infection results from the ingestion of contaminated food or water, and the infective dose can be as low as 800 organisms. To initiate infection, the organism must penetrate the gastrointestinal mucus, which it does using its high motility and spiral shape. The bacteria must then adhere to the gut enterocytes and can then induce diarrhea by toxin release. \"C. jejuni\" releases several different toxins, mainly enterotoxin and cytotoxins, which vary from strain to strain and correlate with the severity of the enteritis. During infection, levels of all immunoglobulin classes rise. Of these, IgA is the most important because it can cross the gut wall. IgA immobilises organisms, causing them to aggregate and activate complement, and also gives short-term immunity against the infecting strain of organism. The bacteria colonize the small and large intestines, causing inflammatory diarrhea with fever. Stools contain leukocytes and blood. The role of toxins in pathogenesis is unclear. \"C jejuni\" antigens that cross-react with one or more neural structures may be responsible for triggering the Guillain\u2013Barr\u00e9 syndrome.",
+            "score": 127.48912596702576
+        }
+    ],
+    "r": [
+        {
+            "docid": "5872745_5",
+            "document": "GM1 . The bacteria Vibrio cholerae produces a multimeric toxin called the cholera toxin. The secreted toxin attaches to the surface of the host mucosa cell by binding to GM1 gangliosides. GM1 consists of a sialic acid-containing oligosaccharide covalently attached to a ceramide lipid. The A1 subunit of this toxin will gain entry to intestinal epithelial cells with the assistance of the B subunit via the GM1 ganglioside receptor. Once inside, the A1 subunit will ADP ribosylate the Gs alpha subunit which will prevent its GTPase activity. This will lock it in the active state and it will continuously stimulate adenylate cyclase. The sustained adenylate cyclase activity will lead to a sustained increase of cAMP which will cause electrolyte and water loss, causing diarrhea.",
+            "score": 302.8916931152344
+        },
+        {
+            "docid": "7591_14",
+            "document": "Cholera . The cholera toxin (CTX or CT) is an oligomeric complex made up of six protein subunits: a single copy of the A subunit (part A), and five copies of the B subunit (part B), connected by a disulfide bond. The five B subunits form a five-membered ring that binds to GM1 gangliosides on the surface of the intestinal epithelium cells. The A1 portion of the A subunit is an enzyme that ADP-ribosylates G proteins, while the A2 chain fits into the central pore of the B subunit ring. Upon binding, the complex is taken into the cell via receptor-mediated endocytosis. Once inside the cell, the disulfide bond is reduced, and the A1 subunit is freed to bind with a human partner protein called ADP-ribosylation factor 6 (Arf6). Binding exposes its active site, allowing it to permanently ribosylate the Gs alpha subunit of the heterotrimeric G protein. This results in constitutive cAMP production, which in turn leads to the secretion of water, sodium, potassium, and bicarbonate into the lumen of the small intestine and rapid dehydration. The gene encoding the cholera toxin was introduced into \"V. cholerae\" by horizontal gene transfer. Virulent strains of \"V. cholerae\" carry a variant of a temperate bacteriophage called CTX\u03c6.",
+            "score": 298.12786865234375
+        },
+        {
+            "docid": "7591_15",
+            "document": "Cholera . Microbiologists have studied the genetic mechanisms by which the \"V. cholerae\" bacteria turn off the production of some proteins and turn on the production of other proteins as they respond to the series of chemical environments they encounter, passing through the stomach, through the mucous layer of the small intestine, and on to the intestinal wall. Of particular interest have been the genetic mechanisms by which cholera bacteria turn on the protein production of the toxins that interact with host cell mechanisms to pump chloride ions into the small intestine, creating an ionic pressure which prevents sodium ions from entering the cell. The chloride and sodium ions create a salt-water environment in the small intestines, which through osmosis can pull up to six liters of water per day through the intestinal cells, creating the massive amounts of diarrhea. The host can become rapidly dehydrated unless an appropriate mixture of dilute salt water and sugar is taken to replace the blood's water and salts lost in the diarrhea.",
+            "score": 283.30877685546875
+        },
+        {
+            "docid": "5499945_7",
+            "document": "Cholera toxin . Cholera toxin acts by the following mechanism: First, the B subunit ring of the cholera toxin binds to GM1 gangliosides on the surface of target cells. The B subunit can also bind to cells lacking GM1. The toxin then most likely binds to other types of glycans, such as Lewis Y and Lewis X, attached to proteins instead of lipids. Once bound, the entire toxin complex is endocytosed by the cell and the cholera toxin A1 (CTA1) chain is released by the reduction of a disulfide bridge. The endosome is moved to the Golgi apparatus, where the A1 protein is recognized by the endoplasmic reticulum chaperone, protein disulfide isomerase. The A1 chain is then unfolded and delivered to the membrane, where Ero1 triggers the release of the A1 protein by oxidation of protein disulfide isomerase complex. As the A1 protein moves from the ER into the cytoplasm by the Sec61 channel, it refolds and avoids deactivation as a result of ubiquitination.",
+            "score": 268.2919616699219
+        },
+        {
+            "docid": "21053458_10",
+            "document": "Cholera vaccine . Bacterial strains of both Inaba and Ogawa serotypes and of El Tor and Classical biotypes are included in the vaccine. Dukoral is taken orally with bicarbonate buffer, which protects the antigens from the gastric acid. The vaccine acts by inducing antibodies against both the bacterial components and CTB. The antibacterial intestinal antibodies prevent the bacteria from attaching to the intestinal wall, thereby impeding colonisation of V. cholerae O1. The anti-toxin intestinal antibodies prevent the cholera toxin from binding to the intestinal mucosal surface, thereby preventing the toxin-mediated diarrhoeal symptoms.",
+            "score": 253.913818359375
+        },
+        {
+            "docid": "26522611_13",
+            "document": "RTX toxin . RTX toxins in \"Vibrio\" bacteria represent an early discovery in RTX toxin research, but were only recently discovered to belong to a separate class of RTX toxins called MARTX toxins. In \"Vibrio cholerae\" the \"martx\" gene encodes six proteins: the MARTX toxin (RtxA), an acyltransferase (RtxC), a membrane fusion protein (RtxD), two ABC-transporters (RtxB and RtxE), and one protein with unknown function. RtxA is a virulence factor involved in cholera which facilitates colonization of \"V. cholerae\" the small intestine. RtxA causes destruction of the actin cytoskeleton in host cells through G-actin modification and destruction of Rho GTPases. The toxin contains four functional domains: an actin cross-linking domain (ACD), a Rho-inactivating domain (RID), a cysteine protease domain (CPD), and an \u03b1\u03b2-hydrolase. In \"V. cholerae\" infection, the CPD binds to inositol hexakisphosphate (InsP, Phytic acid) inside eukaryotic host cells. This binding activates the autoproteolytic CPD which cleaves the MARTX protein into smaller independent proteins each containing only one of the effector domains ACD, RID, and \u03b1\u03b2-hydrolase. This allows each effector to act independently within the host cell, this increases the effects of RtxA because the ACD and RID function in different locations within the cell. ACD cross-links monomeric G-actin in the host cell cytosol, preventing formation of actin microfilament, a major component of the cytoskeleton. RID inactivates membrane bound Rho-GTPases, which are regulators of cytoskeleton formation.",
+            "score": 242.24252319335938
+        },
+        {
+            "docid": "7591_16",
+            "document": "Cholera . By inserting separate, successive sections of \"V. cholerae\" DNA into the DNA of other bacteria, such as \"E. coli\" that would not naturally produce the protein toxins, researchers have investigated the mechanisms by which \"V. cholerae\" responds to the changing chemical environments of the stomach, mucous layers, and intestinal wall. Researchers have discovered a complex cascade of regulatory proteins controls expression of \"V. cholerae\" virulence determinants. In responding to the chemical environment at the intestinal wall, the \"V. cholerae\" bacteria produce the TcpP/TcpH proteins, which, together with the ToxR/ToxS proteins, activate the expression of the ToxT regulatory protein. ToxT then directly activates expression of virulence genes that produce the toxins, causing diarrhea in the infected person and allowing the bacteria to colonize the intestine. Current research aims at discovering \"the signal that makes the cholera bacteria stop swimming and start to colonize (that is, adhere to the cells of) the small intestine.\"",
+            "score": 233.7091827392578
+        },
+        {
+            "docid": "9642130_2",
+            "document": "AB5 toxin . The AB5 toxins are six-component protein complexes secreted by certain pathogenic bacteria known to cause human diseases such as cholera, dysentery, and hemolytic-uremic syndrome. One component is known as the A subunit, and the remaining five components make up the B subunit. All of these toxins share a similar structure and mechanism for entering targeted host cells. The B subunit is responsible for binding to receptors to open up a pathway for the A subunit to enter the cell. The A subunit is then able to use its catalytic machinery to take over the host cell's regular functions.",
+            "score": 226.75057983398438
+        },
+        {
+            "docid": "9642130_10",
+            "document": "AB5 toxin . The B subunits form a five-membered or pentameric ring, where one end of the A subunit goes into and is held. This B subunit ring is also capable of binding to a receptor on the surface of the host cell. Without the B subunits, the A subunit has no way of attaching to or entering the cell, and thus no way to exert its toxic effect. Cholera toxin, shiga toxin, and SubAB toxin all have B subunits that are made up of five identical protein components, meaning that their B subunits are homopentamers. Pertussis toxin is different where its pentameric ring is made up of four different protein components, where one of the components is repeated to form a heteropentamer.",
+            "score": 224.46246337890625
+        },
+        {
+            "docid": "174231_9",
+            "document": "Shiga-like toxin . The toxin acts on the lining of the blood vessels, the vascular endothelium. The B subunits of the toxin bind to a component of the cell membrane known as glycolipid globotriaosylceramide (Gb3). Binding of the subunit B to Gb3 causes induction of narrow tubular membrane invaginations, which drives formation of inward membrane tubules for the bacterial uptake into the cell. These tubules are essential for uptake into the host cell. When the protein is inside the cell, the A subunit interacts with the ribosomes to inactivate them. The A subunit of Shiga toxin is an N-glycosidase that modifies the RNA component of the ribosome to inactivate it and so bring a halt to protein synthesis leading to the death of the cell. The vascular endothelium has to continually renew itself, so this killing of cells leads to a breakdown of the lining and to hemorrhage. The first response is commonly a bloody diarrhea. This is because Shiga toxin is usually taken in with contaminated food or water.",
+            "score": 221.24317932128906
+        },
+        {
+            "docid": "50196193_5",
+            "document": "Larazotide . Larazotide acetate is a synthetic peptide based on a \"Vibrio cholerae\" enterotoxin called zonula occludens toxin that increases intestinal permeability. An investigation was carried out to discover which specific part of this toxin was responsible for this activity. Several mutants were constructed and tested for their biological activity and their ability to bind to intestinal epithelial cells in culture. The responsible region was located near the carboxyl terminus of the toxin protein. This region coincided with a peptide product generated by \"Vibrio cholerae\". The eight amino acid sequence in this region was shared with zonulin, an endogenous protein involved in tight junction modulation. This sequence was later designated larazotide acetate.",
+            "score": 216.4491729736328
+        },
+        {
+            "docid": "52080_4",
+            "document": "Vibrio cholerae . \"V. cholerae\" pathogenicity genes code for proteins directly or indirectly involved in the virulence of the bacteria. During infection, \"V. cholerae\" secretes cholera toxin, a protein that causes profuse, watery diarrhea (known as \"rice-water stool\"). Colonization of the small intestine also requires the toxin coregulated pilus (TCP), a thin, flexible, filamentous appendage on the surface of bacterial cells. \"V. cholerae\" can cause syndromes ranging from asymptomatic to cholera gravis. In endemic areas, 75% of cases are asymptomatic, 20% are mild to moderate, and 2-5% are severe forms such as cholera gravis. Symptoms include abrupt onset of watery diarrhea (a grey and cloudy liquid), occasional vomiting, and abdominal cramps. Dehydration ensues, with symptoms and signs such as thirst, dry mucous membranes, decreased skin turgor, sunken eyes, hypotension, weak or absent radial pulse, tachycardia, tachypnea, hoarse voice, oliguria, cramps, renal failure, seizures, somnolence, coma, and death. Death due to dehydration can occur in a few hours to days in untreated children. The disease is also particularly dangerous for pregnant women and their fetuses during late pregnancy, as it may cause premature labor and fetal death. In cases of cholera gravis involving severe dehydration, up to 60% of patients can die; however, less than 1% of cases treated with rehydration therapy are fatal. The disease typically lasts 4\u20136 days. Worldwide, diarrhoeal disease, caused by cholera and many other pathogens, is the second-leading cause of death for children under the age of 5 and at least 120,000 deaths are estimated to be caused by cholera each year. In 2002, the WHO deemed that the case fatality ratio for cholera was about 3.95%.",
+            "score": 216.26849365234375
+        },
+        {
+            "docid": "32440734_18",
+            "document": "Pathogenic Escherichia coli . Certain strains of \"E. coli\", such as , , O121, O26, , O111, O145, and , produce potentially lethal toxins. Food poisoning caused by \"E. coli\" can result from eating unwashed vegetables or poorly butchered and undercooked meat. O157:H7 is also notorious for causing serious and even life-threatening complications such as hemolytic-uremic syndrome. This particular strain is linked to the 2006 United States \"E. coli\" outbreak due to fresh spinach. The strain is equally virulent. Antibiotic and supportive treatment protocols for it are not as well-developed (it has the ability to be very enterohemorrhagic like O157:H7, causing bloody diarrhea, but also is more enteroaggregative, meaning it adheres well and clumps to intestinal membranes). It is the strain behind the deadly June 2011 E. coli outbreak in Europe. Severity of the illness varies considerably; it can be fatal, particularly to young children, the elderly or the immunocompromised, but is more often mild. Earlier, poor hygienic methods of preparing meat in Scotland killed seven people in 1996 due to \"E. coli\" poisoning, and left hundreds more infected. \"E. coli\" can harbour both heat-stable and heat-labile enterotoxins. The latter, termed LT, contain one A subunit and five B subunits arranged into one holotoxin, and are highly similar in structure and function to cholera toxins. The B subunits assist in adherence and entry of the toxin into host intestinal cells, while the A subunit is cleaved and prevents cells from absorbing water, causing diarrhea. LT is secreted by the Type 2 secretion pathway.",
+            "score": 209.9268035888672
+        },
+        {
+            "docid": "9642130_11",
+            "document": "AB5 toxin . Cholera toxin, pertussis toxin, and shiga toxin all have their targets in the cytosol of the cell. After their B subunit binds to receptors on the cell surface, the toxin is enveloped by the cell and transported inside either through clathrin-dependent endocytosis or clathrin-independent endocytosis.",
+            "score": 209.76858520507812
+        },
+        {
+            "docid": "5499945_4",
+            "document": "Cholera toxin . The cholera toxin is an oligomeric complex made up of six protein subunits: a single copy of the A subunit (part A, enzymatic), and five copies of the B subunit (part B, receptor binding), denoted as AB. Subunit B binds while subunit A activates the G protein which activates adenylate cyclase. The three-dimensional structure of the toxin was determined using X-ray crystallography by Zhang \"et al.\" in 1995.",
+            "score": 207.07078552246094
+        },
+        {
+            "docid": "9642130_12",
+            "document": "AB5 toxin . For the cholera toxin, the principal glycolipid receptor for the cholera toxin is ganglioside GM1. After endocytosis to the golgi apparatus, the toxin is redirected to the endoplasmic reticulum. In order for the A subunit to reach its target, a disulfide bond between the A1 and A2 domain must be broken. This breakage is catalyzed by a protein disulfide isomerase that is in the endoplasmic reticulum. Following separation, the A1 domain unfolds and is redirected back to the cytosol where it refolds and catalyzes ADP-ribosylation of certain G protein alpha subunits. In doing so, the downstream effects of the G protein signal transduction pathway is disrupted by activating adenylate cyclase. This causes a higher concentration of cAMP in the cell, which disrupts the regulation of ion transport mechanisms.",
+            "score": 201.46160888671875
+        },
+        {
+            "docid": "5499945_8",
+            "document": "Cholera toxin . CTA1 is then free to bind with a human partner protein called ADP-ribosylation factor 6 (Arf6); binding to Arf6 drives a change in the shape of CTA1 which exposes its active site and enables its catalytic activity. The CTA1 fragment catalyses ADP-ribosylation of the Gs alpha subunit (G\u03b1) proteins using NAD. The ADP-ribosylation causes the G\u03b1 subunit to lose its catalytic activity of GTP hydrolization into GDP + P, thus maintaining G\u03b1 in its activated state. Increased G\u03b1 activation leads to increased adenylate cyclase activity, which increases the intracellular concentration of 3',5'-cyclic AMP (cAMP) to more than 100-fold over normal and over-activates cytosolic PKA. These active PKA then phosphorylate the cystic fibrosis transmembrane conductance regulator (CFTR) chloride channel proteins, which leads to ATP-mediated efflux of chloride ions and leads to secretion of HO, Na, K, and HCO into the intestinal lumen. In addition, the entry of Na and consequently the entry of water into enterocytes are diminished. The combined effects result in rapid fluid loss from the intestine, up to 2 liters per hour, leading to severe dehydration and other factors associated with cholera, including a rice-water stool.",
+            "score": 190.34654235839844
+        },
+        {
+            "docid": "5499945_13",
+            "document": "Cholera toxin . GM1 gangliosides are found in lipid rafts on the cell surface. B subunit complexes labelled with fluorescent tags or subsequently targeted with antibodies can be used to identify rafts.",
+            "score": 189.49644470214844
+        },
+        {
+            "docid": "6862740_6",
+            "document": "Exogenous bacteria . \"Cholera\" is a waterborne infection caused by the bacterium \"Vibrio chloerae\", and is transmitted via food or water that is contaminated with fecal matter. \"Vibrio chloerae\" releases a toxin that induces an increased amount of water in the small intestines. Symptoms primarily observed include, watery diarrhea and vomiting that can cause dehydration and death if not treated. An estimated 3-5 million cases of \"Cholera\" occur yearly around the world. The exogenous bacteria derived infection is primarilyfound in Africa, Asia, as well as Central and South America.",
+            "score": 187.2996826171875
+        },
+        {
+            "docid": "33979095_4",
+            "document": "CTX\u03c6 bacteriophage . The insertion of the CTX\u03c6 genetic material into the \"V. cholerae\" bacterium is mediated by two receptors. The first of these is the Toxin-Coregulated Pilus (TCP), which also aids the bacterium in adhering to the intestinal cell wall. The TCP is thought to bind to the minor CTX\u03c6 coat protein OrfU. The second of the two receptors is the TolQRA membrane protein structure.",
+            "score": 185.99627685546875
+        },
+        {
+            "docid": "534001_3",
+            "document": "Secretion . Secretion in bacterial species means the transport or translocation of effector molecules for example: proteins, enzymes or toxins (such as cholera toxin in pathogenic bacteria for example \"Vibrio cholerae\") from across the interior (cytoplasm or cytosol) of a bacterial cell to its exterior. Secretion is a very important mechanism in bacterial functioning and operation in their natural surrounding environment for adaptation and survival.",
+            "score": 184.8363800048828
+        },
+        {
+            "docid": "12999450_4",
+            "document": "History of emerging infectious diseases . Vibrio cholera bacteria are transmitted through contaminated water. Once ingested, the bacteria colonizes the intestinal tract of the host and produces a toxin which causes body fluids to flow across the lining of the intestine. Death can result in 2\u20133 hours from dehydration if no treatment is provided.",
+            "score": 182.82008361816406
+        },
+        {
+            "docid": "174231_8",
+            "document": "Shiga-like toxin . The toxin is a multisubunit protein made up of one molecule of A subunit (32,000 molecular weight) responsible for the toxic action of the protein, and five molecules of the B subunit (7,700 molecular weight) responsible for binding to a specific cell type.",
+            "score": 180.96278381347656
+        },
+        {
+            "docid": "20078914_3",
+            "document": "Sambhu Nath De . De made significant contributions to our recent understanding of cholera and related diarrhoeal diseases and set a permanent milestone in the modern view of diseases caused by bacterial exotoxins. Followed by the discovery of Vibrio cholerae in 1884 by Robert Koch, many works have been carried out all over the world to answer many questions related with its pathogenesis and mode of transmission in causing outbreaks. The seminal works of De in Calcutta (now, Kolkata), during 1950\u201360 breached several qualms pertaining to the enteric toxin produced by bacteria including V. cholerae and Escherichia coli. Three of his works viz., ligated intestinal loop method (which was a reinvention of Violle and Crendiropoulo method in 1915, but De was unaware of this work and made an independent discovery) for studying cholera in rabbit model; ileal loop model to demonstrate the association of some strains of E. coli with diarrhoea and lastly but most importantly is his discovery of cholera toxin in 1959 in the cell-free culture filtrate of V. cholerae that stimulated a specific cellular response.",
+            "score": 180.5029296875
+        },
+        {
+            "docid": "52080_9",
+            "document": "Vibrio cholerae . CTX\u03c6 (also called CTXphi) is a filamentous phage that contains the genes for cholera toxin. Infectious CTX\u03c6 particles are produced when \"V. cholerae\" infects humans. Phage particles are secreted from bacterial cells without lysis. When CTX\u03c6 infects \"V. cholerae\" cells, it integrates into specific sites on either chromosome. These sites often contain tandem arrays of integrated CTX\u03c6 prophage. In addition to the \"ctxA\" and \"ctxB\" genes encoding cholera toxin, CTX\u03c6 contains eight genes involved in phage reproduction, packaging, secretion, integration, and regulation. The CTX\u03c6 genome is 6.9 kb long.",
+            "score": 180.26014709472656
+        },
+        {
+            "docid": "1254640_6",
+            "document": "Ganglioside . The oligosaccharide groups on gangliosides extend well beyond the surfaces of the cell membranes, and act as distinguishing surface markers that can serve as specific determinants in cellular recognition and cell-to-cell communication. These carbohydrate head groups also act as specific receptors for certain pituitary glycoprotein hormones and certain bacterial protein toxins such as cholera toxin.",
+            "score": 179.48178100585938
+        },
+        {
+            "docid": "42972033_11",
+            "document": "Diseases and epidemics of the 19th century . Cholera is an infection of the small intestine caused by the bacterium \"Vibrio cholerae\". Cholera is transmitted primarily by drinking water or eating food that has been contaminated by the cholera bacterium. The bacteria multiply in the small intestine; the feces (waste product) of an infected person, including one with no apparent symptoms, can pass on the disease if it contacts the water supply by any means.",
+            "score": 178.4663848876953
+        },
+        {
+            "docid": "58937_7",
+            "document": "Diphtheria . Diphtheria toxin is a single, 60-kDa-molecular weight protein composed of two peptide chains, fragment A and fragment B, held together by a disulfide bond. Fragment B is a recognition subunit that gains the toxin entry into the host cell by binding to the EGF-like domain of heparin-binding EGF-like growth factor on the cell surface. This signals the cell to internalize the toxin within an endosome via receptor-mediated endocytosis. Inside the endosome, the toxin is split by a trypsin-like protease into its individual A and B fragments. The acidity of the endosome causes fragment B to create pores in the endosome membrane, thereby catalysing the release of fragment A into the cell's cytoplasm.",
+            "score": 175.87290954589844
+        },
+        {
+            "docid": "9642130_9",
+            "document": "AB5 toxin . The A subunit of an AB5 toxin is the portion responsible for catalysis of specific targets. For Shiga toxin family, the A subunit hosts a Trypsin-sensitive region which gives out two fragmented domains when cleaved. This region has not been confirmed for the other AB5 toxin families as yet. In general, the two domains of the A subunit, named A1 and A2, are linked by a disulfide bond. Domain A1 (approximately 22kDa in cholera toxin or heat labile enterotoxins) is the part of the toxin responsible for its toxic effects. Domain A2 (approximately 5kDa in cholera toxin or heat labile enterotoxin) provides a non-covalent linkage to the B subunit through the B subunit's central pore. The A1 chain for cholera toxin catalyzes the transfer of ADP-ribose from Nicotinamide adenine dinucleotide(NAD) to arginine or other guanidine compounds by utilizing ADP-ribosylation factors (ARFs). In the absence of arginine or simple guanidino compounds, the toxin mediated NAD+ nucleosidase (NADase) activity proceeds using water as a nucleophile.",
+            "score": 175.45814514160156
+        },
+        {
+            "docid": "20681039_2",
+            "document": "AB toxin . The AB toxins are two-component protein complexes secreted by a number of pathogenic bacteria. They can be classified as because they interfere with internal cell function. They are named AB toxins due to their components: the \"A\" component is usually the \"active\" portion, and the \"B\" component is usually the \"binding\" portion. The \"A\" subunit possesses enzyme activity, and is transferred to the host cell following a conformational change in the membrane-bound transport \"B\" subunit. Among the toxins produced by certain Clostridium spp. are the binary exotoxins. These proteins consist of two independent polypeptides, which correspond to the A/B subunit moieties. The enzyme component (A) enters the cell through endosomes produced by the oligomeric binding/translocation protein (B), and prevents actin polymerisation through ADP-ribosylation of monomeric G-actin.",
+            "score": 174.6941680908203
+        },
+        {
+            "docid": "5505849_3",
+            "document": "Diphtheria toxin . Diphtheria toxin is a single polypeptide chain of 535 amino acids consisting of two subunits linked by disulfide bridges, known as an A-B toxin. Binding to the cell surface of the B subunit (the less stable of the two subunits) allows the A subunit (the more stable part of the protein) to penetrate the host cell.",
+            "score": 174.42796325683594
+        },
+        {
+            "docid": "56022486_2",
+            "document": "VqmR sRNA . VqmR small RNA was discovered in \"Vibrio cholerae\", a bacterium which can cause cholera, using differential RNA sequencing (sRNA-seq) under conditions of low and high cell density which were being used to study quorum sensing (QS). QS controls virulence and biofilm formation in \"Vibrio cholerae\"; it has been shown previously that it is directed by the Qrr sRNAs. VqmR has been shown to repress the expression of multiple mRNAs including the \"rtx\" (repeats in toxin) toxin genes and the \"vpsT\" , which is required for biofilm formation. In fact, VqmR which is highly conserved in \"vibrionaceae,\" was shown to strongly inhibit biofilm formation by repressing the \"vpsT\" gene; it could be the link between biofilm formation and QS.",
+            "score": 173.625732421875
+        }
+    ]
+}

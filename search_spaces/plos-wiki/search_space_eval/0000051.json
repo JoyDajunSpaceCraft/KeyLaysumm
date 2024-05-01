@@ -1,0 +1,326 @@
+{
+    "q": [
+        {
+            "docid": "21427121_2",
+            "document": "Fragile X-associated tremor/ataxia syndrome . Fragile X-associated tremor/ataxia syndrome (FXTAS) is a late-onset neurodegenerative disorder associated with male premutation carriers of Fragile X syndrome (FXS) over the age of 50. The main clinical features of FXTAS include problems of movement with cerebellar gait ataxia and action tremor. Associated features include parkinsonism, cognitive decline, and dysfunction of the autonomic nervous system. FXTAS is found in Fragile X \"premutation\" carriers, which is defined as a trinucleotide repeat expansion of 55-200 CGG repeats in the Fragile X mental retardation-1 (FMR1) gene. 4-40 CGG repeats in this gene is considered normal, while individual with >200 repeats have full Fragile X Syndrome.",
+            "score": 213.6242687702179
+        },
+        {
+            "docid": "14118832_3",
+            "document": "HNRNPA1 . This gene belongs to the A/B subfamily of ubiquitously expressed heterogeneous nuclear ribonucleoproteins (hnRNPs). The hnRNPs are RNA binding proteins and they complex with heterogeneous nuclear RNA (hnRNA). These proteins are associated with pre-mRNAs in the nucleus and appear to influence pre-mRNA processing and other aspects of mRNA metabolism and transport. While all of the hnRNPs are present in the nucleus, some seem to shuttle between the nucleus and the cytoplasm. The hnRNP proteins have distinct nucleic acid binding properties. The protein encoded by this gene has two repeats of quasi-RRM domains that bind to RNAs. It is one of the most abundant core proteins of hnRNP complexes and it is localized to the nucleoplasm. This protein, along with other hnRNP proteins, is exported from the nucleus, probably bound to mRNA, and is immediately re-imported. Its M9 domain acts as both a nuclear localization and nuclear export signal. The encoded protein is involved in the packaging of pre-mRNA into hnRNP particles, transport of poly A+ mRNA from the nucleus to the cytoplasm, and may modulate splice site selection. Multiple alternatively spliced transcript variants have been found for this gene but only two transcripts are fully described. These variants have multiple alternative transcription initiation sites and multiple polyA sites.",
+            "score": 57.2071590423584
+        },
+        {
+            "docid": "14776592_3",
+            "document": "HNRNPL . Heterogeneous nuclear RNAs (hnRNAs) which include mRNA precursors and mature mRNAs are associated with specific proteins to form heterogeneous ribonucleoprotein (hnRNP) complexes. Heterogeneous nuclear ribonucleoprotein L is among the proteins that are stably associated with hnRNP complexes and along with other hnRNP proteins is likely to play a major role in the formation, packaging, processing, and function of mRNA. Heterogeneous nuclear ribonucleoprotein L is present in the nucleoplasm as part of the HNRP complex. HNRP proteins have also been identified outside of the nucleoplasm. Exchange of hnRNP for mRNA-binding proteins accompanies transport of mRNA from the nucleus to the cytoplasm. Since HNRP proteins have been shown to shuttle between the nucleus and the cytoplasm, it is possible that they also have cytoplasmic functions. Two transcript variants encoding different isoforms have been found for this gene.",
+            "score": 42.53278565406799
+        },
+        {
+            "docid": "3131507_21",
+            "document": "RNA-binding protein . RNA-binding protein Sam68 controls the spatial and temporal compartmentalization of RNA metabolism to attain proper synaptic function in dendrites. Loss of Sam68 results in abnormal posttranscriptional regulation and ultimately leads to neurological disorders such as fragile X-associated tremor/ataxia syndrome. Sam68 was found to interact with the mRNA encoding \u03b2-actin, which regulates the synaptic formation of the dendritic spines with its cytoskeletal components. Therefore, Sam68 plays a critical role in regulating synapse number via control of postsynaptic \u03b2-actin mRNA metabolism.",
+            "score": 75.80031323432922
+        },
+        {
+            "docid": "4238684_19",
+            "document": "G-quadruplex . Fragile X mental retardation protein (FMRP) is a widely expressed protein coded by the fragile X mental retardation gene 1 (FMR1) that binds to G-quadruplex secondary structures in neurons and is involved in synaptic plasticity. FMRP acts as a negative regulator of translation, and its binding stabilizes G-quadruplex structures in mRNA transcripts, inhibiting ribosome elongation of mRNA in the neuron's dendrite and controlling the timing of the transcript's expression. Mutations of this gene can cause the development of Fragile X Syndrome, autism, and other neurological disorders. Specifically, Fragile X Syndrome is caused by an increase from 50 to over 200 CGG repeats within exon 13 of the FMR1 gene. This repeat expansion promotes DNA methylation and other epigenetic heterochromatin modifications of FMR1 that prevent the transcription of the gene, leading to pathological low levels of FMRP.",
+            "score": 113.1786196231842
+        },
+        {
+            "docid": "21427121_4",
+            "document": "Fragile X-associated tremor/ataxia syndrome . FMR1 mRNA is found to be elevated in patients with FXTAS in contrast to FXS, where the FMR1 gene is transcriptionally silenced via DNA methylation. In both diseases the FMR1 gene product, Fragile X mental retardation protein (FMRP) is diminished, but in FXTAS this is believed to be mediated by RNA toxicity, while in FXS, FMRP is absent due to transcriptional silencing.",
+            "score": 128.15363788604736
+        },
+        {
+            "docid": "53142_23",
+            "document": "Fragile X syndrome . Individuals who are carriers of premutation alleles are at risk for developing fragile X-associated tremor/ataxia syndrome (FXTAS), a progressive neurodegenerative disease. It is seen in approximately half of male carriers over the age of 70, while penetrance in females is lower. Typically, onset of tremor occurs in the sixth decade of life, with subsequent progression to ataxia (loss of coordination) and gradual cognitive decline.",
+            "score": 174.0959792137146
+        },
+        {
+            "docid": "14725558_3",
+            "document": "HNRPD . This gene belongs to the subfamily of ubiquitously expressed heterogeneous nuclear ribonucleoproteins (hnRNPs). The hnRNPs are nucleic acid binding proteins and they complex with heterogeneous nuclear RNA (hnRNA). The interaction sites on the RNA are frequently biased towards particular sequence motifs. These proteins are associated with pre-mRNAs in the nucleus and appear to influence pre-mRNA processing and other aspects of mRNA metabolism and transport. While all of the hnRNPs are present in the nucleus, some seem to shuttle between the nucleus and the cytoplasm. The hnRNP proteins have distinct nucleic acid binding properties. The protein encoded by this gene has two repeats of quasi-RRM domains that bind to RNAs. It localizes to both the nucleus and the cytoplasm. This protein is implicated in the regulation of mRNA stability.",
+            "score": 50.292115926742554
+        },
+        {
+            "docid": "14125762_3",
+            "document": "HNRPK . This gene belongs to the subfamily of ubiquitously expressed heterogeneous nuclear ribonucleoproteins (hnRNPs). The hnRNPs are RNA binding proteins and they complex with heterogeneous nuclear RNA (hnRNA). These proteins are associated with pre-mRNAs in the nucleus and appear to influence pre-mRNA processing and other aspects of mRNA metabolism and transport. While all of the hnRNPs are present in the nucleus, some seem to shuttle between the nucleus and the cytoplasm. The hnRNP proteins have distinct nucleic acid binding properties. The protein encoded by this gene is located in the nucleoplasm and has three repeats of KH domains that binds to RNAs. It is distinct among other hnRNP proteins in its binding preference; it binds tenaciously to poly(C). This protein is also thought to have a role during cell cycle progression. Multiple alternatively spliced transcript variants have been described for this gene but only three variants have been fully described.",
+            "score": 49.88175988197327
+        },
+        {
+            "docid": "14876376_3",
+            "document": "HNRNPR . This gene belongs to the subfamily of ubiquitously expressed heterogeneous nuclear ribonucleoproteins (hnRNPs). The hnRNPs are RNA binding proteins and they complex with heterogeneous nuclear RNA (hnRNA). These proteins are associated with pre-mRNAs in the nucleus and appear to influence pre-mRNA processing and other aspects of mRNA metabolism and transport. While all of the hnRNPs are present in the nucleus, some seem to shuttle between the nucleus and the cytoplasm. The hnRNP proteins have distinct nucleic acid binding properties. The protein encoded by this gene has three repeats of quasi-RRM domains that bind to RNAs and also contains a nuclear localization motif.",
+            "score": 52.2557954788208
+        },
+        {
+            "docid": "14156674_3",
+            "document": "HNRPU . This gene belongs to the subfamily of ubiquitously expressed heterogeneous nuclear ribonucleoproteins (hnRNPs). The hnRNPs are RNA binding proteins that form complexes with heterogeneous nuclear RNA (hnRNA). These proteins are associated with pre-mRNAs in the nucleus and appear to influence pre-mRNA processing and other aspects of mRNA metabolism and transport. While all of the hnRNPs are present in the nucleus, some seem to shuttle between the nucleus and the cytoplasm. The hnRNP proteins have distinct nucleic acid binding properties. The protein encoded by this gene contains a RNA binding domain and scaffold-associated region (SAR)-specific bipartite DNA-binding domain. This protein is also thought to be involved in the packaging of hnRNA into large ribonucleoprotein complexes. During apoptosis, this protein is cleaved in a caspase-dependent way. Cleavage occurs at the SALD site, resulting in a loss of DNA-binding activity and a concomitant detachment of this protein from nuclear structural sites. But this cleavage does not affect the function of the encoded protein in RNA metabolism. At least two alternatively spliced transcript variants have been identified for this gene.",
+            "score": 47.80448770523071
+        },
+        {
+            "docid": "49980451_2",
+            "document": "RNA-dominant disease . RNA-dominant diseases are characterized by deleterious mutations that typically result in degenerative disorders affecting various neurological, cardiovascular, and muscular functions. Studies have found that they arise from repetitive non-coding RNA sequences, also known as toxic RNA, which inhibit RNA-binding proteins leading to pathogenic effects. The most studied RNA-dominant diseases include, but are not limited to, myotonic dystrophy and fragile X-associated tremor/ataxia syndrome (FXTAS).",
+            "score": 97.36304473876953
+        },
+        {
+            "docid": "53142_25",
+            "document": "Fragile X syndrome . About 20% of women who are carriers for the fragile X premutation are affected by fragile X-related primary ovarian insufficiency (FXPOI), which is defined as menopause before the age of 40. The number of CGG repeats correlates with penetrance and age of onset. However premature menopause is more common in premutation carriers than in women with the full mutation, and for premutations with more than 100 repeats the risk of FXPOI begins to decrease. Fragile X-associated primary ovarian insufficiency (FXPOI) is one of three Fragile X-associated Disorders (FXD) caused by changes in the FMR1 gene.FXPOI affects female premutation carriers of Fragile X syndrome, which is caused by the FMR1 gene, when their ovaries are not functioning properly. Women with FXPOI may develop menopause-like symptoms but they are not actually menopausal. Women with FXPOI can still get pregnant in some cases because their ovaries occasionally release viable eggs.",
+            "score": 167.73078870773315
+        },
+        {
+            "docid": "3514698_11",
+            "document": "FMR1 . Fragile X syndrome is caused by the loss of production of fragile X mental retardation protein (FMRP) in response to \"FMR1\" gene silencing. FMRP has a diverse array of functions throughout different areas of the neuron; however these functions have not been fully characterized. FMRP has been suggested to play roles in nucleocytoplasmic shuttling of mRNA, dendritic mRNA localization, and synaptic protein synthesis. Studies of Fragile X syndrome have significantly aided in the understanding of the functionality of FMRP through the observed effects of FMRP loss on neurons. A mouse model of fragile X mental retardation implicated the involvement of FMRP in synaptic plasticity. Synaptic plasticity requires the production of new proteins in response to activation of synaptic receptors. It is the production of proteins in response to stimulation which is hypothesized to allow for the permanent physical changes and altered synaptic connections that are linked with the processes of learning and memory.",
+            "score": 85.11658787727356
+        },
+        {
+            "docid": "53142_2",
+            "document": "Fragile X syndrome . Fragile X syndrome (FXS) is a genetic disorder. Symptoms often include mild to moderate intellectual disability. Physical features may include a long and narrow face, large ears, flexible fingers, and large testicles. About a third of those affected have features of autism such as problems with social interactions and delayed speech. Hyperactivity is common and seizures occur in about 10%. Males are usually more affected than females. Fragile X syndrome is typically due to an expansion of the CGG triplet repeat within the \"Fragile X mental retardation 1\" (\"FMR1\") gene on the X chromosome. This results in not enough fragile X mental retardation protein (FMRP), which is required for normal development of the connection between neurons. Diagnosis is by genetic testing to determine the number of CGG repeats in the FMRI gene. Normal is between 5 and 40 repeats, fragile X syndrome occurs with more than 200, and a premutation is said to be present when a middle number of repeats occurs. Testing for premutation carriers may allow for genetic counseling. There is no cure. Early intervention is recommended as it provides the most opportunity for developing a full range of skills. These interventions may include special education, speech therapy, physical therapy, or behavioral therapy. Medications may be used to treat associated seizures, mood problems, aggressive behavior, or ADHD. Fragile X syndrome occurs in about 1 in 4,000 males and 1 in 8,000 females.",
+            "score": 149.94249498844147
+        },
+        {
+            "docid": "53142_18",
+            "document": "Fragile X syndrome . Individuals with fragile X-associated tremor/ataxia syndrome (FXTAS) are likely to experience combinations of dementia, mood, and anxiety disorders. Males with the \"FMR1\" premutation and clinical evidence of FXTAS were found to have increased occurrence of somatization, obsessive\u2013compulsive disorder, interpersonal sensitivity, depression, phobic anxiety, and psychoticism.",
+            "score": 166.5274477005005
+        },
+        {
+            "docid": "14795095_3",
+            "document": "HNRPAB . This gene belongs to the subfamily of ubiquitously expressed heterogeneous nuclear ribonucleoproteins (hnRNPs). The hnRNPs are produced by RNA polymerase II and are components of the heterogeneous nuclear RNA (hnRNA) complexes. They are associated with pre-mRNAs in the nucleus and appear to influence pre-mRNA processing and other aspects of mRNA metabolism and transport. While all of the hnRNPs are present in the nucleus, some seem to shuttle between the nucleus and the cytoplasm. The hnRNP proteins have distinct nucleic acid binding properties. The protein encoded by this gene, which binds to one of the components of the multiprotein editosome complex, has two repeats of quasi-RRM (RNA recognition motif) domains that bind to RNAs. Two alternatively spliced transcript variants encoding different isoforms have been described for this gene.",
+            "score": 48.08101677894592
+        },
+        {
+            "docid": "14145505_4",
+            "document": "HNRNPA2B1 . This gene belongs to the A/B subfamily of ubiquitously expressed heterogeneous nuclear ribonucleoproteins (hnRNPs). The hnRNPs are RNA binding proteins and they complex with heterogeneous nuclear RNA (hnRNA). These proteins are associated with pre-mRNAs in the nucleus and appear to influence pre-mRNA processing and other aspects of mRNA metabolism and transport. While all of the hnRNPs are present in the nucleus, some seem to shuttle between the nucleus and the cytoplasm. The hnRNP proteins have distinct nucleic acid binding properties. The protein encoded by this gene has two repeats of quasi-RRM domains that bind to RNAs. This gene has been described to generate two alternatively spliced transcript variants which encode different isoforms. HnRNPA2B1 is an autoantigen in autoimmune diseases such as rheumatoid arthritis, systemic lupus erythematosus and mixed connective tissue disease. When referred to as an autoantigen, hnRNPA2B1 is also known as RA33.",
+            "score": 47.52207827568054
+        },
+        {
+            "docid": "15181932_3",
+            "document": "HNRPDL . This gene belongs to the subfamily of ubiquitously expressed heterogeneous nuclear ribonucleoproteins (hnRNPs). The hnRNPs are RNA binding proteins and they complex with heterogeneous nuclear RNA (hnRNA). These proteins are associated with pre-mRNAs in the nucleus and appear to influence pre-mRNA processing and other aspects of mRNA metabolism and transport. While all of the hnRNPs are present in the nucleus, some seem to shuttle between the nucleus and the cytoplasm. The hnRNP proteins have distinct nucleic acid binding properties. The protein encoded by this gene has two RRM domains that bind to RNAs. Two alternatively spliced transcript variants have been described for this gene. One of the variants is probably not translated because the transcript is a candidate for nonsense-mediated mRNA decay. The protein encoded by this gene is similar to its family member HNRPD.",
+            "score": 44.66121006011963
+        },
+        {
+            "docid": "3131507_2",
+            "document": "RNA-binding protein . RNA-binding proteins (often abbreviated as RBPs) are proteins that bind to the double or single stranded RNA in cells and participate in forming ribonucleoprotein complexes. RBPs contain various structural motifs, such as RNA recognition motif (RRM), dsRNA binding domain, zinc finger and others. They are cytoplasmic and nuclear proteins. However, since most mature RNA is exported from the nucleus relatively quickly, most RBPs in the nucleus exist as complexes of protein and pre-mRNA called heterogeneous ribonucleoprotein particles (hnRNPs). RBPs have crucial roles in various cellular processes such as: cellular function, transport and localization. They especially play a major role in post-transcriptional control of RNAs, such as: splicing, polyadenylation, mRNA stabilization, mRNA localization and translation. Eukaryotic cells encode diverse RBPs, approximately 500 genes, with unique RNA-binding activity and protein\u2013protein interaction. During evolution, the diversity of RBPs greatly increased with the increase in the number of introns. Diversity enabled eukaryotic cells to utilize RNA exons in various arrangements, giving rise to a unique RNP (ribonucleoprotein) for each RNA. Although RBPs have a crucial role in post-transcriptional regulation in gene expression, relatively few RBPs have been studied systematically.",
+            "score": 45.392632246017456
+        },
+        {
+            "docid": "35177359_3",
+            "document": "CRD-BP . CRD-BP is a 577 amino acid protein that contains 4 KH domains, 2 RRMs and a RGG box (Figure 2). CRD-BP and human IMP-1 are not identical but shows a high degree of resemblance. They are very closely related to IMP-2, which has been determined through phylogenetic analysis (Figure 1). As a result of this close phylogeny, the structure of the conserved functional domains is shared between CRD-BP, ZBP1 and the human IMPs (Figure 2). The conserved KH domains are shared throughout the orthologs and they are able to form dimers which orient the RNA binding regions in a polar opposite manner (Figure 3A). This orientation creates room for each G-X-X-G motif (Figure 3B) of each KH domain to bind its RNA transcript (Figure 3A).  CRD-BP and its orthologs have been shown to have the ability to bind CD44, beta-actin, c-myc, IGF2, H19 and tau RNA transcripts. CRD-BP has been shown to play a crucial role in cancer growth and invasion of tissues. CD44 proteins belong to a family of cell surface adhesion molecules that are involved in both cell-cell and cell-matrix communications. CRD-BP binds to and protects CD44 RNA which shows increased expression in cancers. CRD-BP plays a role in the localization of \u03b2-actin mRNA by binding to the localization element in the 3'UTR region. Aberrant expression of the oncogenic c-myc gene has been shown in the formation of tumours. c-myc mRNA contains a coding region instability determinant (CRD) which CRD-BP has been shown to bind, therefore, protecting c-myc mRNA from endonucleolytic attack. CRD-BP also binds IGF2 and H19 mRNA. The H19 gene is located downstream of the IGF2 on chromosome 11 and chromosome 7 on humans and mice, respectively. The binding of CRD-BP to these transcripts has shown to alter the expression of the genes. The microtubule-associated protein (MAP) is coded for by tau mRNA and is mainly found in the axon of neurons. The 3\u2019UTR of tau mRNA contains a cis-regulatory element that controls the axonal localization of tau mRNA. CRD-BP binds to the axonal localization signal (ALS) of tau and plays a role in the localization of the transcript.",
+            "score": 41.147690296173096
+        },
+        {
+            "docid": "5957474_2",
+            "document": "Ribonomics . Ribonomics is the study of ribonucleic acids (RNAs) associated with RNA-binding proteins (RBPs). The term was introduced by Robert Cedergren and colleagues who used a bioinformatic search tool to discover novel ribozymes and RNA motifs originally found in HIV. Ribonomics, like genomics or proteomics, is the large-scale, high-throughput approach to identifying subsets of RNAs by their association with proteins in cells. Since many messenger RNAs (mRNAs) are linked with multiple processes, this technique offers a facile mechanism to study the relationship of various intracellular systems. Prokaryotes co-regulate genes common to cellular processes via a polycistronic operon. Since eukaryotic transcription produces mRNA encoding proteins in a monocistronic fashion, many gene products must be concomitantly expressed (see gene expression) and translated in a timed fashion. RBPs are thought to be the molecules which physically and biochemically organize these messages to different cellular locales where they may be translated, degraded or stored. The study of transcripts associated with RBPs is therefore thought to be important in eukaryotes as a mechanism for coordinated gene regulation. The likely biochemical processes which account for this regulation are the expedited/delayed degradation of RNA. In addition to the influence on RNA half-life, translation rates are also thought to be altered by RNA-protein interactions. The Drosphila ELAV family, the Puf family in yeast, and the human La, Ro, and FMR proteins are known examples of RBPs, showing the diverse species and processes with which post-transcriptional gene regulation is associated.",
+            "score": 40.77573311328888
+        },
+        {
+            "docid": "13996189_3",
+            "document": "NXF1 . This gene is one member of a family of nuclear RNA export factor genes. Common domain features of this family are a noncanonical RNP-type RNA-binding domain (RBD), 4 leucine-rich repeats (LRRs), a nuclear transport factor 2 (NTF2)-like domain that allows heterodimerization with NTF2-related export protein-1 (NXT1), and a ubiquitin-associated domain that mediates interactions with nucleoporins. Alternative splicing results in transcript variants. The LRRs and NTF2-like domains are required for export activity. The encoded protein of this gene shuttles between the nucleus and the cytoplasm and binds in vivo to poly(A)+ RNA. It is the vertebrate homologue of the yeast protein Mex67p. The encoded protein overcomes the mRNA export block caused by the presence of saturating amounts of CTE (constitutive transport element) RNA of type D retroviruses. A variant allele of the homologous Nxf1 gene in mice suppresses a class of mutations caused by integration of an endogenous retrovirus (intracisternal A particle) into an intron.",
+            "score": 47.277726888656616
+        },
+        {
+            "docid": "21427121_3",
+            "document": "Fragile X-associated tremor/ataxia syndrome . In contrast to FXS full mutation, which is diagnosed early in childhood, symptoms of FXTAS manifest in individuals over the age of 50. Like FXS, FXTAS is most common and most severe in males due to the mutation's X-linked inheritance pattern. FXTAS has an incidence of 40-45% (male) and 16.1% (female) among FXS premutation carriers over the age of 50.",
+            "score": 163.420485496521
+        },
+        {
+            "docid": "54421246_15",
+            "document": "Spinocerebellar ataxia type 1 . The mechanism by which expanded CAG repeat regions in ataxin 1 cause neuronal degeneration is unclear. It was historically believed to be caused by aggregation and deposition of the affected protein similar to other polyglutamine expansion diseases, however rodent model studies have shown significantly later formation of nuclear inclusions of mutant proteins in cerebellum and spinal cord neurons than in cortical and hippocampal neurons which typically show only mild degeneration in SCA1 persons, suggesting a more complicated mechanism. Ataxin-null mice are shown to exhibit reduced motor and spatial learning, suggesting ataxin 1 plays a role in synaptic plasticity and interactions between the motor neurons and the hippocampus. However mice lacking both copies of ataxin 1 do not develop progressive neurological symptoms or show signs of atrophy, suggesting that toxicity of the mutated protein, not loss of function, is the main mechanism for SCA1 pathology. A comparison of mRNA between ataxin null mice and mice with ataxin1 shows that there are common changes in gene expression, including upregulation of genes known to be repressed by an ataxin 1/CIC complex. This suggest that, while not the primary mechanism, a loss of ataxin 1 function contributes to the pathogenesis of SCA1. The loss of function is believed to be caused by an increased affinity for the expanded ataxin 1 for RNA Binding Motif 17, which excludes it from forming its normal complexes with CIC. The gain of function, in turn, is caused by its increased affinity for a number of other proteins.Mutant ataxin-1 also known to alter the neural circuitry of the developing cerebellum, setting the stage for later vulnerability of Purkinje cells, suggesting the existence of non-cell autonomous toxicity.",
+            "score": 53.52722644805908
+        },
+        {
+            "docid": "55595064_2",
+            "document": "Smaug (protein) . Smaug is a RNA binding protein in \"Drosophila\" that helps in maternal to zygotic transition (MZT). Named after the fictional character Smaug, the dragon in J.R.R. Tolkien's 1937 novel \"The Hobbit\". The MZT ends with the midblastula transition (MBT), which is defined as the first developmental event in \"Drosophila\" that depends on zygotic mRNA. In Drosophila, the initial developmental events are controlled by maternal mRNAs like \"Hsp83\", \"nanos\", \"string\", \"Pgc\", and \"cyclin B\" mRNA. Degradation of these mRNAs, which is expected to terminate maternal control and enable zygotic control of embryogenesis, happens at interphase of nuclear division cycle 14. During this transition smaug protein targets the maternal mRNA for destruction using miRs. Thus activating the zygotic genes. Smaug is expected to play a role in expression of three miRNAs \u2013 \"miR-3, miR-6, miR-309\" and \"miR-286\" during MZT in Drosophila. Among them smaug dependent expression of \"miR-309\" is needed for destabilization of 410 maternal mRNA. In smaug mutants almost 85% of maternal mRNA is found to be stable. Smaug also bind to 3\u2032 untranslated region (UTR) elements known as \"SMG response elements\" (SREs) on \"nanos\" mRNA and represses its expression by recruiting a protein called Cup \"(an eIF4E-binding protein that blocks the binding of eIF4G to eIF4E)\". There after it recruits deadenylation complex CCR4-NOT on to the nanos mRNA which leads to deadenylation and subsequent decay of the mRNA. It is also found to be involved in degradation and repression of maternal Hsp83 mRNA by recruiting CCR4/POP2/NOT deadenylase to the mRNA.",
+            "score": 34.52880370616913
+        },
+        {
+            "docid": "3514698_15",
+            "document": "FMR1 . FMRP translation repression acts by inhibiting the initiation of translation. FMRP directly binds CYFIP1, which in turn binds the translation initiation factor eIF4E. The FMRP-CYFIP1 complex prohibits eIF4E-dependent initiation, thereby acting to repress translation. When applied to the observed phenotype in fragile X Syndrome, the excess protein levels and reduction of translational control can be explained by the loss of translational repression by FMRP in fragile X syndrome. FMRP acts to control translation of a large group of target mRNAs; however the extent of FMRPs translational control is unknown. The protein has been shown to repress the translation of target mRNAs at synapses, including those encoding the cytoskeletal proteins Arc/Arg3.1 and MAP1B, and the CaM kinase II. In addition, FMRP binds PSD-95 and GluR1/2 mRNAs. Importantly, these FMRP-binding mRNAs play significant roles in neuronal plasticity.",
+            "score": 76.92342567443848
+        },
+        {
+            "docid": "14754034_4",
+            "document": "HNRNPC . This gene belongs to the subfamily of ubiquitously expressed heterogeneous nuclear ribonucleoproteins (hnRNPs). The hnRNPs are RNA binding proteins and they complex with heterogeneous nuclear RNA (hnRNA). These proteins are associated with pre-mRNAs in the nucleus and appear to influence pre-mRNA processing(reference: Koenig J. nature structural and Molecular Biology 2010: iCLIP) and other aspects of mRNA metabolism and transport. While all of the hnRNPs are present in the nucleus, some seem to shuttle between the nucleus and the cytoplasm. The hnRNP proteins have distinct nucleic acid binding properties. Transcriptional regulation by hormonal 1,25-dihydroxyvitamin D(3) (calcitriol) involves occupancy of vitamin D response elements (VDREs) by HNRNPC or 1,25(OH)(2)D(3)-bound vitamin D receptor (VDR). This relationship is disrupted by elevated HNRNPC, causing a form of hereditary vitamin D-resistant rickets (HVDRR) in both humans and non-human primates. The protein encoded by this gene can act as a tetramer and is involved in the assembly of 40S hnRNP particles. Species-specific tetramerization of HNRNPC subunits is important to its nucleic acid binding, whereby over-expression of major human HNRNPC subunits in mouse osteoblastic cells confers vitamin D resistance. Multiple transcript variants encoding at least two different isoforms have been described for this gene.",
+            "score": 42.56169247627258
+        },
+        {
+            "docid": "11835253_2",
+            "document": "Nuclear cap-binding protein complex . Nuclear cap-binding protein complex is a RNA-binding protein which binds to the 5' cap of pre-mRNA. The cap and nuclear cap-binding protein have many function in mRNA biogenesis including splicing, 3'-end formation by stabilizing the interaction of the 3'-end processing machinery, nuclear export and protection of the transcripts from nuclease degradation. When RNA is exported to the cytoplasm the nuclear cap-binding protein complex is replaced by cytoplasmic cap binding complex. The nuclear cap-binding complex is a functional heterodimer and composed of Cbc1/Cbc2 in yeast and CBC20/CBC80 in multicellular eukaryotes. Human nuclear cap-binding protein complex shows the large subunit, CBC80 consists of 757 amino acid residues. Its secondary structure contains approximately sixty percent of helical and one percent of beta sheet in the strand. The small subunit, CBC20 has 98 amino acid residues. Its secondary structure contains approximately twenty percent of helical and twenty-four percent of beta sheet in the strand. Human nuclear cap-binding protein complex plays important role in the maturation of pre-mRNA and uracil-rich small nuclear RNA.",
+            "score": 37.888736724853516
+        },
+        {
+            "docid": "4355487_20",
+            "document": "Apolipoprotein B . C to U editing of ApoB mRNA requires an editing complex or holoenzyme (editosome) consisting of the C to U-editing enzyme Apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1 (ApoBEC-1) as well as other auxiliary factors. ApoBEC-1 is a protein that in humans is encoded by the \"APOBEC1\" gene.[1]It is a member of the cytidine deaminase family. ApoBEC-1 alone is not sufficient for the editing of ApoB mRNA and requires at least one of these auxiliary factors, APOBEC1 complementation factor (A1CF) for editing to occur. A1CF contains 3 non identical repeats. It acts as the RNA binding subunit and directs ApoBEC-1 to the ApoB mRNA downstream of the edited cytidine. Other auxiliary factors are known to be part of the holoenzyme. Some of these proteins have been identified. these are CUG binding protein 2 (CUGBP2), SYNCRIP (glycine-arginine-tyrosine-rich RNA binding protein, GRY-RBP), heterogenous nuclear ribonucleoprotein (hnRNP)-C1, ApoBEC-1 binding protein (ABBP)1, ABBP2, KH-type splicing regulatory binding protein (KSRP), Bcl-2-associated anthogene 4 (BAG4), and auxiliary factor (AUX)240. All these proteins have been identified using detection assays and have all been demonstrated to interact with either ApoBEC-1, A1CF, or ApoB RNA. The function of these auxiliary proteins in the editing complex are unknown. As well as editing ApoB mRNA, the ApoBEC-1 editsome also edits the mRNA of NF1. mRNA editing of ApoB mRNA is the best defined example of this type of C to U RNA editing in humans.",
+            "score": 45.67663896083832
+        },
+        {
+            "docid": "14162129_8",
+            "document": "PURA . Studies of genetic inactivation of \"PURA\" in the mouse provided evidence leading to that for \"PURA\" gene disorders in brain disease. Homozygous \"PURA\" knockouts die shortly after birth with severe defects in brain layer development, tissue wasting and movement disorders. Defects in blood cell development are also prominent, and it is not known how these may affect the brain. Heterozygous knockouts do not die early but exhibit seizure-like disorders. In rat hippocampal neurons, Pur-alpha is found in the cytoplasm together with mRNA transcripts, in a complex including non-coding RNAs, Pur-beta, fragile X mental retardation proteins and microtubule-associated proteins. This complex is transported by a kinesin motor to sites of translation at junctions of nerve cell dendrites. Recently \"PURA\" mutations have been found in multiple patients with brain disorders of a similar phenotype including hypotonia, developmental delay, movement disorders, and seizure or seizure-like movements. This spectrum of brain disorders is similar to the phenotype of a central nervous system syndrome termed the 5q31.3 microdeletion syndrome, and is the basis for a proposed \"PURA\" Syndrome based on \"PURA\" mutations rather than just deletions.",
+            "score": 62.81691884994507
+        },
+        {
+            "docid": "3514698_8",
+            "document": "FMR1 . Premutations are associated with an increased risk of fragile X-associated tremor/ataxia syndrome (FXTAS). FXTAS is characterized by ataxia (loss of coordination), tremor, memory loss, loss of sensation in the lower extremities (peripheral neuropathy) and mental and behavioral changes. The disorder usually develops late in life.",
+            "score": 156.9327666759491
+        }
+    ],
+    "r": [
+        {
+            "docid": "21427121_2",
+            "document": "Fragile X-associated tremor/ataxia syndrome . Fragile X-associated tremor/ataxia syndrome (FXTAS) is a late-onset neurodegenerative disorder associated with male premutation carriers of Fragile X syndrome (FXS) over the age of 50. The main clinical features of FXTAS include problems of movement with cerebellar gait ataxia and action tremor. Associated features include parkinsonism, cognitive decline, and dysfunction of the autonomic nervous system. FXTAS is found in Fragile X \"premutation\" carriers, which is defined as a trinucleotide repeat expansion of 55-200 CGG repeats in the Fragile X mental retardation-1 (FMR1) gene. 4-40 CGG repeats in this gene is considered normal, while individual with >200 repeats have full Fragile X Syndrome.",
+            "score": 213.624267578125
+        },
+        {
+            "docid": "53142_23",
+            "document": "Fragile X syndrome . Individuals who are carriers of premutation alleles are at risk for developing fragile X-associated tremor/ataxia syndrome (FXTAS), a progressive neurodegenerative disease. It is seen in approximately half of male carriers over the age of 70, while penetrance in females is lower. Typically, onset of tremor occurs in the sixth decade of life, with subsequent progression to ataxia (loss of coordination) and gradual cognitive decline.",
+            "score": 174.09597778320312
+        },
+        {
+            "docid": "53142_25",
+            "document": "Fragile X syndrome . About 20% of women who are carriers for the fragile X premutation are affected by fragile X-related primary ovarian insufficiency (FXPOI), which is defined as menopause before the age of 40. The number of CGG repeats correlates with penetrance and age of onset. However premature menopause is more common in premutation carriers than in women with the full mutation, and for premutations with more than 100 repeats the risk of FXPOI begins to decrease. Fragile X-associated primary ovarian insufficiency (FXPOI) is one of three Fragile X-associated Disorders (FXD) caused by changes in the FMR1 gene.FXPOI affects female premutation carriers of Fragile X syndrome, which is caused by the FMR1 gene, when their ovaries are not functioning properly. Women with FXPOI may develop menopause-like symptoms but they are not actually menopausal. Women with FXPOI can still get pregnant in some cases because their ovaries occasionally release viable eggs.",
+            "score": 167.7307891845703
+        },
+        {
+            "docid": "53142_18",
+            "document": "Fragile X syndrome . Individuals with fragile X-associated tremor/ataxia syndrome (FXTAS) are likely to experience combinations of dementia, mood, and anxiety disorders. Males with the \"FMR1\" premutation and clinical evidence of FXTAS were found to have increased occurrence of somatization, obsessive\u2013compulsive disorder, interpersonal sensitivity, depression, phobic anxiety, and psychoticism.",
+            "score": 166.52743530273438
+        },
+        {
+            "docid": "47153352_12",
+            "document": "Nagwa Abdel Meguid . Meguid developed a simple molecular screening method to detect premutation carriers of fragile X syndrome. A premutation carrier is an individual who has between 55-200 CGG repeats in the Fragile X (FMR1) gene. The full mutation has over 200 CGG repeats. The procedure included a rapid modified polymerase chain reaction (PCR)-based screening tool for expanded Fragile X Mental Retardation 1 (FMR1) alleles. The results showed that 16 males out of 53 males had the CGG abnormal repeats characteristic of Fragile X gene. 10 of their mothers and 4 of their sisters also had the FMR1 premutation. 66.6% consanguineous marriages were present in the families studied. It was concluded that fragile X syndrome was ruled out of families with consanguineous parents. Instead, fragile X syndrome could be contributed to earlier carrier detection, which may reduce the number of affected children. By isolating the mutation early, the effects of the disease could be reduced in children and in their development.",
+            "score": 163.9529571533203
+        },
+        {
+            "docid": "21427121_3",
+            "document": "Fragile X-associated tremor/ataxia syndrome . In contrast to FXS full mutation, which is diagnosed early in childhood, symptoms of FXTAS manifest in individuals over the age of 50. Like FXS, FXTAS is most common and most severe in males due to the mutation's X-linked inheritance pattern. FXTAS has an incidence of 40-45% (male) and 16.1% (female) among FXS premutation carriers over the age of 50.",
+            "score": 163.4204864501953
+        },
+        {
+            "docid": "3514698_8",
+            "document": "FMR1 . Premutations are associated with an increased risk of fragile X-associated tremor/ataxia syndrome (FXTAS). FXTAS is characterized by ataxia (loss of coordination), tremor, memory loss, loss of sensation in the lower extremities (peripheral neuropathy) and mental and behavioral changes. The disorder usually develops late in life.",
+            "score": 156.93276977539062
+        },
+        {
+            "docid": "53142_2",
+            "document": "Fragile X syndrome . Fragile X syndrome (FXS) is a genetic disorder. Symptoms often include mild to moderate intellectual disability. Physical features may include a long and narrow face, large ears, flexible fingers, and large testicles. About a third of those affected have features of autism such as problems with social interactions and delayed speech. Hyperactivity is common and seizures occur in about 10%. Males are usually more affected than females. Fragile X syndrome is typically due to an expansion of the CGG triplet repeat within the \"Fragile X mental retardation 1\" (\"FMR1\") gene on the X chromosome. This results in not enough fragile X mental retardation protein (FMRP), which is required for normal development of the connection between neurons. Diagnosis is by genetic testing to determine the number of CGG repeats in the FMRI gene. Normal is between 5 and 40 repeats, fragile X syndrome occurs with more than 200, and a premutation is said to be present when a middle number of repeats occurs. Testing for premutation carriers may allow for genetic counseling. There is no cure. Early intervention is recommended as it provides the most opportunity for developing a full range of skills. These interventions may include special education, speech therapy, physical therapy, or behavioral therapy. Medications may be used to treat associated seizures, mood problems, aggressive behavior, or ADHD. Fragile X syndrome occurs in about 1 in 4,000 males and 1 in 8,000 females.",
+            "score": 149.9425048828125
+        },
+        {
+            "docid": "1435541_19",
+            "document": "Non-Mendelian inheritance . Trinucleotide repeat disorders also follow a non-Mendelian pattern of inheritance. These diseases are all caused by the expansion of microsatellite tandem repeats consisting of a stretch of three nucleotides. Typically in individuals, the number of repeated units is relatively low. With each successive generation, there is a chance that the number of repeats will expand. As this occurs, progeny can progress to premutation and ultimately affected status. Individuals with a number of repeats that falls in the premutation range have a good chance of having affected children. Those who progress to affected status will exhibit symptoms of their particular disease. Prominent trinucleotide repeat disorders include Fragile X syndrome and Huntington's disease. In the case of Fragile X syndrome it is thought that the symptoms result from the increased methylation and accompanying reduced expression of the fragile X mental retardation gene in individuals with a sufficient number of repeats.",
+            "score": 137.11354064941406
+        },
+        {
+            "docid": "53142_31",
+            "document": "Fragile X syndrome . The explanation for this phenomenon is that male carriers pass on their premutation to all of their daughters, with the length of the \"FMR1\" CGG repeat typically not increasing during meiosis, the cell division that is required to produce sperm. Incidentally, males with a full mutation only pass on premutations to their daughters. However, females with a full mutation are able to pass this full mutation on, so theoretically there is a 50% chance that a child will be affected. In addition, the length of the CGG repeat frequently does increase during meiosis in female premutation carriers due to instability and so, depending on the length of their premutation, they may pass on a full mutation to their children who will then be affected.",
+            "score": 134.43695068359375
+        },
+        {
+            "docid": "2956658_4",
+            "document": "Sherman paradox . The paradox was ultimately explained by insights into the mutation process that gives rise to the syndrome. Sherman theorized that the gene responsible for Fragile X syndrome becomes mutated through a two-step process. The first mutation, called the 'premutation', doesn't cause any clinical symptoms. A second mutation was required to convert the 'premutation' into a 'full mutation' capable of causing the clinical symptoms associated with Fragile X syndrome. Additionally, premutations must pass through females in order to transform into the full mutation.",
+            "score": 131.5517120361328
+        },
+        {
+            "docid": "21427121_4",
+            "document": "Fragile X-associated tremor/ataxia syndrome . FMR1 mRNA is found to be elevated in patients with FXTAS in contrast to FXS, where the FMR1 gene is transcriptionally silenced via DNA methylation. In both diseases the FMR1 gene product, Fragile X mental retardation protein (FMRP) is diminished, but in FXTAS this is believed to be mediated by RNA toxicity, while in FXS, FMRP is absent due to transcriptional silencing.",
+            "score": 128.1536407470703
+        },
+        {
+            "docid": "50971666_2",
+            "document": "Randi J. Hagerman . Randi J. Hagerman, M.D. is the medical director of MIND Institute at the University of California, Davis. She is internationally recognized researcher in the field of genetics of autism spectrum disorder with special focus on genomic instability. She has published many papers on the topic of repeat expansion and genetics of neurodevelopmental disorders (e.g. Fragile-X). She has discovered the Fragile X-associated tremor/ataxia syndrome (FXTAS), a neurological disorder that affects older male and rare female carriers of fragile X.",
+            "score": 127.14561462402344
+        },
+        {
+            "docid": "53142_35",
+            "document": "Fragile X syndrome . Since the 1990s, more sensitive molecular techniques have been used to determine carrier status. The fragile X abnormality is now directly determined by analysis of the number of CGG repeats using polymerase chain reaction (PCR) and methylation status using Southern blot analysis. By determining the number of CGG repeats on the X chromosome, this method allows for more accurate assessment of risk for premutation carriers in terms of their own risk of fragile X associated syndromes, as well as their risk of having affected children. Because this method only tests for expansion of the CGG repeat, individuals with FXS due to missense mutations or deletions involving \"FMR1\" will not be diagnosed using this test and should therefore undergo sequencing of the FMR1 gene if there is clinical suspicion of FXS.",
+            "score": 121.98326110839844
+        },
+        {
+            "docid": "21427121_14",
+            "document": "Fragile X-associated tremor/ataxia syndrome . FXTAS has shown strong age-dependent penetrance, afflicting older permutation carriers with greater prevalence. Male carriers, age 50 and above have a 30% chance of acquiring FXTAS, while male carriers, age 75 and above, have a 75% chance of developing FXTAS. While initially described to affect male carriers, female carriers of the FMR1 gene mutation have also been found to develop FXTAS. However, due to X-inactivation, female carriers are much less likely to develop classic ataxia and tremor signs for FXTAS, instead demonstrating symptoms such as fibromyalgia, thyroid disease, hypertension, and seizures.",
+            "score": 121.28815460205078
+        },
+        {
+            "docid": "32942616_2",
+            "document": "FMR1-AS1 gene . In molecular biology, FMR1 antisense RNA 1 (FMR1-AS1), also known as ASFMR1 or FMR4, is a long non-coding RNA. The FMR1-AS1 gene overlaps, and is antisense to, the CGG repeat region of the FMR1 gene. Its expression is upregulated in fragile X syndrome premutation carriers, and silenced in patients with fragile X syndrome. FMR1-AS1 has an anti-apoptotic function.",
+            "score": 120.10240173339844
+        },
+        {
+            "docid": "3514698_7",
+            "document": "FMR1 . A CGG sequence in the \"FMR1\" gene that is repeated between 55 and 200 times is described as a premutation. Although most individuals with the premutation are intellectually normal, some of these individuals have mild versions of the physical features seen in fragile X syndrome (such as prominent ears) and may experience mental health problems such as anxiety or depression.",
+            "score": 119.80711364746094
+        },
+        {
+            "docid": "53142_27",
+            "document": "Fragile X syndrome . In unaffected individuals, the \"FMR1\" gene contains 5\u201344 repeats of the sequence CGG, most commonly 29 or 30 repeats. Between 45-54 repeats is considered a \"grey zone\", with a premutation allele generally considered to be between 55 and 200 repeats in length. Individuals with fragile X syndrome have a full mutation of the \"FMR1\" allele, with over 200 CGG repeats. In these individuals with a repeat expansion greater than 200, there is methylation of the CGG repeat expansion and \"FMR1\" promoter, leading to the silencing of the \"FMR1\" gene and a lack of its product.",
+            "score": 119.3243179321289
+        },
+        {
+            "docid": "4238684_19",
+            "document": "G-quadruplex . Fragile X mental retardation protein (FMRP) is a widely expressed protein coded by the fragile X mental retardation gene 1 (FMR1) that binds to G-quadruplex secondary structures in neurons and is involved in synaptic plasticity. FMRP acts as a negative regulator of translation, and its binding stabilizes G-quadruplex structures in mRNA transcripts, inhibiting ribosome elongation of mRNA in the neuron's dendrite and controlling the timing of the transcript's expression. Mutations of this gene can cause the development of Fragile X Syndrome, autism, and other neurological disorders. Specifically, Fragile X Syndrome is caused by an increase from 50 to over 200 CGG repeats within exon 13 of the FMR1 gene. This repeat expansion promotes DNA methylation and other epigenetic heterochromatin modifications of FMR1 that prevent the transcription of the gene, leading to pathological low levels of FMRP.",
+            "score": 113.17861938476562
+        },
+        {
+            "docid": "21427121_8",
+            "document": "Fragile X-associated tremor/ataxia syndrome . FXTAS can be diagnosed using a combination of molecular, clinical, and radiological findings. In order for individuals to acquire FXTAS, they must first be permutation carriers, having between 55-200 CGG trinucleotide repeat expansion of the FMR1 gene. A definite, probable, or possible diagnosis of FXTAS can be assigned based on a clinician's confidence based on combined clinical or radiological findings in conjunction with the molecular permutation.",
+            "score": 112.52465057373047
+        },
+        {
+            "docid": "21427121_11",
+            "document": "Fragile X-associated tremor/ataxia syndrome . The medical management of FXTAS aims to reduce the level of disability and minimize symptoms. Presently, there are many gaps in the research on the management of FXTAS, as the disorder was first described in the literature in 2001. There is no treatment modality aimed at reversing the pathogenesis of FXTAS. However, there are a variety of drug therapies that are being utilized in the management of FXTAS symptoms, although there is a lack of randomized control trials assessing the efficacy these therapies and support is limited to anecdotal evidence. Therefore, many of the treatments are based on what has been helpful in disorders with similar clinical presentations.",
+            "score": 108.12753295898438
+        },
+        {
+            "docid": "21427121_9",
+            "document": "Fragile X-associated tremor/ataxia syndrome . Clinical findings are divided into major and minor symptoms. Major symptoms include intention tremor and gait ataxia. Minor symptoms such as parkinsonism, short-term memory deficit, and executive function decline can further contribute to a diagnosis of FXTAS. Radiological findings are similarly divided into major and minor categories. As patients with FXTAS can have distinct brain scans from other movement disorders, a scan showing white matter lesions of the middle cerebellar peduncle is a major finding that can be attributed to FXTAS. Overall or generalized brain tissue atrophy and cerebral white matter lesions can also be minor indicators for a diagnosis.",
+            "score": 104.59793090820312
+        },
+        {
+            "docid": "21427121_12",
+            "document": "Fragile X-associated tremor/ataxia syndrome . There is no cure for FXTAS. Current treatment includes medications for alleviating symptoms of tremor, ataxia, mood changes, anxiety, cognitive decline, dementia, neuropathic pain, or fibromyalgia. Neurological rehabilitation has not been studied for patients with FXTAS but should also be considered as a possible form of therapy. Additionally, occupational and physical therapy may help to improve performance of functional tasks.",
+            "score": 102.66802978515625
+        },
+        {
+            "docid": "21427121_5",
+            "document": "Fragile X-associated tremor/ataxia syndrome . There is no cure for FXTAS, but several of the symptoms can be managed with medication.",
+            "score": 102.40205383300781
+        },
+        {
+            "docid": "53142_13",
+            "document": "Fragile X syndrome . Females with FXS frequently display shyness, social anxiety and social avoidance or withdrawal. In addition, premutation in females has been found to be associated with social anxiety.",
+            "score": 102.2157974243164
+        },
+        {
+            "docid": "21427121_7",
+            "document": "Fragile X-associated tremor/ataxia syndrome . An individual with FXTAS may also exhibit the following symptoms: a decrease in cognition, which includes diminishing short-term memory and executive function skills, declining math and spelling abilities and decision-making abilities. FXTAS may also result in changes in personality, due to alterations of the limbic area in the brain. This includes increased irritability, angry outbursts, and impulsive behaviour",
+            "score": 102.02044677734375
+        },
+        {
+            "docid": "21427121_13",
+            "document": "Fragile X-associated tremor/ataxia syndrome . The progression of symptoms varies widely between each case of FXTAS; the onset of symptoms may be gradual, with progression of the disease spanning multiple years or decades. Alternatively, symptoms may progress rapidly.",
+            "score": 101.58409881591797
+        },
+        {
+            "docid": "21427121_6",
+            "document": "Fragile X-associated tremor/ataxia syndrome . The physical symptoms of FXTAS include an intention tremor, cerebellar ataxia, and parkinsonism. This includes small, shuffling steps, muscle rigidity and slowed speech, as well as neuropathic symptoms. As the disease progresses to the more advanced stages, an individual with FXTAS is also at risk of autonomic dysfunction: hypertension, bowel and bladder dysfunction, and impotence.",
+            "score": 100.59049987792969
+        },
+        {
+            "docid": "2956658_6",
+            "document": "Sherman paradox . In normal individuals, an insertion of extra CGGs is unlikely. However, as the length of the repeat increases, the probability of additional triplet insertions increases. When the expansion reaches the danger range, the carrier is still unaffected, but the risk of further mutation becomes significant. This is called the premutation range. Once the Fragile X syndrome emerges, symptoms worsen from generation to generation because of the self-promoting aspect of the mutation.",
+            "score": 99.92594909667969
+        },
+        {
+            "docid": "49980451_2",
+            "document": "RNA-dominant disease . RNA-dominant diseases are characterized by deleterious mutations that typically result in degenerative disorders affecting various neurological, cardiovascular, and muscular functions. Studies have found that they arise from repetitive non-coding RNA sequences, also known as toxic RNA, which inhibit RNA-binding proteins leading to pathogenic effects. The most studied RNA-dominant diseases include, but are not limited to, myotonic dystrophy and fragile X-associated tremor/ataxia syndrome (FXTAS).",
+            "score": 97.36304473876953
+        },
+        {
+            "docid": "14352336_5",
+            "document": "Marcus Pembrey . Since 1979 his research has focused on \u2018non-Mendelian inheritance\u2019; first on the inheritance of Fragile X Syndrome for which he proposed a \u2019premutation\u2019 in 1985. and then Angelman Syndrome - an early example of genomic imprinting in humans. This latter research led in 1996 to a speculative paper on transgenerational modulation of gene expression. in which he refers to himself as a Neo-Lamarckian, a term he no longer uses.",
+            "score": 95.88611602783203
+        },
+        {
+            "docid": "46357676_10",
+            "document": "Ying-Hui Fu . When Fu did her post-doctoral work in Baylor College, she was part of the team that was positional cloning the Fragile-X syndrome gene. There, she studied the trinucleotide repeat sequence expansions, the mutations responsible for the Fragile-X Syndrome, and their correlation with disease severity and age of onset. This work led to the discovery of underlying molecular mechanism for genetic anticipation. Following this work, she cloned the gene responsible for Myotonic dystrophy based on the hypothesis that genetic anticipation in Myotonic dystrophy is also caused by trinucleotide repeat expansion on patient DNA. This mutational mechanism is now known to cause not only Fragile X syndeome and Myotonic dystrophy, but also Huntington\u2019s disease and many of the spinocerebellar ataxias. Thus, it is a common mutational mechanism in inherited neurological diseases.",
+            "score": 95.24409484863281
+        }
+    ]
+}
