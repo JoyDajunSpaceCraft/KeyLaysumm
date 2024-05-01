@@ -133,6 +133,14 @@ python inference_rerank.py \
 ## Generate ChatGPT reasoning generation 
 
 
+## Control generation
+
+1. We use the PPO as the function for the model generation 
+
+Implemantation detail:
+
+`python control_generation.py`
+
 
 ## Evaluation 
 
