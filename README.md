@@ -132,6 +132,7 @@ python inference_rerank.py \
 
 ## Generate ChatGPT reasoning generation 
 
+Run the chatgpt results here `chatgpt_inference.ipynb`
 
 ## Control generation
 
