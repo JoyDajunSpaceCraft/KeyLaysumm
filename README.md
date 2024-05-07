@@ -1,4 +1,4 @@
-# KeyLaysum 
+# RAG-RLRC-LaySum 
 This Repo is for the layman's summary and to achieve the task over the [Biolaysumm 2024](https://biolaysumm.org/) in 2024.
 
 ## Baseline model for LED model training
